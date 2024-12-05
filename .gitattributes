@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# EAW custom: Ensures supplementary materials are read appropriately as binary and not automatically read as text
+*.docx    binary
