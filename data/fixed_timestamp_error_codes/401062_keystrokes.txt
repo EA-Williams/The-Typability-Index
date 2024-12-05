@@ -1,0 +1,777 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+401062	4328676	I'm going to class.	I'm going to class.	205619942	1477499939632	1477499939907	SHIFT	16
+401062	4328676	I'm going to class.	I'm going to class.	205619932	1477499939732	1477499939891	I	73
+401062	4328676	I'm going to class.	I'm going to class.	205619952	1477499940268	1477499940427	'	222
+401062	4328676	I'm going to class.	I'm going to class.	205619960	1477499940824	1477499940930	m	77
+401062	4328676	I'm going to class.	I'm going to class.	205619967	1477499940988	1477499941107	 	32
+401062	4328676	I'm going to class.	I'm going to class.	205619975	1477499941885	1477499941978	g	71
+401062	4328676	I'm going to class.	I'm going to class.	205620136	1477499942109	1477499942230	o	79
+401062	4328676	I'm going to class.	I'm going to class.	205620140	1477499942357	1477499942460	u	85
+401062	4328676	I'm going to class.	I'm going to class.	205620143	1477499942924	1477499943026	BKSP	8
+401062	4328676	I'm going to class.	I'm going to class.	205620150	1477499943281	1477499943395	i	73
+401062	4328676	I'm going to class.	I'm going to class.	205620156	1477499943484	1477499943587	n	78
+401062	4328676	I'm going to class.	I'm going to class.	205620160	1477499944239	1477499944357	g	71
+401062	4328676	I'm going to class.	I'm going to class.	205620212	1477499944483	1477499944619	 	32
+401062	4328676	I'm going to class.	I'm going to class.	205620216	1477499944743	1477499944794	t	84
+401062	4328676	I'm going to class.	I'm going to class.	205620217	1477499944819	1477499944899	o	79
+401062	4328676	I'm going to class.	I'm going to class.	205620221	1477499944916	1477499945061	 	32
+401062	4328676	I'm going to class.	I'm going to class.	205620225	1477499945340	1477499945502	c	67
+401062	4328676	I'm going to class.	I'm going to class.	205620295	1477499945477	1477499945555	l	76
+401062	4328676	I'm going to class.	I'm going to class.	205620297	1477499945581	1477499945699	a	65
+401062	4328676	I'm going to class.	I'm going to class.	205620299	1477499945865	1477499945955	s	83
+401062	4328676	I'm going to class.	I'm going to class.	205620301	1477499946044	1477499946163	s	83
+401062	4328676	I'm going to class.	I'm going to class.	205620303	1477499946191	1477499946307	.	190
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620875	1477499953989	1477499954331	SHIFT	16
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620870	1477499954192	1477499954307	T	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620882	1477499954693	1477499954811	h	72
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620888	1477499954832	1477499954971	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620892	1477499954931	1477499955067	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620895	1477499955164	1477499955283	m	77
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620963	1477499955324	1477499955403	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620965	1477499955476	1477499955620	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620968	1477499955684	1477499955803	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620974	1477499955925	1477499956003	i	73
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205620977	1477499956100	1477499956199	n	78
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621021	1477499956180	1477499956355	g	71
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621026	1477499956301	1477499956435	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621030	1477499956788	1477499956912	c	67
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621037	1477499956925	1477499957043	a	65
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621041	1477499957068	1477499957147	m	77
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621043	1477499957196	1477499957379	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621096	1477499957341	1477499957499	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621100	1477499957660	1477499957819	d	68
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621103	1477499957796	1477499957915	a	65
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621108	1477499957964	1477499958083	y	89
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621112	1477499958284	1477499958443	s	83
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621275	1477499958421	1477499958564	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621279	1477499959004	1477499959123	a	65
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621287	1477499959332	1477499959451	g	71
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621294	1477499959700	1477499959740	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621301	1477499959948	1477499960051	BKSP	8
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621304	1477499960123	1477499960243	BKSP	8
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621308	1477499960309	1477499960387	f	70
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621312	1477499960532	1477499960666	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621330	1477499960652	1477499960891	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621334	1477499960812	1477499960988	r	82
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621336	1477499960951	1477499961092	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621338	1477499961117	1477499961239	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621340	1477499961172	1477499961301	h	72
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621377	1477499961281	1477499961459	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621384	1477499961380	1477499961539	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621392	1477499961580	1477499961713	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621398	1477499961749	1477499961843	n	78
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621402	1477499962101	1477499962163	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621411	1477499962440	1477499962539	r	82
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621483	1477499962752	1477499962851	u	85
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621485	1477499963141	1477499963258	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621488	1477499963612	1477499963731	i	73
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621493	1477499963812	1477499963931	n	78
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621498	1477499964052	1477499964154	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621775	1477499964171	1477499964321	o	79
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621779	1477499964292	1477499964451	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621786	1477499964910	1477499965107	SHIFT	16
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621794	1477499965172	1477499965795	SHIFT	16
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621790	1477499965460	1477499965580	V	86
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621807	1477499965912	1477499966587	SHIFT	16
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621798	1477499966011	1477499966123	BKSP	8
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621805	1477499966284	1477499966403	C	67
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621809	1477499968074	1477499968171	h	72
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621985	1477499968389	1477499968603	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621990	1477499968549	1477499968691	r	82
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621994	1477499968997	1477499969171	n	78
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205621998	1477499969462	1477499969579	o	79
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622003	1477499970372	1477499970491	m	77
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622262	1477499970724	1477499970843	y	89
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622268	1477499971429	1477499971531	d	68
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622271	1477499972243	1477499972363	BKSP	8
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622274	1477499972412	1477499972509	r	82
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622278	1477499973085	1477499973163	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622281	1477499973531	1477499973635	BKSP	8
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622284	1477499973652	1477499973731	d	68
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622352	1477499973884	1477499974003	i	73
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622358	1477499974113	1477499974243	n	78
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622366	1477499974363	1477499974523	'	222
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622371	1477499974551	1477499974763	s	83
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622454	1477499974683	1477499974883	 	32
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622460	1477499975092	1477499975211	t	84
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622464	1477499975237	1477499975395	e	69
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622469	1477499975582	1477499975763	a	65
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622478	1477499975780	1477499975899	m	77
+401062	4328700	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entru into Chernomyrdin's team.	205622486	1477499976140	1477499976259	.	190
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622762	1477499978093	1477499978521	SHIFT	16
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622759	1477499978316	1477499978451	T	84
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622766	1477499978493	1477499978595	H	72
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622773	1477499978611	1477499978795	e	69
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622778	1477499978716	1477499978915	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622782	1477499979676	1477499979779	BKSP	8
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622786	1477499979851	1477499979955	BKSP	8
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622792	1477499980019	1477499980123	BKSP	8
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622799	1477499980397	1477499980451	h	72
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622878	1477499980597	1477499980779	e	69
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622884	1477499980756	1477499980875	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622890	1477499981232	1477499981355	f	70
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622895	1477499981412	1477499981547	o	79
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205622902	1477499981621	1477499981715	u	85
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623067	1477499981961	1477499982059	r	82
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623070	1477499982891	1477499983011	-	189
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623073	1477499983412	1477499983531	c	67
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623077	1477499983580	1477499983699	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623084	1477499983789	1477499983891	t	84
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623158	1477499983932	1477499984029	y	89
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623161	1477499984508	1477499984628	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623166	1477499984724	1477499984819	t	84
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623171	1477499984893	1477499985052	o	79
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623357	1477499985036	1477499985156	u	85
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623361	1477499985405	1477499985523	r	82
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623366	1477499985691	1477499985827	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623373	1477499986342	1477499986459	c	67
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623379	1477499986549	1477499986690	a	65
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623385	1477499987123	1477499987219	BKSP	8
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623392	1477499987444	1477499987587	o	79
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623454	1477499987680	1477499987794	n	78
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623458	1477499988084	1477499988187	t	84
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623462	1477499988204	1477499988307	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623467	1477499988432	1477499988587	n	78
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623470	1477499988604	1477499988723	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623686	1477499989231	1477499989331	BKSP	8
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623692	1477499989533	1477499989651	u	85
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623700	1477499989692	1477499989892	e	69
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623707	1477499989852	1477499989954	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623713	1477499990863	1477499991218	SHIFT	16
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623717	1477499991164	1477499991259	F	70
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623721	1477499991381	1477499991483	r	82
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623734	1477499991502	1477499991619	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623744	1477499991772	1477499991979	d	68
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623751	1477499991917	1477499992035	a	65
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623758	1477499992084	1477499992147	y	89
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623764	1477499992443	1477499992539	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623838	1477499992717	1477499992819	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623843	1477499992893	1477499993019	n	78
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623848	1477499992955	1477499993075	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623857	1477499993236	1477499993683	SHIFT	16
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623854	1477499993500	1477499993603	K	75
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623861	1477499993852	1477499993995	a	65
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623964	1477499994083	1477499994195	n	78
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623968	1477499994997	1477499995115	s	83
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623971	1477499995192	1477499995352	a	65
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623975	1477499995332	1477499995510	s	83
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205623977	1477499995638	1477499995779	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624130	1477499996388	1477499996835	SHIFT	16
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624128	1477499996718	1477499996811	C	67
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624134	1477499997149	1477499997271	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624136	1477499997293	1477499997371	t	84
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624139	1477499997477	1477499997579	y	89
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624143	1477499997931	1477499998035	,	188
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624223	1477499998156	1477499998299	 	32
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624225	1477499998702	1477499998963	SHIFT	16
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624229	1477499998782	1477499998979	M	77
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624233	1477499999004	1477499999083	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624236	1477499999229	1477499999347	s	83
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624238	1477499999429	1477499999530	s	83
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624361	1477499999740	1477499999899	o	79
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624364	1477499999948	1477500000067	u	85
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624368	1477500000292	1477500000419	r	82
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624374	1477500000621	1477500000723	u	85
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624380	1477500001196	1477500001331	BKSP	8
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624386	1477500001605	1477500001723	i	73
+401062	4328745	The four-city tour continues Friday in Kansas City, Missouri.	The four-city tour continue Friday in Kansas City, Missouri.	205624461	1477500002548	1477500002691	.	190
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624654	1477500004412	1477500004611	SHIFT	16
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624655	1477500004511	1477500004651	M	77
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624661	1477500004732	1477500004901	e	69
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624666	1477500005285	1477500005404	g	71
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624671	1477500005389	1477500005551	a	65
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624675	1477500005590	1477500005723	n	78
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624838	1477500006118	1477500006219	,	188
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624847	1477500006419	1477500006563	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624863	1477500006732	1477500006971	SHIFT	16
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624855	1477500006829	1477500006955	I	73
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624871	1477500007636	1477500007781	'	222
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624874	1477500008052	1477500008170	m	77
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624898	1477500008268	1477500008371	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624902	1477500008556	1477500008691	n	78
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624906	1477500008676	1477500008795	o	79
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624909	1477500008812	1477500008979	t	84
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624985	1477500008939	1477500009035	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624989	1477500009076	1477500009220	s	83
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624995	1477500009236	1477500009359	u	85
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205624999	1477500009467	1477500009608	r	82
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625003	1477500009587	1477500009762	e	69
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625008	1477500010026	1477500010146	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625106	1477500010218	1477500010338	w	87
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625114	1477500010322	1477500010482	h	72
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625121	1477500010844	1477500010923	y	89
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625123	1477500011251	1477500011371	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625124	1477500011589	1477500011683	t	84
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625160	1477500011644	1477500011793	h	72
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625163	1477500011772	1477500011891	i	73
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625166	1477500011909	1477500012067	s	83
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625168	1477500012011	1477500012151	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625171	1477500012204	1477500012299	i	73
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625177	1477500012324	1477500012483	s	83
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625256	1477500012419	1477500012563	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625262	1477500012772	1477500012890	s	83
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625268	1477500012852	1477500013035	h	72
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625275	1477500013012	1477500013221	o	79
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625282	1477500013372	1477500013491	w	87
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625288	1477500013604	1477500013723	i	73
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625364	1477500013852	1477500013970	n	78
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625366	1477500013995	1477500014171	g	71
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625370	1477500014131	1477500014299	 	32
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625374	1477500014485	1477500014603	u	85
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625377	1477500014812	1477500014955	p	80
+401062	4328784	Megan, I'm not sure why this is showing up.	Megan, I'm not sure why this is showing up/	205625417	1477500015243	1477500015387	/	191
+401062	4328798	Will it be delivered?	Will it be delivered?	205625596	1477500017697	1477500017891	SHIFT	16
+401062	4328798	Will it be delivered?	Will it be delivered?	205625592	1477500017748	1477500017866	W	87
+401062	4328798	Will it be delivered?	Will it be delivered?	205625603	1477500018204	1477500018307	i	73
+401062	4328798	Will it be delivered?	Will it be delivered?	205625607	1477500018420	1477500018523	l	76
+401062	4328798	Will it be delivered?	Will it be delivered?	205625610	1477500018597	1477500018743	l	76
+401062	4328798	Will it be delivered?	Will it be delivered?	205625674	1477500018723	1477500018843	 	32
+401062	4328798	Will it be delivered?	Will it be delivered?	205625679	1477500019052	1477500019171	i	73
+401062	4328798	Will it be delivered?	Will it be delivered?	205625687	1477500019272	1477500019404	t	84
+401062	4328798	Will it be delivered?	Will it be delivered?	205625691	1477500019388	1477500019523	 	32
+401062	4328798	Will it be delivered?	Will it be delivered?	205625695	1477500019673	1477500019771	b	66
+401062	4328798	Will it be delivered?	Will it be delivered?	205625699	1477500019884	1477500020092	e	69
+401062	4328798	Will it be delivered?	Will it be delivered?	205625820	1477500020011	1477500020187	 	32
+401062	4328798	Will it be delivered?	Will it be delivered?	205625823	1477500020476	1477500020611	d	68
+401062	4328798	Will it be delivered?	Will it be delivered?	205625826	1477500020757	1477500020875	l	76
+401062	4328798	Will it be delivered?	Will it be delivered?	205625827	1477500021020	1477500021114	i	73
+401062	4328798	Will it be delivered?	Will it be delivered?	205625828	1477500021331	1477500021430	BKSP	8
+401062	4328798	Will it be delivered?	Will it be delivered?	205625830	1477500021494	1477500021595	BKSP	8
+401062	4328798	Will it be delivered?	Will it be delivered?	205625834	1477500021620	1477500021715	e	69
+401062	4328798	Will it be delivered?	Will it be delivered?	205625840	1477500021872	1477500022115	l	76
+401062	4328798	Will it be delivered?	Will it be delivered?	205625883	1477500022076	1477500022211	i	73
+401062	4328798	Will it be delivered?	Will it be delivered?	205625887	1477500022444	1477500022523	v	86
+401062	4328798	Will it be delivered?	Will it be delivered?	205625891	1477500022669	1477500022867	e	69
+401062	4328798	Will it be delivered?	Will it be delivered?	205625897	1477500022828	1477500022990	r	82
+401062	4328798	Will it be delivered?	Will it be delivered?	205625903	1477500023052	1477500023171	e	69
+401062	4328798	Will it be delivered?	Will it be delivered?	205625907	1477500023272	1477500023427	d	68
+401062	4328798	Will it be delivered?	Will it be delivered?	205625981	1477500023629	1477500024227	SHIFT	16
+401062	4328798	Will it be delivered?	Will it be delivered?	205625978	1477500023868	1477500024003	>	190
+401062	4328798	Will it be delivered?	Will it be delivered?	205625985	1477500024308	1477500024442	SHIFT	16
+401062	4328798	Will it be delivered?	Will it be delivered?	205625987	1477500024403	1477500024523	BKSP	8
+401062	4328798	Will it be delivered?	Will it be delivered?	205625992	1477500024743	1477500025283	SHIFT	16
+401062	4328798	Will it be delivered?	Will it be delivered?	205625990	1477500025084	1477500025178	?	191
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626179	1477500027300	1477500027621	SHIFT	16
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626174	1477500027444	1477500027564	J	74
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626185	1477500028262	1477500028355	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626191	1477500028403	1477500028523	a	65
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626194	1477500028549	1477500028671	n	78
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626198	1477500028949	1477500029075	g	71
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626233	1477500029188	1477500029308	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626235	1477500029432	1477500029530	m	77
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626237	1477500029549	1477500029667	a	65
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626241	1477500029853	1477500029947	d	68
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626246	1477500030068	1477500030259	e	69
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626288	1477500030180	1477500030339	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626293	1477500030404	1477500030510	t	84
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626297	1477500030484	1477500030587	h	72
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626301	1477500030563	1477500030723	e	69
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626309	1477500030668	1477500030831	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626316	1477500030972	1477500031115	c	67
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626337	1477500031052	1477500031199	o	79
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626338	1477500031284	1477500031363	m	77
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626340	1477500031436	1477500031523	m	77
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626343	1477500031542	1477500031659	e	69
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626348	1477500031684	1477500031803	n	78
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626378	1477500031780	1477500031922	t	84
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626384	1477500031939	1477500032107	s	83
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626389	1477500032044	1477500032190	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626392	1477500032237	1477500032323	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626397	1477500032411	1477500032490	n	78
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626403	1477500032531	1477500032651	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626446	1477500032669	1477500032851	a	65
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626449	1477500032811	1477500032971	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626452	1477500033244	1477500033347	m	77
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626458	1477500033476	1477500033595	e	69
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626462	1477500033676	1477500033835	e	69
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626476	1477500033911	1477500034031	t	84
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626478	1477500034141	1477500034219	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626482	1477500034359	1477500034475	n	78
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626485	1477500034500	1477500034683	g	71
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626515	1477500034645	1477500034779	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626520	1477500034949	1477500035075	w	87
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626526	1477500035092	1477500035171	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626532	1477500035244	1477500035347	t	84
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626536	1477500035373	1477500035470	h	72
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626615	1477500035451	1477500035588	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626618	1477500035692	1477500035899	SHIFT	16
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626622	1477500035796	1477500035919	M	77
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626627	1477500036076	1477500036219	a	65
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626629	1477500036277	1477500036371	l	76
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626634	1477500036437	1477500036579	a	65
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626640	1477500036863	1477500036979	y	89
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626711	1477500037215	1477500037307	s	83
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626712	1477500037732	1477500037851	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626715	1477500037911	1477500038051	a	65
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626719	1477500038068	1477500038171	n	78
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626726	1477500038244	1477500038363	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626930	1477500038782	1477500038939	p	80
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626935	1477500038916	1477500039139	SHIFT	16
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626940	1477500039603	1477500039699	BKSP	8
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626950	1477500039795	1477500040355	SHIFT	16
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626946	1477500040076	1477500040179	{	219
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626954	1477500041021	1477500041138	BKSP	8
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626960	1477500041203	1477500041531	SHIFT	16
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626957	1477500041362	1477500041510	P	80
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626963	1477500041844	1477500041948	r	82
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205626966	1477500042148	1477500042227	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627015	1477500042360	1477500042450	m	77
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627016	1477500042476	1477500042651	e	69
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627017	1477500042596	1477500042755	 	32
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627018	1477500043052	1477500043251	SHIFT	16
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627019	1477500043155	1477500043275	M	77
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627021	1477500043452	1477500043531	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627054	1477500043644	1477500043765	n	78
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627057	1477500043740	1477500043859	i	73
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627062	1477500043996	1477500044115	s	83
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627065	1477500044229	1477500044323	t	84
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627068	1477500044437	1477500044555	s	83
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627122	1477500044580	1477500044739	r	82
+401062	4328814	Jiang made the comments in a meeting with Malaysian Prime Minister.	Jiang made the comments in a meeting with Malaysian Prime Ministsr.	205627125	1477500045140	1477500045258	.	190
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627272	1477500047268	1477500047467	SHIFT	16
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627269	1477500047373	1477500047451	I	73
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627274	1477500047492	1477500047679	 	32
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627279	1477500047782	1477500047899	d	68
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627286	1477500047958	1477500048051	i	73
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627290	1477500048123	1477500048204	d	68
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627391	1477500048423	1477500048555	n	78
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627394	1477500048933	1477500049076	'	222
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627396	1477500049101	1477500049277	t	84
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627398	1477500049260	1477500049396	 	32
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627401	1477500049756	1477500049862	h	72
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627462	1477500049902	1477500050034	e	69
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627464	1477500050019	1477500050221	a	65
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627468	1477500050277	1477500050435	r	82
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627472	1477500050523	1477500050683	 	32
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627476	1477500051023	1477500051139	f	70
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627560	1477500051229	1477500051351	r	82
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627561	1477500051397	1477500051515	o	79
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627562	1477500051580	1477500051675	m	77
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627564	1477500051660	1477500051821	 	32
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627636	1477500052036	1477500052515	SHIFT	16
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627568	1477500052316	1477500052460	G	71
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627638	1477500053123	1477500053227	i	73
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627640	1477500053324	1477500053443	n	78
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627642	1477500053508	1477500053627	g	71
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627643	1477500053732	1477500053907	e	69
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627709	1477500053871	1477500054035	r	82
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627714	1477500054012	1477500054183	 	32
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627718	1477500054324	1477500054419	t	84
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627723	1477500054380	1477500054522	h	72
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627731	1477500054484	1477500054603	i	73
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627735	1477500054620	1477500054803	s	83
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627789	1477500054851	1477500055028	 	32
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627790	1477500055364	1477500055467	w	87
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627792	1477500055552	1477500055643	e	69
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627795	1477500055708	1477500055851	e	69
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627858	1477500055836	1477500055995	k	75
+401062	4328843	I didn't hear from Ginger this week.	I didn't hear from Ginger this week.	205627863	1477500056355	1477500056475	.	190
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628047	1477500058124	1477500058411	SHIFT	16
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628042	1477500058269	1477500058387	J	74
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628050	1477500058548	1477500058683	a	65
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628054	1477500058709	1477500058803	n	78
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628057	1477500059093	1477500059195	e	69
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628059	1477500059491	1477500059611	,	188
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628084	1477500059756	1477500059891	 	32
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628086	1477500060221	1477500060314	w	87
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628089	1477500060343	1477500060458	h	72
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628092	1477500060515	1477500060699	a	65
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628097	1477500060716	1477500060887	t	84
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628146	1477500060861	1477500060994	 	32
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628149	1477500061083	1477500061242	a	65
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628151	1477500061250	1477500061387	b	66
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628152	1477500061428	1477500061571	o	79
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628153	1477500061592	1477500061691	u	85
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628154	1477500061772	1477500061931	t	84
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628180	1477500061991	1477500062131	 	32
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628181	1477500062297	1477500062411	t	84
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628182	1477500062371	1477500062516	h	72
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628183	1477500062492	1477500062611	i	73
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628185	1477500062636	1477500062795	s	83
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628324	1477500062715	1477500062875	 	32
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628332	1477500063084	1477500063467	SHIFT	16
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628328	1477500063294	1477500063412	T	84
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628336	1477500063524	1477500063643	h	72
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628340	1477500064012	1477500064114	u	85
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628343	1477500064261	1477500064403	r	82
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628346	1477500064832	1477500064971	s	83
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628479	1477500065414	1477500065512	f	70
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628483	1477500065910	1477500066028	BKSP	8
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628488	1477500066579	1477500066723	d	68
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628492	1477500066740	1477500066867	a	65
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628497	1477500066916	1477500067011	y	89
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628500	1477500067301	1477500067419	 	32
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628558	1477500067532	1477500067660	f	70
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628563	1477500067636	1477500067755	o	79
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628566	1477500067780	1477500067959	r	82
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628569	1477500067876	1477500068035	 	32
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628573	1477500068284	1477500068507	l	76
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628680	1477500068620	1477500068740	u	85
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628684	1477500068924	1477500069043	n	78
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628691	1477500069199	1477500069316	c	67
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628696	1477500069292	1477500069412	h	72
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628723	1477500069781	1477500070619	SHIFT	16
+401062	4328855	Jane, what about this Thursday for lunch?	Jane, what about this Thursday for lunch?	205628703	1477500070219	1477500070355	?	191
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205628886	1477500072540	1477500072723	SHIFT	16
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205628888	1477500072604	1477500072815	M	77
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205628891	1477500072793	1477500072923	o	79
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205628894	1477500072988	1477500073083	n	78
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205628896	1477500073124	1477500073251	s	83
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205628898	1477500073340	1477500073502	t	84
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629039	1477500073475	1477500073636	 	32
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629041	1477500073883	1477500073979	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629045	1477500074077	1477500074155	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629052	1477500074271	1477500074307	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629056	1477500074396	1477500074475	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629062	1477500074516	1477500074662	s	83
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629067	1477500074636	1477500074861	t	84
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629070	1477500074779	1477500074963	 	32
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629071	1477500075716	1477500075835	c	67
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629073	1477500075852	1477500075931	o	79
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629090	1477500076020	1477500076154	n	78
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629095	1477500076139	1477500076258	t	84
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629098	1477500076283	1477500076402	e	69
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629101	1477500076420	1477500076563	n	78
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629104	1477500076582	1477500076699	d	68
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629150	1477500076830	1477500077115	e	69
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629152	1477500076997	1477500077171	r	82
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629154	1477500077236	1477500077419	s	83
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629156	1477500077355	1477500077515	 	32
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629160	1477500077588	1477500077707	h	72
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629205	1477500077764	1477500077899	e	69
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629209	1477500077972	1477500078108	r	82
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629213	1477500078092	1477500078291	e	69
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629217	1477500078236	1477500078371	 	32
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629221	1477500078540	1477500078643	u	85
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629261	1477500078660	1477500078803	s	83
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629264	1477500078788	1477500079003	e	69
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629267	1477500078948	1477500079123	 	32
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629269	1477500079279	1477500079429	h	72
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629401	1477500079400	1477500079538	i	73
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629403	1477500079557	1477500079715	s	83
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629406	1477500079635	1477500079795	 	32
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629413	1477500079948	1477500080691	SHIFT	16
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629409	1477500080332	1477500080429	G	71
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629432	1477500080772	1477500081379	SHIFT	16
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629419	1477500080860	1477500080979	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629425	1477500081109	1477500081194	F	70
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629439	1477500081804	1477500081923	o	79
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629537	1477500081972	1477500082075	r	82
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629538	1477500082901	1477500083062	d	68
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629539	1477500083235	1477500083379	-	189
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629544	1477500084092	1477500084559	SHIFT	16
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629541	1477500084357	1477500084475	V	86
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629546	1477500084620	1477500084740	o	79
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629687	1477500084996	1477500085099	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629690	1477500085172	1477500085291	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629697	1477500085419	1477500085939	SHIFT	16
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629702	1477500085820	1477500085963	C	67
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629708	1477500086372	1477500086491	o	79
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629713	1477500087102	1477500087219	s	83
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629716	1477500087540	1477500087643	w	87
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629718	1477500087708	1477500087791	i	73
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629793	1477500087869	1477500087971	t	84
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629797	1477500088276	1477500088371	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629800	1477500088451	1477500088571	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629804	1477500089063	1477500089163	o	79
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629808	1477500089222	1477500089315	r	82
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629815	1477500089439	1477500089531	t	84
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629934	1477500089476	1477500089571	h	72
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629938	1477500089643	1477500089803	 	32
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629942	1477500090272	1477500090363	e	69
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629948	1477500090389	1477500090483	n	78
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629951	1477500090654	1477500090755	d	68
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629955	1477500091036	1477500091131	BKSP	8
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629958	1477500091172	1477500091315	g	71
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629992	1477500091402	1477500091531	i	73
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205629999	1477500091676	1477500091755	n	78
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205630005	1477500092004	1477500092190	e	69
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205630013	1477500092164	1477500092347	s	83
+401062	4328873	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	205630016	1477500092555	1477500092661	.	190
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630196	1477500094913	1477500095227	SHIFT	16
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630197	1477500095084	1477500095243	W	87
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630198	1477500095332	1477500095475	e	69
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630201	1477500095539	1477500095701	 	32
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630204	1477500095900	1477500096042	h	72
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630288	1477500096022	1477500096164	o	79
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630293	1477500096540	1477500096662	p	80
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630297	1477500096796	1477500096995	e	69
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630299	1477500097139	1477500097299	 	32
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630303	1477500097391	1477500097508	y	89
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630329	1477500097468	1477500097671	o	79
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630333	1477500097652	1477500097757	u	85
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630339	1477500097731	1477500097867	 	32
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630343	1477500098220	1477500098323	f	70
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630347	1477500098340	1477500098507	o	79
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630374	1477500098484	1477500098563	u	85
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630376	1477500098732	1477500098811	n	78
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630378	1477500098836	1477500099062	d	68
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630380	1477500098979	1477500099139	 	32
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630384	1477500099316	1477500099419	t	84
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630420	1477500099397	1477500099558	h	72
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630424	1477500099529	1477500099643	i	73
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630430	1477500099660	1477500099843	s	83
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630433	1477500099763	1477500099940	 	32
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630438	1477500100132	1477500100251	i	73
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630442	1477500100342	1477500100443	n	78
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630468	1477500100500	1477500100620	f	70
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630472	1477500100644	1477500100763	o	79
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630476	1477500100782	1477500100899	r	82
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630481	1477500100948	1477500101071	m	77
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630536	1477500101044	1477500101227	a	65
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630541	1477500101204	1477500101349	t	84
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630545	1477500101308	1477500101491	i	73
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630548	1477500101412	1477500101531	o	79
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630550	1477500101652	1477500101771	n	78
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630552	1477500101797	1477500101931	 	32
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630678	1477500102316	1477500102435	u	85
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630683	1477500102477	1477500102659	s	83
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630687	1477500102620	1477500102780	e	69
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630690	1477500103292	1477500103411	g	71
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630695	1477500103883	1477500103987	BKSP	8
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630700	1477500104028	1477500104123	f	70
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630747	1477500104356	1477500104475	u	85
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630749	1477500104582	1477500104723	l	76
+401062	4328899	We hope you found this information useful.	We hope you found this information useful.	205630753	1477500104883	1477500105003	.	190
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205630925	1477500106643	1477500106951	SHIFT	16
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205630926	1477500106789	1477500106989	A	65
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205630927	1477500107037	1477500107131	m	77
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205630928	1477500107492	1477500107595	 	32
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205630930	1477500107836	1477500108019	SHIFT	16
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205630934	1477500107940	1477500108070	I	73
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631079	1477500108044	1477500108179	 	32
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631082	1477500108548	1477500108667	g	71
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631085	1477500108764	1477500108947	e	69
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631088	1477500109808	1477500109899	t	84
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631091	1477500110020	1477500110139	t	84
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631093	1477500110412	1477500110531	i	73
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631106	1477500110637	1477500110739	n	78
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631110	1477500110716	1477500110907	g	71
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631114	1477500110836	1477500110938	 	32
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631118	1477500110989	1477500111147	a	65
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631225	1477500111107	1477500111275	 	32
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631229	1477500112064	1477500112163	g	71
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631232	1477500112277	1477500112380	o	79
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631235	1477500112452	1477500112555	o	79
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631238	1477500112572	1477500112756	d	68
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631301	1477500112716	1477500112851	 	32
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631309	1477500113155	1477500113275	p	80
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631316	1477500113316	1477500113420	a	65
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631325	1477500113652	1477500113771	c	67
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631329	1477500113876	1477500113997	k	75
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631333	1477500114317	1477500114419	a	65
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631476	1477500114820	1477500114952	g	71
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631477	1477500115029	1477500115147	e	69
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631483	1477500115468	1477500115947	SHIFT	16
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631480	1477500115631	1477500115771	>	190
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631485	1477500116022	1477500116163	SHIFT	16
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631487	1477500116203	1477500116323	BKSP	8
+401062	4328914	Am I getting a good package?	Am I getting a good package?	205631491	1477500116832	1477500116910	?	191
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631852	1477500121067	1477500121499	SHIFT	16
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631850	1477500121261	1477500121421	D	68
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631854	1477500122364	1477500122469	o	79
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631856	1477500122511	1477500122627	 	32
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631859	1477500122716	1477500122811	w	87
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631862	1477500122862	1477500122995	e	69
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631914	1477500123019	1477500123181	 	32
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631918	1477500123281	1477500123379	n	78
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631921	1477500123420	1477500123510	e	69
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631923	1477500123592	1477500123707	e	69
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631924	1477500123832	1477500124051	d	68
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631985	1477500123996	1477500124171	 	32
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205631992	1477500124276	1477500124395	t	84
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632000	1477500124436	1477500124499	o	79
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632006	1477500124476	1477500124643	 	32
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632008	1477500124838	1477500124939	d	68
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632012	1477500125237	1477500125339	o	79
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632049	1477500125381	1477500125523	 	32
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632052	1477500125620	1477500125744	a	65
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632054	1477500125764	1477500125843	n	78
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632057	1477500126012	1477500126115	y	89
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632059	1477500126284	1477500126381	t	84
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632185	1477500126364	1477500126482	h	72
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632189	1477500126460	1477500126579	i	73
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632195	1477500126717	1477500126862	n	78
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632201	1477500127493	1477500127555	g	71
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632207	1477500128011	1477500128155	 	32
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632210	1477500128180	1477500128298	h	72
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632305	1477500128397	1477500128580	e	69
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632308	1477500128500	1477500128715	r	82
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632313	1477500128740	1477500128819	e	69
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632317	1477500129204	1477500129563	SHIFT	16
+401062	4328930	Do we need to do anything here?	Do we need to do anything here?	205632315	1477500129350	1477500129523	?	191
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632487	1477500131701	1477500131899	SHIFT	16
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632489	1477500131820	1477500131939	A	65
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632491	1477500132284	1477500132379	b	66
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632493	1477500132574	1477500132732	o	79
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632495	1477500132717	1477500132811	u	85
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632498	1477500132916	1477500133035	t	84
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632579	1477500133083	1477500133203	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632581	1477500133884	1477500133939	2	50
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632584	1477500134214	1477500134315	0	48
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632587	1477500134395	1477500134539	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632590	1477500134957	1477500135130	e	69
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632684	1477500135102	1477500135259	r	82
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632689	1477500135237	1477500135443	e	69
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632694	1477500135379	1477500135563	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632699	1477500135901	1477500136419	SHIFT	16
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632705	1477500136284	1477500136443	A	65
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632708	1477500136942	1477500137003	n	78
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632713	1477500137196	1477500137279	n	78
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632904	1477500137539	1477500137635	BKSP	8
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632908	1477500137711	1477500137828	BKSP	8
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632914	1477500138876	1477500138995	m	77
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632921	1477500139012	1477500139170	e	69
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632927	1477500139155	1477500139299	r	82
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632933	1477500139540	1477500139619	i	73
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632937	1477500139844	1477500139971	c	67
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632985	1477500140012	1477500140131	a	65
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632988	1477500140152	1477500140308	n	78
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632990	1477500140588	1477500140707	s	83
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632994	1477500140723	1477500140871	,	188
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205632997	1477500141011	1477500141131	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633112	1477500141671	1477500141787	b	66
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633117	1477500141893	1477500141995	u	85
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633121	1477500142108	1477500142227	t	84
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633125	1477500142251	1477500142390	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633130	1477500142660	1477500142802	t	84
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633197	1477500142779	1477500142883	h	72
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633200	1477500142901	1477500143071	e	69
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633202	1477500143004	1477500143122	r	82
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633204	1477500143572	1477500143747	e	69
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633206	1477500143691	1477500143875	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633209	1477500144132	1477500144235	w	87
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633247	1477500144317	1477500144479	e	69
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633249	1477500144436	1477500144631	r	82
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633251	1477500144604	1477500144779	e	69
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633253	1477500144739	1477500144901	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633254	1477500145132	1477500145283	a	65
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633397	1477500145263	1477500145359	l	76
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633401	1477500145380	1477500145540	s	83
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633406	1477500145516	1477500145620	o	79
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633409	1477500145700	1477500145843	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633415	1477500146580	1477500146939	SHIFT	16
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633413	1477500146740	1477500146923	D	68
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633418	1477500147309	1477500147411	u	85
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633468	1477500147620	1477500147715	t	84
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633471	1477500148084	1477500148147	h	72
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633477	1477500148571	1477500148675	BKSP	8
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633482	1477500148788	1477500148882	v	86
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633488	1477500148932	1477500149051	h	72
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633496	1477500149112	1477500149188	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633579	1477500149356	1477500149451	BKSP	8
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633581	1477500149532	1477500149635	BKSP	8
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633584	1477500149699	1477500149803	BKSP	8
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633587	1477500150149	1477500150275	c	67
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633591	1477500150293	1477500150395	h	72
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633596	1477500150436	1477500150555	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633599	1477500150917	1477500151035	a	65
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633651	1477500151012	1477500151131	n	78
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633654	1477500151157	1477500151315	d	68
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633655	1477500151236	1477500151395	 	32
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633656	1477500151652	1477500151915	SHIFT	16
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633658	1477500151837	1477500151931	S	83
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633661	1477500152164	1477500152274	w	87
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633664	1477500152331	1477500152411	i	73
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633708	1477500152540	1477500152662	s	83
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633711	1477500152724	1477500152871	s	83
+401062	4328948	About 20 were Americans, but there were also Dutch and Swiss.	About 20 ere Americans, but there were also Dutch and Swiss.	205633715	1477500152939	1477500153083	.	190
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633829	1477500155084	1477500155267	SHIFT	16
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633828	1477500155132	1477500155252	I	73
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633831	1477500155308	1477500155491	 	32
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633837	1477500155509	1477500155651	w	87
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633845	1477500155720	1477500155883	a	65
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633939	1477500155796	1477500156003	s	83
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633943	1477500155963	1477500156083	 	32
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633948	1477500156159	1477500156259	t	84
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633954	1477500156397	1477500156515	r	82
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633961	1477500156660	1477500156739	y	89
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633964	1477500157069	1477500157217	i	73
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633979	1477500157283	1477500157394	n	78
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633982	1477500157372	1477500157530	g	71
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633984	1477500157491	1477500157611	 	32
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633989	1477500157724	1477500157843	t	84
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205633994	1477500157863	1477500157963	o	79
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634087	1477500158036	1477500158195	 	32
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634091	1477500158604	1477500158659	r	82
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634095	1477500158932	1477500159035	e	69
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634099	1477500159052	1477500159179	m	77
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634188	1477500159157	1477500159279	e	69
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634189	1477500159512	1477500159603	v	86
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634190	1477500159756	1477500159955	e	69
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634192	1477500159876	1477500160076	r	82
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634193	1477500160012	1477500160195	 	32
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634194	1477500160552	1477500160691	w	87
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634276	1477500160709	1477500160811	h	72
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634278	1477500160829	1477500161035	a	65
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634281	1477500161052	1477500161195	t	84
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634286	1477500161211	1477500161331	 	32
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634356	1477500161724	1477500162227	SHIFT	16
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634289	1477500162052	1477500162170	B	66
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634362	1477500162549	1477500162667	o	79
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634365	1477500163036	1477500163099	b	66
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634371	1477500163244	1477500163347	b	66
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634376	1477500163508	1477500163611	y	89
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634381	1477500163748	1477500163871	 	32
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634421	1477500163996	1477500164155	s	83
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634426	1477500164182	1477500164363	a	65
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634430	1477500164275	1477500164443	i	73
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634433	1477500164460	1477500164603	d	68
+401062	4328983	I was trying to remember what Bobby said.	I was trying to remever what Bobby said.	205634435	1477500164676	1477500164819	.	190
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634667	1477500166588	1477500167115	SHIFT	16
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634666	1477500166916	1477500166995	W	87
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634669	1477500167700	1477500167790	e	69
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634671	1477500168260	1477500168363	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634674	1477500168772	1477500168891	d	68
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634678	1477500168912	1477500169051	o	79
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634793	1477500169069	1477500169211	i	73
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634795	1477500169302	1477500169443	n	78
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634798	1477500169851	1477500169951	BKSP	8
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634801	1477500170021	1477500170123	BKSP	8
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634804	1477500170712	1477500170851	n	78
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634806	1477500170923	1477500171083	'	222
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634810	1477500171148	1477500171267	t	84
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634898	1477500171363	1477500171507	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634901	1477500171785	1477500171899	h	72
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634903	1477500171917	1477500172019	a	65
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634904	1477500172164	1477500172283	v	86
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634906	1477500172388	1477500172571	e	69
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634961	1477500172492	1477500172675	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634962	1477500172695	1477500172839	a	65
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634963	1477500172852	1477500172915	n	78
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634964	1477500173076	1477500173181	y	89
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634965	1477500173309	1477500173443	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205634966	1477500173740	1477500173860	a	65
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635111	1477500174044	1477500174091	b	66
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635113	1477500174724	1477500174828	u	85
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635118	1477500175074	1477500175276	l	76
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635121	1477500175932	1477500176051	i	73
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635125	1477500176191	1477500176283	t	84
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635164	1477500176476	1477500176571	y	89
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635167	1477500176676	1477500176811	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635169	1477500176917	1477500177035	t	84
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635171	1477500177064	1477500177139	o	79
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635175	1477500177155	1477500177315	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635339	1477500177871	1477500177995	c	67
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635342	1477500178388	1477500178491	BKSP	8
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635351	1477500178812	1477500178915	b	66
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635358	1477500179044	1477500179283	e	69
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635365	1477500179884	1477500180013	t	84
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635369	1477500180070	1477500180187	o	79
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635417	1477500180614	1477500180751	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635423	1477500180836	1477500180955	t	84
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635430	1477500180900	1477500181035	h	72
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635436	1477500181095	1477500181211	i	73
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635485	1477500181188	1477500181331	e	69
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635486	1477500181268	1477500181451	r	82
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635487	1477500181471	1477500181611	 	32
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635488	1477500181749	1477500181883	d	68
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635489	1477500181996	1477500182141	e	69
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635490	1477500182316	1477500182435	c	67
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635582	1477500182542	1477500182643	i	73
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635586	1477500183304	1477500183436	s	83
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635591	1477500183420	1477500183620	i	73
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635597	1477500183500	1477500183661	o	79
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635601	1477500183712	1477500183870	n	78
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635609	1477500183847	1477500184002	s	83
+401062	4329000	We don't have any ability to veto their decisions.	We don't have any abulity to beto thier decisions.	205635610	1477500183963	1477500184107	.	190

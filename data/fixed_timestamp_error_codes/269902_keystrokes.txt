@@ -1,0 +1,536 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329337	1475688928839	1475688928947	i	73
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329339	1475688928994	1475688929136	 	32
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329343	1475688929308	1475688929422	s	83
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329347	1475688929532	1475688929607	p	80
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329351	1475688929744	1475688929840	o	79
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329400	1475688929998	1475688930106	k	75
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329406	1475688930200	1475688930310	e	69
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329413	1475688930326	1475688930458	 	32
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329419	1475688930537	1475688930703	w	87
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329427	1475688930703	1475688930822	i	73
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329488	1475688930953	1475688931035	t	84
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329493	1475688930987	1475688931103	h	72
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329501	1475688931181	1475688931319	 	32
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329507	1475688931786	1475688931888	g	71
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329510	1475688931966	1475688932104	r	82
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329696	1475688932230	1475688932370	e	69
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329705	1475688932934	1475688933055	a	65
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329710	1475688933352	1475688933471	BKSP	8
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329721	1475688933502	1475688933622	g	71
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329730	1475688934012	1475688934072	.	190
+269902	2891393	I spoke with Greg.	i spoke with greg.\	137329741	1475688934795	1475688934907	\	220
+269902	2891414	Please let me know.	please let me know	137329981	1475688937720	1475688937823	p	80
+269902	2891414	Please let me know.	please let me know	137329985	1475688937963	1475688938120	l	76
+269902	2891414	Please let me know.	please let me know	137329993	1475688938213	1475688938307	e	69
+269902	2891414	Please let me know.	please let me know	137330001	1475688938495	1475688938620	a	65
+269902	2891414	Please let me know.	please let me know	137330006	1475688938666	1475688938773	s	83
+269902	2891414	Please let me know.	please let me know	137330112	1475688938899	1475688938989	e	69
+269902	2891414	Please let me know.	please let me know	137330117	1475688939036	1475688939139	 	32
+269902	2891414	Please let me know.	please let me know	137330125	1475688939907	1475688940021	l	76
+269902	2891414	Please let me know.	please let me know	137330133	1475688940130	1475688940222	i	73
+269902	2891414	Please let me know.	please let me know	137330137	1475688940285	1475688940388	e	69
+269902	2891414	Please let me know.	please let me know	137330302	1475688940592	1475688940689	BKSP	8
+269902	2891414	Please let me know.	please let me know	137330307	1475688940751	1475688940888	e	69
+269902	2891414	Please let me know.	please let me know	137330315	1475688940935	1475688941054	t	84
+269902	2891414	Please let me know.	please let me know	137330318	1475688941226	1475688941313	BKSP	8
+269902	2891414	Please let me know.	please let me know	137330324	1475688941391	1475688941473	BKSP	8
+269902	2891414	Please let me know.	please let me know	137330331	1475688941536	1475688941623	BKSP	8
+269902	2891414	Please let me know.	please let me know	137330338	1475688941654	1475688941772	e	69
+269902	2891414	Please let me know.	please let me know	137330345	1475688941834	1475688941957	t	84
+269902	2891414	Please let me know.	please let me know	137330350	1475688941957	1475688942085	 	32
+269902	2891414	Please let me know.	please let me know	137330363	1475688942462	1475688942541	m	77
+269902	2891414	Please let me know.	please let me know	137330370	1475688942666	1475688942773	e	69
+269902	2891414	Please let me know.	please let me know	137330374	1475688942914	1475688943039	 	32
+269902	2891414	Please let me know.	please let me know	137330380	1475688943085	1475688943205	k	75
+269902	2891414	Please let me know.	please let me know	137330383	1475688943298	1475688943406	n	78
+269902	2891414	Please let me know.	please let me know	137330442	1475688943486	1475688943666	o	79
+269902	2891414	Please let me know.	please let me know	137330446	1475688943713	1475688943853	w	87
+269902	2891432	Very foggy this morning.	very foggy this morning	137330718	1475688947437	1475688947539	v	86
+269902	2891432	Very foggy this morning.	very foggy this morning	137330725	1475688947679	1475688947788	e	69
+269902	2891432	Very foggy this morning.	very foggy this morning	137330732	1475688947866	1475688947924	r	82
+269902	2891432	Very foggy this morning.	very foggy this morning	137330738	1475688948096	1475688948158	y	89
+269902	2891432	Very foggy this morning.	very foggy this morning	137330742	1475688948236	1475688948338	 	32
+269902	2891432	Very foggy this morning.	very foggy this morning	137330867	1475688948480	1475688948570	f	70
+269902	2891432	Very foggy this morning.	very foggy this morning	137330869	1475688948664	1475688948700	o	79
+269902	2891432	Very foggy this morning.	very foggy this morning	137330872	1475688948772	1475688948856	o	79
+269902	2891432	Very foggy this morning.	very foggy this morning	137330878	1475688948997	1475688949088	g	71
+269902	2891432	Very foggy this morning.	very foggy this morning	137330883	1475688949579	1475688949640	BKSP	8
+269902	2891432	Very foggy this morning.	very foggy this morning	137330886	1475688949729	1475688949791	BKSP	8
+269902	2891432	Very foggy this morning.	very foggy this morning	137330889	1475688949837	1475688949953	g	71
+269902	2891432	Very foggy this morning.	very foggy this morning	137331002	1475688950455	1475688950570	g	71
+269902	2891432	Very foggy this morning.	very foggy this morning	137331007	1475688951104	1475688951205	y	89
+269902	2891432	Very foggy this morning.	very foggy this morning	137331009	1475688951251	1475688951403	 	32
+269902	2891432	Very foggy this morning.	very foggy this morning	137331011	1475688951434	1475688951523	t	84
+269902	2891432	Very foggy this morning.	very foggy this morning	137331014	1475688951570	1475688951704	h	72
+269902	2891432	Very foggy this morning.	very foggy this morning	137331054	1475688951767	1475688951887	i	73
+269902	2891432	Very foggy this morning.	very foggy this morning	137331061	1475688951950	1475688952072	s	83
+269902	2891432	Very foggy this morning.	very foggy this morning	137331068	1475688952198	1475688952320	m	77
+269902	2891432	Very foggy this morning.	very foggy this morning	137331074	1475688952398	1475688952551	o	79
+269902	2891432	Very foggy this morning.	very foggy this morning	137331080	1475688952583	1475688952673	r	82
+269902	2891432	Very foggy this morning.	very foggy this morning	137331166	1475688952815	1475688952906	n	78
+269902	2891432	Very foggy this morning.	very foggy this morning	137331187	1475688952870	1475688952940	\	220
+269902	2891432	Very foggy this morning.	very foggy this morning	137331170	1475688953031	1475688953153	i	73
+269902	2891432	Very foggy this morning.	very foggy this morning	137331177	1475688953231	1475688953370	n	78
+269902	2891432	Very foggy this morning.	very foggy this morning	137331183	1475688953401	1475688953505	g	71
+269902	2891432	Very foggy this morning.	very foggy this morning	137331450	1475688953708	1475688953773	BKSP	8
+269902	2891432	Very foggy this morning.	very foggy this morning	137331455	1475688955609	1475688955720	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331665	1475688958833	1475688958921	p	80
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331668	1475688959046	1475688959139	l	76
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331675	1475688959233	1475688959381	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331679	1475688959460	1475688959619	a	65
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331684	1475688959728	1475688959838	s	83
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331846	1475688959948	1475688960049	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331850	1475688960104	1475688960189	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331854	1475688960786	1475688960919	r	82
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331857	1475688960950	1475688961102	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331861	1475688962121	1475688962199	-	189
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331957	1475688962508	1475688962604	d	68
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331959	1475688962745	1475688962840	r	82
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331961	1475688963183	1475688963335	a	65
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331963	1475688963791	1475688963887	f	70
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137331965	1475688964091	1475688964187	t	84
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332046	1475688964313	1475688964421	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332051	1475688964986	1475688965119	a	65
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332057	1475688965119	1475688965220	n	78
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332061	1475688965283	1475688965387	d	68
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332067	1475688965387	1475688965502	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332164	1475688965595	1475688965704	t	84
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332168	1475688965704	1475688965795	h	72
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332172	1475688966170	1475688966219	BKSP	8
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332175	1475688966316	1475688966375	BKSP	8
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332179	1475688966986	1475688967069	l	76
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332182	1475688967116	1475688967221	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332186	1475688967331	1475688967422	t	84
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332270	1475688967454	1475688967555	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332275	1475688968463	1475688968554	m	77
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332279	1475688968664	1475688968739	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332284	1475688968801	1475688968905	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332290	1475688968999	1475688969121	k	75
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332351	1475688969231	1475688969337	n	78
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332356	1475688969368	1475688969517	o	79
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332360	1475688969517	1475688969652	w	87
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332365	1475688969683	1475688969819	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332371	1475688970368	1475688970455	i	73
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332413	1475688970534	1475688970637	f	70
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332419	1475688970637	1475688970736	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332423	1475688970752	1475688970840	t	84
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332430	1475688970886	1475688970986	h	72
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332433	1475688971002	1475688971121	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332551	1475688971184	1475688971288	r	82
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332558	1475688971397	1475688971550	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332565	1475688971613	1475688971752	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332573	1475688972158	1475688972271	s	83
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332580	1475688972835	1475688972969	BKSP	8
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332584	1475688973016	1475688973136	a	65
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332645	1475688973278	1475688973386	r	82
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332648	1475688973496	1475688973572	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332650	1475688973634	1475688973754	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332652	1475688974395	1475688974488	f	70
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332657	1475688974535	1475688974622	u	85
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332714	1475688974951	1475688975059	r	82
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332717	1475688975211	1475688975304	t	84
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332720	1475688975351	1475688975439	h	72
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332723	1475688975502	1475688975621	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332726	1475688975668	1475688975771	r	82
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332776	1475688975850	1475688975986	 	32
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332781	1475688976142	1475688976238	d	68
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332785	1475688976332	1475688976411	i	73
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332790	1475688976520	1475688976618	s	83
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332794	1475688977153	1475688977238	c	67
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332911	1475688978038	1475688978150	r	82
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332914	1475688978448	1475688978586	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332922	1475688978679	1475688978756	p	80
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332923	1475688979428	1475688979550	a	65
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137332924	1475688979613	1475688979704	n	78
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137333002	1475688979799	1475688979888	c	67
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137333005	1475688980029	1475688980136	i	73
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137333010	1475688980324	1475688980421	e	69
+269902	2891450	Please re-draft and let me know if there are further discrepancies.	please re-draft and let me know if there are further discrepancies	137333014	1475688980577	1475688980719	s	83
+269902	2891479	Will call later to explain.	will call later to explain	137333301	1475688984965	1475688985055	w	87
+269902	2891479	Will call later to explain.	will call later to explain	137333305	1475688985087	1475688985167	i	73
+269902	2891479	Will call later to explain.	will call later to explain	137333312	1475688985339	1475688985387	l	76
+269902	2891479	Will call later to explain.	will call later to explain	137333319	1475688985451	1475688985522	l	76
+269902	2891479	Will call later to explain.	will call later to explain	137333323	1475688985632	1475688985722	 	32
+269902	2891479	Will call later to explain.	will call later to explain	137333389	1475688986269	1475688986368	c	67
+269902	2891479	Will call later to explain.	will call later to explain	137333398	1475688986462	1475688986633	a	65
+269902	2891479	Will call later to explain.	will call later to explain	137333407	1475688986633	1475688986690	l	76
+269902	2891479	Will call later to explain.	will call later to explain	137333415	1475688986768	1475688986834	l	76
+269902	2891479	Will call later to explain.	will call later to explain	137333425	1475688986930	1475688987021	 	32
+269902	2891479	Will call later to explain.	will call later to explain	137333478	1475688987100	1475688987173	l	76
+269902	2891479	Will call later to explain.	will call later to explain	137333484	1475688987251	1475688987401	a	65
+269902	2891479	Will call later to explain.	will call later to explain	137333489	1475688987574	1475688987702	t	84
+269902	2891479	Will call later to explain.	will call later to explain	137333496	1475688987780	1475688987886	e	69
+269902	2891479	Will call later to explain.	will call later to explain	137333502	1475688987918	1475688988006	r	82
+269902	2891479	Will call later to explain.	will call later to explain	137333586	1475688988053	1475688988137	 	32
+269902	2891479	Will call later to explain.	will call later to explain	137333588	1475688988184	1475688988272	t	84
+269902	2891479	Will call later to explain.	will call later to explain	137333590	1475688988350	1475688988454	o	79
+269902	2891479	Will call later to explain.	will call later to explain	137333592	1475688988532	1475688988637	 	32
+269902	2891479	Will call later to explain.	will call later to explain	137333594	1475688989264	1475688989371	e	69
+269902	2891479	Will call later to explain.	will call later to explain	137333727	1475688989544	1475688989700	x	88
+269902	2891479	Will call later to explain.	will call later to explain	137333731	1475688989825	1475688989888	p	80
+269902	2891479	Will call later to explain.	will call later to explain	137333734	1475688990185	1475688990332	a	65
+269902	2891479	Will call later to explain.	will call later to explain	137333739	1475688991087	1475688991203	BKSP	8
+269902	2891479	Will call later to explain.	will call later to explain	137333743	1475688991375	1475688991471	l	76
+269902	2891479	Will call later to explain.	will call later to explain	137333745	1475688991487	1475688991615	a	65
+269902	2891479	Will call later to explain.	will call later to explain	137333795	1475688991663	1475688991786	i	73
+269902	2891479	Will call later to explain.	will call later to explain	137333799	1475688991864	1475688991970	n	78
+269902	2891493	I am fine with this.	i am fine with this.	137333997	1475688994810	1475688994888	i	73
+269902	2891493	I am fine with this.	i am fine with this.	137334001	1475688994966	1475688995052	 	32
+269902	2891493	I am fine with this.	i am fine with this.	137334006	1475688995240	1475688995383	a	65
+269902	2891493	I am fine with this.	i am fine with this.	137334011	1475688995383	1475688995456	m	77
+269902	2891493	I am fine with this.	i am fine with this.	137334014	1475688995487	1475688995646	 	32
+269902	2891493	I am fine with this.	i am fine with this.	137334049	1475688995850	1475688995923	f	70
+269902	2891493	I am fine with this.	i am fine with this.	137334053	1475688996001	1475688996089	i	73
+269902	2891493	I am fine with this.	i am fine with this.	137334059	1475688996182	1475688996302	n	78
+269902	2891493	I am fine with this.	i am fine with this.	137334064	1475688996349	1475688996454	e	69
+269902	2891493	I am fine with this.	i am fine with this.	137334069	1475688996469	1475688996584	 	32
+269902	2891493	I am fine with this.	i am fine with this.	137334106	1475688996647	1475688996803	w	87
+269902	2891493	I am fine with this.	i am fine with this.	137334111	1475688996704	1475688996819	i	73
+269902	2891493	I am fine with this.	i am fine with this.	137334116	1475688996880	1475688996985	t	84
+269902	2891493	I am fine with this.	i am fine with this.	137334120	1475688996985	1475688997117	h	72
+269902	2891493	I am fine with this.	i am fine with this.	137334123	1475688997195	1475688997318	 	32
+269902	2891493	I am fine with this.	i am fine with this.	137334199	1475688997397	1475688997488	t	84
+269902	2891493	I am fine with this.	i am fine with this.	137334202	1475688997550	1475688997651	h	72
+269902	2891493	I am fine with this.	i am fine with this.	137334207	1475688997729	1475688997852	e	69
+269902	2891493	I am fine with this.	i am fine with this.	137334210	1475688998541	1475688998636	BKSP	8
+269902	2891493	I am fine with this.	i am fine with this.	137334212	1475688998871	1475688998939	i	73
+269902	2891493	I am fine with this.	i am fine with this.	137334215	1475688998986	1475688999087	s	83
+269902	2891493	I am fine with this.	i am fine with this.	137334255	1475688999384	1475688999456	.	190
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334596	1475689002170	1475689002315	a	65
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334599	1475689002315	1475689002404	 	32
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334603	1475689003543	1475689003653	b	66
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334606	1475689004388	1475689004503	i	73
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334608	1475689004721	1475689004789	t	84
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334660	1475689004837	1475689004950	 	32
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334665	1475689005200	1475689005298	b	66
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334670	1475689005579	1475689005686	e	69
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334673	1475689005764	1475689005854	h	72
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334681	1475689005948	1475689006068	i	73
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334766	1475689006148	1475689006237	n	78
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334769	1475689006268	1475689006352	g	71
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334772	1475689006415	1475689006528	 	32
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334776	1475689006669	1475689006721	o	79
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334779	1475689007263	1475689007370	e	69
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334880	1475689007433	1475689007537	n	78
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334883	1475689007818	1475689007871	BKSP	8
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334888	1475689007966	1475689008070	BKSP	8
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334894	1475689008508	1475689008589	n	78
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334901	1475689008651	1475689008784	 	32
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334910	1475689008925	1475689009019	m	77
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334917	1475689009083	1475689009186	y	89
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334967	1475689009234	1475689009351	 	32
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334970	1475689009633	1475689009737	e	69
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334973	1475689009768	1475689009899	m	77
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334975	1475689010040	1475689010183	a	65
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137334978	1475689010183	1475689010287	i	73
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137335142	1475689010585	1475689010700	l	76
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137335147	1475689010669	1475689010815	s	83
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137335150	1475689011318	1475689011379	.	190
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137335154	1475689011700	1475689011771	\	220
+269902	2891505	A bit behind on my emails.	a bit behing on my emails.	137335156	1475689012429	1475689012499	BKSP	8
+269902	2891521	We're on the way.	we're on the way.	137335434	1475689011253	1475689011357	e	69
+269902	2891521	We're on the way.	we're on the way.	137335439	1475689012154	1475689012224	'	222
+269902	2891521	We're on the way.	we're on the way.	137335446	1475689012427	1475689012569	e	69
+269902	2891521	We're on the way.	we're on the way.	137335450	1475689012881	1475689012972	BKSP	8
+269902	2891521	We're on the way.	we're on the way.	137335456	1475689013097	1475689013188	r	82
+269902	2891521	We're on the way.	we're on the way.	137335538	1475689013251	1475689013355	e	69
+269902	2891521	We're on the way.	we're on the way.	137335541	1475689013386	1475689013519	 	32
+269902	2891521	We're on the way.	we're on the way.	137335546	1475689014333	1475689014455	o	79
+269902	2891521	We're on the way.	we're on the way.	137335551	1475689014580	1475689014687	n	78
+269902	2891521	We're on the way.	we're on the way.	137335555	1475689014734	1475689014837	 	32
+269902	2891521	We're on the way.	we're on the way.	137335614	1475689014900	1475689014989	t	84
+269902	2891521	We're on the way.	we're on the way.	137335622	1475689015035	1475689015138	h	72
+269902	2891521	We're on the way.	we're on the way.	137335629	1475689015138	1475689015250	e	69
+269902	2891521	We're on the way.	we're on the way.	137335631	1475689015250	1475689015355	 	32
+269902	2891521	We're on the way.	we're on the way.	137335634	1475689015787	1475689015872	w	87
+269902	2891521	We're on the way.	we're on the way.	137335702	1475689016014	1475689016152	a	65
+269902	2891521	We're on the way.	we're on the way.	137335706	1475689016152	1475689016240	y	89
+269902	2891521	We're on the way.	we're on the way.	137335709	1475689016803	1475689016866	.	190
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335887	1475689019410	1475689019505	t	84
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335889	1475689019552	1475689019640	h	72
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335892	1475689019640	1475689019753	e	69
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335896	1475689019863	1475689019939	r	82
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335901	1475689020283	1475689020388	BKSP	8
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335906	1475689020442	1475689020539	s	83
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335971	1475689020650	1475689020771	e	69
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335977	1475689020818	1475689020937	 	32
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335984	1475689021470	1475689021583	a	65
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137335992	1475689021693	1475689021803	r	82
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336001	1475689021850	1475689021954	e	69
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336073	1475689021954	1475689022055	 	32
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336082	1475689022180	1475689022271	b	66
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336092	1475689022380	1475689022502	i	73
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336097	1475689022549	1475689022623	g	71
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336103	1475689022702	1475689022852	 	32
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336196	1475689023104	1475689023219	s	83
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336199	1475689023375	1475689023472	t	84
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336201	1475689023566	1475689023670	o	79
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336206	1475689023920	1475689024018	r	82
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336209	1475689024141	1475689024206	m	77
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336302	1475689024348	1475689024438	s	65
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336306	1475689024880	1475689024988	BKSP	8
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336312	1475689025206	1475689025321	BKSP	8
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336319	1475689025430	1475689025569	s	83
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336323	1475689025600	1475689025750	 	32
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336327	1475689026047	1475689026154	a	65
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336379	1475689026186	1475689026302	n	78
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336380	1475689026380	1475689026503	d	68
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336381	1475689026550	1475689026654	 	32
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336383	1475689026763	1475689026885	t	84
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336388	1475689026963	1475689027114	r	82
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336453	1475689027317	1475689027452	a	65
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336454	1475689027561	1475689027654	f	70
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336456	1475689027810	1475689027919	f	70
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336460	1475689028044	1475689028107	i	73
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336464	1475689028247	1475689028401	c	67
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336583	1475689028870	1475689028985	 	32
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336589	1475689029535	1475689029622	i	73
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336592	1475689029951	1475689030054	s	83
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336595	1475689030182	1475689030238	n	78
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336597	1475689030429	1475689030521	t	84
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336694	1475689030662	1475689030803	 	32
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336696	1475689031085	1475689031219	m	77
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336699	1475689031282	1475689031419	o	79
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336702	1475689031967	1475689032071	v	86
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336705	1475689032118	1475689032249	i	73
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336727	1475689032344	1475689032468	n	78
+269902	2891530	These are big storms and traffic isn't moving.	these are big storms and traffic isnt moving	137336731	1475689032531	1475689032617	g	71
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137336988	1475689035452	1475689035571	w	87
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137336992	1475689035602	1475689035721	h	72
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337000	1475689035752	1475689035881	e	69
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337008	1475689035975	1475689036086	r	82
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337013	1475689036164	1475689036286	e	69
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337122	1475689036366	1475689036487	 	32
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337124	1475689036957	1475689037085	a	65
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337127	1475689037320	1475689037404	r	82
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337133	1475689037513	1475689037619	e	69
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337136	1475689037635	1475689037768	 	32
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337184	1475689037816	1475689037921	t	84
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337191	1475689037999	1475689038088	h	72
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337197	1475689038104	1475689038221	e	69
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337203	1475689038284	1475689038465	y	89
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337209	1475689038528	1475689038668	 	32
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337368	1475689039389	1475689039518	i	73
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337371	1475689039830	1475689039968	BKSP	8
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337374	1475689040359	1475689040470	h	72
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337379	1475689040533	1475689040653	i	73
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337386	1475689040684	1475689040771	t	84
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337390	1475689040849	1475689040939	t	84
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337432	1475689040987	1475689041132	i	73
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337434	1475689041226	1475689041335	n	78
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337438	1475689041398	1475689041489	g	71
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337441	1475689041489	1475689041618	 	32
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337444	1475689042244	1475689042353	t	84
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337502	1475689042385	1475689042471	h	72
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337505	1475689042471	1475689042601	e	69
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337508	1475689042601	1475689042735	 	32
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337515	1475689043237	1475689043335	b	66
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337521	1475689043570	1475689043621	o	79
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337596	1475689043701	1475689043773	o	79
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337599	1475689043913	1475689044035	k	75
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337602	1475689044097	1475689044203	s	83
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337605	1475689044313	1475689044435	 	32
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337609	1475689044716	1475689044804	a	65
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337717	1475689045024	1475689045119	t	84
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337723	1475689045557	1475689046018	SHIFT	16
+269902	2891554	Where are they hitting the books at?	where are they hitting the books at?	137337720	1475689045904	1475689045955	?	191
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338022	1475689049080	1475689049187	t	84
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338026	1475689049202	1475689049301	h	72
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338029	1475689049364	1475689049470	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338031	1475689049751	1475689049836	BKSP	8
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338033	1475689049914	1475689049989	BKSP	8
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338038	1475689050051	1475689050168	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338043	1475689050293	1475689050387	k	75
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338235	1475689050868	1475689050916	l	76
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338239	1475689051001	1475689051068	l	76
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338245	1475689051118	1475689051218	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338254	1475689051572	1475689051654	BKSP	8
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338261	1475689051733	1475689051821	BKSP	8
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338269	1475689051899	1475689051971	BKSP	8
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338275	1475689052049	1475689052121	BKSP	8
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338279	1475689052765	1475689052838	l	76
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338283	1475689052916	1475689052989	l	76
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338282	1475689053036	1475689053150	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338284	1475689053259	1475689053353	h	72
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338286	1475689053368	1475689053433	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338288	1475689053531	1475689053705	r	82
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338290	1475689053979	1475689054103	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338386	1475689054229	1475689054352	t	84
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338391	1475689054352	1475689054481	o	79
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338394	1475689054543	1475689054668	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338396	1475689055388	1475689055468	g	71
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338398	1475689055531	1475689055629	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338484	1475689055693	1475689055818	t	84
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338486	1475689055865	1475689056017	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338489	1475689056546	1475689056623	m	77
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338493	1475689056733	1475689056821	y	89
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338499	1475689056899	1475689057018	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338615	1475689057191	1475689057254	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338618	1475689057676	1475689057785	x	88
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338620	1475689057942	1475689058100	p	80
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338622	1475689058225	1475689058367	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338625	1475689058993	1475689059086	n	78
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338754	1475689059212	1475689059350	c	67
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338759	1475689059634	1475689059749	BKSP	8
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338765	1475689059859	1475689059968	s	83
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338770	1475689060077	1475689060217	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338774	1475689060264	1475689060401	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338778	1475689060729	1475689060835	r	82
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338875	1475689060894	1475689061019	e	69
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338880	1475689061598	1475689061687	p	80
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338884	1475689061874	1475689061954	o	79
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338887	1475689062173	1475689062254	r	82
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338891	1475689062348	1475689062421	t	84
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338942	1475689062516	1475689062619	 	32
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338945	1475689062760	1475689062817	d	68
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338949	1475689062817	1475689062936	o	79
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338952	1475689063030	1475689063136	n	78
+269902	2891570	Tell her to get my expense report done.	tell her to get my expense report done	137338956	1475689063277	1475689063412	e	69
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339421	1475689065182	1475689065296	BKSP	8
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339423	1475689065421	1475689065577	 	32
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339429	1475689065624	1475689065746	t	84
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339433	1475689065793	1475689065914	h	72
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339442	1475689065882	1475689065965	e	69
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339446	1475689066028	1475689066162	 	32
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339236	1475689066556	1475689066669	w	87
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339535	1475689066610	1475689066713	e	69
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339239	1475689066747	1475689066850	e	69
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339242	1475689066850	1475689066967	 	32
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339541	1475689066869	1475689066965	n	78
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339245	1475689067045	1475689067183	k	75
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339547	1475689067153	1475689067247	g	71
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339248	1475689067230	1475689067352	n	78
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339551	1475689067372	1475689067496	i	73
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339331	1475689067431	1475689067599	o	79
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339557	1475689067590	1475689067712	n	78
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339334	1475689067630	1475689067736	e	69
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339578	1475689067744	1475689067864	e	69
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339580	1475689067896	1475689068045	 	32
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339339	1475689067923	1475689068067	 	32
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339582	1475689068045	1475689068163	i	73
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339586	1475689068210	1475689068362	s	83
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339340	1475689068239	1475689068321	BKSP	8
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339590	1475689068393	1475689068514	 	32
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339342	1475689068399	1475689068580	BKSP	8
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339748	1475689068655	1475689068764	c	67
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339417	1475689068659	1475689068910	3	87
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339752	1475689068889	1475689069044	a	65
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339757	1475689069138	1475689069217	p	80
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339763	1475689070548	1475689070711	a	65
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339766	1475689070821	1475689070898	b	66
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339834	1475689071149	1475689071260	l	76
+269902	2891598	We know the engine is capable.	we know the engine is capable	137339839	1475689071307	1475689071382	e	69
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340184	1475689074179	1475689074282	m	77
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340188	1475689074423	1475689074545	o	79
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340194	1475689074623	1475689074761	m	77
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340197	1475689075827	1475689075906	,	188
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340200	1475689076871	1475689076980	 	32
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340362	1475689077231	1475689077330	t	84
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340364	1475689077346	1475689077448	h	72
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340367	1475689077792	1475689077865	s	65
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340371	1475689078509	1475689078614	BKSP	8
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340375	1475689078895	1475689078981	t	84
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340463	1475689079060	1475689079179	 	32
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340466	1475689079571	1475689079697	s	83
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340470	1475689079697	1475689079811	o	79
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340475	1475689079889	1475689080029	u	85
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340480	1475689080169	1475689080265	n	78
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340534	1475689080328	1475689080412	d	68
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340542	1475689080834	1475689080962	s	83
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340549	1475689080978	1475689081097	 	32
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340553	1475689081206	1475689081266	f	70
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340564	1475689081328	1475689081428	i	73
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340591	1475689081522	1475689081661	n	78
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340593	1475689081661	1475689081780	e	69
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340597	1475689081780	1475689081896	 	32
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340604	1475689081943	1475689082031	t	84
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340615	1475689082078	1475689082194	o	79
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340717	1475689082288	1475689082381	 	32
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340721	1475689082538	1475689082647	m	77
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340723	1475689082709	1475689082814	e	69
+269902	2891615	Mom, that sounds fine to me.	mom, that sounds fine to me.	137340726	1475689083126	1475689083184	.	190
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340923	1475689085737	1475689085831	t	84
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340929	1475689085831	1475689085915	h	72
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340933	1475689086040	1475689086178	a	65
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340941	1475689086225	1475689086298	n	78
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340946	1475689086423	1475689086514	k	75
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340985	1475689086701	1475689086835	s	83
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340988	1475689086882	1475689086996	 	32
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137340993	1475689087090	1475689087180	f	70
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341001	1475689087196	1475689087297	o	79
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341006	1475689087328	1475689087445	r	82
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341143	1475689087524	1475689087661	 	32
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341148	1475689088256	1475689088395	c	67
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341151	1475689088395	1475689088513	h	72
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341158	1475689088560	1475689088695	i	73
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341169	1475689089072	1475689089179	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341178	1475689089179	1475689089308	e	69
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341244	1475689089481	1475689089613	c	67
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341245	1475689090192	1475689090281	h	72
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341246	1475689090344	1475689090493	i	73
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341249	1475689090587	1475689090696	n	78
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341252	1475689090742	1475689090831	g	71
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341484	1475689090879	1475689091014	 	32
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341490	1475689091842	1475689091915	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341495	1475689091993	1475689092081	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341502	1475689092159	1475689092217	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341507	1475689092311	1475689092363	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341508	1475689092446	1475689092514	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341509	1475689092873	1475689092964	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341511	1475689093764	1475689093876	c	67
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341513	1475689093892	1475689093997	k	75
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341516	1475689094091	1475689094277	i	73
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341521	1475689094308	1475689094428	n	78
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341551	1475689094460	1475689094563	g	71
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341558	1475689094610	1475689094729	 	32
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341563	1475689094854	1475689094978	e	69
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341566	1475689094978	1475689095142	i	73
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341570	1475689095272	1475689095316	h	72
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341713	1475689095551	1475689095615	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341725	1475689095694	1475689095797	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341729	1475689095813	1475689095972	w	87
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341735	1475689096034	1475689096186	i	73
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341740	1475689096248	1475689096363	t	84
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341745	1475689096472	1475689096548	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341750	1475689096626	1475689096696	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341753	1475689096779	1475689096831	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341756	1475689096925	1475689096974	BKSP	8
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341760	1475689097442	1475689097625	w	87
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341763	1475689097656	1475689097763	i	73
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341822	1475689097826	1475689097930	t	84
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341826	1475689097930	1475689098076	h	72
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341830	1475689098139	1475689098292	 	32
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341836	1475689098708	1475689098825	m	77
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341840	1475689098857	1475689099026	e	69
+269902	2891633	Thanks for checking with me.	thanks for checking with me.	137341883	1475689099511	1475689099579	.	190
+269902	2891657	Please let us know asap.	please let us know asap	137342132	1475689102063	1475689102149	p	80
+269902	2891657	Please let us know asap.	please let us know asap	137342138	1475689102274	1475689102364	l	76
+269902	2891657	Please let us know asap.	please let us know asap	137342144	1475689102536	1475689102677	a	65
+269902	2891657	Please let us know asap.	please let us know asap	137342150	1475689103036	1475689103161	BKSP	8
+269902	2891657	Please let us know asap.	please let us know asap	137342154	1475689103208	1475689103360	e	69
+269902	2891657	Please let us know asap.	please let us know asap	137342157	1475689103531	1475689103677	s	83
+269902	2891657	Please let us know asap.	please let us know asap	137342221	1475689103912	1475689104042	a	65
+269902	2891657	Please let us know asap.	please let us know asap	137342224	1475689104120	1475689104197	BKSP	8
+269902	2891657	Please let us know asap.	please let us know asap	137342231	1475689104275	1475689104364	BKSP	8
+269902	2891657	Please let us know asap.	please let us know asap	137342236	1475689104411	1475689104558	a	65
+269902	2891657	Please let us know asap.	please let us know asap	137342241	1475689104652	1475689104779	s	83
+269902	2891657	Please let us know asap.	please let us know asap	137342246	1475689104950	1475689105077	e	69
+269902	2891657	Please let us know asap.	please let us know asap	137342250	1475689105124	1475689105230	 	32
+269902	2891657	Please let us know asap.	please let us know asap	137342291	1475689105590	1475689105695	l	76
+269902	2891657	Please let us know asap.	please let us know asap	137342294	1475689105741	1475689105846	e	69
+269902	2891657	Please let us know asap.	please let us know asap	137342298	1475689105971	1475689106031	t	84
+269902	2891657	Please let us know asap.	please let us know asap	137342301	1475689106110	1475689106229	 	32
+269902	2891657	Please let us know asap.	please let us know asap	137342304	1475689106338	1475689106492	u	85
+269902	2891657	Please let us know asap.	please let us know asap	137342420	1475689106555	1475689106708	s	83
+269902	2891657	Please let us know asap.	please let us know asap	137342422	1475689106724	1475689106861	 	32
+269902	2891657	Please let us know asap.	please let us know asap	137342425	1475689107204	1475689107280	l	75
+269902	2891657	Please let us know asap.	please let us know asap	137342428	1475689108064	1475689108147	BKSP	8
+269902	2891657	Please let us know asap.	please let us know asap	137342433	1475689108397	1475689108480	n	78
+269902	2891657	Please let us know asap.	please let us know asap	137342492	1475689108590	1475689108680	o	79
+269902	2891657	Please let us know asap.	please let us know asap	137342496	1475689108805	1475689108911	w	87
+269902	2891657	Please let us know asap.	please let us know asap	137342501	1475689108979	1475689109092	 	32
+269902	2891657	Please let us know asap.	please let us know asap	137342506	1475689109326	1475689109430	a	65
+269902	2891657	Please let us know asap.	please let us know asap	137342511	1475689109555	1475689109646	s	83
+269902	2891657	Please let us know asap.	please let us know asap	137342588	1475689109865	1475689109931	a	65
+269902	2891657	Please let us know asap.	please let us know asap	137342592	1475689110025	1475689110165	p	80

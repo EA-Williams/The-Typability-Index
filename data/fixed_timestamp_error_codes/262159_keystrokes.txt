@@ -1,0 +1,785 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+262159	2807743	I'll give him 10.	I'll give him 10.	133350396	1475599271204	1475599271427	SHIFT	16
+262159	2807743	I'll give him 10.	I'll give him 10.	133350393	1475599271308	1475599271412	I	73
+262159	2807743	I'll give him 10.	I'll give him 10.	133350403	1475599272764	1475599272883	'	222
+262159	2807743	I'll give him 10.	I'll give him 10.	133350405	1475599273003	1475599273083	l	76
+262159	2807743	I'll give him 10.	I'll give him 10.	133350411	1475599273179	1475599273283	l	76
+262159	2807743	I'll give him 10.	I'll give him 10.	133350414	1475599273291	1475599273419	 	32
+262159	2807743	I'll give him 10.	I'll give him 10.	133350443	1475599274291	1475599274395	g	71
+262159	2807743	I'll give him 10.	I'll give him 10.	133350446	1475599274387	1475599274563	i	73
+262159	2807743	I'll give him 10.	I'll give him 10.	133350453	1475599274483	1475599274579	v	86
+262159	2807743	I'll give him 10.	I'll give him 10.	133350459	1475599274531	1475599274683	e	69
+262159	2807743	I'll give him 10.	I'll give him 10.	133350522	1475599274667	1475599274771	 	32
+262159	2807743	I'll give him 10.	I'll give him 10.	133350525	1475599274843	1475599274987	h	72
+262159	2807743	I'll give him 10.	I'll give him 10.	133350530	1475599274963	1475599275091	i	73
+262159	2807743	I'll give him 10.	I'll give him 10.	133350533	1475599275155	1475599275291	m	77
+262159	2807743	I'll give him 10.	I'll give him 10.	133350537	1475599275275	1475599275427	 	32
+262159	2807743	I'll give him 10.	I'll give him 10.	133350542	1475599275723	1475599275859	1	49
+262159	2807743	I'll give him 10.	I'll give him 10.	133350724	1475599275891	1475599276267	0	48
+262159	2807743	I'll give him 10.	I'll give him 10.	133350728	1475599276291	1475599276435	.	190
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350921	1475599281059	1475599281290	SHIFT	16
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350919	1475599281163	1475599281227	I	73
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350922	1475599281579	1475599281675	'	222
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350923	1475599281931	1475599282019	l	76
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350924	1475599282083	1475599282179	 	32
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350925	1475599282323	1475599282443	g	71
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350955	1475599282451	1475599282595	i	73
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350962	1475599282547	1475599282706	v	86
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350967	1475599282587	1475599282763	e	69
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350972	1475599282699	1475599282818	 	32
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133350976	1475599282923	1475599283082	i	73
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351005	1475599283043	1475599283178	t	84
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351010	1475599283123	1475599283258	 	32
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351018	1475599283283	1475599283466	t	84
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351025	1475599283347	1475599283514	o	79
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351030	1475599283451	1475599283602	 	32
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351037	1475599283626	1475599283722	y	89
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351048	1475599283699	1475599283866	o	79
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351052	1475599283803	1475599283940	u	85
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351057	1475599283851	1475599284066	 	32
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351064	1475599283939	1475599284090	t	84
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351070	1475599284043	1475599284170	o	79
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351079	1475599284210	1475599284266	m	77
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351152	1475599284907	1475599285082	o	79
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351154	1475599285059	1475599285114	r	82
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351155	1475599285202	1475599285354	r	82
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351156	1475599285266	1475599285402	o	79
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351157	1475599285403	1475599285546	w	87
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351166	1475599285706	1475599285818	.	190
+262159	2807757	I'll give it to you tomorrow.	I'l give it to you tomorrow.'	133351171	1475599285906	1475599285930	'	222
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351329	1475599287826	1475599288026	SHIFT	16
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351336	1475599287930	1475599288074	H	72
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351342	1475599288018	1475599288162	A	65
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351348	1475599288106	1475599288226	s	83
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351353	1475599288162	1475599288250	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351358	1475599288314	1475599288434	b	66
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351460	1475599288674	1475599288730	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351464	1475599288802	1475599288866	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351470	1475599288946	1475599289018	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351477	1475599289098	1475599289259	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351482	1475599289250	1475599289394	a	65
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351648	1475599289263	1475599291683	CAPS_LOCK	20
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351488	1475599289354	1475599289442	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351496	1475599289458	1475599289602	SHIFT	16
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351503	1475599289538	1475599289706	B	66
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351508	1475599289898	1475599289962	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351512	1475599290034	1475599290098	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351519	1475599290170	1475599290282	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351522	1475599290242	1475599290370	A	65
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351633	1475599290362	1475599290490	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351635	1475599290498	1475599290666	SHIFT	16
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351639	1475599290778	1475599290834	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351644	1475599290922	1475599291098	BKSP	8
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351650	1475599291986	1475599292138	a	65
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351655	1475599292090	1475599292258	s	83
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351659	1475599292218	1475599292338	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351661	1475599292330	1475599292578	SHIFT	16
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351667	1475599292474	1475599292650	B	66
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351671	1475599292922	1475599293066	r	82
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351697	1475599293146	1475599293266	a	65
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351700	1475599293330	1475599293522	i	73
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351704	1475599293490	1475599293682	n	78
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351709	1475599293658	1475599293858	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351714	1475599294122	1475599294274	h	72
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351746	1475599294154	1475599294394	a	65
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351743	1475599294266	1475599294298	d	68
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351750	1475599294394	1475599294538	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351755	1475599294626	1475599294729	h	72
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351761	1475599294690	1475599294890	i	73
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351764	1475599294778	1475599294946	s	83
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351777	1475599294898	1475599295058	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351779	1475599295034	1475599295138	c	67
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351784	1475599295114	1475599295226	o	79
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351789	1475599295306	1475599295529	n	78
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351833	1475599295378	1475599295578	t	84
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351831	1475599295474	1475599295578	r	82
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351836	1475599295706	1475599295898	a	65
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351839	1475599295842	1475599295986	c	67
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351840	1475599295890	1475599296017	t	84
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351843	1475599295962	1475599296073	 	32
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351846	1475599296122	1475599296289	y	89
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351894	1475599296194	1475599296401	e	69
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351898	1475599296346	1475599296505	t	84
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351902	1475599296617	1475599296801	SHIFT	16
+262159	2807766	Has Brian had his contract yet?	Has Brain had his contract yet?	133351906	1475599296706	1475599296857	?	191
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352031	1475599299545	1475599299817	SHIFT	16
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352030	1475599299657	1475599299769	B	66
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352033	1475599299817	1475599300009	u	85
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352044	1475599299962	1475599300121	t	84
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352038	1475599300041	1475599300105	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352051	1475599300161	1475599300345	h	72
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352088	1475599300241	1475599300353	e	69
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352091	1475599300329	1475599300505	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352097	1475599300449	1475599300665	a	65
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352102	1475599300609	1475599300729	d	68
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352108	1475599300817	1475599300985	d	68
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352111	1475599300993	1475599301169	e	69
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352148	1475599301073	1475599301225	d	68
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352151	1475599301209	1475599301329	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352153	1475599301417	1475599301577	t	84
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352156	1475599301465	1475599301593	h	72
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352162	1475599302065	1475599302233	e	69
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352236	1475599302193	1475599302273	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352238	1475599302417	1475599302505	l	76
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352243	1475599302609	1475599302825	i	83
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352247	1475599302905	1475599303073	t	84
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352251	1475599303425	1475599303497	BKSP	8
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352256	1475599303577	1475599303633	BKSP	8
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352259	1475599303713	1475599303793	BKSP	8
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352261	1475599303889	1475599304065	i	73
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352290	1475599303977	1475599304185	s	83
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352295	1475599304033	1475599304193	t	84
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352303	1475599304137	1475599304305	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352307	1475599304385	1475599304465	f	70
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352312	1475599304889	1475599305041	i	73
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352318	1475599305169	1475599305225	BKSP	8
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352322	1475599305313	1475599305409	BKSP	8
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352326	1475599305401	1475599305529	g	71
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352390	1475599305513	1475599305673	i	73
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352397	1475599305633	1475599305801	v	86
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352403	1475599305697	1475599305897	e	69
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352409	1475599305857	1475599306025	n	78
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352414	1475599305993	1475599306185	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352419	1475599306793	1475599306937	w	87
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352474	1475599306913	1475599307105	a	65
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352477	1475599307009	1475599307209	s	83
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352481	1475599307169	1475599307345	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352486	1475599307313	1475599307489	s	83
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352489	1475599307441	1475599307616	t	84
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352492	1475599308177	1475599308241	i	73
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352517	1475599308361	1475599308409	l	76
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352526	1475599308473	1475599308561	l	76
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352532	1475599308577	1475599308690	 	32
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352538	1475599308689	1475599308737	i	73
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352545	1475599308849	1475599308953	n	78
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352583	1475599308985	1475599309128	c	67
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352587	1475599309097	1475599309161	o	79
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352590	1475599309329	1475599309448	m	77
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352593	1475599309505	1475599309616	p	80
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352595	1475599309745	1475599309864	e	69
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352660	1475599310633	1475599310680	BKSP	8
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352664	1475599310777	1475599310936	l	76
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352668	1475599310921	1475599310968	t	84
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352672	1475599310961	1475599311144	e	69
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352675	1475599311089	1475599311240	t	84
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352680	1475599311248	1475599311384	e	69
+262159	2807781	But he added the list given was still incomplete.	But he added the list given was still incompltete.	133352688	1475599311537	1475599311632	.	190
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352885	1475599313600	1475599313976	SHIFT	16
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352883	1475599313769	1475599313904	W	87
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352886	1475599314016	1475599314128	e	69
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352887	1475599314248	1475599314440	'	222
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352888	1475599314408	1475599314600	v	86
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352931	1475599314488	1475599314608	e	69
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352934	1475599314616	1475599314768	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352938	1475599314760	1475599314992	a	65
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352943	1475599314888	1475599315024	d	68
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352947	1475599315192	1475599315328	v	86
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352950	1475599315336	1475599315464	i	73
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352976	1475599315456	1475599315520	s	83
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352980	1475599315656	1475599315880	e	69
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352984	1475599315760	1475599315920	d	68
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352988	1475599315896	1475599316024	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133352992	1475599316136	1475599316304	t	84
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353003	1475599316272	1475599316408	h	72
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353004	1475599316328	1475599316528	e	69
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353005	1475599316448	1475599316584	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353006	1475599316632	1475599316848	f	70
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353030	1475599316784	1475599316976	a	65
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353007	1475599316872	1475599316960	m	77
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353032	1475599317072	1475599317152	i	73
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353034	1475599317256	1475599317440	l	76
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353036	1475599317392	1475599317552	t	84
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353039	1475599317536	1475599317704	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353042	1475599317712	1475599317864	t	84
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353143	1475599317960	1475599318016	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353145	1475599318112	1475599318168	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353148	1475599318264	1475599318312	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353152	1475599318392	1475599318528	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353156	1475599318480	1475599318616	y	89
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353160	1475599318592	1475599318760	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353163	1475599319080	1475599319144	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353167	1475599319224	1475599319352	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353171	1475599320024	1475599320192	l	76
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353175	1475599320112	1475599320240	y	89
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353243	1475599320216	1475599320336	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353247	1475599320392	1475599320504	h	72
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353255	1475599320568	1475599320704	o	79
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353262	1475599320664	1475599320840	w	87
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353265	1475599320792	1475599320888	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353272	1475599320944	1475599321080	t	84
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353251	1475599321008	1475599321152	o	79
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353257	1475599321120	1475599321255	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353261	1475599321240	1475599321400	g	71
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353266	1475599321344	1475599321496	o	79
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353270	1475599321440	1475599321593	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353291	1475599321592	1475599321736	a	65
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353292	1475599321672	1475599321775	b	66
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353294	1475599321840	1475599322032	o	79
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353379	1475599321992	1475599322103	y	85
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353381	1475599322064	1475599322215	t	84
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353384	1475599322464	1475599322535	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353387	1475599322623	1475599322735	BKSP	8
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353390	1475599323016	1475599323135	t	84
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353395	1475599323080	1475599323167	 	32
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353399	1475599323248	1475599323319	i	73
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353404	1475599323336	1475599323439	t	84
+262159	2807794	We've advised the family how to go about it.	We've advised the family how to go about it.	133353406	1475599323456	1475599323519	.	190
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353521	1475599324856	1475599324951	p	80
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353526	1475599325271	1475599325391	BKSP	8
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353529	1475599325567	1475599325855	SHIFT	16
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353532	1475599325719	1475599325879	H	72
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353537	1475599326127	1475599326295	e	69
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353607	1475599326191	1475599326351	y	89
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353611	1475599326272	1475599326391	 	32
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353621	1475599326375	1475599327015	SHIFT	16
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353613	1475599326471	1475599326575	T	84
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353618	1475599326855	1475599326999	K	75
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353623	1475599327207	1475599327359	,	188
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353626	1475599327367	1475599327535	 	32
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353632	1475599327591	1475599327711	h	72
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353684	1475599327823	1475599327951	o	79
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353685	1475599327911	1475599328063	w	87
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353688	1475599328215	1475599328343	 	32
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353691	1475599328503	1475599328567	a	65
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353695	1475599328903	1475599329095	r	82
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353710	1475599329007	1475599329215	e	69
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353712	1475599329143	1475599329287	 	32
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353714	1475599329303	1475599329343	y	89
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353716	1475599329351	1475599329511	o	79
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353718	1475599329463	1475599329599	u	85
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353738	1475599329519	1475599329711	 	32
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353741	1475599329687	1475599329823	d	68
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353742	1475599329775	1475599329887	o	79
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353745	1475599330079	1475599330151	i	73
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353746	1475599330239	1475599330352	n	78
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353779	1475599330335	1475599330479	g	71
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353783	1475599330519	1475599330687	SHIFT	16
+262159	2807809	Hey TK, how are you doing?	Hey TK, how are you doing?	133353787	1475599330679	1475599330815	?	191
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353900	1475599332663	1475599332895	SHIFT	16
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353905	1475599332775	1475599332911	C	67
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353908	1475599332951	1475599333071	u	85
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353910	1475599333111	1475599333167	r	82
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353912	1475599333263	1475599333407	r	82
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353947	1475599333343	1475599333631	e	69
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353952	1475599333519	1475599333638	n	78
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353956	1475599333607	1475599333767	t	84
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353961	1475599333751	1475599333879	l	76
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353968	1475599333887	1475599334047	y	89
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353972	1475599334063	1475599334223	,	188
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353987	1475599334231	1475599334424	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353990	1475599334407	1475599334575	w	87
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353993	1475599334519	1475599334702	e	69
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133353998	1475599334671	1475599334750	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354030	1475599334735	1475599334910	a	65
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354035	1475599334879	1475599335030	r	82
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354040	1475599334975	1475599335142	e	69
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354044	1475599335087	1475599335262	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354050	1475599335223	1475599335335	f	70
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354051	1475599335343	1475599335504	o	79
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354106	1475599335503	1475599335662	c	67
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354108	1475599336103	1475599336270	u	85
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354110	1475599336239	1475599336406	s	83
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354113	1475599336343	1475599336454	i	73
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354114	1475599336655	1475599336830	n	78
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354133	1475599336751	1475599336902	g	71
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354142	1475599336847	1475599336982	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354151	1475599337038	1475599337158	o	79
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354156	1475599337223	1475599337390	u	85
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354158	1475599337303	1475599337446	r	82
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354204	1475599337415	1475599337590	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354207	1475599337663	1475599337894	r	82
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354213	1475599337791	1475599338054	e	69
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354216	1475599337983	1475599338167	s	83
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354218	1475599338166	1475599338302	o	79
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354232	1475599338287	1475599338550	u	85
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354236	1475599338463	1475599338574	r	82
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354240	1475599338718	1475599338886	c	67
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354246	1475599338927	1475599339246	e	69
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354251	1475599339071	1475599339262	s	83
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354291	1475599339254	1475599339390	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354296	1475599339343	1475599339454	o	79
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354302	1475599339526	1475599339694	n	78
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354304	1475599339662	1475599339830	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354308	1475599339814	1475599340030	d	68
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354373	1475599339902	1475599340102	e	69
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354374	1475599340510	1475599340614	BKSP	8
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354375	1475599340726	1475599340822	o	79
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354376	1475599340934	1475599341118	m	77
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354377	1475599341094	1475599341398	e	69
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354442	1475599341190	1475599341447	s	83
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354438	1475599341326	1475599341438	t	84
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354450	1475599341446	1475599341670	i	73
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354451	1475599341646	1475599341838	c	67
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354452	1475599341806	1475599341982	 	32
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354457	1475599342158	1475599342326	s	83
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354461	1475599342342	1475599342534	i	73
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354489	1475599342622	1475599342718	t	84
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354494	1475599343022	1475599343206	r	82
+262159	2807819	Currently, we are focusing our resources on domestic sites.	Currently, we are focusing our resources on domestic sitres	133354498	1475599343094	1475599343358	e	69
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354697	1475599343238	1475599347534	s	83
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354690	1475599345846	1475599346566	SHIFT	16
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354692	1475599346462	1475599346606	P	80
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354693	1475599346614	1475599346822	e	69
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354696	1475599346790	1475599346942	n	78
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354699	1475599347510	1475599347670	k	75
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354724	1475599347622	1475599347782	e	69
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354727	1475599347726	1475599347886	 	32
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354731	1475599347910	1475599348029	d	68
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354734	1475599348022	1475599348181	o	79
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354736	1475599348158	1475599348382	e	69
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354815	1475599348310	1475599348446	s	83
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354813	1475599348334	1475599348397	n	78
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354819	1475599348518	1475599348686	'	222
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354821	1475599348718	1475599348909	t	84
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354824	1475599348806	1475599348957	 	32
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354828	1475599349670	1475599349837	l	76
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354839	1475599349734	1475599349949	e	69
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354842	1475599349814	1475599349981	t	84
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354847	1475599349934	1475599349997	 	32
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354850	1475599350085	1475599350253	t	84
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354852	1475599350158	1475599350277	h	72
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354853	1475599350238	1475599350397	i	73
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354861	1475599350381	1475599350589	n	78
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354866	1475599350446	1475599350605	g	71
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354868	1475599350558	1475599350725	s	83
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354874	1475599350646	1475599350789	 	32
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354877	1475599350830	1475599350909	s	83
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354945	1475599350878	1475599351094	i	73
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354948	1475599351070	1475599351221	t	84
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354954	1475599351174	1475599351302	 	32
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354960	1475599351302	1475599351445	a	65
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354966	1475599351461	1475599351549	b	66
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354970	1475599351701	1475599351749	BKSP	8
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354973	1475599351837	1475599351901	BKSP	8
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354976	1475599352045	1475599352101	a	66
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354997	1475599352549	1475599352701	c	67
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133354998	1475599352637	1475599352765	k	75
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355000	1475599352702	1475599352821	 	32
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355045	1475599352797	1475599353029	a	65
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355002	1475599352894	1475599353021	n	78
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355048	1475599352989	1475599353101	d	68
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355050	1475599353157	1475599353318	 	32
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355052	1475599353317	1475599353509	r	82
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355056	1475599353437	1475599353517	e	69
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355059	1475599353853	1475599354037	l	76
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355063	1475599353901	1475599354237	a	65
+262159	2807835	Penske doesn't let things sit back and relax.	Peske doesn't let things sit back and relax.	133355066	1475599354117	1475599354277	x	88
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355226	1475599356277	1475599356541	SHIFT	16
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355231	1475599356477	1475599356605	F	70
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355236	1475599356829	1475599356981	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355240	1475599356941	1475599357149	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355243	1475599357125	1475599357301	n	78
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355261	1475599357165	1475599357357	c	67
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355267	1475599357333	1475599357430	e	69
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355273	1475599357413	1475599357573	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355277	1475599357581	1475599357757	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355280	1475599357693	1475599357789	l	76
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355285	1475599357797	1475599357909	s	83
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355291	1475599357885	1475599357997	o	79
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355295	1475599357965	1475599358149	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355303	1475599358045	1475599358157	w	87
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355308	1475599358133	1475599358365	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355342	1475599358245	1475599358397	s	83
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355343	1475599358357	1475599358509	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355346	1475599358493	1475599358701	p	80
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355349	1475599358621	1475599358797	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355351	1475599358693	1475599358869	e	69
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355354	1475599358861	1475599359013	p	80
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355403	1475599358949	1475599359149	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355405	1475599359125	1475599359173	r	84
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355408	1475599359229	1475599359533	e	69
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355413	1475599359445	1475599359564	d	68
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355417	1475599359669	1475599359861	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355452	1475599359853	1475599360037	t	84
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355458	1475599359973	1475599360133	o	79
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355461	1475599360053	1475599360230	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355464	1475599360229	1475599360389	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355468	1475599360309	1475599360549	p	80
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355591	1475599360501	1475599360717	t	84
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355594	1475599360621	1475599360789	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355597	1475599360805	1475599360901	o	79
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355601	1475599360981	1475599361100	c	67
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355604	1475599361101	1475599361149	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355607	1475599361764	1475599361964	WIN	91
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355683	1475599361853	1475599363252	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355678	1475599362716	1475599362988	SHIFT	16
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355610	1475599362885	1475599362909	D	68
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355690	1475599363341	1475599363500	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355707	1475599363396	1475599363580	SHIFT	16
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355699	1475599363477	1475599363564	F	70
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355716	1475599363821	1475599363884	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355721	1475599364149	1475599364436	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355724	1475599364613	1475599364789	n	78
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355766	1475599364685	1475599364860	c	67
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355771	1475599364789	1475599364932	e	69
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355778	1475599364892	1475599365068	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355785	1475599365156	1475599365292	w	87
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355789	1475599365277	1475599365508	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355795	1475599365405	1475599365564	s	83
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355800	1475599365732	1475599365796	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355807	1475599365892	1475599365940	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355810	1475599366036	1475599366156	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355830	1475599366140	1475599366300	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355833	1475599366260	1475599366436	l	76
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355837	1475599366549	1475599366716	s	83
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355840	1475599366644	1475599366796	o	79
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355842	1475599366740	1475599366908	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355869	1475599366844	1475599366972	w	87
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355874	1475599366940	1475599367172	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355879	1475599367100	1475599367228	s	83
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355881	1475599367220	1475599367292	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355886	1475599367348	1475599367548	p	80
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355941	1475599367452	1475599367644	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355945	1475599367516	1475599367684	e	69
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355949	1475599367844	1475599368020	p	80
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355954	1475599367980	1475599368188	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355958	1475599368172	1475599368277	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355960	1475599368276	1475599368564	e	69
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355978	1475599368404	1475599368580	d	68
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355981	1475599368540	1475599368676	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355984	1475599368716	1475599368884	t	84
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355987	1475599368780	1475599368924	o	79
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355990	1475599368844	1475599369012	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133355994	1475599369060	1475599369268	p	80
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356025	1475599369100	1475599369276	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356029	1475599369340	1475599369540	t	84
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356032	1475599369452	1475599369612	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356035	1475599369588	1475599369692	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356039	1475599369748	1475599369924	c	67
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356061	1475599369884	1475599370044	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356066	1475599369988	1475599370156	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356071	1475599370124	1475599370356	p	80
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356076	1475599370444	1475599370628	t	84
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356083	1475599370580	1475599370740	e	69
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356155	1475599370676	1475599370796	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356159	1475599370884	1475599370996	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356165	1475599371108	1475599371244	n	78
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356170	1475599371284	1475599371324	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356174	1475599371772	1475599371844	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356179	1475599371916	1475599372068	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356242	1475599372036	1475599372164	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356246	1475599372140	1475599372284	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356252	1475599372332	1475599373244	SHIFT	16
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356248	1475599372964	1475599373044	U	85
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356257	1475599373148	1475599373292	N	78
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356262	1475599373276	1475599373428	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356269	1475599373436	1475599373548	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356364	1475599373652	1475599373732	m	77
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356367	1475599373844	1475599374012	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356370	1475599374436	1475599374483	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356375	1475599374572	1475599374619	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356380	1475599374708	1475599374804	BKSP	8
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356384	1475599375052	1475599375155	m	77
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356387	1475599375268	1475599375340	u	85
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356391	1475599375452	1475599375523	l	76
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356403	1475599375612	1475599375755	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356406	1475599376084	1475599376219	n	78
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356409	1475599376204	1475599376355	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356436	1475599376260	1475599376435	t	84
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356438	1475599376348	1475599376507	i	73
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356440	1475599376452	1475599376579	o	79
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356443	1475599376660	1475599376763	n	78
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356447	1475599376860	1475599377027	a	65
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356451	1475599376956	1475599377099	l	76
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356501	1475599377059	1475599377251	 	32
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356507	1475599377204	1475599377339	f	70
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356514	1475599377307	1475599377531	o	79
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356519	1475599377443	1475599377539	r	82
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356523	1475599377668	1475599377891	c	67
+262159	2807847	France also was prepared to participate in a UN multinational force.	France also was prepared to patriciapte in a UN mulinational force	133356512	1475599377772	1475599377931	e	69
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356661	1475599379579	1475599380043	SHIFT	16
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356663	1475599379867	1475599380083	S	83
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356665	1475599380091	1475599380187	o	79
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356668	1475599380299	1475599380379	r	82
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356672	1475599380459	1475599380579	r	82
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356693	1475599380531	1475599380675	y	89
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356699	1475599380643	1475599380771	 	32
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356704	1475599380731	1475599380843	f	70
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356708	1475599380867	1475599381019	o	79
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356711	1475599380947	1475599381083	r	82
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356730	1475599381067	1475599381171	 	32
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356734	1475599381164	1475599381275	t	84
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356737	1475599381227	1475599381419	h	72
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356741	1475599381339	1475599381507	e	69
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356744	1475599381403	1475599381563	 	32
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356843	1475599381555	1475599381675	i	73
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356845	1475599381723	1475599381915	n	78
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356847	1475599381859	1475599382027	f	70
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356848	1475599382459	1475599382491	BKSP	8
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356850	1475599382611	1475599382683	BKSP	8
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356854	1475599382763	1475599382811	BKSP	8
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356860	1475599383275	1475599383323	u	85
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356864	1475599383427	1475599383563	n	78
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356884	1475599383531	1475599383659	f	70
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356886	1475599383755	1475599383883	r	82
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356888	1475599383875	1475599384003	i	73
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356892	1475599383939	1475599384099	e	69
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356897	1475599384091	1475599384235	n	78
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356900	1475599384275	1475599384371	d	68
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356951	1475599384427	1475599384611	l	76
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356953	1475599384579	1475599384747	y	89
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356956	1475599384715	1475599384859	 	32
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133356962	1475599385123	1475599385275	g	71
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357001	1475599385227	1475599385339	r	82
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357003	1475599385363	1475599385475	e	69
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357005	1475599385579	1475599385779	e	69
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357007	1475599385715	1475599385883	t	84
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357009	1475599385843	1475599385939	i	73
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357011	1475599385995	1475599386107	n	78
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357028	1475599386043	1475599386179	g	71
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357032	1475599386139	1475599386235	 	32
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357035	1475599386211	1475599386323	i	73
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357038	1475599386371	1475599386491	n	78
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357040	1475599386507	1475599386651	t	84
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357084	1475599386619	1475599386763	h	72
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357090	1475599386723	1475599386867	e	69
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357098	1475599387227	1475599387267	BKSP	8
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357104	1475599387379	1475599387435	BKSP	8
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357107	1475599387507	1475599387610	BKSP	8
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357109	1475599387619	1475599387763	 	32
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357112	1475599387707	1475599387874	t	84
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357114	1475599387827	1475599387963	h	72
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357173	1475599387923	1475599388090	e	69
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357177	1475599388011	1475599388130	 	32
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357179	1475599388499	1475599388635	l	76
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357182	1475599388763	1475599388834	o	79
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357185	1475599389019	1475599389138	b	66
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357188	1475599389291	1475599389418	b	66
+262159	2807880	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby	133357206	1475599389451	1475599389522	y	89
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357339	1475599391802	1475599392218	SHIFT	16
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357335	1475599392050	1475599392106	I	73
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357344	1475599392578	1475599392674	'	222
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357349	1475599392834	1475599392890	l	76
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357351	1475599392970	1475599393090	l	76
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357407	1475599393066	1475599393178	 	32
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357409	1475599393410	1475599393714	t	84
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357412	1475599393666	1475599393810	r	82
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357414	1475599393762	1475599393914	y	89
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357418	1475599393866	1475599393978	 	32
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357420	1475599393986	1475599394218	a	65
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357441	1475599394090	1475599394234	n	78
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357442	1475599394210	1475599394346	d	68
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357447	1475599394306	1475599394402	 	32
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357452	1475599394514	1475599394690	g	71
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357458	1475599394594	1475599394754	e	69
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357463	1475599394698	1475599394858	t	84
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357487	1475599394794	1475599394946	 	32
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357492	1475599394986	1475599395154	t	84
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357494	1475599395098	1475599395178	i	73
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357498	1475599395458	1475599395594	BKSP	8
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357503	1475599395674	1475599395826	o	79
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357508	1475599395786	1475599395914	 	32
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357532	1475599395866	1475599396034	t	84
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357540	1475599395970	1475599396090	h	72
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357546	1475599396066	1475599396266	i	73
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357553	1475599396162	1475599396298	s	83
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357559	1475599396234	1475599396354	 	32
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357562	1475599396370	1475599396571	l	76
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357569	1475599396418	1475599396594	a	65
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357570	1475599396554	1475599396698	t	84
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357571	1475599396658	1475599396890	e	69
+262159	2807896	I'll try and get to this later today.	I'll try and get to this later.	133357572	1475599396786	1475599396978	r	82
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357704	1475599399130	1475599399450	SHIFT	16
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357700	1475599399274	1475599399394	I	73
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357709	1475599399546	1475599399722	n	78
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357713	1475599399674	1475599399786	 	32
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357718	1475599399770	1475599399930	a	65
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357782	1475599399874	1475599400026	 	32
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357784	1475599400090	1475599400258	x	88
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357787	1475599400194	1475599400337	o	79
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357790	1475599400418	1475599400522	i	73
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357792	1475599400666	1475599400714	BKSP	8
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357793	1475599400818	1475599400866	BKSP	8
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357794	1475599400946	1475599401065	BKSP	8
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357796	1475599401090	1475599401210	c	67
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357800	1475599401226	1475599401282	o	79
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357817	1475599401370	1475599401482	u	85
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357821	1475599401578	1475599401666	p	80
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357827	1475599401706	1475599401825	l	76
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357834	1475599401818	1475599401921	e	69
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357864	1475599401882	1475599402049	 	32
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357868	1475599402274	1475599402433	o	79
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357873	1475599402402	1475599402553	f	70
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357876	1475599402482	1475599402641	 	32
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357882	1475599402618	1475599402778	w	87
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357927	1475599402762	1475599402841	e	69
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357929	1475599402914	1475599403049	e	69
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357932	1475599403058	1475599403161	k	75
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357936	1475599403250	1475599403329	s	83
+262159	2807906	In a couple of weeks.	In a couple of weeks.	133357940	1475599403426	1475599403545	.	190
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358095	1475599405273	1475599405593	SHIFT	16
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358093	1475599405417	1475599405586	H	72
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358096	1475599405586	1475599405777	E	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358098	1475599405673	1475599405809	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358100	1475599406377	1475599406425	BKSP	8
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358102	1475599406529	1475599406649	BKSP	8
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358103	1475599406585	1475599406737	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358166	1475599406721	1475599406865	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358170	1475599407145	1475599407329	d	68
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358174	1475599407297	1475599407425	i	73
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358177	1475599407393	1475599407553	s	83
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358180	1475599407857	1475599408017	p	80
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358184	1475599408289	1475599408473	u	85
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358208	1475599408417	1475599408513	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358211	1475599408521	1475599408737	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358213	1475599408657	1475599408785	d	68
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358214	1475599408729	1475599408913	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358216	1475599408937	1475599409113	r	82
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358237	1475599409041	1475599409217	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358240	1475599409169	1475599409329	p	80
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358242	1475599409265	1475599409513	o	79
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358246	1475599409425	1475599409593	r	82
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358249	1475599409505	1475599409721	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358262	1475599409713	1475599409865	s	83
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358266	1475599409833	1475599409953	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358270	1475599409961	1475599410105	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358272	1475599410065	1475599410153	h	72
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358274	1475599410209	1475599410329	a	65
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358388	1475599410281	1475599410457	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358390	1475599410393	1475599410569	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358395	1475599410553	1475599410753	w	87
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358398	1475599410977	1475599411129	BKSP	8
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358401	1475599411081	1475599411289	SHIFT	16
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358406	1475599411185	1475599411297	W	87
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358414	1475599411393	1475599411585	h	72
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358421	1475599411641	1475599411801	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358440	1475599411825	1475599412017	a	65
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358442	1475599411993	1475599412121	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358446	1475599412361	1475599412553	l	76
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358450	1475599412425	1475599412641	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358493	1475599412561	1475599412713	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358497	1475599412657	1475599412833	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358501	1475599413009	1475599413249	w	87
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358499	1475599413137	1475599413249	o	79
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358502	1475599413257	1475599413418	u	85
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358515	1475599413417	1475599413601	l	76
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358521	1475599413465	1475599413632	d	68
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358533	1475599413609	1475599413689	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358543	1475599413745	1475599413881	b	66
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358551	1475599413833	1475599414017	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358695	1475599413929	1475599414088	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358699	1475599414689	1475599414808	o	79
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358702	1475599415545	1475599415720	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358705	1475599415865	1475599415968	BKSP	8
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358710	1475599416145	1475599416280	u	85
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358714	1475599416217	1475599416360	t	84
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358755	1475599416321	1475599416504	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358756	1475599416561	1475599416696	f	70
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358757	1475599416657	1475599416824	o	79
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358758	1475599416737	1475599416888	r	82
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358760	1475599417057	1475599417136	BKSP	8
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358762	1475599417281	1475599417440	u	85
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358780	1475599417401	1475599417576	r	82
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358783	1475599417505	1475599417656	 	32
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358785	1475599417664	1475599417808	w	87
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358789	1475599417777	1475599417848	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358792	1475599417921	1475599418040	e	69
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358806	1475599418025	1475599418136	k	75
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358809	1475599418120	1475599418200	s	83
+262159	2807909	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatlet would be out four weeks.	133358811	1475599418296	1475599418440	.	190
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358947	1475599420232	1475599420504	SHIFT	16
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358953	1475599420368	1475599420576	I	73
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358958	1475599420496	1475599420665	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358960	1475599420584	1475599420720	d	68
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358963	1475599420664	1475599420768	o	79
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358967	1475599420816	1475599420984	n	78
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358997	1475599420904	1475599421032	t	84
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133358999	1475599420968	1475599421080	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359004	1475599421120	1475599421304	t	84
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359007	1475599421160	1475599421328	h	72
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359011	1475599421264	1475599421384	i	73
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359013	1475599421440	1475599421496	n	78
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359015	1475599421576	1475599421616	l	76
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359078	1475599422064	1475599422152	BKSP	8
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359080	1475599422288	1475599422456	k	75
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359084	1475599422472	1475599422640	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359088	1475599422608	1475599422824	w	87
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359090	1475599422768	1475599422968	e	69
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359100	1475599422904	1475599422984	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359110	1475599423048	1475599423216	n	78
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359106	1475599423160	1475599423208	e	69
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359113	1475599423320	1475599423512	e	69
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359116	1475599423416	1475599423552	d	68
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359135	1475599423528	1475599423656	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359144	1475599423680	1475599423856	t	84
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359138	1475599423744	1475599423848	o	79
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359148	1475599423816	1475599423888	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359150	1475599423976	1475599424064	m	77
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359168	1475599424016	1475599424192	a	65
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359177	1475599424128	1475599424280	k	75
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359186	1475599424240	1475599424376	e	69
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359194	1475599424336	1475599424424	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359244	1475599424440	1475599424616	a	65
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359203	1475599424504	1475599424592	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359246	1475599424792	1475599424896	b	66
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359248	1475599424944	1475599425160	i	73
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359251	1475599425064	1475599425176	g	71
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359253	1475599425136	1475599425320	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359255	1475599425336	1475599425464	d	68
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359278	1475599425472	1475599425632	e	69
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359281	1475599425592	1475599425792	a	65
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359283	1475599425696	1475599425848	l	76
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359285	1475599425784	1475599425976	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359290	1475599425960	1475599426135	o	79
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359293	1475599426056	1475599426192	f	70
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359297	1475599426128	1475599426272	 	32
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359301	1475599426352	1475599426536	t	84
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359311	1475599426440	1475599426583	h	72
+262159	2807926	I don't think we need to make a big deal of this.	I dont think we need to make a big deal of this	133359313	1475599426504	1475599426688	i	73
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359654	1475599426640	1475599432287	s	83
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359461	1475599428295	1475599428559	SHIFT	16
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359466	1475599428496	1475599428647	H	72
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359468	1475599428680	1475599428847	t	84
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359474	1475599428840	1475599429016	e	69
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359480	1475599428920	1475599429031	y	89
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359484	1475599429288	1475599429383	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359488	1475599429480	1475599429535	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359489	1475599429647	1475599429703	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359491	1475599429807	1475599429967	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359493	1475599429911	1475599430231	SHIFT	16
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359497	1475599430120	1475599430263	T	84
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359500	1475599430303	1475599430407	h	72
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359504	1475599430400	1475599430519	e	69
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359510	1475599430496	1475599430591	y	89
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359514	1475599430560	1475599430623	 	32
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359518	1475599430679	1475599430775	h	72
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359539	1475599430752	1475599430911	a	65
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359546	1475599430864	1475599430975	v	86
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359561	1475599430968	1475599431143	e	69
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359551	1475599431040	1475599431127	 	32
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359564	1475599431199	1475599431279	n	78
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359566	1475599431352	1475599431527	o	79
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359639	1475599431743	1475599431903	t	84
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359642	1475599431872	1475599431983	 	32
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359647	1475599432055	1475599432255	u	85
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359661	1475599432391	1475599432519	s	83
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359668	1475599432520	1475599432727	u	85
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359763	1475599432639	1475599432895	e	69
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359765	1475599432743	1475599432927	d	68
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359767	1475599432967	1475599433023	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359769	1475599433127	1475599433183	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359775	1475599433263	1475599433335	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359781	1475599433551	1475599433639	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359786	1475599433735	1475599433823	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359789	1475599433959	1475599434103	i	73
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359793	1475599434095	1475599434159	s	83
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359799	1475599434255	1475599434377	s	83
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359811	1475599434359	1475599434543	u	85
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359816	1475599434471	1475599434703	e	69
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359822	1475599434567	1475599434743	d	68
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359827	1475599434679	1475599434847	 	32
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359833	1475599435007	1475599435175	a	65
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359852	1475599435095	1475599435231	n	78
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359856	1475599435191	1475599435343	 	32
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359860	1475599435335	1475599435599	o	79
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359858	1475599435455	1475599435559	r	82
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359862	1475599435671	1475599435727	e	68
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359895	1475599435879	1475599436039	r	82
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359903	1475599435991	1475599436103	 	32
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359909	1475599436391	1475599436535	y	89
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359914	1475599436431	1475599436671	e	69
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359960	1475599436543	1475599436735	t	84
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359963	1475599436759	1475599436911	SHIFT	16
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359965	1475599436887	1475599436999	?	191
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359966	1475599437319	1475599437423	BKSP	8
+262159	2807935	They have not issued an order yet.	They have not issued an order yet/	133359967	1475599437551	1475599437679	/	191

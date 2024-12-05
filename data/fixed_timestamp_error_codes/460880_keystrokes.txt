@@ -1,0 +1,582 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+460880	4963408	Hope all is well.	Hope all is well.	235607067	1478281835606	1478281836180	SHIFT	16
+460880	4963408	Hope all is well.	Hope all is well.	235607060	1478281836060	1478281836172	H	72
+460880	4963408	Hope all is well.	Hope all is well.	235607075	1478281836220	1478281836364	o	79
+460880	4963408	Hope all is well.	Hope all is well.	235607083	1478281836292	1478281836404	p	80
+460880	4963408	Hope all is well.	Hope all is well.	235607088	1478281836324	1478281836446	e	69
+460880	4963408	Hope all is well.	Hope all is well.	235607111	1478281836412	1478281836540	 	32
+460880	4963408	Hope all is well.	Hope all is well.	235607117	1478281836500	1478281836605	a	65
+460880	4963408	Hope all is well.	Hope all is well.	235607123	1478281836572	1478281836628	l	76
+460880	4963408	Hope all is well.	Hope all is well.	235607131	1478281836700	1478281836764	l	76
+460880	4963408	Hope all is well.	Hope all is well.	235607137	1478281836772	1478281836844	 	32
+460880	4963408	Hope all is well.	Hope all is well.	235607145	1478281836860	1478281836972	i	73
+460880	4963408	Hope all is well.	Hope all is well.	235607163	1478281836940	1478281837034	s	83
+460880	4963408	Hope all is well.	Hope all is well.	235607173	1478281836996	1478281837132	 	32
+460880	4963408	Hope all is well.	Hope all is well.	235607182	1478281837100	1478281837196	w	87
+460880	4963408	Hope all is well.	Hope all is well.	235607188	1478281837164	1478281837258	e	69
+460880	4963408	Hope all is well.	Hope all is well.	235607194	1478281837220	1478281837267	l	76
+460880	4963408	Hope all is well.	Hope all is well.	235607199	1478281837340	1478281837388	l	76
+460880	4963408	Hope all is well.	Hope all is well.	235607361	1478281837468	1478281837500	.	190
+460880	4963420	What did Mark say?	What did Mark say	235607714	1478281842356	1478281842860	SHIFT	16
+460880	4963420	What did Mark say?	What did Mark say	235607717	1478281842796	1478281842884	W	87
+460880	4963420	What did Mark say?	What did Mark say	235607723	1478281842876	1478281843004	h	72
+460880	4963420	What did Mark say?	What did Mark say	235607731	1478281842956	1478281843060	a	65
+460880	4963420	What did Mark say?	What did Mark say	235607738	1478281843020	1478281843148	t	84
+460880	4963420	What did Mark say?	What did Mark say	235607767	1478281843116	1478281843268	 	32
+460880	4963420	What did Mark say?	What did Mark say	235607770	1478281843228	1478281843332	d	68
+460880	4963420	What did Mark say?	What did Mark say	235607774	1478281843300	1478281843379	i	73
+460880	4963420	What did Mark say?	What did Mark say	235607781	1478281843387	1478281843476	d	68
+460880	4963420	What did Mark say?	What did Mark say	235607785	1478281843444	1478281843531	 	32
+460880	4963420	What did Mark say?	What did Mark say	235607797	1478281843532	1478281843644	SHIFT	16
+460880	4963420	What did Mark say?	What did Mark say	235607815	1478281843611	1478281843748	M	77
+460880	4963420	What did Mark say?	What did Mark say	235607823	1478281843715	1478281843836	a	65
+460880	4963420	What did Mark say?	What did Mark say	235607829	1478281843796	1478281843903	r	82
+460880	4963420	What did Mark say?	What did Mark say	235607837	1478281843869	1478281844012	k	75
+460880	4963420	What did Mark say?	What did Mark say	235607844	1478281843964	1478281844100	 	32
+460880	4963420	What did Mark say?	What did Mark say	235607882	1478281844044	1478281844180	s	83
+460880	4963420	What did Mark say?	What did Mark say	235607890	1478281844132	1478281844222	a	65
+460880	4963420	What did Mark say?	What did Mark say	235607897	1478281844187	1478281844260	y	89
+460880	4963420	What did Mark say?	What did Mark say	235607903	1478281844388	1478281844451	CTRL	17
+460880	4963420	What did Mark say?	What did Mark say	235607909	1478281844443	1478281844523	WIN	91
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608091	1478281847092	1478281847348	SHIFT	16
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608095	1478281847276	1478281847400	T	84
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608099	1478281847364	1478281847463	h	72
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608102	1478281847427	1478281847535	i	73
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608106	1478281847467	1478281847595	s	83
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608216	1478281847555	1478281847651	 	32
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608220	1478281848140	1478281848196	t	84
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608224	1478281848324	1478281848452	r	82
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608228	1478281848420	1478281848516	a	65
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608231	1478281848532	1478281848676	n	78
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608264	1478281848620	1478281848756	s	83
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608270	1478281848723	1478281848852	a	65
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608275	1478281848819	1478281848908	c	67
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608281	1478281849020	1478281849092	t	84
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608291	1478281849052	1478281849260	i	73
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608324	1478281849140	1478281849291	o	79
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608328	1478281849220	1478281849315	n	78
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608337	1478281849284	1478281849364	 	32
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608350	1478281849388	1478281849532	i	73
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608341	1478281849460	1478281849524	s	83
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608361	1478281849524	1478281849667	 	32
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608426	1478281849659	1478281849723	e	69
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608434	1478281849835	1478281849923	x	88
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608440	1478281849963	1478281850116	p	80
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608448	1478281850084	1478281850196	e	69
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608455	1478281850163	1478281850235	c	67
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608463	1478281850332	1478281850420	t	84
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608476	1478281850428	1478281850580	e	69
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608481	1478281850540	1478281850644	d	68
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608486	1478281850612	1478281850780	 	32
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608493	1478281850748	1478281850844	t	84
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608528	1478281850812	1478281850891	o	79
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608532	1478281850883	1478281850971	 	32
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608538	1478281851011	1478281851107	c	67
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608546	1478281851131	1478281851283	l	76
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608556	1478281851187	1478281851316	o	79
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608617	1478281851284	1478281851355	e	83
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608621	1478281851403	1478281851467	 	32
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608628	1478281851454	1478281851556	n	78
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608638	1478281851524	1478281851763	e	69
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608647	1478281851660	1478281851764	x	88
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608659	1478281852005	1478281852124	t	84
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608680	1478281852156	1478281852260	 	32
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608684	1478281852252	1478281852332	y	89
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608688	1478281852340	1478281852444	e	69
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608691	1478281852389	1478281852517	a	65
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608792	1478281852482	1478281852524	r	82
+460880	4963432	This transaction is expected to close next year.	This transaction is expected to close next year.	235608795	1478281852605	1478281852638	.	190
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609100	1478281856421	1478281856901	SHIFT	16
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609104	1478281856837	1478281856925	S	83
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609108	1478281856932	1478281857061	h	72
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609112	1478281857021	1478281857123	e	69
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609118	1478281857084	1478281857188	 	32
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609145	1478281857149	1478281857318	h	72
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609152	1478281857228	1478281857349	a	65
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609159	1478281857284	1478281857390	s	83
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609166	1478281857356	1478281857493	 	32
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609175	1478281857461	1478281857573	t	84
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609189	1478281857540	1478281857676	h	72
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609191	1478281857605	1478281857692	e	69
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609199	1478281857644	1478281857780	 	32
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609206	1478281857749	1478281857863	g	71
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609207	1478281857813	1478281857933	a	65
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609229	1478281857901	1478281858004	m	77
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609235	1478281857957	1478281858057	e	69
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609242	1478281858020	1478281858156	 	32
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609251	1478281858100	1478281858208	t	84
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609259	1478281858172	1478281858300	o	79
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609261	1478281858308	1478281858412	m	77
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609292	1478281858380	1478281858500	o	79
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609297	1478281858461	1478281858516	r	82
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609301	1478281858597	1478281858684	r	82
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609307	1478281858652	1478281858724	o	79
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609312	1478281858748	1478281858804	w	87
+460880	4963452	She has the game tomorrow.	She has the game tomorrow.	235609314	1478281858877	1478281858931	.	190
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609658	1478281861076	1478281862916	SHIFT	16
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609650	1478281862804	1478281862892	H	72
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609665	1478281862860	1478281862980	O	79
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609670	1478281863004	1478281863068	w	87
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609674	1478281863172	1478281863285	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609744	1478281863276	1478281863364	f	70
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609747	1478281863380	1478281863516	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609753	1478281863476	1478281863580	r	82
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609757	1478281863581	1478281863709	,	188
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609762	1478281863804	1478281863932	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609766	1478281864068	1478281864156	h	72
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609808	1478281864196	1478281864300	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609811	1478281864444	1478281864500	'	222
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609816	1478281864548	1478281864686	s	83
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609822	1478281864652	1478281864764	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609831	1478281864772	1478281864876	n	78
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609861	1478281864828	1478281864933	o	79
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609865	1478281864940	1478281865014	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609869	1478281865004	1478281865140	b	66
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609874	1478281865097	1478281865203	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609878	1478281865165	1478281865220	t	84
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609883	1478281865308	1478281865364	t	84
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609890	1478281865380	1478281865548	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609892	1478281865492	1478281865597	r	82
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609898	1478281865588	1478281865708	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609904	1478281865668	1478281865740	t	84
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609946	1478281865732	1478281865815	h	72
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609950	1478281865804	1478281865909	a	65
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609954	1478281865900	1478281866047	n	78
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609958	1478281866036	1478281866124	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609961	1478281866164	1478281866276	w	87
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609992	1478281866244	1478281866348	a	65
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235609997	1478281866316	1478281866468	i	73
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610006	1478281866420	1478281866500	v	86
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610011	1478281866532	1478281866684	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610019	1478281866628	1478281866737	r	82
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610085	1478281866700	1478281866860	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610089	1478281866828	1478281866861	f	70
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610095	1478281866956	1478281867076	w	87
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610099	1478281867244	1478281867292	BKSP	8
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610103	1478281867364	1478281867493	BKSP	8
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610108	1478281867485	1478281867548	w	87
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610114	1478281867564	1478281867676	i	73
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610121	1478281867628	1478281867772	r	82
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610127	1478281867716	1478281867812	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610136	1478281867764	1478281867877	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610144	1478281867932	1478281867988	f	70
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610150	1478281867996	1478281868124	o	79
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610172	1478281868116	1478281868180	d	68
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610176	1478281868270	1478281868356	d	68
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610187	1478281868364	1478281868516	e	69
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610192	1478281868444	1478281868575	r	82
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610197	1478281868524	1478281868618	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610242	1478281868580	1478281868716	i	73
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610243	1478281868644	1478281868780	n	78
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610246	1478281868748	1478281868893	SHIFT	16
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610248	1478281868860	1478281868948	F	70
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610251	1478281868972	1478281869068	a	65
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610255	1478281869069	1478281869212	n	78
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610280	1478281869156	1478281869236	t	84
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610286	1478281869297	1478281869413	a	65
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610293	1478281869349	1478281869453	s	83
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610296	1478281869453	1478281869565	y	89
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610302	1478281869509	1478281869613	 	32
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610306	1478281869597	1478281869725	SHIFT	16
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610316	1478281869678	1478281869749	F	70
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610320	1478281869773	1478281869813	o	79
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610324	1478281869893	1478281869966	o	79
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610331	1478281869957	1478281870029	t	84
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610338	1478281870045	1478281870149	b	66
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610347	1478281870109	1478281870197	a	65
+460880	4963464	However, he's no better than waiver wire fodder in Fantasy Football.	HOwefer, he's no better than waiver wire fodder inFantasy Football	235610352	1478281870197	1478281870269	l	76
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610611	1478281872965	1478281873397	SHIFT	16
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610608	1478281873285	1478281873349	I	73
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610613	1478281873549	1478281873581	t	84
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610615	1478281873653	1478281873717	'	222
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610616	1478281873829	1478281873941	s	83
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610636	1478281873933	1478281874061	 	32
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610640	1478281874117	1478281874229	q	81
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610644	1478281874237	1478281874344	u	85
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610647	1478281874313	1478281874429	i	73
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610648	1478281874357	1478281874481	t	84
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610657	1478281874445	1478281874534	e	69
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610662	1478281874525	1478281874621	 	32
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610666	1478281874629	1478281874709	a	65
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610673	1478281874733	1478281874877	 	32
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610677	1478281874837	1478281874939	w	87
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610707	1478281874901	1478281874981	e	69
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610710	1478281875061	1478281875125	e	69
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610713	1478281875117	1478281875205	k	75
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610716	1478281875205	1478281875285	e	69
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610719	1478281875293	1478281875365	n	78
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610725	1478281875397	1478281875477	d	68
+460880	4963482	It's quite a weekend.	It's quite a weekend.	235610736	1478281875661	1478281875717	.	190
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235610960	1478281877533	1478281877742	SHIFT	16
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235610962	1478281877669	1478281877773	W	87
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235610966	1478281877821	1478281877917	e	69
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235610973	1478281878005	1478281878141	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235610978	1478281878157	1478281878254	w	87
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611018	1478281878221	1478281878333	i	73
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611025	1478281878429	1478281878541	l	76
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611031	1478281878509	1478281878621	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611041	1478281878573	1478281878686	w	87
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611050	1478281878653	1478281878757	o	79
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611071	1478281878725	1478281878789	r	82
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611079	1478281878797	1478281878925	k	75
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611087	1478281878893	1478281878957	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611095	1478281879005	1478281879149	o	79
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611122	1478281879053	1478281879151	n	78
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611126	1478281879117	1478281879222	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611129	1478281879189	1478281879285	t	84
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611133	1478281879253	1478281879381	h	72
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611136	1478281879333	1478281879429	e	69
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611138	1478281879389	1478281879461	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611140	1478281879517	1478281879605	c	67
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611154	1478281879637	1478281879757	a	65
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611157	1478281879725	1478281879838	r	82
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611165	1478281879829	1478281879972	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611170	1478281879965	1478281880081	a	65
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611178	1478281880081	1478281880213	n	78
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611201	1478281880133	1478281880247	d	68
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611208	1478281880214	1478281880349	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611213	1478281880317	1478281880381	t	84
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611219	1478281880477	1478281880565	r	82
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611224	1478281880533	1478281880645	y	89
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611236	1478281880613	1478281880765	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611246	1478281880733	1478281880812	t	84
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611256	1478281880821	1478281880957	o	79
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611264	1478281880925	1478281881061	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611274	1478281881029	1478281881117	g	71
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611287	1478281881062	1478281881181	o	79
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611292	1478281881205	1478281881293	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611295	1478281881285	1478281881429	a	65
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611302	1478281881397	1478281881469	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611307	1478281881461	1478281881605	l	76
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611324	1478281881517	1478281881629	i	73
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611328	1478281881597	1478281881653	t	84
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611335	1478281881725	1478281881821	t	84
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611341	1478281881789	1478281881917	l	76
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611347	1478281881868	1478281881965	e	69
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611353	1478281881981	1478281882079	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611360	1478281882037	1478281882157	q	81
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611366	1478281882125	1478281882233	u	85
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611371	1478281882189	1478281882285	i	73
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611375	1478281882245	1478281882324	c	67
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611381	1478281882365	1478281882525	k	75
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611393	1478281882437	1478281882564	e	69
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611396	1478281882493	1478281882617	r	82
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611400	1478281882581	1478281882677	 	32
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611402	1478281882685	1478281882733	y	89
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611406	1478281882797	1478281882894	e	69
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611417	1478281882861	1478281882917	t	84
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611426	1478281883005	1478281883054	/	191
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611516	1478281884013	1478281884061	BKSP	8
+460880	4963493	We will work on the car and try to go a little quicker yet.	We wll work on the car and try to go a little quicker yet.	235611519	1478281884181	1478281884230	.	190
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611707	1478281884389	1478281886357	SHIFT	16
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611710	1478281886285	1478281886461	W	87
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611718	1478281886397	1478281886549	e	69
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611722	1478281886509	1478281886613	 	32
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611730	1478281886579	1478281886675	o	79
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611740	1478281886636	1478281886783	n	78
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611745	1478281886741	1478281886854	l	76
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611751	1478281886774	1478281886878	y	89
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611758	1478281886846	1478281886925	 	32
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611767	1478281886910	1478281887054	h	72
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611772	1478281886982	1478281887094	a	65
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611777	1478281887109	1478281887214	v	86
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611782	1478281887182	1478281887285	e	69
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611790	1478281887277	1478281887406	 	32
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611867	1478281887366	1478281887461	t	84
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611872	1478281887398	1478281887501	h	72
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611875	1478281887509	1478281887630	 	32
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611880	1478281887622	1478281887757	p	80
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611881	1478281887710	1478281887813	o	79
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611885	1478281888021	1478281888101	BKSP	8
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611892	1478281888197	1478281888230	BKSP	8
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611899	1478281888309	1478281888381	BKSP	8
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611904	1478281888501	1478281888613	e	69
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611890	1478281888574	1478281888688	 	32
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611896	1478281888650	1478281888806	p	80
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611901	1478281888718	1478281888848	o	79
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611906	1478281888773	1478281888911	w	87
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611930	1478281888813	1478281888953	e	69
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611937	1478281888877	1478281888965	r	82
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611945	1478281888917	1478281889026	 	32
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611953	1478281888989	1478281889149	o	79
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611961	1478281889109	1478281889214	f	70
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611965	1478281889181	1478281889293	 	32
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611969	1478281889349	1478281889502	p	80
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611992	1478281889469	1478281889566	e	69
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235611996	1478281889533	1478281889629	r	82
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612004	1478281889621	1478281889702	s	83
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612010	1478281889781	1478281889870	a	65
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612015	1478281889871	1478281889981	u	85
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612019	1478281890149	1478281890269	s	83
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612056	1478281890229	1478281890413	i	73
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612059	1478281890301	1478281890430	o	79
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612064	1478281890366	1478281890469	n	78
+460880	4963504	We only have the power of persuasion.	We only have the power of persausion.	235612067	1478281890670	1478281890714	.	190
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612267	1478281893040	1478281893336	SHIFT	16
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612274	1478281893304	1478281893407	C	67
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612282	1478281893439	1478281893495	a	65
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612287	1478281893543	1478281893640	n	78
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612294	1478281893647	1478281893744	 	32
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612302	1478281893744	1478281893815	y	89
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612316	1478281893831	1478281893967	o	79
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612313	1478281893904	1478281893959	u	85
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612318	1478281893975	1478281894064	 	32
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612319	1478281894055	1478281894127	h	72
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612321	1478281894159	1478281894263	e	69
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612347	1478281894255	1478281894399	l	76
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612355	1478281894319	1478281894423	p	80
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612360	1478281894431	1478281894575	 	32
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612369	1478281894519	1478281894618	w	87
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612375	1478281894583	1478281894674	i	73
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612381	1478281894695	1478281894791	t	84
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612384	1478281894799	1478281894871	h	72
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612391	1478281894863	1478281895007	 	32
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612395	1478281894960	1478281895047	t	84
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612402	1478281894999	1478281895127	h	72
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612409	1478281895055	1478281895175	i	73
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612411	1478281895129	1478281895239	s	83
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612413	1478281895199	1478281895287	 	32
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612416	1478281895279	1478281895383	o	79
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612420	1478281895343	1478281895436	n	78
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612446	1478281895399	1478281895455	e	69
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612456	1478281895543	1478281895723	SHIFT	16
+460880	4963519	Can you help with this one?	Can you help with this one>?	235612452	1478281895631	1478281895687	?	190
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612600	1478281897656	1478281897855	SHIFT	16
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612605	1478281897776	1478281897896	L	76
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612611	1478281897936	1478281898064	e	69
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612618	1478281898031	1478281898120	t	84
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612624	1478281898199	1478281898327	'	222
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612631	1478281898360	1478281898463	s	83
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612658	1478281898465	1478281898575	 	32
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612662	1478281898760	1478281898919	l	76
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612666	1478281898872	1478281898983	e	69
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612673	1478281898944	1478281899061	a	65
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612677	1478281899061	1478281899168	v	86
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612699	1478281899136	1478281899231	e	69
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612705	1478281899199	1478281899304	 	32
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612710	1478281899296	1478281899423	i	73
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612714	1478281899384	1478281899496	t	84
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612718	1478281899463	1478281899559	 	32
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612721	1478281899575	1478281899704	u	85
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612732	1478281899671	1478281899791	n	78
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612734	1478281899815	1478281899911	t	84
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612740	1478281899951	1478281900111	i	73
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612745	1478281900056	1478281900183	l	76
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612755	1478281900191	1478281900295	 	32
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612790	1478281900287	1478281900415	w	87
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612795	1478281900368	1478281900463	e	69
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612799	1478281900464	1478281900600	 	32
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612803	1478281900567	1478281900647	g	71
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612809	1478281900655	1478281900799	e	69
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612817	1478281900751	1478281900833	t	84
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612821	1478281900801	1478281900879	 	32
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612825	1478281900919	1478281900999	g	71
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612829	1478281901007	1478281901159	o	79
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612855	1478281901063	1478281901167	i	73
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612859	1478281901119	1478281901183	n	78
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612862	1478281901175	1478281901247	g	71
+460880	4963526	Let's leave it until we get going.	Let's leave it until we get going.	235612866	1478281901448	1478281901511	.	190
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613031	1478281903119	1478281903611	SHIFT	16
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613037	1478281903575	1478281903663	T	84
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613047	1478281903743	1478281903887	h	72
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613054	1478281903847	1478281903967	e	69
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613061	1478281903959	1478281904040	 	32
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613087	1478281904031	1478281904159	i	73
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613091	1478281904087	1478281904175	n	78
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613096	1478281904167	1478281904248	f	70
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613101	1478281904312	1478281904416	o	79
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613110	1478281904432	1478281904504	r	82
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613114	1478281904520	1478281904592	m	77
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613126	1478281904600	1478281904688	a	65
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613130	1478281904696	1478281904776	l	76
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613133	1478281904800	1478281904904	 	32
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613138	1478281904872	1478281905026	c	67
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613170	1478281904987	1478281905112	o	79
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613175	1478281905072	1478281905184	s	83
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613180	1478281905152	1478281905232	t	84
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613190	1478281905248	1478281905368	s	83
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613195	1478281905369	1478281905456	 	32
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613203	1478281905472	1478281905616	h	72
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613213	1478281905544	1478281905640	a	65
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613217	1478281905641	1478281905769	v	86
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613224	1478281905737	1478281905848	e	69
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613231	1478281905816	1478281905952	 	32
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613235	1478281905912	1478281906015	t	84
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613252	1478281905968	1478281906128	o	79
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613256	1478281906072	1478281906168	 	32
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613259	1478281906192	1478281906272	d	68
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613262	1478281906288	1478281906384	i	73
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613265	1478281906376	1478281906496	s	83
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613281	1478281906456	1478281906544	a	65
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613287	1478281906560	1478281906640	p	80
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613297	1478281906712	1478281906840	p	80
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613304	1478281906808	1478281906928	e	69
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613311	1478281906896	1478281907000	a	65
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613514	1478281906968	1478281907040	r	82
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613522	1478281907152	1478281907192	.	190
+460880	4963538	The informal costs have to disappear.	The informal costs have to disappear.\	235613531	1478281909113	1478281909154	\	220
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613671	1478281911208	1478281911472	SHIFT	16
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613673	1478281911408	1478281911552	W	87
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613675	1478281911648	1478281911776	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613676	1478281911768	1478281911848	 	32
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613724	1478281911888	1478281911992	 	84
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613731	1478281911984	1478281912072	a	65
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613737	1478281912112	1478281912232	l	76
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613741	1478281912192	1478281912248	k	75
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613744	1478281912360	1478281912528	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613771	1478281912480	1478281912568	d	68
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613774	1478281913008	1478281913128	 	32
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613779	1478281913336	1478281913432	q	81
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613784	1478281913433	1478281913544	u	85
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613791	1478281913536	1478281913600	i	73
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613810	1478281913568	1478281913640	c	67
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613813	1478281913680	1478281913824	k	75
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613818	1478281913744	1478281913872	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613826	1478281913816	1478281913904	t	84
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235613835	1478281913936	1478281914088	l	76
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614099	1478281914036	1478281914160	y	89
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614100	1478281914128	1478281914224	 	32
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614101	1478281914432	1478281914504	q	81
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614102	1478281914952	1478281915000	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614103	1478281915072	1478281915128	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614104	1478281915264	1478281915344	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614105	1478281915440	1478281915512	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614107	1478281915600	1478281915680	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614112	1478281915768	1478281915856	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614118	1478281916648	1478281916720	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614126	1478281916832	1478281916912	BKSP	8
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614134	1478281917352	1478281917513	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614142	1478281917480	1478281917584	t	84
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614152	1478281917648	1478281917784	l	76
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614155	1478281917776	1478281917848	y	89
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614162	1478281917888	1478281918000	 	32
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614172	1478281918040	1478281918136	w	87
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614179	1478281918104	1478281918216	h	72
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614182	1478281918160	1478281918304	i	73
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614192	1478281918232	1478281918352	l	76
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614196	1478281918272	1478281918384	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614202	1478281918400	1478281918528	 	32
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614208	1478281918496	1478281918600	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614213	1478281918632	1478281918720	v	86
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614219	1478281918712	1478281918848	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614252	1478281918816	1478281918920	r	82
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614254	1478281918888	1478281918960	y	89
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614260	1478281919208	1478281919320	b	66
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614268	1478281919280	1478281919416	o	79
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614274	1478281919408	1478281919528	d	68
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614323	1478281919496	1478281919632	y	89
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614326	1478281919600	1478281919704	 	32
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614333	1478281919808	1478281919904	g	71
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614338	1478281919912	1478281920056	a	65
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614343	1478281920024	1478281920104	t	84
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614346	1478281920104	1478281920192	h	72
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614358	1478281920184	1478281920264	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614362	1478281920232	1478281920328	r	82
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614365	1478281920352	1478281920480	e	69
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614368	1478281920448	1478281920520	d	68
+460880	4963546	We talked quietly while everybody gathered.	We t alked quietly while everybody gathered.	235614370	1478281920608	1478281920680	.	190
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614549	1478281922199	1478281922846	SHIFT	16
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614554	1478281922809	1478281922937	I	73
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614561	1478281922977	1478281923121	n	78
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614568	1478281923089	1478281923185	 	32
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614573	1478281923217	1478281923281	a	65
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614576	1478281923513	1478281923681	 	32
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614626	1478281923649	1478281923720	s	83
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614628	1478281923985	1478281924081	e	69
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614630	1478281924153	1478281924305	p	80
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614633	1478281924265	1478281924353	a	65
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614637	1478281924353	1478281924433	r	82
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614642	1478281924448	1478281924545	a	65
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614655	1478281924547	1478281924657	t	84
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614660	1478281924617	1478281924745	e	69
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614662	1478281924745	1478281924841	 	32
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614668	1478281924809	1478281924888	r	82
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614714	1478281924881	1478281924937	o	79
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614717	1478281925008	1478281925113	o	79
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614718	1478281925081	1478281925181	m	77
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614720	1478281925337	1478281925417	,	188
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614721	1478281925440	1478281925537	 	32
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614722	1478281925585	1478281925729	n	78
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614757	1478281925681	1478281925865	e	69
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614761	1478281925768	1478281925872	x	88
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614765	1478281925984	1478281926105	t	84
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614771	1478281926073	1478281926169	 	32
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614778	1478281926193	1478281926305	d	68
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614808	1478281926297	1478281926365	o	79
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614811	1478281926425	1478281926472	o	79
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614815	1478281926520	1478281926617	r	82
+460880	4963562	In a separate room, next door.	In a separate room, next door.	235614818	1478281926737	1478281926841	.	190
+460880	4963571	Mostly a social call.	Mostly a social call.	235614988	1478281928881	1478281929049	SHIFT	16
+460880	4963571	Mostly a social call.	Mostly a social call.	235614989	1478281928985	1478281929101	M	77
+460880	4963571	Mostly a social call.	Mostly a social call.	235614991	1478281929064	1478281929169	o	79
+460880	4963571	Mostly a social call.	Mostly a social call.	235614993	1478281929176	1478281929279	s	83
+460880	4963571	Mostly a social call.	Mostly a social call.	235614998	1478281929241	1478281929328	t	84
+460880	4963571	Mostly a social call.	Mostly a social call.	235615003	1478281929345	1478281929473	l	76
+460880	4963571	Mostly a social call.	Mostly a social call.	235615023	1478281929441	1478281929545	y	89
+460880	4963571	Mostly a social call.	Mostly a social call.	235615025	1478281929553	1478281929641	 	32
+460880	4963571	Mostly a social call.	Mostly a social call.	235615029	1478281929672	1478281929777	a	65
+460880	4963571	Mostly a social call.	Mostly a social call.	235615032	1478281929793	1478281929930	 	32
+460880	4963571	Mostly a social call.	Mostly a social call.	235615034	1478281929921	1478281930032	s	83
+460880	4963571	Mostly a social call.	Mostly a social call.	235615038	1478281930048	1478281930170	o	79
+460880	4963571	Mostly a social call.	Mostly a social call.	235615060	1478281930161	1478281930241	c	67
+460880	4963571	Mostly a social call.	Mostly a social call.	235615064	1478281930256	1478281930345	i	73
+460880	4963571	Mostly a social call.	Mostly a social call.	235615066	1478281930372	1478281930465	a	65
+460880	4963571	Mostly a social call.	Mostly a social call.	235615069	1478281930457	1478281930593	l	76
+460880	4963571	Mostly a social call.	Mostly a social call.	235615072	1478281930561	1478281930641	 	32
+460880	4963571	Mostly a social call.	Mostly a social call.	235615075	1478281930705	1478281930782	c	67
+460880	4963571	Mostly a social call.	Mostly a social call.	235615126	1478281930816	1478281930888	l	76
+460880	4963571	Mostly a social call.	Mostly a social call.	235615134	1478281931193	1478281931281	BKSP	8
+460880	4963571	Mostly a social call.	Mostly a social call.	235615144	1478281931304	1478281931404	a	65
+460880	4963571	Mostly a social call.	Mostly a social call.	235615150	1478281931402	1478281931448	l	76
+460880	4963571	Mostly a social call.	Mostly a social call.	235615161	1478281931529	1478281931577	l	76
+460880	4963571	Mostly a social call.	Mostly a social call.	235615167	1478281931681	1478281931777	.	190
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615265	1478281933465	1478281933624	SHIFT	16
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615269	1478281933568	1478281933664	S	83
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615273	1478281933752	1478281933816	e	69
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615275	1478281933848	1478281934008	n	78
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615276	1478281933928	1478281934024	a	65
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615337	1478281934016	1478281934113	t	84
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615341	1478281934080	1478281934193	e	69
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615343	1478281934160	1478281934296	 	32
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615345	1478281934464	1478281934600	r	82
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615347	1478281934601	1478281934712	a	65
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615350	1478281934808	1478281934896	t	84
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615392	1478281934920	1478281935049	i	73
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615399	1478281935041	1478281935120	f	70
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615405	1478281935193	1478281935329	i	73
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615407	1478281935352	1478281935432	c	67
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615411	1478281935529	1478281935633	a	65
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615421	1478281935601	1478281935696	t	84
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615426	1478281935704	1478281935880	i	73
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615430	1478281935784	1478281935920	o	79
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615435	1478281935872	1478281935963	n	78
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615440	1478281935921	1478281936025	 	32
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615461	1478281935992	1478281936104	w	87
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615463	1478281936152	1478281936256	o	85
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615465	1478281936305	1478281936433	l	76
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615467	1478281936401	1478281936525	d	68
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615526	1478281936481	1478281936625	 	32
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615528	1478281936560	1478281936687	b	66
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615535	1478281936649	1478281936736	e	69
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615542	1478281936737	1478281936825	 	32
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615546	1478281936816	1478281936928	a	65
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615551	1478281937360	1478281937456	 	32
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615590	1478281937576	1478281937704	m	77
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615595	1478281937856	1478281937944	a	65
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615599	1478281937936	1478281938008	t	84
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615603	1478281938104	1478281938185	t	84
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615620	1478281938177	1478281938345	e	69
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615626	1478281938280	1478281938400	r	82
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615628	1478281938352	1478281938445	 	32
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615632	1478281938408	1478281938545	o	79
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615634	1478281938512	1478281938625	f	70
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615662	1478281938592	1478281938681	 	32
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615665	1478281938673	1478281938793	h	72
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615669	1478281938760	1478281938856	u	85
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615673	1478281938920	1478281939000	m	77
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615675	1478281938993	1478281939096	a	65
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615678	1478281939113	1478281939250	n	78
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615732	1478281939218	1478281939313	i	73
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615735	1478281939314	1478281939393	t	84
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615737	1478281939409	1478281939481	y	89
+460880	4963579	Senate ratification would be a matter of humanity.	Senate ratification wuold be a matter of humanity.	235615743	1478281939793	1478281939849	.	190

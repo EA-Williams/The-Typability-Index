@@ -1,0 +1,632 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210664996	1477603106039	1477603106241	SHIFT	16
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665003	1477603106145	1477603106256	I	73
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665010	1477603106262	1477603106401	 	32
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665013	1477603106434	1477603106568	t	84
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665016	1477603106594	1477603106722	r	82
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665039	1477603106680	1477603106808	i	73
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665042	1477603106791	1477603106925	e	69
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665047	1477603106954	1477603107108	d	68
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665052	1477603107035	1477603107173	 	32
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665056	1477603107141	1477603107269	t	84
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665069	1477603107243	1477603107413	h	65
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665072	1477603107355	1477603107504	t	84
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665077	1477603107451	1477603107589	 	32
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665082	1477603107568	1477603107702	t	84
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665085	1477603107686	1477603107808	o	79
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665108	1477603107745	1477603107888	 	32
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665110	1477603107918	1477603108068	n	78
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665113	1477603108008	1477603108147	o	79
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665116	1477603108153	1477603108291	 	32
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665118	1477603108308	1477603108463	a	65
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665172	1477603108436	1477603108574	v	86
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665174	1477603108628	1477603108756	a	65
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665177	1477603108736	1477603108922	i	73
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665181	1477603108842	1477603109002	l	76
+410832	4435433	I tried that to no avail.	I tried taht to no avail.	210665182	1477603109468	1477603109596	.	190
+410832	4435445	That is not true.	That is not true.	210665311	1477603111811	1477603111981	SHIFT	16
+410832	4435445	That is not true.	That is not true.	210665314	1477603111901	1477603112045	T	84
+410832	4435445	That is not true.	That is not true.	210665317	1477603112013	1477603112109	h	72
+410832	4435445	That is not true.	That is not true.	210665320	1477603112067	1477603112232	a	65
+410832	4435445	That is not true.	That is not true.	210665322	1477603112141	1477603112339	t	84
+410832	4435445	That is not true.	That is not true.	210665334	1477603112270	1477603112403	 	32
+410832	4435445	That is not true.	That is not true.	210665337	1477603112377	1477603112499	i	73
+410832	4435445	That is not true.	That is not true.	210665344	1477603112457	1477603112616	s	83
+410832	4435445	That is not true.	That is not true.	210665349	1477603112554	1477603112687	 	32
+410832	4435445	That is not true.	That is not true.	210665354	1477603112649	1477603112788	n	78
+410832	4435445	That is not true.	That is not true.	210665388	1477603112718	1477603112862	o	79
+410832	4435445	That is not true.	That is not true.	210665394	1477603112971	1477603113154	t	84
+410832	4435445	That is not true.	That is not true.	210665399	1477603113089	1477603113212	 	32
+410832	4435445	That is not true.	That is not true.	210665409	1477603113248	1477603113354	t	84
+410832	4435445	That is not true.	That is not true.	210665415	1477603113389	1477603113511	r	82
+410832	4435445	That is not true.	That is not true.	210665429	1477603113475	1477603113571	u	85
+410832	4435445	That is not true.	That is not true.	210665430	1477603113587	1477603113725	e	69
+410832	4435445	That is not true.	That is not true.	210665431	1477603113715	1477603113842	.	190
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665546	1477603115735	1477603115900	SHIFT	16
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665548	1477603115805	1477603115938	S	83
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665551	1477603115858	1477603115949	H	72
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665553	1477603116003	1477603116163	e	69
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665555	1477603116083	1477603116222	 	32
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665605	1477603116217	1477603116323	p	80
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665607	1477603116302	1477603116430	r	82
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665609	1477603116425	1477603116531	o	79
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665612	1477603117009	1477603117136	b	66
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665614	1477603117110	1477603117264	a	65
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665634	1477603117233	1477603117360	b	66
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665637	1477603117366	1477603117467	l	76
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665644	1477603117506	1477603117618	y	89
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665649	1477603117613	1477603117735	 	32
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665653	1477603117720	1477603117874	w	87
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665684	1477603117815	1477603117986	o	79
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665689	1477603117912	1477603118045	n	78
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665693	1477603118083	1477603118222	'	222
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665698	1477603118179	1477603118329	t	84
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665700	1477603118264	1477603118382	 	32
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665703	1477603118433	1477603118556	c	67
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665709	1477603118502	1477603118652	o	79
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665710	1477603118593	1477603118721	m	77
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665711	1477603118635	1477603118817	e	69
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665712	1477603118737	1477603118865	 	32
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665713	1477603118918	1477603119024	n	78
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665756	1477603118998	1477603119136	e	69
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665759	1477603119237	1477603119339	x	88
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665762	1477603119402	1477603119578	t	84
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665765	1477603119498	1477603119621	 	32
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665769	1477603119568	1477603119674	y	89
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665816	1477603119653	1477603119786	e	69
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665819	1477603119760	1477603119904	a	65
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665824	1477603119846	1477603120016	r	82
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665826	1477603119958	1477603120080	 	32
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665829	1477603120108	1477603120242	e	69
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665832	1477603120271	1477603120357	i	73
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665848	1477603120319	1477603120458	t	84
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665850	1477603120426	1477603120559	h	72
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665852	1477603120495	1477603120624	e	69
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665855	1477603120678	1477603120800	r	82
+410832	4435452	She probably won't come next year either.	SHe probably won't come next year either.	210665858	1477603120769	1477603120892	.	190
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210665993	1477603122808	1477603122978	SHIFT	16
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210665996	1477603122893	1477603123026	T	84
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666000	1477603122974	1477603123058	H	72
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666002	1477603123064	1477603123202	e	69
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666004	1477603123112	1477603123245	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666007	1477603123251	1477603123394	d	68
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666023	1477603123352	1477603123453	o	79
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666025	1477603123521	1477603123606	l	76
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666027	1477603123662	1477603123758	l	76
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666029	1477603123731	1477603123886	a	65
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666031	1477603123822	1477603124003	r	82
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666034	1477603123924	1477603124057	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666036	1477603124093	1477603124177	j	74
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666039	1477603124237	1477603124328	u	85
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666044	1477603124285	1477603124440	s	83
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666048	1477603124364	1477603124520	t	84
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666091	1477603124451	1477603124573	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666094	1477603124499	1477603124594	l	76
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666097	1477603124644	1477603124756	o	79
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666104	1477603124693	1477603124896	s	83
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666108	1477603124789	1477603124965	t	84
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666115	1477603124890	1477603125029	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666120	1477603125160	1477603125276	g	71
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666125	1477603125318	1477603125457	r	82
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666128	1477603125409	1477603125552	o	79
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666130	1477603125500	1477603125595	u	85
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666136	1477603125660	1477603125776	n	78
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666160	1477603125712	1477603125867	d	68
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666163	1477603125793	1477603125910	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666165	1477603125862	1477603126000	a	65
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666167	1477603125958	1477603126097	g	71
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666169	1477603126054	1477603126193	a	65
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666178	1477603126166	1477603126305	i	73
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666180	1477603126235	1477603126358	n	78
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666182	1477603126289	1477603126460	s	83
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666186	1477603126401	1477603126551	t	84
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666191	1477603126513	1477603126662	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666218	1477603126599	1477603126732	t	84
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666223	1477603126684	1477603126790	h	72
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666230	1477603126769	1477603126940	e	69
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666238	1477603126860	1477603126988	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666242	1477603126972	1477603127095	m	77
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666286	1477603127052	1477603127191	a	65
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666289	1477603127369	1477603127514	j	74
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666293	1477603127520	1477603127664	o	79
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666297	1477603127643	1477603127786	r	82
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666302	1477603127734	1477603127829	 	32
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666306	1477603127890	1477603127986	c	67
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666339	1477603128002	1477603128104	u	85
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666343	1477603128088	1477603128178	r	82
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666347	1477603128247	1477603128327	r	82
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666352	1477603128408	1477603128482	e	69
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666357	1477603128741	1477603128837	n	78
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666381	1477603128902	1477603129030	c	67
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666385	1477603129015	1477603129121	i	73
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666390	1477603129116	1477603129286	e	69
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666396	1477603129212	1477603129351	s	83
+410832	4435460	The dollar lost ground against the major currencies.	THe dollar just lost ground against the major currencies.	210666402	1477603129314	1477603129452	.	190
+410832	4435475	I'm on a plane.	I'm on a plane.	210666593	1477603131209	1477603131433	SHIFT	16
+410832	4435475	I'm on a plane.	I'm on a plane.	210666596	1477603131337	1477603131438	I	73
+410832	4435475	I'm on a plane.	I'm on a plane.	210666602	1477603131637	1477603131754	'	222
+410832	4435475	I'm on a plane.	I'm on a plane.	210666612	1477603131863	1477603131953	m	77
+410832	4435475	I'm on a plane.	I'm on a plane.	210666618	1477603132005	1477603132154	 	32
+410832	4435475	I'm on a plane.	I'm on a plane.	210666624	1477603132187	1477603132347	o	79
+410832	4435475	I'm on a plane.	I'm on a plane.	210666658	1477603132267	1477603132400	n	78
+410832	4435475	I'm on a plane.	I'm on a plane.	210666664	1477603132353	1477603132480	 	32
+410832	4435475	I'm on a plane.	I'm on a plane.	210666670	1477603132470	1477603132614	a	65
+410832	4435475	I'm on a plane.	I'm on a plane.	210666679	1477603132576	1477603132699	 	32
+410832	4435475	I'm on a plane.	I'm on a plane.	210666684	1477603132740	1477603132820	p	80
+410832	4435475	I'm on a plane.	I'm on a plane.	210666687	1477603132891	1477603132997	l	76
+410832	4435475	I'm on a plane.	I'm on a plane.	210666708	1477603132965	1477603133077	a	65
+410832	4435475	I'm on a plane.	I'm on a plane.	210666715	1477603133056	1477603133152	n	78
+410832	4435475	I'm on a plane.	I'm on a plane.	210666725	1477603133147	1477603133264	e	69
+410832	4435475	I'm on a plane.	I'm on a plane.	210666729	1477603133221	1477603133355	.	190
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666901	1477603135399	1477603135558	SHIFT	16
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666903	1477603135500	1477603135633	T	84
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666910	1477603135580	1477603135676	h	72
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666915	1477603135660	1477603135788	a	65
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666921	1477603135756	1477603135852	n	78
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666924	1477603135897	1477603136024	k	75
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666963	1477603135993	1477603136157	s	83
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666968	1477603136089	1477603136222	 	32
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666973	1477603136191	1477603136356	SHIFT	16
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666977	1477603136313	1477603136404	I	73
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666980	1477603136361	1477603136505	 	32
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210666985	1477603136572	1477603136667	n	78
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667017	1477603136641	1477603136758	e	69
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667025	1477603136820	1477603136910	e	69
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667031	1477603136995	1477603137112	d	68
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667039	1477603137165	1477603137261	e	69
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667045	1477603137340	1477603137451	d	68
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667054	1477603137399	1477603137510	 	32
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667058	1477603137488	1477603137590	t	84
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667062	1477603137553	1477603137666	h	72
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667066	1477603137574	1477603137729	a	65
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667072	1477603137660	1477603137803	t	84
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667096	1477603137744	1477603137899	 	32
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667101	1477603137873	1477603138017	t	84
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667107	1477603138006	1477603138134	o	79
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667114	1477603138070	1477603138268	d	68
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667119	1477603138172	1477603138311	a	65
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667133	1477603138290	1477603138396	y	89
+410832	4435479	Thanks I needed that today!	Thanks I needed that today!	210667137	1477603138538	1477603138704	!	49
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667323	1477603141054	1477603141150	Y	89
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667327	1477603141203	1477603141364	o	79
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667333	1477603141279	1477603141412	u	85
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667337	1477603141407	1477603141561	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667376	1477603141557	1477603141658	m	77
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667382	1477603141729	1477603141788	u	85
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667391	1477603142033	1477603142197	s	83
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667399	1477603142144	1477603142305	t	84
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667409	1477603142261	1477603142379	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667451	1477603142342	1477603142465	t	84
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667457	1477603142385	1477603142476	h	72
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667461	1477603142492	1477603142619	e	69
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667468	1477603142659	1477603142754	r	82
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667475	1477603142835	1477603142920	e	69
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667477	1477603143174	1477603143296	f	70
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667492	1477603143312	1477603143430	o	79
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667499	1477603143377	1477603143471	r	82
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667507	1477603143535	1477603143679	e	69
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667515	1477603143621	1477603143733	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667564	1477603143690	1477603143839	t	84
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667569	1477603143754	1477603143903	a	65
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667572	1477603143914	1477603144042	k	75
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667575	1477603144016	1477603144170	e	69
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667579	1477603144101	1477603144223	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667586	1477603144229	1477603144369	f	70
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667643	1477603144341	1477603144448	u	85
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667647	1477603144443	1477603144544	l	76
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667653	1477603144602	1477603144719	l	76
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667659	1477603144651	1477603144794	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667666	1477603144778	1477603144869	r	82
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667669	1477603144928	1477603145100	e	69
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667691	1477603144998	1477603145163	s	83
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667696	1477603145131	1477603145222	p	80
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667703	1477603145293	1477603145469	o	79
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667708	1477603145385	1477603145543	n	78
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667711	1477603145562	1477603145706	s	83
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667739	1477603145671	1477603145803	i	73
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667743	1477603145841	1477603145974	b	66
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667750	1477603145990	1477603146135	i	73
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667755	1477603146097	1477603146321	l	76
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667761	1477603146230	1477603146353	i	73
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667784	1477603146343	1477603146492	t	84
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667785	1477603146454	1477603146577	y	89
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667786	1477603146572	1477603146673	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667787	1477603146679	1477603146823	f	70
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667788	1477603146812	1477603146930	o	79
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667830	1477603146881	1477603147069	r	82
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667833	1477603146994	1477603147137	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667834	1477603147364	1477603147477	v	86
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667836	1477603147452	1477603147556	i	73
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667838	1477603147536	1477603147659	r	82
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667852	1477603147637	1477603147749	u	85
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667854	1477603147744	1477603147899	s	83
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667855	1477603147824	1477603147931	 	32
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667859	1477603147947	1477603148070	c	67
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667860	1477603148022	1477603148123	h	72
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667863	1477603148129	1477603148224	e	69
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667879	1477603148287	1477603148420	c	67
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667884	1477603148352	1477603148437	k	75
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667889	1477603148513	1477603148673	i	73
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667892	1477603148583	1477603148737	n	78
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667895	1477603148690	1477603148796	g	71
+410832	4435489	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	210667897	1477603148820	1477603148954	.	190
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668092	1477603151950	1477603152120	SHIFT	16
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668095	1477603152040	1477603152179	E	69
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668098	1477603152218	1477603152373	v	86
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668101	1477603152293	1477603152453	a	65
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668104	1477603152437	1477603152565	l	76
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668168	1477603152554	1477603152683	u	85
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668169	1477603152693	1477603152842	a	65
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668172	1477603152896	1477603153067	t	84
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668175	1477603153062	1477603153259	i	73
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668177	1477603153359	1477603153471	n	78
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668179	1477603153503	1477603153646	g	71
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668192	1477603153599	1477603153705	 	32
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668196	1477603153694	1477603153844	a	65
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668202	1477603153796	1477603153913	 	32
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668207	1477603153975	1477603154097	l	76
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668210	1477603154043	1477603154172	e	69
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668223	1477603154113	1477603154268	a	65
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668227	1477603154225	1477603154439	s	83
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668232	1477603154317	1477603154514	e	69
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668236	1477603154423	1477603154572	 	32
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668241	1477603154583	1477603154695	o	79
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668301	1477603154637	1477603154727	f	70
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668307	1477603154799	1477603154906	f	70
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668311	1477603154889	1477603155023	e	69
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668316	1477603155073	1477603155254	r	82
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668321	1477603155163	1477603155312	 	32
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668325	1477603155323	1477603155478	o	79
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668439	1477603155393	1477603155542	n	78
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668443	1477603155473	1477603155601	 	32
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668448	1477603155596	1477603155734	a	65
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668451	1477603156134	1477603156234	SHIFT	16
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668453	1477603156358	1477603156449	BKSP	8
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668457	1477603156418	1477603156641	SHIFT	16
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668459	1477603156551	1477603156700	S	83
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668462	1477603156900	1477603157060	o	79
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668466	1477603157001	1477603157156	n	78
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668470	1477603157167	1477603157289	o	79
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668506	1477603157279	1477603157429	r	82
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668507	1477603157452	1477603157595	a	65
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668510	1477603157590	1477603157713	n	78
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668514	1477603157729	1477603157873	 	32
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668516	1477603157999	1477603158091	p	80
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668554	1477603158069	1477603158192	r	82
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668556	1477603158187	1477603158287	o	79
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668558	1477603158356	1477603158451	j	74
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668562	1477603158476	1477603158582	e	69
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668566	1477603158657	1477603158753	c	67
+410832	4435504	Evaluating a lease offer on Sonoran project.	Evaluating a lease offer on Sonoran project	210668569	1477603158794	1477603158922	t	84
+410832	4435521	Are you going to call?	Are you going to call?	210668704	1477603161182	1477603161680	SHIFT	16
+410832	4435521	Are you going to call?	Are you going to call?	210668707	1477603161540	1477603161683	A	65
+410832	4435521	Are you going to call?	Are you going to call?	210668711	1477603161734	1477603161845	r	82
+410832	4435521	Are you going to call?	Are you going to call?	210668715	1477603161919	1477603162073	e	69
+410832	4435521	Are you going to call?	Are you going to call?	210668718	1477603162003	1477603162153	 	32
+410832	4435521	Are you going to call?	Are you going to call?	210668722	1477603162231	1477603162349	y	89
+410832	4435521	Are you going to call?	Are you going to call?	210668742	1477603162306	1477603162498	o	79
+410832	4435521	Are you going to call?	Are you going to call?	210668751	1477603162392	1477603162546	u	85
+410832	4435521	Are you going to call?	Are you going to call?	210668759	1477603162456	1477603162594	 	32
+410832	4435521	Are you going to call?	Are you going to call?	210668765	1477603162584	1477603162717	g	71
+410832	4435521	Are you going to call?	Are you going to call?	210668771	1477603162658	1477603162845	o	79
+410832	4435521	Are you going to call?	Are you going to call?	210668811	1477603162743	1477603162914	i	73
+410832	4435521	Are you going to call?	Are you going to call?	210668815	1477603162829	1477603162958	n	78
+410832	4435521	Are you going to call?	Are you going to call?	210668819	1477603162974	1477603163155	g	71
+410832	4435521	Are you going to call?	Are you going to call?	210668824	1477603163091	1477603163240	 	32
+410832	4435521	Are you going to call?	Are you going to call?	210668828	1477603163256	1477603163390	t	84
+410832	4435521	Are you going to call?	Are you going to call?	210668831	1477603163342	1477603163480	o	79
+410832	4435521	Are you going to call?	Are you going to call?	210668907	1477603163400	1477603163502	 	32
+410832	4435521	Are you going to call?	Are you going to call?	210668912	1477603163543	1477603163793	c	67
+410832	4435521	Are you going to call?	Are you going to call?	210668921	1477603163633	1477603163814	a	65
+410832	4435521	Are you going to call?	Are you going to call?	210668933	1477603163866	1477603163978	l	76
+410832	4435521	Are you going to call?	Are you going to call?	210668943	1477603164039	1477603164182	l	76
+410832	4435521	Are you going to call?	Are you going to call?	210668939	1477603164145	1477603164717	SHIFT	16
+410832	4435521	Are you going to call?	Are you going to call?	210668953	1477603164530	1477603164647	?	191
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669121	1477603166700	1477603166983	SHIFT	16
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669125	1477603166882	1477603167031	T	84
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669128	1477603167016	1477603167106	h	72
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669131	1477603167090	1477603167218	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669134	1477603167197	1477603167310	y	89
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669157	1477603167278	1477603167411	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669160	1477603167378	1477603167523	a	65
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669164	1477603167490	1477603167614	l	76
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669172	1477603167608	1477603167736	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669180	1477603167742	1477603167860	o	79
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669244	1477603167822	1477603167939	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669250	1477603167965	1477603168104	a	65
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669255	1477603168061	1477603168189	g	71
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669262	1477603168213	1477603168319	r	82
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669266	1477603168425	1477603168514	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669271	1477603168591	1477603168698	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669299	1477603168823	1477603168999	d	68
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669302	1477603168925	1477603169085	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669309	1477603169183	1477603169345	o	79
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669349	1477603169253	1477603169392	n	78
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669353	1477603169323	1477603169466	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669358	1477603169490	1477603169596	u	85
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669362	1477603169576	1477603169719	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669366	1477603169699	1477603169863	i	73
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669370	1477603169795	1477603169917	n	78
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669443	1477603169875	1477603170024	g	71
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669448	1477603169966	1477603170088	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669454	1477603170099	1477603170244	d	68
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669463	1477603170253	1477603170440	i	73
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669469	1477603170572	1477603170727	a	65
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669476	1477603170778	1477603170889	l	76
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669491	1477603170961	1477603171083	o	79
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669495	1477603171062	1477603171196	g	71
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669501	1477603171190	1477603171292	u	85
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669509	1477603171315	1477603171491	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669538	1477603171411	1477603171545	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669539	1477603171550	1477603171678	t	84
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669540	1477603171652	1477603171779	o	79
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669541	1477603171726	1477603171828	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669542	1477603171908	1477603172068	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669568	1477603171979	1477603172160	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669572	1477603172170	1477603172277	t	84
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669577	1477603172337	1477603172465	t	84
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669582	1477603172459	1477603172592	l	76
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669586	1477603172550	1477603172736	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669638	1477603172652	1477603172800	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669642	1477603172863	1477603172984	i	73
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669645	1477603172947	1477603173043	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669648	1477603173100	1477603173211	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669651	1477603173258	1477603173353	u	85
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669654	1477603173656	1477603173810	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669712	1477603173981	1477603174056	BKSP	8
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669714	1477603174097	1477603174171	BKSP	8
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669718	1477603174216	1477603174285	BKSP	8
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669721	1477603174331	1477603174412	BKSP	8
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669723	1477603174469	1477603174533	BKSP	8
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669727	1477603174776	1477603174903	t	84
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669729	1477603174882	1477603174973	h	72
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669736	1477603174978	1477603175138	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669744	1477603175064	1477603175202	 	32
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669752	1477603175176	1477603175282	i	73
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669760	1477603175256	1477603175352	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669770	1477603175413	1477603175514	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669774	1477603175509	1477603175604	u	85
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669782	1477603175567	1477603175743	e	69
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669822	1477603175658	1477603175802	s	83
+410832	4435531	They also agreed on using dialogue to settle the issue.	They also agreed on using dialogue to settle the issues.	210669825	1477603175827	1477603175954	.	190
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670085	1477603178993	1477603179207	SHIFT	16
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670088	1477603179202	1477603179377	E	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670086	1477603179239	1477603179292	w	87
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670094	1477603179760	1477603179840	BKSP	8
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670100	1477603179889	1477603179979	BKSP	8
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670105	1477603179943	1477603180108	SHIFT	16
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670108	1477603180001	1477603180140	W	87
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670112	1477603180092	1477603180284	E	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670117	1477603180453	1477603180576	 	32
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670150	1477603180803	1477603180878	BKSP	8
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670153	1477603180936	1477603181029	BKSP	8
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670160	1477603181060	1477603181232	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670165	1477603181167	1477603181301	 	32
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670169	1477603181367	1477603181505	t	84
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670175	1477603181436	1477603181585	a	65
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670199	1477603181565	1477603181687	l	76
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670204	1477603181773	1477603181912	k	75
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670209	1477603181869	1477603181997	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670216	1477603182069	1477603182213	d	68
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670220	1477603182154	1477603182293	 	32
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670245	1477603182267	1477603182394	q	81
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670247	1477603182352	1477603182453	u	85
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670249	1477603182490	1477603182590	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670252	1477603182813	1477603182893	BKSP	8
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670255	1477603182990	1477603183097	i	73
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670260	1477603183071	1477603183236	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670299	1477603183193	1477603183358	t	84
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670303	1477603183398	1477603183531	l	76
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670308	1477603183620	1477603183737	y	89
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670311	1477603183749	1477603183892	 	32
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670314	1477603183866	1477603184010	w	87
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670339	1477603184005	1477603184159	h	72
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670344	1477603184090	1477603184282	i	73
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670352	1477603184170	1477603184325	l	76
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670358	1477603184256	1477603184401	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670363	1477603184341	1477603184480	 	32
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670444	1477603184453	1477603184603	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670446	1477603184597	1477603184762	v	86
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670450	1477603184688	1477603184843	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670453	1477603184854	1477603184955	y	89
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670460	1477603185223	1477603185319	BKSP	8
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670467	1477603185346	1477603185479	r	82
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670475	1477603185490	1477603185602	y	89
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670500	1477603185905	1477603186038	b	66
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670505	1477603186022	1477603186129	o	79
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670510	1477603186153	1477603186287	d	68
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670514	1477603186223	1477603186324	y	89
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670518	1477603186335	1477603186457	 	32
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670534	1477603186559	1477603186702	g	71
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670537	1477603186644	1477603186814	a	65
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670544	1477603186773	1477603186894	t	84
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670549	1477603186820	1477603186921	h	72
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670555	1477603186932	1477603187023	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670598	1477603187071	1477603187168	r	82
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670600	1477603187233	1477603187344	e	69
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670602	1477603187394	1477603187511	d	68
+410832	4435548	We talked quietly while everybody gathered.	We talked quietly while everybody gathered.	210670604	1477603187485	1477603187602	.	190
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670805	1477603189711	1477603190063	SHIFT	16
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670808	1477603189924	1477603190095	A	65
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670810	1477603190053	1477603190196	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670813	1477603190230	1477603190374	d	68
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670816	1477603190523	1477603190652	e	69
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670819	1477603191028	1477603191167	f	70
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670840	1477603191272	1477603191432	i	73
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670843	1477603191373	1477603191533	n	78
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670848	1477603191496	1477603191635	i	73
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670851	1477603191630	1477603191773	t	84
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670890	1477603191752	1477603191880	i	73
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670896	1477603191865	1477603191982	v	86
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670899	1477603192055	1477603192230	e	69
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670902	1477603192155	1477603192289	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670905	1477603192379	1477603192523	b	66
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670945	1477603192432	1477603192592	a	65
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670949	1477603192560	1477603192725	s	83
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670954	1477603192709	1477603192826	i	73
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670960	1477603192811	1477603192992	c	67
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670964	1477603192929	1477603193067	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210670970	1477603193108	1477603193193	w	87
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671013	1477603193564	1477603193644	BKSP	8
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671016	1477603193778	1477603193906	l	76
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671018	1477603193848	1477603193991	a	65
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671020	1477603193917	1477603194093	w	87
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671023	1477603194055	1477603194173	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671026	1477603194189	1477603194333	w	87
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671050	1477603194383	1477603194548	i	73
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671055	1477603194479	1477603194596	l	76
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671058	1477603194640	1477603194768	l	76
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671060	1477603194710	1477603194854	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671062	1477603194870	1477603194998	b	66
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671106	1477603195050	1477603195194	e	69
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671111	1477603195120	1477603195248	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671114	1477603195243	1477603195359	d	68
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671117	1477603195431	1477603195580	r	82
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671121	1477603195728	1477603195883	a	65
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671156	1477603195808	1477603195984	w	87
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671160	1477603196011	1477603196123	n	78
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671165	1477603196159	1477603196291	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671170	1477603196396	1477603196545	u	85
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671176	1477603196497	1477603196636	p	80
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671209	1477603196588	1477603196727	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671213	1477603196668	1477603196817	w	87
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671217	1477603196780	1477603196897	i	73
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671221	1477603196882	1477603197026	t	84
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671225	1477603196973	1477603197116	h	72
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671270	1477603197087	1477603197271	i	73
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671273	1477603197192	1477603197335	n	78
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671278	1477603197329	1477603197469	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671285	1477603197453	1477603197602	a	65
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671292	1477603197555	1477603197676	 	32
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671298	1477603197703	1477603197815	y	89
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671313	1477603197757	1477603197863	e	69
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671318	1477603197831	1477603197964	a	65
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671326	1477603197911	1477603198040	r	82
+410832	4435565	A definitive basic law will be drawn up within a year.	A definitive basic law will be drawn up within a year.	210671332	1477603198007	1477603198146	.	190
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671542	1477603200449	1477603200673	SHIFT	16
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671539	1477603200534	1477603200657	S	83
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671544	1477603200641	1477603200742	H	72
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671546	1477603200781	1477603200935	e	69
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671549	1477603200887	1477603200994	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671553	1477603201028	1477603201172	c	67
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671615	1477603201087	1477603201220	h	72
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671618	1477603201145	1477603201342	i	73
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671621	1477603201697	1477603201788	p	80
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671623	1477603201863	1477603201959	p	80
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671624	1477603201999	1477603202134	e	69
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671626	1477603202200	1477603202371	d	68
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671711	1477603202296	1477603202435	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671716	1477603202485	1477603202634	i	73
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671718	1477603202570	1477603202693	n	78
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671721	1477603202687	1477603202794	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671726	1477603203199	1477603203289	f	70
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671731	1477603203327	1477603203486	r	82
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671811	1477603203412	1477603203609	o	79
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671817	1477603203513	1477603203667	m	77
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671826	1477603203636	1477603203769	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671836	1477603204430	1477603204563	6	54
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671843	1477603204558	1477603204685	9	57
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671919	1477603204680	1477603204814	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671921	1477603204919	1477603205063	f	70
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671923	1477603205047	1477603205191	e	69
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671925	1477603205264	1477603205445	e	69
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671928	1477603205451	1477603205637	t	84
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671954	1477603205569	1477603205680	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671958	1477603205691	1477603205872	f	70
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671965	1477603205803	1477603205942	o	79
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671971	1477603205878	1477603206028	r	82
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210671976	1477603205964	1477603206091	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672014	1477603206065	1477603206236	a	65
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672018	1477603206170	1477603206283	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672024	1477603206368	1477603206491	b	66
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672030	1477603206545	1477603206663	i	73
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672035	1477603206625	1477603206748	r	82
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672039	1477603206874	1477603206996	d	68
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672090	1477603206986	1477603207098	i	73
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672096	1477603207125	1477603207279	e	69
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672106	1477603207274	1477603207396	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672111	1477603207479	1477603207623	a	65
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672116	1477603207619	1477603207800	t	84
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672149	1477603207736	1477603207885	 	32
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672150	1477603207962	1477603208128	1	49
+410832	4435583	She chipped in from 69 feet for a birdie at 17.	SHe chipped in from 69 feet for a birdie at 17	210672152	1477603208232	1477603208387	7	55
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672380	1477603210747	1477603210923	SHIFT	16
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672384	1477603210806	1477603210982	A	65
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672388	1477603210961	1477603211238	SHIFT	16
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672393	1477603211382	1477603211463	BKSP	8
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672398	1477603211468	1477603211644	SHIFT	16
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672402	1477603211613	1477603211724	O	79
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672407	1477603211735	1477603211857	n	78
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672415	1477603211820	1477603211980	e	69
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672429	1477603211922	1477603212060	 	32
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672435	1477603212018	1477603212151	a	65
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672440	1477603212097	1477603212215	s	83
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672444	1477603212267	1477603212368	s	83
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672449	1477603212358	1477603212465	i	73
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672482	1477603212459	1477603212587	s	83
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672486	1477603212567	1477603212737	t	84
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672490	1477603212657	1477603212806	a	65
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672494	1477603212769	1477603212870	n	78
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672497	1477603212948	1477603213140	t	84
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672508	1477603213055	1477603213204	 	32
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672509	1477603213259	1477603213398	a	65
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672510	1477603213377	1477603213478	n	78
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672511	1477603213441	1477603213617	d	68
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672512	1477603213542	1477603213691	 	32
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672542	1477603213665	1477603213831	o	79
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672545	1477603213750	1477603213889	n	78
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672548	1477603213792	1477603213964	e	69
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672552	1477603213906	1477603214033	 	32
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672609	1477603214012	1477603214449	SHIFT	16
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672558	1477603214108	1477603214215	H	72
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672566	1477603214264	1477603214423	R	82
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672615	1477603214481	1477603214639	 	32
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672622	1477603214598	1477603214778	a	65
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672626	1477603214714	1477603214848	s	83
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672631	1477603214907	1477603215057	s	83
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672641	1477603215067	1477603215185	o	79
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672729	1477603215169	1477603215302	c	67
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672731	1477603215319	1477603215441	i	73
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672738	1477603215405	1477603215565	a	65
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672741	1477603215935	1477603216073	t	84
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672746	1477603216255	1477603216370	e	69
+410832	4435597	One assistant and one HR associate.	One assistant and one HR associate.	210672752	1477603216442	1477603216586	.	190
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672924	1477603218622	1477603218788	SHIFT	16
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672928	1477603218703	1477603218841	T	84
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672931	1477603218783	1477603218879	H	72
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672935	1477603218894	1477603219022	e	69
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672941	1477603218959	1477603219098	 	32
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672971	1477603219087	1477603219177	r	82
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672976	1477603219242	1477603219483	e	69
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672983	1477603219312	1477603219494	s	83
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672991	1477603219398	1477603219568	t	84
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210672999	1477603219489	1477603219633	 	32
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673004	1477603219680	1477603219792	i	73
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673060	1477603219760	1477603219931	s	83
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673063	1477603219872	1477603220017	 	32
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673066	1477603220011	1477603220176	a	65
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673069	1477603220123	1477603220247	 	32
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673071	1477603220343	1477603220413	p	80
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673075	1477603220668	1477603220748	BKSP	8
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673080	1477603220784	1477603220927	b	66
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673110	1477603220906	1477603221018	y	89
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673113	1477603221112	1477603221229	p	80
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673117	1477603221197	1477603221353	r	82
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673120	1477603221347	1477603221454	o	79
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673126	1477603221484	1477603221602	d	68
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673149	1477603221569	1477603221682	u	85
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673153	1477603221693	1477603221805	c	67
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673157	1477603221840	1477603222001	t	84
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673162	1477603221919	1477603222064	 	32
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673168	1477603222114	1477603222237	o	79
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673192	1477603222227	1477603222397	f	70
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673195	1477603222322	1477603222472	 	32
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673201	1477603222524	1477603222657	s	83
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673205	1477603222641	1477603222753	l	76
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673210	1477603222726	1477603222859	a	65
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673289	1477603222854	1477603222967	p	80
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673292	1477603222982	1477603223121	s	83
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673298	1477603223132	1477603223287	h	72
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673300	1477603223234	1477603223383	o	79
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673306	1477603223575	1477603223735	t	84
+410832	4435610	The rest is a byproduct of slapshot.	THe rest is a byproduct of slapshot.	210673312	1477603223819	1477603223941	.	190

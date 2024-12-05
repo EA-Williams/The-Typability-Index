@@ -1,0 +1,304 @@
+---
+title: "1) Calculate Typability Scores"
+author: "Emily Williams"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE) 
+```
+
+## Load libraries
+
+```{r load_libraries}
+
+library(tidyverse) # for tidy data
+library(here) # for tidy and stable file paths
+library(janitor) # for tidy variable names
+
+```
+
+NOTE: Can skip to third chunk to read the sentences data (wpms)
+
+
+
+NOTE: Raw data for participant 3 not provided by original authors.
+
+```{r get participicant id list}
+
+data_meta <- read_tsv(here("data",
+                           "dhakal_files_with_replacements_for_both_issues",
+                           "metadata_participants.txt"),
+                      quote = "") %>%
+  # convert the names to lowercase
+  clean_names()
+
+
+# get the participant ids from the metadata and remove the first row/participant
+# (participant 3) because this data is not available
+
+p_ids <- as.data.frame(data_meta$participant_id[-1])
+p_ids <- as.numeric(unlist(p_ids))
+
+rm(data_meta)
+
+```
+
+
+Load each participant's raw (keystroke-level) data, then capture for each typed sentence:
+
+* participant id
+* what the sentence was
+* their words per minute (wpm) for the sentence
+
+Do it in batches of 5000 participants, then stitch together later.
+
+
+```{r create participants_sentences_wpm}
+
+# create a large dataframe that has a row for every sentence typed by every participant
+
+
+# want to save data files in batches where it's not a continually growing file.
+# can then bind the batches together
+# do it in sets of 5000 participants
+ptp_per_batch <- 5000
+n_batches <- ceiling(length(p_ids) / ptp_per_batch)
+ptp_n_overall <- 1
+total_ptps <- length(p_ids)
+
+
+
+# loop for the batches
+for (batch in 1:n_batches) {
+
+  ptp_n_in_batch <- 1
+
+  # get the participant ids for this batch
+  p_ids_this_batch <- p_ids[(batch * ptp_per_batch - ptp_per_batch + 1) :
+                            (batch * ptp_per_batch)]
+
+  # loop for the participants within each batch
+  for (ptp_id in p_ids_this_batch) {
+
+    # in the last batch, some will be NA, so ignore those
+    if (!is.na(ptp_id))
+    {
+
+      data_this_p <- read_tsv(here("data",
+                                   "dhakal_files_with_replacements_for_both_issues",
+                                   paste(ptp_id,
+                                         "_keystrokes.txt",
+                                        sep = "")),
+                              quote = "",
+                              trim_ws = FALSE,
+                              show_col_types = FALSE,
+                              # setting this locale allows it to parse a wider variety of characters
+                              locale = locale(encoding = "windows-1252")) %>%
+        # convert the header names to lowercase
+        clean_names() %>%
+        # group by each sentence (included other column to retain  during summarise)
+        group_by(sentence, participant_id) %>%
+        # create a new column to calculate how many characters were transcribed
+        summarise(chars_transcribed = unique(nchar(user_input)),
+                  # new column for the number of words transcribed (chars / 5 is the standard way)
+                  words_transcribed = chars_transcribed / 5,
+                  # new column for how long it took (in milliseconds) first press to last release
+                  trans_dur_sec = (last(release_time) - first(press_time)) / 1000,
+                  # convert to minutes
+                  trans_dur_min = trans_dur_sec / 60,
+                  #remove the groups after
+                  .groups = "drop") %>%
+        # create columns for wpm for each sentence
+        mutate(wpm_sent = words_transcribed / trans_dur_min) %>%
+        # keep only these columns in this order
+        select(participant_id, sentence, wpm_sent)
+
+
+      # add the data to the running list
+        if (ptp_n_in_batch == 1)
+          {
+          # if this is the first participant, the running list = their data
+            ptps_sents_wpms <- data_this_p
+          }
+          else
+          {
+            # otherwise add this Ps data to the running list
+            ptps_sents_wpms <- bind_rows(ptps_sents_wpms, data_this_p)
+          }
+      
+      print(str_c(
+          # ptp
+          "ptp num: ", 
+          ptp_n_overall,
+          ", ptp id: ",
+          ptp_id,
+          # batch
+          ", batch: ",
+          batch,
+          " of ",
+          n_batches,
+          ", perc complete: ",
+          round((ptp_n_overall / total_ptps) * 100, 3),
+          "%"))
+      
+      ptp_n_in_batch <- ptp_n_in_batch + 1
+      ptp_n_overall <- ptp_n_overall + 1
+
+    } # if ptp_id is not NA
+  } # for each ptp within a batch
+
+  write.table(
+              ptps_sents_wpms,
+              file = here(
+                          "output",
+                          "processed_data",
+                          "ptps_sents_wpms",
+                          str_c(
+                                "ptps_sents_wpms__batch_",
+                                batch,
+                                "_of_",
+                                n_batches,
+                                ".txt")),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
+
+} # for each batch
+
+rm(data_this_p, ptps_sents_wpms)
+
+```
+
+Participant with the id number 3 missing from sentences_data.
+
+Read the batches and put them together:
+
+```{r readBatches}
+
+n_batches <- 34
+
+for (batch in 1:n_batches)
+{
+  # read the data
+  this_batch <- read_tsv(here("output",
+                              "processed_data",
+                              "ptps_sents_wpms",
+                              str_c(
+                                "ptps_sents_wpms__batch_",
+                                batch,
+                                "_of_34.txt")))
+
+   # add to the running batch data
+
+   if (batch == 1)
+   {
+   # if this is the first participant, the running list = their data
+     full_ptps_sents_wpms <- this_batch
+     
+   }
+   else
+   {
+     # otherwise add this Ps data to the running list
+     full_ptps_sents_wpms <- bind_rows(full_ptps_sents_wpms, this_batch)
+   }
+}
+
+# save the dataframe
+
+rm(this_batch)
+
+  write.table(
+              full_ptps_sents_wpms,
+              file = here(
+                          "output",
+                          "processed_data",
+                          "ptps_sents_wpms",
+                          "full_ptps_sents_wpms.txt"),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
+
+```
+
+Alternatively, just load the sentences data.
+
+```{r load_sentences_data}
+
+full_ptps_sents_wpms <- read_tsv(here(
+                          "output",
+                          "processed_data",
+                          "ptps_sents_wpms",
+                          "full_ptps_sents_wpms.txt"))
+
+```
+
+
+Not let's create some 'mutated' versions with extra columns:
+
+* wpm mean across the sentences for each P
+* wpm sd across the sentences for each P
+* wpm z-score of each sentence for each P
+
+Then group by sentence and average the z-scores together, which is the "typability"
+
+```{r calculate typability of dhakal set}
+
+# typability is calculated by calculating the z-score wpm of each participant's 15 sentences, then averaging them together for each sentence. 
+# so it is on average, how many standard deviations this sentence's wpm is above or below a typist's mean
+
+
+sents_typabilities <- full_ptps_sents_wpms %>%
+  group_by(participant_id) %>%
+  mutate(
+    mean_wpm_sent_ptp = mean(wpm_sent),
+    sd_wpm_sent_ptp = sd(wpm_sent),
+    z_wpm_sent_ptp = (wpm_sent - mean_wpm_sent_ptp) / sd_wpm_sent_ptp) %>%
+  ungroup() %>%
+  group_by(sentence) %>%
+  # for each unique sentence, calculate these things
+  summarise(typability_z = mean(z_wpm_sent_ptp),
+            n_typists = n()) %>%
+  # sort sentences alphabetically
+  arrange(sentence) %>%
+  # add a sentence id based on alphabetical order
+  mutate(sent_id = row_number()) %>%
+  # keep only these columns in this order
+  select(sent_id, sentence, typability_z, n_typists)
+
+rm(full_ptps_sents_wpms)
+
+# write typabilities to file
+
+  write.table(
+              sents_typabilities,
+              file = here(
+                          "output",
+                          "processed_data",
+                          "dhakal_typabilities",
+                          "dhakal_typabilities.txt"),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
+  
+# get just the sentences (and IDs) and write to file
+
+just_sents <- sents_typabilities %>%
+  select(sent_id, sentence)
+
+  write.table(just_sents,
+              file = here(
+                          "output",
+                          "processed_data",
+                          "dhakal_sentences",
+                          "dhakal_sentences.txt"),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
+
+
+```

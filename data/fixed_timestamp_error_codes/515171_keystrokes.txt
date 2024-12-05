@@ -1,0 +1,645 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+515171	5547315	Joel will handle this.	Joel will handle this	263316103	1479074504393	1479074504545	CAPS_LOCK	20
+515171	5547315	Joel will handle this.	Joel will handle this	263316104	1479074504504	1479074504618	J	74
+515171	5547315	Joel will handle this.	Joel will handle this	263316105	1479074504621	1479074504724	CAPS_LOCK	20
+515171	5547315	Joel will handle this.	Joel will handle this	263316106	1479074504840	1479074504987	o	79
+515171	5547315	Joel will handle this.	Joel will handle this	263316107	1479074505011	1479074505113	e	69
+515171	5547315	Joel will handle this.	Joel will handle this	263316108	1479074505148	1479074505301	l	76
+515171	5547315	Joel will handle this.	Joel will handle this	263316109	1479074505415	1479074505521	 	32
+515171	5547315	Joel will handle this.	Joel will handle this	263316129	1479074506044	1479074506161	w	87
+515171	5547315	Joel will handle this.	Joel will handle this	263316130	1479074506244	1479074506353	i	73
+515171	5547315	Joel will handle this.	Joel will handle this	263316131	1479074506463	1479074506537	l	76
+515171	5547315	Joel will handle this.	Joel will handle this	263316132	1479074506616	1479074506726	l	76
+515171	5547315	Joel will handle this.	Joel will handle this	263316133	1479074506819	1479074506930	 	32
+515171	5547315	Joel will handle this.	Joel will handle this	263316139	1479074506997	1479074507108	h	72
+515171	5547315	Joel will handle this.	Joel will handle this	263316140	1479074507115	1479074507223	a	65
+515171	5547315	Joel will handle this.	Joel will handle this	263316141	1479074507238	1479074507346	n	78
+515171	5547315	Joel will handle this.	Joel will handle this	263316142	1479074507359	1479074507473	d	68
+515171	5547315	Joel will handle this.	Joel will handle this	263316143	1479074508088	1479074508205	f	70
+515171	5547315	Joel will handle this.	Joel will handle this	263316182	1479074508213	1479074508273	l	76
+515171	5547315	Joel will handle this.	Joel will handle this	263316185	1479074508348	1479074508419	e	69
+515171	5547315	Joel will handle this.	Joel will handle this	263316187	1479074508734	1479074508843	BKSP	8
+515171	5547315	Joel will handle this.	Joel will handle this	263316189	1479074508897	1479074509080	BKSP	8
+515171	5547315	Joel will handle this.	Joel will handle this	263316191	1479074509189	1479074509262	BKSP	8
+515171	5547315	Joel will handle this.	Joel will handle this	263316193	1479074509310	1479074509422	d	68
+515171	5547315	Joel will handle this.	Joel will handle this	263316196	1479074509470	1479074509581	l	76
+515171	5547315	Joel will handle this.	Joel will handle this	263316198	1479074509589	1479074509696	e	69
+515171	5547315	Joel will handle this.	Joel will handle this	263316223	1479074509925	1479074510030	BKSP	8
+515171	5547315	Joel will handle this.	Joel will handle this	263316224	1479074510097	1479074510175	BKSP	8
+515171	5547315	Joel will handle this.	Joel will handle this	263316226	1479074510246	1479074510357	BKSP	8
+515171	5547315	Joel will handle this.	Joel will handle this	263316230	1479074510510	1479074510619	l	76
+515171	5547315	Joel will handle this.	Joel will handle this	263316236	1479074510657	1479074510770	e	69
+515171	5547315	Joel will handle this.	Joel will handle this	263316242	1479074510792	1479074510861	 	32
+515171	5547315	Joel will handle this.	Joel will handle this	263316246	1479074511200	1479074511340	t	84
+515171	5547315	Joel will handle this.	Joel will handle this	263316249	1479074511381	1479074511559	h	72
+515171	5547315	Joel will handle this.	Joel will handle this	263316250	1479074511562	1479074511674	i	73
+515171	5547315	Joel will handle this.	Joel will handle this	263316254	1479074511676	1479074511746	s	83
+515171	5547321	John this message concerns me.	John this message concerns me 	263316413	1479074516666	1479074516811	CAPS_LOCK	20
+515171	5547321	John this message concerns me.	John this message concerns me 	263316415	1479074516837	1479074517023	J	74
+515171	5547321	John this message concerns me.	John this message concerns me 	263316417	1479074516984	1479074517098	CAPS_LOCK	20
+515171	5547321	John this message concerns me.	John this message concerns me 	263316419	1479074517061	1479074517198	o	79
+515171	5547321	John this message concerns me.	John this message concerns me 	263316424	1479074517483	1479074517622	h	72
+515171	5547321	John this message concerns me.	John this message concerns me 	263316427	1479074517699	1479074517815	n	78
+515171	5547321	John this message concerns me.	John this message concerns me 	263316430	1479074517904	1479074518016	 	32
+515171	5547321	John this message concerns me.	John this message concerns me 	263316447	1479074518213	1479074518321	t	84
+515171	5547321	John this message concerns me.	John this message concerns me 	263316449	1479074518369	1479074518514	h	72
+515171	5547321	John this message concerns me.	John this message concerns me 	263316450	1479074518551	1479074518695	i	73
+515171	5547321	John this message concerns me.	John this message concerns me 	263316451	1479074518701	1479074518809	s	83
+515171	5547321	John this message concerns me.	John this message concerns me 	263316452	1479074518823	1479074518893	 	32
+515171	5547321	John this message concerns me.	John this message concerns me 	263316469	1479074519012	1479074519131	m	77
+515171	5547321	John this message concerns me.	John this message concerns me 	263316470	1479074519134	1479074519235	e	69
+515171	5547321	John this message concerns me.	John this message concerns me 	263316471	1479074519343	1479074519486	s	83
+515171	5547321	John this message concerns me.	John this message concerns me 	263316472	1479074519759	1479074519942	s	83
+515171	5547321	John this message concerns me.	John this message concerns me 	263316473	1479074519950	1479074520050	a	65
+515171	5547321	John this message concerns me.	John this message concerns me 	263316480	1479074520228	1479074520374	g	71
+515171	5547321	John this message concerns me.	John this message concerns me 	263316481	1479074520432	1479074520542	e	69
+515171	5547321	John this message concerns me.	John this message concerns me 	263316482	1479074520563	1479074520674	 	32
+515171	5547321	John this message concerns me.	John this message concerns me 	263316483	1479074520753	1479074520869	c	67
+515171	5547321	John this message concerns me.	John this message concerns me 	263316491	1479074520831	1479074520946	o	79
+515171	5547321	John this message concerns me.	John this message concerns me 	263316492	1479074520949	1479074521060	n	78
+515171	5547321	John this message concerns me.	John this message concerns me 	263316495	1479074521168	1479074521245	s	83
+515171	5547321	John this message concerns me.	John this message concerns me 	263316497	1479074521487	1479074521593	BKSP	8
+515171	5547321	John this message concerns me.	John this message concerns me 	263316499	1479074521602	1479074521663	c	67
+515171	5547321	John this message concerns me.	John this message concerns me 	263316501	1479074521705	1479074521778	e	69
+515171	5547321	John this message concerns me.	John this message concerns me 	263316503	1479074521848	1479074521959	r	82
+515171	5547321	John this message concerns me.	John this message concerns me 	263316540	1479074522036	1479074522147	s	83
+515171	5547321	John this message concerns me.	John this message concerns me 	263316542	1479074522381	1479074522490	n	78
+515171	5547321	John this message concerns me.	John this message concerns me 	263316550	1479074523296	1479074523407	BKSP	8
+515171	5547321	John this message concerns me.	John this message concerns me 	263316555	1479074523476	1479074523581	BKSP	8
+515171	5547321	John this message concerns me.	John this message concerns me 	263316560	1479074523838	1479074523947	n	78
+515171	5547321	John this message concerns me.	John this message concerns me 	263316562	1479074523983	1479074524052	s	83
+515171	5547321	John this message concerns me.	John this message concerns me 	263316564	1479074524197	1479074524307	 	32
+515171	5547321	John this message concerns me.	John this message concerns me 	263316592	1479074524466	1479074524574	m	77
+515171	5547321	John this message concerns me.	John this message concerns me 	263316593	1479074524581	1479074524644	e	69
+515171	5547321	John this message concerns me.	John this message concerns me 	263316594	1479074524717	1479074524794	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316777	1479074531366	1479074531503	CAPS_LOCK	20
+515171	5547327	His current status is day to day.	His current status is day to day	263316778	1479074531511	1479074531629	H	72
+515171	5547327	His current status is day to day.	His current status is day to day	263316779	1479074531631	1479074531739	CAPS_LOCK	20
+515171	5547327	His current status is day to day.	His current status is day to day	263316781	1479074531703	1479074531806	i	73
+515171	5547327	His current status is day to day.	His current status is day to day	263316783	1479074531841	1479074531960	s	83
+515171	5547327	His current status is day to day.	His current status is day to day	263316785	1479074531966	1479074532034	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316787	1479074532091	1479074532200	c	67
+515171	5547327	His current status is day to day.	His current status is day to day	263316793	1479074532203	1479074532269	u	85
+515171	5547327	His current status is day to day.	His current status is day to day	263316795	1479074532351	1479074532431	r	82
+515171	5547327	His current status is day to day.	His current status is day to day	263316796	1479074532502	1479074532580	r	82
+515171	5547327	His current status is day to day.	His current status is day to day	263316797	1479074532691	1479074532729	e	69
+515171	5547327	His current status is day to day.	His current status is day to day	263316798	1479074532762	1479074532881	n	78
+515171	5547327	His current status is day to day.	His current status is day to day	263316809	1479074532888	1479074532948	t	84
+515171	5547327	His current status is day to day.	His current status is day to day	263316810	1479074533087	1479074533195	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316811	1479074533438	1479074533546	s	83
+515171	5547327	His current status is day to day.	His current status is day to day	263316812	1479074533722	1479074533791	t	84
+515171	5547327	His current status is day to day.	His current status is day to day	263316813	1479074533907	1479074533986	a	65
+515171	5547327	His current status is day to day.	His current status is day to day	263316828	1479074534100	1479074534173	t	84
+515171	5547327	His current status is day to day.	His current status is day to day	263316831	1479074534247	1479074534351	u	85
+515171	5547327	His current status is day to day.	His current status is day to day	263316834	1479074534383	1479074534455	s	83
+515171	5547327	His current status is day to day.	His current status is day to day	263316837	1479074534538	1479074534610	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316840	1479074534738	1479074534887	i	73
+515171	5547327	His current status is day to day.	His current status is day to day	263316874	1479074534926	1479074535036	s	83
+515171	5547327	His current status is day to day.	His current status is day to day	263316877	1479074535548	1479074535658	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316880	1479074535730	1479074535875	d	68
+515171	5547327	His current status is day to day.	His current status is day to day	263316884	1479074535914	1479074536024	a	65
+515171	5547327	His current status is day to day.	His current status is day to day	263316888	1479074536121	1479074536193	t	84
+515171	5547327	His current status is day to day.	His current status is day to day	263316956	1479074536349	1479074536422	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316959	1479074537170	1479074537285	BKSP	8
+515171	5547327	His current status is day to day.	His current status is day to day	263316961	1479074537305	1479074537412	BKSP	8
+515171	5547327	His current status is day to day.	His current status is day to day	263316963	1479074537668	1479074537744	y	89
+515171	5547327	His current status is day to day.	His current status is day to day	263316964	1479074537957	1479074538067	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316965	1479074538209	1479074538326	t	84
+515171	5547327	His current status is day to day.	His current status is day to day	263316966	1479074538330	1479074538436	o	79
+515171	5547327	His current status is day to day.	His current status is day to day	263316974	1479074538558	1479074538668	 	32
+515171	5547327	His current status is day to day.	His current status is day to day	263316977	1479074538958	1479074539102	d	68
+515171	5547327	His current status is day to day.	His current status is day to day	263316980	1479074539130	1479074539275	a	65
+515171	5547327	His current status is day to day.	His current status is day to day	263316983	1479074539240	1479074539350	y	89
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317147	1479074546062	1479074546171	h	72
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317149	1479074546174	1479074546353	a	65
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317152	1479074546317	1479074546389	s	83
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317157	1479074546759	1479074546864	 	32
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317160	1479074547239	1479074547315	y	89
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317183	1479074547320	1479074547421	o	79
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317186	1479074547453	1479074547602	u	85
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317188	1479074547715	1479074547821	r	82
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317189	1479074547842	1479074547954	 	32
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317190	1479074548261	1479074548366	4	52
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317217	1479074548519	1479074548627	t	84
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317218	1479074548756	1479074548864	h	72
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317219	1479074549019	1479074549166	 	32
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317220	1479074549963	1479074550115	q	81
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317221	1479074550120	1479074550177	u	85
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317281	1479074550345	1479074550494	a	65
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317283	1479074551835	1479074551946	r	82
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317285	1479074552050	1479074552161	t	84
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317288	1479074552244	1479074552355	e	69
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317291	1479074552437	1479074552545	r	82
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317298	1479074552569	1479074552677	 	32
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317299	1479074552742	1479074552776	c	67
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317304	1479074552798	1479074552914	h	72
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317308	1479074552917	1479074552984	a	65
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317312	1479074553027	1479074553133	n	78
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317349	1479074553138	1479074553250	g	71
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317350	1479074553358	1479074553438	e	69
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317351	1479074553547	1479074553653	d	68
+515171	5547334	Has your 4th quarter changed?	has your 4th quarter changed?	263317352	1479074554172	1479074554289	?	191
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317471	1479074558474	1479074558585	w	87
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317472	1479074558705	1479074558776	e	69
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317473	1479074558832	1479074558940	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317474	1479074558995	1479074559109	w	87
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317475	1479074559204	1479074559275	e	69
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317487	1479074559398	1479074559477	r	82
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317488	1479074559624	1479074559734	e	69
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317489	1479074559740	1479074559809	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317490	1479074559917	1479074560141	p	80
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317516	1479074560100	1479074560255	l	76
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317518	1479074560344	1479074560447	a	65
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317520	1479074560482	1479074560590	n	78
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317522	1479074560673	1479074560820	n	78
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317523	1479074560823	1479074560967	i	73
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317524	1479074560972	1479074561076	n	78
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317531	1479074561079	1479074561188	g	71
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317533	1479074561231	1479074561341	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317536	1479074561578	1479074561690	t	84
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317540	1479074561760	1479074561830	o	79
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317542	1479074561968	1479074562080	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317560	1479074562086	1479074562207	h	72
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317562	1479074562213	1479074562346	a	65
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317563	1479074562442	1479074562554	v	86
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317564	1479074562657	1479074562767	e	69
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317566	1479074563049	1479074563160	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317598	1479074563264	1479074563373	h	72
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317601	1479074563520	1479074563671	i	73
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317604	1479074563692	1479074563804	m	77
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317607	1479074563927	1479074563997	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317610	1479074564637	1479074564751	f	70
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317641	1479074564761	1479074564868	o	79
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317642	1479074564885	1479074564959	r	82
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317644	1479074565022	1479074565162	m	77
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317647	1479074565419	1479074565529	BKSP	8
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317654	1479074565587	1479074565692	BKSP	8
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317657	1479074565739	1479074565848	BKSP	8
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317665	1479074565941	1479074566019	r	82
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317669	1479074566025	1479074566252	o	79
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317677	1479074566208	1479074566321	m	77
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317680	1479074566426	1479074566530	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317684	1479074566588	1479074566733	t	84
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317688	1479074566786	1479074566891	h	72
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317690	1479074566926	1479074567039	e	69
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317694	1479074567063	1479074567133	 	32
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317714	1479074567251	1479074567358	s	83
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317717	1479074567469	1479074567541	t	84
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317720	1479074567667	1479074567772	a	65
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317724	1479074567830	1479074567937	r	82
+515171	5547343	We were planning to have him from the start.	we were planning to have him from the start	263317726	1479074568022	1479074568096	t	84
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317882	1479074573240	1479074573343	t	84
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317883	1479074573409	1479074573482	h	72
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317884	1479074573534	1479074573607	e	69
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317885	1479074573698	1479074573769	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317886	1479074574332	1479074574480	t	84
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317887	1479074575245	1479074575357	w	87
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317889	1479074575362	1479074575463	o	79
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317891	1479074575544	1479074575654	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317893	1479074575684	1479074575797	l	76
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317895	1479074575804	1479074575903	e	69
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317898	1479074575908	1479074576020	a	65
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317900	1479074576082	1479074576191	d	68
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317902	1479074576198	1479074576337	i	73
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317904	1479074576299	1479074576404	n	78
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317906	1479074576411	1479074576520	g	71
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317921	1479074576585	1479074576699	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317925	1479074576756	1479074576899	c	67
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317927	1479074576920	1479074577030	a	65
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317930	1479074577039	1479074577138	n	78
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317934	1479074577178	1479074577286	d	68
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317948	1479074577307	1479074577411	i	73
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317951	1479074577419	1479074577529	d	68
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317954	1479074577559	1479074577669	a	65
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317956	1479074577759	1479074577832	t	84
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317957	1479074577965	1479074578071	e	69
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317977	1479074578155	1479074578307	s	83
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317979	1479074578346	1479074578457	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317982	1479074578463	1479074578614	s	83
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317986	1479074578575	1479074578685	i	73
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263317989	1479074578755	1479074578866	g	71
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318021	1479074578892	1479074579005	n	78
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318024	1479074579059	1479074579165	e	69
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318029	1479074579269	1479074579413	d	68
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318033	1479074579506	1479074579614	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318038	1479074579741	1479074579897	a	65
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318128	1479074579857	1479074579967	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318132	1479074580236	1479074580384	CAPS_LOCK	20
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318135	1479074580443	1479074580554	C	67
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318137	1479074580603	1479074580708	CAPS_LOCK	20
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318138	1479074580721	1479074580859	i	73
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318139	1479074580891	1479074581010	v	86
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318140	1479074581016	1479074581114	i	73
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318141	1479074581195	1479074581378	l	76
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318157	1479074581339	1479074581480	i	73
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318159	1479074581562	1479074581672	t	84
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318161	1479074581802	1479074581948	y	89
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318164	1479074582647	1479074582759	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318166	1479074582895	1479074583040	p	80
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318168	1479074583319	1479074583460	BKSP	8
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318172	1479074583552	1479074583698	CAPS_LOCK	20
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318174	1479074583705	1479074583774	P	80
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318182	1479074583779	1479074583881	CAPS_LOCK	20
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318183	1479074583949	1479074584095	a	65
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318184	1479074584148	1479074584295	c	67
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318185	1479074584387	1479074584462	t	84
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318186	1479074584566	1479074584679	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318187	1479074584749	1479074584931	o	79
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318229	1479074584895	1479074585006	n	78
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318231	1479074585118	1479074585188	 	32
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318234	1479074585200	1479074585344	CAPS_LOCK	20
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318237	1479074585517	1479074585621	T	84
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318240	1479074585701	1479074585812	CAPS_LOCK	20
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318242	1479074585816	1479074585880	u	85
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318244	1479074585928	1479074586036	e	69
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318246	1479074586128	1479074586238	s	83
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318253	1479074586789	1479074586931	d	68
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318255	1479074586972	1479074587110	a	65
+515171	5547352	The two leading candidates signed a Civility Pact on Tuesday.	the two leading candidates signed a Civility Pact on Tuesday	263318257	1479074587240	1479074587309	y	89
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318365	1479074590477	1479074590692	CAPS_LOCK	20
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318367	1479074591022	1479074591187	A	65
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318369	1479074591193	1479074591332	CAPS_LOCK	20
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318371	1479074591352	1479074591461	t	84
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318373	1479074591586	1479074591695	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318375	1479074591771	1479074591881	l	76
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318377	1479074591883	1479074591988	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318403	1479074592003	1479074592183	a	65
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318407	1479074592557	1479074592702	s	83
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318412	1479074592818	1479074592888	t	84
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318416	1479074592956	1479074593066	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318420	1479074593120	1479074593233	t	84
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318464	1479074593238	1479074593338	h	72
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318467	1479074593402	1479074593506	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318470	1479074594198	1479074594307	n	78
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318473	1479074594427	1479074594500	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318475	1479074594589	1479074594736	o	79
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318493	1479074594739	1479074594839	n	78
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318496	1479074594895	1479074595002	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318499	1479074595009	1479074595075	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318501	1479074595484	1479074595633	p	80
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318503	1479074595638	1479074595704	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318554	1479074595793	1479074595898	s	83
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318555	1479074595958	1479074596095	i	73
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318556	1479074596287	1479074596432	BKSP	8
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318557	1479074596788	1479074596862	i	73
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318558	1479074597018	1479074597122	n	78
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318560	1479074597308	1479074597379	BKSP	8
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318563	1479074597453	1479074597561	BKSP	8
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318566	1479074597691	1479074597761	o	79
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318602	1479074597970	1479074598040	BKSP	8
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318605	1479074598111	1479074598219	BKSP	8
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318607	1479074598271	1479074598384	r	82
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318611	1479074598621	1479074598764	s	83
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318614	1479074598726	1479074598880	o	79
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318619	1479074598884	1479074599026	n	78
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318622	1479074599133	1479074599206	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318657	1479074599550	1479074599620	i	73
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318659	1479074600043	1479074600118	n	78
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318661	1479074600239	1479074600309	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318663	1479074600499	1479074600647	CAPS_LOCK	20
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318665	1479074600693	1479074600805	D	68
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318667	1479074600811	1479074600924	CAPS_LOCK	20
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318669	1479074601030	1479074601136	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318684	1479074601257	1479074601371	n	78
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318686	1479074601375	1479074601475	v	86
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318688	1479074601529	1479074601636	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318690	1479074601704	1479074601811	r	82
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318692	1479074602122	1479074602231	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318712	1479074602350	1479074602495	w	87
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318713	1479074602507	1479074602650	o	79
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318714	1479074602946	1479074603052	u	85
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318715	1479074603289	1479074603444	l	76
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318716	1479074603450	1479074603549	d	68
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318747	1479074603615	1479074603723	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318750	1479074604719	1479074604826	b	66
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318754	1479074604843	1479074604954	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318758	1479074604960	1479074605022	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318766	1479074605046	1479074605162	a	65
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318777	1479074605194	1479074605305	b	66
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318780	1479074605374	1479074605483	l	76
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318784	1479074605486	1479074605597	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318787	1479074605637	1479074605743	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318789	1479074605987	1479074606094	t	84
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318812	1479074606116	1479074606224	o	79
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318814	1479074606339	1479074606446	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318816	1479074606494	1479074606598	g	71
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318818	1479074606663	1479074606767	e	69
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318820	1479074606896	1479074606971	t	84
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318827	1479074606996	1479074607105	 	32
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318828	1479074607155	1479074607341	i	73
+515171	5547366	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in	263318829	1479074607304	1479074607411	n	78
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319042	1479074615240	1479074615395	CAPS_LOCK	20
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319044	1479074615397	1479074615537	I	73
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319046	1479074615540	1479074615612	CAPS_LOCK	20
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319047	1479074615666	1479074615774	 	32
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319049	1479074615845	1479074615952	n	78
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319051	1479074615957	1479074616064	e	69
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319055	1479074616169	1479074616246	e	69
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319062	1479074616377	1479074616450	d	68
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319064	1479074616516	1479074616589	 	32
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319067	1479074616625	1479074616701	t	84
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319070	1479074616718	1479074616830	o	79
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319073	1479074616942	1479074617021	 	32
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319085	1479074617105	1479074617172	g	71
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319086	1479074617190	1479074617295	o	79
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319087	1479074617460	1479074617562	 	32
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319088	1479074618160	1479074618278	t	84
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319089	1479074618281	1479074618383	o	79
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319112	1479074618459	1479074618534	 	32
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319116	1479074618543	1479074618677	CAPS_LOCK	20
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319118	1479074618789	1479074618934	S	83
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319121	1479074618938	1479074619041	CAPS_LOCK	20
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319124	1479074619162	1479074619277	t	84
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319126	1479074619346	1479074619456	a	65
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319127	1479074619467	1479074619578	n	78
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319158	1479074620220	1479074620291	s	83
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319160	1479074620562	1479074620632	 	32
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319162	1479074621409	1479074621518	o	79
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319165	1479074621595	1479074621675	f	70
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319215	1479074621748	1479074621860	f	70
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319217	1479074621887	1479074621995	i	73
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319219	1479074622027	1479074622168	c	67
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319221	1479074622213	1479074622327	e	69
+515171	5547377	I need to go to Stan's office.	I need to go to Stan's office.	263319225	1479074623723	1479074623834	.	190
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319382	1479074628509	1479074628658	CAPS_LOCK	20
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319384	1479074628620	1479074628691	L	76
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319387	1479074628699	1479074628802	CAPS_LOCK	20
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319390	1479074628867	1479074629011	a	65
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319393	1479074629078	1479074629190	v	86
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319396	1479074629149	1479074629258	o	79
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319399	1479074629357	1479074629470	 	32
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319409	1479074629493	1479074629604	c	67
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319410	1479074629650	1479074629795	a	65
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319411	1479074629804	1479074629871	l	76
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319413	1479074629932	1479074630042	l	76
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319415	1479074630050	1479074630152	e	69
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319450	1479074630236	1479074630346	d	68
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319451	1479074630912	1479074631023	 	32
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319452	1479074631140	1479074631248	i	73
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319453	1479074631471	1479074631579	t	84
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319454	1479074631886	1479074631990	,	188
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319481	1479074632101	1479074632181	 	32
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319482	1479074632364	1479074632439	n	78
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319485	1479074632447	1479074632552	e	69
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319488	1479074632663	1479074632775	v	86
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319491	1479074632824	1479074632897	e	69
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319522	1479074632998	1479074633068	r	82
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319524	1479074633090	1479074633166	 	32
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319526	1479074633267	1479074633415	m	77
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319528	1479074633374	1479074633561	i	73
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319530	1479074633565	1479074633703	n	78
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319542	1479074633735	1479074633850	d	68
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319545	1479074633958	1479074634100	 	32
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319548	1479074634511	1479074634652	t	84
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319552	1479074634727	1479074634871	h	72
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319555	1479074634877	1479074635018	o	79
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319584	1479074635055	1479074635205	u	85
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319586	1479074635285	1479074635359	g	71
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319588	1479074635413	1479074635525	h	72
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319590	1479074635618	1479074635690	t	84
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319593	1479074636212	1479074636285	BKSP	8
+515171	5547385	Lavo called it, never mind though.	Lavo called it, never mind though.	263319596	1479074636899	1479074636974	.	190
+515171	5547391	We must be consistent.	We must be consistent.	263319801	1479074644030	1479074644170	CAPS_LOCK	20
+515171	5547391	We must be consistent.	We must be consistent.	263319804	1479074644252	1479074644399	W	87
+515171	5547391	We must be consistent.	We must be consistent.	263319806	1479074644406	1479074644470	CAPS_LOCK	20
+515171	5547391	We must be consistent.	We must be consistent.	263319807	1479074644608	1479074644717	e	69
+515171	5547391	We must be consistent.	We must be consistent.	263319809	1479074644795	1479074644872	 	32
+515171	5547391	We must be consistent.	We must be consistent.	263319811	1479074644982	1479074645089	m	77
+515171	5547391	We must be consistent.	We must be consistent.	263319813	1479074645161	1479074645271	u	85
+515171	5547391	We must be consistent.	We must be consistent.	263319820	1479074645275	1479074645342	s	83
+515171	5547391	We must be consistent.	We must be consistent.	263319822	1479074645459	1479074645535	t	84
+515171	5547391	We must be consistent.	We must be consistent.	263319824	1479074645602	1479074645672	 	32
+515171	5547391	We must be consistent.	We must be consistent.	263319825	1479074645826	1479074645939	b	66
+515171	5547391	We must be consistent.	We must be consistent.	263319826	1479074645958	1479074646074	e	69
+515171	5547391	We must be consistent.	We must be consistent.	263319840	1479074646077	1479074646179	 	32
+515171	5547391	We must be consistent.	We must be consistent.	263319842	1479074646282	1479074646392	c	67
+515171	5547391	We must be consistent.	We must be consistent.	263319845	1479074646351	1479074646463	o	79
+515171	5547391	We must be consistent.	We must be consistent.	263319848	1479074646471	1479074646538	n	78
+515171	5547391	We must be consistent.	We must be consistent.	263319851	1479074646648	1479074646761	s	83
+515171	5547391	We must be consistent.	We must be consistent.	263319881	1479074647164	1479074647275	BKSP	8
+515171	5547391	We must be consistent.	We must be consistent.	263319882	1479074647293	1479074647402	c	67
+515171	5547391	We must be consistent.	We must be consistent.	263319883	1479074647425	1479074647496	i	73
+515171	5547391	We must be consistent.	We must be consistent.	263319884	1479074647518	1479074647622	s	83
+515171	5547391	We must be consistent.	We must be consistent.	263319885	1479074648025	1479074648100	t	84
+515171	5547391	We must be consistent.	We must be consistent.	263319886	1479074648208	1479074648318	e	69
+515171	5547391	We must be consistent.	We must be consistent.	263319989	1479074648321	1479074648386	n	78
+515171	5547391	We must be consistent.	We must be consistent.	263319991	1479074648440	1479074648513	t	84
+515171	5547391	We must be consistent.	We must be consistent.	263319993	1479074648581	1479074648654	 	32
+515171	5547391	We must be consistent.	We must be consistent.	263319995	1479074650461	1479074651192	BKSP	8
+515171	5547391	We must be consistent.	We must be consistent.	263319998	1479074651906	1479074652018	n	78
+515171	5547391	We must be consistent.	We must be consistent.	263320001	1479074652083	1479074652195	s	83
+515171	5547391	We must be consistent.	We must be consistent.	263320004	1479074652200	1479074652260	i	73
+515171	5547391	We must be consistent.	We must be consistent.	263320005	1479074652278	1479074652387	s	83
+515171	5547391	We must be consistent.	We must be consistent.	263320006	1479074652519	1479074652590	t	84
+515171	5547391	We must be consistent.	We must be consistent.	263320007	1479074652711	1479074652823	e	69
+515171	5547391	We must be consistent.	We must be consistent.	263320008	1479074652824	1479074652928	n	78
+515171	5547391	We must be consistent.	We must be consistent.	263320056	1479074653061	1479074653172	t	84
+515171	5547391	We must be consistent.	We must be consistent.	263320058	1479074653823	1479074653894	.	190
+515171	5547399	I have an electric knife.	I have an electric knife.	263320210	1479074660477	1479074660598	CAPS_LOCK	20
+515171	5547399	I have an electric knife.	I have an electric knife.	263320212	1479074660602	1479074660706	I	73
+515171	5547399	I have an electric knife.	I have an electric knife.	263320213	1479074660706	1479074660774	CAPS_LOCK	20
+515171	5547399	I have an electric knife.	I have an electric knife.	263320214	1479074660850	1479074660957	 	32
+515171	5547399	I have an electric knife.	I have an electric knife.	263320215	1479074661055	1479074661169	h	72
+515171	5547399	I have an electric knife.	I have an electric knife.	263320216	1479074661173	1479074661276	a	65
+515171	5547399	I have an electric knife.	I have an electric knife.	263320217	1479074661345	1479074661381	v	86
+515171	5547399	I have an electric knife.	I have an electric knife.	263320251	1479074661712	1479074661788	e	69
+515171	5547399	I have an electric knife.	I have an electric knife.	263320253	1479074661856	1479074662003	 	32
+515171	5547399	I have an electric knife.	I have an electric knife.	263320256	1479074662058	1479074662161	a	65
+515171	5547399	I have an electric knife.	I have an electric knife.	263320259	1479074662194	1479074662302	n	78
+515171	5547399	I have an electric knife.	I have an electric knife.	263320261	1479074662414	1479074662525	 	32
+515171	5547399	I have an electric knife.	I have an electric knife.	263320299	1479074662705	1479074662779	e	69
+515171	5547399	I have an electric knife.	I have an electric knife.	263320300	1479074662825	1479074662901	l	76
+515171	5547399	I have an electric knife.	I have an electric knife.	263320302	1479074662951	1479074663062	e	69
+515171	5547399	I have an electric knife.	I have an electric knife.	263320304	1479074663286	1479074663395	c	67
+515171	5547399	I have an electric knife.	I have an electric knife.	263320305	1479074663581	1479074663685	t	84
+515171	5547399	I have an electric knife.	I have an electric knife.	263320330	1479074663756	1479074663865	r	82
+515171	5547399	I have an electric knife.	I have an electric knife.	263320332	1479074663874	1479074664017	i	73
+515171	5547399	I have an electric knife.	I have an electric knife.	263320334	1479074664029	1479074664131	c	67
+515171	5547399	I have an electric knife.	I have an electric knife.	263320336	1479074664852	1479074664961	 	32
+515171	5547399	I have an electric knife.	I have an electric knife.	263320337	1479074665757	1479074665867	k	75
+515171	5547399	I have an electric knife.	I have an electric knife.	263320366	1479074665982	1479074666091	n	78
+515171	5547399	I have an electric knife.	I have an electric knife.	263320369	1479074666147	1479074666290	i	73
+515171	5547399	I have an electric knife.	I have an electric knife.	263320372	1479074666356	1479074666432	f	70
+515171	5547399	I have an electric knife.	I have an electric knife.	263320374	1479074666608	1479074666688	e	69
+515171	5547399	I have an electric knife.	I have an electric knife.	263320376	1479074667711	1479074667820	.	190
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320539	1479074672206	1479074672385	CAPS_LOCK	20
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320542	1479074672831	1479074672979	Z	90
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320545	1479074672992	1479074673140	CAPS_LOCK	20
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320547	1479074673214	1479074673399	a	65
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320549	1479074673474	1479074673582	c	67
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320551	1479074673708	1479074673818	k	75
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320552	1479074673923	1479074674032	 	32
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320611	1479074674137	1479074674285	CAPS_LOCK	20
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320615	1479074674684	1479074674796	C	67
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320619	1479074675055	1479074675200	CAPS_LOCK	20
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320623	1479074675218	1479074675331	BKSP	8
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320628	1479074675378	1479074675489	c	67
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320629	1479074675712	1479074675821	r	82
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320631	1479074675867	1479074675980	o	79
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320634	1479074677272	1479074677423	c	67
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320639	1479074677428	1479074677529	k	75
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320641	1479074677676	1479074677821	e	69
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320643	1479074677953	1479074678026	t	84
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320645	1479074678107	1479074678220	t	84
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320647	1479074678429	1479074678537	 	32
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320671	1479074678669	1479074678813	m	77
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320672	1479074678819	1479074678929	a	65
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320673	1479074679105	1479074679248	y	89
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320675	1479074679341	1479074679448	 	32
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320677	1479074679550	1479074679657	b	66
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320692	1479074679667	1479074679779	e	69
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320694	1479074679782	1479074679848	 	32
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320696	1479074679942	1479074680058	u	85
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320698	1479074680060	1479074680159	s	83
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320700	1479074680235	1479074680345	e	69
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320714	1479074680441	1479074680546	d	68
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320716	1479074680650	1479074680795	 	32
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320719	1479074680915	1479074681056	i	73
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320721	1479074681115	1479074681185	n	78
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320724	1479074681304	1479074681376	 	32
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320771	1479074681822	1479074681931	g	71
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320773	1479074681935	1479074682036	i	73
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320774	1479074682078	1479074682157	a	65
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320776	1479074682184	1479074682256	l	76
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320777	1479074682991	1479074683067	-	189
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320812	1479074683303	1479074683416	l	76
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320816	1479074683426	1479074683571	i	73
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320821	1479074683602	1479074683703	n	78
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320822	1479074683741	1479074683851	e	69
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320823	1479074684108	1479074684257	 	32
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320844	1479074684568	1479074684715	s	83
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320848	1479074684720	1479074684785	i	73
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320852	1479074684995	1479074685107	t	84
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320859	1479074685109	1479074685212	u	85
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320863	1479074685231	1479074685338	a	65
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320892	1479074685462	1479074685572	t	84
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320895	1479074685583	1479074685875	i	73
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320898	1479074685881	1479074686057	o	79
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320901	1479074686061	1479074686164	n	78
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320903	1479074686194	1479074686309	s	83
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320953	1479074686489	1479074686596	.	190
+515171	5547409	Zack Crockett may be used in goal-line situations.	Zack crockett may be used in gial-line situations.	263320955	1479074687008	1479074687079	SHIFT	16
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321166	1479074694055	1479074694200	CAPS_LOCK	20
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321168	1479074694163	1479074694275	L	76
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321170	1479074694277	1479074694378	CAPS_LOCK	20
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321172	1479074695140	1479074695251	o	79
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321174	1479074695282	1479074695392	u	85
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321177	1479074695482	1479074695591	i	73
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321179	1479074695625	1479074695739	s	83
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321181	1479074695748	1479074695850	 	32
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321183	1479074695948	1479074696057	d	68
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321185	1479074696128	1479074696196	e	69
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321187	1479074696296	1479074696408	s	83
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321209	1479074696367	1479074696477	p	80
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321211	1479074696499	1479074696643	i	73
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321213	1479074696676	1479074696785	t	84
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321215	1479074696917	1479074697022	e	69
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321217	1479074697281	1479074697391	 	32
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321218	1479074697627	1479074697739	t	84
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321235	1479074697787	1479074697897	h	72
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321236	1479074697942	1479074698092	e	69
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321237	1479074698099	1479074698200	 	32
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321238	1479074698227	1479074698339	r	82
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321239	1479074698398	1479074698508	e	69
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321247	1479074698611	1479074698681	t	84
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321248	1479074698686	1479074698796	u	85
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321250	1479074698831	1479074698951	r	82
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321252	1479074698957	1479074699053	n	78
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321255	1479074699166	1479074699273	 	32
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321289	1479074699694	1479074699839	o	79
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321291	1479074699969	1479074700074	f	70
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321293	1479074700160	1479074700267	 	32
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321298	1479074700288	1479074700400	CAPS_LOCK	20
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321302	1479074700485	1479074700592	D	68
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321304	1479074700618	1479074700771	CAPS_LOCK	20
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321306	1479074700867	1479074700973	r	82
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321324	1479074701046	1479074701189	e	69
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321325	1479074701337	1479074701480	w	87
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321326	1479074702191	1479074702301	 	32
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321327	1479074702391	1479074702539	CAPS_LOCK	20
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321328	1479074702545	1479074702685	B	66
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321329	1479074702692	1479074702828	CAPS_LOCK	20
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321330	1479074702874	1479074702989	l	76
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321348	1479074703010	1479074703119	e	69
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321350	1479074703266	1479074703374	d	68
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321351	1479074703659	1479074703805	s	83
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321352	1479074703809	1479074703910	o	79
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321353	1479074703964	1479074704073	e	69
+515171	5547418	Louis despite the return of Drew Bledsoe.	Louis despite the return of Drew Bledsoe.	263321380	1479074705184	1479074705329	.	190
+515171	5547427	Take what you can get.	Take what you can get.	263321608	1479074713537	1479074713718	CAPS_LOCK	20
+515171	5547427	Take what you can get.	Take what you can get.	263321609	1479074714000	1479074714154	CAPS_LOCK	20
+515171	5547427	Take what you can get.	Take what you can get.	263321610	1479074714301	1479074714443	CAPS_LOCK	20
+515171	5547427	Take what you can get.	Take what you can get.	263321611	1479074714524	1479074714597	T	84
+515171	5547427	Take what you can get.	Take what you can get.	263321612	1479074714599	1479074714711	CAPS_LOCK	20
+515171	5547427	Take what you can get.	Take what you can get.	263321614	1479074714817	1479074714930	a	65
+515171	5547427	Take what you can get.	Take what you can get.	263321616	1479074715346	1479074715456	k	75
+515171	5547427	Take what you can get.	Take what you can get.	263321618	1479074715481	1479074715593	e	69
+515171	5547427	Take what you can get.	Take what you can get.	263321620	1479074715597	1479074715699	 	32
+515171	5547427	Take what you can get.	Take what you can get.	263321623	1479074716261	1479074716371	w	87
+515171	5547427	Take what you can get.	Take what you can get.	263321625	1479074716514	1479074716585	h	72
+515171	5547427	Take what you can get.	Take what you can get.	263321627	1479074716606	1479074716711	a	65
+515171	5547427	Take what you can get.	Take what you can get.	263321629	1479074716845	1479074716917	t	84
+515171	5547427	Take what you can get.	Take what you can get.	263321631	1479074716946	1479074717050	 	32
+515171	5547427	Take what you can get.	Take what you can get.	263321654	1479074717299	1479074717403	y	89
+515171	5547427	Take what you can get.	Take what you can get.	263321657	1479074717412	1479074717516	o	79
+515171	5547427	Take what you can get.	Take what you can get.	263321660	1479074717586	1479074717694	u	85
+515171	5547427	Take what you can get.	Take what you can get.	263321663	1479074717808	1479074717919	 	32
+515171	5547427	Take what you can get.	Take what you can get.	263321665	1479074717971	1479074718121	c	67
+515171	5547427	Take what you can get.	Take what you can get.	263321699	1479074718184	1479074718292	a	65
+515171	5547427	Take what you can get.	Take what you can get.	263321700	1479074718639	1479074718715	n	78
+515171	5547427	Take what you can get.	Take what you can get.	263321701	1479074718858	1479074718965	 	32
+515171	5547427	Take what you can get.	Take what you can get.	263321703	1479074719174	1479074719285	g	71
+515171	5547427	Take what you can get.	Take what you can get.	263321705	1479074719338	1479074719448	e	69
+515171	5547427	Take what you can get.	Take what you can get.	263321723	1479074719541	1479074719612	t	84
+515171	5547427	Take what you can get.	Take what you can get.	263321727	1479074719842	1479074719992	.	190
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263321996	1479074725968	1479074726148	CAPS_LOCK	20
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322001	1479074726454	1479074726709	CAPS_LOCK	20
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322007	1479074726869	1479074727087	CAPS_LOCK	20
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322011	1479074727230	1479074727338	W	87
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322013	1479074727346	1479074727455	CAPS_LOCK	20
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322016	1479074727611	1479074727648	r	82
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322018	1479074727745	1479074727816	 	32
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322020	1479074728458	1479074728532	BKSP	8
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322023	1479074728607	1479074728711	BKSP	8
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322025	1479074728767	1479074728874	e	69
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322027	1479074728901	1479074729007	 	32
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322022	1479074729233	1479074729342	n	78
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322024	1479074729617	1479074729695	e	69
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322026	1479074729765	1479074729874	e	69
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322029	1479074729965	1479074730079	d	68
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322030	1479074730084	1479074730185	 	32
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322036	1479074730218	1479074730286	t	84
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322037	1479074730294	1479074730442	o	79
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322040	1479074730481	1479074730558	 	32
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322047	1479074730647	1479074730753	t	84
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322049	1479074730819	1479074730935	a	65
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322073	1479074730899	1479074731007	l	76
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322075	1479074731282	1479074731395	k	75
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322079	1479074731488	1479074731598	 	32
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322082	1479074731615	1479074731725	a	65
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322084	1479074731820	1479074731968	b	66
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322086	1479074732022	1479074732168	o	79
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322101	1479074732211	1479074732318	u	85
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322102	1479074732404	1479074732511	t	84
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322104	1479074732569	1479074732680	 	32
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322106	1479074732790	1479074732868	y	89
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322110	1479074732948	1479074733051	h	72
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322121	1479074733120	1479074733231	i	73
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322122	1479074733236	1479074733336	s	83
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322123	1479074733361	1479074733439	 	32
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322124	1479074733540	1479074733689	m	77
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322330	1479074733650	1479074733798	o	79
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322332	1479074733903	1479074734013	n	78
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322335	1479074734076	1479074734147	t	84
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322338	1479074734246	1479074734356	h	72
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322341	1479074735602	1479074735642	ARW_LEFT	37
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322344	1479074735792	1479074736660	ARW_LEFT	37
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322347	1479074737067	1479074737171	ARW_RIGHT	39
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322349	1479074737234	1479074737342	ARW_RIGHT	39
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322350	1479074737390	1479074737504	ARW_RIGHT	39
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322354	1479074737553	1479074737660	ARW_RIGHT	39
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322359	1479074737765	1479074737916	ARW_RIGHT	39
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322363	1479074739344	1479074739457	BKSP	8
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322367	1479074739501	1479074739575	t	84
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322371	1479074740468	1479074740582	END	35
+515171	5547437	We need to talk about this month.	We need to talk about this month.	263322374	1479074740993	1479074741107	.	190

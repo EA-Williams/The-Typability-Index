@@ -1,0 +1,731 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923358	1473582178634	1473582179173	SHIFT	16
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923359	1473582179009	1473582179173	I	73
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923360	1473582179762	1473582179879	'	222
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923361	1473582180396	1473582180512	l	76
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923362	1473582180596	1473582180750	l	76
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923364	1473582181049	1473582181097	 	32
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923426	1473582182058	1473582182195	s	83
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923427	1473582182675	1473582182837	n	78
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923428	1473582184055	1473582184178	BKSP	8
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923429	1473582184476	1473582184594	e	69
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923431	1473582184610	1473582184685	n	78
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923433	1473582184746	1473582184857	d	68
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923453	1473582184894	1473582185010	 	32
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923454	1473582185478	1473582185617	y	89
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923455	1473582185599	1473582185761	o	79
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923456	1473582185815	1473582185946	u	85
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923457	1473582185994	1473582186099	 	32
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923494	1473582187226	1473582187427	m	77
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923495	1473582187489	1473582187713	i	73
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923496	1473582187657	1473582187884	n	78
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923497	1473582187864	1473582188049	u	85
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923498	1473582188080	1473582188181	t	84
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923575	1473582188635	1473582188727	s	83
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923577	1473582189672	1473582189858	]	221
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923579	1473582191540	1473582191608	BKSP	8
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923581	1473582191844	1473582191982	BKSP	8
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923583	1473582192935	1473582193057	e	69
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923584	1473582193915	1473582194031	s	83
+123625	1344321	I'll send you minutes.	I'll send you minutes.	63923585	1473582195688	1473582195788	.	190
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923746	1473582202027	1473582202903	SHIFT	16
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923742	1473582202686	1473582202786	A	65
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923749	1473582203024	1473582203175	n	78
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923752	1473582203565	1473582203721	t	84
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923753	1473582203712	1473582203918	o	79
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923792	1473582203869	1473582204198	n	78
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923794	1473582204070	1473582204310	i	73
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923798	1473582204522	1473582204636	o	79
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923801	1473582204800	1473582204968	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923803	1473582205521	1473582206131	SHIFT	16
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923805	1473582206117	1473582206248	G	71
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923807	1473582206845	1473582206918	u	85
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923903	1473582207306	1473582207422	r	82
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923904	1473582209582	1473582209755	BKSP	8
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923905	1473582210267	1473582210342	t	84
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923906	1473582212083	1473582212200	e	69
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923907	1473582212584	1473582212680	r	82
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63923908	1473582212800	1473582212931	r	82
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924034	1473582213121	1473582213246	e	69
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924036	1473582213840	1473582213935	s	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924039	1473582214086	1473582214181	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924040	1473582217983	1473582218115	s	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924041	1473582218510	1473582218614	n	78
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924070	1473582219100	1473582219196	BKSP	8
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924071	1473582219281	1473582219405	e	69
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924072	1473582219397	1473582219550	n	78
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924073	1473582219969	1473582220098	t	84
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924074	1473582220151	1473582220250	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924075	1473582220851	1473582220952	a	65
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924081	1473582221006	1473582221131	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924085	1473582221257	1473582221404	m	77
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924089	1473582221543	1473582221662	e	69
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924092	1473582221797	1473582221913	s	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924094	1473582222003	1473582222087	s	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924119	1473582222235	1473582222351	a	65
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924121	1473582222405	1473582222507	g	71
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924123	1473582222607	1473582222724	e	69
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924127	1473582222878	1473582222975	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924130	1473582223316	1473582223400	o	79
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924229	1473582223724	1473582223826	f	70
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924230	1473582223910	1473582223995	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924232	1473582226632	1473582226778	c	67
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924233	1473582226947	1473582227103	o	79
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924234	1473582227207	1473582227305	n	78
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924275	1473582228296	1473582228430	d	68
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924278	1473582228508	1473582228613	o	79
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924281	1473582228739	1473582228876	l	76
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924283	1473582228996	1473582229061	e	69
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924285	1473582229725	1473582229811	n	78
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924324	1473582229926	1473582230048	c	67
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924325	1473582230798	1473582230884	e	69
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924326	1473582231480	1473582231565	s	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924327	1473582231744	1473582231884	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924329	1473582232584	1473582232762	t	84
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924361	1473582232688	1473582232852	o	79
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924365	1473582233115	1473582233316	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924368	1473582234218	1473582234316	s	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924370	1473582234664	1473582234802	BKSP	8
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924378	1473582234979	1473582235357	SHIFT	16
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924375	1473582235147	1473582235267	S	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924381	1473582235527	1473582235718	m	77
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924426	1473582235659	1473582235857	i	73
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924428	1473582235968	1473582236017	t	84
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924429	1473582236153	1473582236316	h	72
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924430	1473582237537	1473582237613	'	222
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924431	1473582237742	1473582237830	s	83
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924432	1473582237921	1473582238025	 	32
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924439	1473582238817	1473582238879	w	87
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924441	1473582238976	1473582239090	i	73
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924444	1473582239090	1473582239237	d	68
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924447	1473582239275	1473582239391	o	79
+123625	1344331	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow	63924451	1473582239661	1473582239765	w	87
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924569	1473582245428	1473582245780	SHIFT	16
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924568	1473582245611	1473582245732	T	84
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924570	1473582246289	1473582246404	a	65
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924571	1473582246709	1473582246845	x	88
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924572	1473582247128	1473582247266	 	32
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924573	1473582248165	1473582248313	g	71
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924589	1473582248535	1473582248654	a	65
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924591	1473582248818	1473582248950	v	86
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924594	1473582249106	1473582249234	e	69
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924598	1473582249291	1473582249492	 	32
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924602	1473582249728	1473582249828	u	85
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924624	1473582249928	1473582250052	s	83
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924625	1473582250070	1473582250234	 	32
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924626	1473582250281	1473582250441	t	84
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924628	1473582250435	1473582250587	h	72
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924653	1473582250584	1473582250735	e	69
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924655	1473582250751	1473582250866	 	32
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924656	1473582251225	1473582251371	s	83
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924657	1473582251545	1473582251647	m	77
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924658	1473582251832	1473582251963	e	69
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924659	1473582252016	1473582252117	 	32
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924741	1473582252382	1473582252489	d	68
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924743	1473582252877	1473582252994	BKSP	8
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924745	1473582253052	1473582253152	BKSP	8
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924747	1473582253229	1473582253330	BKSP	8
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924748	1473582253409	1473582253502	BKSP	8
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924750	1473582255317	1473582255449	a	65
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924752	1473582255622	1473582255738	m	77
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924754	1473582255795	1473582255942	e	69
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924756	1473582255984	1473582256101	 	32
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924795	1473582257013	1473582257129	f	70
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924797	1473582257635	1473582257704	e	69
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924799	1473582257838	1473582258069	e	69
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924800	1473582257993	1473582258175	d	68
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924802	1473582259297	1473582259433	b	66
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924836	1473582259449	1473582259566	a	65
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924837	1473582259730	1473582259835	c	67
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924838	1473582260108	1473582260184	k	75
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924839	1473582262050	1473582262187	.	190
+123625	1344347	Tax gave us the same feedback.	Tax gave us the same feedback. 	63924840	1473582262614	1473582262718	 	32
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924933	1473582267381	1473582267833	SHIFT	16
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924932	1473582267617	1473582267797	G	71
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924934	1473582267978	1473582268100	o	79
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924935	1473582268200	1473582268331	 	32
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924936	1473582268400	1473582268491	f	70
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924950	1473582268466	1473582268617	o	79
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924954	1473582268731	1473582268854	r	82
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924956	1473582268847	1473582269035	 	32
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924959	1473582269051	1473582269186	r	82
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924961	1473582269186	1473582269376	h	72
+123625	1344355	Go for the dollars.	Go for the doolars. 	63924998	1473582269342	1473582269513	e	69
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925000	1473582269528	1473582269648	 	32
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925003	1473582270103	1473582270148	\	220
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925006	1473582270405	1473582270484	BKSP	8
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925009	1473582270579	1473582270686	BKSP	8
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925012	1473582270765	1473582270867	BKSP	8
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925015	1473582270940	1473582271044	BKSP	8
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925017	1473582271145	1473582271201	BKSP	8
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925019	1473582271581	1473582271771	t	84
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925021	1473582271745	1473582271911	h	72
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925027	1473582271856	1473582272049	e	69
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925031	1473582272032	1473582272166	 	32
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925033	1473582272229	1473582272399	d	68
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925035	1473582272399	1473582272504	o	79
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925037	1473582272579	1473582272677	o	79
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925039	1473582272858	1473582273037	l	76
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925080	1473582273064	1473582273225	a	65
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925082	1473582273326	1473582273444	r	82
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925084	1473582273592	1473582273708	s	83
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925086	1473582275578	1473582275661	.	190
+123625	1344355	Go for the dollars.	Go for the doolars. 	63925088	1473582276213	1473582276264	 	32
+123625	1344372	There was no such accord.	there is no suck arrord.	63925522	1473582254902	1473582255034	h	72
+123625	1344372	There was no such accord.	there is no suck arrord.	63925525	1473582255006	1473582255196	e	69
+123625	1344372	There was no such accord.	there is no suck arrord.	63925528	1473582255154	1473582255344	r	82
+123625	1344372	There was no such accord.	there is no suck arrord.	63925548	1473582255290	1473582255444	e	69
+123625	1344372	There was no such accord.	there is no suck arrord.	63925549	1473582255372	1473582255592	 	32
+123625	1344372	There was no such accord.	there is no suck arrord.	63925550	1473582255500	1473582255697	i	73
+123625	1344372	There was no such accord.	there is no suck arrord.	63925551	1473582255671	1473582255793	s	83
+123625	1344372	There was no such accord.	there is no suck arrord.	63925552	1473582255856	1473582255992	 	32
+123625	1344372	There was no such accord.	there is no suck arrord.	63925553	1473582256181	1473582256403	n	78
+123625	1344372	There was no such accord.	there is no suck arrord.	63925584	1473582256363	1473582256535	o	79
+123625	1344372	There was no such accord.	there is no suck arrord.	63925586	1473582256582	1473582256737	 	32
+123625	1344372	There was no such accord.	there is no suck arrord.	63925588	1473582257385	1473582257523	c	67
+123625	1344372	There was no such accord.	there is no suck arrord.	63925590	1473582257539	1473582257671	u	85
+123625	1344372	There was no such accord.	there is no suck arrord.	63925592	1473582258009	1473582258130	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925594	1473582258193	1473582258311	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925595	1473582258466	1473582258620	u	85
+123625	1344372	There was no such accord.	there is no suck arrord.	63925596	1473582258698	1473582258822	c	67
+123625	1344372	There was no such accord.	there is no suck arrord.	63925627	1473582259020	1473582259140	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925629	1473582259203	1473582259324	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925632	1473582259442	1473582259509	s	83
+123625	1344372	There was no such accord.	there is no suck arrord.	63925634	1473582260371	1473582260487	u	85
+123625	1344372	There was no such accord.	there is no suck arrord.	63925636	1473582260588	1473582260718	c	67
+123625	1344372	There was no such accord.	there is no suck arrord.	63925638	1473582260887	1473582261056	j	74
+123625	1344372	There was no such accord.	there is no suck arrord.	63925641	1473582261119	1473582261224	 	32
+123625	1344372	There was no such accord.	there is no suck arrord.	63925681	1473582261414	1473582261527	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925682	1473582261596	1473582261734	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925683	1473582261870	1473582262005	k	75
+123625	1344372	There was no such accord.	there is no suck arrord.	63925684	1473582262121	1473582262198	 	32
+123625	1344372	There was no such accord.	there is no suck arrord.	63925685	1473582263407	1473582263539	a	65
+123625	1344372	There was no such accord.	there is no suck arrord.	63925686	1473582263747	1473582263813	r	82
+123625	1344372	There was no such accord.	there is no suck arrord.	63925687	1473582263913	1473582264037	r	82
+123625	1344372	There was no such accord.	there is no suck arrord.	63925800	1473582264297	1473582264402	o	79
+123625	1344372	There was no such accord.	there is no suck arrord.	63925802	1473582264811	1473582265037	e	69
+123625	1344372	There was no such accord.	there is no suck arrord.	63925804	1473582264961	1473582265105	d	68
+123625	1344372	There was no such accord.	there is no suck arrord.	63925805	1473582266019	1473582266127	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925807	1473582266236	1473582266326	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925809	1473582266638	1473582266743	r	82
+123625	1344372	There was no such accord.	there is no suck arrord.	63925811	1473582266662	1473582266747	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925813	1473582266859	1473582266946	BKSP	8
+123625	1344372	There was no such accord.	there is no suck arrord.	63925815	1473582269178	1473582269303	o	79
+123625	1344372	There was no such accord.	there is no suck arrord.	63925846	1473582269451	1473582269619	r	82
+123625	1344372	There was no such accord.	there is no suck arrord.	63925847	1473582269819	1473582269989	d	68
+123625	1344372	There was no such accord.	there is no suck arrord.	63925848	1473582270714	1473582270797	.	190
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926044	1473582277018	1473582277742	SHIFT	16
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926048	1473582277624	1473582277809	I	73
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926054	1473582277909	1473582278042	 	32
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926057	1473582278089	1473582278227	j	74
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926060	1473582278534	1473582278617	u	85
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926062	1473582278797	1473582279134	s	83
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926128	1473582279345	1473582279465	t	84
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926131	1473582279533	1473582279649	 	32
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926135	1473582281287	1473582281472	f	70
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926138	1473582281619	1473582281756	i	73
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926141	1473582281819	1473582282034	n	78
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926158	1473582281938	1473582282134	i	73
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926160	1473582282156	1473582282337	s	83
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926163	1473582282319	1473582282550	h	72
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926166	1473582282605	1473582282865	e	69
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926168	1473582282865	1473582283067	d	68
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926170	1473582283114	1473582283248	 	32
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926180	1473582284197	1473582284342	f	70
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926182	1473582284530	1473582284646	a	65
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926184	1473582284799	1473582284915	x	88
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926186	1473582284930	1473582285146	i	73
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926204	1473582285061	1473582285246	n	78
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926206	1473582285246	1473582285403	g	71
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926208	1473582285435	1473582285535	 	32
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926210	1473582286354	1473582286478	e	69
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926212	1473582286592	1473582286736	v	86
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926236	1473582286711	1473582286882	e	69
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926237	1473582286814	1473582287000	r	82
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926238	1473582286948	1473582287064	y	89
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926239	1473582287117	1473582287235	t	84
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926240	1473582287323	1473582287525	h	72
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926331	1473582287471	1473582287744	i	73
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926332	1473582287643	1473582287951	n	78
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926333	1473582287908	1473582288063	g	71
+123625	1344381	I just finished faxing everything.	I just finished faxing everything.	63926334	1473582290958	1473582291048	.	190
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926424	1473582293976	1473582294329	SHIFT	16
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926421	1473582294075	1473582294211	N	78
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926427	1473582294468	1473582294602	o	79
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926429	1473582294723	1473582294797	 	32
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926432	1473582295142	1473582295293	p	80
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926434	1473582295293	1473582295479	r	82
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926481	1473582295519	1473582295597	i	73
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926482	1473582296129	1473582296255	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926484	1473582296903	1473582297008	o	79
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926486	1473582297256	1473582297403	b	66
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926488	1473582297378	1473582297481	l	76
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926490	1473582297559	1473582297657	e	69
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926519	1473582297705	1473582297790	m	77
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926521	1473582298058	1473582298099	 	32
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926527	1473582298610	1473582298953	SHIFT	16
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926524	1473582298784	1473582298906	M	77
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926530	1473582299238	1473582299405	a	65
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926536	1473582299606	1473582299741	r	82
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926669	1473582299780	1473582299910	i	73
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926672	1473582299973	1473582300090	a	65
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926675	1473582302521	1473582302617	,	188
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926677	1473582303268	1473582303334	 	32
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926746	1473582303698	1473582304866	SHIFT	16
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926678	1473582304434	1473582304573	P	80
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926748	1473582306317	1473582306383	l	76
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926751	1473582306567	1473582306711	e	69
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926755	1473582306895	1473582307136	a	65
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926759	1473582307074	1473582307263	s	83
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926763	1473582307394	1473582307516	e	69
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926793	1473582307598	1473582307688	 	32
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926795	1473582308000	1473582308100	x	88
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926797	1473582308200	1473582308432	o	79
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926799	1473582308347	1473582308553	n	78
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926867	1473582308532	1473582308700	r	82
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926869	1473582309180	1473582309251	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926873	1473582309342	1473582309436	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926880	1473582309517	1473582309610	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926887	1473582309681	1473582309781	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926893	1473582309950	1473582310064	c	67
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926897	1473582310125	1473582310349	o	79
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926899	1473582310282	1473582310429	n	78
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926901	1473582311401	1473582311532	t	84
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926903	1473582311765	1473582311850	a	65
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926928	1473582312025	1473582312149	c	67
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926931	1473582312381	1473582312529	t	84
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926935	1473582312582	1473582312714	 	32
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926941	1473582312820	1473582312980	r	82
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926943	1473582313042	1473582313132	i	73
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926989	1473582313549	1473582313641	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926990	1473582313712	1473582313816	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926992	1473582313965	1473582314313	SHIFT	16
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926991	1473582314101	1473582314216	E	69
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926993	1473582314413	1473582314572	i	73
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926994	1473582314759	1473582314878	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926995	1473582314940	1473582315046	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926997	1473582315183	1473582315478	SHIFT	16
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926996	1473582315313	1473582315428	R	82
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926998	1473582315560	1473582315734	i	73
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63926999	1473582315787	1473582315851	x	88
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927071	1473582316020	1473582316106	k	75
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927072	1473582316347	1473582316460	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927073	1473582316516	1473582316616	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927074	1473582316678	1473582316779	c	67
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927075	1473582316816	1473582316905	k	75
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927076	1473582318091	1473582318196	,	188
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927077	1473582318831	1473582318939	BKSP	8
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927078	1473582319939	1473582320012	.	190
+123625	1344395	No problem Maria, please contact Rick.	No problem Maria, Please contact Rick. 	63927084	1473582320212	1473582320289	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927296	1473582323496	1473582324165	SHIFT	16
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927295	1473582323934	1473582324080	A	65
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927298	1473582325040	1473582325471	SHIFT	16
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927297	1473582325268	1473582325392	L	76
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927299	1473582325895	1473582326030	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927301	1473582326209	1473582326332	l	76
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927303	1473582328389	1473582328554	t	84
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927319	1473582328501	1473582328614	h	72
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927321	1473582328756	1473582328857	o	79
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927325	1473582328991	1473582329106	u	85
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927330	1473582329122	1473582329279	g	71
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927334	1473582329259	1473582329430	h	72
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927406	1473582329407	1473582329592	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927407	1473582331191	1473582331392	w	87
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927408	1473582331292	1473582331488	e	69
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927409	1473582331500	1473582331629	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927410	1473582331615	1473582331779	a	65
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927411	1473582331916	1473582332121	r	82
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927433	1473582332081	1473582332249	e	69
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927436	1473582332323	1473582332424	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927438	1473582332440	1473582332556	s	83
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927440	1473582332692	1473582332814	e	69
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927444	1473582332861	1473582332976	n	78
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927447	1473582333017	1473582333182	d	68
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927459	1473582333220	1473582333428	i	73
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927461	1473582333383	1473582333524	n	78
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927463	1473582333671	1473582333827	g	71
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927464	1473582333923	1473582334008	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927465	1473582334204	1473582334377	t	84
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927535	1473582334327	1473582334443	h	72
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927536	1473582334594	1473582334713	i	73
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927538	1473582334767	1473582334876	s	83
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927540	1473582334940	1473582335023	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927542	1473582335102	1473582335391	SHIFT	16
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927544	1473582336219	1473582336340	e	69
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927546	1473582338463	1473582338540	-	189
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927618	1473582339565	1473582339704	n	78
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927619	1473582339922	1473582340053	u	85
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927621	1473582340452	1473582340590	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927623	1473582340962	1473582341096	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927625	1473582341716	1473582341771	m	77
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927627	1473582342283	1473582342370	a	65
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927673	1473582342356	1473582342463	i	73
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927674	1473582342552	1473582342700	l	76
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927675	1473582343570	1473582343727	t	84
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927676	1473582343701	1473582343838	o	79
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927677	1473582344265	1473582344366	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927679	1473582344428	1473582344549	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927683	1473582344650	1473582344778	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927687	1473582344813	1473582344963	t	84
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927741	1473582344918	1473582345082	o	79
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927742	1473582345893	1473582346011	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927743	1473582346099	1473582346217	y	89
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927744	1473582346268	1473582346322	o	79
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927745	1473582346514	1473582346611	u	85
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927748	1473582347002	1473582347086	,	188
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927860	1473582347778	1473582347888	 	32
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927862	1473582348549	1473582348916	SHIFT	16
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927861	1473582348700	1473582348831	S	83
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927863	1473582349062	1473582349200	p	80
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927864	1473582350205	1473582350338	o	79
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927865	1473582350832	1473582350918	r	82
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927909	1473582351438	1473582351580	t	84
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927911	1473582351769	1473582351905	s	83
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927913	1473582351986	1473582352084	l	76
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927915	1473582352243	1473582352449	i	73
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927995	1473582352360	1473582352549	n	78
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63927998	1473582352970	1473582353069	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928001	1473582353138	1473582353270	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928004	1473582353597	1473582353734	BKSP	8
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928009	1473582353898	1473582355366	SHIFT	16
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928006	1473582355191	1473582355299	L	76
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928011	1473582355464	1473582355683	i	73
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928013	1473582355614	1473582355786	n	78
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928015	1473582356174	1473582356222	e	69
+123625	1344409	Although we are sending this e-mail to you, SportsLine.	Although we are sending this e-mail to you, SportsLine.	63928017	1473582356461	1473582356507	.	190
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928116	1473582361564	1473582362052	SHIFT	16
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928114	1473582361866	1473582361997	W	87
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928121	1473582362228	1473582362389	w	87
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928125	1473582362344	1473582362500	e	69
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928129	1473582362454	1473582362653	 	32
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928176	1473582362590	1473582362790	h	72
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928177	1473582362960	1473582363061	BKSP	8
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928179	1473582363123	1473582363215	BKSP	8
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928181	1473582363293	1473582363369	BKSP	8
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928183	1473582363447	1473582363544	BKSP	8
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928185	1473582363937	1473582364046	e	69
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928187	1473582364069	1473582364233	 	32
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928188	1473582364175	1473582364463	h	72
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928207	1473582364296	1473582364468	a	65
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928210	1473582364453	1473582364564	v	86
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928214	1473582364611	1473582364761	e	69
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928216	1473582364818	1473582364932	 	32
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928218	1473582365383	1473582365489	l	76
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928220	1473582365567	1473582365712	o	79
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928241	1473582365682	1473582365837	s	83
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928242	1473582367365	1473582367517	BKSP	8
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928243	1473582367548	1473582367717	t	84
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928244	1473582367832	1473582367963	s	83
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928245	1473582368017	1473582368132	 	32
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928246	1473582368317	1473582368480	o	79
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928247	1473582368901	1473582369053	f	70
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928253	1473582369086	1473582369213	 	32
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928254	1473582369333	1473582369477	p	80
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928255	1473582369459	1473582369596	a	65
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928256	1473582369660	1473582369812	p	80
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928257	1473582369875	1473582370061	e	69
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928275	1473582369991	1473582370160	r	82
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928276	1473582370276	1473582370376	 	32
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928277	1473582370582	1473582370687	s	83
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928278	1473582370907	1473582371060	t	84
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928279	1473582371154	1473582371281	u	85
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928281	1473582371621	1473582371745	f	70
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928304	1473582371849	1473582371945	f	70
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928307	1473582371992	1473582372045	.	190
+123625	1344428	We have lots of paper stuff.	We have lots of paper stuff. 	63928311	1473582372630	1473582372727	 	32
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928422	1473582374964	1473582375451	SHIFT	16
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928421	1473582375242	1473582375420	I	73
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928423	1473582375622	1473582375722	 	32
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928424	1473582376227	1473582376359	s	83
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928425	1473582376392	1473582376563	i	73
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928475	1473582376524	1473582376658	s	83
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928476	1473582376887	1473582377000	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928477	1473582377062	1473582377176	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928478	1473582377247	1473582377326	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928479	1473582377467	1473582377693	d	68
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928480	1473582377740	1473582377940	i	73
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928481	1473582378071	1473582378220	d	68
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928482	1473582378214	1473582378313	n	78
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928483	1473582379748	1473582379872	'	222
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928484	1473582380238	1473582380423	t	84
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928485	1473582380423	1473582380564	 	32
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928486	1473582381455	1473582381612	h	72
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928488	1473582381590	1473582381707	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928490	1473582381859	1473582382008	a	65
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928516	1473582382134	1473582382293	r	82
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928517	1473582382316	1473582382532	 	32
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928519	1473582382548	1473582382785	d	68
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928521	1473582382756	1473582382924	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928592	1473582382844	1473582383060	o	79
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928593	1473582383010	1473582383124	m	77
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928594	1473582383460	1473582383576	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928595	1473582383634	1473582383742	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928596	1473582383804	1473582383956	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928597	1473582384203	1473582384322	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928598	1473582384304	1473582384574	d	68
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928601	1473582384489	1473582384663	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928602	1473582384898	1473582385055	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928604	1473582385086	1473582385230	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928606	1473582385935	1473582386088	f	70
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928608	1473582386157	1473582386292	r	82
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928619	1473582386239	1473582386440	o	79
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928620	1473582386355	1473582386503	m	77
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928621	1473582386639	1473582386721	 	32
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928623	1473582387238	1473582387688	SHIFT	16
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928622	1473582387519	1473582387667	G	71
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928624	1473582387871	1473582388010	i	73
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928625	1473582388182	1473582388298	n	78
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928634	1473582388350	1473582388480	g	71
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928636	1473582388622	1473582388904	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928638	1473582388785	1473582388967	r	82
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928639	1473582389135	1473582389255	 	32
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928640	1473582389442	1473582389595	r	82
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928675	1473582389659	1473582389873	h	72
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928678	1473582389812	1473582389999	i	73
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928681	1473582390062	1473582390172	a	65
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928684	1473582390749	1473582390824	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928687	1473582390904	1473582391007	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928689	1473582391069	1473582391171	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928690	1473582391236	1473582391336	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928691	1473582391436	1473582391615	t	84
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928739	1473582391584	1473582391813	h	72
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928741	1473582391734	1473582391984	i	73
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928744	1473582391980	1473582392122	s	83
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928747	1473582392201	1473582392347	 	32
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928749	1473582392303	1473582392402	w	87
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928750	1473582394292	1473582394377	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928799	1473582394477	1473582394564	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928801	1473582394595	1473582394709	k	75
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928803	1473582395203	1473582395284	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928805	1473582395400	1473582395500	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928807	1473582395900	1473582396016	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928809	1473582398263	1473582398385	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928810	1473582398501	1473582398607	e	69
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928811	1473582398758	1473582398834	l	76
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928891	1473582400613	1473582400717	BKSP	8
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928894	1473582400836	1473582400917	k	75
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928896	1473582401894	1473582401977	.	190
+123625	1344437	I didn't hear from Ginger this week.	I didn't hear from Ginger this week. 	63928898	1473582402164	1473582402264	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929075	1473582407178	1473582407767	SHIFT	16
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929074	1473582407494	1473582407682	T	84
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929076	1473582407942	1473582408092	r	82
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929077	1473582408283	1473582408396	e	69
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929078	1473582408949	1473582409095	a	65
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929079	1473582409247	1473582409447	r	82
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929093	1473582409927	1473582410090	BKSP	8
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929095	1473582410048	1473582410267	r	82
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929096	1473582410674	1473582410883	BKSP	8
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929097	1473582410987	1473582411151	t	84
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929098	1473582411216	1473582411314	m	77
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929099	1473582411414	1473582411551	e	69
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929100	1473582411598	1473582411729	n	78
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929155	1473582411818	1473582412006	t	84
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929157	1473582411984	1473582412103	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929160	1473582413131	1473582413243	o	79
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929161	1473582413392	1473582413593	p	80
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929163	1473582415514	1473582415650	t	84
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929196	1473582415630	1473582415746	i	73
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929199	1473582415862	1473582416133	o	79
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929201	1473582415994	1473582416217	n	78
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929204	1473582416295	1473582416422	s	83
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929206	1473582416518	1473582416636	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929209	1473582417615	1473582417757	c	67
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929247	1473582417791	1473582418013	o	79
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929248	1473582417953	1473582418131	n	78
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929249	1473582419446	1473582419578	s	83
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929250	1473582419646	1473582419851	i	73
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929251	1473582419914	1473582420030	s	83
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929321	1473582420167	1473582420330	t	84
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929322	1473582420382	1473582420567	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929323	1473582421414	1473582421526	o	79
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929324	1473582422555	1473582422700	f	70
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929325	1473582422731	1473582422873	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929413	1473582422853	1473582423086	r	82
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929414	1473582423075	1473582423222	e	69
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929416	1473582424533	1473582424639	s	83
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929419	1473582424702	1473582424825	t	84
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929424	1473582425809	1473582425908	,	188
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929429	1473582426096	1473582426200	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929509	1473582427489	1473582427629	a	65
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929511	1473582427660	1473582427761	n	78
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929513	1473582427881	1473582427987	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929515	1473582429286	1473582429450	i	73
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929518	1473582429597	1473582429712	n	78
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929539	1473582430503	1473582430677	j	74
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929540	1473582430808	1473582430964	e	69
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929542	1473582431051	1473582431220	c	67
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929546	1473582431429	1473582431601	t	84
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929550	1473582431648	1473582431771	i	73
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929588	1473582431952	1473582432305	o	79
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929590	1473582432167	1473582432352	n	78
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929593	1473582433657	1473582433811	,	188
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929597	1473582433974	1473582434072	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929601	1473582434378	1473582434580	o	79
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929702	1473582434605	1473582434736	r	82
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929703	1473582434820	1473582434914	 	32
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929704	1473582437507	1473582437713	s	83
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929705	1473582437815	1473582437989	u	85
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929706	1473582438262	1473582438394	r	82
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929777	1473582439373	1473582439489	g	71
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929778	1473582439705	1473582439968	e	69
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929779	1473582439885	1473582440065	r	82
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929781	1473582440301	1473582440433	y	89
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929782	1473582441451	1473582441583	.	190
+123625	1344450	Treatment options consist of rest, an injection, or surgery.	Treatment options consist of rest, an injection, or surgery. 	63929799	1473582442010	1473582442117	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929882	1473582445900	1473582446308	SHIFT	16
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929881	1473582446116	1473582446292	M	77
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929883	1473582446423	1473582446555	o	79
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929884	1473582446761	1473582446881	s	83
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929885	1473582447165	1473582447331	t	84
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929886	1473582447363	1473582447502	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929916	1473582447908	1473582448244	SHIFT	16
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929914	1473582448091	1473582448228	R	82
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929918	1473582448430	1473582448530	e	69
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929919	1473582448678	1473582448832	c	67
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929920	1473582448927	1473582449054	e	69
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929921	1473582449140	1473582449272	n	78
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929990	1473582449395	1473582449562	t	84
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929991	1473582450100	1473582450255	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929992	1473582451312	1473582451481	s	83
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929994	1473582451612	1473582451781	u	85
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63929996	1473582452050	1473582452197	r	82
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930133	1473582453397	1473582453516	v	86
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930137	1473582454428	1473582454573	e	69
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930140	1473582454617	1473582454761	t	84
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930143	1473582455672	1473582455873	BKSP	8
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930146	1473582456716	1473582456869	y	89
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930148	1473582457040	1473582457177	s	83
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930169	1473582457212	1473582457347	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930170	1473582458378	1473582458463	p	80
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930171	1473582458877	1473582458992	u	85
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930172	1473582459083	1473582459252	t	84
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930173	1473582459283	1473582459421	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930195	1473582459416	1473582459534	t	84
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930196	1473582459494	1473582459653	h	72
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930197	1473582459669	1473582459857	e	69
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930198	1473582460207	1473582460279	m	77
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930199	1473582460406	1473582460529	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930200	1473582460645	1473582460862	i	73
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930235	1473582460762	1473582460896	n	78
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930236	1473582461016	1473582461133	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930237	1473582461221	1473582461406	a	65
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930239	1473582461392	1473582461511	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930241	1473582462715	1473582462899	d	68
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930243	1473582462914	1473582463057	e	69
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930268	1473582463276	1473582463441	a	65
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930270	1473582463523	1473582463677	d	68
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930272	1473582463739	1473582463865	 	32
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930276	1473582463897	1473582464076	h	72
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930387	1473582464065	1473582464183	e	69
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930389	1473582464671	1473582464774	a	65
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930391	1473582464821	1473582464952	t	84
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930392	1473582466671	1473582466741	.	190
+123625	1344470	Most recent surveys put them in a dead heat.	Most Recent surveys put them in a dead heat. 	63930394	1473582467656	1473582467772	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930517	1473582472337	1473582473211	SHIFT	16
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930515	1473582473056	1473582473195	C	67
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930519	1473582473444	1473582473556	l	76
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930522	1473582473800	1473582474025	i	73
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930525	1473582473977	1473582474163	n	78
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930528	1473582475379	1473582475530	t	84
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930568	1473582475518	1473582475749	o	79
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930570	1473582475633	1473582475796	n	78
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930572	1473582475899	1473582475989	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930574	1473582476506	1473582476726	SHIFT	16
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930576	1473582477064	1473582477169	a	65
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930578	1473582477424	1473582477554	t	84
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930580	1473582477653	1473582477769	t	84
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930606	1473582477921	1473582478052	e	69
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930609	1473582478128	1473582478223	n	78
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930614	1473582478300	1473582478586	e	69
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930617	1473582478469	1473582478686	d	68
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930620	1473582478923	1473582479066	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930746	1473582482600	1473582482702	BKSP	8
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930748	1473582482853	1473582482953	BKSP	8
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930750	1473582483103	1473582483250	BKSP	8
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930752	1473582483831	1473582483963	d	68
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930755	1473582484047	1473582484300	e	69
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930758	1473582484200	1473582484363	d	68
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930760	1473582484432	1473582484565	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930761	1473582484811	1473582484994	t	84
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930803	1473582484940	1473582485112	h	72
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930805	1473582485105	1473582485243	e	69
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930807	1473582485308	1473582485461	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930813	1473582485634	1473582486469	SHIFT	16
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930809	1473582485823	1473582485885	U	85
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930811	1473582486251	1473582486438	S	83
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930814	1473582486766	1473582486834	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930866	1473582487667	1473582487871	c	67
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930870	1473582488034	1473582488171	o	79
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930872	1473582488356	1473582488417	l	76
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930875	1473582488515	1473582488649	l	76
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63930877	1473582489098	1473582489204	a	65
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931006	1473582489245	1473582489392	g	71
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931009	1473582489408	1473582489540	e	69
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931015	1473582489641	1473582489718	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931018	1473582491132	1473582491248	b	66
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931021	1473582492711	1473582492864	a	65
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931057	1473582493031	1473582493135	s	83
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931059	1473582493297	1473582493447	k	75
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931061	1473582493914	1473582494082	e	69
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931062	1473582494288	1473582494481	t	84
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931063	1473582494512	1473582494687	b	66
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931135	1473582494787	1473582494887	a	65
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931137	1473582495950	1473582496045	l	76
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931143	1473582496130	1473582496262	l	76
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931147	1473582496455	1473582496549	 	32
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931151	1473582497731	1473582497902	f	70
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931214	1473582497923	1473582498114	i	73
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931217	1473582498063	1473582498231	n	78
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931219	1473582498624	1473582498747	a	65
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931221	1473582499116	1473582499263	l	76
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931223	1473582499362	1473582499447	s	83
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931253	1473582500562	1473582500679	.	190
+123625	1344481	Clinton attended the US college basketball finals.	Clinton attended the US collage basketball finals. 	63931254	1473582500832	1473582500988	 	32
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931408	1473582504479	1473582505189	SHIFT	16
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931410	1473582505006	1473582505194	B	66
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931413	1473582505663	1473582505798	u	85
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931416	1473582505850	1473582506006	t	84
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931419	1473582506173	1473582506389	 	32
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931422	1473582506427	1473582506610	t	84
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931467	1473582506612	1473582506727	g	71
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931469	1473582506858	1473582507022	a	65
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931473	1473582507659	1473582507847	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931474	1473582508036	1473582508171	h	72
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931476	1473582508242	1473582508391	a	65
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931478	1473582508406	1473582508527	n	78
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931532	1473582508690	1473582508991	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931534	1473582509044	1473582509146	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931538	1473582509236	1473582509323	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931542	1473582509528	1473582509650	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931545	1473582509750	1473582509866	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931549	1473582509950	1473582510081	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931552	1473582510481	1473582510597	 	32
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931554	1473582510885	1473582511051	t	84
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931559	1473582511495	1473582511626	h	72
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931563	1473582511762	1473582511869	a	65
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931568	1473582511916	1473582512093	n	78
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931541	1473582512023	1473582512169	k	75
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931544	1473582512247	1473582512417	 	32
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931548	1473582512390	1473582512562	y	89
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931553	1473582512506	1473582512704	o	79
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931557	1473582512654	1473582512827	u	85
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931585	1473582512794	1473582512911	 	32
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931587	1473582513012	1473582513225	f	70
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931590	1473582513179	1473582513325	o	79
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931592	1473582513241	1473582513461	r	82
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931622	1473582513452	1473582513708	 	32
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931595	1473582513490	1473582513691	t	84
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931624	1473582513621	1473582513808	h	72
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931627	1473582513740	1473582513928	e	69
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931629	1473582513894	1473582514014	 	32
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931632	1473582514096	1473582514263	o	79
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931633	1473582514447	1473582514531	d	68
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931635	1473582514617	1473582514716	d	68
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931759	1473582515047	1473582515137	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931760	1473582515232	1473582515348	BKSP	8
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931761	1473582515452	1473582515586	f	70
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931762	1473582515666	1473582515775	f	70
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931763	1473582515884	1473582516125	e	69
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931764	1473582516039	1473582516223	r	82
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931765	1473582518507	1473582518592	.	190
+123625	1344499	But thank you for the offer.	But thank you for the offer. 	63931789	1473582519106	1473582519206	 	32

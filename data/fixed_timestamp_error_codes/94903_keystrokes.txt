@@ -1,0 +1,731 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+94903	1039460	What a nice note.	What a nice note.	49440809	1473220525360	1473220525903	SHIFT	16
+94903	1039460	What a nice note.	What a nice note.	49440810	1473220525801	1473220525981	W	87
+94903	1039460	What a nice note.	What a nice note.	49440811	1473220526013	1473220526138	h	72
+94903	1039460	What a nice note.	What a nice note.	49440812	1473220526185	1473220526318	a	65
+94903	1039460	What a nice note.	What a nice note.	49440813	1473220526318	1473220526436	t	84
+94903	1039460	What a nice note.	What a nice note.	49440814	1473220526452	1473220526585	 	32
+94903	1039460	What a nice note.	What a nice note.	49440862	1473220526836	1473220526939	a	65
+94903	1039460	What a nice note.	What a nice note.	49440864	1473220526971	1473220527100	 	32
+94903	1039460	What a nice note.	What a nice note.	49440865	1473220527304	1473220527474	n	78
+94903	1039460	What a nice note.	What a nice note.	49440866	1473220527432	1473220527584	i	73
+94903	1039460	What a nice note.	What a nice note.	49440868	1473220527584	1473220527744	c	67
+94903	1039460	What a nice note.	What a nice note.	49440915	1473220527671	1473220527836	e	69
+94903	1039460	What a nice note.	What a nice note.	49440918	1473220527883	1473220527986	 	32
+94903	1039460	What a nice note.	What a nice note.	49440922	1473220528679	1473220528790	n	78
+94903	1039460	What a nice note.	What a nice note.	49440925	1473220528821	1473220528972	o	79
+94903	1039460	What a nice note.	What a nice note.	49440929	1473220529050	1473220529217	t	84
+94903	1039460	What a nice note.	What a nice note.	49440933	1473220529451	1473220529503	s	83
+94903	1039460	What a nice note.	What a nice note.	49440993	1473220529585	1473220529662	s	83
+94903	1039460	What a nice note.	What a nice note.	49440994	1473220530141	1473220530272	BKSP	8
+94903	1039460	What a nice note.	What a nice note.	49440996	1473220530413	1473220530504	BKSP	8
+94903	1039460	What a nice note.	What a nice note.	49440999	1473220530613	1473220530704	e	69
+94903	1039460	What a nice note.	What a nice note.	49441002	1473220531198	1473220531254	.	190
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441071	1473220533625	1473220534126	SHIFT	16
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441073	1473220534083	1473220534164	I	73
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441075	1473220534218	1473220534350	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441076	1473220534397	1473220534503	t	84
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441077	1473220534503	1473220534652	h	72
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441078	1473220534808	1473220534899	n	78
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441119	1473220534860	1473220534991	k	75
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441122	1473220535069	1473220535175	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441127	1473220535472	1473220535537	BKSP	8
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441131	1473220535631	1473220535707	BKSP	8
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441134	1473220535767	1473220535854	BKSP	8
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441136	1473220536357	1473220536426	i	73
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441137	1473220536504	1473220536600	n	78
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441138	1473220536647	1473220536737	k	76
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441207	1473220536801	1473220536920	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441211	1473220537501	1473220537603	BKSP	8
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441213	1473220537714	1473220537792	BKSP	8
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441216	1473220537870	1473220537958	BKSP	8
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441220	1473220538396	1473220538490	k	75
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441225	1473220538818	1473220538888	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441227	1473220539029	1473220539107	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441232	1473220539529	1473220539607	i	73
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441242	1473220539702	1473220539804	n	78
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441244	1473220539835	1473220539953	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441246	1473220540015	1473220540120	t	84
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441248	1473220540120	1473220540239	h	72
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441267	1473220540183	1473220540322	i	73
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441268	1473220540338	1473220540467	s	83
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441269	1473220540467	1473220540569	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441270	1473220540916	1473220541101	c	67
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441271	1473220541019	1473220541185	a	65
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441298	1473220541148	1473220541357	s	83
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441301	1473220541289	1473220541435	e	69
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441304	1473220541482	1473220541587	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441309	1473220542074	1473220542205	s	83
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441313	1473220542424	1473220542587	p	80
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441316	1473220542602	1473220542701	e	69
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441347	1473220543126	1473220543238	c	67
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441349	1473220543551	1473220543701	i	73
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441353	1473220543873	1473220543990	f	70
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441358	1473220544053	1473220544176	i	73
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441361	1473220544410	1473220544521	c	67
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441396	1473220544616	1473220544704	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441398	1473220545095	1473220545220	u	85
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441400	1473220545298	1473220545402	s	83
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441402	1473220545402	1473220545485	 	32
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441404	1473220545813	1473220545904	b	66
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441426	1473220545936	1473220546052	e	69
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441432	1473220546192	1473220546306	t	84
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441435	1473220546385	1473220546532	t	84
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441438	1473220546579	1473220546737	e	69
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441453	1473220546685	1473220546801	r	82
+94903	1039465	I think in this case specific is better.	I think  in this case specific us better.	49441456	1473220547191	1473220547258	.	190
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441517	1473220548862	1473220549387	SHIFT	16
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441519	1473220549303	1473220549387	I	73
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441521	1473220549637	1473220549738	'	222
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441522	1473220549941	1473220550022	l	76
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441523	1473220550084	1473220550185	l	76
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441524	1473220550232	1473220550350	 	32
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441544	1473220550883	1473220551004	t	84
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441546	1473220550965	1473220551128	a	65
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441549	1473220551206	1473220551349	l	76
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441552	1473220551380	1473220551498	k	75
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441554	1473220551545	1473220551650	 	32
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441569	1473220551885	1473220552035	t	84
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441571	1473220552035	1473220552137	o	79
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441574	1473220552168	1473220552264	 	32
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441576	1473220552373	1473220552486	y	89
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441578	1473220552501	1473220552689	o	79
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441601	1473220552620	1473220552751	u	85
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441603	1473220552783	1473220552897	 	32
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441608	1473220553258	1473220553385	o	79
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441611	1473220553432	1473220553562	n	78
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441614	1473220553562	1473220553697	 	32
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441646	1473220553759	1473220553998	SHIFT	16
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441617	1473220553853	1473220553952	M	77
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441648	1473220553998	1473220554113	o	79
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441650	1473220554206	1473220554317	n	78
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441651	1473220554395	1473220554515	d	68
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441652	1473220554718	1473220554821	a	65
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441654	1473220554883	1473220554981	y	89
+94903	1039475	I'll talk to you on Monday.	I'll talk to you on Monday.	49441666	1473220555551	1473220555616	.	190
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441770	1473220557353	1473220557709	SHIFT	16
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441771	1473220557667	1473220557805	T	84
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441772	1473220557766	1473220557895	h	72
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441773	1473220557910	1473220558000	e	69
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441775	1473220558047	1473220558180	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441777	1473220558383	1473220559021	SHIFT	16
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441825	1473220558951	1473220559071	H	72
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441828	1473220559352	1473220559495	a	65
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441831	1473220559542	1473220559699	w	87
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441834	1473220560341	1473220560452	k	75
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441836	1473220560468	1473220560550	s	83
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441838	1473220560613	1473220560715	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441870	1473220561283	1473220561413	l	76
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441873	1473220561413	1473220561514	e	69
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441875	1473220561611	1473220561731	d	68
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441878	1473220561793	1473220561950	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441881	1473220562293	1473220562399	f	70
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441915	1473220562495	1473220562599	r	82
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441919	1473220562615	1473220562777	o	79
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441922	1473220562777	1473220562867	m	77
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441924	1473220562913	1473220563035	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441927	1473220563521	1473220563667	l	76
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441950	1473220563683	1473220563842	a	65
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441953	1473220563858	1473220563984	t	84
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441959	1473220563984	1473220564114	e	69
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441965	1473220564223	1473220564352	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49441973	1473220564571	1473220564684	o	79
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442032	1473220564794	1473220564883	n	78
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442035	1473220565118	1473220565200	BKSP	8
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442038	1473220565278	1473220565381	BKSP	8
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442040	1473220565741	1473220565819	i	73
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442043	1473220565912	1473220566016	n	78
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442047	1473220566047	1473220566164	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442051	1473220566258	1473220566412	t	84
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442067	1473220566412	1473220566547	h	72
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442069	1473220566547	1473220566693	e	69
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442072	1473220566649	1473220566762	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442074	1473220567090	1473220567201	f	70
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442076	1473220567263	1473220567412	i	73
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442122	1473220567412	1473220567551	r	82
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442124	1473220567645	1473220567860	s	83
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442127	1473220567795	1473220567914	t	84
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442129	1473220568008	1473220568118	 	32
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442131	1473220568681	1473220568795	q	81
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442177	1473220568999	1473220569128	u	85
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442178	1473220569331	1473220569448	a	65
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442179	1473220569744	1473220569911	r	82
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442180	1473220570681	1473220570811	t	84
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442181	1473220570858	1473220571041	e	69
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442203	1473220570967	1473220571102	r	82
+94903	1039481	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	49442204	1473220571602	1473220571687	.	190
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442310	1473220573752	1473220574233	SHIFT	16
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442312	1473220574143	1473220574264	A	65
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442314	1473220574405	1473220574547	s	83
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442316	1473220574578	1473220574666	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442317	1473220574916	1473220575045	f	70
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442318	1473220575061	1473220575180	o	79
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442340	1473220575180	1473220575282	r	82
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442342	1473220575313	1473220575430	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442345	1473220575805	1473220575901	y	89
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442348	1473220575979	1473220576131	o	79
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442406	1473220576066	1473220576226	u	85
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442408	1473220576226	1473220576331	t	84
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442409	1473220576394	1473220576530	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442410	1473220576797	1473220577045	s	83
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442411	1473220576977	1473220577066	e	69
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442412	1473220577222	1473220577302	BKSP	8
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442413	1473220577380	1473220577465	BKSP	8
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442416	1473220577545	1473220577649	BKSP	8
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442421	1473220577838	1473220577936	BKSP	8
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442425	1473220578561	1473220578664	r	82
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442467	1473220578728	1473220578815	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442470	1473220578972	1473220579146	s	83
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442473	1473220579585	1473220579714	e	69
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442476	1473220579855	1473220580000	c	67
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442480	1473220580047	1473220580209	o	79
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442542	1473220580161	1473220580296	n	78
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442547	1473220580327	1473220580385	f	68
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442550	1473220580448	1473220580548	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442553	1473220581071	1473220581167	BKSP	8
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442555	1473220581261	1473220581365	BKSP	8
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442557	1473220581630	1473220581715	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442559	1473220582252	1473220582413	q	81
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442594	1473220582524	1473220582633	u	85
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442596	1473220582664	1473220582810	e	69
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442598	1473220582810	1473220582948	s	83
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442600	1473220583436	1473220583521	t	84
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442603	1473220583661	1473220583743	i	73
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442650	1473220583727	1473220583833	o	79
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442651	1473220583958	1473220584036	n	78
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442652	1473220584115	1473220584198	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442653	1473220584573	1473220584652	BKSP	8
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442655	1473220585074	1473220585153	,	188
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442657	1473220585215	1473220585318	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442661	1473220585458	1473220585558	b	66
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442722	1473220585541	1473220585621	e	69
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442725	1473220586357	1473220586437	n	78
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442728	1473220586499	1473220586612	c	67
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442732	1473220586674	1473220586752	h	72
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442734	1473220586815	1473220586946	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442738	1473220587352	1473220587588	SHIFT	16
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442776	1473220587529	1473220587619	M	77
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442779	1473220588023	1473220588103	i	73
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442781	1473220588244	1473220588348	k	75
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442783	1473220588379	1473220588466	e	69
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442786	1473220588513	1473220588630	 	32
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442789	1473220589099	1473220589348	SHIFT	16
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442821	1473220589260	1473220589380	A	65
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442824	1473220589506	1473220589617	n	78
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442828	1473220589867	1473220589965	d	68
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442832	1473220590044	1473220590218	e	69
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442838	1473220590164	1473220590315	r	82
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442842	1473220590518	1473220590648	s	83
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442862	1473220590648	1473220590782	o	79
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442863	1473220590782	1473220590911	n	78
+94903	1039491	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	49442865	1473220591466	1473220591515	.	190
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49442996	1473220593535	1473220594197	SHIFT	16
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49442995	1473220594098	1473220594165	I	73
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49442998	1473220594619	1473220594749	t	84
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443005	1473220594952	1473220595099	;	186
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443010	1473220595255	1473220595367	s	83
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443016	1473220595413	1473220595499	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443085	1473220595765	1473220595848	BKSP	8
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443087	1473220595926	1473220596015	BKSP	8
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443090	1473220596218	1473220596301	BKSP	8
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443092	1473220596882	1473220596980	'	222
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443094	1473220597011	1473220597099	s	83
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443098	1473220597161	1473220597265	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443101	1473220597531	1473220597645	a	65
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443105	1473220597723	1473220597789	l	186
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443164	1473220597867	1473220597948	l	186
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443169	1473220598260	1473220598340	BKSP	8
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443177	1473220598411	1473220598497	BKSP	8
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443181	1473220598561	1473220598648	BKSP	8
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443187	1473220598710	1473220598815	BKSP	8
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443193	1473220599539	1473220599602	l	76
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443201	1473220599696	1473220599795	l	76
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443203	1473220599920	1473220600034	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443208	1473220600144	1473220600232	a	65
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443211	1473220600341	1473220600452	b	66
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443214	1473220600530	1473220600706	o	79
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443217	1473220600629	1473220600762	u	85
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443219	1473220600762	1473220600879	t	84
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443243	1473220600910	1473220601045	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443245	1473220601502	1473220601601	m	77
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443247	1473220601695	1473220601797	a	65
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443249	1473220601797	1473220601895	k	75
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443251	1473220602601	1473220602702	i	73
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443280	1473220602813	1473220602903	n	78
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443283	1473220602996	1473220603079	g	71
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443285	1473220603376	1473220603481	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443288	1473220603653	1473220603784	t	84
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443295	1473220603815	1473220603927	h	72
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443311	1473220603959	1473220604079	e	69
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443313	1473220604079	1473220604181	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443317	1473220604447	1473220604545	w	87
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443321	1473220604577	1473220604769	h	72
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443346	1473220604697	1473220604866	o	79
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443348	1473220605022	1473220605149	l	76
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443350	1473220605149	1473220605220	e	69
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443353	1473220605283	1473220605395	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443356	1473220605770	1473220605915	s	83
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443358	1473220605994	1473220606098	t	84
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443398	1473220606208	1473220606349	o	79
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443400	1473220606349	1473220606460	r	82
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443402	1473220606554	1473220606634	y	89
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443404	1473220606775	1473220606899	 	32
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443405	1473220607479	1473220607660	p	80
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443469	1473220607754	1473220607834	u	85
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443473	1473220608594	1473220608832	l	76
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443471	1473220608648	1473220608729	b	66
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443475	1473220608770	1473220608920	i	73
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443477	1473220608982	1473220609104	c	67
+94903	1039508	It's all about making the whole story public.	It's all about making the whole story public.	49443511	1473220609703	1473220609783	.	190
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443648	1473220612559	1473220612790	SHIFT	16
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443650	1473220612700	1473220612852	H	72
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443655	1473220612899	1473220613037	e	69
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443658	1473220613052	1473220613156	 	32
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443662	1473220614082	1473220614204	c	67
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443685	1473220614161	1473220614307	a	65
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443687	1473220614339	1473220614406	n	78
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443691	1473220614484	1473220614589	n	78
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443694	1473220614651	1473220614802	o	79
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443697	1473220614818	1473220614937	t	84
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443699	1473220614984	1473220615104	 	32
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443733	1473220615640	1473220615726	b	78
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443738	1473220615805	1473220615887	e	69
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443740	1473220616137	1473220616205	BKSP	8
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443743	1473220616299	1473220616389	BKSP	8
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443746	1473220616577	1473220616676	BKSP	8
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443748	1473220616973	1473220617060	b	66
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443749	1473220617092	1473220617193	e	69
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443784	1473220617241	1473220617341	 	32
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443788	1473220617637	1473220617739	i	73
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443792	1473220617817	1473220617937	n	78
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443796	1473220617984	1473220618104	 	32
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443801	1473220618401	1473220618505	t	84
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443845	1473220618505	1473220618635	w	87
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443847	1473220618666	1473220618771	o	79
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443849	1473220618834	1473220618923	 	32
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443851	1473220619568	1473220619656	p	80
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443909	1473220619765	1473220620118	l	76
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443852	1473220619908	1473220619992	e	69
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443912	1473220621075	1473220621206	a	65
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443914	1473220621331	1473220621536	c	67
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443917	1473220621406	1473220621536	e	69
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443920	1473220621755	1473220621890	s	83
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443922	1473220621969	1473220622056	 	32
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443964	1473220622592	1473220622781	a	65
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443966	1473220622765	1473220622872	t	84
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443967	1473220622872	1473220622973	 	32
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443969	1473220623067	1473220623250	p	80
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49443970	1473220623328	1473220623466	n	78
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444035	1473220623717	1473220623805	BKSP	8
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444037	1473220623869	1473220623976	BKSP	8
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444040	1473220624491	1473220624747	o	79
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444042	1473220624794	1473220624922	n	78
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444047	1473220624984	1473220625137	c	67
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444052	1473220625072	1473220625231	e	69
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444057	1473220625497	1473220625576	.	190
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444198	1473220626093	1473220626159	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444201	1473220626253	1473220626339	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444204	1473220626573	1473220626656	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444207	1473220626734	1473220626821	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444211	1473220626900	1473220626984	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444212	1473220627052	1473220627139	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444214	1473220627218	1473220627305	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444215	1473220627385	1473220627471	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444219	1473220627551	1473220627632	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444226	1473220627718	1473220627792	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444231	1473220627853	1473220627935	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444237	1473220628002	1473220628088	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444243	1473220628167	1473220628256	ARW_LEFT	37
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444247	1473220628568	1473220628647	BKSP	8
+94903	1039520	He cannot be in two places at once.	He cannot be in two places at once.	49444249	1473220628765	1473220629286	CTRL	17
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444415	1473220632707	1473220633088	SHIFT	16
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444418	1473220633038	1473220633135	H	72
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444422	1473220633401	1473220633505	e	69
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444426	1473220633567	1473220633702	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444428	1473220633796	1473220633907	w	87
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444430	1473220634001	1473220634173	a	65
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444459	1473220634104	1473220634241	s	83
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444462	1473220634241	1473220634343	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444464	1473220634639	1473220634789	p	80
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444466	1473220634805	1473220634919	r	82
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444468	1473220635309	1473220635455	o	79
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444473	1473220635470	1473220635663	f	70
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444492	1473220635694	1473220635742	e	70
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444494	1473220635994	1473220636075	s	83
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444497	1473220636153	1473220636270	s	83
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444498	1473220636507	1473220636680	p	80
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444678	1473220636931	1473220637022	t	84
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444682	1473220637335	1473220637422	BKSP	8
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444684	1473220637500	1473220637620	BKSP	8
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444685	1473220638187	1473220638302	o	79
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444686	1473220638333	1473220638458	r	82
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444687	1473220638520	1473220638619	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444688	1473220640333	1473220640422	ARW_LEFT	37
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444689	1473220640515	1473220640592	ARW_LEFT	37
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444690	1473220640683	1473220640760	ARW_LEFT	37
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444692	1473220640835	1473220640911	ARW_LEFT	37
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444694	1473220641000	1473220641072	ARW_LEFT	37
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444698	1473220641385	1473220641488	ARW_LEFT	37
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444700	1473220641660	1473220641741	BKSP	8
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444709	1473220642100	1473220642481	CTRL	17
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444705	1473220642243	1473220642356	ARW_RIGHT	39
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444711	1473220643014	1473220643105	e	69
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444776	1473220643231	1473220643286	n	78
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444779	1473220643653	1473220643720	BKSP	8
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444786	1473220644426	1473220644523	m	77
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444790	1473220644617	1473220644772	e	69
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444794	1473220644720	1473220644866	r	82
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444797	1473220645635	1473220645722	i	73
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444861	1473220645865	1473220645959	t	84
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444862	1473220646193	1473220646337	e	69
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444863	1473220646886	1473220646990	BKSP	8
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444864	1473220647334	1473220647427	y	89
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444865	1473220647688	1473220647801	BKSP	8
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444866	1473220648192	1473220648259	u	85
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444867	1473220648305	1473220648388	s	83
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444894	1473220648436	1473220648542	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444897	1473220648729	1473220648854	o	79
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444898	1473220648854	1473220648990	f	70
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444900	1473220648990	1473220649106	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444901	1473220649372	1473220649516	h	72
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444952	1473220650619	1473220650710	u	85
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444954	1473220650788	1473220650891	m	77
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444956	1473220650985	1473220651071	a	65
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444958	1473220651102	1473220651188	n	78
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49444963	1473220651266	1473220651371	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445033	1473220651747	1473220651841	d	68
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445034	1473220651934	1473220652037	e	69
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445035	1473220652162	1473220652319	v	86
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445036	1473220652648	1473220652738	e	69
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445041	1473220653051	1473220653154	l	76
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445109	1473220653298	1473220653382	o	79
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445111	1473220653795	1473220653891	p	80
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445113	1473220654251	1473220654338	m	77
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445115	1473220654338	1473220654458	e	69
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445117	1473220654520	1473220654618	n	78
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445145	1473220654681	1473220654791	t	84
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445147	1473220654948	1473220655053	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445151	1473220655384	1473220655470	a	65
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445153	1473220655470	1473220655600	n	78
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445154	1473220655632	1473220655741	d	68
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445192	1473220655741	1473220655857	 	32
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445194	1473220656263	1473220656389	p	80
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445196	1473220656421	1473220656535	s	83
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445198	1473220656613	1473220656693	y	89
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445199	1473220657552	1473220657738	c	67
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445313	1473220657685	1473220657842	h	72
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445315	1473220657793	1473220657954	i	73
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445318	1473220658987	1473220659180	a	65
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445320	1473220659321	1473220659418	t	84
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445323	1473220661236	1473220661319	r	82
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445326	1473220661397	1473220661475	y	89
+94903	1039534	He was professor emeritus of human development and psychiatry.	He was professor emeritus of human development and psychiatry.	49445335	1473220661914	1473220661992	.	190
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445958	1473220675269	1473220676026	SHIFT	16
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445959	1473220676213	1473220676294	j	74
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445960	1473220676256	1473220676357	SHIFT	16
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445961	1473220676435	1473220676499	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445962	1473220677065	1473220677161	a	65
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445963	1473220677224	1473220677303	n	78
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445964	1473220677610	1473220677694	g	71
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49445997	1473220677713	1473220677828	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446000	1473220678644	1473220678729	m	77
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446004	1473220678791	1473220678926	a	65
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446009	1473220678973	1473220679067	d	68
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446012	1473220679160	1473220679279	e	69
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446032	1473220679374	1473220679493	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446035	1473220679634	1473220679786	t	84
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446039	1473220679786	1473220679943	h	72
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446044	1473220679944	1473220680059	e	69
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446081	1473220680059	1473220680161	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446084	1473220680427	1473220680541	c	67
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446088	1473220680588	1473220680683	o	79
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446092	1473220680792	1473220680895	m	77
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446095	1473220680957	1473220681062	m	77
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446099	1473220681093	1473220681194	e	69
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446138	1473220681274	1473220681408	n	78
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446140	1473220681518	1473220681662	t	84
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446142	1473220681694	1473220681850	s	83
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446144	1473220681881	1473220681995	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446145	1473220682262	1473220682350	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446192	1473220682569	1473220682710	n	78
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446194	1473220682757	1473220682861	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446196	1473220682986	1473220683065	a	65
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446198	1473220683143	1473220683244	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446200	1473220683572	1473220683662	m	77
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446214	1473220683773	1473220683861	e	69
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446217	1473220683955	1473220684096	e	69
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446220	1473220684190	1473220684278	t	84
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446223	1473220684325	1473220684490	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446226	1473220684506	1473220684631	n	78
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446279	1473220684710	1473220684812	g	71
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446281	1473220684859	1473220684977	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446284	1473220685102	1473220685229	w	87
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446287	1473220685276	1473220685408	o	79
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446291	1473220686039	1473220686148	BKSP	8
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446296	1473220686351	1473220686431	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446350	1473220686479	1473220686577	t	84
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446352	1473220686609	1473220686741	h	72
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446355	1473220686773	1473220686893	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446358	1473220687460	1473220687667	SHIFT	16
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446361	1473220687601	1473220687698	M	77
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446363	1473220687839	1473220687960	a	65
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446438	1473220688164	1473220688292	l	76
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446441	1473220688906	1473220688995	a	65
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446442	1473220689292	1473220689410	u	85
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446444	1473220689645	1473220689776	BKSP	8
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446446	1473220690530	1473220690595	y	89
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446450	1473220690751	1473220690834	s	83
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446487	1473220690929	1473220691010	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446488	1473220691166	1473220691280	a	65
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446489	1473220691452	1473220691532	n	78
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446490	1473220691657	1473220691761	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446492	1473220692073	1473220692457	SHIFT	16
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446581	1473220692328	1473220692457	P	80
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446586	1473220692599	1473220692699	r	82
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446589	1473220692840	1473220692929	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446592	1473220693382	1473220693498	m	77
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446597	1473220693654	1473220693792	e	69
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446601	1473220693823	1473220693930	 	32
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446679	1473220694071	1473220694325	SHIFT	16
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446677	1473220694196	1473220694294	M	77
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446681	1473220694372	1473220694462	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446682	1473220694540	1473220694660	n	78
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446684	1473220695696	1473220695808	i	73
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446686	1473220696011	1473220696147	s	83
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446716	1473220696428	1473220696540	t	84
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446719	1473220696540	1473220696710	e	69
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446722	1473220696645	1473220696795	r	82
+94903	1039567	Jiang made the comments in a meeting with Malaysian Prime Minister.	jiang made the comments in a meeting with Malaysian Prime Minister.	49446725	1473220697233	1473220697300	.	190
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446910	1473220699680	1473220700426	SHIFT	16
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446908	1473220700306	1473220700395	H	72
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446912	1473220700613	1473220700741	o	79
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446914	1473220700835	1473220700948	p	80
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446916	1473220701027	1473220701132	e	69
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446920	1473220701743	1473220701861	f	70
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446964	1473220701955	1473220702032	u	85
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446968	1473220702157	1473220702259	l	76
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446971	1473220702309	1473220702410	l	76
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446976	1473220702785	1473220702866	y	89
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49446983	1473220702960	1473220703074	 	32
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447118	1473220703722	1473220703826	i	73
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447121	1473220703904	1473220703986	f	70
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447125	1473220704198	1473220704329	 	32
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447128	1473220704566	1473220704661	BKSP	8
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447129	1473220704739	1473220704844	BKSP	8
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447131	1473220705692	1473220705842	t	84
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447132	1473220705904	1473220706027	 	32
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447146	1473220706310	1473220706439	c	67
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447147	1473220706501	1473220706597	h	72
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447148	1473220706659	1473220706727	e	69
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447149	1473220706836	1473220706945	e	69
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447150	1473220707024	1473220707126	r	82
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447181	1473220707773	1473220707876	e	69
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447182	1473220708001	1473220708112	d	68
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447183	1473220708175	1473220708261	 	32
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447184	1473220708620	1473220708709	y	89
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447185	1473220708758	1473220708942	o	79
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447234	1473220708876	1473220709008	u	85
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447236	1473220709055	1473220709177	 	32
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447242	1473220709506	1473220709626	u	85
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447246	1473220709626	1473220709916	p	80
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447252	1473220709841	1473220709959	 	32
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447255	1473220710381	1473220710480	a	65
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447350	1473220710574	1473220710678	 	32
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447354	1473220710897	1473220710982	b	66
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447361	1473220711280	1473220711379	t	84
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447368	1473220711743	1473220711841	BKSP	8
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447373	1473220712344	1473220712425	i	73
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447376	1473220712456	1473220712560	t	84
+94903	1039584	Hopefully it cheered you up a bit.	Hopefully it cheered you up a bit.	49447383	1473220712748	1473220712816	.	190
+94903	1039596	Are you going to apply?	Are you going to apply.	49447580	1473220715349	1473220715713	SHIFT	16
+94903	1039596	Are you going to apply?	Are you going to apply.	49447582	1473220715614	1473220715776	A	65
+94903	1039596	Are you going to apply?	Are you going to apply.	49447585	1473220715822	1473220716011	r	82
+94903	1039596	Are you going to apply?	Are you going to apply.	49447589	1473220715974	1473220716076	e	69
+94903	1039596	Are you going to apply?	Are you going to apply.	49447594	1473220716201	1473220716296	 	32
+94903	1039596	Are you going to apply?	Are you going to apply.	49447601	1473220716609	1473220716729	y	89
+94903	1039596	Are you going to apply?	Are you going to apply.	49447647	1473220716729	1473220716927	o	79
+94903	1039596	Are you going to apply?	Are you going to apply.	49447650	1473220716862	1473220716974	u	85
+94903	1039596	Are you going to apply?	Are you going to apply.	49447651	1473220717021	1473220717161	 	32
+94903	1039596	Are you going to apply?	Are you going to apply.	49447652	1473220717786	1473220717878	g	71
+94903	1039596	Are you going to apply?	Are you going to apply.	49447654	1473220717925	1473220718027	o	79
+94903	1039596	Are you going to apply?	Are you going to apply.	49447713	1473220718121	1473220718227	i	73
+94903	1039596	Are you going to apply?	Are you going to apply.	49447715	1473220718274	1473220718394	n	78
+94903	1039596	Are you going to apply?	Are you going to apply.	49447718	1473220718456	1473220718561	g	71
+94903	1039596	Are you going to apply?	Are you going to apply.	49447720	1473220718561	1473220718692	 	32
+94903	1039596	Are you going to apply?	Are you going to apply.	49447722	1473220719259	1473220719391	t	84
+94903	1039596	Are you going to apply?	Are you going to apply.	49447763	1473220719391	1473220719509	o	79
+94903	1039596	Are you going to apply?	Are you going to apply.	49447765	1473220719540	1473220719691	 	32
+94903	1039596	Are you going to apply?	Are you going to apply.	49447767	1473220719831	1473220719899	a	65
+94903	1039596	Are you going to apply?	Are you going to apply.	49447769	1473220720103	1473220720180	p	80
+94903	1039596	Are you going to apply?	Are you going to apply.	49447771	1473220720225	1473220720311	p	80
+94903	1039596	Are you going to apply?	Are you going to apply.	49447804	1473220720436	1473220720563	l	76
+94903	1039596	Are you going to apply?	Are you going to apply.	49447806	1473220720688	1473220720776	y	89
+94903	1039596	Are you going to apply?	Are you going to apply.	49447809	1473220721276	1473220721330	.	190
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49447987	1473220721101	1473220721201	d	68
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448024	1473220721249	1473220721336	i	73
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448028	1473220721352	1473220721450	d	68
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448030	1473220721513	1473220721618	 	32
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448032	1473220721884	1473220721982	t	84
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448033	1473220721982	1473220722116	h	72
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448077	1473220722116	1473220722234	e	69
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448078	1473220722234	1473220722317	y	89
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448081	1473220722395	1473220722533	 	32
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448084	1473220722925	1473220723070	g	71
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448090	1473220723102	1473220723335	e	69
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448165	1473220723253	1473220723430	t	84
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49447978	1473220723409	1473220724492	SHIFT	16
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448166	1473220723461	1473220723555	 	32
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448168	1473220723994	1473220724088	o	79
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448170	1473220724275	1473220724419	n	78
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49447975	1473220724397	1473220724477	H	72
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448174	1473220724481	1473220724585	t	84
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49447981	1473220724617	1473220724761	o	79
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49447983	1473220724855	1473220724944	w	87
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448177	1473220725137	1473220725201	i	73
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448215	1473220725483	1473220725569	BKSP	8
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448218	1473220726022	1473220726106	o	79
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448222	1473220726185	1473220726284	 	32
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448226	1473220726440	1473220726615	p	79
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448333	1473220726570	1473220726676	u	85
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448335	1473220727004	1473220727057	BKSP	8
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448337	1473220727167	1473220727250	BKSP	8
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448345	1473220727751	1473220727806	u	85
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448351	1473220727868	1473220727966	t	84
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448358	1473220728013	1473220728133	 	32
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448364	1473220728794	1473220728935	f	70
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448368	1473220729185	1473220729283	l	76
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448478	1473220729440	1473220729522	o	79
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448481	1473220729585	1473220729698	o	79
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448484	1473220729729	1473220729818	r	82
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448489	1473220729944	1473220731067	SHIFT	16
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448487	1473220730132	1473220730188	>	190
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448492	1473220731257	1473220731322	BKSP	8
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448495	1473220731557	1473220731807	SHIFT	16
+94903	1039608	How did they get onto our floor?	How did they get onto out floor?	49448485	1473220731744	1473220731838	?	191
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448606	1473220733818	1473220734251	SHIFT	16
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448610	1473220734152	1473220734314	T	84
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448613	1473220734314	1473220734466	h	72
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448618	1473220734434	1473220734532	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448622	1473220734563	1473220734716	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448626	1473220734951	1473220735383	SHIFT	16
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448741	1473220735266	1473220735446	W	87
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448745	1473220736138	1473220736312	BKSP	8
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448751	1473220736359	1473220736650	SHIFT	16
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448759	1473220736547	1473220736697	S	83
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448765	1473220736791	1473220736980	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448769	1473220737499	1473220737616	n	78
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448776	1473220737632	1473220737808	a	65
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448804	1473220737766	1473220737935	t	84
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448806	1473220737883	1473220738036	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448810	1473220738083	1473220738189	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448813	1473220738811	1473220738902	v	86
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448815	1473220738949	1473220739113	o	79
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448818	1473220739238	1473220739390	t	84
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448896	1473220739353	1473220739485	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448899	1473220739563	1473220739668	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448904	1473220740313	1473220740406	i	73
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448907	1473220740531	1473220740649	n	78
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448910	1473220740728	1473220740834	d	68
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448913	1473220740959	1473220741148	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448944	1473220741101	1473220741225	r	82
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448946	1473220742017	1473220742115	c	67
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448948	1473220742193	1473220742303	u	85
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448950	1473220742350	1473220742483	t	84
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448952	1473220742546	1473220742666	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448955	1473220743171	1473220743285	h	72
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448991	1473220743301	1473220743461	i	73
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448993	1473220744422	1473220744502	m	77
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49448998	1473220744549	1473220744668	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449000	1473220744824	1473220744953	t	84
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449003	1473220744953	1473220745087	h	72
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449027	1473220745135	1473220745265	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449029	1473220745216	1473220745333	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449032	1473220745427	1473220745602	d	68
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449034	1473220745553	1473220745711	a	65
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449036	1473220745711	1473220745817	y	89
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449081	1473220745881	1473220746015	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449084	1473220746280	1473220746448	b	66
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449087	1473220746448	1473220746551	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449090	1473220746691	1473220746882	o	79
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449093	1473220746882	1473220746983	f	70
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449226	1473220747125	1473220747302	r	82
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449230	1473220747251	1473220747411	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449233	1473220747507	1473220747605	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449236	1473220748418	1473220748499	BKSP	8
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449239	1473220748577	1473220748671	BKSP	8
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449242	1473220748765	1473220748851	BKSP	8
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449244	1473220748929	1473220749021	BKSP	8
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449249	1473220749098	1473220749185	BKSP	8
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449253	1473220749768	1473220749855	f	70
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449256	1473220749918	1473220750076	o	79
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449277	1473220750030	1473220750149	r	82
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449281	1473220750118	1473220750247	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449286	1473220750294	1473220750420	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449288	1473220750811	1473220750964	t	84
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449291	1473220750964	1473220751113	h	72
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449295	1473220751113	1473220751232	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449378	1473220751232	1473220751334	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449382	1473220751428	1473220751868	SHIFT	16
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449384	1473220751709	1473220751868	G	71
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449387	1473220751868	1473220752014	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449390	1473220752076	1473220752265	n	78
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449393	1473220753189	1473220753287	e	69
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449461	1473220753538	1473220753701	v	86
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449465	1473220754061	1473220754183	a	65
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449466	1473220754245	1473220754351	 	32
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449468	1473220754839	1473220755008	t	84
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449518	1473220754936	1473220755100	a	65
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449520	1473220755178	1473220755334	l	76
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449521	1473220755334	1473220755512	k	75
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449522	1473220755544	1473220755635	s	83
+94903	1039622	The Senate vote undercut him the day before the Geneva talks.	The Senate vote indercut him the day before the Geneva talks.	49449523	1473220756202	1473220756286	.	190
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449654	1473220758496	1473220759436	SHIFT	16
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449658	1473220759373	1473220759487	D	68
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449663	1473220759534	1473220759708	o	79
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449670	1473220759663	1473220759892	n	78
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449677	1473220759939	1473220760159	'	222
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449682	1473220760190	1473220760271	t	84
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449768	1473220760320	1473220760436	 	32
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449769	1473220761000	1473220761104	e	69
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449771	1473220761354	1473220761405	x	67
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449772	1473220761938	1473220762054	BKSP	8
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449773	1473220762444	1473220762581	BKSP	8
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449774	1473220762675	1473220762754	x	88
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449824	1473220763067	1473220763250	p	80
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449828	1473220763198	1473220763300	e	69
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449832	1473220763659	1473220763755	c	67
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449834	1473220763958	1473220764053	t	84
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449836	1473220764178	1473220764283	 	32
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449899	1473220764897	1473220765160	SHIFT	16
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449902	1473220765085	1473220765246	S	83
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449905	1473220765341	1473220765469	a	65
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449909	1473220765609	1473220765781	n	78
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449912	1473220765875	1473220765970	d	68
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449914	1473220766079	1473220766263	e	69
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449941	1473220766198	1473220766331	r	82
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449943	1473220766440	1473220766583	s	83
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449944	1473220766614	1473220766717	 	32
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449945	1473220766904	1473220767101	t	84
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449946	1473220767050	1473220767179	o	79
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449948	1473220767210	1473220767332	 	32
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449992	1473220767755	1473220767839	p	80
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449994	1473220767964	1473220768082	l	76
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449996	1473220768113	1473220768248	a	65
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49449998	1473220768311	1473220768397	y	89
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450000	1473220768495	1473220768615	 	32
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450038	1473220769023	1473220769151	a	65
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450040	1473220769245	1473220769333	n	78
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450041	1473220769428	1473220769508	y	89
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450043	1473220769783	1473220769928	t	84
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450046	1473220769928	1473220770079	i	73
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450068	1473220770079	1473220770229	m	77
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450073	1473220770229	1473220770423	e	69
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450077	1473220770380	1473220770498	s	83
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450080	1473220770498	1473220770600	 	32
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450084	1473220770883	1473220770996	s	83
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450126	1473220770996	1473220771084	o	79
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450130	1473220771131	1473220771264	o	79
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450136	1473220771342	1473220771422	n	78
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450141	1473220771596	1473220771689	,	188
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450143	1473220771951	1473220772032	BKSP	8
+94903	1039648	Don't expect Sanders to play anytime soon.	Don't expect Sanders to play anytimes soon.	49450146	1473220772423	1473220772505	.	190

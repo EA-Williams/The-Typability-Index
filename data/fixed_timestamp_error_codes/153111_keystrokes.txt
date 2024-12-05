@@ -1,0 +1,635 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+153111	1662855	I hope you went.	I hope you went.	79036583	1473959443824	1473959443980	SHIFT	16
+153111	1662855	I hope you went.	I hope you went.	79036586	1473959443884	1473959444036	I	73
+153111	1662855	I hope you went.	I hope you went.	79036591	1473959443981	1473959444124	 	32
+153111	1662855	I hope you went.	I hope you went.	79036596	1473959444116	1473959444268	h	72
+153111	1662855	I hope you went.	I hope you went.	79036603	1473959444236	1473959444388	o	79
+153111	1662855	I hope you went.	I hope you went.	79036637	1473959444332	1473959444509	p	80
+153111	1662855	I hope you went.	I hope you went.	79036641	1473959444476	1473959444620	e	69
+153111	1662855	I hope you went.	I hope you went.	79036645	1473959444572	1473959444700	 	32
+153111	1662855	I hope you went.	I hope you went.	79036651	1473959444756	1473959444884	y	89
+153111	1662855	I hope you went.	I hope you went.	79036654	1473959444868	1473959445117	o	79
+153111	1662855	I hope you went.	I hope you went.	79036717	1473959444956	1473959445148	u	85
+153111	1662855	I hope you went.	I hope you went.	79036722	1473959445036	1473959445180	 	32
+153111	1662855	I hope you went.	I hope you went.	79036727	1473959445084	1473959445236	w	87
+153111	1662855	I hope you went.	I hope you went.	79036731	1473959445212	1473959445324	e	69
+153111	1662855	I hope you went.	I hope you went.	79036736	1473959445316	1473959445468	n	78
+153111	1662855	I hope you went.	I hope you went.	79036743	1473959445812	1473959445940	t	84
+153111	1662855	I hope you went.	I hope you went.	79036751	1473959446004	1473959446148	.	190
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037103	1473959450212	1473959450388	SHIFT	16
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037110	1473959450284	1473959450468	M	77
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037117	1473959450420	1473959450560	i	73
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037127	1473959450588	1473959450708	x	88
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037137	1473959451172	1473959451300	e	69
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037147	1473959451388	1473959451508	d	68
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037188	1473959451492	1473959451644	 	32
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037197	1473959451676	1473959451820	s	83
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037203	1473959451788	1473959451916	i	73
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037207	1473959451900	1473959452020	g	71
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037212	1473959452108	1473959452260	n	78
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037248	1473959452252	1473959452388	a	65
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037252	1473959452364	1473959452500	l	76
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037256	1473959452508	1473959452645	s	83
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037263	1473959452612	1473959452732	 	32
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037269	1473959452740	1473959452860	f	70
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037276	1473959452940	1473959453052	r	82
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037355	1473959453004	1473959453228	o	79
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037359	1473959453092	1473959453348	m	77
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037364	1473959453212	1473959453380	 	32
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037391	1473959453516	1473959454156	SHIFT	16
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037368	1473959453668	1473959453821	A	65
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037371	1473959453788	1473959453932	P	80
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037374	1473959453980	1473959454140	S	83
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037395	1473959454148	1473959454292	 	32
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037399	1473959454452	1473959454612	t	84
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037404	1473959454548	1473959454684	o	79
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037412	1473959454692	1473959454844	d	68
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037430	1473959454812	1473959454956	a	65
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037434	1473959454932	1473959455052	y	89
+153111	1662864	Mixed signals from APS today.	Mixed signals from APS today.	79037436	1473959455220	1473959455372	.	190
+153111	1662881	Nice weather for it.	Nice weather for it.	79037599	1473959457404	1473959457564	SHIFT	16
+153111	1662881	Nice weather for it.	Nice weather for it.	79037603	1473959457500	1473959457652	N	78
+153111	1662881	Nice weather for it.	Nice weather for it.	79037608	1473959457596	1473959457756	i	73
+153111	1662881	Nice weather for it.	Nice weather for it.	79037612	1473959457692	1473959457804	c	67
+153111	1662881	Nice weather for it.	Nice weather for it.	79037617	1473959457828	1473959457932	e	69
+153111	1662881	Nice weather for it.	Nice weather for it.	79037675	1473959457876	1473959458012	 	32
+153111	1662881	Nice weather for it.	Nice weather for it.	79037683	1473959457988	1473959458140	w	87
+153111	1662881	Nice weather for it.	Nice weather for it.	79037690	1473959458292	1473959458428	e	69
+153111	1662881	Nice weather for it.	Nice weather for it.	79037693	1473959458468	1473959458588	a	65
+153111	1662881	Nice weather for it.	Nice weather for it.	79037704	1473959458652	1473959458772	t	84
+153111	1662881	Nice weather for it.	Nice weather for it.	79037751	1473959458740	1473959458852	h	72
+153111	1662881	Nice weather for it.	Nice weather for it.	79037755	1473959458836	1473959458988	e	69
+153111	1662881	Nice weather for it.	Nice weather for it.	79037758	1473959458924	1473959459060	r	82
+153111	1662881	Nice weather for it.	Nice weather for it.	79037761	1473959459004	1473959459140	 	32
+153111	1662881	Nice weather for it.	Nice weather for it.	79037766	1473959459324	1473959459452	f	70
+153111	1662881	Nice weather for it.	Nice weather for it.	79037826	1473959459404	1473959459561	o	79
+153111	1662881	Nice weather for it.	Nice weather for it.	79037829	1473959459564	1473959459676	r	82
+153111	1662881	Nice weather for it.	Nice weather for it.	79037834	1473959459684	1473959459852	 	32
+153111	1662881	Nice weather for it.	Nice weather for it.	79037840	1473959459932	1473959460052	i	73
+153111	1662881	Nice weather for it.	Nice weather for it.	79037848	1473959460012	1473959460140	t	84
+153111	1662881	Nice weather for it.	Nice weather for it.	79037855	1473959460196	1473959460340	.	190
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038128	1473959460412	1473959462876	SHIFT	16
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038143	1473959462772	1473959462940	C	67
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038163	1473959463052	1473959463188	a	65
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038172	1473959463172	1473959463340	n	78
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038180	1473959463276	1473959463420	 	32
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038188	1473959463484	1473959463612	y	89
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038164	1473959463596	1473959463820	o	79
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038175	1473959463668	1473959463852	 	85
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038185	1473959463780	1473959463892	g	71
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038192	1473959463932	1473959464084	e	69
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038268	1473959464012	1473959464148	t	84
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038275	1473959464068	1473959464188	 	32
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038284	1473959464244	1473959464364	m	77
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038292	1473959464335	1473959464484	e	69
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038298	1473959464452	1473959464604	 	32
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038303	1473959465036	1473959465156	t	84
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038337	1473959465108	1473959465228	h	72
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038339	1473959465212	1473959465380	e	69
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038345	1473959465316	1473959465452	 	32
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038349	1473959465644	1473959465892	SHIFT	16
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038356	1473959465780	1473959465924	C	67
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038365	1473959465980	1473959466116	a	65
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038419	1473959466076	1473959466204	l	76
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038429	1473959466188	1473959466308	g	71
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038439	1473959466364	1473959466532	e	69
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038452	1473959466460	1473959466580	r	82
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038461	1473959466548	1473959466684	 	32
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038500	1473959466668	1473959466804	l	76
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038506	1473959466724	1473959466868	e	69
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038514	1473959466844	1473959466940	t	84
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038518	1473959466980	1473959467084	t	84
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038523	1473959467132	1473959467276	e	69
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038531	1473959467212	1473959467340	r	82
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038535	1473959467332	1473959467476	 	32
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038543	1473959467444	1473959467572	d	68
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038552	1473959467516	1473959467700	o	79
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038599	1473959467596	1473959467748	n	78
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038601	1473959467676	1473959467796	e	69
+153111	1662896	Can you get me the Calger letter done?	Can you get me the Calger letter done?	79038605	1473959467924	1473959468052	?	191
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79038920	1473959470396	1473959470556	S	83
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79038930	1473959470636	1473959470764	t	84
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79038937	1473959470868	1473959470972	i	73
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79038943	1473959471043	1473959471132	l	76
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79038946	1473959471179	1473959471356	l	76
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039004	1473959471284	1473959471452	 	32
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039009	1473959471372	1473959471483	w	87
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039021	1473959471524	1473959471644	a	65
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039028	1473959471604	1473959471748	i	73
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039033	1473959472039	1473959472148	t	84
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039068	1473959472116	1473959472332	i	73
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039072	1473959472244	1473959472388	n	78
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039080	1473959472435	1473959472548	g	71
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039089	1473959472580	1473959472692	 	32
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039098	1473959472739	1473959472948	o	79
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039175	1473959472820	1473959473028	n	78
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039181	1473959472916	1473959473075	 	32
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039186	1473959473067	1473959473235	SHIFT	16
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039190	1473959473492	1473959473588	d	68
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039195	1473959473659	1473959473772	e	69
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039200	1473959473835	1473959473964	c	67
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039209	1473959473971	1473959474100	i	73
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039268	1473959474092	1473959474204	s	83
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039274	1473959474180	1473959474284	i	73
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039278	1473959474307	1473959474476	o	79
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039283	1473959474412	1473959474548	n	78
+153111	1662907	Still waiting on decision.	Still waiting on decision.	79039287	1473959474675	1473959474828	.	190
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039771	1473959479374	1473959479603	SHIFT	16
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039777	1473959479507	1473959479659	J	74
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039782	1473959479619	1473959479755	o	79
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039786	1473959479811	1473959479939	h	72
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039792	1473959480011	1473959480203	n	78
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039815	1473959480148	1473959480275	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039820	1473959480276	1473959480427	i	73
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039824	1473959480395	1473959480523	s	83
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039827	1473959480467	1473959480579	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039834	1473959480572	1473959480763	o	79
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039865	1473959480659	1473959480804	u	85
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039873	1473959480771	1473959480891	t	84
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039879	1473959480883	1473959481011	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039885	1473959481051	1473959481171	t	84
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039890	1473959481115	1473959481243	o	79
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039894	1473959481244	1473959481395	d	68
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039930	1473959481355	1473959481491	a	65
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039939	1473959481435	1473959481563	y	89
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039949	1473959481691	1473959481851	,	188
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039959	1473959481795	1473959481939	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039968	1473959481963	1473959482043	b	66
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79039978	1473959482075	1473959482219	u	85
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040020	1473959482211	1473959482315	t	84
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040024	1473959482467	1473959482595	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040029	1473959482659	1473959482779	w	87
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040035	1473959482747	1473959482843	i	73
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040039	1473959482907	1473959482979	l	76
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040046	1473959483035	1473959483203	l	76
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040081	1473959483147	1473959483283	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040082	1473959483259	1473959483363	b	66
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040085	1473959483443	1473959483547	e	69
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040088	1473959483484	1473959483611	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040091	1473959483627	1473959483739	b	66
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040094	1473959483779	1473959483933	a	65
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040105	1473959483899	1473959484019	c	67
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040110	1473959483963	1473959484116	k	75
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040117	1473959484083	1473959484211	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040122	1473959484212	1473959484436	i	73
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040133	1473959484275	1473959484451	n	78
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040134	1473959484379	1473959484492	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040137	1473959484467	1473959484579	t	84
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040140	1473959484539	1473959484661	h	72
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040145	1473959484643	1473959484771	e	69
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040150	1473959484715	1473959484836	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040180	1473959484795	1473959484939	o	79
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040184	1473959484899	1473959484979	f	70
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040188	1473959485035	1473959485115	f	70
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040195	1473959485131	1473959485235	i	73
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040199	1473959485227	1473959485331	c	67
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040202	1473959485355	1473959485475	e	69
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040224	1473959485435	1473959485579	 	32
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040233	1473959485547	1473959485675	t	84
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040240	1473959485611	1473959485763	o	79
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040246	1473959485747	1473959485884	m	77
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040252	1473959485843	1473959485979	o	79
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040309	1473959485931	1473959486011	r	82
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040314	1473959486075	1473959486179	r	82
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040320	1473959486187	1473959486332	o	79
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040326	1473959486307	1473959486427	w	87
+153111	1662922	John is out today, but will be back in the office tomorrow.	John is out today, but will be back in the office tomorrow.	79040331	1473959486499	1473959486635	.	190
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040590	1473959488547	1473959488923	SHIFT	16
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040586	1473959488771	1473959488899	D	68
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040593	1473959488947	1473959489083	o	79
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040599	1473959489211	1473959489331	n	78
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040601	1473959489363	1473959489467	t	84
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040602	1473959489883	1473959489995	BKSP	8
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040604	1473959490219	1473959490347	'	222
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040612	1473959490371	1473959490475	t	84
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040618	1473959490467	1473959490571	 	32
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040624	1473959490556	1473959490659	t	84
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040630	1473959490619	1473959490744	h	72
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040657	1473959490723	1473959490851	e	69
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040661	1473959490827	1473959490995	y	89
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040665	1473959490931	1473959491059	 	32
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040667	1473959491099	1473959491235	h	72
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040669	1473959491179	1473959491307	a	65
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040674	1473959491259	1473959491379	v	86
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040676	1473959491411	1473959491532	e	69
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040679	1473959491483	1473959491619	 	32
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040687	1473959491587	1473959491715	s	83
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040695	1473959491683	1473959491837	o	79
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040746	1473959491723	1473959491867	m	77
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040751	1473959491811	1473959491931	e	69
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040757	1473959491939	1473959492075	 	32
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040761	1473959492123	1473959492259	c	67
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040766	1473959492251	1473959492403	o	79
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040772	1473959492299	1473959492459	n	78
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040776	1473959492683	1473959492827	l	76
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040825	1473959492979	1473959493083	BKSP	8
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040831	1473959493123	1473959493235	f	70
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040837	1473959493243	1473959493427	l	76
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040844	1473959493371	1473959493499	i	73
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040848	1473959493507	1473959493603	c	67
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040852	1473959493715	1473959493851	t	84
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040892	1473959494107	1473959494251	s	83
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040897	1473959494363	1473959494483	 	32
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040906	1473959494531	1473959494675	h	72
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040912	1473959494619	1473959494739	e	69
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040958	1473959494715	1473959494851	r	82
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040965	1473959494843	1473959494979	e	69
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040970	1473959495219	1473959495419	SHIFT	16
+153111	1662942	Don't they have some conflicts here?	Don't they have some conflicts here?	79040976	1473959495315	1473959495435	?	191
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041468	1473959500062	1473959500283	SHIFT	16
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041473	1473959500195	1473959500308	C	67
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041479	1473959500275	1473959500443	H	72
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041484	1473959500395	1473959500523	i	73
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041487	1473959500683	1473959500787	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041491	1473959500987	1473959501067	BKSP	8
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041495	1473959501107	1473959501275	BKSP	8
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041502	1473959501323	1473959501411	BKSP	8
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041505	1473959501611	1473959501779	h	72
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041547	1473959501731	1473959501875	i	73
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041552	1473959501987	1473959502123	n	78
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041558	1473959502163	1473959502275	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041563	1473959502347	1473959502499	s	83
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041568	1473959502483	1473959502611	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041572	1473959502651	1473959502795	 	32
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041634	1473959503075	1473959503299	SHIFT	16
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041640	1473959503179	1473959503307	P	80
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041647	1473959503395	1473959503515	r	82
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041655	1473959503571	1473959503691	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041661	1473959503739	1473959503859	s	83
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041664	1473959503891	1473959504003	i	73
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041681	1473959504059	1473959504171	d	68
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041686	1473959504267	1473959504395	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041692	1473959504339	1473959504475	n	78
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041702	1473959504483	1473959504579	t	84
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041789	1473959504571	1473959504715	 	32
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041795	1473959504811	1473959504939	d	68
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041798	1473959505043	1473959505179	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041801	1473959505259	1473959505355	f	70
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041805	1473959505475	1473959505603	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041811	1473959505667	1473959505803	n	78
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041845	1473959505811	1473959505923	d	68
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041851	1473959506059	1473959506163	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041857	1473959506243	1473959506355	d	68
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041864	1473959506339	1473959506435	 	32
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041871	1473959506443	1473959506548	t	84
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041921	1473959506515	1473959506643	h	72
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041925	1473959506603	1473959506723	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041928	1473959506659	1473959506763	 	32
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041930	1473959506787	1473959506923	m	77
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041931	1473959506867	1473959507019	i	73
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041932	1473959507035	1473959507195	l	76
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041963	1473959507155	1473959507283	i	73
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041966	1473959507291	1473959507419	t	84
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041971	1473959507515	1473959507675	a	65
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041978	1473959507627	1473959507747	r	82
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79041982	1473959507779	1473959507947	y	89
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042052	1473959507875	1473959508043	 	32
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042058	1473959508195	1473959508315	c	67
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042068	1473959508451	1473959508563	r	82
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042076	1473959508595	1473959508723	a	65
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042087	1473959508779	1473959508875	c	67
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042095	1473959508891	1473959509035	k	75
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042113	1473959509051	1473959509179	d	68
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042116	1473959509163	1473959509291	o	79
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042121	1473959509251	1473959509371	w	87
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042125	1473959509395	1473959509571	n	78
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042198	1473959509531	1473959509667	 	32
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042205	1473959509699	1473959509891	o	79
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042209	1473959509763	1473959509979	n	78
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042211	1473959509843	1473959510011	 	32
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042215	1473959510163	1473959510299	p	80
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042219	1473959510315	1473959510427	r	82
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042255	1473959510411	1473959510555	o	79
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042261	1473959510651	1473959510795	t	84
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042269	1473959510835	1473959510955	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042277	1473959511019	1473959511147	s	83
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042283	1473959511123	1473959511235	t	84
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042288	1473959511283	1473959511435	e	69
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042348	1473959511395	1473959511515	r	82
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042351	1473959511579	1473959511707	s	83
+153111	1662959	Chinese President defended the military crackdown on protesters.	Chinese President defended the military crackdown on protesters.	79042353	1473959512067	1473959512195	.	190
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042522	1473959514307	1473959514491	SHIFT	16
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042526	1473959514427	1473959514538	T	84
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042531	1473959514563	1473959514691	h	72
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042537	1473959514707	1473959514819	o	79
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042542	1473959515067	1473959515202	m	77
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042575	1473959515195	1473959515379	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042581	1473959515315	1473959515426	s	83
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042590	1473959515450	1473959515571	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042596	1473959515635	1473959515771	h	72
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042602	1473959515715	1473959515883	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042629	1473959515818	1473959515931	s	83
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042634	1473959515899	1473959516027	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042641	1473959516027	1473959516227	n	78
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042648	1473959516123	1473959516307	o	79
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042653	1473959516187	1473959516330	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042659	1473959516346	1473959516490	r	82
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042690	1473959516475	1473959516611	e	69
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042692	1473959516597	1473959516739	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042694	1473959516699	1473959516875	l	76
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042695	1473959516794	1473959516930	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042698	1473959516922	1473959517075	v	86
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042699	1473959517082	1473959517219	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042771	1473959517163	1473959517339	l	76
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042778	1473959517299	1473959517442	u	85
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042786	1473959517466	1473959517610	e	69
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042792	1473959517603	1473959517739	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042798	1473959517866	1473959518051	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042870	1473959518003	1473959518139	s	83
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042872	1473959518131	1473959518266	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042880	1473959518259	1473959518379	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042886	1473959518379	1473959518506	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042896	1473959518491	1473959518723	SHIFT	16
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042904	1473959518595	1473959518778	F	70
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042912	1473959518834	1473959518986	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042961	1473959518971	1473959519115	n	78
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042969	1473959519122	1473959519243	t	84
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042977	1473959519331	1473959519499	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79042987	1473959519467	1473959519571	s	83
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043001	1473959519674	1473959519899	y	89
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043062	1473959519803	1473959519946	 	32
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043069	1473959520123	1473959520251	p	80
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043075	1473959520323	1473959520459	l	76
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043079	1473959520442	1473959520587	a	65
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043084	1473959520538	1473959520666	y	89
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043092	1473959520674	1473959520820	e	69
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043120	1473959520779	1473959520882	r	82
+153111	1662988	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	79043132	1473959521211	1473959521338	.	190
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043300	1473959523074	1473959523282	SHIFT	16
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043304	1473959523170	1473959523338	H	72
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043306	1473959523378	1473959523539	o	79
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043308	1473959523498	1473959523674	p	80
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043312	1473959523706	1473959523826	e	69
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043327	1473959523810	1473959523922	 	32
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043332	1473959523954	1473959524074	y	89
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043337	1473959524066	1473959524266	o	79
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043344	1473959524138	1473959524267	u	85
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043348	1473959524210	1473959524347	 	32
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043409	1473959524322	1473959524474	h	72
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043411	1473959524402	1473959524546	a	65
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043415	1473959524490	1473959524602	v	86
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043417	1473959524634	1473959524787	e	69
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043420	1473959524738	1473959524874	 	32
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043425	1473959525242	1473959525318	BKSP	8
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043430	1473959525354	1473959525442	BKSP	8
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043437	1473959525474	1473959525538	BKSP	8
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043444	1473959525594	1473959525682	BKSP	8
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043457	1473959525754	1473959525850	d	68
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043512	1473959526138	1473959526234	BKSP	8
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043514	1473959526314	1473959526482	a	65
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043520	1473959526450	1473959526586	d	68
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043529	1473959526570	1473959526706	 	32
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043541	1473959526707	1473959526843	a	65
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043562	1473959526810	1473959526938	 	32
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043567	1473959526939	1473959527051	g	71
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043571	1473959527026	1473959527098	o	79
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043575	1473959527162	1473959527298	o	79
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043577	1473959527250	1473959527370	d	68
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043594	1473959527354	1473959527483	 	32
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043597	1473959527458	1473959527610	w	87
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043603	1473959527554	1473959527666	e	69
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043612	1473959527722	1473959527843	e	69
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043616	1473959527810	1473959527946	k	75
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043647	1473959527922	1473959528058	e	69
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043652	1473959528042	1473959528170	n	78
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043658	1473959528162	1473959528290	d	68
+153111	1663001	Hope you had a good weekend.	Hope you had a good weekend.	79043661	1473959528338	1473959528474	.	190
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043932	1473959530346	1473959530762	SHIFT	16
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043938	1473959530650	1473959530810	S	83
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043944	1473959530794	1473959530914	h	72
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043949	1473959530906	1473959531042	e	69
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043950	1473959531130	1473959531250	 	32
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043956	1473959531298	1473959531418	s	83
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043985	1473959531442	1473959531571	a	65
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79043996	1473959531546	1473959531682	i	73
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044004	1473959531650	1473959531754	d	68
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044011	1473959531754	1473959531858	 	32
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044017	1473959531882	1473959532010	i	73
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044037	1473959532026	1473959532130	t	84
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044042	1473959532131	1473959532258	 	32
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044046	1473959532338	1473959532490	w	87
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044051	1473959532418	1473959532586	o	79
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044086	1473959532514	1473959532626	u	85
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044091	1473959532674	1473959532858	l	76
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044096	1473959532770	1473959532890	d	68
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044102	1473959532842	1473959532970	 	32
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044106	1473959532954	1473959533098	p	80
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044122	1473959533066	1473959533170	r	82
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044125	1473959533170	1473959533298	o	79
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044130	1473959533306	1473959533418	b	66
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044134	1473959533466	1473959533586	a	65
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044139	1473959533562	1473959533682	b	66
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044192	1473959533674	1473959533858	l	76
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044199	1473959533810	1473959534018	y	89
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044206	1473959533914	1473959534066	 	32
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044211	1473959534122	1473959534218	b	66
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044214	1473959534282	1473959534410	e	69
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044281	1473959534394	1473959534506	 	32
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044283	1473959534834	1473959534994	a	65
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044286	1473959534946	1473959535066	f	70
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044289	1473959535154	1473959535266	t	84
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044293	1473959535306	1473959535482	e	69
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044375	1473959535410	1473959535546	r	82
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044383	1473959535562	1473959535698	 	32
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044396	1473959535842	1473959536106	SHIFT	16
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044390	1473959535962	1473959536090	J	74
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044404	1473959536194	1473959536338	a	65
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044412	1473959536314	1473959536450	n	78
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044417	1473959536546	1473959536674	.	190
+153111	1663012	She said it would probably be after Jan.	She said it would probably be after Jan.	79044428	1473959536722	1473959536778	SHIFT	16
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044794	1473959540835	1473959541242	SHIFT	16
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044803	1473959541126	1473959541250	B	66
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044814	1473959541322	1473959541434	e	69
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044824	1473959541482	1473959541626	s	83
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044831	1473959541586	1473959541698	t	84
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044864	1473959541690	1473959541802	 	32
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044869	1473959541786	1473959541930	o	79
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044874	1473959541874	1473959541978	f	70
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044878	1473959541986	1473959542122	 	32
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044884	1473959542226	1473959542386	l	76
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044907	1473959542354	1473959542522	u	85
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044908	1473959542570	1473959542706	c	67
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044909	1473959542666	1473959542842	k	75
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044910	1473959542810	1473959542946	 	32
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044913	1473959542962	1473959543122	a	65
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044974	1473959543082	1473959543242	n	78
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044981	1473959543258	1473959543354	d	68
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044989	1473959543338	1473959543466	 	32
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79044996	1473959543562	1473959543714	s	83
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045001	1473959543794	1473959543922	t	84
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045005	1473959543954	1473959544082	a	65
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045016	1473959544074	1473959544250	y	89
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045019	1473959544162	1473959544330	 	32
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045023	1473959544322	1473959544578	i	73
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045027	1473959544402	1473959544618	n	78
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045059	1473959544498	1473959544658	 	32
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045061	1473959544594	1473959544714	t	84
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045062	1473959544698	1473959544898	o	79
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045064	1473959544794	1473959544938	u	85
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045068	1473959544922	1473959545026	c	67
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045073	1473959545034	1473959545154	h	72
+153111	1663023	Best of luck and stay in touch.	Best of luck and stay in touch.	79045079	1473959545250	1473959545378	.	190
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045499	1473959550421	1473959550794	SHIFT	16
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045502	1473959550658	1473959550834	S	83
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045508	1473959550898	1473959551034	a	65
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045514	1473959551058	1473959551138	n	78
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045516	1473959551210	1473959551290	n	78
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045524	1473959551546	1473959551658	BKSP	8
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045531	1473959551818	1473959551930	a	65
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045564	1473959551994	1473959552082	a	65
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045569	1473959552114	1473959552250	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045574	1473959552354	1473959552514	a	65
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045579	1473959552490	1473959552610	p	80
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045584	1473959552706	1473959552826	p	80
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045652	1473959552938	1473959553066	e	69
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045655	1473959553106	1473959553266	a	65
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045658	1473959553274	1473959553394	r	82
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045663	1473959553458	1473959553586	e	69
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045665	1473959553666	1473959553786	d	68
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045674	1473959553802	1473959553930	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045680	1473959553906	1473959554026	t	84
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045685	1473959553986	1473959554162	o	79
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045693	1473959554114	1473959554242	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045729	1473959554210	1473959554306	b	66
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045732	1473959554378	1473959554514	e	69
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045734	1473959554474	1473959554586	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045739	1473959554586	1473959554730	a	65
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045742	1473959554682	1473959554826	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045748	1473959554834	1473959554946	g	71
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045778	1473959554938	1473959555066	h	72
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045780	1473959555058	1473959555210	o	79
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045787	1473959555186	1473959555346	s	83
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045794	1473959555322	1473959555434	t	84
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045801	1473959555449	1473959555602	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045838	1473959555578	1473959555698	t	84
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045841	1473959555682	1473959555796	o	79
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045845	1473959555770	1473959555898	w	87
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045848	1473959555898	1473959556098	n	78
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045851	1473959556026	1473959556186	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045854	1473959556250	1473959556362	w	87
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045873	1473959556322	1473959556434	i	73
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045876	1473959556441	1473959556554	t	84
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045878	1473959556522	1473959556690	h	72
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045881	1473959556626	1473959556753	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045883	1473959556826	1473959556938	m	77
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045918	1473959556922	1473959557074	a	65
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045922	1473959557018	1473959557122	n	78
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045928	1473959557193	1473959557362	y	89
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045933	1473959557290	1473959557426	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045939	1473959557385	1473959557506	s	83
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045990	1473959557458	1473959557594	h	72
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79045996	1473959557514	1473959557674	o	79
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046004	1473959557601	1473959557770	p	80
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046007	1473959557754	1473959557905	s	83
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046017	1473959557898	1473959558042	 	32
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046026	1473959558186	1473959558314	c	67
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046055	1473959558266	1473959558362	l	76
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046056	1473959558425	1473959558554	o	79
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046057	1473959558506	1473959558674	s	83
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046059	1473959558642	1473959558762	e	69
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046065	1473959558834	1473959558970	d	68
+153111	1663039	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	79046074	1473959558946	1473959559074	.	190
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046247	1473959560850	1473959561050	SHIFT	16
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046252	1473959560970	1473959561097	H	72
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046263	1473959561105	1473959561210	e	69
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046268	1473959561186	1473959561322	 	32
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046276	1473959561290	1473959561417	w	87
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046311	1473959561402	1473959561562	o	79
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046313	1473959561490	1473959561610	u	85
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046317	1473959561641	1473959561792	l	76
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046323	1473959561738	1473959561866	d	68
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046329	1473959561810	1473959561955	 	32
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046361	1473959561913	1473959562050	l	76
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046364	1473959562113	1473959562258	o	79
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046367	1473959562186	1473959562297	v	86
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046371	1473959562353	1473959562498	e	69
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046373	1473959562434	1473959562569	 	32
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046376	1473959562577	1473959562690	a	65
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046387	1473959562642	1473959562754	n	78
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046392	1473959562833	1473959562937	y	89
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046396	1473959562930	1473959563041	t	84
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046399	1473959563020	1473959563129	h	72
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046437	1473959563137	1473959563337	i	73
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046402	1473959563210	1473959563321	n	78
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046440	1473959563314	1473959563410	g	71
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046444	1473959563441	1473959563578	 	32
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046450	1473959563546	1473959563649	a	65
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046455	1473959563673	1473959563786	b	66
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046464	1473959563761	1473959563939	o	79
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046479	1473959563833	1473959563962	u	85
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046483	1473959563906	1473959564017	t	84
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046489	1473959564033	1473959564171	 	32
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046500	1473959564130	1473959564233	r	82
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046508	1473959564217	1473959564361	o	79
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046515	1473959564354	1473959564489	c	67
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046538	1473959564465	1473959564601	k	75
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046541	1473959564561	1473959564689	s	83
+153111	1663060	He would love anything about rocks.	He would love anything about rocks.	79046544	1473959564729	1473959564849	.	190
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046703	1473959566873	1473959567241	SHIFT	16
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046705	1473959567121	1473959567345	I	73
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046710	1473959567233	1473959567377	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046717	1473959567393	1473959567537	d	68
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046724	1473959567465	1473959567657	o	79
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046755	1473959567545	1473959567689	n	78
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046759	1473959567753	1473959567913	'	222
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046762	1473959567873	1473959568001	t	84
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046765	1473959567985	1473959568121	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046767	1473959568185	1473959568313	h	72
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046814	1473959568257	1473959568417	a	65
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046820	1473959568377	1473959568497	v	86
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046823	1473959568545	1473959568673	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046828	1473959568681	1473959568817	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046837	1473959568769	1473959569137	SHIFT	16
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046831	1473959568941	1473959569033	L	76
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046843	1473959569385	1473959569545	o	79
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046889	1473959569777	1473959569938	s	83
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046894	1473959569905	1473959570009	t	84
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046897	1473959570009	1473959570145	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046909	1473959570121	1473959570425	SHIFT	16
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046902	1473959570265	1473959570401	C	67
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046914	1473959570489	1473959570601	r	82
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046961	1473959570641	1473959570737	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046965	1473959570785	1473959570929	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046971	1473959570881	1473959571033	k	75
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046976	1473959571113	1473959571233	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79046981	1473959571297	1473959571425	y	89
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047196	1473959571377	1473959571489	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047201	1473959571601	1473959571713	t	84
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047203	1473959571921	1473959572049	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047206	1473959572145	1473959572305	'	222
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047209	1473959572641	1473959572713	BKSP	8
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047212	1473959572761	1473959572833	BKSP	8
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047216	1473959573305	1473959573449	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047220	1473959574025	1473959574185	-	189
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047268	1473959574225	1473959574345	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047272	1473959574802	1473959574929	h	72
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047277	1473959574873	1473959575017	o	79
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047281	1473959574977	1473959575139	p	80
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047361	1473959575113	1473959575257	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047363	1473959575265	1473959575313	u	85
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047367	1473959575289	1473959575409	f	70
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047368	1473959575833	1473959575921	BKSP	8
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047370	1473959575961	1473959576065	BKSP	8
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047373	1473959576089	1473959576209	f	70
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047378	1473959576185	1473959576305	u	85
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047382	1473959576377	1473959576457	l	76
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047399	1473959576497	1473959576625	l	76
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047400	1473959576609	1473959576817	y	89
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047401	1473959576697	1473959576865	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047402	1473959576841	1473959576937	b	66
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047403	1473959577009	1473959577153	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047451	1473959577305	1473959577409	f	70
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047454	1473959577393	1473959577529	o	79
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047457	1473959577537	1473959577649	r	82
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047462	1473959577905	1473959578009	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047466	1473959578065	1473959578185	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047480	1473959578233	1473959578353	y	89
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047483	1473959578345	1473959578513	o	79
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047487	1473959578409	1473959578561	u	85
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047493	1473959578481	1473959578609	 	32
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047527	1473959578585	1473959578745	l	76
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047530	1473959578657	1473959578777	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047534	1473959578745	1473959578905	a	65
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047540	1473959578849	1473959578977	v	86
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047544	1473959578993	1473959579129	e	69
+153111	1663074	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost Creek yet - hopefully before you leave.	79047550	1473959579305	1473959579441	.	190

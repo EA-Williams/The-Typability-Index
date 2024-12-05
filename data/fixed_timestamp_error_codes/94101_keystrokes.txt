@@ -1,0 +1,579 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993851	1473209859522	1473209859916	SHIFT	16
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993855	1473209859805	1473209859922	P	80
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993859	1473209860042	1473209860176	l	76
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993863	1473209860128	1473209860285	e	69
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993867	1473209860282	1473209860421	a	65
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993882	1473209860366	1473209860506	s	83
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993888	1473209860549	1473209860683	e	69
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993893	1473209860722	1473209860845	 	32
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993900	1473209860826	1473209860976	c	67
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993906	1473209860981	1473209861051	o	79
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993912	1473209861110	1473209861214	o	79
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993945	1473209861191	1473209861299	r	82
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993948	1473209861392	1473209861531	d	68
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993952	1473209861484	1473209861591	i	73
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993956	1473209861650	1473209861771	n	78
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993962	1473209861743	1473209861889	a	65
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48993999	1473209861844	1473209862006	t	84
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994000	1473209861957	1473209862107	e	69
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994002	1473209862115	1473209862240	 	32
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994004	1473209862236	1473209862352	w	87
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994007	1473209862306	1473209862411	i	73
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994010	1473209862420	1473209862522	t	84
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994077	1473209862482	1473209862561	h	72
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994079	1473209862627	1473209862718	 	32
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994081	1473209862807	1473209862898	j	74
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994086	1473209862866	1473209862996	i	73
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994090	1473209863226	1473209863311	BKSP	8
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994093	1473209863363	1473209863464	BKSP	8
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994098	1473209863723	1473209863830	h	72
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994143	1473209863827	1473209863945	i	73
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994149	1473209864030	1473209864117	m	77
+94101	1030056	Please coordinate with him.	Please coordinate with him.	48994154	1473209864258	1473209864373	.	190
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994335	1473209866822	1473209867357	SHIFT	16
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994333	1473209867206	1473209867337	J	74
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994337	1473209867367	1473209867491	o	79
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994339	1473209867507	1473209867608	h	72
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994340	1473209867706	1473209867798	n	78
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994342	1473209867960	1473209868062	,	188
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994362	1473209868130	1473209868235	 	32
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994365	1473209868295	1473209868414	p	80
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994370	1473209868402	1473209868535	l	76
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994376	1473209868474	1473209868617	e	69
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994402	1473209868614	1473209868787	a	65
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994404	1473209868708	1473209868855	s	83
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994408	1473209868934	1473209869019	e	69
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994413	1473209869024	1473209869142	 	32
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994417	1473209869121	1473209869237	s	83
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994420	1473209869307	1473209869430	e	69
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994455	1473209869378	1473209869505	n	78
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994459	1473209869528	1473209869645	t	84
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994461	1473209869892	1473209869994	BKSP	8
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994464	1473209869977	1473209870121	d	68
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994470	1473209870135	1473209870265	 	32
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994475	1473209870262	1473209870373	t	84
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994490	1473209870351	1473209870500	h	72
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994492	1473209870468	1473209870575	i	73
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994496	1473209870516	1473209870663	s	83
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994499	1473209870647	1473209870765	 	32
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994503	1473209870729	1473209870846	t	84
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994534	1473209870838	1473209870931	o	79
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994536	1473209870988	1473209871108	 	32
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994540	1473209871132	1473209871343	SHIFT	16
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994544	1473209871258	1473209871408	S	83
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994551	1473209871359	1473209871486	h	72
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994555	1473209871523	1473209871649	e	69
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994592	1473209871646	1473209871722	l	76
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994594	1473209871784	1473209871885	l	76
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994598	1473209871963	1473209872094	y	89
+94101	1030070	John, please send this to Shelly.	John, please send this to Shelly.	48994602	1473209872358	1473209872468	.	190
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994758	1473209874328	1473209874781	SHIFT	16
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994763	1473209874645	1473209874823	A	65
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994769	1473209874804	1473209874899	n	78
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994778	1473209874944	1473209875046	y	89
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994784	1473209875108	1473209875203	 	32
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994790	1473209875243	1473209875346	o	79
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994819	1473209875297	1473209875424	t	84
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994826	1473209875421	1473209875529	h	72
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994832	1473209875476	1473209875632	e	69
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994842	1473209875573	1473209875696	r	82
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994848	1473209875627	1473209875722	 	32
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994855	1473209875781	1473209875892	u	85
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994875	1473209875836	1473209875996	s	83
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994881	1473209876019	1473209876153	e	69
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994886	1473209876092	1473209876195	 	32
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994889	1473209876245	1473209876336	i	73
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994893	1473209876288	1473209876422	s	83
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994934	1473209876396	1473209876496	 	32
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994935	1473209876533	1473209876639	e	69
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994938	1473209876749	1473209876886	x	88
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994944	1473209876967	1473209877069	p	80
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994949	1473209877089	1473209877258	r	82
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48994998	1473209877183	1473209877307	e	69
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995003	1473209877403	1473209877462	s	83
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995013	1473209877522	1473209877664	s	83
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995020	1473209877704	1473209877834	l	76
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995023	1473209877849	1473209877975	y	89
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995025	1473209877993	1473209878063	 	32
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995139	1473209878194	1473209878377	p	80
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995142	1473209878571	1473209878696	h	72
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995146	1473209878692	1473209878819	r	82
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995149	1473209879052	1473209879170	i	73
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995155	1473209879349	1473209879432	BKSP	8
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995159	1473209879490	1473209879569	BKSP	8
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995163	1473209879629	1473209879722	BKSP	8
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995168	1473209879842	1473209879973	r	82
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995181	1473209879960	1473209880078	o	79
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995187	1473209880206	1473209880338	h	72
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995192	1473209880406	1473209880523	i	73
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995197	1473209880561	1473209880666	b	66
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995204	1473209880658	1473209880801	i	73
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995227	1473209880762	1473209880915	t	84
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995230	1473209880898	1473209881033	e	69
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995236	1473209881102	1473209881258	d	68
+94101	1030080	Any other use is expressly prohibited.	Any other use is expressly prohibited.	48995241	1473209881319	1473209881412	.	190
+94101	1030093	Have a great day!	Have a great day!	48995512	1473209884670	1473209884983	SHIFT	16
+94101	1030093	Have a great day!	Have a great day!	48995518	1473209884898	1473209885016	H	72
+94101	1030093	Have a great day!	Have a great day!	48995523	1473209885056	1473209885166	a	65
+94101	1030093	Have a great day!	Have a great day!	48995527	1473209885231	1473209885346	v	86
+94101	1030093	Have a great day!	Have a great day!	48995530	1473209885333	1473209885463	e	69
+94101	1030093	Have a great day!	Have a great day!	48995581	1473209885447	1473209885554	 	32
+94101	1030093	Have a great day!	Have a great day!	48995585	1473209885526	1473209885659	a	65
+94101	1030093	Have a great day!	Have a great day!	48995590	1473209885620	1473209885744	 	32
+94101	1030093	Have a great day!	Have a great day!	48995596	1473209885724	1473209885911	g	71
+94101	1030093	Have a great day!	Have a great day!	48995601	1473209885900	1473209885962	e	69
+94101	1030093	Have a great day!	Have a great day!	48995608	1473209886417	1473209886548	BKSP	8
+94101	1030093	Have a great day!	Have a great day!	48995644	1473209886482	1473209886679	r	82
+94101	1030093	Have a great day!	Have a great day!	48995650	1473209886580	1473209886734	e	69
+94101	1030093	Have a great day!	Have a great day!	48995665	1473209886711	1473209886887	a	65
+94101	1030093	Have a great day!	Have a great day!	48995674	1473209886880	1473209887009	t	84
+94101	1030093	Have a great day!	Have a great day!	48995681	1473209886992	1473209887136	 	32
+94101	1030093	Have a great day!	Have a great day!	48995687	1473209887152	1473209887329	d	68
+94101	1030093	Have a great day!	Have a great day!	48995737	1473209887247	1473209887419	a	65
+94101	1030093	Have a great day!	Have a great day!	48995743	1473209887415	1473209887541	y	89
+94101	1030093	Have a great day!	Have a great day!	48995754	1473209887557	1473209888129	SHIFT	16
+94101	1030093	Have a great day!	Have a great day!	48995749	1473209887986	1473209888073	!	49
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995936	1473209890692	1473209891086	SHIFT	16
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995940	1473209891018	1473209891168	T	84
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995943	1473209891180	1473209891311	h	72
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995946	1473209891279	1473209891409	e	69
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995948	1473209891419	1473209891559	 	32
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995953	1473209891595	1473209891772	d	68
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995989	1473209891719	1473209891867	e	69
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995992	1473209891892	1473209892059	l	76
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995996	1473209891980	1473209892127	e	69
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48995999	1473209892200	1473209892304	g	71
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996003	1473209892369	1473209892562	a	65
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996026	1473209892517	1473209892683	t	84
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996028	1473209892614	1473209892800	i	73
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996031	1473209892741	1473209892859	o	79
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996035	1473209892914	1473209892996	n	78
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996041	1473209893053	1473209893150	 	32
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996046	1473209893185	1473209893303	i	73
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996120	1473209893241	1473209893366	s	83
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996123	1473209893358	1473209893479	 	32
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996127	1473209893467	1473209893567	t	84
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996131	1473209893820	1473209893935	o	79
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996134	1473209894007	1473209894128	 	32
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996143	1473209894332	1473209894483	v	86
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996145	1473209894440	1473209894534	i	73
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996154	1473209894560	1473209894714	s	83
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996168	1473209894611	1473209894719	i	73
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996176	1473209894754	1473209894878	t	84
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996183	1473209894915	1473209895012	 	32
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996202	1473209894990	1473209895132	a	65
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996204	1473209895101	1473209895194	 	32
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996207	1473209895263	1473209895406	m	77
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996209	1473209895305	1473209895416	e	69
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996217	1473209895498	1473209895627	t	84
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996249	1473209895623	1473209895785	a	65
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996254	1473209895707	1473209895801	l	76
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996258	1473209895863	1473209895984	 	32
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996260	1473209896148	1473209896311	w	87
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996262	1473209896225	1473209896341	o	79
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996319	1473209896329	1473209896435	r	82
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996322	1473209896441	1473209896553	k	75
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996325	1473209896537	1473209896664	s	83
+94101	1030104	The delegation is to visit a metal works.	The delegation is to visit a metal works.	48996330	1473209897139	1473209897254	.	190
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996497	1473209899291	1473209899773	SHIFT	16
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996493	1473209899641	1473209899724	I	73
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996499	1473209899846	1473209899968	 	32
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996501	1473209900016	1473209900128	h	72
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996503	1473209900040	1473209900187	a	65
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996505	1473209900191	1473209900311	v	86
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996511	1473209900289	1473209900432	e	69
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996514	1473209900399	1473209900510	 	32
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996515	1473209900543	1473209900706	a	65
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996520	1473209900641	1473209900772	l	76
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996526	1473209900765	1473209900925	r	82
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996551	1473209900863	1473209900984	e	69
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996554	1473209900975	1473209901154	a	65
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996560	1473209901106	1473209901228	d	68
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996565	1473209901209	1473209901310	y	89
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996571	1473209901389	1473209901496	 	32
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996638	1473209901454	1473209901617	a	65
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996644	1473209901607	1473209901676	p	80
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996653	1473209901767	1473209901869	p	80
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996661	1473209901908	1473209902032	r	82
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996668	1473209902029	1473209902153	o	79
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996675	1473209902501	1473209902648	v	86
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996713	1473209902726	1473209902828	e	69
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996717	1473209903078	1473209903218	d	68
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996720	1473209903209	1473209903319	 	32
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996724	1473209903293	1473209903452	a	65
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996736	1473209903398	1473209903495	n	78
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996740	1473209903433	1473209903557	d	68
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996744	1473209903567	1473209903681	 	32
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996749	1473209903652	1473209903783	f	70
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996753	1473209903780	1473209903893	o	79
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996760	1473209903864	1473209904060	r	82
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996800	1473209904034	1473209904243	w	87
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996801	1473209904132	1473209904331	a	65
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996804	1473209904277	1473209904429	r	82
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996808	1473209904530	1473209904703	d	68
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996811	1473209904664	1473209904757	e	69
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996816	1473209904843	1473209905034	d	68
+94101	1030115	I have already approved and forwarded.	I have already approved and forwarded.	48996807	1473209904997	1473209905119	.	190
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997044	1473209909328	1473209909738	SHIFT	16
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997046	1473209909644	1473209909803	S	83
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997049	1473209909788	1473209909894	h	72
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997053	1473209909905	1473209910051	e	69
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997057	1473209910001	1473209910100	 	32
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997062	1473209910118	1473209910240	h	72
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997079	1473209910147	1473209910338	a	65
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997082	1473209910260	1473209910420	s	83
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997085	1473209910364	1473209910490	 	32
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997087	1473209910482	1473209910632	a	65
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997089	1473209910694	1473209910818	b	66
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997117	1473209910773	1473209910936	s	83
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997121	1473209910950	1473209911043	o	79
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997129	1473209911125	1473209911262	l	76
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997135	1473209911365	1473209911494	u	85
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997140	1473209911488	1473209911630	t	84
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997162	1473209911608	1473209911771	e	69
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997168	1473209911716	1473209911843	l	76
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997178	1473209911859	1473209911973	y	89
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997185	1473209911978	1473209912117	 	32
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997189	1473209912088	1473209912202	e	69
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997194	1473209912241	1473209912376	v	86
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997211	1473209912399	1473209912571	e	69
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997217	1473209912500	1473209912652	r	82
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997222	1473209912629	1473209912731	y	89
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997227	1473209912753	1473209912874	t	84
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997262	1473209912829	1473209912946	h	72
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997266	1473209912936	1473209913074	i	73
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997271	1473209913037	1473209913152	n	78
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997274	1473209913097	1473209913220	g	71
+94101	1030129	She has absolutely everything.	She has absolutely everything.	48997277	1473209913429	1473209913553	.	190
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997458	1473209915977	1473209916347	SHIFT	16
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997455	1473209916219	1473209916330	I	73
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997462	1473209916405	1473209916497	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997466	1473209916549	1473209916637	j	74
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997470	1473209916715	1473209916823	s	85
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997486	1473209916930	1473209917051	t	84
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997491	1473209917048	1473209917159	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997495	1473209917117	1473209917323	w	87
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997511	1473209917221	1473209917398	a	65
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997507	1473209917296	1473209917391	n	78
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997517	1473209917412	1473209917512	t	84
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997522	1473209917469	1473209917587	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997529	1473209917551	1473209917669	t	84
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997535	1473209917666	1473209917760	o	79
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997539	1473209917848	1473209917919	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997563	1473209918001	1473209918125	m	77
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997567	1473209918046	1473209918233	a	65
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997572	1473209918153	1473209918266	k	75
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997578	1473209918290	1473209918432	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997582	1473209918587	1473209918698	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997594	1473209918674	1473209918795	s	83
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997597	1473209918790	1473209918910	u	85
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997603	1473209918872	1473209919038	r	82
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997606	1473209918966	1473209919113	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997610	1473209919077	1473209919198	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997633	1473209919191	1473209919370	w	87
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997638	1473209919328	1473209919508	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997643	1473209919641	1473209919777	'	222
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997649	1473209919719	1473209919908	r	82
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997698	1473209919824	1473209919999	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997704	1473209919905	1473209920009	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997712	1473209920094	1473209920208	b	66
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997723	1473209920240	1473209920371	o	79
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997732	1473209920319	1473209920443	t	84
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997740	1473209920408	1473209920508	h	72
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997749	1473209920569	1473209920685	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997765	1473209920778	1473209920902	o	79
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997769	1473209920925	1473209921006	n	78
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997773	1473209921056	1473209921179	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997776	1473209921158	1473209921316	t	84
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997822	1473209921268	1473209921368	h	72
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997824	1473209921339	1473209921473	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997827	1473209921458	1473209921597	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997831	1473209921594	1473209921777	s	83
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997836	1473209921692	1473209921995	a	65
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997840	1473209922173	1473209922327	m	77
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997868	1473209922355	1473209922545	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997873	1473209922591	1473209922737	 	32
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997879	1473209922761	1473209922885	s	83
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997885	1473209922957	1473209923100	c	67
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997917	1473209923048	1473209923184	h	72
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997919	1473209923146	1473209923279	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997922	1473209923286	1473209923436	d	68
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997926	1473209923345	1473209923466	u	85
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997930	1473209923573	1473209923689	l	76
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997933	1473209923702	1473209923842	e	69
+94101	1030137	I just want to make sure we're both on the same schedule.	I just want to make sure we're both on the same schedule.	48997955	1473209923875	1473209924034	.	190
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998230	1473209928171	1473209928454	SHIFT	16
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998228	1473209928318	1473209928444	P	80
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998232	1473209928461	1473209928640	l	76
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998234	1473209928578	1473209928725	e	69
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998236	1473209928758	1473209928954	a	65
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998264	1473209928880	1473209929032	s	83
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998271	1473209929100	1473209929244	e	69
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998274	1473209929221	1473209929351	 	32
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998276	1473209929329	1473209929488	c	67
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998298	1473209929463	1473209929622	a	65
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998279	1473209929522	1473209929593	l	76
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998300	1473209929672	1473209929727	l	76
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998302	1473209930030	1473209930131	 	32
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998304	1473209930213	1473209930311	m	77
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998306	1473209930300	1473209930438	e	69
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998333	1473209930379	1473209930473	 	32
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998340	1473209930516	1473209930620	i	73
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998347	1473209930610	1473209930731	f	70
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998355	1473209930673	1473209930796	 	32
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998361	1473209930862	1473209930989	y	89
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998374	1473209930911	1473209931080	o	79
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998375	1473209931044	1473209931136	u	85
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998378	1473209931204	1473209931332	 	32
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998379	1473209931338	1473209931462	h	72
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998382	1473209931403	1473209931560	a	65
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998393	1473209931495	1473209931606	v	86
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998396	1473209931595	1473209931730	e	69
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998402	1473209931691	1473209931798	 	32
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998410	1473209931779	1473209931935	a	65
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998413	1473209931882	1473209931994	n	78
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998417	1473209932038	1473209932132	y	89
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998434	1473209932184	1473209932308	 	32
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998436	1473209932466	1473209932601	q	81
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998439	1473209932792	1473209932900	u	85
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998444	1473209932870	1473209932968	e	69
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998449	1473209933040	1473209933161	s	83
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998466	1473209933258	1473209933365	t	84
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998472	1473209933313	1473209933486	i	73
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998479	1473209933433	1473209933548	o	79
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998483	1473209933587	1473209933695	n	78
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998510	1473209933666	1473209933815	s	83
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998514	1473209933862	1473209934003	.	190
+94101	1030152	Please call me if you have any questions.	Please call me if you have any questions. 	48998521	1473209933993	1473209934133	 	32
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998707	1473209936198	1473209936545	SHIFT	16
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998713	1473209936428	1473209936561	I	73
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998717	1473209936630	1473209936747	t	84
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998719	1473209936868	1473209936981	'	222
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998720	1473209936959	1473209937112	s	83
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998749	1473209937096	1473209937197	 	32
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998750	1473209937266	1473209937389	n	78
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998751	1473209937385	1473209937490	o	79
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998752	1473209937461	1473209937592	t	84
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998754	1473209937543	1473209937654	 	32
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998755	1473209937719	1473209937800	l	76
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998769	1473209937884	1473209937979	o	79
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998771	1473209938028	1473209938143	o	79
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998774	1473209938205	1473209938316	k	75
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998777	1473209938374	1473209938473	i	73
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998781	1473209938486	1473209938594	n	78
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998808	1473209938613	1473209938731	g	71
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998812	1473209938682	1473209938799	 	32
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998815	1473209938833	1473209938943	t	84
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998816	1473209938892	1473209938959	o	79
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998818	1473209939020	1473209939109	o	79
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998847	1473209939173	1473209939286	 	32
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998852	1473209939198	1473209939318	g	71
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998856	1473209939364	1473209939459	o	79
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998862	1473209939504	1473209939589	o	79
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998868	1473209939791	1473209939959	d	68
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998872	1473209939919	1473209940037	 	32
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998874	1473209940084	1473209940190	i	73
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998876	1473209940164	1473209940314	s	83
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998878	1473209940269	1473209940377	 	32
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998880	1473209940402	1473209940504	i	73
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998921	1473209940471	1473209940592	t	84
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998924	1473209940968	1473209941100	>	190
+94101	1030166	It's not looking too good is it?	It's not looking too good is it	48998928	1473209941368	1473209941465	BKSP	8
+94101	1030177	We will keep trying.	We will keep trying. 	48999022	1473209943974	1473209944107	W	87
+94101	1030177	We will keep trying.	We will keep trying. 	48999027	1473209944176	1473209944309	e	69
+94101	1030177	We will keep trying.	We will keep trying. 	48999033	1473209944284	1473209944381	 	32
+94101	1030177	We will keep trying.	We will keep trying. 	48999042	1473209944414	1473209944573	w	87
+94101	1030177	We will keep trying.	We will keep trying. 	48999051	1473209944577	1473209944656	i	73
+94101	1030177	We will keep trying.	We will keep trying. 	48999063	1473209944763	1473209944834	l	76
+94101	1030177	We will keep trying.	We will keep trying. 	48999064	1473209944886	1473209944988	l	76
+94101	1030177	We will keep trying.	We will keep trying. 	48999066	1473209945108	1473209945205	 	32
+94101	1030177	We will keep trying.	We will keep trying. 	48999068	1473209945269	1473209945375	k	75
+94101	1030177	We will keep trying.	We will keep trying. 	48999093	1473209945342	1473209945460	e	69
+94101	1030177	We will keep trying.	We will keep trying. 	48999097	1473209945508	1473209945646	e	69
+94101	1030177	We will keep trying.	We will keep trying. 	48999100	1473209945584	1473209945669	p	80
+94101	1030177	We will keep trying.	We will keep trying. 	48999106	1473209945750	1473209945907	 	32
+94101	1030177	We will keep trying.	We will keep trying. 	48999111	1473209945831	1473209945933	t	84
+94101	1030177	We will keep trying.	We will keep trying. 	48999115	1473209946008	1473209946146	r	82
+94101	1030177	We will keep trying.	We will keep trying. 	48999133	1473209946094	1473209946165	y	89
+94101	1030177	We will keep trying.	We will keep trying. 	48999138	1473209946287	1473209946388	i	73
+94101	1030177	We will keep trying.	We will keep trying. 	48999143	1473209946424	1473209946535	n	78
+94101	1030177	We will keep trying.	We will keep trying. 	48999147	1473209946521	1473209946656	g	71
+94101	1030177	We will keep trying.	We will keep trying. 	48999149	1473209946682	1473209946825	.	190
+94101	1030177	We will keep trying.	We will keep trying. 	48999153	1473209946831	1473209946965	 	32
+94101	1030186	Hope all is well.	Hope all is well.	48999323	1473209948602	1473209949719	SHIFT	16
+94101	1030186	Hope all is well.	Hope all is well.	48999319	1473209949572	1473209949703	H	72
+94101	1030186	Hope all is well.	Hope all is well.	48999326	1473209949794	1473209949905	o	79
+94101	1030186	Hope all is well.	Hope all is well.	48999329	1473209949985	1473209950092	p	80
+94101	1030186	Hope all is well.	Hope all is well.	48999334	1473209950117	1473209950291	e	69
+94101	1030186	Hope all is well.	Hope all is well.	48999370	1473209950241	1473209950352	 	32
+94101	1030186	Hope all is well.	Hope all is well.	48999372	1473209950336	1473209950499	a	65
+94101	1030186	Hope all is well.	Hope all is well.	48999374	1473209950473	1473209950548	l	76
+94101	1030186	Hope all is well.	Hope all is well.	48999378	1473209950600	1473209950689	l	76
+94101	1030186	Hope all is well.	Hope all is well.	48999380	1473209950773	1473209950904	 	32
+94101	1030186	Hope all is well.	Hope all is well.	48999382	1473209951023	1473209951131	i	73
+94101	1030186	Hope all is well.	Hope all is well.	48999398	1473209951187	1473209951337	s	83
+94101	1030186	Hope all is well.	Hope all is well.	48999402	1473209951314	1473209951441	 	32
+94101	1030186	Hope all is well.	Hope all is well.	48999405	1473209951438	1473209951598	w	87
+94101	1030186	Hope all is well.	Hope all is well.	48999408	1473209951539	1473209951706	e	69
+94101	1030186	Hope all is well.	Hope all is well.	48999455	1473209951673	1473209951756	l	76
+94101	1030186	Hope all is well.	Hope all is well.	48999458	1473209951820	1473209951908	l	76
+94101	1030186	Hope all is well.	Hope all is well.	48999462	1473209952033	1473209952150	.	190
+94101	1030191	You can reply via email.	You can reply via email.	48999715	1473209954297	1473209955673	SHIFT	16
+94101	1030191	You can reply via email.	You can reply via email.	48999713	1473209955526	1473209955644	Y	89
+94101	1030191	You can reply via email.	You can reply via email.	48999722	1473209955717	1473209955878	o	79
+94101	1030191	You can reply via email.	You can reply via email.	48999729	1473209955835	1473209955940	u	85
+94101	1030191	You can reply via email.	You can reply via email.	48999739	1473209956032	1473209956169	 	32
+94101	1030191	You can reply via email.	You can reply via email.	48999748	1473209956125	1473209956241	c	67
+94101	1030191	You can reply via email.	You can reply via email.	48999758	1473209956239	1473209956408	a	65
+94101	1030191	You can reply via email.	You can reply via email.	48999767	1473209956322	1473209956411	n	78
+94101	1030191	You can reply via email.	You can reply via email.	48999775	1473209956456	1473209956600	 	32
+94101	1030191	You can reply via email.	You can reply via email.	48999778	1473209956526	1473209956709	r	82
+94101	1030191	You can reply via email.	You can reply via email.	48999829	1473209956632	1473209956799	e	69
+94101	1030191	You can reply via email.	You can reply via email.	48999832	1473209956701	1473209956848	p	80
+94101	1030191	You can reply via email.	You can reply via email.	48999835	1473209956820	1473209956943	l	76
+94101	1030191	You can reply via email.	You can reply via email.	48999840	1473209956962	1473209957083	y	89
+94101	1030191	You can reply via email.	You can reply via email.	48999844	1473209957098	1473209957220	 	32
+94101	1030191	You can reply via email.	You can reply via email.	48999846	1473209957299	1473209957436	v	86
+94101	1030191	You can reply via email.	You can reply via email.	48999948	1473209957397	1473209957514	i	73
+94101	1030191	You can reply via email.	You can reply via email.	48999952	1473209957573	1473209957744	a	65
+94101	1030191	You can reply via email.	You can reply via email.	48999958	1473209957735	1473209957843	 	32
+94101	1030191	You can reply via email.	You can reply via email.	48999963	1473209957908	1473209958026	a	65
+94101	1030191	You can reply via email.	You can reply via email.	48999969	1473209958173	1473209958277	BKSP	8
+94101	1030191	You can reply via email.	You can reply via email.	48999971	1473209958287	1473209958457	e	69
+94101	1030191	You can reply via email.	You can reply via email.	48999949	1473209958427	1473209958555	m	77
+94101	1030191	You can reply via email.	You can reply via email.	48999953	1473209958538	1473209958698	a	65
+94101	1030191	You can reply via email.	You can reply via email.	48999957	1473209958640	1473209958711	i	73
+94101	1030191	You can reply via email.	You can reply via email.	48999961	1473209958817	1473209958904	l	76
+94101	1030191	You can reply via email.	You can reply via email.	48999965	1473209959051	1473209959171	.	190
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000123	1473209961999	1473209962361	SHIFT	16
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000126	1473209962289	1473209962419	T	84
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000129	1473209962384	1473209962507	h	72
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000133	1473209962491	1473209962639	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000135	1473209962615	1473209962739	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000137	1473209962818	1473209962945	m	77
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000194	1473209962925	1473209963030	i	73
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000198	1473209963098	1473209963229	l	76
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000199	1473209963259	1473209963399	i	73
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000202	1473209963386	1473209963542	t	84
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000205	1473209963856	1473209964074	a	65
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000211	1473209964015	1473209964198	r	82
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000215	1473209964176	1473209964286	y	89
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000218	1473209964388	1473209964506	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000222	1473209964627	1473209964782	r	82
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000225	1473209964717	1473209964851	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000228	1473209964899	1473209965034	f	70
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000233	1473209965032	1473209965144	u	85
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000236	1473209965125	1473209965275	s	83
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000238	1473209965285	1473209965393	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000242	1473209965451	1473209965605	s	83
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000248	1473209965646	1473209965772	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000279	1473209965769	1473209965885	t	84
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000281	1473209965858	1473209965961	o	79
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000283	1473209966002	1473209966111	n	78
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000287	1473209966454	1473209966554	BKSP	8
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000290	1473209966674	1473209966789	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000293	1473209966844	1473209966988	l	76
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000335	1473209966922	1473209967108	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000336	1473209967062	1473209967213	a	65
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000337	1473209967405	1473209967589	v	86
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000339	1473209967694	1473209967846	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000341	1473209967805	1473209967918	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000344	1473209967987	1473209968118	p	80
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000363	1473209968113	1473209968264	o	79
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000364	1473209968215	1473209968391	w	87
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000366	1473209968349	1473209968456	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000368	1473209968528	1473209968646	r	82
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000370	1473209968636	1473209968744	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000377	1473209968695	1473209968858	a	65
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000380	1473209968825	1473209968923	d	78
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000383	1473209968989	1473209969161	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000386	1473209969090	1473209969289	r	82
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000474	1473209969233	1473209969328	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000476	1473209969447	1473209969583	s	83
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000479	1473209969970	1473209970083	r	82
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000481	1473209970790	1473209970858	t	84
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000484	1473209971017	1473209971093	BKSP	8
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000487	1473209971168	1473209971263	BKSP	8
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000492	1473209971378	1473209971510	t	84
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000527	1473209971494	1473209971644	o	79
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000532	1473209971634	1473209971827	r	82
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000539	1473209971762	1473209971928	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000543	1473209971915	1473209972039	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000549	1473209972196	1473209972385	d	68
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000578	1473209972307	1473209972453	e	69
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000580	1473209972407	1473209972574	m	77
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000582	1473209972590	1473209972724	o	79
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000584	1473209972744	1473209972960	c	67
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000586	1473209972891	1473209973002	r	82
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000590	1473209973091	1473209973260	a	65
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000639	1473209973225	1473209973378	c	67
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000642	1473209973521	1473209973630	y	89
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000646	1473209973725	1473209973850	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000648	1473209974022	1473209974159	b	66
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000653	1473209974185	1473209974287	y	89
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000657	1473209974355	1473209974476	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000677	1473209974499	1473209974708	SHIFT	16
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000680	1473209974604	1473209974738	M	77
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000683	1473209974785	1473209974943	a	65
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000686	1473209974952	1473209975047	y	89
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000692	1473209975328	1473209975538	2	50
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000760	1473209975472	1473209975665	1	49
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000763	1473209975654	1473209975763	.	190
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000766	1473209975950	1473209976029	BKSP	8
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000768	1473209976114	1473209976199	BKSP	8
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000769	1473209976273	1473209976346	BKSP	8
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000771	1473209976566	1473209976702	 	32
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000774	1473209976650	1473209976879	2	50
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000778	1473209976745	1473209976914	1	49
+94101	1030194	The military refuses to leave power and restore democracy by May 21.	The military refuses to leave power and restore democracy by May 21.	49000759	1473209976888	1473209977012	.	190
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000889	1473209979384	1473209979681	SHIFT	16
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000892	1473209979577	1473209979756	S	83
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000896	1473209979792	1473209979887	o	79
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000901	1473209979965	1473209980086	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000914	1473209980051	1473209980282	SHIFT	16
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000905	1473209980151	1473209980243	I	73
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000920	1473209980299	1473209980403	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000939	1473209980396	1473209980523	d	68
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000942	1473209980495	1473209980576	o	79
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000943	1473209980592	1473209980700	n	78
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000945	1473209981141	1473209981279	'	222
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000946	1473209981268	1473209981410	t	84
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000958	1473209981401	1473209981509	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000959	1473209981558	1473209981666	k	75
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000960	1473209981679	1473209981761	n	78
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000962	1473209981783	1473209981901	o	79
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000966	1473209981875	1473209982002	w	87
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000985	1473209981971	1473209982074	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000989	1473209982105	1473209982241	w	87
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000995	1473209982172	1473209982302	h	72
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49000998	1473209982296	1473209982404	o	79
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001004	1473209982459	1473209982577	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001007	1473209982645	1473209982763	i	73
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001103	1473209982742	1473209982874	t	84
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001108	1473209982871	1473209983011	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001112	1473209983419	1473209983554	BKSP	8
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001115	1473209984897	1473209985090	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001119	1473209985242	1473209985306	l	76
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001123	1473209985360	1473209985488	l	76
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001126	1473209985735	1473209985862	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001154	1473209986052	1473209986176	b	66
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001156	1473209986154	1473209986310	e	69
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001159	1473209986275	1473209986415	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001161	1473209986616	1473209986772	c	67
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001164	1473209986826	1473209987004	a	65
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001200	1473209987147	1473209987263	r	82
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001201	1473209987316	1473209987443	r	82
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001202	1473209987391	1473209987540	y	89
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001204	1473209987547	1473209987671	i	73
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001207	1473209987721	1473209987806	n	78
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001234	1473209987799	1473209987909	g	71
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001237	1473209987891	1473209987998	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001240	1473209988013	1473209988128	t	84
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001241	1473209988105	1473209988190	h	72
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001242	1473209988219	1473209988356	e	69
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001272	1473209988275	1473209988382	 	32
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001274	1473209988458	1473209988543	l	76
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001276	1473209988614	1473209988746	o	79
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001279	1473209988684	1473209988905	a	65
+94101	1030210	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load	49001286	1473209988875	1473209989019	d	68

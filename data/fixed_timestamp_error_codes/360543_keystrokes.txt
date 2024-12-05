@@ -1,0 +1,637 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+360543	3887356	John this message concerns me.	John this message concerns me.	184670616	1476930748750	1476930748928	SHIFT	16
+360543	3887356	John this message concerns me.	John this message concerns me.	184670624	1476930748858	1476930748947	J	74
+360543	3887356	John this message concerns me.	John this message concerns me.	184670632	1476930749006	1476930749114	o	79
+360543	3887356	John this message concerns me.	John this message concerns me.	184670637	1476930749214	1476930749283	h	72
+360543	3887356	John this message concerns me.	John this message concerns me.	184670641	1476930749372	1476930749452	n	78
+360543	3887356	John this message concerns me.	John this message concerns me.	184670647	1476930749480	1476930749580	 	32
+360543	3887356	John this message concerns me.	John this message concerns me.	184670656	1476930749703	1476930749712	h	84
+360543	3887356	John this message concerns me.	John this message concerns me.	184670659	1476930749762	1476930749859	i	73
+360543	3887356	John this message concerns me.	John this message concerns me.	184670665	1476930749820	1476930749912	s	83
+360543	3887356	John this message concerns me.	John this message concerns me.	184670669	1476930749931	1476930750012	 	32
+360543	3887356	John this message concerns me.	John this message concerns me.	184670692	1476930749976	1476930750072	m	77
+360543	3887356	John this message concerns me.	John this message concerns me.	184670695	1476930750080	1476930750135	e	69
+360543	3887356	John this message concerns me.	John this message concerns me.	184670705	1476930750244	1476930750298	s	83
+360543	3887356	John this message concerns me.	John this message concerns me.	184670709	1476930750344	1476930750431	s	83
+360543	3887356	John this message concerns me.	John this message concerns me.	184670717	1476930750458	1476930750560	a	65
+360543	3887356	John this message concerns me.	John this message concerns me.	184670725	1476930750568	1476930750663	g	71
+360543	3887356	John this message concerns me.	John this message concerns me.	184670741	1476930750702	1476930750802	e	69
+360543	3887356	John this message concerns me.	John this message concerns me.	184670743	1476930750788	1476930750878	 	32
+360543	3887356	John this message concerns me.	John this message concerns me.	184670745	1476930750951	1476930751064	c	67
+360543	3887356	John this message concerns me.	John this message concerns me.	184670747	1476930751044	1476930751103	o	79
+360543	3887356	John this message concerns me.	John this message concerns me.	184670749	1476930751117	1476930751216	n	78
+360543	3887356	John this message concerns me.	John this message concerns me.	184670791	1476930751256	1476930751299	c	67
+360543	3887356	John this message concerns me.	John this message concerns me.	184670798	1476930751382	1476930751488	e	69
+360543	3887356	John this message concerns me.	John this message concerns me.	184670807	1476930751450	1476930751533	r	82
+360543	3887356	John this message concerns me.	John this message concerns me.	184670813	1476930751541	1476930751616	n	78
+360543	3887356	John this message concerns me.	John this message concerns me.	184670817	1476930751659	1476930751766	s	83
+360543	3887356	John this message concerns me.	John this message concerns me.	184670861	1476930751774	1476930751845	 	32
+360543	3887356	John this message concerns me.	John this message concerns me.	184670865	1476930751895	1476930751960	m	77
+360543	3887356	John this message concerns me.	John this message concerns me.	184670872	1476930751974	1476930752019	e	69
+360543	3887356	John this message concerns me.	John this message concerns me.	184670878	1476930752099	1476930752179	.	190
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671171	1476930756854	1476930757039	SHIFT	16
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671170	1476930756942	1476930757030	I	73
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671173	1476930757074	1476930757165	 	32
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671175	1476930757174	1476930757329	a	65
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671177	1476930757325	1476930757367	m	77
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671213	1476930757352	1476930757437	 	32
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671219	1476930757442	1476930757523	s	83
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671223	1476930757509	1476930757587	o	79
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671227	1476930757631	1476930757700	r	82
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671230	1476930757740	1476930757823	r	82
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671232	1476930757830	1476930757932	y	89
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671276	1476930757859	1476930757967	 	32
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671280	1476930758058	1476930758116	y	89
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671287	1476930758141	1476930758271	o	79
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671293	1476930758212	1476930758327	u	85
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671297	1476930758341	1476930758434	 	32
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671304	1476930758480	1476930758566	h	72
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671329	1476930758611	1476930758689	a	65
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671334	1476930758663	1476930758776	d	68
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671337	1476930758799	1476930758880	 	32
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671346	1476930758889	1476930758963	t	84
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671357	1476930758973	1476930759101	o	79
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671388	1476930759012	1476930759144	 	32
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671395	1476930759145	1476930759223	c	67
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671401	1476930759209	1476930759288	o	79
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671406	1476930759332	1476930759412	m	77
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671413	1476930759420	1476930759478	e	69
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671422	1476930759463	1476930759677	 	32
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671424	1476930759677	1476930759681	i	73
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671428	1476930759682	1476930759792	n	78
+360543	3887375	I am sorry you had to come in.	I am sorry you had to come in.	184671432	1476930759867	1476930759899	.	190
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671880	1476930765304	1476930765431	SHIFT	16
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671885	1476930765365	1476930765459	S	83
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671889	1476930765502	1476930765577	h	72
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671895	1476930765586	1476930765656	e	69
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671899	1476930765684	1476930765756	 	32
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671901	1476930765815	1476930765934	p	80
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671969	1476930766489	1476930766493	o	79
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671971	1476930766524	1476930766595	r	82
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671975	1476930766718	1476930766803	o	79
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671980	1476930766847	1476930766920	b	66
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184671986	1476930766973	1476930767047	a	65
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672020	1476930767026	1476930767087	b	66
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672025	1476930767142	1476930767224	l	76
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672029	1476930767298	1476930767313	y	89
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672035	1476930767382	1476930767411	n	78
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672037	1476930767522	1476930767598	w	87
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672166	1476930767545	1476930767641	o	79
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672167	1476930767652	1476930767735	n	78
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672168	1476930767808	1476930767916	'	222
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672172	1476930767927	1476930767980	t	84
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672175	1476930768157	1476930768211	BKSP	8
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672182	1476930768285	1476930768341	BKSP	8
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672188	1476930768399	1476930768470	BKSP	8
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672194	1476930768519	1476930768583	BKSP	8
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672200	1476930768633	1476930768701	BKSP	8
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672202	1476930768755	1476930768813	BKSP	8
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672210	1476930768873	1476930768911	BKSP	8
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672214	1476930769435	1476930769532	y	89
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672219	1476930769553	1476930769634	 	32
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672217	1476930769740	1476930769824	w	87
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672224	1476930769802	1476930769901	o	79
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672229	1476930769910	1476930769995	n	78
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672234	1476930770029	1476930770126	'	222
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672237	1476930770136	1476930770200	t	84
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672265	1476930770237	1476930770324	 	32
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672270	1476930770458	1476930770594	c	67
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672278	1476930770545	1476930770605	o	79
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672283	1476930770669	1476930770746	m	77
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672288	1476930770755	1476930770847	e	69
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672333	1476930770819	1476930771037	 	32
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672337	1476930771038	1476930771042	n	78
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672342	1476930771043	1476930771087	e	69
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672347	1476930771221	1476930771321	x	88
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672351	1476930771415	1476930771485	t	84
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672355	1476930771506	1476930771569	 	32
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672366	1476930771702	1476930771750	y	89
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672368	1476930771760	1476930771841	e	69
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672371	1476930771865	1476930771971	a	65
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672373	1476930771938	1476930772036	r	82
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672413	1476930772021	1476930772112	 	32
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672417	1476930772113	1476930772193	e	69
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672421	1476930772248	1476930772318	i	73
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672424	1476930772358	1476930772433	t	84
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672426	1476930772460	1476930772525	h	72
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672427	1476930772536	1476930772614	e	69
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672428	1476930772589	1476930772672	r	82
+360543	3887381	She probably won't come next year either.	She porobably won't come next year either.	184672429	1476930772719	1476930772783	.	190
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672791	1476930776970	1476930777171	SHIFT	16
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672793	1476930777123	1476930777207	A	65
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672797	1476930777317	1476930777404	r	82
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672800	1476930777563	1476930777638	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672803	1476930777925	1476930777992	BKSP	8
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672806	1476930778021	1476930778095	e	69
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672808	1476930778106	1476930778191	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672826	1476930778278	1476930778348	y	89
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672828	1476930778397	1476930778508	o	79
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672830	1476930778472	1476930778571	u	85
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672832	1476930778552	1476930778635	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672836	1476930778646	1476930778721	s	83
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672854	1476930778732	1476930778804	u	85
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672857	1476930778838	1476930778949	r	82
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672863	1476930778919	1476930779014	e	69
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672865	1476930779042	1476930779118	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672868	1476930779128	1476930779291	SHIFT	16
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672916	1476930779214	1476930779334	I	73
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672920	1476930779393	1476930779494	d	68
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672922	1476930779480	1476930779546	o	79
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672925	1476930779720	1476930779902	BKSP	8
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672928	1476930779945	1476930780018	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672933	1476930780026	1476930780093	d	68
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184672937	1476930780102	1476930780204	o	79
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673026	1476930780244	1476930780289	n	78
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673034	1476930780439	1476930780490	BKSP	8
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673041	1476930780558	1476930780613	BKSP	8
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673046	1476930780687	1476930780732	BKSP	8
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673050	1476930780800	1476930780843	BKSP	8
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673052	1476930780907	1476930780961	BKSP	8
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673053	1476930781100	1476930781184	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673054	1476930781242	1476930781304	d	68
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673056	1476930781367	1476930781459	o	79
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673058	1476930781472	1476930781556	n	78
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673061	1476930781601	1476930781696	'	222
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673064	1476930781727	1476930781792	t	84
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673068	1476930781821	1476930781888	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673072	1476930781952	1476930782025	n	78
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673078	1476930782049	1476930782098	e	69
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673090	1476930782163	1476930782218	e	69
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673092	1476930782311	1476930782420	d	68
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673094	1476930782394	1476930782475	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673096	1476930782542	1476930782600	t	84
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673113	1476930782575	1476930782729	o	79
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673114	1476930782656	1476930782739	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673115	1476930782793	1476930782882	b	66
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673116	1476930782893	1476930782967	e	69
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673118	1476930782981	1476930783059	 	32
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673121	1476930783079	1476930783153	t	84
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673133	1476930783164	1476930783217	h	72
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673137	1476930783235	1476930783338	e	69
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673142	1476930783305	1476930783454	r	82
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673148	1476930783411	1476930783494	e	69
+360543	3887399	Are you sure I don't need to be there?	Are you sure I don't need to be there?	184673154	1476930783655	1476930783699	?	191
+360543	3887412	Can you help with this one?	Can you help with this one?	184673602	1476930789772	1476930789846	C	67
+360543	3887412	Can you help with this one?	Can you help with this one?	184673609	1476930789929	1476930790046	a	65
+360543	3887412	Can you help with this one?	Can you help with this one?	184673618	1476930790031	1476930790148	n	78
+360543	3887412	Can you help with this one?	Can you help with this one?	184673623	1476930790134	1476930790222	 	32
+360543	3887412	Can you help with this one?	Can you help with this one?	184673631	1476930790325	1476930790388	y	89
+360543	3887412	Can you help with this one?	Can you help with this one?	184673646	1476930790439	1476930790588	o	79
+360543	3887412	Can you help with this one?	Can you help with this one?	184673651	1476930790508	1476930790613	u	85
+360543	3887412	Can you help with this one?	Can you help with this one?	184673656	1476930790572	1476930790660	 	32
+360543	3887412	Can you help with this one?	Can you help with this one?	184673665	1476930790718	1476930790780	h	72
+360543	3887412	Can you help with this one?	Can you help with this one?	184673674	1476930790823	1476930790897	e	69
+360543	3887412	Can you help with this one?	Can you help with this one?	184673700	1476930790949	1476930790997	l	76
+360543	3887412	Can you help with this one?	Can you help with this one?	184673704	1476930791042	1476930791197	p	80
+360543	3887412	Can you help with this one?	Can you help with this one?	184673711	1476930791207	1476930791261	 	32
+360543	3887412	Can you help with this one?	Can you help with this one?	184673720	1476930791341	1476930791428	w	87
+360543	3887412	Can you help with this one?	Can you help with this one?	184673741	1476930791415	1476930791487	i	73
+360543	3887412	Can you help with this one?	Can you help with this one?	184673745	1476930791526	1476930791579	t	84
+360543	3887412	Can you help with this one?	Can you help with this one?	184673749	1476930791613	1476930791732	h	72
+360543	3887412	Can you help with this one?	Can you help with this one?	184673751	1476930791712	1476930791802	 	32
+360543	3887412	Can you help with this one?	Can you help with this one?	184673753	1476930791982	1476930792037	t	84
+360543	3887412	Can you help with this one?	Can you help with this one?	184673756	1476930792091	1476930792145	h	72
+360543	3887412	Can you help with this one?	Can you help with this one?	184673764	1476930792181	1476930792276	i	73
+360543	3887412	Can you help with this one?	Can you help with this one?	184673768	1476930792260	1476930792339	s	83
+360543	3887412	Can you help with this one?	Can you help with this one?	184673771	1476930792358	1476930792433	 	32
+360543	3887412	Can you help with this one?	Can you help with this one?	184673774	1476930792471	1476930792543	o	79
+360543	3887412	Can you help with this one?	Can you help with this one?	184673778	1476930792583	1476930792645	n	78
+360543	3887412	Can you help with this one?	Can you help with this one?	184673831	1476930792625	1476930792702	o	79
+360543	3887412	Can you help with this one?	Can you help with this one?	184673835	1476930792766	1476930792832	e	69
+360543	3887412	Can you help with this one?	Can you help with this one?	184673839	1476930793020	1476930793065	BKSP	8
+360543	3887412	Can you help with this one?	Can you help with this one?	184673842	1476930793117	1476930793179	BKSP	8
+360543	3887412	Can you help with this one?	Can you help with this one?	184673847	1476930793246	1476930793293	e	69
+360543	3887412	Can you help with this one?	Can you help with this one?	184673855	1476930793398	1476930793588	SHIFT	16
+360543	3887412	Can you help with this one?	Can you help with this one?	184673851	1476930793489	1476930793554	?	191
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674093	1476930798404	1476930798600	SHIFT	16
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674089	1476930798509	1476930798585	I	73
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674096	1476930798664	1476930798759	'	222
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674099	1476930798874	1476930798924	l	76
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674102	1476930798998	1476930799108	l	76
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674105	1476930799136	1476930799215	 	32
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674133	1476930799319	1476930799401	e	69
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674136	1476930799462	1476930799527	m	77
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674138	1476930799562	1476930799633	a	65
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674140	1476930799681	1476930799756	i	73
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674146	1476930799825	1476930799954	l	76
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674168	1476930799909	1476930800102	 	32
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674172	1476930800103	1476930800141	h	72
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674177	1476930800142	1476930800216	e	69
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674183	1476930800198	1476930800287	r	82
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674189	1476930800295	1476930800378	 	32
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674194	1476930800387	1476930800444	l	76
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674205	1476930800451	1476930800548	a	65
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674208	1476930800555	1476930800623	t	84
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674212	1476930800670	1476930800782	e	69
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674216	1476930800757	1476930800829	r	82
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674221	1476930800843	1476930800926	 	32
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674247	1476930800978	1476930801029	t	84
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674249	1476930801071	1476930801156	o	79
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674253	1476930801194	1476930801290	n	78
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674258	1476930801369	1476930801448	i	73
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674262	1476930801476	1476930801550	g	71
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674271	1476930801599	1476930801654	h	72
+360543	3887426	I'll email her later tonight.	I'll email her later tonight	184674273	1476930801709	1476930801775	t	84
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674574	1476930806685	1476930806903	SHIFT	16
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674576	1476930806826	1476930806929	S	83
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674580	1476930807014	1476930807116	h	72
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674586	1476930807123	1476930807182	e	69
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674593	1476930807220	1476930807298	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674600	1476930807312	1476930807397	w	87
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674619	1476930807473	1476930807571	a	65
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674621	1476930807530	1476930807617	s	83
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674624	1476930807602	1476930807709	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674627	1476930807733	1476930807801	g	71
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674630	1476930807808	1476930807929	o	79
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674640	1476930807939	1476930808027	i	73
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674643	1476930808095	1476930808190	n	78
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674647	1476930808230	1476930808295	g	71
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674649	1476930808329	1476930808423	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674652	1476930808449	1476930808499	t	84
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674671	1476930808545	1476930808668	o	79
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674674	1476930808604	1476930808729	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674677	1476930808778	1476930808856	l	76
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674682	1476930808866	1476930808951	e	69
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674683	1476930808970	1476930809045	a	65
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674694	1476930809088	1476930809142	v	86
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674700	1476930809197	1476930809270	e	69
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674705	1476930809298	1476930809373	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674711	1476930809379	1476930809495	a	65
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674781	1476930809459	1476930809552	t	84
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674783	1476930809609	1476930809703	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674787	1476930810298	1476930810388	8	56
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674788	1476930810427	1476930810513	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674792	1476930810533	1476930810639	o	79
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674793	1476930810647	1476930810710	r	82
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674845	1476930810751	1476930810807	 	32
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674849	1476930810931	1476930811004	9	57
+360543	3887433	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	184674853	1476930811508	1476930811672	.	190
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675216	1476930818556	1476930818958	SHIFT	16
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675219	1476930818891	1476930818971	I	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675221	1476930819085	1476930819152	t	84
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675223	1476930819186	1476930819256	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675225	1476930819290	1476930819385	w	87
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675244	1476930819371	1476930819466	o	79
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675250	1476930819438	1476930819504	u	85
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675255	1476930819544	1476930819657	l	76
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675259	1476930819636	1476930819709	d	68
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675270	1476930819692	1476930819771	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675274	1476930819832	1476930819919	b	66
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675290	1476930819884	1476930819971	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675291	1476930819995	1476930820068	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675294	1476930820157	1476930820244	w	87
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675296	1476930820253	1476930820319	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675299	1476930820354	1476930820454	s	83
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675301	1476930820519	1476930820598	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675308	1476930820636	1476930820712	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675311	1476930820736	1476930820805	t	84
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675314	1476930820814	1476930820950	o	79
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675315	1476930820896	1476930820961	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675318	1476930821055	1476930821133	k	75
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675342	1476930821119	1476930821234	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675343	1476930821268	1476930821414	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675345	1476930821415	1476930821460	p	80
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675349	1476930821488	1476930821543	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675354	1476930821728	1476930821748	h	72
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675356	1476930821851	1476930821895	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675396	1476930822109	1476930822182	m	77
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675397	1476930822286	1476930822355	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675400	1476930822395	1476930822462	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675402	1476930822526	1476930822585	n	78
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675404	1476930822634	1476930822708	a	65
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675430	1476930822787	1476930822867	c	67
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675431	1476930822966	1476930823033	t	84
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675432	1476930823061	1476930823114	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675433	1476930823127	1476930823190	v	86
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675435	1476930823245	1476930823331	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675470	1476930823317	1476930823388	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675472	1476930823478	1476930823535	u	85
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675475	1476930823623	1476930823689	n	78
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675476	1476930823768	1476930823821	t	84
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675479	1476930823860	1476930823934	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675480	1476930823951	1476930824090	l	76
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675514	1476930824075	1476930824142	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675521	1476930824190	1476930824268	h	72
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675528	1476930824253	1476930824318	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675538	1476930824363	1476930824445	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675547	1476930824431	1476930824539	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675554	1476930824546	1476930824612	s	83
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675585	1476930824655	1476930824744	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675588	1476930824848	1476930824898	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675592	1476930825002	1476930825051	f	70
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675599	1476930825125	1476930825178	f	70
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675607	1476930825191	1476930825291	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675632	1476930825375	1476930825445	c	67
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675638	1476930825546	1476930825602	t	84
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675645	1476930825622	1476930825701	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675653	1476930825711	1476930825772	v	86
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675659	1476930825830	1476930825925	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675691	1476930825871	1476930825978	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675695	1476930825972	1476930826032	i	73
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675699	1476930826070	1476930826178	n	78
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675701	1476930826164	1476930826242	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675704	1476930826251	1476930826354	a	65
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675706	1476930826384	1476930826454	 	32
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675743	1476930826728	1476930826795	g	71
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675747	1476930826860	1476930826950	a	65
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675751	1476930826959	1476930827040	v	86
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675754	1476930827055	1476930827132	m	77
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675757	1476930827195	1476930827256	e	69
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675820	1476930827979	1476930827983	.	190
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675824	1476930827984	1476930827987	BKSP	8
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675828	1476930827988	1476930827990	BKSP	8
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675832	1476930827991	1476930827994	BKSP	8
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675836	1476930827996	1476930828047	m	77
+360543	3887446	It would be wise to keep him inactive until he is effective in a game.	It would be wise to keep him inactive until he is effective in a gavme	184675841	1476930828119	1476930828177	e	69
+360543	3887468	Probably will be working.	Probably will be working.	184676106	1476930832734	1476930832896	SHIFT	16
+360543	3887468	Probably will be working.	Probably will be working.	184676109	1476930832796	1476930832915	P	80
+360543	3887468	Probably will be working.	Probably will be working.	184676113	1476930832994	1476930833074	r	82
+360543	3887468	Probably will be working.	Probably will be working.	184676117	1476930833062	1476930833148	o	79
+360543	3887468	Probably will be working.	Probably will be working.	184676120	1476930833217	1476930833287	b	66
+360543	3887468	Probably will be working.	Probably will be working.	184676123	1476930833300	1476930833378	a	65
+360543	3887468	Probably will be working.	Probably will be working.	184676139	1476930833426	1476930833468	b	66
+360543	3887468	Probably will be working.	Probably will be working.	184676144	1476930833558	1476930833635	l	76
+360543	3887468	Probably will be working.	Probably will be working.	184676150	1476930833735	1476930833819	y	89
+360543	3887468	Probably will be working.	Probably will be working.	184676156	1476930833805	1476930833881	 	32
+360543	3887468	Probably will be working.	Probably will be working.	184676161	1476930833904	1476930833989	w	87
+360543	3887468	Probably will be working.	Probably will be working.	184676251	1476930833969	1476930834090	i	73
+360543	3887468	Probably will be working.	Probably will be working.	184676253	1476930834098	1476930834340	l	76
+360543	3887468	Probably will be working.	Probably will be working.	184676255	1476930834296	1476930834388	 	32
+360543	3887468	Probably will be working.	Probably will be working.	184676257	1476930834445	1476930834517	b	66
+360543	3887468	Probably will be working.	Probably will be working.	184676258	1476930834715	1476930834757	BKSP	8
+360543	3887468	Probably will be working.	Probably will be working.	184676260	1476930834822	1476930834934	BKSP	8
+360543	3887468	Probably will be working.	Probably will be working.	184676262	1476930835188	1476930835255	 	32
+360543	3887468	Probably will be working.	Probably will be working.	184676265	1476930835468	1476930835519	BKSP	8
+360543	3887468	Probably will be working.	Probably will be working.	184676270	1476930835638	1476930835750	l	76
+360543	3887468	Probably will be working.	Probably will be working.	184676280	1476930835812	1476930835870	 	32
+360543	3887468	Probably will be working.	Probably will be working.	184676282	1476930835929	1476930836005	b	66
+360543	3887468	Probably will be working.	Probably will be working.	184676286	1476930836026	1476930836092	e	69
+360543	3887468	Probably will be working.	Probably will be working.	184676289	1476930836148	1476930836210	 	32
+360543	3887468	Probably will be working.	Probably will be working.	184676292	1476930836283	1476930836362	w	87
+360543	3887468	Probably will be working.	Probably will be working.	184676304	1476930836369	1476930836440	o	79
+360543	3887468	Probably will be working.	Probably will be working.	184676308	1476930836465	1476930836533	r	82
+360543	3887468	Probably will be working.	Probably will be working.	184676310	1476930836557	1476930836636	k	75
+360543	3887468	Probably will be working.	Probably will be working.	184676313	1476930836710	1476930836765	i	73
+360543	3887468	Probably will be working.	Probably will be working.	184676317	1476930836808	1476930836893	n	78
+360543	3887468	Probably will be working.	Probably will be working.	184676327	1476930836901	1476930836957	g	71
+360543	3887468	Probably will be working.	Probably will be working.	184676330	1476930837135	1476930837221	.	190
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676660	1476930844209	1476930844472	SHIFT	16
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676663	1476930844400	1476930844486	Y	89
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676668	1476930844557	1476930844686	o	79
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676671	1476930844661	1476930844769	u	85
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676673	1476930844777	1476930844822	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676675	1476930844881	1476930844945	g	71
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676691	1476930844996	1476930845110	e	69
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676695	1476930845213	1476930845279	t	84
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676699	1476930845374	1476930845446	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676706	1476930845474	1476930845539	i	73
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676713	1476930845589	1476930845689	n	78
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676749	1476930845659	1476930845755	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676750	1476930845778	1476930845848	t	84
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676753	1476930846033	1476930846141	a	65
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676756	1476930846349	1476930846385	BKSP	8
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676760	1476930846402	1476930846479	r	82
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676764	1476930846519	1476930846609	a	65
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676768	1476930846629	1476930846713	f	70
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676780	1476930846771	1476930846828	f	70
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676782	1476930846902	1476930846970	i	73
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676784	1476930846954	1476930847038	c	67
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676786	1476930847152	1476930847237	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676790	1476930847305	1476930847384	a	65
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676819	1476930847364	1476930847450	n	78
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676821	1476930847466	1476930847551	d	68
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676823	1476930847537	1476930847609	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676826	1476930848071	1476930848153	y	89
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676829	1476930848229	1476930848336	o	79
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676833	1476930848276	1476930848437	u	85
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676836	1476930848392	1476930848449	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676839	1476930848498	1476930848570	h	72
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676842	1476930848577	1476930848667	a	65
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676843	1476930848653	1476930848701	v	86
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676845	1476930848771	1476930848847	e	69
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676864	1476930848832	1476930848907	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676866	1476930849054	1476930849145	d	68
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676867	1476930849153	1476930849224	o	79
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676869	1476930849274	1476930849348	g	71
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676871	1476930849513	1476930849580	f	70
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676873	1476930849605	1476930849667	i	73
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676880	1476930849756	1476930849816	g	71
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676884	1476930849835	1476930849896	h	72
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676889	1476930849946	1476930850014	t	84
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676893	1476930850097	1476930850195	s	83
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676896	1476930850201	1476930850266	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676903	1476930850311	1476930850358	a	65
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676905	1476930850340	1476930850424	n	78
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676908	1476930850456	1476930850518	d	68
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676912	1476930850488	1476930850571	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676927	1476930850641	1476930850807	SHIFT	16
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676916	1476930850705	1476930850796	I	73
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676931	1476930850843	1476930850891	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676934	1476930850923	1476930851022	f	70
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676938	1476930851003	1476930851093	o	79
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676942	1476930851142	1476930851198	r	82
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676944	1476930851538	1476930851609	g	71
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676972	1476930851690	1476930851774	e	69
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676973	1476930851787	1476930851860	t	84
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676974	1476930851899	1476930851977	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676976	1476930852036	1476930852149	I	16
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184676979	1476930852684	1476930852758	;	186
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677028	1476930852866	1476930852938	m	77
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677032	1476930853251	1476930853276	BKSP	8
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677037	1476930853340	1476930853401	BKSP	8
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677040	1476930853507	1476930853634	'	222
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677042	1476930853694	1476930853785	m	77
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677044	1476930853819	1476930853915	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677046	1476930853943	1476930854016	o	79
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677047	1476930854061	1476930854144	n	78
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677048	1476930854130	1476930854207	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677051	1476930854242	1476930854343	a	65
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677054	1476930854367	1476930854467	n	78
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677057	1476930854512	1476930854578	 	32
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677065	1476930854690	1476930854754	o	79
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677069	1476930854818	1476930854884	v	86
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677073	1476930854932	1476930855062	a	65
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677079	1476930855049	1476930855127	l	76
+360543	3887479	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	184677083	1476930855191	1476930855276	.	190
+360543	3887490	She has a web address.	She has a web address.	184677188	1476930858318	1476930858456	SHIFT	16
+360543	3887490	She has a web address.	She has a web address.	184677190	1476930858370	1476930858490	S	83
+360543	3887490	She has a web address.	She has a web address.	184677193	1476930858500	1476930858566	h	72
+360543	3887490	She has a web address.	She has a web address.	184677195	1476930858588	1476930858674	e	69
+360543	3887490	She has a web address.	She has a web address.	184677197	1476930858694	1476930858755	 	32
+360543	3887490	She has a web address.	She has a web address.	184677199	1476930858835	1476930858907	h	72
+360543	3887490	She has a web address.	She has a web address.	184677211	1476930858893	1476930859011	a	65
+360543	3887490	She has a web address.	She has a web address.	184677215	1476930858985	1476930859108	s	83
+360543	3887490	She has a web address.	She has a web address.	184677220	1476930859094	1476930859183	 	32
+360543	3887490	She has a web address.	She has a web address.	184677224	1476930859191	1476930859279	a	65
+360543	3887490	She has a web address.	She has a web address.	184677226	1476930859260	1476930859356	 	32
+360543	3887490	She has a web address.	She has a web address.	184677227	1476930859420	1476930859478	v	86
+360543	3887490	She has a web address.	She has a web address.	184677294	1476930859727	1476930859761	BKSP	8
+360543	3887490	She has a web address.	She has a web address.	184677297	1476930859864	1476930859909	BKSP	8
+360543	3887490	She has a web address.	She has a web address.	184677302	1476930860002	1476930860084	w	69
+360543	3887490	She has a web address.	She has a web address.	184677305	1476930860212	1476930860266	BKSP	8
+360543	3887490	She has a web address.	She has a web address.	184677308	1476930860406	1476930860498	 	32
+360543	3887490	She has a web address.	She has a web address.	184677311	1476930860677	1476930860744	BKSP	8
+360543	3887490	She has a web address.	She has a web address.	184677313	1476930860798	1476930860876	BKSP	8
+360543	3887490	She has a web address.	She has a web address.	184677315	1476930860944	1476930861043	 	32
+360543	3887490	She has a web address.	She has a web address.	184677317	1476930861081	1476930861194	w	87
+360543	3887490	She has a web address.	She has a web address.	184677351	1476930861339	1476930861343	e	69
+360543	3887490	She has a web address.	She has a web address.	184677355	1476930861384	1476930861475	b	66
+360543	3887490	She has a web address.	She has a web address.	184677359	1476930861629	1476930861710	 	32
+360543	3887490	She has a web address.	She has a web address.	184677364	1476930862189	1476930862306	a	65
+360543	3887490	She has a web address.	She has a web address.	184677365	1476930862337	1476930862397	s	83
+360543	3887490	She has a web address.	She has a web address.	184677395	1476930862625	1476930862681	BKSP	8
+360543	3887490	She has a web address.	She has a web address.	184677400	1476930862724	1476930862779	d	68
+360543	3887490	She has a web address.	She has a web address.	184677404	1476930862834	1476930862922	d	68
+360543	3887490	She has a web address.	She has a web address.	184677409	1476930863025	1476930863101	r	82
+360543	3887490	She has a web address.	She has a web address.	184677414	1476930863114	1476930863217	e	69
+360543	3887490	She has a web address.	She has a web address.	184677418	1476930863310	1476930863378	s	83
+360543	3887490	She has a web address.	She has a web address.	184677422	1476930863424	1476930863517	s	83
+360543	3887490	She has a web address.	She has a web address.	184677424	1476930863552	1476930863607	.	190
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677596	1476930867406	1476930867585	SHIFT	16
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677597	1476930867480	1476930867601	S	83
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677598	1476930867685	1476930867786	c	67
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677599	1476930867811	1476930867905	o	79
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677601	1476930868030	1476930868089	t	84
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677603	1476930868142	1476930868211	t	84
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677606	1476930868261	1476930868351	y	89
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677608	1476930868322	1476930868411	 	32
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677610	1476930868419	1476930868490	a	65
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677611	1476930868492	1476930868591	n	78
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677620	1476930868577	1476930868692	d	68
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677624	1476930868623	1476930868720	 	32
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677632	1476930868755	1476930868915	SHIFT	16
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677628	1476930868812	1476930868901	I	73
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677635	1476930868957	1476930869064	 	32
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677636	1476930869071	1476930869174	w	87
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677637	1476930869181	1476930869238	i	73
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677638	1476930869313	1476930869385	l	76
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677640	1476930869433	1476930869539	l	76
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677644	1476930869498	1476930869561	 	32
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677647	1476930869629	1476930869716	b	66
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677668	1476930869685	1476930869758	e	69
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677673	1476930869775	1476930869871	 	32
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677675	1476930869882	1476930869956	i	73
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677679	1476930870029	1476930870120	n	78
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677682	1476930870146	1476930870235	 	32
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677719	1476930870253	1476930871092	SHIFT	16
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677683	1476930870364	1476930870445	N	78
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677711	1476930870671	1476930870741	Y	89
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677714	1476930870832	1476930870934	C	67
+360543	3887501	Scotty and I will be in NYC.	Scotty and I will be in NYC.	184677724	1476930871140	1476930871243	.	190
+360543	3887511	I hope you feel better.	I hope you feel better	184677863	1476930874370	1476930874589	SHIFT	16
+360543	3887511	I hope you feel better.	I hope you feel better	184677862	1476930874463	1476930874575	I	73
+360543	3887511	I hope you feel better.	I hope you feel better	184677866	1476930874597	1476930874649	 	32
+360543	3887511	I hope you feel better.	I hope you feel better	184677869	1476930874703	1476930874792	h	72
+360543	3887511	I hope you feel better.	I hope you feel better	184677873	1476930874801	1476930874950	o	79
+360543	3887511	I hope you feel better.	I hope you feel better	184677895	1476930874901	1476930875033	p	80
+360543	3887511	I hope you feel better.	I hope you feel better	184677898	1476930875060	1476930875134	e	69
+360543	3887511	I hope you feel better.	I hope you feel better	184677900	1476930875168	1476930875258	 	32
+360543	3887511	I hope you feel better.	I hope you feel better	184677902	1476930875321	1476930875394	y	89
+360543	3887511	I hope you feel better.	I hope you feel better	184677906	1476930875418	1476930875593	o	79
+360543	3887511	I hope you feel better.	I hope you feel better	184677916	1476930875517	1476930875649	u	85
+360543	3887511	I hope you feel better.	I hope you feel better	184677918	1476930875580	1476930875682	 	32
+360543	3887511	I hope you feel better.	I hope you feel better	184677920	1476930875666	1476930875718	f	70
+360543	3887511	I hope you feel better.	I hope you feel better	184677922	1476930875766	1476930875823	e	69
+360543	3887511	I hope you feel better.	I hope you feel better	184677924	1476930875900	1476930875965	e	69
+360543	3887511	I hope you feel better.	I hope you feel better	184677926	1476930875974	1476930876133	l	76
+360543	3887511	I hope you feel better.	I hope you feel better	184677953	1476930876072	1476930876181	 	32
+360543	3887511	I hope you feel better.	I hope you feel better	184677957	1476930876301	1476930876390	b	66
+360543	3887511	I hope you feel better.	I hope you feel better	184677960	1476930876408	1476930876466	e	69
+360543	3887511	I hope you feel better.	I hope you feel better	184677963	1476930876575	1476930876629	t	84
+360543	3887511	I hope you feel better.	I hope you feel better	184677965	1476930876693	1476930876765	t	84
+360543	3887511	I hope you feel better.	I hope you feel better	184677968	1476930876823	1476930876919	e	69
+360543	3887511	I hope you feel better.	I hope you feel better	184677967	1476930876893	1476930876990	r	82
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678181	1476930881273	1476930881513	SHIFT	16
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678180	1476930881391	1476930881461	J	74
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678183	1476930881555	1476930881619	i	73
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678185	1476930881704	1476930881813	m	77
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678187	1476930881799	1476930881899	 	32
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678191	1476930881947	1476930882077	p	80
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678216	1476930882175	1476930882255	l	76
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678219	1476930882265	1476930882330	e	69
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678223	1476930882369	1476930882435	a	65
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678227	1476930882505	1476930882615	s	83
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678230	1476930882669	1476930882731	e	69
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678245	1476930882787	1476930882857	 	32
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678248	1476930882971	1476930883062	c	67
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678252	1476930883041	1476930883115	o	79
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678258	1476930883138	1476930883232	n	78
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678262	1476930883252	1476930883319	f	70
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678299	1476930883370	1476930883428	i	73
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678300	1476930883438	1476930883527	c	67
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678302	1476930883557	1476930883684	m	77
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678304	1476930883925	1476930883965	BKSP	8
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678306	1476930884030	1476930884097	BKSP	8
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678309	1476930884131	1476930884193	r	82
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678313	1476930884213	1476930884303	m	77
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678336	1476930884288	1476930884457	 	32
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678340	1476930884500	1476930884662	t	84
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678343	1476930884553	1476930884676	o	79
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678347	1476930884650	1476930884694	 	32
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678352	1476930884719	1476930884881	SHIFT	16
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678355	1476930884814	1476930884907	V	86
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678359	1476930884927	1476930884980	i	73
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678382	1476930885039	1476930885142	n	78
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678384	1476930885144	1476930885199	c	67
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678387	1476930885253	1476930885326	e	69
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678388	1476930885311	1476930885406	 	32
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678390	1476930885480	1476930885561	y	89
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678400	1476930885600	1476930885750	o	79
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678403	1476930885666	1476930885812	u	85
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678406	1476930885758	1476930885859	 	32
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678409	1476930885869	1476930885983	a	65
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678458	1476930885968	1476930886058	r	82
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678462	1476930886107	1476930886181	e	69
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678465	1476930886524	1476930886602	 	32
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678471	1476930886671	1476930886768	h	72
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678476	1476930886753	1476930886843	a	65
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678479	1476930886883	1476930886928	p	80
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678489	1476930886997	1476930887063	p	80
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678493	1476930887123	1476930887193	y	89
+360543	3887519	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	184678496	1476930887296	1476930887386	.	190
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678675	1476930892135	1476930892381	SHIFT	16
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678673	1476930892295	1476930892374	T	84
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678678	1476930892357	1476930892427	H	72
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678680	1476930892470	1476930892549	e	69
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678682	1476930892534	1476930892619	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678691	1476930892604	1476930892705	o	79
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678695	1476930892732	1476930892805	t	84
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678697	1476930892814	1476930892874	h	72
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678699	1476930892908	1476930892998	e	69
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678701	1476930892953	1476930893038	r	82
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678703	1476930893052	1476930893090	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678763	1476930893208	1476930893251	BKSP	8
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678764	1476930893942	1476930893986	BKSP	8
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678765	1476930894639	1476930894708	r	82
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678767	1476930894781	1476930894855	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678769	1476930894915	1476930894982	f	70
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678772	1476930895025	1476930895103	i	73
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678775	1476930895147	1476930895202	g	71
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678779	1476930895283	1476930895333	u	85
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678781	1476930895382	1476930895494	r	82
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678784	1476930895468	1476930895565	e	69
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678786	1476930895571	1476930895631	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678798	1476930895611	1476930895701	i	73
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678800	1476930895779	1476930895859	s	83
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678805	1476930895868	1476930895954	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678810	1476930895978	1476930896041	t	84
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678813	1476930896048	1476930896127	h	72
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678830	1476930896083	1476930896186	e	69
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678831	1476930896135	1476930896224	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678833	1476930896297	1476930896385	t	84
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678837	1476930896372	1476930896538	o	79
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678840	1476930896472	1476930896637	p	80
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678844	1476930896645	1476930896746	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678898	1476930896864	1476930896946	1	49
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678903	1476930897085	1476930897156	5	53
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678907	1476930897201	1476930897296	 	32
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678910	1476930897555	1476930897699	c	67
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678913	1476930897713	1476930897797	o	79
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678940	1476930897865	1476930897931	n	78
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678941	1476930897939	1476930898029	t	84
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678942	1476930898098	1476930898196	r	82
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678944	1476930898245	1476930898346	a	65
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678947	1476930898410	1476930898483	c	67
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678964	1476930898612	1476930898647	t	84
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678966	1476930898721	1476930898819	s	83
+360543	3887528	The other figure is the top 15 contracts.	THe other figure is the top 15 contracts.	184678969	1476930898857	1476930898930	.	190

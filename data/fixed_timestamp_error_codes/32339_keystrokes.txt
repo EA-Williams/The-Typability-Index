@@ -1,0 +1,631 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+32339	347366	Because there is traffic.	Because there is traffic.	16502664	1472322817937	1472322818256	SHIFT	16
+32339	347366	Because there is traffic.	Because there is traffic.	16502666	1472322818163	1472322818257	NA	66
+32339	347366	Because there is traffic.	Because there is traffic.	16502667	1472322818363	1472322818568	NA	69
+32339	347366	Because there is traffic.	Because there is traffic.	16502668	1472322818600	1472322818750	NA	67
+32339	347366	Because there is traffic.	Because there is traffic.	16502669	1472322818713	1472322818830	NA	65
+32339	347366	Because there is traffic.	Because there is traffic.	16502670	1472322818877	1472322818994	NA	85
+32339	347366	Because there is traffic.	Because there is traffic.	16502688	1472322819031	1472322819112	NA	83
+32339	347366	Because there is traffic.	Because there is traffic.	16502689	1472322819173	1472322819256	NA	32
+32339	347366	Because there is traffic.	Because there is traffic.	16502690	1472322819291	1472322819364	NA	69
+32339	347366	Because there is traffic.	Because there is traffic.	16502691	1472322819559	1472322819620		8
+32339	347366	Because there is traffic.	Because there is traffic.	16502693	1472322819681	1472322819765		8
+32339	347366	Because there is traffic.	Because there is traffic.	16502714	1472322819833	1472322819886	NA	69
+32339	347366	Because there is traffic.	Because there is traffic.	16502715	1472322820081	1472322820159	NA	32
+32339	347366	Because there is traffic.	Because there is traffic.	16502716	1472322820259	1472322820343	NA	84
+32339	347366	Because there is traffic.	Because there is traffic.	16502717	1472322820405	1472322820459	NA	72
+32339	347366	Because there is traffic.	Because there is traffic.	16502718	1472322820461	1472322820608	NA	69
+32339	347366	Because there is traffic.	Because there is traffic.	16502724	1472322820578	1472322820719	NA	82
+32339	347366	Because there is traffic.	Because there is traffic.	16502725	1472322820678	1472322820787	NA	69
+32339	347366	Because there is traffic.	Because there is traffic.	16502726	1472322820802	1472322820892	NA	32
+32339	347366	Because there is traffic.	Because there is traffic.	16502727	1472322821005	1472322821113	NA	73
+32339	347366	Because there is traffic.	Because there is traffic.	16502728	1472322821091	1472322821174	NA	83
+32339	347366	Because there is traffic.	Because there is traffic.	16502729	1472322821222	1472322821287	NA	32
+32339	347366	Because there is traffic.	Because there is traffic.	16502761	1472322821431	1472322821533	NA	84
+32339	347366	Because there is traffic.	Because there is traffic.	16502763	1472322821861	1472322821969	NA	82
+32339	347366	Because there is traffic.	Because there is traffic.	16502765	1472322821976	1472322822106	NA	65
+32339	347366	Because there is traffic.	Because there is traffic.	16502766	1472322822229	1472322822325	NA	70
+32339	347366	Because there is traffic.	Because there is traffic.	16502767	1472322822422	1472322822502	NA	70
+32339	347366	Because there is traffic.	Because there is traffic.	16502779	1472322822557	1472322822673	NA	73
+32339	347366	Because there is traffic.	Because there is traffic.	16502781	1472322822692	1472322822770	NA	67
+32339	347366	Because there is traffic.	Because there is traffic.	16502784	1472322822807	1472322822964	NA	190
+32339	347369	Take what you can get.	Take what you can get.	16502837	1472322825138	1472322825467	SHIFT	16
+32339	347369	Take what you can get.	Take what you can get.	16502835	1472322825341	1472322825457	NA	84
+32339	347369	Take what you can get.	Take what you can get.	16502839	1472322825602	1472322825683	NA	65
+32339	347369	Take what you can get.	Take what you can get.	16502841	1472322825749	1472322825826	NA	75
+32339	347369	Take what you can get.	Take what you can get.	16502843	1472322825847	1472322825930	NA	69
+32339	347369	Take what you can get.	Take what you can get.	16502845	1472322825978	1472322826052	NA	32
+32339	347369	Take what you can get.	Take what you can get.	16502878	1472322826544	1472322826631	NA	87
+32339	347369	Take what you can get.	Take what you can get.	16502881	1472322826686	1472322826766	NA	72
+32339	347369	Take what you can get.	Take what you can get.	16502884	1472322826775	1472322826875	NA	65
+32339	347369	Take what you can get.	Take what you can get.	16502887	1472322827092	1472322827167	NA	84
+32339	347369	Take what you can get.	Take what you can get.	16502889	1472322827270	1472322827345	NA	32
+32339	347369	Take what you can get.	Take what you can get.	16502920	1472322827490	1472322827566	NA	89
+32339	347369	Take what you can get.	Take what you can get.	16502922	1472322827699	1472322827834	NA	79
+32339	347369	Take what you can get.	Take what you can get.	16502924	1472322827861	1472322827960	NA	85
+32339	347369	Take what you can get.	Take what you can get.	16502925	1472322828040	1472322828128	NA	32
+32339	347369	Take what you can get.	Take what you can get.	16502926	1472322828189	1472322828311	NA	67
+32339	347369	Take what you can get.	Take what you can get.	16502938	1472322828261	1472322828373	NA	65
+32339	347369	Take what you can get.	Take what you can get.	16502939	1472322828347	1472322828432	NA	78
+32339	347369	Take what you can get.	Take what you can get.	16502940	1472322828512	1472322828592	NA	32
+32339	347369	Take what you can get.	Take what you can get.	16502941	1472322829004	1472322829082	NA	71
+32339	347369	Take what you can get.	Take what you can get.	16502942	1472322829072	1472322829224	NA	69
+32339	347369	Take what you can get.	Take what you can get.	16502945	1472322829172	1472322829286	NA	84
+32339	347373	Nick makes work fun.	NIck names work fun.	16503094	1472322829388	1472322834848	NA	190
+32339	347373	Nick makes work fun.	NIck names work fun.	16502989	1472322831306	1472322831542	SHIFT	16
+32339	347373	Nick makes work fun.	NIck names work fun.	16502986	1472322831435	1472322831508	NA	78
+32339	347373	Nick makes work fun.	NIck names work fun.	16502991	1472322831522	1472322831627	NA	73
+32339	347373	Nick makes work fun.	NIck names work fun.	16502993	1472322831698	1472322831782	NA	67
+32339	347373	Nick makes work fun.	NIck names work fun.	16502995	1472322831839	1472322831912	NA	75
+32339	347373	Nick makes work fun.	NIck names work fun.	16502997	1472322832005	1472322832065	NA	32
+32339	347373	Nick makes work fun.	NIck names work fun.	16503011	1472322832143	1472322832224	NA	78
+32339	347373	Nick makes work fun.	NIck names work fun.	16503013	1472322832214	1472322832295	NA	65
+32339	347373	Nick makes work fun.	NIck names work fun.	16503015	1472322832342	1472322832418	NA	77
+32339	347373	Nick makes work fun.	NIck names work fun.	16503016	1472322832426	1472322832516	NA	69
+32339	347373	Nick makes work fun.	NIck names work fun.	16503017	1472322832595	1472322832682	NA	83
+32339	347373	Nick makes work fun.	NIck names work fun.	16503044	1472322832705	1472322832791	NA	32
+32339	347373	Nick makes work fun.	NIck names work fun.	16503046	1472322832981	1472322833064	NA	87
+32339	347373	Nick makes work fun.	NIck names work fun.	16503048	1472322833097	1472322833191	NA	79
+32339	347373	Nick makes work fun.	NIck names work fun.	16503049	1472322833255	1472322833337	NA	82
+32339	347373	Nick makes work fun.	NIck names work fun.	16503050	1472322833543	1472322833628	NA	75
+32339	347373	Nick makes work fun.	NIck names work fun.	16503076	1472322833983	1472322834065	NA	32
+32339	347373	Nick makes work fun.	NIck names work fun.	16503079	1472322834310	1472322834394	NA	70
+32339	347373	Nick makes work fun.	NIck names work fun.	16503085	1472322834402	1472322834519	NA	85
+32339	347373	Nick makes work fun.	NIck names work fun.	16503091	1472322834494	1472322834596	NA	78
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503169	1472322836899	1472322837251	SHIFT	16
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503172	1472322837175	1472322837266	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503175	1472322837575	1472322837629	NA	86
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503178	1472322837678	1472322837809	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503182	1472322837788	1472322837889	NA	82
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503186	1472322837975	1472322838066	NA	89
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503242	1472322838142	1472322838232	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503244	1472322838567	1472322838806	SHIFT	16
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503243	1472322838709	1472322838796	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503245	1472322838900	1472322838988	NA	82
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503246	1472322839853	1472322839935		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503247	1472322840042	1472322840121	NA	78
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503266	1472322840168	1472322840267	NA	82
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503267	1472322840285	1472322840448	NA	79
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503269	1472322840355	1472322840456	NA	78
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503273	1472322840534	1472322840616	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503276	1472322840811	1472322840850	NA	87
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503298	1472322840879	1472322840976	NA	77
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503300	1472322841501	1472322841563		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503302	1472322841639	1472322841717		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503303	1472322842117	1472322842152	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503304	1472322842450	1472322842527	NA	77
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503310	1472322842590	1472322842750	NA	80
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503311	1472322842672	1472322842804	NA	76
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503312	1472322842937	1472322843061	NA	79
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503313	1472322843200	1472322843272	NA	89
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503314	1472322843357	1472322843442	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503329	1472322843499	1472322843594	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503331	1472322843659	1472322843752	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503333	1472322843914	1472322843927	NA	78
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503334	1472322844145	1472322844236	NA	72
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503357	1472322844225	1472322844360	NA	65
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503360	1472322844279	1472322844399	NA	83
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503364	1472322844408	1472322844479	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503367	1472322844534	1472322844638	NA	65
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503369	1472322845069	1472322845135		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503371	1472322845209	1472322845277		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503389	1472322845341	1472322845421		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503391	1472322845485	1472322845564		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503393	1472322845644	1472322845694		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503396	1472322845759	1472322845844		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503399	1472322846332	1472322846421	NA	72
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503425	1472322846430	1472322846579	NA	65
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503428	1472322846507	1472322846621	NA	83
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503430	1472322846649	1472322846730	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503433	1472322846963	1472322847056	NA	65
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503436	1472322847072	1472322847161	NA	78
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503447	1472322847227	1472322847309	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503449	1472322847570	1472322847709	NA	73
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503451	1472322847637	1472322847742	NA	78
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503453	1472322847793	1472322847899	NA	84
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503461	1472322847883	1472322848069	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503463	1472322847992	1472322848119	NA	82
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503465	1472322848158	1472322848279	NA	78
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503467	1472322848257	1472322848419	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503469	1472322848354	1472322848461	NA	84
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503472	1472322848487	1472322848581	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503489	1472322848739	1472322848799	NA	87
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503490	1472322849255	1472322849316		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503491	1472322849376	1472322849449	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503492	1472322849475	1472322849554	NA	77
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503493	1472322849578	1472322849675	NA	65
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503504	1472322849665	1472322849806	NA	73
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503505	1472322849728	1472322849841	NA	76
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503506	1472322849892	1472322849977	NA	32
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503508	1472322850034	1472322850215	NA	65
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503511	1472322850355	1472322850425	NA	68
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503514	1472322850509	1472322850573	NA	68
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503534	1472322850848	1472322850932		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503537	1472322850939	1472322851048	NA	82
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503539	1472322851001	1472322851102	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503540	1472322851550	1472322851614		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503541	1472322851685	1472322851791		8
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503565	1472322851936	1472322852034	NA	68
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503567	1472322852136	1472322852280	NA	82
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503570	1472322852223	1472322852334	NA	69
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503571	1472322852583	1472322852637	NA	83
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503574	1472322852703	1472322852775	NA	83
+32339	347376	Every Enron employee has an internet email address.	Every Enron employee has an internet email address.	16503581	1472322853030	1472322853165	NA	190
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503675	1472322855088	1472322855718	SHIFT	16
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503676	1472322855640	1472322855726	NA	73
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503677	1472322855805	1472322855868	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503678	1472322856190	1472322856274		8
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503679	1472322856298	1472322856369	NA	222
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503681	1472322856408	1472322856480	NA	76
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503690	1472322856540	1472322856612	NA	76
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503691	1472322856687	1472322856757	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503692	1472322857038	1472322857142	NA	67
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503693	1472322857094	1472322857214	NA	65
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503694	1472322857222	1472322857277	NA	76
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503697	1472322857358	1472322857429	NA	76
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503698	1472322857492	1472322857581	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503699	1472322857756	1472322857838	NA	89
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503700	1472322857940	1472322858042	NA	79
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503701	1472322858073	1472322858177	NA	85
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503723	1472322858243	1472322858340	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503724	1472322858424	1472322858560	NA	87
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503725	1472322858831	1472322858911	NA	72
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503726	1472322858931	1472322859021	NA	69
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503727	1472322859047	1472322859116	NA	78
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503759	1472322859188	1472322859264	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503763	1472322859306	1472322859560	SHIFT	16
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503761	1472322859439	1472322859527	NA	73
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503765	1472322859607	1472322859688	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503767	1472322859944	1472322860044	NA	71
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503771	1472322860076	1472322860245	NA	69
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503780	1472322860212	1472322860322	NA	84
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503781	1472322860369	1472322860460	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503782	1472322860639	1472322860739	NA	84
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503783	1472322860745	1472322860820	NA	79
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503784	1472322860872	1472322860964	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503785	1472322861023	1472322861117	NA	84
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503796	1472322861143	1472322861222	NA	72
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503797	1472322861230	1472322861319	NA	69
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503798	1472322861339	1472322861410	NA	32
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503799	1472322861503	1472322861579	NA	79
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503800	1472322861637	1472322861716	NA	70
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503811	1472322861783	1472322861876	NA	70
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503813	1472322861893	1472322861990	NA	73
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503815	1472322862016	1472322862164	NA	67
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503817	1472322862118	1472322862227	NA	69
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503820	1472322862348	1472322862445	NA	190
+32339	347386	I'll call you when I get to the office.	I'll call you when I get to the office..	16503818	1472322862467	1472322862496	NA	190
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503896	1472322864481	1472322864786	SHIFT	16
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503897	1472322864698	1472322864795	NA	76
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503899	1472322864897	1472322864945	NA	79
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503901	1472322865006	1472322865132	NA	79
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503903	1472322865086	1472322865180	NA	75
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503905	1472322865267	1472322865350	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503927	1472322865628	1472322865722	NA	70
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503928	1472322865729	1472322865832	NA	79
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503929	1472322865822	1472322865906	NA	82
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503930	1472322865925	1472322865992	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503932	1472322866051	1472322866254	SHIFT	16
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503965	1472322866178	1472322866263	NA	77
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503967	1472322866548	1472322866631	NA	65
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503969	1472322866941	1472322867050		8
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503970	1472322867118	1472322867225	NA	67
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503971	1472322867523	1472322867799	SHIFT	16
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503972	1472322867691	1472322867812	NA	67
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503973	1472322867937	1472322868077	NA	65
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503981	1472322868052	1472322868145	NA	82
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503982	1472322868583	1472322868659	NA	68
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503983	1472322868727	1472322868805	NA	69
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503984	1472322868873	1472322868929	NA	76
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503985	1472322869012	1472322869076	NA	76
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503986	1472322869130	1472322869220	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503993	1472322869363	1472322869467	NA	84
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503994	1472322869479	1472322869569	NA	79
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503995	1472322869632	1472322869700	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16503996	1472322869903	1472322870080	NA	80
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504008	1472322869980	1472322870098	NA	76
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504009	1472322870132	1472322870224	NA	65
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504010	1472322870299	1472322870396	NA	89
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504011	1472322870468	1472322870572	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504012	1472322871016	1472322871164	NA	87
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504046	1472322871146	1472322871251	NA	69
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504050	1472322871355	1472322871399	NA	76
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504054	1472322871478	1472322871557	NA	76
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504057	1472322871624	1472322871719	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504060	1472322872422	1472322872501	NA	84
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504063	1472322872529	1472322872632	NA	72
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504071	1472322872563	1472322872693	NA	73
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504073	1472322872682	1472322872762	NA	83
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504074	1472322872789	1472322872865	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504076	1472322872946	1472322873035	NA	87
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504077	1472322873220	1472322873308	NA	69
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504079	1472322873364	1472322873467	NA	69
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504113	1472322874063	1472322874134	NA	75
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504115	1472322874194	1472322874274	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504117	1472322874282	1472322874378	NA	65
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504119	1472322874388	1472322874474	NA	78
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504121	1472322874492	1472322874583	NA	68
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504153	1472322874635	1472322874710	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504154	1472322875153	1472322875277	NA	67
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504155	1472322875241	1472322875361	NA	65
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504156	1472322875442	1472322875539	NA	84
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504157	1472322875707	1472322875803	NA	67
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504186	1472322875842	1472322875924	NA	72
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504189	1472322876016	1472322876111	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504192	1472322876280	1472322876370	NA	65
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504194	1472322876398	1472322876486	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504195	1472322876601	1472322876694	NA	76
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504213	1472322876776	1472322876871	NA	79
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504214	1472322876935	1472322877004	NA	84
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504215	1472322877129	1472322877219	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504217	1472322877345	1472322877457	NA	79
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504220	1472322877546	1472322877645	NA	70
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504253	1472322877655	1472322877742	NA	32
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504255	1472322878404	1472322878464	NA	80
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504259	1472322878485	1472322878540	NA	65
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504263	1472322878660	1472322878742	NA	83
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504269	1472322878813	1472322878887	NA	83
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504283	1472322878961	1472322879037	NA	69
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504284	1472322879116	1472322879208	NA	83
+32339	347394	Look for McCardell to play well this week and catch a lot of passes.	Look for McCardell to play well this week and catch a lot of passes.	16504286	1472322879229	1472322879332	NA	190
+32339	347400	This seems fine to me.	This seems fine to me.	16504340	1472322881185	1472322881557	SHIFT	16
+32339	347400	This seems fine to me.	This seems fine to me.	16504339	1472322881451	1472322881547	NA	84
+32339	347400	This seems fine to me.	This seems fine to me.	16504341	1472322881581	1472322881654	NA	72
+32339	347400	This seems fine to me.	This seems fine to me.	16504342	1472322881634	1472322881752	NA	73
+32339	347400	This seems fine to me.	This seems fine to me.	16504343	1472322881722	1472322881815	NA	83
+32339	347400	This seems fine to me.	This seems fine to me.	16504344	1472322881846	1472322881931	NA	32
+32339	347400	This seems fine to me.	This seems fine to me.	16504352	1472322882104	1472322882205	NA	83
+32339	347400	This seems fine to me.	This seems fine to me.	16504354	1472322882278	1472322882361	NA	69
+32339	347400	This seems fine to me.	This seems fine to me.	16504356	1472322882429	1472322882450	NA	77
+32339	347400	This seems fine to me.	This seems fine to me.	16504358	1472322882543	1472322882585	NA	69
+32339	347400	This seems fine to me.	This seems fine to me.	16504360	1472322882847	1472322882913		8
+32339	347400	This seems fine to me.	This seems fine to me.	16504368	1472322882975	1472322883056		8
+32339	347400	This seems fine to me.	This seems fine to me.	16504370	1472322883075	1472322883144	NA	69
+32339	347400	This seems fine to me.	This seems fine to me.	16504374	1472322883192	1472322883272	NA	77
+32339	347400	This seems fine to me.	This seems fine to me.	16504377	1472322883309	1472322883389	NA	83
+32339	347400	This seems fine to me.	This seems fine to me.	16504380	1472322883458	1472322883542	NA	32
+32339	347400	This seems fine to me.	This seems fine to me.	16504391	1472322884119	1472322884197	NA	70
+32339	347400	This seems fine to me.	This seems fine to me.	16504393	1472322884178	1472322884340	NA	73
+32339	347400	This seems fine to me.	This seems fine to me.	16504394	1472322884248	1472322884346	NA	78
+32339	347400	This seems fine to me.	This seems fine to me.	16504395	1472322884325	1472322884408	NA	69
+32339	347400	This seems fine to me.	This seems fine to me.	16504396	1472322884443	1472322884534	NA	32
+32339	347400	This seems fine to me.	This seems fine to me.	16504400	1472322884552	1472322884631	NA	84
+32339	347400	This seems fine to me.	This seems fine to me.	16504402	1472322884669	1472322884760	NA	79
+32339	347400	This seems fine to me.	This seems fine to me.	16504404	1472322884817	1472322884895	NA	32
+32339	347400	This seems fine to me.	This seems fine to me.	16504405	1472322884970	1472322885065	NA	77
+32339	347400	This seems fine to me.	This seems fine to me.	16504406	1472322885030	1472322885114	NA	69
+32339	347400	This seems fine to me.	This seems fine to me.	16504409	1472322885206	1472322885322	NA	190
+32339	347404	I might have something at the office.	I might have something at the office.	16504472	1472322887299	1472322887619	SHIFT	16
+32339	347404	I might have something at the office.	I might have something at the office.	16504471	1472322887518	1472322887605	NA	73
+32339	347404	I might have something at the office.	I might have something at the office.	16504474	1472322887664	1472322887726	NA	32
+32339	347404	I might have something at the office.	I might have something at the office.	16504476	1472322887812	1472322887911	NA	77
+32339	347404	I might have something at the office.	I might have something at the office.	16504478	1472322887879	1472322888017	NA	73
+32339	347404	I might have something at the office.	I might have something at the office.	16504480	1472322888182	1472322888270	NA	71
+32339	347404	I might have something at the office.	I might have something at the office.	16504489	1472322888362	1472322888442	NA	72
+32339	347404	I might have something at the office.	I might have something at the office.	16504491	1472322888450	1472322888533	NA	84
+32339	347404	I might have something at the office.	I might have something at the office.	16504493	1472322888566	1472322888649	NA	32
+32339	347404	I might have something at the office.	I might have something at the office.	16504495	1472322889163	1472322889255	NA	72
+32339	347404	I might have something at the office.	I might have something at the office.	16504497	1472322889264	1472322889349	NA	65
+32339	347404	I might have something at the office.	I might have something at the office.	16504507	1472322889467	1472322889611	NA	86
+32339	347404	I might have something at the office.	I might have something at the office.	16504508	1472322889559	1472322889679	NA	69
+32339	347404	I might have something at the office.	I might have something at the office.	16504509	1472322889809	1472322889923	NA	32
+32339	347404	I might have something at the office.	I might have something at the office.	16504510	1472322890495	1472322890572	NA	83
+32339	347404	I might have something at the office.	I might have something at the office.	16504511	1472322890619	1472322890782	NA	79
+32339	347404	I might have something at the office.	I might have something at the office.	16504519	1472322890709	1472322890804	NA	77
+32339	347404	I might have something at the office.	I might have something at the office.	16504521	1472322890812	1472322890913	NA	69
+32339	347404	I might have something at the office.	I might have something at the office.	16504523	1472322891015	1472322891103	NA	84
+32339	347404	I might have something at the office.	I might have something at the office.	16504525	1472322891160	1472322891251	NA	72
+32339	347404	I might have something at the office.	I might have something at the office.	16504526	1472322891241	1472322891441	NA	73
+32339	347404	I might have something at the office.	I might have something at the office.	16504533	1472322891363	1472322891484	NA	78
+32339	347404	I might have something at the office.	I might have something at the office.	16504534	1472322891474	1472322891583	NA	71
+32339	347404	I might have something at the office.	I might have something at the office.	16504535	1472322891592	1472322891674	NA	32
+32339	347404	I might have something at the office.	I might have something at the office.	16504536	1472322892094	1472322892229	NA	65
+32339	347404	I might have something at the office.	I might have something at the office.	16504537	1472322892318	1472322892396	NA	84
+32339	347404	I might have something at the office.	I might have something at the office.	16504538	1472322892407	1472322892493	NA	32
+32339	347404	I might have something at the office.	I might have something at the office.	16504553	1472322892607	1472322892697	NA	84
+32339	347404	I might have something at the office.	I might have something at the office.	16504555	1472322892712	1472322892805	NA	72
+32339	347404	I might have something at the office.	I might have something at the office.	16504557	1472322892820	1472322892917	NA	69
+32339	347404	I might have something at the office.	I might have something at the office.	16504559	1472322892934	1472322893010	NA	32
+32339	347404	I might have something at the office.	I might have something at the office.	16504562	1472322893190	1472322893285	NA	79
+32339	347404	I might have something at the office.	I might have something at the office.	16504569	1472322893401	1472322893472	NA	70
+32339	347404	I might have something at the office.	I might have something at the office.	16504571	1472322893533	1472322893624	NA	70
+32339	347404	I might have something at the office.	I might have something at the office.	16504573	1472322893688	1472322893776	NA	73
+32339	347404	I might have something at the office.	I might have something at the office.	16504575	1472322893743	1472322893872	NA	67
+32339	347404	I might have something at the office.	I might have something at the office.	16504578	1472322893830	1472322893944	NA	69
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504625	1472322895778	1472322896066	SHIFT	16
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504624	1472322895940	1472322896024	NA	73
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504626	1472322896097	1472322896178	NA	32
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504628	1472322896938	1472322897020	NA	84
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504630	1472322897056	1472322897172	NA	72
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504655	1472322897147	1472322897317	NA	73
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504656	1472322897283	1472322897400	NA	78
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504657	1472322897855	1472322897931	NA	75
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504658	1472322897987	1472322898075	NA	32
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504659	1472322898063	1472322898173	NA	87
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504660	1472322898484	1472322898569	NA	69
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504674	1472322898607	1472322898698	NA	32
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504675	1472322899014	1472322899094	NA	83
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504676	1472322899126	1472322899208	NA	72
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504677	1472322899277	1472322899428	NA	79
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504689	1472322899354	1472322899461	NA	85
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504690	1472322899565	1472322899692	NA	76
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504691	1472322899682	1472322899770	NA	68
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504692	1472322899806	1472322899884	NA	32
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504693	1472322900234	1472322900317	NA	67
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504694	1472322900420	1472322900543	NA	79
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504707	1472322900534	1472322900641	NA	78
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504709	1472322900683	1472322900761	NA	83
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504711	1472322900781	1472322900867	NA	73
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504713	1472322900943	1472322901058	NA	68
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504715	1472322901129	1472322901318	NA	69
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504725	1472322901266	1472322901343	NA	82
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504727	1472322901361	1472322901455	NA	32
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504729	1472322901825	1472322901887	NA	84
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504730	1472322902056	1472322902216	NA	72
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504731	1472322902159	1472322902273	NA	73
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504738	1472322902231	1472322902321	NA	83
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504739	1472322902376	1472322902458	NA	32
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504740	1472322902697	1472322902823	NA	82
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504741	1472322902773	1472322902882	NA	69
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504742	1472322902984	1472322903081	NA	81
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504743	1472322903098	1472322903198	NA	85
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504749	1472322903207	1472322903300	NA	69
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504750	1472322903380	1472322903470	NA	83
+32339	347407	I think we should consider this request.	I think we should consider this request.	16504751	1472322903509	1472322903605	NA	84
+32339	347412	What a nice note.	WHat a nice note.	16504789	1472322905768	1472322906203	SHIFT	16
+32339	347412	What a nice note.	WHat a nice note.	16504788	1472322905961	1472322906020	NA	69
+32339	347412	What a nice note.	WHat a nice note.	16504790	1472322906436	1472322906525		8
+32339	347412	What a nice note.	WHat a nice note.	16504791	1472322906535	1472322906717	SHIFT	16
+32339	347412	What a nice note.	WHat a nice note.	16504792	1472322906621	1472322906725	NA	87
+32339	347412	What a nice note.	WHat a nice note.	16504793	1472322906705	1472322906783	NA	72
+32339	347412	What a nice note.	WHat a nice note.	16504794	1472322906846	1472322906972	NA	65
+32339	347412	What a nice note.	WHat a nice note.	16504800	1472322907003	1472322907081	NA	84
+32339	347412	What a nice note.	WHat a nice note.	16504801	1472322907090	1472322907164	NA	32
+32339	347412	What a nice note.	WHat a nice note.	16504802	1472322907219	1472322907318	NA	65
+32339	347412	What a nice note.	WHat a nice note.	16504803	1472322907309	1472322907384	NA	32
+32339	347412	What a nice note.	WHat a nice note.	16504804	1472322907522	1472322907640	NA	78
+32339	347412	What a nice note.	WHat a nice note.	16504811	1472322907584	1472322907695	NA	73
+32339	347412	What a nice note.	WHat a nice note.	16504813	1472322907751	1472322907912	NA	67
+32339	347412	What a nice note.	WHat a nice note.	16504815	1472322907860	1472322907973	NA	69
+32339	347412	What a nice note.	WHat a nice note.	16504817	1472322908120	1472322908207	NA	32
+32339	347412	What a nice note.	WHat a nice note.	16504819	1472322908323	1472322908451	NA	78
+32339	347412	What a nice note.	WHat a nice note.	16504826	1472322908399	1472322908533	NA	79
+32339	347412	What a nice note.	WHat a nice note.	16504827	1472322908567	1472322908654	NA	84
+32339	347412	What a nice note.	WHat a nice note.	16504828	1472322908772	1472322908864	NA	69
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504869	1472322910828	1472322911088	SHIFT	16
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504867	1472322910942	1472322911056	NA	65
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504871	1472322911102	1472322911171	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504872	1472322911513	1472322911606	NA	71
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504873	1472322911740	1472322911818	NA	82
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504874	1472322911895	1472322912006	NA	79
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504890	1472322912107	1472322912180	NA	87
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504891	1472322912857	1472322913013	NA	73
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504892	1472322912942	1472322913044	NA	78
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504893	1472322913030	1472322913138	NA	71
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504894	1472322913149	1472322913237	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504907	1472322913563	1472322913678	NA	78
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504909	1472322913741	1472322913848	NA	85
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504911	1472322913926	1472322914018	NA	77
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504914	1472322914121	1472322914201	NA	66
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504917	1472322914255	1472322914402	NA	69
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504938	1472322914331	1472322914440	NA	82
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504939	1472322914462	1472322914551	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504940	1472322914958	1472322915058	NA	79
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504941	1472322915097	1472322915180	NA	70
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504942	1472322915216	1472322915293	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504949	1472322915388	1472322915802	SHIFT	16
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504943	1472322915711	1472322915783	NA	85
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504951	1472322916105	1472322916508	SHIFT	16
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504950	1472322916279	1472322916383	NA	83
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504952	1472322916452	1472322916529	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504953	1472322917209	1472322917289	NA	72
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504954	1472322917361	1472322917494	NA	79
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504965	1472322917435	1472322917528	NA	85
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504966	1472322917864	1472322917957	NA	83
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504967	1472322918034	1472322918114	NA	69
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504968	1472322918451	1472322918537	NA	72
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504969	1472322918648	1472322918750	NA	79
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504970	1472322918821	1472322918911	NA	76
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504971	1472322918920	1472322919015	NA	68
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504972	1472322919147	1472322919212	NA	83
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504973	1472322919253	1472322919333	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504974	1472322919506	1472322919666	NA	65
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504997	1472322919632	1472322919739	NA	82
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504998	1472322919807	1472322919900	NA	69
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16504999	1472322919939	1472322920015	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505000	1472322920446	1472322920525	NA	74
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505001	1472322920578	1472322920742	NA	79
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505008	1472322920666	1472322920783	NA	73
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505009	1472322920899	1472322921008	NA	78
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505010	1472322920985	1472322921044	NA	71
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505011	1472322921337	1472322921413		8
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505012	1472322921534	1472322921635	NA	78
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505033	1472322921606	1472322921800	NA	73
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505034	1472322921749	1472322921856	NA	78
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505035	1472322922096	1472322922155		8
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505036	1472322922219	1472322922280		8
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505037	1472322922343	1472322922419		8
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505038	1472322922821	1472322922944	NA	73
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505050	1472322922960	1472322923075	NA	78
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505051	1472322923116	1472322923181	NA	71
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505052	1472322923286	1472322923368	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505053	1472322923805	1472322923890	NA	84
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505054	1472322923907	1472322923989	NA	72
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505080	1472322924082	1472322924118	NA	69
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505082	1472322924180	1472322924219	NA	69
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505084	1472322924557	1472322924620		8
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505086	1472322924743	1472322924810	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505087	1472322924914	1472322925086	NA	77
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505099	1472322925057	1472322925120	NA	73
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505100	1472322925684	1472322925755	NA	68
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505101	1472322925821	1472322925912	NA	68
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505102	1472322925924	1472322926006	NA	76
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505103	1472322926025	1472322926099	NA	69
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505104	1472322926121	1472322926204	NA	32
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505106	1472322926385	1472322926517	NA	67
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505108	1472322926586	1472322926676	NA	76
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505110	1472322926704	1472322926822	NA	65
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505112	1472322926789	1472322926893	NA	83
+32339	347415	A growing number of US households are joining the middle class.	A growing number of US households are joining the middle class.	16505114	1472322926964	1472322927047	NA	83
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505237	1472322927104	1472322934029	NA	190
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505156	1472322928895	1472322929123	SHIFT	16
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505155	1472322928989	1472322929072	NA	73
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505157	1472322929143	1472322929211	NA	32
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505158	1472322929318	1472322929426	NA	74
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505160	1472322929476	1472322929577	NA	85
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505162	1472322929599	1472322929686	NA	83
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505172	1472322929780	1472322929859	NA	84
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505173	1472322929872	1472322929961	NA	32
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505174	1472322930083	1472322930172	NA	72
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505175	1472322930161	1472322930264	NA	65
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505176	1472322930364	1472322930465	NA	67
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505192	1472322930550	1472322930626	NA	32
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505193	1472322930967	1472322931037	NA	77
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505194	1472322931231	1472322931302	NA	89
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505195	1472322931377	1472322931459	NA	32
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505196	1472322931555	1472322931651	NA	72
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505202	1472322931624	1472322931724	NA	69
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505204	1472322931826	1472322931970	NA	65
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505205	1472322931901	1472322932024	NA	68
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505206	1472322932047	1472322932139	NA	32
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505207	1472322932257	1472322932394	NA	73
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505213	1472322932368	1472322932448	NA	78
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505214	1472322932529	1472322932617	NA	32
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505215	1472322932639	1472322932718	NA	84
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505216	1472322932744	1472322932814	NA	72
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505217	1472322932827	1472322932916	NA	69
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505218	1472322932925	1472322933002	NA	32
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505231	1472322933119	1472322933203	NA	67
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505232	1472322933256	1472322933340	NA	76
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505233	1472322933435	1472322933572	NA	79
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505234	1472322933529	1472322933615	NA	85
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505235	1472322933627	1472322933740	NA	68
+32339	347420	I just had my head in the clouds.	I just hac my head in the clouds.	16505236	1472322933797	1472322933884	NA	83
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505255	1472322935945	1472322936164	SHIFT	16
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505254	1472322936015	1472322936082	NA	78
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505256	1472322936140	1472322936232	NA	79
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505257	1472322936283	1472322936357	NA	32
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505258	1472322936371	1472322936464	NA	84
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505259	1472322936481	1472322936554	NA	72
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505281	1472322936561	1472322936692	NA	69
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505283	1472322936869	1472322937009	NA	82
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505284	1472322937000	1472322937132	NA	69
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505285	1472322937141	1472322937228	NA	32
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505286	1472322937540	1472322937633	NA	87
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505293	1472322937725	1472322937799	NA	73
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505294	1472322937869	1472322937935	NA	76
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505295	1472322937993	1472322938084	NA	76
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505296	1472322938154	1472322938249	NA	32
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505297	1472322938512	1472322938612	NA	66
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505307	1472322938600	1472322938683	NA	69
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505308	1472322938691	1472322938784	NA	32
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505309	1472322939026	1472322939170	NA	80
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505310	1472322939082	1472322939209	NA	76
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505311	1472322939219	1472322939325	NA	69
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505312	1472322939361	1472322939452	NA	78
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505318	1472322939507	1472322939599	NA	84
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505319	1472322939697	1472322939795	NA	89
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505320	1472322939860	1472322939950	NA	32
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505321	1472322940146	1472322940254	NA	79
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505322	1472322940542	1472322940641	NA	70
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505334	1472322940655	1472322940741	NA	32
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505335	1472322940994	1472322941083	NA	79
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505336	1472322941521	1472322941604	NA	84
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505337	1472322941666	1472322941767	NA	72
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505339	1472322941842	1472322941977	NA	69
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505348	1472322942243	1472322942350	NA	82
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505349	1472322942643	1472322942715	NA	69
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505350	1472322942996	1472322943083		8
+32339	347422	No there will be plenty of others.	NO there will be plenty of others.	16505351	1472322943062	1472322943123	NA	83
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505386	1472322945274	1472322945635	SHIFT	16
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505385	1472322945532	1472322945605	NA	73
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505387	1472322945671	1472322945738	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505388	1472322945814	1472322945879	NA	77
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505389	1472322945888	1472322945971	NA	65
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505390	1472322946099	1472322946172	NA	89
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505401	1472322946241	1472322946310	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505403	1472322946524	1472322946651	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505404	1472322946626	1472322946742	NA	65
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505405	1472322946784	1472322946861	NA	75
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505406	1472322946885	1472322946958	NA	69
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505417	1472322946986	1472322947063	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505418	1472322947268	1472322947364	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505419	1472322947382	1472322947433	NA	72
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505420	1472322947490	1472322947571	NA	69
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505435	1472322947553	1472322947608	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505436	1472322947870	1472322947985	NA	79
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505437	1472322947993	1472322948131	NA	80
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505438	1472322948209	1472322948285	NA	80
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505439	1472322948340	1472322948423	NA	80
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505440	1472322948544	1472322948602	NA	85
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505453	1472322948831	1472322948911		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505454	1472322949009	1472322949088	NA	79
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505455	1472322949369	1472322949434		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505456	1472322949487	1472322949574		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505457	1472322949685	1472322949729	NA	79
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505480	1472322949886	1472322949898	NA	79
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505481	1472322950371	1472322950460	NA	82
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505482	1472322950742	1472322950833	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505483	1472322950861	1472322950956	NA	85
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505485	1472322951147	1472322951204		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505499	1472322951264	1472322951338		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505501	1472322951403	1472322951469		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505503	1472322951532	1472322951618		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505505	1472322951665	1472322951750	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505507	1472322952505	1472322952589		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505515	1472322952790	1472322952875	NA	82
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505517	1472322952999	1472322953083	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505519	1472322953133	1472322953234	NA	85
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505521	1472322953336	1472322953485	NA	78
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505535	1472322953425	1472322953551	NA	73
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505536	1472322954155	1472322954227	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505537	1472322954268	1472322954357	NA	89
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505538	1472322954418	1472322954496	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505539	1472322954870	1472322954957	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505540	1472322954971	1472322955053	NA	79
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505552	1472322955124	1472322955199	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505554	1472322955263	1472322955357	NA	84
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505557	1472322955378	1472322955477	NA	85
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505560	1472322955813	1472322955886		8
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505563	1472322956340	1472322956423	NA	82
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505568	1472322956405	1472322956538	NA	85
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505570	1472322956496	1472322956578	NA	78
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505572	1472322956648	1472322956731	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505574	1472322956782	1472322956872	NA	83
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505576	1472322956858	1472322957006	NA	79
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505578	1472322956917	1472322957019	NA	77
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505579	1472322957035	1472322957110	NA	69
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505580	1472322957135	1472322957217	NA	32
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505581	1472322957448	1472322957545	NA	69
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505582	1472322957710	1472322957773	NA	82
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505583	1472322957845	1472322957967	NA	82
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505589	1472322957933	1472322958065	NA	65
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505591	1472322958054	1472322958141	NA	78
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505593	1472322958169	1472322958248	NA	68
+32339	347425	I may take the opportunity to run some errands.	I may take the opportunity to trun some errands.	16505595	1472322958326	1472322958404	NA	83
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505663	1472322960479	1472322960814	SHIFT	16
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505662	1472322960709	1472322960789	NA	74
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505664	1472322960870	1472322960978	NA	85
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505665	1472322961003	1472322961108	NA	78
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505666	1472322961128	1472322961209	NA	84
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505667	1472322961231	1472322961324	NA	32
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505680	1472322961495	1472322961608	NA	87
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505682	1472322961656	1472322961785	NA	65
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505685	1472322961744	1472322961858	NA	78
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505689	1472322961880	1472322962007	NA	84
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505702	1472322961946	1472322962042	NA	69
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505704	1472322962218	1472322962316	NA	68
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505706	1472322962335	1472322962417	NA	32
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505708	1472322962529	1472322962627	NA	84
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505709	1472322962637	1472322962722	NA	79
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505710	1472322962783	1472322962875	NA	32
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505715	1472322963071	1472322963166	NA	84
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505716	1472322963238	1472322963391	NA	79
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505717	1472322963334	1472322963427	NA	85
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505718	1472322963691	1472322963777	NA	67
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505719	1472322963794	1472322963874	NA	72
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505745	1472322963955	1472322964046	NA	32
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505746	1472322964376	1472322964453	NA	66
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505747	1472322964461	1472322964570	NA	65
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505748	1472322964558	1472322964647	NA	83
+32339	347429	Just wanted to touch base.	Junt wanted to touch base.	16505749	1472322964752	1472322964830	NA	69

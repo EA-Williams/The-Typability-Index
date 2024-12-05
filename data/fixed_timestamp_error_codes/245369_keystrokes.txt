@@ -1,0 +1,642 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576177	1475342766080	1475342766272	CAPS_LOCK	20
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576180	1475342766280	1475342766440	I	73
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576184	1475342766369	1475342766519	CAPS_LOCK	20
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576188	1475342766599	1475342766783	 	32
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576191	1475342766744	1475342766967	a	65
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576193	1475342766919	1475342767095	m	77
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576206	1475342767039	1475342767247	 	32
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576208	1475342767159	1475342767359	o	79
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576211	1475342767239	1475342767399	n	78
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576213	1475342767375	1475342767528	 	32
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576214	1475342767511	1475342767720	a	65
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576237	1475342767647	1475342767839	 	32
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576240	1475342767799	1475342767927	p	80
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576243	1475342767959	1475342768152	l	76
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576247	1475342768063	1475342768287	a	65
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576245	1475342768207	1475342768279	n	78
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576249	1475342768704	1475342768816	,	188
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576268	1475342768847	1475342769007	 	32
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576271	1475342768951	1475342769127	s	83
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576272	1475342769055	1475342769207	o	79
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576274	1475342769191	1475342769287	r	82
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576276	1475342769343	1475342769496	r	82
+245369	2623518	I am on a plane, sorry.	I am on a plan, sorry.	124576291	1475342769423	1475342769535	y	89
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576360	1475342771632	1475342771815	CAPS_LOCK	20
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576361	1475342771775	1475342771991	I	73
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576362	1475342771911	1475342772103	CAPS_LOCK	20
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576363	1475342772031	1475342772223	'	222
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576365	1475342772151	1475342772319	m	77
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576370	1475342772279	1475342772464	 	32
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576382	1475342772399	1475342772559	o	79
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576383	1475342772465	1475342772640	n	78
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576384	1475342772607	1475342772719	 	32
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576385	1475342772711	1475342772943	a	65
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576386	1475342772831	1475342773039	 	32
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576413	1475342772983	1475342773199	c	67
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576414	1475342773159	1475342773319	o	79
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576415	1475342773519	1475342773647	n	78
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576416	1475342773711	1475342773839	f	70
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576417	1475342773927	1475342774111	e	69
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576424	1475342774063	1475342774271	r	82
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576425	1475342774207	1475342774399	e	69
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576426	1475342774359	1475342774520	n	78
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576427	1475342774503	1475342774728	c	67
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576440	1475342774623	1475342774823	e	69
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576442	1475342774711	1475342774903	 	32
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576446	1475342774847	1475342775039	c	67
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576451	1475342774951	1475342775191	a	65
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576448	1475342775047	1475342775135	l	76
+245369	2623522	I'm on a conference call.	I'm on a conference call.	124576453	1475342775207	1475342775359	l	76
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576589	1475342777488	1475342777663	CAPS_LOCK	20
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576593	1475342777623	1475342777847	E	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576596	1475342777775	1475342777959	CAPS_LOCK	20
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576598	1475342777935	1475342778127	v	86
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576600	1475342778695	1475342778911	e	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576602	1475342778831	1475342779007	n	78
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576609	1475342778959	1475342779135	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576610	1475342779079	1475342779231	i	73
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576611	1475342779143	1475342779311	f	70
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576612	1475342779247	1475342779399	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576614	1475342779343	1475342779511	i	73
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576620	1475342779439	1475342779615	t	84
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576621	1475342779519	1475342779672	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576623	1475342779631	1475342779839	w	87
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576626	1475342779759	1475342779903	e	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576630	1475342779863	1475342780095	r	82
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576645	1475342779999	1475342780167	e	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576646	1475342780087	1475342780271	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576652	1475342780199	1475342780423	a	65
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576648	1475342780311	1475342780407	p	80
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576656	1475342780487	1475342780607	p	80
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576659	1475342780559	1475342780719	r	82
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576685	1475342780663	1475342780871	o	79
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576688	1475342780847	1475342781015	v	86
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576690	1475342781007	1475342781143	e	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576692	1475342781231	1475342781431	d	68
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576695	1475342781351	1475342781455	,	188
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576717	1475342781439	1475342781567	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576718	1475342781527	1475342781695	CAPS_LOCK	20
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576720	1475342781631	1475342781887	C	67
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576722	1475342781791	1475342781959	CAPS_LOCK	20
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576723	1475342781871	1475342782119	l	76
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576724	1475342781991	1475342782191	i	73
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576725	1475342782120	1475342782303	n	78
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576739	1475342782231	1475342782439	t	84
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576741	1475342782343	1475342782545	o	79
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576743	1475342782455	1475342782631	n	78
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576745	1475342782575	1475342782783	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576747	1475342782719	1475342782959	c	67
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576791	1475342782823	1475342782960	o	79
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576794	1475342782919	1475342783095	u	85
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576796	1475342783047	1475342783231	l	76
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576798	1475342783143	1475342783359	d	68
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576800	1475342783295	1475342783535	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576802	1475342783463	1475342783639	c	67
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576804	1475342783871	1475342783983	BKSP	8
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576815	1475342783967	1475342784119	v	86
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576817	1475342784111	1475342784319	e	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576821	1475342784247	1475342784415	t	84
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576825	1475342784375	1475342784583	o	79
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576829	1475342784527	1475342784719	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576838	1475342784623	1475342784887	t	84
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576840	1475342784759	1475342784895	h	72
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576842	1475342784863	1475342785071	e	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576846	1475342784959	1475342785143	 	32
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576849	1475342785072	1475342785311	m	77
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576862	1475342785175	1475342785327	e	69
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576863	1475342785263	1475342785471	a	65
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576864	1475342785391	1475342785591	s	83
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576865	1475342785543	1475342785695	u	85
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576866	1475342785655	1475342785879	r	82
+245369	2623526	Even if it were approved, Clinton could veto the measure.	Even if it were approved, Clinton could veto the measure.	124576867	1475342785767	1475342785967	e	69
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576944	1475342787991	1475342788103	CAPS_LOCK	20
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576946	1475342788143	1475342788247	H	72
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576947	1475342788215	1475342788303	CAPS_LOCK	20
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576948	1475342788423	1475342788623	a	65
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576949	1475342788543	1475342788743	s	83
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576951	1475342788655	1475342788847	 	32
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576961	1475342788767	1475342788927	i	73
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576963	1475342788887	1475342789015	t	84
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576965	1475342788975	1475342789167	 	32
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576967	1475342789119	1475342789215	b	66
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576970	1475342789287	1475342789383	e	69
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576972	1475342789455	1475342789639	e	69
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576977	1475342789527	1475342789671	n	78
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576978	1475342789663	1475342789871	 	32
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576979	1475342789775	1475342789927	m	77
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576980	1475342789895	1475342790055	e	69
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576981	1475342790031	1475342790215	n	78
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124576999	1475342790207	1475342790415	t	84
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577000	1475342790335	1475342790511	i	73
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577001	1475342790439	1475342790615	o	79
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577002	1475342790535	1475342790695	n	78
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577003	1475342790647	1475342790783	e	69
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577004	1475342790895	1475342791079	d	68
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577044	1475342791007	1475342791151	 	32
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577046	1475342791159	1475342791327	y	89
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577047	1475342791255	1475342791431	e	69
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577048	1475342791359	1475342791567	t	84
+245369	2623530	Has it been mentioned yet?	Has it been mentioned yet/	124577050	1475342792447	1475342792575	BKSP	8
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577124	1475342794815	1475342794967	CAPS_LOCK	20
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577125	1475342794935	1475342795135	T	84
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577126	1475342795063	1475342795271	CAPS_LOCK	20
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577127	1475342795199	1475342795343	h	72
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577128	1475342795303	1475342795487	e	69
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577129	1475342795423	1475342795639	 	32
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577148	1475342795575	1475342795807	w	87
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577151	1475342795759	1475342795967	i	73
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577154	1475342795967	1475342796111	n	78
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577157	1475342796103	1475342796255	d	68
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577160	1475342796247	1475342796431	 	32
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577166	1475342796367	1475342796535	w	87
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577169	1475342796495	1475342796703	a	65
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577171	1475342796647	1475342796783	s	83
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577174	1475342796751	1475342797031	 	32
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577180	1475342796895	1475342797071	s	83
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577189	1475342797039	1475342797151	t	84
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577190	1475342797247	1475342797409	r	82
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577192	1475342797319	1475342797519	o	79
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577195	1475342797431	1475342797591	n	78
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577201	1475342797535	1475342797695	g	71
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577221	1475342797623	1475342797791	 	32
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577223	1475342797697	1475342797927	a	65
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577225	1475342797807	1475342797959	n	78
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577229	1475342797919	1475342798103	d	68
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577235	1475342798007	1475342798183	 	32
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577240	1475342798239	1475342798327	g	71
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577266	1475342798359	1475342798511	u	85
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577268	1475342798551	1475342798759	s	83
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577269	1475342798695	1475342798863	t	84
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577270	1475342798871	1475342799063	i	73
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577280	1475342798959	1475342799159	n	78
+245369	2623535	The wind was strong and gusting.	The wind was strong and gusting.	124577284	1475342799055	1475342799231	g	71
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577339	1475342801287	1475342801415	CAPS_LOCK	20
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577340	1475342801447	1475342801543	L	76
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577341	1475342801495	1475342801671	CAPS_LOCK	20
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577342	1475342801647	1475342801743	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577343	1475342801815	1475342802047	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577344	1475342801983	1475342802103	k	75
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577354	1475342802071	1475342802231	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577357	1475342802175	1475342802343	f	70
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577360	1475342802311	1475342802487	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577363	1475342802439	1475342802647	r	82
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577386	1475342802471	1475342802655	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577387	1475342802567	1475342802711	h	72
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577388	1475342802679	1475342802911	i	73
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577389	1475342802831	1475342803007	m	77
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577390	1475342802943	1475342803103	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577392	1475342803055	1475342803215	t	84
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577402	1475342803159	1475342803319	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577404	1475342803239	1475342803431	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577408	1475342803327	1475342803471	t	84
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577413	1475342803447	1475342803575	h	72
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577416	1475342803559	1475342803719	r	82
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577423	1475342803679	1475342803783	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577425	1475342803791	1475342803943	w	87
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577427	1475342803863	1475342804007	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577429	1475342803991	1475342804135	f	70
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577431	1475342804087	1475342804223	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577432	1475342804223	1475342804343	r	82
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577436	1475342804311	1475342804487	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577438	1475342804439	1475342804591	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577440	1475342804583	1475342804751	v	86
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577442	1475342804783	1475342804959	e	69
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577445	1475342804887	1475342805095	r	82
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577477	1475342805015	1475342805199	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577480	1475342805311	1475342805511	2	50
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577484	1475342805623	1475342805751	0	48
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577486	1475342805823	1475342805983	0	48
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577489	1475342805935	1475342806127	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577508	1475342806055	1475342806239	y	89
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577509	1475342806231	1475342806367	r	82
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577511	1475342806319	1475342806567	a	65
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577513	1475342806775	1475342806871	BKSP	8
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577518	1475342806935	1475342807071	BKSP	8
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577520	1475342807007	1475342807207	a	65
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577522	1475342807127	1475342807351	r	82
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577527	1475342807255	1475342807455	d	68
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577529	1475342807359	1475342807519	s	83
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577532	1475342807431	1475342807607	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577535	1475342807567	1475342807775	a	65
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577538	1475342807671	1475342807791	n	78
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577541	1475342807815	1475342808039	d	68
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577554	1475342807943	1475342808047	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577555	1475342808023	1475342808207	a	65
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577556	1475342808151	1475342808335	 	32
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577557	1475342808255	1475342808471	s	83
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577558	1475342808407	1475342808575	c	67
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577559	1475342808543	1475342808799	o	79
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577578	1475342808679	1475342808903	r	82
+245369	2623540	Look for him to throw for over 200 yards and a score.	Look for him to throw for over 200 yards and a score.	124577580	1475342808783	1475342809025	e	69
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577621	1475342811919	1475342812039	CAPS_LOCK	20
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577624	1475342812015	1475342812183	I	73
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577627	1475342812111	1475342812279	CAPS_LOCK	20
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577631	1475342812159	1475342812359	 	32
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577636	1475342812463	1475342812615	h	72
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577641	1475342812616	1475342812815	a	65
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577685	1475342812743	1475342812927	c	67
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577688	1475342813055	1475342813263	e	69
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577690	1475342813359	1475342813439	BKSP	8
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577693	1475342813503	1475342813655	BKSP	8
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577695	1475342813647	1475342813783	v	86
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577697	1475342813767	1475342813991	e	69
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577699	1475342813895	1475342814159	n	78
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577701	1475342814223	1475342814415	'	222
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577720	1475342814359	1475342814527	t	84
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577721	1475342814503	1475342814687	 	32
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577723	1475342814639	1475342814799	s	83
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577725	1475342814735	1475342814879	e	69
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577726	1475342814943	1475342815095	e	69
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577727	1475342815135	1475342815295	n	78
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577738	1475342815279	1475342815423	 	32
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577739	1475342815375	1475342815519	i	73
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577740	1475342815471	1475342815623	t	84
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577741	1475342815543	1475342815719	 	32
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577742	1475342815815	1475342815967	y	89
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577753	1475342815895	1475342816103	e	69
+245369	2623544	I haven't seen it yet.	I haven't seen it yet.	124577754	1475342816007	1475342816199	t	84
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577791	1475342818103	1475342818231	CAPS_LOCK	20
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577792	1475342818287	1475342818399	H	72
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577793	1475342818327	1475342818479	CAPS_LOCK	20
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577795	1475342818487	1475342818623	i	73
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577797	1475342818591	1475342818767	s	83
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577799	1475342818687	1475342818863	 	32
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577809	1475342818791	1475342818943	c	67
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577810	1475342818927	1475342819071	u	85
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577811	1475342819063	1475342819151	r	82
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577812	1475342819231	1475342819343	r	82
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577813	1475342819311	1475342819551	e	69
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577827	1475342819495	1475342819615	c	67
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577828	1475342819719	1475342819871	t	84
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577830	1475342819823	1475342820055	 	32
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577832	1475342819911	1475342820095	s	83
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577834	1475342820039	1475342820215	t	84
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577844	1475342820183	1475342820359	a	65
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577845	1475342820311	1475342820487	t	84
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577846	1475342820439	1475342820567	u	85
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577848	1475342820575	1475342820679	s	83
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577850	1475342820615	1475342820735	 	32
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577853	1475342820743	1475342820903	i	73
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577868	1475342820871	1475342821055	s	83
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577870	1475342820951	1475342821111	 	32
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577874	1475342821031	1475342821239	d	68
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577878	1475342821159	1475342821399	a	65
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577887	1475342821263	1475342821423	y	89
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577889	1475342821367	1475342821543	 	32
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577893	1475342821455	1475342821631	t	84
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577898	1475342821551	1475342821719	o	79
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577902	1475342821655	1475342821847	 	32
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577913	1475342821695	1475342821895	d	68
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577917	1475342821799	1475342822055	a	65
+245369	2623549	His current status is day to day.	His currect status is day to day.	124577915	1475342821903	1475342822023	y	89
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578021	1475342824095	1475342824295	CAPS_LOCK	20
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578025	1475342824279	1475342824527	W	87
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578026	1475342824415	1475342824567	CAPS_LOCK	20
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578027	1475342824679	1475342824879	a	65
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578030	1475342824943	1475342825079	n	78
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578034	1475342825023	1475342825151	g	71
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578037	1475342825159	1475342825359	 	32
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578050	1475342825239	1475342825439	s	83
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578053	1475342825360	1475342825583	a	65
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578057	1475342825487	1475342825599	i	73
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578059	1475342825567	1475342825719	d	68
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578061	1475342825663	1475342825799	 	32
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578073	1475342825791	1475342825943	t	84
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578074	1475342825895	1475342826015	h	72
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578075	1475342825999	1475342826191	a	65
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578076	1475342826111	1475342826295	t	84
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578077	1475342826207	1475342826391	 	32
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578090	1475342826335	1475342826487	h	72
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578093	1475342826431	1475342826567	i	73
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578096	1475342826495	1475342826703	s	83
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578098	1475342826607	1475342826807	 	32
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578100	1475342826759	1475342826967	r	82
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578114	1475342826879	1475342827031	e	69
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578116	1475342826991	1475342827151	l	76
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578119	1475342827095	1475342827287	e	69
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578122	1475342827223	1475342827463	a	65
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578144	1475342827343	1475342827591	s	83
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578146	1475342827447	1475342827663	e	69
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578150	1475342827599	1475342827815	 	32
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578153	1475342827751	1475342827919	w	87
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578155	1475342827863	1475342828087	a	65
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578157	1475342828023	1475342828255	s	83
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578188	1475342828135	1475342828271	 	32
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578191	1475342828231	1475342828439	a	65
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578193	1475342828391	1475342828591	 	32
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578196	1475342828527	1475342828727	m	77
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578197	1475342828663	1475342828831	i	73
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578198	1475342828783	1475342828943	r	82
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578229	1475342828879	1475342829103	a	65
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578232	1475342829159	1475342829343	c	67
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578235	1475342829303	1475342829519	l	76
+245369	2623555	Wang said that his release was a miracle.	Wang said that his release was a miracle.	124578238	1475342829383	1475342829639	e	69
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578339	1475342831743	1475342831879	CAPS_LOCK	20
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578344	1475342832007	1475342832095	CAPS_LOCK	20
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578347	1475342832439	1475342832623	CAPS_LOCK	20
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578349	1475342832599	1475342832775	T	84
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578352	1475342832727	1475342832887	CAPS_LOCK	20
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578354	1475342833047	1475342833135	o	79
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578356	1475342833222	1475342833439	o	79
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578358	1475342833391	1475342833543	m	77
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578375	1475342833503	1475342833671	e	69
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578377	1475342833599	1475342833775	r	82
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578382	1475342833703	1475342833879	 	32
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578383	1475342833887	1475342833999	h	72
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578385	1475342833943	1475342834159	a	65
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578422	1475342834079	1475342834255	s	83
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578424	1475342834151	1475342834343	 	32
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578426	1475342834303	1475342834448	b	66
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578428	1475342834423	1475342834535	e	69
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578430	1475342834631	1475342834799	e	69
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578433	1475342834815	1475342834983	n	78
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578460	1475342834975	1475342835183	 	32
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578462	1475342835111	1475342835319	i	73
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578465	1475342835231	1475342835343	n	78
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578468	1475342835367	1475342835471	c	67
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578472	1475342835631	1475342835767	o	79
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578475	1475342835783	1475342835887	n	78
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578497	1475342835927	1475342836103	s	83
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578498	1475342836119	1475342836263	i	73
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578500	1475342836263	1475342836471	s	83
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578503	1475342836439	1475342836583	t	84
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578507	1475342836647	1475342836735	n	78
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578579	1475342836736	1475342836935	e	69
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578583	1475342837119	1475342837255	t	84
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578586	1475342837511	1475342837591	BKSP	8
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578590	1475342837663	1475342837751	BKSP	8
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578594	1475342837831	1475342837919	BKSP	8
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578599	1475342837919	1475342838047	e	69
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578604	1475342838158	1475342838263	t	84
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578608	1475342838535	1475342838639	BKSP	8
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578610	1475342838751	1475342838839	n	78
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578613	1475342838871	1475342839022	t	84
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578614	1475342839007	1475342839126	 	32
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578615	1475342839103	1475342839263	t	84
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578616	1475342839175	1475342839326	h	72
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578635	1475342839311	1475342839439	i	73
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578638	1475342839335	1475342839446	s	83
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578640	1475342839463	1475342839655	 	32
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578641	1475342839543	1475342839735	s	83
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578643	1475342839662	1475342839871	e	69
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578705	1475342839815	1475342839983	a	65
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578708	1475342839927	1475342840158	s	83
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578712	1475342840063	1475342840223	o	79
+245369	2623560	Toomer has been inconsistent this season.	Toomer has been inconsistent this season	124578717	1475342840151	1475342840319	n	78
+245369	2623569	We need this verified.	We need this verified.	124578814	1475342843711	1475342843903	CAPS_LOCK	20
+245369	2623569	We need this verified.	We need this verified.	124578817	1475342843871	1475342844070	W	87
+245369	2623569	We need this verified.	We need this verified.	124578818	1475342844007	1475342844191	CAPS_LOCK	20
+245369	2623569	We need this verified.	We need this verified.	124578820	1475342844134	1475342844334	e	69
+245369	2623569	We need this verified.	We need this verified.	124578821	1475342844327	1475342844494	 	32
+245369	2623569	We need this verified.	We need this verified.	124578822	1475342844471	1475342844598	n	78
+245369	2623569	We need this verified.	We need this verified.	124578863	1475342844566	1475342844686	e	69
+245369	2623569	We need this verified.	We need this verified.	124578865	1475342844742	1475342844838	e	69
+245369	2623569	We need this verified.	We need this verified.	124578866	1475342844950	1475342845159	d	68
+245369	2623569	We need this verified.	We need this verified.	124578868	1475342845126	1475342845278	 	32
+245369	2623569	We need this verified.	We need this verified.	124578870	1475342845222	1475342845410	t	84
+245369	2623569	We need this verified.	We need this verified.	124578901	1475342845359	1475342845502	h	72
+245369	2623569	We need this verified.	We need this verified.	124578904	1475342845447	1475342845599	i	73
+245369	2623569	We need this verified.	We need this verified.	124578909	1475342845479	1475342845663	s	83
+245369	2623569	We need this verified.	We need this verified.	124578912	1475342845615	1475342845838	 	32
+245369	2623569	We need this verified.	We need this verified.	124578917	1475342845967	1475342846087	v	86
+245369	2623569	We need this verified.	We need this verified.	124578922	1475342846183	1475342846406	e	69
+245369	2623569	We need this verified.	We need this verified.	124578942	1475342846359	1475342846502	r	82
+245369	2623569	We need this verified.	We need this verified.	124578944	1475342846470	1475342846623	i	73
+245369	2623569	We need this verified.	We need this verified.	124578948	1475342846631	1475342846774	f	70
+245369	2623569	We need this verified.	We need this verified.	124578950	1475342846727	1475342846919	i	73
+245369	2623569	We need this verified.	We need this verified.	124578955	1475342846831	1475342846966	e	69
+245369	2623569	We need this verified.	We need this verified.	124578962	1475342847119	1475342847263	d	68
+245369	2623574	I want to compare the two.	I want to compare the two.	124579083	1475342849047	1475342849198	CAPS_LOCK	20
+245369	2623574	I want to compare the two.	I want to compare the two.	124579085	1475342849191	1475342849351	I	73
+245369	2623574	I want to compare the two.	I want to compare the two.	124579089	1475342849287	1475342849439	CAPS_LOCK	20
+245369	2623574	I want to compare the two.	I want to compare the two.	124579091	1475342849390	1475342849591	 	32
+245369	2623574	I want to compare the two.	I want to compare the two.	124579095	1475342849526	1475342849711	w	87
+245369	2623574	I want to compare the two.	I want to compare the two.	124579098	1475342849646	1475342849823	a	65
+245369	2623574	I want to compare the two.	I want to compare the two.	124579102	1475342849839	1475342849934	n	78
+245369	2623574	I want to compare the two.	I want to compare the two.	124579121	1475342849911	1475342850023	t	84
+245369	2623574	I want to compare the two.	I want to compare the two.	124579123	1475342850039	1475342850207	 	32
+245369	2623574	I want to compare the two.	I want to compare the two.	124579126	1475342850103	1475342850262	t	84
+245369	2623574	I want to compare the two.	I want to compare the two.	124579128	1475342850215	1475342850374	o	79
+245369	2623574	I want to compare the two.	I want to compare the two.	124579132	1475342850351	1475342850503	 	32
+245369	2623574	I want to compare the two.	I want to compare the two.	124579145	1475342850447	1475342850671	c	67
+245369	2623574	I want to compare the two.	I want to compare the two.	124579146	1475342850567	1475342850743	o	79
+245369	2623574	I want to compare the two.	I want to compare the two.	124579147	1475342850671	1475342850855	m	77
+245369	2623574	I want to compare the two.	I want to compare the two.	124579148	1475342850791	1475342850999	p	80
+245369	2623574	I want to compare the two.	I want to compare the two.	124579150	1475342850911	1475342851087	a	65
+245369	2623574	I want to compare the two.	I want to compare the two.	124579157	1475342851030	1475342851231	r	82
+245369	2623574	I want to compare the two.	I want to compare the two.	124579159	1475342851159	1475342851350	e	69
+245369	2623574	I want to compare the two.	I want to compare the two.	124579161	1475342851294	1475342851494	 	32
+245369	2623574	I want to compare the two.	I want to compare the two.	124579163	1475342851382	1475342851502	t	84
+245369	2623574	I want to compare the two.	I want to compare the two.	124579165	1475342851486	1475342851687	h	72
+245369	2623574	I want to compare the two.	I want to compare the two.	124579206	1475342851647	1475342851863	e	69
+245369	2623574	I want to compare the two.	I want to compare the two.	124579208	1475342851807	1475342851999	 	32
+245369	2623574	I want to compare the two.	I want to compare the two.	124579209	1475342851903	1475342852103	t	84
+245369	2623574	I want to compare the two.	I want to compare the two.	124579210	1475342852039	1475342852271	w	87
+245369	2623574	I want to compare the two.	I want to compare the two.	124579211	1475342852175	1475342852343	o	79
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579361	1475342854559	1475342854694	CAPS_LOCK	20
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579365	1475342854702	1475342854838	M	77
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579371	1475342854791	1475342854910	CAPS_LOCK	20
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579375	1475342855014	1475342855230	a	65
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579378	1475342855223	1475342855294	n	78
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579382	1475342855423	1475342855526	y	89
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579385	1475342855670	1475342855854	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579396	1475342855886	1475342856086	t	84
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579399	1475342856007	1475342856150	o	79
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579402	1475342856079	1475342856230	w	87
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579405	1475342856238	1475342856358	n	78
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579426	1475342856350	1475342856543	s	83
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579428	1475342856495	1475342856614	p	80
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579431	1475342856631	1475342856806	e	69
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579434	1475342856783	1475342856870	o	79
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579441	1475342856831	1475342857038	p	80
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579456	1475342856999	1475342857190	l	76
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579458	1475342857102	1475342857270	e	69
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579459	1475342857214	1475342857358	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579460	1475342857310	1475342857527	w	87
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579461	1475342857462	1475342857631	h	72
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579473	1475342857567	1475342857742	o	79
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579477	1475342857694	1475342857846	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579480	1475342857798	1475342857919	h	72
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579485	1475342857919	1475342858142	a	65
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579492	1475342858095	1475342858254	d	68
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579511	1475342858190	1475342858366	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579514	1475342858462	1475342858622	g	71
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579517	1475342858599	1475342858790	a	65
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579521	1475342858751	1475342858902	t	84
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579525	1475342858862	1475342859015	h	72
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579551	1475342858966	1475342859086	e	69
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579554	1475342859038	1475342859262	r	82
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579561	1475342859182	1475342859342	e	69
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579565	1475342859438	1475342859559	d	68
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579568	1475342859519	1475342859750	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579582	1475342859646	1475342859862	e	69
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579585	1475342859798	1475342859975	a	65
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579587	1475342859894	1475342860070	r	82
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579588	1475342860006	1475342860222	l	76
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579595	1475342860102	1475342860254	i	73
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579599	1475342860174	1475342860366	e	69
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579604	1475342860286	1475342860502	r	82
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579609	1475342860374	1475342860590	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579615	1475342860510	1475342860702	o	79
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579621	1475342860638	1475342860766	n	78
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579635	1475342860750	1475342860966	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579637	1475342860822	1475342861078	t	84
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579641	1475342860942	1475342861086	h	72
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579645	1475342861038	1475342861199	e	69
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579648	1475342861111	1475342861342	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579650	1475342861206	1475342861383	m	77
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579652	1475342861343	1475342861567	a	65
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579654	1475342861410	1475342861630	i	73
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579656	1475342861526	1475342861710	n	78
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579678	1475342861646	1475342861814	 	32
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579681	1475342861670	1475342861886	r	82
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579684	1475342861822	1475342861998	o	79
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579687	1475342861863	1475342862078	a	65
+245369	2623580	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	124579691	1475342862022	1475342862278	d	68
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579781	1475342864439	1475342864631	CAPS_LOCK	20
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579783	1475342864622	1475342864814	C	67
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579786	1475342864734	1475342864846	CAPS_LOCK	20
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579788	1475342864966	1475342865054	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579790	1475342865678	1475342865790	BKSP	8
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579793	1475342865886	1475342865990	h	72
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579794	1475342866006	1475342866190	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579809	1475342866118	1475342866318	s	83
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579810	1475342866254	1475342866422	e	69
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579811	1475342866334	1475342866574	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579812	1475342866502	1475342866638	b	66
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579813	1475342866614	1475342866838	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579849	1475342866806	1475342866990	c	67
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579851	1475342866902	1475342867094	k	75
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579853	1475342867038	1475342867174	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579854	1475342867222	1475342867382	o	79
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579855	1475342867318	1475342867422	f	70
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579856	1475342867470	1475342867590	f	70
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579859	1475342867574	1475342867734	i	73
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579861	1475342867718	1475342867894	c	67
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579864	1475342867798	1475342867982	e	69
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579867	1475342867862	1475342868030	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579886	1475342867974	1475342868222	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579870	1475342868078	1475342868214	n	78
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579889	1475342868158	1475342868350	d	68
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579891	1475342868286	1475342868526	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579893	1475342868390	1475342868574	t	84
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579895	1475342868478	1475342868670	h	72
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579897	1475342868582	1475342868766	e	69
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579899	1475342868790	1475342868926	i	73
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579973	1475342868878	1475342869070	r	82
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579974	1475342869062	1475342869246	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579977	1475342869854	1475342870038	s	83
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579981	1475342870006	1475342870094	t	84
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579985	1475342870374	1475342870462	BKSP	8
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579989	1475342870542	1475342870662	BKSP	8
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124579991	1475342870630	1475342870846	r	82
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580004	1475342870774	1475342870870	e	69
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580005	1475342870822	1475342871038	s	83
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580006	1475342870998	1475342871144	t	84
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580007	1475342871118	1475342871302	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580008	1475342871254	1475342871366	r	82
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580009	1475342871446	1475342871606	t	84
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580045	1475342871542	1475342871782	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580048	1475342871630	1475342871790	p	80
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580050	1475342871758	1475342871966	l	76
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580052	1475342871878	1475342872094	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580053	1475342872006	1475342872126	n	78
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580077	1475342872118	1475342872334	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580080	1475342872239	1475342872406	u	85
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580083	1475342872342	1475342872534	p	80
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580085	1475342872462	1475342872662	d	68
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580086	1475342872630	1475342872862	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580092	1475342872782	1475342873038	t	84
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580093	1475342872926	1475342873102	e	69
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580094	1475342873006	1475342873230	s	83
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580095	1475342873094	1475342873342	 	32
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580096	1475342873278	1475342873486	i	73
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580132	1475342873430	1475342873566	n	78
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580135	1475342873518	1475342873710	d	68
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580137	1475342873662	1475342873782	i	73
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580138	1475342873950	1475342874158	v	86
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580139	1475342874094	1475342874206	i	73
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580141	1475342874518	1475342874718	d	68
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580200	1475342874662	1475342874814	u	85
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580205	1475342874806	1475342875038	a	65
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580202	1475342874942	1475342875014	l	76
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580208	1475342875078	1475342875230	l	76
+245369	2623587	Chase back office and their restart plan updates individually.	Chase back office and their restart plan updates individually.	124580212	1475342875206	1475342875318	y	89
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580300	1475342877638	1475342877790	CAPS_LOCK	20
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580303	1475342877846	1475342877958	Y	89
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580307	1475342877886	1475342878062	CAPS_LOCK	20
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580309	1475342878014	1475342878174	o	79
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580311	1475342878102	1475342878254	u	85
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580313	1475342878230	1475342878406	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580325	1475342878374	1475342878542	g	71
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580327	1475342878550	1475342878742	e	69
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580332	1475342878670	1475342878886	t	84
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580337	1475342878758	1475342878958	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580360	1475342878870	1475342879054	i	73
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580362	1475342878942	1475342879118	n	78
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580370	1475342879086	1475342879318	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580365	1475342879150	1475342879278	t	84
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580373	1475342879366	1475342879510	r	82
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580375	1475342879478	1475342879662	a	65
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580400	1475342879614	1475342879718	f	70
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580404	1475342879774	1475342879878	f	70
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580406	1475342879918	1475342880070	i	73
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580407	1475342879998	1475342880150	c	67
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580411	1475342880110	1475342880286	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580419	1475342880174	1475342880374	a	65
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580420	1475342880302	1475342880438	n	78
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580421	1475342880366	1475342880606	d	68
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580422	1475342880494	1475342880686	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580423	1475342880590	1475342880712	y	89
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580435	1475342880702	1475342880862	o	79
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580440	1475342880798	1475342880902	u	85
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580448	1475342880894	1475342881079	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580454	1475342881006	1475342881174	h	72
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580460	1475342881079	1475342881318	a	65
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580486	1475342881214	1475342881390	v	86
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580490	1475342881319	1475342881486	e	69
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580495	1475342881422	1475342881622	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580499	1475342881582	1475342881798	d	68
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580504	1475342881718	1475342881838	o	79
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580507	1475342881838	1475342881966	g	71
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580576	1475342882062	1475342882222	f	70
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580577	1475342882174	1475342882278	i	73
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580579	1475342882654	1475342882790	g	71
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580583	1475342882910	1475342883054	t	84
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580587	1475342883318	1475342883414	BKSP	8
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580591	1475342883510	1475342883630	h	72
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580606	1475342883574	1475342883758	t	84
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580607	1475342883710	1475342883830	s	83
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580608	1475342883766	1475342883886	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580609	1475342883902	1475342884094	a	65
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580625	1475342883990	1475342884118	n	78
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580626	1475342884070	1475342884198	d	68
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580627	1475342884150	1475342884318	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580628	1475342884278	1475342884342	CAPS_LOCK	20
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580629	1475342884358	1475342884502	I	73
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580630	1475342884438	1475342884598	CAPS_LOCK	20
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580631	1475342884550	1475342884686	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580632	1475342884638	1475342884798	f	70
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580652	1475342884766	1475342884910	o	79
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580655	1475342884902	1475342885030	r	82
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580659	1475342885182	1475342885286	g	71
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580664	1475342885366	1475342885526	e	69
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580669	1475342885470	1475342885606	t	84
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580693	1475342885542	1475342885742	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580694	1475342885662	1475342885766	CAPS_LOCK	20
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580698	1475342885782	1475342885918	I	73
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580700	1475342885846	1475342886062	CAPS_LOCK	20
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580703	1475342885966	1475342886174	'	222
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580705	1475342886126	1475342886278	m	77
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580707	1475342886246	1475342886438	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580712	1475342886406	1475342886582	o	79
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580714	1475342886510	1475342886654	n	78
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580716	1475342886638	1475342886750	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580718	1475342886694	1475342886910	a	65
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580720	1475342886822	1475342886966	n	78
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580747	1475342886942	1475342887110	 	32
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580751	1475342887088	1475342887246	o	79
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580754	1475342887214	1475342887390	v	86
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580757	1475342887358	1475342887590	a	65
+245369	2623601	You get in traffic and you have dogfights and I forget I'm on an oval.	You get in traffic and you have dogfights and I forget I'm on an oval.	124580760	1475342887438	1475342887630	l	76

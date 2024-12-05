@@ -1,0 +1,637 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011407	1478934974837	1478934974919	-	109
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011408	1478934975075	1478934975340	 	32
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011410	1478934979023	1478934979510	SHIFT	16
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011409	1478934979319	1478934979495	S	83
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011411	1478934980059	1478934980131	h	72
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011412	1478934980136	1478934980202	h	72
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011510	1478934980594	1478934981475	BKSP	8
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011518	1478934982239	1478934982697	SHIFT	16
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011513	1478934982547	1478934982666	S	83
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011523	1478934982822	1478934982917	h	72
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011527	1478934982964	1478934983083	e	69
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011529	1478934983145	1478934983281	 	32
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011531	1478934983829	1478934983902	h	72
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011571	1478934983980	1478934984084	a	65
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011572	1478934984162	1478934984283	s	83
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011573	1478934984377	1478934984483	 	32
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011574	1478934985109	1478934985248	a	65
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011575	1478934985420	1478934985562	b	66
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011596	1478934985860	1478934985967	s	83
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011598	1478934986092	1478934986201	o	79
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011601	1478934986342	1478934986481	l	76
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011605	1478934986669	1478934986798	u	85
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011609	1478934987063	1478934987183	t	84
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011654	1478934987309	1478934987386	e	69
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011655	1478934987526	1478934987633	l	76
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011656	1478934987789	1478934987930	y	89
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011657	1478934988039	1478934988180	 	32
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011658	1478934988445	1478934988518	e	69
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011744	1478934988862	1478934988966	v	86
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011746	1478934989110	1478934989263	e	69
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011751	1478934989247	1478934989397	r	82
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011754	1478934990634	1478934990780	y	89
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011757	1478934991170	1478934991250	t	84
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011793	1478934991219	1478934991300	h	72
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011794	1478934991409	1478934991516	i	73
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011795	1478934991688	1478934991782	n	78
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011796	1478934991907	1478934991985	g	71
+508945	5477991	She has absolutely everything.	She has absolutely everything.	260011797	1478934992079	1478934992199	.	190
+508945	5478007	I am fine with this.	I am fine with this.	260011911	1478934994723	1478934994932	SHIFT	16
+508945	5478007	I am fine with this.	I am fine with this.	260011907	1478934994817	1478934994900	I	73
+508945	5478007	I am fine with this.	I am fine with this.	260011914	1478934995041	1478934995181	 	32
+508945	5478007	I am fine with this.	I am fine with this.	260011916	1478934995181	1478934995361	a	65
+508945	5478007	I am fine with this.	I am fine with this.	260011918	1478934995408	1478934995532	m	77
+508945	5478007	I am fine with this.	I am fine with this.	260011919	1478934995688	1478934995813	 	32
+508945	5478007	I am fine with this.	I am fine with this.	260011942	1478934996140	1478934996266	f	70
+508945	5478007	I am fine with this.	I am fine with this.	260011943	1478934996345	1478934996434	i	73
+508945	5478007	I am fine with this.	I am fine with this.	260011944	1478934996559	1478934996651	n	78
+508945	5478007	I am fine with this.	I am fine with this.	260011945	1478934996791	1478934996884	e	69
+508945	5478007	I am fine with this.	I am fine with this.	260011946	1478934996946	1478934997065	 	32
+508945	5478007	I am fine with this.	I am fine with this.	260011986	1478934997566	1478934997658	w	87
+508945	5478007	I am fine with this.	I am fine with this.	260011988	1478934997721	1478934997846	i	73
+508945	5478007	I am fine with this.	I am fine with this.	260011993	1478934997924	1478934998049	t	84
+508945	5478007	I am fine with this.	I am fine with this.	260011995	1478934998065	1478934998150	h	72
+508945	5478007	I am fine with this.	I am fine with this.	260011998	1478934998260	1478934998367	 	32
+508945	5478007	I am fine with this.	I am fine with this.	260011999	1478934998478	1478934998583	t	84
+508945	5478007	I am fine with this.	I am fine with this.	260012001	1478934998583	1478934998697	h	72
+508945	5478007	I am fine with this.	I am fine with this.	260012003	1478934998759	1478934998866	i	73
+508945	5478007	I am fine with this.	I am fine with this.	260012006	1478934998897	1478934999015	s	83
+508945	5478007	I am fine with this.	I am fine with this.	260012009	1478934999093	1478934999199	.	190
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012131	1478935001669	1478935001967	SHIFT	16
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012132	1478935002155	1478935002249	p	80
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012133	1478935002389	1478935002499	l	76
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012134	1478935002655	1478935002765	e	69
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012136	1478935002936	1478935003048	a	65
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012138	1478935003409	1478935003500	e	69
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012219	1478935004048	1478935004098	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012221	1478935004461	1478935004582	BKSP	8
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012223	1478935004660	1478935004782	BKSP	8
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012226	1478935005000	1478935005083	s	83
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012229	1478935005285	1478935005430	e	69
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012232	1478935005523	1478935005649	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012235	1478935005915	1478935006016	s	83
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012243	1478935006173	1478935006298	t	84
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012244	1478935006376	1478935006466	a	65
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012246	1478935006513	1478935006631	t	84
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012249	1478935006757	1478935006866	y	89
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012252	1478935006976	1478935007051	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012289	1478935007161	1478935007251	o	79
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012291	1478935007422	1478935007501	n	78
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012293	1478935007563	1478935007682	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012295	1478935007807	1478935007916	t	84
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012297	1478935008463	1478935008566	o	79
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012320	1478935008692	1478935008768	e	69
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012322	1478935008862	1478935008997	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012325	1478935009747	1478935009882	o	79
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012328	1478935009976	1478935010098	f	70
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012332	1478935010144	1478935010249	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012340	1478935010343	1478935010433	t	84
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012341	1478935010480	1478935010567	h	72
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012342	1478935010614	1478935010716	e	69
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012343	1478935010794	1478935010899	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012345	1478935011055	1478935011149	s	83
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012392	1478935011337	1478935011448	e	69
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012394	1478935011650	1478935011766	c	67
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012396	1478935012422	1478935012547	u	85
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012398	1478935012766	1478935012850	r	82
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012401	1478935012944	1478935013034	i	73
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012414	1478935013144	1478935013249	t	84
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012416	1478935013296	1478935013430	y	89
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012417	1478935013539	1478935013665	 	32
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012418	1478935013759	1478935013913	i	73
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012419	1478935014084	1478935014131	i	73
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012442	1478935014619	1478935014730	BKSP	8
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012444	1478935015120	1478935015199	s	83
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012449	1478935015371	1478935015386	s	83
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012453	1478935015386	1478935015411	s	83
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012457	1478935015546	1478935015668	u	85
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012459	1478935015886	1478935016012	e	69
+508945	5478009	Please stay on top of the security issue.	please staty on toe of the security isssue.	260012470	1478935016091	1478935016245	.	190
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012643	1478935019392	1478935020043	SHIFT	16
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012641	1478935019863	1478935019950	L	76
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012645	1478935020874	1478935021075	BKSP	8
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012650	1478935021044	1478935021621	SHIFT	16
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012647	1478935021325	1478935021480	A	65
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012653	1478935021905	1478935021983	l	76
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012656	1478935022202	1478935022299	s	83
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012658	1478935023504	1478935023567	o	79
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012716	1478935023880	1478935024014	,	188
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012718	1478935024201	1478935024329	 	32
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012721	1478935025080	1478935025150	r	82
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012725	1478935025916	1478935026015	e	69
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012730	1478935026420	1478935026544	g	71
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012766	1478935026639	1478935026748	a	65
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012770	1478935026904	1478935027013	r	82
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012776	1478935027311	1478935027415	d	68
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012779	1478935027574	1478935027697	i	73
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012784	1478935027806	1478935027915	n	78
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012805	1478935027962	1478935028081	g	71
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012806	1478935028127	1478935028263	 	32
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012807	1478935028341	1478935028417	t	84
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012809	1478935028448	1478935028563	h	72
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012811	1478935028579	1478935028698	e	69
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012867	1478935028839	1478935028963	 	32
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012871	1478935029511	1478935029615	c	67
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012873	1478935029724	1478935029847	a	65
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012879	1478935030034	1478935030147	s	83
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012882	1478935030241	1478935030348	h	72
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012957	1478935030490	1478935030629	 	32
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012960	1478935030816	1478935030898	f	70
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012965	1478935031351	1478935031433	l	76
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012970	1478935031713	1478935031816	w	87
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260012974	1478935032129	1478935032231	e	69
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013072	1478935032310	1478935032446	 	32
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013073	1478935033496	1478935033614	BKSP	8
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013075	1478935033692	1478935033814	BKSP	8
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013077	1478935033876	1478935034012	BKSP	8
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013081	1478935034308	1478935034430	o	79
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013084	1478935034649	1478935034762	w	87
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013087	1478935034842	1478935034949	 	32
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013091	1478935035261	1478935035350	f	70
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013147	1478935035538	1478935035648	r	82
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013152	1478935035758	1478935035834	o	79
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013157	1478935035959	1478935036081	m	77
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013162	1478935036269	1478935036411	 	32
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013224	1478935036882	1478935037357	SHIFT	16
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013167	1478935037132	1478935037293	C	67
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013225	1478935037810	1478935037930	a	65
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013226	1478935038055	1478935038180	n	78
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013228	1478935038447	1478935038546	a	65
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013230	1478935038749	1478935038862	d	68
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013233	1478935039111	1478935039214	a	65
+508945	5478022	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	260013256	1478935039246	1478935039364	.	190
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013388	1478935042599	1478935043043	SHIFT	16
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013387	1478935042882	1478935042981	H	72
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013389	1478935043152	1478935043278	o	79
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013390	1478935043418	1478935043498	w	87
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013391	1478935043608	1478935043761	 	32
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013392	1478935044088	1478935044213	a	65
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013463	1478935044403	1478935044559	r	82
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013464	1478935044543	1478935044726	e	69
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013465	1478935044819	1478935044976	 	32
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013468	1478935045509	1478935045576	w	87
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013469	1478935045630	1478935045825	e	69
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013545	1478935045966	1478935046096	 	32
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013547	1478935046581	1478935046728	t	84
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013549	1478935046743	1478935046863	h	72
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013551	1478935046863	1478935046948	a	65
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013553	1478935047668	1478935047747	n	78
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013648	1478935049222	1478935049331	d	68
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013649	1478935049487	1478935049581	l	76
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013651	1478935049799	1478935049944	i	73
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013654	1478935050146	1478935050294	n	78
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013658	1478935050436	1478935050531	g	71
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013711	1478935050642	1478935050779	 	32
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013712	1478935051453	1478935051594	o	79
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013713	1478935051750	1478935051847	t	84
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013714	1478935051863	1478935051964	h	72
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013715	1478935052042	1478935052214	e	69
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013791	1478935052198	1478935052453	r	82
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013794	1478935053850	1478935053916	s	83
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013797	1478935054057	1478935054195	 	32
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013800	1478935054273	1478935054381	i	73
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013803	1478935054552	1478935054615	n	78
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013806	1478935054771	1478935054880	 	32
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013823	1478935055022	1478935055131	t	84
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013826	1478935055147	1478935055232	h	72
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013828	1478935055294	1478935055412	a	65
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013829	1478935055443	1478935055562	t	84
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013830	1478935055625	1478935055715	 	32
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013862	1478935056450	1478935056576	g	71
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013866	1478935056764	1478935056847	r	82
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013869	1478935056894	1478935057028	o	79
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013872	1478935057106	1478935057245	u	85
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013875	1478935057385	1478935057545	p	80
+508945	5478041	How are we handling others in that group?	How are we thandling others in that group?	260013901	1478935058496	1478935058564	?	191
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014033	1478935062098	1478935062228	S	83
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014039	1478935062478	1478935062595	o	79
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014043	1478935062768	1478935062832	r	82
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014048	1478935062910	1478935063014	r	82
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014056	1478935063155	1478935063264	y	89
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014099	1478935063343	1478935063494	 	32
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014102	1478935064025	1478935064115	f	70
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014103	1478935064349	1478935064399	l	76
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014106	1478935064539	1478935064631	r	82
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014107	1478935064756	1478935064910	 	32
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014146	1478935065614	1478935065698	t	84
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014147	1478935065713	1478935065784	h	72
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014148	1478935065846	1478935065932	e	69
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014149	1478935066088	1478935066213	 	32
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014150	1478935066666	1478935066794	d	68
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014201	1478935066873	1478935066965	a	65
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014204	1478935067622	1478935067745	BKSP	8
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014210	1478935068326	1478935068430	e	69
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014215	1478935068508	1478935068597	l	76
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014220	1478935068691	1478935068797	a	65
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014222	1478935068813	1478935068913	y	89
+508945	5478055	Sorry for the delay.	Sorry flr the delay.	260014239	1478935069101	1478935069243	.	190
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014359	1478935072016	1478935072361	SHIFT	16
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014358	1478935072235	1478935072330	I	73
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014360	1478935072533	1478935072677	 	32
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014362	1478935073743	1478935073893	a	65
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014365	1478935073893	1478935074027	m	77
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014368	1478935074168	1478935074262	 	32
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014406	1478935074905	1478935075060	o	79
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014408	1478935075138	1478935075231	u	85
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014411	1478935075387	1478935075481	t	84
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014415	1478935075543	1478935075662	 	32
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014420	1478935075693	1478935075842	o	79
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014434	1478935075874	1478935075996	f	70
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014435	1478935076011	1478935076128	 	32
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014437	1478935076253	1478935076332	t	84
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014438	1478935076458	1478935076580	o	79
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014440	1478935076783	1478935076863	w	87
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014477	1478935077412	1478935077497	n	78
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014478	1478935077638	1478935077762	 	32
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014479	1478935078199	1478935078312	u	85
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014480	1478935078452	1478935078593	n	78
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014481	1478935078735	1478935078829	t	84
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014520	1478935079048	1478935079159	i	73
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014522	1478935079237	1478935079393	l	76
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014527	1478935079502	1478935079674	 	32
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014532	1478935079939	1478935080407	SHIFT	16
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014530	1478935080206	1478935080360	F	70
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014533	1478935080656	1478935080728	r	82
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014542	1478935080841	1478935080930	i	73
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014545	1478935081104	1478935081198	d	68
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014548	1478935081245	1478935081379	a	65
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014550	1478935081442	1478935081547	y	89
+508945	5478060	I am out of town until Friday.	I am out of town until Friday.	260014553	1478935081829	1478935081914	.	190
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014662	1478935084919	1478935085325	SHIFT	16
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014659	1478935085184	1478935085278	A	65
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014665	1478935085637	1478935085730	s	83
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014667	1478935085855	1478935085978	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014669	1478935086260	1478935086331	s	83
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014670	1478935086409	1478935086512	o	79
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014682	1478935086607	1478935086712	o	79
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014683	1478935086946	1478935087091	n	78
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014684	1478935087232	1478935087343	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014685	1478935087625	1478935087759	a	65
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014687	1478935087852	1478935087928	s	83
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014759	1478935088011	1478935088096	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014760	1478935088940	1478935089029	a	65
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014761	1478935089108	1478935089227	n	78
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014762	1478935089461	1478935089561	y	89
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014764	1478935090062	1478935090161	o	79
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014779	1478935090286	1478935090379	n	78
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014782	1478935090551	1478935090614	e	69
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014788	1478935090661	1478935090777	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014792	1478935091121	1478935091197	f	70
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014796	1478935091337	1478935091414	o	79
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014838	1478935091571	1478935091662	e	69
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014839	1478935091959	1478935092030	s	83
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014840	1478935092077	1478935092209	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014841	1478935092366	1478935092460	t	84
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014842	1478935092601	1478935092695	h	72
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014861	1478935093586	1478935093695	a	65
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014862	1478935093851	1478935093945	t	84
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014863	1478935094007	1478935094111	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014864	1478935094486	1478935094551	t	84
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014866	1478935094704	1478935094813	e	69
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014923	1478935094743	1478935094828	h	72
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014925	1478935095548	1478935095676	BKSP	8
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014927	1478935095769	1478935095878	BKSP	8
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014929	1478935096159	1478935096292	h	72
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014931	1478935096495	1478935096610	e	69
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014934	1478935096719	1478935096844	y	89
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014938	1478935096953	1478935097077	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014940	1478935097407	1478935097542	c	67
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014965	1478935097715	1478935097825	a	65
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014967	1478935097841	1478935097945	n	78
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014969	1478935098134	1478935098244	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014971	1478935098978	1478935099123	g	71
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260014973	1478935099295	1478935099440	e	69
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015019	1478935099519	1478935099612	t	84
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015022	1478935099706	1478935099827	 	32
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015024	1478935100279	1478935100378	n	78
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015026	1478935100488	1478935100552	o	79
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015028	1478935101283	1478935101424	BKSP	8
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015030	1478935101814	1478935101942	a	65
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015055	1478935102052	1478935102176	i	73
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015056	1478935102630	1478935102728	l	76
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015057	1478935102993	1478935103095	e	69
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015058	1478935103251	1478935103392	d	68
+508945	5478069	As soon as anyone does that they can get nailed.	As soon as anyone foes that they can get nailed.	260015059	1478935103626	1478935103775	.	190
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015221	1478935106357	1478935106594	SHIFT	16
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015223	1478935106497	1478935106609	I	73
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015225	1478935106812	1478935106940	 	32
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015226	1478935107315	1478935107427	v	86
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015227	1478935108038	1478935108207	BKSP	8
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015229	1478935108456	1478935108561	c	67
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015232	1478935108810	1478935108941	a	65
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015259	1478935109020	1478935109111	n	78
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015260	1478935109285	1478935109410	 	32
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015263	1478935109816	1478935109927	b	66
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015265	1478935110145	1478935110275	e	69
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015269	1478935110385	1478935110494	 	32
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015287	1478935110963	1478935111076	t	84
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015289	1478935111187	1478935111263	h	72
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015291	1478935111372	1478935111524	e	69
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015293	1478935111540	1478935111751	r	82
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015314	1478935111691	1478935111842	e	69
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015317	1478935111998	1478935112124	 	32
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015320	1478935112705	1478935112811	w	87
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015323	1478935112827	1478935112975	i	73
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015326	1478935113037	1478935113128	t	84
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015328	1478935113159	1478935113276	h	72
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015362	1478935113371	1478935113477	i	73
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015364	1478935113618	1478935113722	n	78
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015367	1478935113816	1478935113943	 	32
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015369	1478935114052	1478935114129	t	84
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015371	1478935114176	1478935114277	h	72
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015388	1478935114341	1478935114444	e	69
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015391	1478935114569	1478935114709	 	32
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015394	1478935115107	1478935115210	h	72
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015397	1478935115273	1478935115455	o	79
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015402	1478935115471	1478935115593	u	85
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015410	1478935115749	1478935115844	r	82
+508945	5478078	I can be there within the hour.	I can be there within the hour.	260015411	1478935115875	1478935116039	.	190
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015716	1478935125863	1478935126489	SHIFT	16
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015714	1478935126333	1478935126427	S	83
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015724	1478935126599	1478935126693	o	79
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015728	1478935126989	1478935127093	r	82
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015731	1478935127186	1478935127293	r	82
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015733	1478935127496	1478935127577	y	89
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015752	1478935127671	1478935127808	 	32
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015755	1478935128151	1478935128260	f	70
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015759	1478935128416	1478935128526	o	79
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015764	1478935128588	1478935128677	r	82
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015766	1478935128771	1478935128924	 	32
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015789	1478935129456	1478935129576	t	84
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015791	1478935129591	1478935129661	h	72
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015793	1478935129693	1478935129809	e	69
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015796	1478935129902	1478935129994	 	32
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015799	1478935130900	1478935130994	u	85
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015821	1478935131182	1478935131291	n	78
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015822	1478935131541	1478935131643	f	70
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015823	1478935131893	1478935131962	r	82
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015824	1478935132697	1478935132761	i	73
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015825	1478935133026	1478935133095	e	69
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015876	1478935133221	1478935133326	n	78
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015881	1478935133612	1478935133709	l	76
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015884	1478935134195	1478935134293	y	89
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015887	1478935134589	1478935134708	l	76
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015890	1478935135366	1478935135492	BKSP	8
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015892	1478935135586	1478935135677	BKSP	8
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015894	1478935135771	1478935135892	BKSP	8
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015895	1478935136188	1478935136340	d	68
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015913	1478935136403	1478935136573	l	76
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015914	1478935136744	1478935136843	y	89
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015915	1478935136984	1478935137109	 	32
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015917	1478935137842	1478935137941	g	71
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015919	1478935138113	1478935138257	r	82
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015960	1478935138336	1478935138740	e	69
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015962	1478935139039	1478935139143	e	69
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015964	1478935139315	1478935139456	t	84
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015966	1478935139581	1478935139706	i	73
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015967	1478935139815	1478935139940	n	78
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015977	1478935140066	1478935140144	g	71
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015979	1478935140237	1478935140374	 	32
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015981	1478935140467	1478935140562	i	73
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015983	1478935140703	1478935140825	n	78
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015984	1478935140950	1478935141059	 	32
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015997	1478935141215	1478935141303	t	84
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260015999	1478935141342	1478935141427	h	72
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016002	1478935141474	1478935141591	e	69
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016004	1478935141685	1478935141809	 	32
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016006	1478935141949	1478935142043	l	76
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016038	1478935142153	1478935142276	o	79
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016039	1478935142871	1478935142976	b	66
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016040	1478935143555	1478935143706	b	66
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016041	1478935144348	1478935144459	y	89
+508945	5478087	Sorry for the unfriendly greeting in the lobby.	Sorry for the unfriendly greeting in the lobby.	260016042	1478935144630	1478935144804	.	190
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016162	1478935147377	1478935147805	SHIFT	16
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016160	1478935147642	1478935147758	I	73
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016164	1478935147914	1478935148055	'	222
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016166	1478935148807	1478935148910	k	75
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016168	1478935149003	1478935149079	k	75
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016171	1478935149500	1478935149609	BKSP	8
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016173	1478935149687	1478935149778	BKSP	8
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016175	1478935150311	1478935150377	l	76
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016200	1478935150487	1478935150593	l	76
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016202	1478935150717	1478935150842	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016203	1478935151076	1478935151193	c	67
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016206	1478935151286	1478935151440	a	65
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016208	1478935151518	1478935151611	l	76
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016303	1478935151706	1478935151795	l	76
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016304	1478935151951	1478935152091	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016305	1478935152544	1478935152611	y	89
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016306	1478935152892	1478935152978	u	85
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016307	1478935153635	1478935153774	BKSP	8
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016308	1478935154055	1478935154207	o	79
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016406	1478935154302	1478935154425	u	85
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016408	1478935154566	1478935154676	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016410	1478935155333	1478935155412	w	87
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016413	1478935155521	1478935155559	w	87
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016416	1478935156299	1478935156440	BKSP	8
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016418	1478935156752	1478935156860	h	72
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016440	1478935157095	1478935157191	e	69
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016444	1478935157254	1478935157344	n	78
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016447	1478935157485	1478935157609	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016453	1478935157845	1478935158124	SHIFT	16
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016450	1478935157985	1478935158047	I	73
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016456	1478935158202	1478935158326	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016477	1478935158389	1478935158539	g	71
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016479	1478935158680	1478935158792	e	69
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016481	1478935158839	1478935158927	t	84
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016483	1478935159005	1478935159110	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016487	1478935159204	1478935159310	t	84
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016500	1478935159405	1478935159542	o	79
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016503	1478935159573	1478935159692	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016506	1478935159723	1478935159811	t	84
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016508	1478935159873	1478935159976	h	72
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016513	1478935159991	1478935160093	e	69
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016543	1478935160217	1478935160341	 	32
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016548	1478935160482	1478935160576	o	79
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016551	1478935160748	1478935160812	f	70
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016555	1478935160906	1478935161026	f	70
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016558	1478935161167	1478935161249	i	73
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016588	1478935161309	1478935161410	c	67
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016590	1478935161582	1478935161687	e	69
+508945	5478101	I'll call you when I get to the office.	I'll call you when I get to the office.	260016592	1478935161645	1478935161788	.	190
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016713	1478935165033	1478935165326	SHIFT	16
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016715	1478935165224	1478935165342	I	73
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016718	1478935165529	1478935165687	 	32
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016721	1478935166077	1478935166190	w	87
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016725	1478935166362	1478935166506	a	65
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016727	1478935166522	1478935166671	s	83
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016801	1478935166922	1478935167011	n	78
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016803	1478935167137	1478935167274	 	32
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016807	1478935167854	1478935167959	BKSP	8
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016809	1478935168068	1478935168176	BKSP	8
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016812	1478935168503	1478935168656	 	32
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016814	1478935169407	1478935169478	r	82
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016815	1478935169730	1478935169857	u	85
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016856	1478935170155	1478935170259	n	78
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016858	1478935170353	1478935170431	n	78
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016860	1478935170569	1478935170738	e	69
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016863	1478935170800	1478935170926	r	82
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016866	1478935172021	1478935172094	-	189
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016920	1478935172845	1478935172957	u	85
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016921	1478935173098	1478935173254	p	80
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016923	1478935173348	1478935173474	 	32
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016925	1478935173818	1478935173957	t	84
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016929	1478935174176	1478935174290	h	72
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016977	1478935174480	1478935174590	r	82
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016979	1478935174699	1478935174824	e	69
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016980	1478935174887	1478935175023	e	69
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016981	1478935175257	1478935175374	 	32
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260016982	1478935176048	1478935176142	t	84
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260017033	1478935176252	1478935176359	i	73
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260017034	1478935176452	1478935176592	m	77
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260017035	1478935176654	1478935176759	e	69
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260017036	1478935176995	1478935177123	s	83
+508945	5478113	I was runner-up three times.	I was runner-up three times.	260017037	1478935177357	1478935177522	.	190
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017147	1478935180197	1478935180654	SHIFT	16
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017145	1478935180512	1478935180639	W	87
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017148	1478935180795	1478935180939	e	69
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017149	1478935181095	1478935181222	 	32
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017150	1478935181643	1478935181742	h	72
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017151	1478935181773	1478935181875	a	65
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017184	1478935182016	1478935182157	v	86
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017185	1478935182283	1478935182423	e	69
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017188	1478935182517	1478935182625	n	78
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017191	1478935183031	1478935183125	'	222
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017193	1478935183297	1478935183391	t	84
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017252	1478935183501	1478935183640	 	32
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017255	1478935184343	1478935184471	m	77
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017258	1478935184565	1478935184660	a	65
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017262	1478935184941	1478935185058	d	68
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017264	1478935185575	1478935185675	e	69
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017290	1478935185785	1478935185941	 	32
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017293	1478935185987	1478935186092	t	84
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017297	1478935186170	1478935186256	h	72
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017301	1478935186510	1478935186609	a	65
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017306	1478935186765	1478935186843	t	84
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017337	1478935186859	1478935187004	 	32
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017340	1478935187521	1478935187584	d	68
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017344	1478935187782	1478935187876	e	69
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017347	1478935188048	1478935188126	c	67
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017350	1478935188282	1478935188392	i	73
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017427	1478935188471	1478935188543	s	83
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017429	1478935188559	1478935188816	o	79
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017432	1478935189347	1478935189473	BKSP	8
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017437	1478935189895	1478935189991	i	73
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017440	1478935190053	1478935190205	o	79
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017443	1478935190298	1478935190392	n	78
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017478	1478935190521	1478935190656	 	32
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017480	1478935191189	1478935191276	h	72
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017482	1478935191448	1478935191651	e	69
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017484	1478935191682	1478935191887	r	82
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017526	1478935191823	1478935191963	e	69
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017528	1478935192056	1478935192189	 	32
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017529	1478935192644	1478935192772	t	84
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017531	1478935192772	1478935192844	h	72
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017534	1478935192860	1478935193052	o	79
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017539	1478935193098	1478935193223	u	85
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017563	1478935193396	1478935193507	g	71
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017565	1478935193569	1478935193708	h	72
+508945	5478125	We haven't made that decision here though.	We haven't made that decision here though.	260017570	1478935193895	1478935194038	.	190
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017694	1478935196917	1478935197192	SHIFT	16
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017693	1478935197104	1478935197177	L	76
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017695	1478935197379	1478935197506	e	69
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017697	1478935197600	1478935197724	t	84
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017699	1478935197770	1478935197890	 	32
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017702	1478935198158	1478935198210	m	77
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017735	1478935198335	1478935198410	e	69
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017736	1478935198519	1478935198641	 	32
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017738	1478935198844	1478935198941	k	75
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017740	1478935199081	1478935199191	n	78
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017742	1478935199269	1478935199391	o	79
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017773	1478935199516	1478935199609	w	87
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017774	1478935199703	1478935199826	 	32
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017775	1478935200013	1478935200108	i	73
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017776	1478935200249	1478935200358	f	70
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017777	1478935200452	1478935200621	 	32
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017870	1478935201341	1478935201426	h	72
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017873	1478935201551	1478935201674	a	65
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017876	1478935201832	1478935201941	v	86
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017878	1478935202300	1478935202424	BKSP	8
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017881	1478935202533	1478935202673	BKSP	8
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017883	1478935202782	1478935202891	BKSP	8
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017885	1478935203391	1478935203476	y	89
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017888	1478935203600	1478935203770	o	79
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017909	1478935203770	1478935203859	u	85
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017910	1478935203984	1478935204108	 	32
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017911	1478935204365	1478935204459	h	72
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017912	1478935204522	1478935204641	a	65
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017913	1478935204766	1478935204875	v	86
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017914	1478935204969	1478935205091	e	69
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017949	1478935205185	1478935205322	 	32
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017950	1478935205635	1478935205773	m	77
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017952	1478935205805	1478935205924	o	79
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017954	1478935206080	1478935206206	r	82
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260017956	1478935206221	1478935206339	e	69
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018024	1478935206465	1478935206589	 	32
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018025	1478935207215	1478935207308	q	81
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018026	1478935207418	1478935207540	u	85
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018027	1478935207680	1478935207790	e	69
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018028	1478935207899	1478935208008	s	83
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018053	1478935208228	1478935208356	t	84
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018055	1478935208497	1478935208654	i	73
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018058	1478935208638	1478935208819	o	79
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018061	1478935208912	1478935209006	n	78
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018064	1478935209115	1478935209208	s	83
+508945	5478133	Let me know if you have more questions.	Let me know if you have more questions.	260018073	1478935209208	1478935209339	.	190
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018189	1478935212172	1478935212474	SHIFT	16
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018193	1478935212376	1478935212490	L	76
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018195	1478935212708	1478935212853	a	65
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018199	1478935213340	1478935213441	t	84
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018201	1478935213644	1478935213850	e	69
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018253	1478935213834	1478935213987	r	82
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018256	1478935214143	1478935214302	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018262	1478935214679	1478935214759	w	87
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018267	1478935214774	1478935214872	o	79
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018271	1478935215044	1478935215126	r	82
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018274	1478935215283	1478935215407	k	75
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018340	1478935215548	1478935215641	s	83
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018344	1478935215797	1478935215923	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018349	1478935217409	1478935217524	d	68
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018351	1478935217680	1478935217758	e	69
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018354	1478935217852	1478935217956	a	65
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018426	1478935218206	1478935218322	l	76
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018428	1478935218591	1478935218674	t	84
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018430	1478935218814	1478935218939	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018434	1478935219393	1478935219522	w	87
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018438	1478935219647	1478935219757	i	73
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018507	1478935219851	1478935219941	t	84
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018509	1478935220003	1478935220107	h	72
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018511	1478935220263	1478935220388	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018512	1478935220952	1478935221104	e	69
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018514	1478935221369	1478935221459	t	84
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018586	1478935221522	1478935221640	h	72
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018591	1478935221702	1478935221838	i	73
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018597	1478935222181	1478935222274	c	67
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018601	1478935222414	1478935222571	a	65
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018603	1478935222914	1478935223054	l	76
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018686	1478935223180	1478935223368	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018687	1478935224071	1478935224189	c	67
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018688	1478935224298	1478935224422	o	79
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018689	1478935224563	1478935224657	n	78
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018691	1478935225408	1478935225584	c	67
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018826	1478935225820	1478935225987	e	69
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018827	1478935226033	1478935226171	r	82
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018831	1478935226514	1478935226624	n	78
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018835	1478935226733	1478935226809	s	83
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018838	1478935226965	1478935227106	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018812	1478935227621	1478935227724	i	73
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018816	1478935227880	1478935228021	n	78
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018819	1478935228115	1478935228240	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018823	1478935228380	1478935228475	t	84
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018824	1478935228475	1478935228559	h	72
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018866	1478935228655	1478935228725	e	69
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018870	1478935228803	1478935228922	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018874	1478935229393	1478935229568	m	77
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018877	1478935229771	1478935229890	o	79
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018879	1478935230580	1478935230673	d	68
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018920	1478935230891	1478935231082	e	69
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018921	1478935231161	1478935231367	r	82
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018922	1478935231538	1478935231671	n	78
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018923	1478935231812	1478935231922	 	32
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018924	1478935232096	1478935232205	w	87
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018969	1478935232221	1478935232307	o	79
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018972	1478935232526	1478935232607	r	82
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018977	1478935232717	1478935232807	l	76
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018981	1478935232995	1478935233104	d	68
+508945	5478146	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	260018984	1478935233213	1478935233307	.	190

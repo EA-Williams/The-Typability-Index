@@ -1,0 +1,632 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+34466	372207	Are you back in town?	Are you back in town?	17692308	1472367690659	1472367690902	SHIFT	16
+34466	372207	Are you back in town?	Are you back in town?	17692307	1472367690790	1472367690887	A	65
+34466	372207	Are you back in town?	Are you back in town?	17692309	1472367691021	1472367691118	r	82
+34466	372207	Are you back in town?	Are you back in town?	17692311	1472367691118	1472367691251	e	69
+34466	372207	Are you back in town?	Are you back in town?	17692313	1472367691241	1472367691304	 	32
+34466	372207	Are you back in town?	Are you back in town?	17692315	1472367691622	1472367691701	y	89
+34466	372207	Are you back in town?	Are you back in town?	17692328	1472367691778	1472367691876	o	79
+34466	372207	Are you back in town?	Are you back in town?	17692329	1472367691892	1472367691991	u	85
+34466	372207	Are you back in town?	Are you back in town?	17692330	1472367692022	1472367692104	 	32
+34466	372207	Are you back in town?	Are you back in town?	17692331	1472367692153	1472367692205	b	66
+34466	372207	Are you back in town?	Are you back in town?	17692332	1472367692252	1472367692335	a	65
+34466	372207	Are you back in town?	Are you back in town?	17692333	1472367692436	1472367692563	c	67
+34466	372207	Are you back in town?	Are you back in town?	17692334	1472367692552	1472367692621	k	75
+34466	372207	Are you back in town?	Are you back in town?	17692335	1472367692669	1472367692754	 	32
+34466	372207	Are you back in town?	Are you back in town?	17692336	1472367692801	1472367692869	i	73
+34466	372207	Are you back in town?	Are you back in town?	17692337	1472367692932	1472367693020	n	78
+34466	372207	Are you back in town?	Are you back in town?	17692357	1472367693054	1472367693121	 	32
+34466	372207	Are you back in town?	Are you back in town?	17692359	1472367693218	1472367693319	t	84
+34466	372207	Are you back in town?	Are you back in town?	17692362	1472367693335	1472367693404	o	79
+34466	372207	Are you back in town?	Are you back in town?	17692365	1472367693518	1472367693634	w	87
+34466	372207	Are you back in town?	Are you back in town?	17692368	1472367693671	1472367693721	n	78
+34466	372207	Are you back in town?	Are you back in town?	17692376	1472367693856	1472367694173	SHIFT	16
+34466	372207	Are you back in town?	Are you back in town?	17692375	1472367694056	1472367694122	?	191
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692457	1472367698582	1472367698785	SHIFT	16
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692454	1472367698679	1472367698736	I	73
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692459	1472367699028	1472367699128	'	222
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692461	1472367699237	1472367699354	m	77
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692463	1472367699386	1472367699485	 	32
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692464	1472367699504	1472367699602	o	79
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692473	1472367699628	1472367699742	n	78
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692475	1472367699757	1472367699835	 	32
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692477	1472367699937	1472367700071	a	65
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692479	1472367700058	1472367700129	 	32
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692481	1472367700382	1472367700484	c	67
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692493	1472367700569	1472367700639	o	79
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692496	1472367700686	1472367700739	n	78
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692499	1472367700946	1472367701019	f	70
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692502	1472367701070	1472367701218	e	69
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692521	1472367701201	1472367701315	r	82
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692522	1472367701500	1472367701602	e	69
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692523	1472367701755	1472367701836	n	78
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692524	1472367701903	1472367701964	c	67
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692525	1472367702057	1472367702136	e	69
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692526	1472367702199	1472367702268	 	32
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692534	1472367702384	1472367702452	c	67
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692536	1472367702532	1472367702635	a	65
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692538	1472367702669	1472367702703	l	76
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692539	1472367702785	1472367702852	l	76
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692540	1472367703032	1472367703086	.	190
+34466	372209	I'm on a conference call.	I'm on a conference call. 	17692548	1472367703233	1472367703301	 	32
+34466	372213	I can return earlier.	I can return earilier.	17692576	1472367705221	1472367705542	SHIFT	16
+34466	372213	I can return earlier.	I can return earilier.	17692571	1472367705437	1472367705526	I	73
+34466	372213	I can return earlier.	I can return earilier.	17692579	1472367705557	1472367705634	 	32
+34466	372213	I can return earlier.	I can return earilier.	17692585	1472367705696	1472367705768	c	67
+34466	372213	I can return earlier.	I can return earilier.	17692588	1472367705829	1472367705945	a	65
+34466	372213	I can return earlier.	I can return earilier.	17692594	1472367705977	1472367706052	n	78
+34466	372213	I can return earlier.	I can return earilier.	17692620	1472367706116	1472367706184	 	32
+34466	372213	I can return earlier.	I can return earilier.	17692622	1472367706414	1472367706508	r	82
+34466	372213	I can return earlier.	I can return earilier.	17692624	1472367706561	1472367706682	e	69
+34466	372213	I can return earlier.	I can return earilier.	17692626	1472367708035	1472367708139	t	84
+34466	372213	I can return earlier.	I can return earilier.	17692628	1472367708154	1472367708202	u	85
+34466	372213	I can return earlier.	I can return earilier.	17692648	1472367708286	1472367708401	r	82
+34466	372213	I can return earlier.	I can return earilier.	17692650	1472367708417	1472367708515	n	78
+34466	372213	I can return earlier.	I can return earilier.	17692652	1472367708571	1472367708657	 	32
+34466	372213	I can return earlier.	I can return earilier.	17692653	1472367709169	1472367709234	e	69
+34466	372213	I can return earlier.	I can return earilier.	17692654	1472367709377	1472367709409	a	65
+34466	372213	I can return earlier.	I can return earilier.	17692670	1472367709672	1472367709799	r	82
+34466	372213	I can return earlier.	I can return earilier.	17692672	1472367709965	1472367710049	i	73
+34466	372213	I can return earlier.	I can return earilier.	17692674	1472367710219	1472367710323	l	76
+34466	372213	I can return earlier.	I can return earilier.	17692676	1472367710448	1472367710517	i	73
+34466	372213	I can return earlier.	I can return earilier.	17692677	1472367710579	1472367710766	e	69
+34466	372213	I can return earlier.	I can return earilier.	17692678	1472367710681	1472367710812	r	82
+34466	372213	I can return earlier.	I can return earilier.	17692679	1472367710939	1472367710994	.	190
+34466	372218	Here's the new one.	Here's the new one.	17692729	1472367713284	1472367713581	SHIFT	16
+34466	372218	Here's the new one.	Here's the new one.	17692726	1472367713516	1472367713581	H	72
+34466	372218	Here's the new one.	Here's the new one.	17692732	1472367713717	1472367713861	e	69
+34466	372218	Here's the new one.	Here's the new one.	17692735	1472367713837	1472367713914	r	82
+34466	372218	Here's the new one.	Here's the new one.	17692738	1472367713970	1472367714086	e	69
+34466	372218	Here's the new one.	Here's the new one.	17692741	1472367714169	1472367714251	'	222
+34466	372218	Here's the new one.	Here's the new one.	17692750	1472367714284	1472367714382	s	83
+34466	372218	Here's the new one.	Here's the new one.	17692752	1472367714358	1472367714432	 	32
+34466	372218	Here's the new one.	Here's the new one.	17692753	1472367714484	1472367714569	t	84
+34466	372218	Here's the new one.	Here's the new one.	17692754	1472367714617	1472367714685	h	72
+34466	372218	Here's the new one.	Here's the new one.	17692755	1472367714702	1472367714778	e	69
+34466	372218	Here's the new one.	Here's the new one.	17692761	1472367714750	1472367714817	 	32
+34466	372218	Here's the new one.	Here's the new one.	17692762	1472367714886	1472367714934	n	78
+34466	372218	Here's the new one.	Here's the new one.	17692763	1472367714986	1472367715080	e	69
+34466	372218	Here's the new one.	Here's the new one.	17692764	1472367715111	1472367715230	w	87
+34466	372218	Here's the new one.	Here's the new one.	17692765	1472367715245	1472367715316	 	32
+34466	372218	Here's the new one.	Here's the new one.	17692766	1472367715383	1472367715493	o	79
+34466	372218	Here's the new one.	Here's the new one.	17692778	1472367715504	1472367715567	n	78
+34466	372218	Here's the new one.	Here's the new one.	17692779	1472367715596	1472367715692	e	69
+34466	372218	Here's the new one.	Here's the new one.	17692780	1472367716279	1472367716349	.	190
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692832	1472367718546	1472367718782	SHIFT	16
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692831	1472367718704	1472367718782	L	76
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692833	1472367718875	1472367718996	a	65
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692834	1472367718996	1472367719066	n	78
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692835	1472367719097	1472367719212	c	67
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692836	1472367719267	1472367719386	e	69
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692849	1472367719398	1472367719466	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692850	1472367719497	1472367719612	a	65
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692851	1472367719639	1472367719714	n	78
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692852	1472367719744	1472367719852	d	68
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692878	1472367719842	1472367719900	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692880	1472367719966	1472367720199	SHIFT	16
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692879	1472367720066	1472367720131	I	73
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692881	1472367720166	1472367720217	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692882	1472367720914	1472367720983	h	72
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692883	1472367721014	1472367721132	a	65
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692891	1472367721114	1472367721199	v	86
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692894	1472367721215	1472367721316	e	69
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692898	1472367721299	1472367721384	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692904	1472367721415	1472367721499	t	84
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692906	1472367721562	1472367721647	h	72
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692910	1472367721683	1472367721780	e	69
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692914	1472367721749	1472367721815	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692915	1472367721917	1472367721985	s	83
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692916	1472367722064	1472367722180	a	65
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692917	1472367722186	1472367722248	m	77
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692918	1472367722290	1472367722386	e	69
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692919	1472367722365	1472367722448	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692920	1472367722533	1472367722624	c	67
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692921	1472367722639	1472367722687	h	72
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692923	1472367722718	1472367722835	a	65
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692925	1472367722818	1472367722887	n	78
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692927	1472367722934	1472367723003	c	67
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692931	1472367723063	1472367723163	e	69
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692932	1472367723187	1472367723233	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692933	1472367723264	1472367723380	t	84
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692934	1472367723347	1472367723415	o	79
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692935	1472367723487	1472367723548	 	32
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692950	1472367723603	1472367723719	w	87
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692953	1472367723735	1472367723804	i	73
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692957	1472367723905	1472367723990	n	78
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692962	1472367724166	1472367724215	.	190
+34466	372222	Lance and I have the same chance to win.	Lance and I have the same chance to win. 	17692964	1472367724282	1472367724349	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693226	1472367737690	1472367737949	SHIFT	16
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693225	1472367737833	1472367737918	B	66
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693227	1472367738035	1472367738121	u	85
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693228	1472367738137	1472367738232	t	84
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693229	1472367738214	1472367738294	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693230	1472367738364	1472367738434	t	84
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693236	1472367738518	1472367738563	h	72
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693239	1472367738590	1472367738715	e	69
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693242	1472367738662	1472367738739	r	82
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693244	1472367738801	1472367738931	e	69
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693282	1472367738877	1472367738965	r	82
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693284	1472367739617	1472367739736	BKSP	8
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693286	1472367739902	1472367739963	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693287	1472367740193	1472367740262	h	72
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693289	1472367740324	1472367740425	a	65
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693290	1472367740411	1472367740480	v	86
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693292	1472367740527	1472367740634	e	69
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693307	1472367740595	1472367740667	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693309	1472367740758	1472367740812	b	66
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693313	1472367740850	1472367740911	e	69
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693315	1472367740968	1472367741070	e	69
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693318	1472367741086	1472367741171	n	78
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693321	1472367741202	1472367741273	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693330	1472367741440	1472367741527	s	83
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693331	1472367741579	1472367741626	o	79
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693333	1472367741899	1472367741968	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693335	1472367742084	1472367742171	m	77
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693338	1472367742202	1472367742323	a	65
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693377	1472367742305	1472367742377	n	78
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693380	1472367742477	1472367742559	y	89
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693383	1472367742594	1472367742678	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693384	1472367743271	1472367743376	c	67
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693386	1472367743392	1472367743460	h	72
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693388	1472367743507	1472367743626	a	65
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693391	1472367743609	1472367743677	n	78
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693393	1472367743770	1472367743839	g	71
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693397	1472367743855	1472367743939	e	69
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693399	1472367744017	1472367744134	s	83
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693402	1472367744139	1472367744230	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693406	1472367744335	1472367744411	i	73
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693423	1472367744518	1472367744611	n	78
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693425	1472367744656	1472367744737	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693427	1472367745020	1472367745109	p	80
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693428	1472367745158	1472367745227	l	76
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693430	1472367745313	1472367745441	a	65
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693448	1472367745474	1472367745543	n	78
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693449	1472367745676	1472367745759	s	83
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693450	1472367745776	1472367745845	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693451	1472367746077	1472367746181	t	84
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693452	1472367746259	1472367746377	h	72
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693465	1472367746386	1472367746527	a	65
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693468	1472367746443	1472367746543	t	84
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693471	1472367746559	1472367746643	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693478	1472367746755	1472367747102	SHIFT	16
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693475	1472367746970	1472367747007	I	73
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693481	1472367747300	1472367747393	'	222
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693490	1472367747636	1472367747709	m	77
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693491	1472367747770	1472367747855	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693492	1472367747939	1472367748008	n	78
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693493	1472367748239	1472367748354	o	79
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693494	1472367748417	1472367748507	t	84
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693505	1472367748617	1472367748705	 	32
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693506	1472367748855	1472367748956	s	83
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693507	1472367748934	1472367748977	u	85
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693508	1472367749102	1472367749230	r	82
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693509	1472367749317	1472367749393	p	80
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693521	1472367749486	1472367749586	r	82
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693523	1472367749717	1472367749777	i	73
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693526	1472367749845	1472367749925	s	83
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693529	1472367750018	1472367750167	e	69
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693542	1472367750157	1472367750257	d	68
+34466	372226	But there have been so many changes in plans that I'm not surprised.	But there have been so many changes in plans that I'm not surprised.\	17693543	1472367750464	1472367750526	.	190
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693662	1472367756594	1472367756933	SHIFT	16
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693661	1472367756780	1472367756864	I	73
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693663	1472367756911	1472367757007	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693664	1472367757064	1472367757190	w	87
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693665	1472367757139	1472367757223	i	73
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693666	1472367757317	1472367757368	l	76
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693688	1472367757459	1472367757554	l	76
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693689	1472367757618	1472367757687	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693690	1472367757773	1472367757841	n	78
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693691	1472367757890	1472367757978	e	69
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693692	1472367758056	1472367758155	e	69
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693693	1472367758258	1472367758382	d	68
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693694	1472367758390	1472367758457	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693696	1472367758553	1472367758695	t	84
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693698	1472367758671	1472367758725	o	79
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693700	1472367758772	1472367758857	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693717	1472367758992	1472367759072	g	71
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693720	1472367759092	1472367759202	e	69
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693723	1472367759173	1472367759255	t	84
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693725	1472367759293	1472367759359	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693727	1472367759494	1472367759558	y	89
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693739	1472367759657	1472367759743	o	79
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693741	1472367759810	1472367759895	u	85
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693744	1472367759992	1472367760042	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693747	1472367760387	1472367760472	s	83
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693749	1472367760644	1472367760794	e	69
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693770	1472367760852	1472367760924	t	84
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693772	1472367760992	1472367761072	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693776	1472367761160	1472367761225	u	85
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693777	1472367761399	1472367761442	p	80
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693778	1472367761552	1472367761623	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693779	1472367761699	1472367761757	i	73
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693780	1472367761830	1472367761923	n	78
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693781	1472367761954	1472367762055	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693782	1472367762086	1472367762172	t	84
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693783	1472367762254	1472367762339	h	72
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693796	1472367762383	1472367762489	e	69
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693797	1472367762767	1472367762840	i	73
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693798	1472367762902	1472367762990	r	82
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693799	1472367762990	1472367763057	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693800	1472367763239	1472367763355	s	83
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693807	1472367763435	1472367763491	y	89
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693811	1472367763522	1472367763637	s	83
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693815	1472367763640	1472367763689	t	84
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693818	1472367763772	1472367763880	e	69
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693831	1472367763857	1472367763959	m	77
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693834	1472367764006	1472367764094	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693837	1472367764213	1472367764307	p	80
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693839	1472367764371	1472367764471	r	82
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693841	1472367764572	1472367764672	i	73
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693842	1472367764772	1472367764856	o	79
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693854	1472367765094	1472367765214	r	82
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693856	1472367765245	1472367765307	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693858	1472367765638	1472367765758	t	84
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693860	1472367765748	1472367765823	o	79
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693862	1472367765839	1472367765926	 	32
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693887	1472367766255	1472367766503	SHIFT	16
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693886	1472367766389	1472367766445	T	84
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693888	1472367766758	1472367766808	u	85
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693889	1472367766839	1472367766922	e	69
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693890	1472367767024	1472367767131	s	83
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693891	1472367767232	1472367767322	d	68
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693904	1472367767406	1472367767526	a	65
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693905	1472367767491	1472367767556	y	89
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693906	1472367767717	1472367767773	,	188
+34466	372235	I will need to get you set up in their system prior to Tuesday.	I will need to get you set up in their system prior to Tuesday, 	17693907	1472367767807	1472367767872	 	32
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694051	1472367776553	1472367776817	SHIFT	16
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694047	1472367776686	1472367776754	I	73
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694055	1472367776968	1472367777102	t	84
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694057	1472367777155	1472367777221	'	222
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694059	1472367777287	1472367777403	s	83
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694061	1472367777403	1472367777472	 	32
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694066	1472367777556	1472367777657	r	82
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694068	1472367777673	1472367777804	e	69
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694069	1472367777903	1472367778033	a	65
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694070	1472367778004	1472367778059	l	76
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694071	1472367778106	1472367778193	l	76
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694089	1472367778302	1472367778418	y	89
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694091	1472367778434	1472367778536	 	32
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694095	1472367778618	1472367778736	j	74
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694098	1472367778791	1472367778888	u	85
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694102	1472367778967	1472367779067	s	83
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694113	1472367779053	1472367779121	t	84
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694114	1472367779172	1472367779251	 	32
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694115	1472367779377	1472367779436	t	84
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694116	1472367779517	1472367779604	e	69
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694117	1472367779698	1472367779813	c	67
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694129	1472367779802	1472367779854	h	72
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694130	1472367780002	1472367780070	n	78
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694131	1472367780134	1472367780205	i	73
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694132	1472367780283	1472367780353	c	67
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694133	1472367780434	1472367780550	a	65
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694134	1472367780650	1472367780737	l	76
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694152	1472367781004	1472367781120	i	73
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694153	1472367781505	1472367781632	t	84
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694154	1472367781695	1472367781770	i	73
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694155	1472367781850	1472367781950	e	69
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694156	1472367782053	1472367782167	s	83
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694221	1472367783238	1472367783288	.	190
+34466	372239	It's really just technicalities.	It's really just technicalities.	17694224	1472367783356	1472367783387	ARW_LEFT	37
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694302	1472367787471	1472367787747	SHIFT	16
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694300	1472367787636	1472367787686	B	66
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694305	1472367787849	1472367787967	e	69
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694306	1472367788066	1472367788218	f	70
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694307	1472367788234	1472367788287	o	79
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694309	1472367788302	1472367788429	r	82
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694316	1472367788389	1472367788549	e	69
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694317	1472367788527	1472367788601	 	32
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694319	1472367788671	1472367788826	SHIFT	16
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694318	1472367788734	1472367788810	I	73
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694320	1472367788857	1472367788934	 	32
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694321	1472367789002	1472367789155	f	70
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694331	1472367789138	1472367789193	o	79
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694332	1472367789209	1472367789311	r	82
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694333	1472367789511	1472367789585	g	71
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694334	1472367789585	1472367789735	e	69
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694335	1472367789719	1472367789785	t	84
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694336	1472367790107	1472367790170	,	188
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694357	1472367790292	1472367790383	 	32
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694359	1472367790694	1472367790768	t	84
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694361	1472367790848	1472367790936	h	72
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694363	1472367790968	1472367791122	e	69
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694376	1472367791070	1472367791186	r	82
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694379	1472367791217	1472367791356	e	69
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694381	1472367791339	1472367791419	 	32
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694383	1472367791517	1472367791600	i	73
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694385	1472367791635	1472367791732	s	83
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694393	1472367791717	1472367791800	 	32
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694394	1472367791870	1472367791955	o	79
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694395	1472367792002	1472367792100	n	78
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694396	1472367792116	1472367792206	e	69
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694398	1472367792184	1472367792266	 	32
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694400	1472367792503	1472367792578	l	76
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694409	1472367792718	1472367792917	a	65
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694410	1472367792848	1472367792981	s	83
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694411	1472367792997	1472367793073	t	84
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694412	1472367793098	1472367793174	 	32
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694413	1472367793300	1472367793408	c	67
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694414	1472367793421	1472367793489	h	72
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694415	1472367793533	1472367793659	a	65
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694416	1472367793648	1472367793701	n	78
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694417	1472367793804	1472367793869	g	71
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694418	1472367793921	1472367794032	e	69
+34466	372245	Before I forget, there is one last change.	Before I forget, there is one last change.	17694424	1472367794538	1472367794618	.	190
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694525	1472367798673	1472367798915	SHIFT	16
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694524	1472367798814	1472367798883	I	73
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694527	1472367798931	1472367799016	 	32
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694529	1472367799078	1472367799196	t	84
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694533	1472367799214	1472367799283	h	72
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694537	1472367799347	1472367799449	i	73
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694560	1472367799508	1472367799598	n	78
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694561	1472367799665	1472367799765	k	75
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694562	1472367799812	1472367799914	 	32
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694563	1472367799970	1472367800039	t	84
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694564	1472367800117	1472367800214	h	72
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694570	1472367800239	1472367800367	a	65
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694571	1472367800315	1472367800382	t	84
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694572	1472367800414	1472367800499	 	32
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694573	1472367800608	1472367800683	i	73
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694575	1472367800714	1472367800815	s	83
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694595	1472367800798	1472367800880	 	32
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694596	1472367800955	1472367801031	t	84
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694599	1472367801104	1472367801199	h	72
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694604	1472367801215	1472367801310	e	69
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694607	1472367801267	1472367801358	 	32
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694611	1472367801436	1472367801561	r	82
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694629	1472367801514	1472367801588	i	73
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694631	1472367801652	1472367801773	g	71
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694634	1472367801761	1472367801841	h	72
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694635	1472367801825	1472367801937	t	84
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694636	1472367801914	1472367801972	 	32
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694637	1472367802080	1472367802213	a	65
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694644	1472367802189	1472367802269	n	78
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694645	1472367802306	1472367802414	s	83
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694646	1472367802528	1472367802716	w	87
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694647	1472367802642	1472367802778	e	69
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694648	1472367802861	1472367802976	r	82
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694649	1472367803074	1472367803142	.	190
+34466	372249	I think that is the right answer.	I think that is the right answer.	17694665	1472367803237	1472367803293	ARW_LEFT	37
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694766	1472367808985	1472367809203	SHIFT	16
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694765	1472367809116	1472367809188	H	72
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694767	1472367809288	1472367809404	e	69
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694768	1472367809388	1472367809445	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694769	1472367809506	1472367809596	h	72
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694770	1472367809693	1472367809870	a	65
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694781	1472367809847	1472367809947	s	83
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694782	1472367809978	1472367810033	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694783	1472367810366	1472367810478	d	68
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694784	1472367810539	1472367810670	e	69
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694785	1472367810755	1472367810839	v	86
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694786	1472367810917	1472367811013	e	69
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694787	1472367811186	1472367811271	l	76
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694788	1472367811318	1472367811402	o	79
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694790	1472367811482	1472367811555	p	80
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694791	1472367811602	1472367811756	e	69
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694825	1472367811696	1472367811805	d	68
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694826	1472367811837	1472367811898	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694827	1472367812081	1472367812182	a	65
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694828	1472367812197	1472367812266	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694829	1472367812403	1472367812497	g	71
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694830	1472367812729	1472367812814	o	79
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694849	1472367812898	1472367812966	o	79
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694851	1472367813396	1472367813496	d	68
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694854	1472367813573	1472367813648	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694856	1472367813793	1472367813879	o	79
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694858	1472367813930	1472367813996	n	78
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694876	1472367814439	1472367814499	-	189
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694878	1472367814801	1472367814896	f	70
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694879	1472367814972	1472367815042	i	73
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694880	1472367815089	1472367815194	e	69
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694881	1472367815210	1472367815281	l	76
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694900	1472367815309	1472367815426	d	68
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694901	1472367815426	1472367815496	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694902	1472367815895	1472367815997	r	82
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694903	1472367816028	1472367816145	e	69
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694904	1472367816243	1472367816312	l	76
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694919	1472367816340	1472367816429	a	65
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694921	1472367816527	1472367816627	t	84
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694923	1472367816643	1472367816729	i	73
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694925	1472367816796	1472367816879	o	79
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694927	1472367816929	1472367816997	n	78
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694952	1472367817259	1472367817360	s	83
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694954	1472367817476	1472367817561	h	72
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694956	1472367817675	1472367817746	i	73
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694957	1472367817935	1472367818050	p	80
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694959	1472367818281	1472367818355	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694970	1472367818471	1472367818572	w	87
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694972	1472367818572	1472367818640	i	73
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694974	1472367818719	1472367818861	t	84
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694976	1472367818844	1472367818929	h	72
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17694978	1472367818976	1472367819046	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695010	1472367819274	1472367820461	SHIFT	16
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695007	1472367819759	1472367819879	Q	81
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695008	1472367820146	1472367820212	B	66
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695009	1472367820377	1472367820430	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695012	1472367820812	1472367821114	SHIFT	16
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695011	1472367821037	1472367821104	B	66
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695013	1472367821237	1472367821328	r	82
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695045	1472367821425	1472367821559	a	65
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695047	1472367821575	1472367821691	d	68
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695049	1472367821706	1472367821777	 	32
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695053	1472367821895	1472367822392	SHIFT	16
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695051	1472367822239	1472367822359	J	74
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695055	1472367822830	1472367822939	o	79
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695071	1472367823087	1472367823162	h	72
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695072	1472367823271	1472367823345	n	78
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695073	1472367823489	1472367823593	s	83
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695074	1472367823631	1472367823695	o	79
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695075	1472367823743	1472367823813	n	78
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695081	1472367823979	1472367824012	,	188
+34466	372254	He has developed a good on-field relationship with QB Brad Johnson.	He has developed a good on-field relationship with QB Brad Johnson,.	17695082	1472367824001	1472367824023	.	190
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695132	1472367826979	1472367827345	SHIFT	16
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695131	1472367827213	1472367827295	C	67
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695133	1472367827623	1472367827679	h	72
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695134	1472367827718	1472367827827	a	65
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695135	1472367827905	1472367827991	s	83
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695136	1472367828075	1472367828160	e	69
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695154	1472367828237	1472367828310	 	32
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695155	1472367828755	1472367828831	b	66
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695156	1472367828855	1472367828947	a	65
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695157	1472367829010	1472367829093	c	67
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695158	1472367829156	1472367829227	k	75
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695171	1472367829365	1472367829467	 	32
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695172	1472367829614	1472367829662	o	79
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695173	1472367829745	1472367829842	f	70
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695174	1472367829886	1472367829945	i	73
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695175	1472367830392	1472367830476	BKSP	8
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695177	1472367830791	1472367830945	f	70
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695187	1472367830985	1472367831059	i	73
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695188	1472367831163	1472367831268	c	67
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695189	1472367831347	1472367831539	e	69
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695190	1472367831468	1472367831601	r	82
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695191	1472367831633	1472367831691	 	32
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695208	1472367832101	1472367832246	a	65
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695210	1472367832271	1472367832349	n	78
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695213	1472367832356	1472367832476	d	68
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695216	1472367832458	1472367832526	 	32
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695220	1472367832624	1472367832665	t	84
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695233	1472367832748	1472367832811	h	72
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695235	1472367832859	1472367832943	e	69
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695237	1472367832965	1472367833042	i	73
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695238	1472367833097	1472367833185	r	82
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695239	1472367833201	1472367833272	 	32
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695242	1472367833597	1472367833698	p	80
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695244	1472367833784	1472367833860	l	76
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695248	1472367833926	1472367834026	a	65
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695252	1472367834058	1472367834143	n	78
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695256	1472367834212	1472367834297	 	32
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695269	1472367835006	1472367835076	u	85
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695270	1472367835187	1472367835260	p	80
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695271	1472367835471	1472367835563	d	68
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695272	1472367835626	1472367835739	a	65
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695273	1472367835757	1472367835808	t	84
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695295	1472367835835	1472367835910	e	69
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695296	1472367836017	1472367836110	s	83
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695297	1472367836142	1472367836193	 	32
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695298	1472367836625	1472367836725	i	73
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695299	1472367836941	1472367837025	n	78
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695321	1472367837188	1472367837291	d	68
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695323	1472367837473	1472367837557	i	73
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695324	1472367837870	1472367837986	v	86
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695326	1472367838155	1472367838227	i	73
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695327	1472367838286	1472367838406	d	68
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695349	1472367838448	1472367838509	u	85
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695350	1472367838546	1472367838641	a	65
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695351	1472367838670	1472367838840	l	76
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695352	1472367838922	1472367838973	l	76
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695353	1472367839075	1472367839181	y	89
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695360	1472367839262	1472367839342	.	190
+34466	372257	Chase back office and their restart plan updates individually.	Chase back officer and their plan updates individually.	17695361	1472367839423	1472367839483	ARW_LEFT	37
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695426	1472367842524	1472367842819	SHIFT	16
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695425	1472367842719	1472367842776	D	68
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695427	1472367843063	1472367843141	o	79
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695428	1472367843173	1472367843256	e	69
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695429	1472367843335	1472367843437	s	83
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695430	1472367843468	1472367843542	 	32
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695458	1472367843838	1472367844089	SHIFT	16
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695457	1472367843984	1472367844073	D	68
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695459	1472367844236	1472367844377	a	65
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695460	1472367844340	1472367844423	n	78
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695461	1472367844471	1472367844572	 	32
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695462	1472367844635	1472367844707	k	75
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695477	1472367844762	1472367844862	n	78
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695478	1472367844925	1472367845024	o	79
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695479	1472367845024	1472367845144	w	87
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695480	1472367845123	1472367845190	 	32
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695481	1472367845288	1472367845405	a	65
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695483	1472367845420	1472367845475	b	66
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695484	1472367845574	1472367845641	o	79
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695485	1472367845722	1472367845806	u	85
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695486	1472367845822	1472367845938	t	84
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695505	1472367845922	1472367845990	 	32
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695507	1472367846106	1472367846340	SHIFT	16
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695506	1472367846255	1472367846309	J	74
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695508	1472367846358	1472367846424	u	85
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695509	1472367846575	1472367846659	l	76
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695510	1472367846792	1472367846861	i	73
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695511	1472367846939	1472367847059	a	65
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695531	1472367847038	1472367847107	 	32
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695533	1472367847389	1472367847490	c	67
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695535	1472367847928	1472367848002	h	72
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695537	1472367848081	1472367848192	a	65
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695539	1472367848869	1472367848954	n	78
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695540	1472367849473	1472367849639	g	71
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695547	1472367849617	1472367849690	i	73
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695550	1472367849741	1472367849822	n	78
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695552	1472367849838	1472367849953	g	71
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695553	1472367849941	1472367850005	 	32
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695555	1472367850330	1472367850421	g	71
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695556	1472367850531	1472367850650	r	82
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695564	1472367851038	1472367851138	o	79
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695567	1472367851272	1472367851324	u	85
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695569	1472367851435	1472367851506	p	80
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695570	1472367851557	1472367851638	s	83
+34466	372263	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups.	17695572	1472367851717	1472367851790	.	190
+34466	372269	Are you going to apply?	Are you going to apple?	17695623	1472367854322	1472367854574	SHIFT	16
+34466	372269	Are you going to apply?	Are you going to apple?	17695622	1472367854455	1472367854558	A	65
+34466	372269	Are you going to apply?	Are you going to apple?	17695624	1472367854670	1472367854771	r	82
+34466	372269	Are you going to apply?	Are you going to apple?	17695625	1472367854802	1472367854930	e	69
+34466	372269	Are you going to apply?	Are you going to apple?	17695626	1472367854888	1472367854955	 	32
+34466	372269	Are you going to apply?	Are you going to apple?	17695627	1472367855002	1472367855087	y	89
+34466	372269	Are you going to apply?	Are you going to apple?	17695632	1472367855198	1472367855319	o	79
+34466	372269	Are you going to apply?	Are you going to apple?	17695634	1472367855319	1472367855406	u	85
+34466	372269	Are you going to apply?	Are you going to apple?	17695638	1472367855451	1472367855520	 	32
+34466	372269	Are you going to apply?	Are you going to apple?	17695642	1472367855536	1472367855659	g	71
+34466	372269	Are you going to apply?	Are you going to apple?	17695646	1472367855635	1472367855721	o	79
+34466	372269	Are you going to apply?	Are you going to apple?	17695648	1472367855804	1472367855888	i	73
+34466	372269	Are you going to apply?	Are you going to apple?	17695651	1472367855967	1472367856053	n	78
+34466	372269	Are you going to apply?	Are you going to apple?	17695654	1472367856089	1472367856189	g	71
+34466	372269	Are you going to apply?	Are you going to apple?	17695658	1472367856156	1472367856238	 	32
+34466	372269	Are you going to apply?	Are you going to apple?	17695661	1472367856269	1472367856373	t	84
+34466	372269	Are you going to apply?	Are you going to apple?	17695674	1472367856322	1472367856397	o	79
+34466	372269	Are you going to apply?	Are you going to apple?	17695675	1472367856413	1472367856489	 	32
+34466	372269	Are you going to apply?	Are you going to apple?	17695676	1472367856561	1472367856676	a	65
+34466	372269	Are you going to apply?	Are you going to apple?	17695677	1472367856655	1472367856722	p	80
+34466	372269	Are you going to apply?	Are you going to apple?	17695679	1472367856790	1472367856871	p	80
+34466	372269	Are you going to apply?	Are you going to apple?	17695681	1472367856953	1472367857038	l	76
+34466	372269	Are you going to apply?	Are you going to apple?	17695686	1472367857091	1472367857192	e	69
+34466	372269	Are you going to apply?	Are you going to apple?	17695689	1472367857354	1472367857435	?	191
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695799	1472367861825	1472367861889	D	68
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695802	1472367862045	1472367862155	r	82
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695805	1472367862201	1472367862306	o	79
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695808	1472367862339	1472367862420	p	80
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695810	1472367862455	1472367862539	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695817	1472367862621	1472367862702	h	72
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695818	1472367862775	1472367862876	i	73
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695820	1472367862923	1472367863020	m	77
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695822	1472367863071	1472367863155	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695824	1472367863629	1472367863682	u	85
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695839	1472367863747	1472367863836	n	78
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695841	1472367863961	1472367864021	l	76
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695844	1472367864130	1472367864188	e	69
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695847	1472367864301	1472367864354	s	83
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695849	1472367864417	1472367864517	s	83
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695859	1472367864533	1472367864619	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695861	1472367864688	1472367864752	y	89
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695865	1472367864835	1472367864922	o	79
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695868	1472367864953	1472367865042	u	85
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695870	1472367865095	1472367865186	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695871	1472367865532	1472367865647	p	80
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695872	1472367865694	1472367865786	l	76
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695873	1472367865851	1472367865995	a	65
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695874	1472367865983	1472367866069	y	89
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695875	1472367866116	1472367866186	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695889	1472367866299	1472367866369	i	73
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695891	1472367866452	1472367866555	n	78
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695893	1472367866602	1472367866686	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695897	1472367866917	1472367867046	a	65
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695915	1472367867036	1472367867103	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695919	1472367867592	1472367867670	k	75
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695922	1472367867701	1472367867787	e	69
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695925	1472367867855	1472367867971	e	69
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695928	1472367867986	1472367868053	p	80
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695932	1472367868106	1472367868263	e	69
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695934	1472367868188	1472367868314	r	82
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695935	1472367868299	1472367868368	 	32
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695936	1472367868487	1472367868559	l	76
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695937	1472367868638	1472367868718	e	69
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695938	1472367868822	1472367868934	a	65
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695939	1472367868983	1472367869037	g	71
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695948	1472367869117	1472367869170	u	85
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695949	1472367869233	1472367869335	e	69
+34466	372271	Drop him unless you play in a keeper league.	Drop him unless you play in a keeper league.	17695950	1472367869516	1472367869586	.	190

@@ -1,0 +1,631 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283388	1475524861516	1475524861682	SHIFT	16
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283385	1475524861586	1475524861662	I	73
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283393	1475524861730	1475524861826	'	222
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283398	1475524861889	1475524861952	l	76
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283403	1475524862023	1475524862136	l	76
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283410	1475524862094	1475524862202	 	32
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283411	1475524862218	1475524862297	g	71
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283412	1475524862280	1475524862386	i	73
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283413	1475524862386	1475524862510	v	86
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283414	1475524862471	1475524862572	e	69
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283422	1475524862530	1475524862654	 	32
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283424	1475524862608	1475524862673	h	72
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283426	1475524862656	1475524862811	i	73
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283427	1475524862771	1475524862956	m	77
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283457	1475524862903	1475524863006	 	49
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283460	1475524862984	1475524863056	0	48
+256280	2743422	I'll give him 10.	I'll give him1 0.	130283464	1475524863172	1475524863234	.	190
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283612	1475524868540	1475524868752	SHIFT	16
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283614	1475524868710	1475524868778	I	73
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283617	1475524868811	1475524868892	f	70
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283619	1475524868894	1475524868947	 	32
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283622	1475524868963	1475524869066	s	83
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283632	1475524869031	1475524869132	o	79
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283635	1475524869094	1475524869195	 	32
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283636	1475524869246	1475524869411	SHIFT	16
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283637	1475524869311	1475524869426	W	87
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283638	1475524869448	1475524869546	h	72
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283639	1475524869501	1475524869609	i	73
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283656	1475524869566	1475524869642	t	84
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283659	1475524869711	1475524869831	t	84
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283663	1475524869863	1475524869983	 	32
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283667	1475524869968	1475524870061	i	73
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283671	1475524870052	1475524870144	s	83
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283676	1475524870117	1475524870201	 	32
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283677	1475524870217	1475524870301	d	68
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283678	1475524870289	1475524870389	o	79
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283679	1475524870338	1475524870408	n	78
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283680	1475524870402	1475524870483	e	69
+256280	2743429	If so Whitt is done.	If so Whitt is done.	130283681	1475524870526	1475524870574	.	190
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283739	1475524873206	1475524873333	SHIFT	16
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283741	1475524873249	1475524873333	A	65
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283743	1475524873349	1475524873449	 	32
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283745	1475524873449	1475524873544	b	66
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283746	1475524873534	1475524873618	i	73
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283747	1475524873634	1475524873718	t	84
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283749	1475524873673	1475524873763	 	32
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283751	1475524874169	1475524874242	b	66
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283754	1475524874369	1475524874422	e	69
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283756	1475524874522	1475524874630	h	72
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283757	1475524874612	1475524874774	i	73
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283762	1475524874724	1475524874842	n	78
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283764	1475524874873	1475524874989	d	68
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283767	1475524875005	1475524875128	 	32
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283770	1475524875078	1475524875198	o	79
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283776	1475524875144	1475524875252	n	78
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283792	1475524875226	1475524875364	 	32
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283795	1475524875344	1475524875429	m	77
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283798	1475524875529	1475524875629	y	89
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283800	1475524875575	1475524875671	 	32
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283802	1475524875686	1475524875792	e	69
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283803	1475524875804	1475524875897	m	77
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283804	1475524875927	1475524876034	a	65
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283806	1475524875966	1475524876067	i	73
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283810	1475524876026	1475524876106	l	76
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283814	1475524876146	1475524876251	s	83
+256280	2743434	A bit behind on my emails.	A bit behind on my emails.	130283808	1475524876219	1475524876280	.	190
+256280	2743439	If not can I call you?	If not can I call you?	130283908	1475524878959	1475524879080	SHIFT	16
+256280	2743439	If not can I call you?	If not can I call you?	130283910	1475524879022	1475524879115	I	73
+256280	2743439	If not can I call you?	If not can I call you?	130283913	1475524879115	1475524879214	f	70
+256280	2743439	If not can I call you?	If not can I call you?	130283916	1475524879181	1475524879299	 	32
+256280	2743439	If not can I call you?	If not can I call you?	130283918	1475524879248	1475524879365	n	78
+256280	2743439	If not can I call you?	If not can I call you?	130283924	1475524879299	1475524879403	o	79
+256280	2743439	If not can I call you?	If not can I call you?	130283927	1475524879383	1475524879464	t	84
+256280	2743439	If not can I call you?	If not can I call you?	130283932	1475524879444	1475524879544	 	32
+256280	2743439	If not can I call you?	If not can I call you?	130283937	1475524879576	1475524879699	c	67
+256280	2743439	If not can I call you?	If not can I call you?	130283951	1475524879619	1475524879746	a	65
+256280	2743439	If not can I call you?	If not can I call you?	130283953	1475524879685	1475524879772	n	78
+256280	2743439	If not can I call you?	If not can I call you?	130283954	1475524879762	1475524879847	 	32
+256280	2743439	If not can I call you?	If not can I call you?	130283956	1475524879878	1475524880038	SHIFT	16
+256280	2743439	If not can I call you?	If not can I call you?	130283955	1475524879910	1475524880024	I	73
+256280	2743439	If not can I call you?	If not can I call you?	130283957	1475524879983	1475524880092	 	32
+256280	2743439	If not can I call you?	If not can I call you?	130283958	1475524880079	1475524880195	c	67
+256280	2743439	If not can I call you?	If not can I call you?	130283971	1475524880148	1475524880253	a	65
+256280	2743439	If not can I call you?	If not can I call you?	130283975	1475524880215	1475524880269	l	76
+256280	2743439	If not can I call you?	If not can I call you?	130283979	1475524880316	1475524880414	l	76
+256280	2743439	If not can I call you?	If not can I call you?	130283982	1475524880387	1475524880507	 	32
+256280	2743439	If not can I call you?	If not can I call you?	130283984	1475524880449	1475524880523	y	89
+256280	2743439	If not can I call you?	If not can I call you?	130283986	1475524880523	1475524880640	o	79
+256280	2743439	If not can I call you?	If not can I call you?	130283987	1475524880637	1475524880670	u	85
+256280	2743439	If not can I call you?	If not can I call you?	130283989	1475524880658	1475524880850	SHIFT	16
+256280	2743439	If not can I call you?	If not can I call you?	130283988	1475524880749	1475524880821	?	191
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284544	1475524893922	1475524894066	SHIFT	16
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284547	1475524894023	1475524894093	H	72
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284550	1475524894123	1475524894215	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284555	1475524894205	1475524894324	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284560	1475524894260	1475524894392	l	76
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284596	1475524894339	1475524894424	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284598	1475524894602	1475524894659	f	70
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284599	1475524894757	1475524894826	t	84
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284600	1475524894904	1475524894988	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284602	1475524895160	1475524895260	t	84
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284605	1475524895291	1475524895364	h	72
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284624	1475524895368	1475524895459	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284626	1475524895429	1475524895522	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284629	1475524895576	1475524895629	j	74
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284631	1475524896033	1475524896185	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284646	1475524896149	1475524896295	t	84
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284653	1475524896250	1475524896363	s	83
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284658	1475524896350	1475524896434	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284664	1475524896450	1475524896578	w	87
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284669	1475524896550	1475524896687	i	73
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284676	1475524896634	1475524896756	n	78
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284679	1475524896716	1475524896839	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284683	1475524896803	1475524896900	o	79
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284686	1475524896871	1475524896951	v	86
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284688	1475524897013	1475524897140	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284702	1475524897088	1475524897227	r	82
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284705	1475524897155	1475524897269	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284710	1475524897237	1475524897390	SHIFT	16
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284714	1475524897316	1475524897437	M	77
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284719	1475524897438	1475524897537	i	73
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284722	1475524897508	1475524897621	a	65
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284726	1475524897638	1475524897738	n	78
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284743	1475524897756	1475524897795	i	73
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284744	1475524897943	1475524897995	BKSP	8
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284745	1475524898043	1475524898111	BKSP	8
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284746	1475524898206	1475524898340	m	77
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284747	1475524898295	1475524898435	i	73
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284748	1475524898407	1475524898543	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284761	1475524898513	1475524898639	i	73
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284765	1475524898581	1475524898693	n	78
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284767	1475524898660	1475524898751	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284770	1475524898697	1475524898782	t	84
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284773	1475524898789	1475524898875	h	72
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284789	1475524898847	1475524898936	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284792	1475524898915	1475524899020	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284796	1475524898984	1475524899165	s	83
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284799	1475524899064	1475524899254	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284802	1475524899211	1475524899349	c	67
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284808	1475524899301	1475524899415	o	79
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284809	1475524899371	1475524899470	n	78
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284810	1475524899453	1475524899569	d	68
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284812	1475524899503	1475524899634	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284815	1475524899601	1475524899708	h	72
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284852	1475524899685	1475524899804	a	65
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284853	1475524899765	1475524899849	l	76
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284854	1475524899865	1475524899954	f	70
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284855	1475524899908	1475524900040	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284857	1475524899969	1475524900081	o	79
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284862	1475524900228	1475524900349	n	78
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284903	1475524900307	1475524900451	 	32
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284906	1475524900464	1475524900623	SHIFT	16
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284913	1475524900549	1475524900646	O	79
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284917	1475524900682	1475524900766	c	67
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284920	1475524900974	1475524901052	t	84
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284922	1475524901041	1475524901175	o	79
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284929	1475524901158	1475524901228	b	66
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284931	1475524901289	1475524901432	e	69
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284934	1475524901374	1475524901479	r	82
+256280	2743442	He left the Jets  win over Miami in the second half on October.	He left the jets win over Miami in the second half on October.	130284937	1475524901412	1475524901495	.	190
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285082	1475524904908	1475524905015	SHIFT	16
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285084	1475524904955	1475524905072	I	73
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285086	1475524905031	1475524905159	 	32
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285089	1475524905112	1475524905193	t	84
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285101	1475524905148	1475524905209	h	72
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285102	1475524905185	1475524905313	i	73
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285103	1475524905280	1475524905415	n	78
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285105	1475524905396	1475524905492	k	75
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285106	1475524905464	1475524905592	 	32
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285108	1475524905548	1475524905692	i	73
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285116	1475524905680	1475524905829	 	32
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285117	1475524905937	1475524906003	BKSP	8
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285118	1475524906003	1475524906104	t	84
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285119	1475524906054	1475524906151	 	32
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285120	1475524906167	1475524906295	s	83
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285132	1475524906236	1475524906307	h	72
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285137	1475524906283	1475524906393	o	79
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285141	1475524906378	1475524906494	u	85
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285144	1475524906469	1475524906570	l	76
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285147	1475524906506	1475524906593	d	68
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285150	1475524906546	1475524906656	 	32
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285159	1475524906645	1475524906722	b	66
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285163	1475524906786	1475524906886	e	69
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285167	1475524906857	1475524906952	 	32
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285171	1475524906952	1475524907037	f	70
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285175	1475524907025	1475524907186	i	73
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285188	1475524907134	1475524907199	x	88
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285190	1475524907305	1475524907380	e	69
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285195	1475524907437	1475524907588	 	32
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285192	1475524907463	1475524907563	d	68
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285199	1475524907535	1475524907658	n	78
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285208	1475524907595	1475524907672	o	79
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285211	1475524907685	1475524907775	w	87
+256280	2743459	I think it should be fixed now.	I think it should be fixe dnow.	130285213	1475524907940	1475524908026	.	190
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285345	1475524912351	1475524912470	SHIFT	16
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285346	1475524912409	1475524912498	W	87
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285347	1475524912486	1475524912599	h	72
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285348	1475524912583	1475524912687	a	65
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285349	1475524912652	1475524912729	t	84
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285359	1475524912708	1475524912784	 	32
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285361	1475524912800	1475524912883	d	68
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285364	1475524912852	1475524912984	i	73
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285366	1475524912949	1475524913071	d	68
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285369	1475524912968	1475524913086	 	32
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285370	1475524913017	1475524913110	y	89
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285371	1475524913086	1475524913210	o	79
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285372	1475524913169	1475524913290	u	85
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285373	1475524913217	1475524913317	 	32
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285374	1475524913333	1475524913430	a	65
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285389	1475524913408	1475524913462	n	78
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285391	1475524913478	1475524913590	d	68
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285396	1475524913541	1475524913653	 	32
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285400	1475524913668	1475524913778	SHIFT	16
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285402	1475524913699	1475524913821	A	65
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285404	1475524913924	1475524914024	v	86
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285422	1475524914008	1475524914156	a	65
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285428	1475524914187	1475524914300	 	32
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285433	1475524914277	1475524914361	d	68
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285439	1475524914425	1475524914559	e	69
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285443	1475524914526	1475524914625	c	67
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285449	1475524914641	1475524914787	i	73
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285448	1475524914695	1475524914776	d	68
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285450	1475524914842	1475524914943	e	69
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285451	1475524914926	1475524914998	 	32
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285452	1475524915021	1475524915097	t	84
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285453	1475524915052	1475524915151	o	79
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285462	1475524915127	1475524915197	 	32
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285464	1475524915163	1475524915281	d	68
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285467	1475524915227	1475524915319	o	79
+256280	2743465	What did you and Ava decide to do?	What did you and Ava decide to do?	130285469	1475524915444	1475524915522	?	191
+256280	2743472	I am fine with this.	I am fine with this.	130285583	1475524918647	1475524918747	I	73
+256280	2743472	I am fine with this.	I am fine with this.	130285586	1475524918700	1475524918797	 	32
+256280	2743472	I am fine with this.	I am fine with this.	130285589	1475524918783	1475524918885	a	65
+256280	2743472	I am fine with this.	I am fine with this.	130285595	1475524918833	1475524918953	m	77
+256280	2743472	I am fine with this.	I am fine with this.	130285606	1475524918916	1475524919046	 	32
+256280	2743472	I am fine with this.	I am fine with this.	130285607	1475524918985	1475524919087	f	70
+256280	2743472	I am fine with this.	I am fine with this.	130285608	1475524919064	1475524919185	i	73
+256280	2743472	I am fine with this.	I am fine with this.	130285609	1475524919120	1475524919229	n	78
+256280	2743472	I am fine with this.	I am fine with this.	130285611	1475524919201	1475524919269	e	69
+256280	2743472	I am fine with this.	I am fine with this.	130285613	1475524919285	1475524919376	 	32
+256280	2743472	I am fine with this.	I am fine with this.	130285638	1475524919424	1475524919502	i	73
+256280	2743472	I am fine with this.	I am fine with this.	130285639	1475524919566	1475524919658	h	84
+256280	2743472	I am fine with this.	I am fine with this.	130285640	1475524919620	1475524919766	 	32
+256280	2743472	I am fine with this.	I am fine with this.	130285641	1475524919869	1475524919921	BKSP	8
+256280	2743472	I am fine with this.	I am fine with this.	130285642	1475524919986	1475524920047	BKSP	8
+256280	2743472	I am fine with this.	I am fine with this.	130285643	1475524920110	1475524920159	BKSP	8
+256280	2743472	I am fine with this.	I am fine with this.	130285644	1475524920222	1475524920275	BKSP	8
+256280	2743472	I am fine with this.	I am fine with this.	130285645	1475524920291	1475524920387	w	87
+256280	2743472	I am fine with this.	I am fine with this.	130285646	1475524920400	1475524920486	i	73
+256280	2743472	I am fine with this.	I am fine with this.	130285647	1475524920502	1475524920622	t	84
+256280	2743472	I am fine with this.	I am fine with this.	130285648	1475524920556	1475524920653	h	72
+256280	2743472	I am fine with this.	I am fine with this.	130285649	1475524920612	1475524920747	 	32
+256280	2743472	I am fine with this.	I am fine with this.	130285674	1475524920709	1475524920809	t	84
+256280	2743472	I am fine with this.	I am fine with this.	130285678	1475524920773	1475524920861	h	72
+256280	2743472	I am fine with this.	I am fine with this.	130285683	1475524920823	1475524920905	i	73
+256280	2743472	I am fine with this.	I am fine with this.	130285685	1475524920890	1475524921004	s	83
+256280	2743472	I am fine with this.	I am fine with this.	130285689	1475524921020	1475524921078	.	190
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285789	1475524923890	1475524924057	SHIFT	16
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285787	1475524923988	1475524924041	O	79
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285791	1475524924106	1475524924191	n	78
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285793	1475524924206	1475524924316	c	67
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285798	1475524924258	1475524924371	e	69
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285800	1475524924294	1475524924429	 	32
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285803	1475524924373	1475524924447	y	89
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285805	1475524924429	1475524924547	o	79
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285807	1475524924508	1475524924645	u	85
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285810	1475524924570	1475524924670	 	32
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285816	1475524924673	1475524924774	d	68
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285829	1475524924708	1475524924787	o	79
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285831	1475524924878	1475524924968	,	188
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285834	1475524924947	1475524925072	 	32
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285837	1475524925030	1475524925094	y	89
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285841	1475524925109	1475524925209	o	79
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285845	1475524925181	1475524925281	u	85
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285847	1475524925225	1475524925331	 	32
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285849	1475524925328	1475524925418	c	67
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285874	1475524925376	1475524925518	a	65
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285852	1475524925433	1475524925506	n	78
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285877	1475524925482	1475524925607	 	32
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285880	1475524925566	1475524925683	n	78
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285883	1475524925619	1475524925714	e	69
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285886	1475524925746	1475524925819	v	86
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285890	1475524925866	1475524926004	e	69
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285898	1475524925951	1475524926074	r	82
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285900	1475524926057	1475524926176	 	32
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285902	1475524926155	1475524926283	g	71
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285904	1475524926236	1475524926362	o	79
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285907	1475524926319	1475524926433	 	32
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285919	1475524926399	1475524926483	b	66
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285920	1475524926534	1475524926657	a	65
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285921	1475524926621	1475524926723	c	67
+256280	2743476	Once you do, you can never go back.	Once you do, you can never go back.	130285922	1475524926682	1475524926738	k	75
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286439	1475524926832	1475524938988	.	190
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286102	1475524932178	1475524932361	SHIFT	16
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286105	1475524932315	1475524932402	W	72
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286110	1475524932848	1475524932916	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286112	1475524932932	1475524933042	n	78
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286132	1475524933011	1475524933123	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286133	1475524933107	1475524933171	t	84
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286137	1475524933217	1475524933288	h	72
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286142	1475524933317	1475524933422	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286148	1475524933396	1475524933511	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286152	1475524933534	1475524933674	i	73
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286168	1475524933618	1475524933749	n	78
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286170	1475524933749	1475524933878	s	83
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286173	1475524933849	1475524933976	p	80
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286177	1475524933934	1475524934077	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286180	1475524934018	1475524934118	c	67
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286185	1475524934220	1475524934317	t	84
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286201	1475524934293	1475524934437	i	73
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286204	1475524934345	1475524934477	o	79
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286206	1475524934412	1475524934524	n	78
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286208	1475524934517	1475524934624	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286211	1475524934581	1475524934719	i	73
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286214	1475524934759	1475524934904	s	83
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286223	1475524934861	1475524934996	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286225	1475524934981	1475524935098	f	70
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286230	1475524935078	1475524935155	i	73
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286234	1475524935129	1475524935276	n	78
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286241	1475524935246	1475524935338	i	73
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286264	1475524935300	1475524935417	s	83
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286267	1475524935398	1475524935526	h	72
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286271	1475524935466	1475524935530	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286275	1475524935609	1475524935698	d	68
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286281	1475524935687	1475524935764	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286293	1475524935731	1475524935847	w	87
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286296	1475524935910	1475524936018	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286299	1475524936035	1475524936133	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286302	1475524936135	1475524936252	w	87
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286304	1475524936206	1475524936272	i	73
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286309	1475524936351	1475524936405	l	76
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286325	1475524936472	1475524936574	l	76
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286327	1475524936532	1475524936670	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286329	1475524936592	1475524936701	c	67
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286331	1475524936670	1475524936738	o	79
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286333	1475524936785	1475524936858	m	77
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286346	1475524936915	1475524936993	m	77
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286349	1475524937086	1475524937159	u	85
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286355	1475524937242	1475524937346	n	78
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286378	1475524937310	1475524937446	i	73
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286359	1475524937346	1475524937412	c	67
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286379	1475524937432	1475524937574	a	65
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286380	1475524937542	1475524937679	t	84
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286381	1475524937610	1475524937751	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286382	1475524937769	1475524937867	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286383	1475524937885	1475524937969	t	84
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286396	1475524937936	1475524938043	h	72
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286399	1475524937986	1475524938099	o	79
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286404	1475524938059	1475524938195	s	83
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286412	1475524938131	1475524938231	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286415	1475524938195	1475524938331	 	32
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286419	1475524938279	1475524938443	r	82
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286420	1475524938361	1475524938488	e	69
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286421	1475524938460	1475524938644	s	83
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286422	1475524938584	1475524938722	u	85
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286428	1475524938664	1475524938768	l	76
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286431	1475524938701	1475524938848	t	84
+256280	2743483	When the inspection is finished we will communicate those results.	HWen the inspection is finished we will communicate those results.	130286435	1475524938784	1475524938901	s	83
+256280	2743491	I told you silly.	I todl you silly.	130286554	1475524942044	1475524942187	SHIFT	16
+256280	2743491	I told you silly.	I todl you silly.	130286557	1475524942129	1475524942232	I	73
+256280	2743491	I told you silly.	I todl you silly.	130286559	1475524942203	1475524942290	 	32
+256280	2743491	I told you silly.	I todl you silly.	130286560	1475524942272	1475524942353	t	84
+256280	2743491	I told you silly.	I todl you silly.	130286562	1475524942337	1475524942403	o	79
+256280	2743491	I told you silly.	I todl you silly.	130286565	1475524942450	1475524942540	d	68
+256280	2743491	I told you silly.	I todl you silly.	130286572	1475524942487	1475524942598	l	76
+256280	2743491	I told you silly.	I todl you silly.	130286573	1475524942583	1475524942703	 	32
+256280	2743491	I told you silly.	I todl you silly.	130286578	1475524942663	1475524942737	y	89
+256280	2743491	I told you silly.	I todl you silly.	130286583	1475524942718	1475524942834	o	79
+256280	2743491	I told you silly.	I todl you silly.	130286588	1475524942803	1475524942932	u	85
+256280	2743491	I told you silly.	I todl you silly.	130286601	1475524942867	1475524942983	 	32
+256280	2743491	I told you silly.	I todl you silly.	130286602	1475524943168	1475524943293	s	83
+256280	2743491	I told you silly.	I todl you silly.	130286603	1475524943255	1475524943309	i	73
+256280	2743491	I told you silly.	I todl you silly.	130286604	1475524943399	1475524943441	l	76
+256280	2743491	I told you silly.	I todl you silly.	130286605	1475524943515	1475524943617	l	76
+256280	2743491	I told you silly.	I todl you silly.	130286606	1475524943572	1475524943650	y	89
+256280	2743491	I told you silly.	I todl you silly.	130286608	1475524943735	1475524943827	.	190
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286722	1475524948430	1475524948573	SHIFT	16
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286726	1475524948530	1475524948599	T	84
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286730	1475524948615	1475524948699	h	72
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286732	1475524948670	1475524948752	i	73
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286736	1475524948711	1475524948809	s	83
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286743	1475524948783	1475524948904	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286747	1475524948867	1475524948960	y	89
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286750	1475524948919	1475524949036	e	69
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286755	1475524948989	1475524949124	a	65
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286761	1475524949065	1475524949191	r	82
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286773	1475524949132	1475524949216	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286776	1475524949236	1475524949407	SHIFT	16
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286780	1475524949299	1475524949423	I	73
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286785	1475524949369	1475524949493	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286790	1475524949470	1475524949594	c	67
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286793	1475524949554	1475524949656	a	65
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286798	1475524949603	1475524949730	n	78
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286799	1475524949703	1475524949797	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286800	1475524949755	1475524949920	w	87
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286801	1475524949840	1475524949987	a	65
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286812	1475524949935	1475524950025	l	76
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286813	1475524949971	1475524950104	k	75
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286815	1475524950072	1475524950167	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286820	1475524950124	1475524950271	a	65
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286824	1475524950221	1475524950276	n	78
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286827	1475524950305	1475524950391	d	68
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286834	1475524950345	1475524950444	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286837	1475524950405	1475524950505	i	73
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286838	1475524950489	1475524950569	t	84
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286840	1475524950526	1475524950621	'	222
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286842	1475524950636	1475524950744	s	83
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286869	1475524950705	1475524950824	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286871	1475524950824	1475524950981	s	83
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286875	1475524950885	1475524950981	o	79
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286879	1475524950931	1475524951072	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286882	1475524951244	1475524951295	u	85
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286887	1475524951360	1475524951464	c	67
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286925	1475524951560	1475524951570	BKSP	8
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286927	1475524952046	1475524952115	BKSP	8
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286932	1475524952194	1475524952279	m	77
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286935	1475524952366	1475524952419	u	85
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286939	1475524952419	1475524952541	c	67
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286943	1475524952502	1475524952585	h	72
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286954	1475524952555	1475524952651	 	32
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286958	1475524952684	1475524952755	b	66
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286961	1475524952820	1475524952921	e	69
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286964	1475524952887	1475524952957	t	84
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286968	1475524953020	1475524953097	t	84
+256280	2743494	This year I can walk and it's so much better.	This year I can walk and it's so much better.	130286971	1475524953072	1475524953237	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287570	1475524967526	1475524967691	SHIFT	16
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287571	1475524967615	1475524967711	H	72
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287573	1475524967711	1475524967795	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287575	1475524967790	1475524967913	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287579	1475524967929	1475524968048	q	81
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287589	1475524968030	1475524968151	u	85
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287591	1475524968093	1475524968202	o	79
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287595	1475524968166	1475524968298	t	84
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287598	1475524968231	1475524968314	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287601	1475524968398	1475524968509	d	68
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287641	1475524968497	1475524968600	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287648	1475524968616	1475524968782	SHIFT	16
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287644	1475524968679	1475524968766	L	76
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287652	1475524968963	1475524969021	BKSP	8
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287658	1475524969148	1475524969201	l	76
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287663	1475524969248	1475524969348	o	79
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287668	1475524969363	1475524969494	c	67
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287700	1475524969408	1475524969556	a	65
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287702	1475524969486	1475524969587	l	76
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287704	1475524969806	1475524969922	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287706	1475524970006	1475524970239	SHIFT	16
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287707	1475524970202	1475524970259	Y	89
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287708	1475524970338	1475524970438	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287709	1475524970422	1475524970506	m	77
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287710	1475524970608	1475524970721	n	78
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287713	1475524970700	1475524970838	i	73
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287715	1475524970804	1475524970921	s	83
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287717	1475524970900	1475524970981	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287720	1475524971008	1475524971163	a	65
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287723	1475524971104	1475524971226	s	83
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287737	1475524971208	1475524971340	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287740	1475524971308	1475524971465	s	83
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287742	1475524971401	1475524971582	a	65
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287744	1475524971532	1475524971599	y	89
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287747	1475524971663	1475524971784	i	73
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287752	1475524971737	1475524971840	n	78
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287753	1475524971821	1475524971900	g	71
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287754	1475524971917	1475524971996	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287755	1475524971969	1475524972074	t	84
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287756	1475524972053	1475524972136	h	72
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287810	1475524972117	1475524972258	a	65
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287811	1475524972185	1475524972298	t	84
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287812	1475524972238	1475524972365	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287813	1475524972536	1475524972636	3	51
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287814	1475524972837	1475524972952	4	52
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287815	1475524973037	1475524973079	BKSP	8
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287816	1475524973324	1475524973391	4	52
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287854	1475524973398	1475524973463	BKSP	8
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287856	1475524973517	1475524973672	4	52
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287861	1475524973723	1475524973794	BKSP	8
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287865	1475524973843	1475524973951	BKSP	8
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287868	1475524973926	1475524974052	4	52
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287871	1475524973980	1475524974068	3	51
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287873	1475524974083	1475524974227	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287875	1475524974209	1475524974263	p	80
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287876	1475524974279	1475524974374	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287879	1475524974390	1475524974451	o	79
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287882	1475524974427	1475524974583	p	80
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287886	1475524974543	1475524974647	l	76
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287903	1475524974627	1475524974727	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287907	1475524974699	1475524974799	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287909	1475524974874	1475524974977	h	72
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287912	1475524974949	1475524975091	a	65
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287914	1475524975028	1475524975114	d	68
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287929	1475524975099	1475524975218	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287932	1475524975228	1475524975286	b	66
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287934	1475524975361	1475524975429	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287937	1475524975508	1475524975629	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287954	1475524975529	1475524975637	n	78
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287956	1475524975589	1475524975715	 	32
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287958	1475524975685	1475524975764	k	75
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287961	1475524975824	1475524975907	i	73
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287963	1475524975873	1475524975945	l	76
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287965	1475524975976	1475524976097	l	76
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287968	1475524976129	1475524976205	e	69
+256280	2743502	He quoted local Yemenis as saying that 43 people had been killed.	He quoted local Yemnis as saying that 43 people had been killed.	130287969	1475524976308	1475524976401	d	68
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288211	1475524982285	1475524982462	SHIFT	16
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288215	1475524982370	1475524982468	I	73
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288217	1475524982436	1475524982572	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288220	1475524982537	1475524982663	h	72
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288224	1475524982603	1475524982727	a	65
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288251	1475524982702	1475524982806	v	86
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288256	1475524982766	1475524982900	e	69
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288263	1475524982853	1475524982956	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288271	1475524982956	1475524983093	a	65
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288279	1475524983056	1475524983156	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288283	1475524983173	1475524983265	t	84
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288311	1475524983226	1475524983365	o	79
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288315	1475524983309	1475524983400	u	85
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288320	1475524983416	1475524983524	c	67
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288325	1475524983505	1475524983611	h	72
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288329	1475524983570	1475524983693	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288332	1475524983777	1475524983877	f	70
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288367	1475524984109	1475524984178	BKSP	8
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288371	1475524984294	1475524984362	o	79
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288375	1475524984362	1475524984479	f	70
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288379	1475524984432	1475524984510	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288395	1475524984541	1475524984677	f	70
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288383	1475524984632	1475524984658	o	79
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288396	1475524984716	1475524984812	o	79
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288397	1475524984827	1475524984976	d	68
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288398	1475524984918	1475524985035	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288399	1475524984981	1475524985105	p	80
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288435	1475524985051	1475524985235	o	79
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288442	1475524985179	1475524985346	i	73
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288448	1475524985346	1475524985515	s	83
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288450	1475524985557	1475524985718	o	79
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288453	1475524985683	1475524985819	n	78
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288459	1475524985819	1475524985984	i	73
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288456	1475524985920	1475524986035	n	78
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288461	1475524986013	1475524986118	g	71
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288465	1475524986104	1475524986211	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288470	1475524986188	1475524986297	t	84
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288473	1475524986259	1475524986342	h	72
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288479	1475524986310	1475524986396	i	73
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288482	1475524986389	1475524986494	s	83
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288485	1475524986441	1475524986561	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288490	1475524986509	1475524986648	m	77
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288493	1475524986589	1475524986696	o	79
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288498	1475524986727	1475524986831	n	78
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288501	1475524986823	1475524986989	i	73
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288503	1475524986907	1475524987042	n	78
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288506	1475524986961	1475524987058	g	71
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288509	1475524987092	1475524987192	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288518	1475524987147	1475524987241	b	66
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288521	1475524987256	1475524987329	u	85
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288523	1475524987344	1475524987440	t	84
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288525	1475524987408	1475524987494	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288539	1475524987494	1475524987687	SHIFT	16
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288528	1475524987541	1475524987670	I	73
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288542	1475524987629	1475524987732	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288545	1475524987748	1475524987844	m	77
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288548	1475524987860	1475524988044	a	65
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288552	1475524987962	1475524988087	y	89
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288556	1475524988018	1475524988135	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288571	1475524988095	1475524988167	b	66
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288573	1475524988230	1475524988335	e	69
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288575	1475524988314	1475524988407	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288578	1475524988384	1475524988491	i	73
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288580	1475524988435	1475524988573	n	78
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288594	1475524988529	1475524988663	 	32
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288597	1475524988614	1475524988746	l	76
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288601	1475524988714	1475524988860	a	65
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288608	1475524988819	1475524988872	t	84
+256280	2743525	I have a touch of food poisoning this morning but I may be in later.	I have a touch of food poisoning this mrning but I may be in later.	130288614	1475524988872	1475524989021	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289053	1475524988955	1475524996762	r	82
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288939	1475524994577	1475524994761	SHIFT	16
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288941	1475524994661	1475524994768	I	73
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288944	1475524994725	1475524994846	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288947	1475524994862	1475524994952	d	68
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288951	1475524994903	1475524995043	o	79
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288963	1475524994967	1475524995103	n	78
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288965	1475524995027	1475524995147	'	222
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288967	1475524995123	1475524995222	t	84
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288971	1475524995171	1475524995289	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288973	1475524995230	1475524995368	h	72
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288975	1475524995321	1475524995461	a	65
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288993	1475524995388	1475524995505	v	86
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130288998	1475524995444	1475524995600	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289000	1475524995531	1475524995636	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289005	1475524995574	1475524995636	l	76
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289007	1475524995848	1475524995905	BKSP	8
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289011	1475524995921	1475524996091	SHIFT	16
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289009	1475524996038	1475524996075	L	76
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289014	1475524996139	1475524996240	o	79
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289033	1475524996223	1475524996340	s	83
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289036	1475524996276	1475524996371	t	84
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289041	1475524996340	1475524996458	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289048	1475524996428	1475524996578	SHIFT	16
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289044	1475524996504	1475524996562	C	67
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289050	1475524996713	1475524996762	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289055	1475524996778	1475524996999	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289093	1475524996974	1475524997003	k	75
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289095	1475524997445	1475524997579	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289097	1475524997610	1475524997736	y	89
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289098	1475524997715	1475524997818	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289099	1475524997768	1475524997880	t	84
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289100	1475524997895	1475524998043	-	189
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289124	1475524998018	1475524998164	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289127	1475524998526	1475524998664	h	72
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289129	1475524998585	1475524998748	o	79
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289133	1475524998664	1475524998822	p	80
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289135	1475524998780	1475524998880	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289147	1475524998914	1475524999035	f	70
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289137	1475524998956	1475524999007	u	85
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289150	1475524999062	1475524999122	l	76
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289153	1475524999186	1475524999326	l	76
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289155	1475524999270	1475524999386	y	89
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289159	1475524999350	1475524999454	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289168	1475524999390	1475524999466	b	66
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289170	1475524999507	1475524999632	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289172	1475524999592	1475524999673	f	70
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289173	1475524999656	1475524999748	o	79
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289175	1475524999757	1475524999907	r	82
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289190	1475524999825	1475524999957	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289186	1475524999848	1475524999949	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289193	1475524999891	1475524999983	y	89
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289200	1475524999957	1475525000117	o	79
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289207	1475525000057	1475525000152	u	85
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289210	1475525000107	1475525000193	 	32
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289214	1475525000240	1475525000351	l	76
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289220	1475525000312	1475525000411	e	69
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289223	1475525000387	1475525000521	a	65
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289225	1475525000536	1475525000603	v	86
+256280	2743539	I don't have Lost Creek yet - hopefully before you leave.	I don't have Lost reek yet- hopefully befor eyou leave.	130289229	1475525000559	1475525000662	e	69

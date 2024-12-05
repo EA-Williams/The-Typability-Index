@@ -1,0 +1,831 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240758	1476280749504	1476280749933	SHIFT	16
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240760	1476280749733	1476280749956	I	73
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240762	1476280750325	1476280750544	 	32
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240765	1476280750661	1476280750892	t	84
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240771	1476280750852	1476280751020	g	71
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240776	1476280751734	1476280751893	BKSP	8
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240781	1476280751949	1476280752117	h	72
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240888	1476280752485	1476280752605	i	73
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240892	1476280752917	1476280753157	n	78
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240896	1476280753413	1476280753581	k	75
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240899	1476280753645	1476280753845	 	32
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240901	1476280754205	1476280754413	t	84
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240950	1476280754438	1476280754614	i	73
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240952	1476280754829	1476280754989	m	77
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240954	1476280755205	1476280755357	 	32
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240955	1476280755485	1476280755637	w	87
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240956	1476280755725	1476280755917	a	65
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240992	1476280755845	1476280756005	n	78
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159240998	1476280755997	1476280756269	t	84
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241002	1476280756221	1476280756405	s	83
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241006	1476280756341	1476280756517	 	32
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241011	1476280756493	1476280756661	t	84
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241083	1476280756637	1476280756829	o	79
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241086	1476280756877	1476280757069	 	32
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241091	1476280757149	1476280757317	m	77
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241096	1476280757413	1476280757605	o	79
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241099	1476280757517	1476280757669	v	86
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241102	1476280757893	1476280758029	e	69
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241174	1476280758013	1476280758197	 	32
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241179	1476280758541	1476280758725	q	81
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241188	1476280758693	1476280758845	u	85
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241197	1476280759005	1476280759149	i	73
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241202	1476280759109	1476280759277	c	67
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241207	1476280759357	1476280759549	k	75
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241383	1476280759846	1476280760069	l	76
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241389	1476280760021	1476280760253	t	84
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241392	1476280761109	1476280761197	BKSP	8
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241396	1476280761845	1476280762029	y	89
+311495	3351100	I think Tim wants to move quickly.	I think tim wants to move quickly.	159241399	1476280762741	1476280762917	.	190
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242018	1476280765957	1476280766068	SHIFT	16
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242021	1476280767069	1476280767316	w	87
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242032	1476280767868	1476280770253	SHIFT	16
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242024	1476280768910	1476280769101	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242026	1476280769077	1476280769309	Q	81
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242028	1476280769806	1476280769973	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242030	1476280769942	1476280770149	W	87
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242033	1476280770805	1476280771005	w	87
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242034	1476280771541	1476280771781	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242035	1476280773757	1476280773957	CAPS_LOCK	20
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242037	1476280774309	1476280774517	W	87
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242374	1476280775157	1476280775397	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242375	1476280775375	1476280775581	CAPS_LOCK	20
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242376	1476280776021	1476280776269	w	87
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242378	1476280777053	1476280777269	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242381	1476280777413	1476280777685	w	87
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242384	1476280778205	1476280778429	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242388	1476280779245	1476280779461	e	69
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242392	1476280779629	1476280779829	r	82
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242397	1476280780566	1476280780757	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242402	1476280781093	1476280781285	'	222
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242523	1476280781805	1476280782021	r	82
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242525	1476280782501	1476280782685	e	69
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242527	1476280782789	1476280782949	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242529	1476280783125	1476280783277	m	77
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242531	1476280783725	1476280783885	p	80
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242847	1476280784093	1476280784245	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242848	1476280784341	1476280784485	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242851	1476280787838	1476280787981	n	78
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242856	1476280788125	1476280788373	o	79
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242861	1476280788261	1476280788437	t	84
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242868	1476280788445	1476280788645	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159242872	1476280789109	1476280789293	a	65
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243024	1476280790798	1476280791013	w	87
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243029	1476280791109	1476280791325	a	65
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243036	1476280791517	1476280791693	r	82
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243042	1476280791877	1476280792021	e	69
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243046	1476280792053	1476280792213	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243078	1476280792229	1476280792469	o	79
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243081	1476280792357	1476280792525	f	70
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243083	1476280792565	1476280792749	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243086	1476280792741	1476280792957	a	65
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243089	1476280793021	1476280793189	n	78
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243373	1476280793181	1476280793340	t	84
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243376	1476280793348	1476280793532	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243379	1476280793660	1476280793796	p	80
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243382	1476280794277	1476280794486	o	79
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243385	1476280797357	1476280797901	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243391	1476280798613	1476280798813	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243393	1476280799197	1476280799413	y	89
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243395	1476280799549	1476280799709	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243420	1476280799845	1476280800029	p	80
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243424	1476280800173	1476280800340	o	79
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243434	1476280800300	1476280800404	s	83
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243441	1476280800524	1476280800716	s	83
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243512	1476280800668	1476280800804	i	73
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243515	1476280800924	1476280801092	b	66
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243520	1476280801477	1476280801637	l	76
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243527	1476280801700	1476280801884	e	69
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243531	1476280801829	1476280802028	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243538	1476280802188	1476280802436	c	67
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243585	1476280802461	1476280802572	h	72
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243589	1476280802525	1476280802756	a	65
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243594	1476280802765	1476280802948	n	78
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243601	1476280802924	1476280803068	g	71
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243607	1476280803340	1476280803589	e	69
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243647	1476280803580	1476280803725	s	83
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243652	1476280803693	1476280803861	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243657	1476280803869	1476280804061	a	65
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243664	1476280804269	1476280804461	t	84
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243668	1476280804421	1476280804621	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243886	1476280804581	1476280804788	s	83
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243888	1476280805029	1476280805276	t	84
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243889	1476280805325	1476280805508	a	65
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243890	1476280805481	1476280805645	n	78
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243891	1476280805733	1476280805973	d	68
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243893	1476280808125	1476280808324	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243895	1476280808733	1476280808924	f	70
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243960	1476280809013	1476280809196	o	79
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243963	1476280809188	1476280809314	r	82
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243970	1476280809733	1476280809927	d	68
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159243973	1476280809937	1476280810132	 	32
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244251	1476280810047	1476280810220	s	83
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244253	1476280810679	1476280810916	t	84
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244257	1476280810956	1476280811124	a	65
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244259	1476280811612	1476280811732	i	73
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244263	1476280811732	1476280811940	d	68
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244265	1476280812853	1476280813020	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244269	1476280813124	1476280813252	BKSP	8
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244271	1476280814520	1476280814727	d	68
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244442	1476280815223	1476280815499	i	73
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244444	1476280815540	1476280815661	u	85
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244446	1476280815919	1476280816064	m	77
+311495	3351120	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at stanford stadium.	159244450	1476280816920	1476280817173	.	190
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159244972	1476280820415	1476280820628	SHIFT	16
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159244977	1476280820654	1476280820848	i	73
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159244980	1476280822135	1476280822335	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159244987	1476280822843	1476280823765	SHIFT	16
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159244983	1476280823247	1476280823557	I	73
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159244992	1476280824385	1476280824585	a	65
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159244996	1476280825494	1476280825761	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245000	1476280825840	1476280826037	a	65
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245004	1476280826797	1476280827034	\	220
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245225	1476280828319	1476280828572	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245227	1476280828988	1476280829167	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245231	1476280829248	1476280829513	s	83
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245234	1476280829749	1476280829950	 	32
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245237	1476280829961	1476280830188	t	84
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245240	1476280830180	1476280830307	h	72
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245243	1476280830467	1476280830628	a	65
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245308	1476280830670	1476280830849	t	84
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245310	1476280830793	1476280830977	 	32
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245313	1476280831099	1476280831292	e	69
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245317	1476280831200	1476280831365	n	78
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245320	1476280831502	1476280831734	o	79
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245539	1476280831817	1476280831924	i	73
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245543	1476280831901	1476280832084	g	71
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245547	1476280832153	1476280832341	h	72
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245552	1476280833608	1476280834146	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245554	1476280834188	1476280834381	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245555	1476280835341	1476280835436	u	85
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245556	1476280835446	1476280835632	g	71
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245579	1476280835633	1476280835788	h	72
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245582	1476280835948	1476280836140	 	32
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245586	1476280836308	1476280836524	f	70
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159245588	1476280836604	1476280836812	p	80
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246037	1476280836788	1476280836948	r	82
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246039	1476280836972	1476280837188	 	32
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246043	1476280838140	1476280838340	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246046	1476280838468	1476280838589	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246048	1476280838749	1476280838861	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246049	1476280839429	1476280839605	p	80
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246052	1476280839573	1476280839749	r	82
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246055	1476280840549	1476280840757	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246059	1476280840861	1476280841076	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246061	1476280841605	1476280841797	p	80
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246064	1476280842573	1476280842757	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246070	1476280842965	1476280843181	i	73
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246194	1476280843677	1476280843876	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246198	1476280844028	1476280844236	o	79
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246203	1476280844492	1476280844693	r	82
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246208	1476280844685	1476280844877	 	32
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246213	1476280845004	1476280845212	t	84
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246218	1476280845348	1476280845540	h	72
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246467	1476280845797	1476280845980	o	79
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246470	1476280845892	1476280846076	s	83
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246472	1476280846076	1476280846244	 	32
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246476	1476280846412	1476280846589	w	87
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246480	1476280846901	1476280847076	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246483	1476280847564	1476280847757	INSERT	45
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246486	1476280848396	1476280848972	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246489	1476280849108	1476280849236	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246494	1476280849716	1476280849973	t	84
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246669	1476280849980	1476280850172	h	72
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246671	1476280850516	1476280850692	s	83
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246678	1476280852020	1476280852180	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246683	1476280852557	1476280852743	i	73
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246687	1476280852917	1476280853141	s	83
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246690	1476280853149	1476280853341	 	32
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246776	1476280853541	1476280853645	w	87
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246782	1476280853821	1476280853901	e	69
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246786	1476280853973	1476280854173	e	69
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246789	1476280854125	1476280854269	k	75
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246951	1476280854461	1476280856262	SHIFT	16
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246793	1476280854613	1476280854877	>	190
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246945	1476280855197	1476280855421	BKSP	8
+311495	3351179	Is that enough for this week?	Is that enough for this week?	159246949	1476280856005	1476280856201	?	191
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247252	1476280861054	1476280861277	SHIFT	16
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247256	1476280861277	1476280861446	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247258	1476280861566	1476280861742	SHIFT	16
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247259	1476280862022	1476280862229	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247260	1476280862205	1476280862421	t	84
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247261	1476280862413	1476280862590	h	72
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247263	1476280862838	1476280863038	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247475	1476280864070	1476280864918	BKSP	8
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247482	1476280864965	1476280865502	SHIFT	16
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247478	1476280865190	1476280865414	I	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247486	1476280865710	1476280865917	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247490	1476280866286	1476280866541	t	84
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247493	1476280866501	1476280866693	h	72
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247496	1476280866861	1476280867101	o	79
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247785	1476280867197	1476280867374	m	77
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247789	1476280867846	1476280868045	=	187
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247793	1476280868118	1476280868285	=	187
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247797	1476280868549	1476280869077	BKSP	8
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247801	1476280869238	1476280869382	BKSP	8
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247806	1476280869677	1476280869853	BKSP	8
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247808	1476280871837	1476280871997	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247810	1476280872014	1476280872205	n	78
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247864	1476280872333	1476280872469	k	75
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247866	1476280872526	1476280872725	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247870	1476280872686	1476280872853	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247876	1476280872973	1476280873109	n	78
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247878	1476280873158	1476280873317	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247916	1476280873262	1476280873445	t	84
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247919	1476280873382	1476280873518	h	72
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247925	1476280873663	1476280873846	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247927	1476280873750	1476280873934	s	83
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247930	1476280873982	1476280874222	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247933	1476280874295	1476280874518	c	67
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247969	1476280874510	1476280874710	a	65
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247973	1476280874814	1476280874982	s	83
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247979	1476280875198	1476280875390	e	69
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247991	1476280875319	1476280875453	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159247997	1476280875445	1476280875622	a	65
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248002	1476280875654	1476280875774	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248071	1476280875782	1476280875990	s	83
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248075	1476280876110	1476280876366	p	80
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248077	1476280876398	1476280876534	e	69
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248081	1476280876918	1476280877094	c	67
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248161	1476280877070	1476280877270	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248164	1476280878102	1476280878262	f	70
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248168	1476280878254	1476280878430	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248173	1476280878494	1476280878630	c	67
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248177	1476280878590	1476280878766	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248259	1476280878750	1476280878942	i	73
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248264	1476280878822	1476280879038	s	83
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248271	1476280878974	1476280879254	 	32
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248276	1476280879510	1476280879646	b	66
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248280	1476280879614	1476280879766	e	69
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248287	1476280879998	1476280880094	t	84
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248386	1476280880237	1476280880319	t	84
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248391	1476280880486	1476280880566	e	69
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248398	1476280880701	1476280880886	r	82
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248406	1476280880870	1476280881086	.	190
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248411	1476280881558	1476280881782	\	220
+311495	3351232	I think in this case specific is better.	I think in this case a specific is better.	159248536	1476280882565	1476280882782	BKSP	8
+311495	3351266	Milly is a seller.	Milly is a seller.	159248847	1476280885549	1476280885974	SHIFT	16
+311495	3351266	Milly is a seller.	Milly is a seller.	159248842	1476280885701	1476280885877	M	77
+311495	3351266	Milly is a seller.	Milly is a seller.	159248853	1476280886205	1476280886349	i	73
+311495	3351266	Milly is a seller.	Milly is a seller.	159248857	1476280886717	1476280886821	l	76
+311495	3351266	Milly is a seller.	Milly is a seller.	159248864	1476280886893	1476280887077	l	76
+311495	3351266	Milly is a seller.	Milly is a seller.	159248866	1476280887149	1476280887405	y	89
+311495	3351266	Milly is a seller.	Milly is a seller.	159248936	1476280887533	1476280887709	 	32
+311495	3351266	Milly is a seller.	Milly is a seller.	159248938	1476280887742	1476280887925	i	73
+311495	3351266	Milly is a seller.	Milly is a seller.	159248940	1476280887854	1476280888037	s	83
+311495	3351266	Milly is a seller.	Milly is a seller.	159248942	1476280887973	1476280888134	 	32
+311495	3351266	Milly is a seller.	Milly is a seller.	159248945	1476280888309	1476280888461	 	32
+311495	3351266	Milly is a seller.	Milly is a seller.	159249077	1476280889565	1476280889765	BKSP	8
+311495	3351266	Milly is a seller.	Milly is a seller.	159249080	1476280889981	1476280890181	a	65
+311495	3351266	Milly is a seller.	Milly is a seller.	159249083	1476280890221	1476280890421	 	32
+311495	3351266	Milly is a seller.	Milly is a seller.	159249087	1476280890358	1476280890525	s	83
+311495	3351266	Milly is a seller.	Milly is a seller.	159249092	1476280890741	1476280890925	e	69
+311495	3351266	Milly is a seller.	Milly is a seller.	159249437	1476280890869	1476280890949	l	76
+311495	3351266	Milly is a seller.	Milly is a seller.	159249443	1476280891038	1476280891158	l	76
+311495	3351266	Milly is a seller.	Milly is a seller.	159249448	1476280891590	1476280891718	e	69
+311495	3351266	Milly is a seller.	Milly is a seller.	159249454	1476280892814	1476280893037	t	84
+311495	3351266	Milly is a seller.	Milly is a seller.	159249459	1476280894551	1476280894775	BKSP	8
+311495	3351266	Milly is a seller.	Milly is a seller.	159249464	1476280894997	1476280895198	r	82
+311495	3351266	Milly is a seller.	Milly is a seller.	159249467	1476280895277	1476280895453	.	190
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249868	1476280899133	1476280899773	SHIFT	16
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249873	1476280899595	1476280899790	W	87
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249876	1476280900062	1476280900262	h	72
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249879	1476280900303	1476280900535	a	65
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249882	1476280900645	1476280900844	t	84
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249946	1476280900843	1476280901014	 	32
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249949	1476280901039	1476280901247	o	79
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249954	1476280901309	1476280901482	s	83
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249960	1476280901502	1476280901692	 	32
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249964	1476280901621	1476280901809	t	84
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159249967	1476280901827	1476280901982	j	74
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250349	1476280902156	1476280902398	e	69
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250354	1476280903166	1476280903830	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250359	1476280904713	1476280904909	o	79
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250362	1476280904838	1476280905044	s	83
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250365	1476280905896	1476280906047	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250369	1476280906150	1476280906287	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250373	1476280907310	1476280907520	i	73
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250412	1476280907461	1476280907685	s	83
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250416	1476280907670	1476280907840	 	32
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250424	1476280907895	1476280908071	t	84
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250436	1476280908103	1476280908249	h	72
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250442	1476280908281	1476280908471	e	69
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250598	1476280908426	1476280908643	 	32
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250599	1476280908663	1476280908873	p	80
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250601	1476280908902	1476280909101	i	73
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250608	1476280909056	1476280909310	r	82
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250617	1476280909253	1476280909484	p	80
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250627	1476280909658	1476280909816	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250636	1476280909878	1476280909982	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250646	1476280910198	1476280910358	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250652	1476280910958	1476280911102	u	85
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250710	1476280911095	1476280911310	r	82
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250711	1476280911303	1476280911567	p	80
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250713	1476280911594	1476280911812	o	79
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250716	1476280911726	1476280911852	s	83
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250719	1476280912003	1476280912159	e	69
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159250722	1476280912167	1476280912325	 	32
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251367	1476280912545	1476280912648	o	79
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251369	1476280919838	1476280920062	f	70
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251371	1476280920119	1476280920270	 	32
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251373	1476280920342	1476280920608	t	84
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251375	1476280921021	1476280921261	j	74
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251521	1476280921438	1476280921599	o	79
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251523	1476280921566	1476280921771	s	83
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251525	1476280922013	1476280922048	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251527	1476280922137	1476280922267	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251528	1476280922336	1476280922455	BKSP	8
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251529	1476280922671	1476280922861	h	72
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251530	1476280922830	1476280922989	i	73
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251533	1476280923185	1476280923398	s	83
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251643	1476280923584	1476280924445	SHIFT	16
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251645	1476280925069	1476280925589	SHIFT	16
+311495	3351292	What is the purpose of this?	What is the purpose of this?	159251651	1476280925357	1476280925679	?	191
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252276	1476280928918	1476280929086	t	84
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252280	1476280930662	1476280931054	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252284	1476280931453	1476280932223	SHIFT	16
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252290	1476280932085	1476280932270	I	73
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252294	1476280932445	1476280932638	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252299	1476280934022	1476280934221	h	72
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252307	1476280934221	1476280934357	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252517	1476280934598	1476280934797	p	80
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252523	1476280934886	1476280935053	r	82
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252530	1476280935071	1476280935262	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252535	1476280936638	1476280936885	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252541	1476280936982	1476280937182	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252548	1476280937453	1476280937630	r	82
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252552	1476280937718	1476280937917	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252799	1476280938519	1476280938694	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252801	1476280938790	1476280939006	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252804	1476280939141	1476280939342	e	69
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252811	1476280939517	1476280939766	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252816	1476280939702	1476280939933	t	84
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252819	1476280940197	1476280940429	h	72
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159252822	1476280941134	1476280941334	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253391	1476280941206	1476280941413	s	83
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253397	1476280941453	1476280941662	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253402	1476280941598	1476280941790	a	65
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253411	1476280942350	1476280942942	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253421	1476280943077	1476280943221	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253430	1476280943831	1476280944030	j	74
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253434	1476280944526	1476280944774	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253439	1476280946486	1476280946718	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253441	1476280947238	1476280947526	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253446	1476280950334	1476280950510	h	72
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253502	1476280950814	1476280950982	i	73
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253507	1476280950926	1476280951158	s	83
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253516	1476280951151	1476280951310	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253524	1476280951294	1476280951494	a	65
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253530	1476280951518	1476280951734	n	78
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253692	1476280951694	1476280951846	s	83
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253695	1476280952214	1476280952398	w	87
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253699	1476280952694	1476280952806	e	69
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253705	1476280952926	1476280953085	r	82
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253712	1476280954486	1476280954710	s	83
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253963	1476280954678	1476280954878	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253968	1476280955046	1476280955206	t	84
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253972	1476280955222	1476280955397	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253976	1476280956662	1476280956854	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253980	1476280957006	1476280957206	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253983	1476280958694	1476280958878	y	89
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253986	1476280958854	1476280959070	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159253988	1476280959078	1476280959286	u	85
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254131	1476280959206	1476280959429	r	82
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254135	1476280959422	1476280959630	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254140	1476280959878	1476280960054	w	87
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254144	1476280959974	1476280960190	u	85
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254149	1476280960758	1476280960974	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254151	1476280961087	1476280961271	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254154	1476280961312	1476280961542	2	50
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254156	1476280961574	1476280961758	u	85
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254284	1476280962103	1476280962310	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254287	1476280962375	1476280962606	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254291	1476280962870	1476280963070	q	81
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254296	1476280963222	1476280963438	u	85
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254300	1476280963566	1476280963878	e	69
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254307	1476280963918	1476280964190	s	83
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254314	1476280964206	1476280964430	t	84
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254711	1476280964382	1476280964614	i	73
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254714	1476280964622	1476280965038	p	80
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254718	1476280964974	1476280965190	m	77
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254720	1476280966046	1476280966182	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254722	1476280966278	1476280966510	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254724	1476280966766	1476280966950	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254730	1476280967310	1476280967510	m	77
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254737	1476280967822	1476280968662	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254742	1476280969750	1476280969990	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254791	1476280970054	1476280970246	u	85
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254795	1476280970126	1476280970358	r	82
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254799	1476280970390	1476280970598	 	32
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254800	1476280970950	1476280971134	q	81
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254967	1476280971070	1476280971246	u	85
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254970	1476280971486	1476280971694	e	69
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254973	1476280971750	1476280971942	s	83
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254975	1476280972014	1476280972254	t	84
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254978	1476280972518	1476280972654	i	73
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159254983	1476280972911	1476280973175	p	80
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255353	1476280973407	1476280973614	m	77
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255356	1476280974775	1476280974903	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255361	1476280975223	1476280975375	BKSP	8
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255365	1476280976183	1476280976415	o	79
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255370	1476280976591	1476280976767	n	78
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255374	1476280977198	1476280977375	.	190
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255376	1476280977782	1476280977983	'	222
+311495	3351337	I hope this answers your question.	I hope this answers your question.	159255454	1476280978968	1476280979135	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256124	1476280981832	1476280982095	SHIFT	16
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256129	1476280982391	1476280982599	c	67
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256138	1476280983559	1476280983815	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256149	1476280983615	1476280984455	SHIFT	16
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256161	1476280984255	1476280984456	C	67
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256168	1476280985007	1476280985207	p	80
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256177	1476280986007	1476280986279	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256184	1476280986839	1476280987031	p	80
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256191	1476280987198	1476280987415	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256195	1476280987727	1476280987862	o	79
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256321	1476280988047	1476280988175	i	73
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256325	1476280988823	1476280989127	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256328	1476280989255	1476280989390	u	85
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256334	1476280989590	1476280989799	l	76
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256338	1476280989695	1476280989895	d	68
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256341	1476280989911	1476280990079	 	32
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256414	1476280990207	1476280990463	y	89
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256421	1476280990471	1476280990663	o	79
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256427	1476280990871	1476280991087	u	85
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256435	1476280991150	1476280991359	 	32
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256510	1476280991271	1476280991446	t	84
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256513	1476280991598	1476280991775	r	82
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256519	1476280991710	1476280991847	u	85
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256524	1476280991823	1476280992046	 	32
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256528	1476280992031	1476280992207	r	82
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256534	1476280992254	1476280992335	o	79
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256755	1476280992742	1476280993383	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256758	1476280994271	1476280994422	t	84
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256764	1476280994550	1476280994766	r	82
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256769	1476280994727	1476280994903	y	89
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256775	1476280995103	1476280995310	 	32
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159256781	1476280995670	1476280995888	r	82
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257234	1476280995919	1476280996135	o	79
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257236	1476280996664	1476280996783	m	77
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257242	1476280996791	1476280997007	g	71
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257251	1476280996951	1476280997183	o	79
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257259	1476280997527	1476280998079	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257265	1476280998320	1476280998503	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257270	1476280998775	1476280998975	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257275	1476281002816	1476281002991	r	82
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257391	1476281002887	1476281003087	i	73
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257394	1476281003159	1476281003327	n	78
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257396	1476281003454	1476281003671	i	73
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257400	1476281004423	1476281004639	BKSP	8
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257407	1476281004727	1476281004918	g	71
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257412	1476281004991	1476281005199	i	73
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257419	1476281005247	1476281005430	n	78
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257576	1476281005383	1476281005543	g	71
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257579	1476281005575	1476281005743	 	32
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257585	1476281005934	1476281006094	h	72
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257589	1476281006078	1476281006215	e	69
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257591	1476281006415	1476281006591	r	82
+311495	3351418	Could you try ringing her?	Could you try ringing her?	159257595	1476281007599	1476281007783	?	191
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258191	1476281010959	1476281011191	l	76
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258193	1476281011999	1476281012207	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258199	1476281012487	1476281012767	:	186
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258223	1476281013239	1476281017327	SHIFT	16
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258204	1476281013384	1476281013599	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258210	1476281013928	1476281014184	:	186
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258214	1476281014719	1476281014951	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258218	1476281016999	1476281017223	L	76
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258232	1476281017943	1476281018228	e	69
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258258	1476281018297	1476281018479	t	84
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258265	1476281018439	1476281018631	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258271	1476281018783	1476281018983	m	77
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258278	1476281018935	1476281019111	e	69
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258377	1476281019095	1476281019279	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258383	1476281019271	1476281019478	k	75
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258389	1476281020071	1476281020214	n	78
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258396	1476281020367	1476281020599	o	79
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258402	1476281020511	1476281020735	w	87
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258408	1476281020743	1476281020935	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258541	1476281021095	1476281021287	i	73
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258545	1476281021255	1476281021447	f	70
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258547	1476281021511	1476281021719	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258551	1476281021855	1476281021966	t	84
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258557	1476281022839	1476281023079	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258562	1476281023103	1476281023351	y	89
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258680	1476281023349	1476281023607	o	79
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258684	1476281023903	1476281024071	u	85
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258687	1476281024143	1476281024359	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258690	1476281024391	1476281024630	s	83
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258694	1476281024903	1476281025015	e	69
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258697	1476281025103	1476281025271	e	69
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258733	1476281025273	1476281025454	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258736	1476281025354	1476281025598	a	65
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258744	1476281025614	1476281025774	n	78
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159258746	1476281025878	1476281026014	y	89
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259067	1476281025958	1476281026135	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259072	1476281026503	1476281026727	p	80
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259078	1476281027447	1476281027670	r	82
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259083	1476281027630	1476281028046	p	80
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259090	1476281028631	1476281028871	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259098	1476281029671	1476281029943	p	80
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259105	1476281030383	1476281030735	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259111	1476281030992	1476281031256	p	80
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259246	1476281031655	1476281031920	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259251	1476281032096	1476281032295	o	79
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259255	1476281032320	1476281032495	b	66
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259258	1476281032661	1476281032868	l	76
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259267	1476281033117	1476281033332	e	69
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259273	1476281033388	1476281033564	m	77
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259458	1476281033556	1476281033772	s	83
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259465	1476281033748	1476281033908	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259470	1476281034180	1476281034364	w	87
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259476	1476281034420	1476281034636	o	79
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259483	1476281034644	1476281034828	t	84
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259489	1476281035284	1476281035460	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259493	1476281035588	1476281035988	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259497	1476281036052	1476281036252	o	79
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259665	1476281036587	1476281036964	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259671	1476281037412	1476281037564	9	57
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259679	1476281037868	1476281038044	BKSP	8
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259686	1476281038644	1476281038828	i	73
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259694	1476281038780	1476281039004	t	84
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259700	1476281038964	1476281039140	h	72
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259706	1476281039204	1476281039395	 	32
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259875	1476281039325	1476281039556	t	84
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259877	1476281039451	1476281039612	h	72
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259885	1476281039692	1476281039900	i	73
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259889	1476281039980	1476281040212	s	83
+311495	3351455	Let me know if you see any problems with this.	Let me know if you see any problems with this.	159259893	1476281040292	1476281040492	.	190
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260467	1476281046293	1476281046748	SHIFT	16
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260470	1476281046572	1476281046772	D	68
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260473	1476281047059	1476281047251	o	79
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260476	1476281047259	1476281047468	d	68
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260479	1476281047564	1476281047732	 	32
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260485	1476281048317	1476281048749	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260490	1476281048869	1476281049013	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260496	1476281049133	1476281049348	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260502	1476281049509	1476281049716	o	79
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260869	1476281049653	1476281049837	d	68
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260873	1476281050508	1476281050668	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260878	1476281050749	1476281051044	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260881	1476281051454	1476281051668	o	79
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260885	1476281051724	1476281051964	d	68
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260890	1476281052036	1476281052204	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260897	1476281052293	1476281052573	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260903	1476281053716	1476281053972	o	79
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260911	1476281054276	1476281054604	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260916	1476281054980	1476281055172	i	73
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260922	1476281055500	1476281055684	d	68
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260990	1476281055932	1476281056116	 	32
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159260997	1476281056412	1476281056588	o	89
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261004	1476281056964	1476281057124	u	85
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261011	1476281057165	1476281057316	 	32
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261205	1476281057676	1476281057860	e	69
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261210	1476281057844	1476281058011	b	66
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261216	1476281057971	1476281058116	e	69
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261221	1476281058676	1476281058852	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261225	1476281059036	1476281059476	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261229	1476281059556	1476281059716	b	66
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261236	1476281060035	1476281060308	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261242	1476281060508	1476281060692	v	86
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261630	1476281060684	1476281060860	e	69
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261631	1476281061292	1476281061500	r	82
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261633	1476281066726	1476281066916	 	32
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261636	1476281067004	1476281067204	h	72
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261638	1476281067149	1476281067380	e	69
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261821	1476281067373	1476281067628	a	65
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261828	1476281067764	1476281067996	t	84
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261834	1476281068029	1476281068180	 	32
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261843	1476281068124	1476281068364	a	65
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261849	1476281069013	1476281069204	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261859	1476281069348	1476281069516	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261865	1476281069948	1476281070124	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261871	1476281070276	1476281070508	r	82
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261946	1476281070492	1476281070684	 	32
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261950	1476281070620	1476281070836	a	65
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261954	1476281070924	1476281071052	n	78
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261956	1476281071932	1476281072068	y	89
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261959	1476281072036	1476281072220	t	84
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159261961	1476281072236	1476281072404	h	72
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262099	1476281072932	1476281073124	i	73
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262102	1476281073300	1476281073508	n	78
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262105	1476281073500	1476281073644	g	71
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262299	1476281074004	1476281076436	SHIFT	16
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262109	1476281074292	1476281074572	:	186
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262112	1476281074964	1476281075196	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262116	1476281075540	1476281075804	?	191
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262298	1476281076204	1476281076404	<	188
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262300	1476281076836	1476281077044	BKSP	8
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262301	1476281077444	1476281077620	.	190
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262302	1476281078012	1476281078236	]	221
+311495	3351507	Did you ever hear anything?.	Did you ever hear anything?.	159262303	1476281078788	1476281078971	BKSP	8
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262650	1476281082556	1476281083140	SHIFT	16
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262648	1476281082916	1476281083132	W	87
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262654	1476281084133	1476281084357	e	69
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262657	1476281084533	1476281084733	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262661	1476281084629	1476281084868	a	65
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262670	1476281085421	1476281085604	r	82
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262775	1476281085829	1476281085980	e	69
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262776	1476281085965	1476281086108	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262778	1476281086197	1476281086348	w	87
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262780	1476281087173	1476281087372	o	79
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262820	1476281087348	1476281087548	r	82
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262825	1476281087500	1476281087620	k	75
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262830	1476281087764	1476281087924	i	73
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262834	1476281088180	1476281088332	n	78
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262842	1476281088316	1476281088532	g	71
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262975	1476281088460	1476281088628	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262977	1476281088660	1476281088892	o	79
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262982	1476281089164	1476281089316	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262986	1476281089932	1476281090236	BKSP	8
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262990	1476281090468	1476281090660	n	78
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159262993	1476281090852	1476281091084	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263047	1476281090988	1476281091276	t	84
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263052	1476281091188	1476281091396	h	72
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263057	1476281091468	1476281091644	i	73
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263062	1476281091596	1476281091788	s	83
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263066	1476281091748	1476281091948	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263131	1476281091884	1476281092052	a	65
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263135	1476281092116	1476281092300	s	83
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263139	1476281092284	1476281092468	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263144	1476281092564	1476281092697	w	87
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263148	1476281092840	1476281092969	e	69
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263224	1476281092945	1476281093121	 	32
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263229	1476281093592	1476281093768	s	83
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263234	1476281093824	1476281093993	[	219
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263240	1476281093977	1476281094185	e	69
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263244	1476281094177	1476281094457	a	65
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263532	1476281094329	1476281094481	k	75
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263538	1476281095881	1476281096001	BKSP	8
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263544	1476281096097	1476281096233	BKSP	8
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263550	1476281096665	1476281096801	BKSP	8
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263559	1476281096961	1476281097050	BKSP	8
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263564	1476281097738	1476281097945	p	80
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263570	1476281097841	1476281098065	e	69
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263582	1476281098041	1476281098353	a	65
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263575	1476281098161	1476281098345	k	75
+311495	3351558	We are working on this as we speak.	We are working on this as we speak.	159263585	1476281098633	1476281098841	.	190
+311495	3351583	See client Help for more information.	See client help for more information	159264114	1476281105937	1476281106737	SHIFT	16
+311495	3351583	See client Help for more information.	See client help for more information	159264118	1476281106537	1476281106769	S	83
+311495	3351583	See client Help for more information.	See client help for more information	159264122	1476281108202	1476281108321	e	69
+311495	3351583	See client Help for more information.	See client help for more information	159264125	1476281108457	1476281108665	e	69
+311495	3351583	See client Help for more information.	See client help for more information	159264127	1476281108689	1476281108857	 	32
+311495	3351583	See client Help for more information.	See client help for more information	159264129	1476281109097	1476281109337	c	67
+311495	3351583	See client Help for more information.	See client help for more information	159264378	1476281109265	1476281109433	;	186
+311495	3351583	See client Help for more information.	See client help for more information	159264382	1476281109953	1476281110201	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264387	1476281111137	1476281111321	l	76
+311495	3351583	See client Help for more information.	See client help for more information	159264394	1476281111561	1476281111729	o	79
+311495	3351583	See client Help for more information.	See client help for more information	159264396	1476281111865	1476281112097	r	82
+311495	3351583	See client Help for more information.	See client help for more information	159264399	1476281112681	1476281112825	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264401	1476281112921	1476281113113	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264403	1476281113585	1476281113713	i	73
+311495	3351583	See client Help for more information.	See client help for more information	159264405	1476281113769	1476281114001	e	69
+311495	3351583	See client Help for more information.	See client help for more information	159264468	1476281114177	1476281114369	n	78
+311495	3351583	See client Help for more information.	See client help for more information	159264471	1476281114377	1476281114577	t	84
+311495	3351583	See client Help for more information.	See client help for more information	159264474	1476281114537	1476281114753	 	32
+311495	3351583	See client Help for more information.	See client help for more information	159264477	1476281114737	1476281114913	h	72
+311495	3351583	See client Help for more information.	See client help for more information	159264479	1476281115041	1476281115281	e	69
+311495	3351583	See client Help for more information.	See client help for more information	159264603	1476281115169	1476281115313	l	76
+311495	3351583	See client Help for more information.	See client help for more information	159264604	1476281115881	1476281116105	[	219
+311495	3351583	See client Help for more information.	See client help for more information	159264605	1476281116785	1476281116945	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264606	1476281117081	1476281117256	p	80
+311495	3351583	See client Help for more information.	See client help for more information	159264607	1476281117336	1476281117513	 	32
+311495	3351583	See client Help for more information.	See client help for more information	159264608	1476281117529	1476281117769	f	70
+311495	3351583	See client Help for more information.	See client help for more information	159264654	1476281117729	1476281117953	o	79
+311495	3351583	See client Help for more information.	See client help for more information	159264658	1476281117953	1476281118177	r	82
+311495	3351583	See client Help for more information.	See client help for more information	159264660	1476281118033	1476281118209	 	32
+311495	3351583	See client Help for more information.	See client help for more information	159264664	1476281118290	1476281118434	m	77
+311495	3351583	See client Help for more information.	See client help for more information	159264666	1476281118474	1476281118690	o	79
+311495	3351583	See client Help for more information.	See client help for more information	159264720	1476281118610	1476281118754	r	82
+311495	3351583	See client Help for more information.	See client help for more information	159264723	1476281118922	1476281119089	e	69
+311495	3351583	See client Help for more information.	See client help for more information	159264726	1476281119074	1476281119233	 	32
+311495	3351583	See client Help for more information.	See client help for more information	159264728	1476281119322	1476281119474	i	73
+311495	3351583	See client Help for more information.	See client help for more information	159264730	1476281119634	1476281119793	n	78
+311495	3351583	See client Help for more information.	See client help for more information	159264892	1476281119786	1476281119961	g	71
+311495	3351583	See client Help for more information.	See client help for more information	159264895	1476281119954	1476281120169	o	79
+311495	3351583	See client Help for more information.	See client help for more information	159264899	1476281120162	1476281120354	r	82
+311495	3351583	See client Help for more information.	See client help for more information	159264903	1476281120322	1476281120497	m	77
+311495	3351583	See client Help for more information.	See client help for more information	159264907	1476281121138	1476281121257	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264912	1476281121322	1476281121465	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264914	1476281121522	1476281121641	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264916	1476281121698	1476281121841	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159264918	1476281122089	1476281122289	f	70
+311495	3351583	See client Help for more information.	See client help for more information	159264920	1476281122337	1476281122513	i	73
+311495	3351583	See client Help for more information.	See client help for more information	159265068	1476281122515	1476281122713	r	82
+311495	3351583	See client Help for more information.	See client help for more information	159265070	1476281123025	1476281123185	=	187
+311495	3351583	See client Help for more information.	See client help for more information	159265074	1476281123273	1476281123441	=	187
+311495	3351583	See client Help for more information.	See client help for more information	159265077	1476281123729	1476281124177	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159265080	1476281124281	1476281124417	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159265083	1476281124505	1476281124689	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159265088	1476281124769	1476281124977	BKSP	8
+311495	3351583	See client Help for more information.	See client help for more information	159265093	1476281125769	1476281125961	o	79
+311495	3351583	See client Help for more information.	See client help for more information	159265225	1476281125897	1476281126113	r	82
+311495	3351583	See client Help for more information.	See client help for more information	159265228	1476281126177	1476281126345	m	77
+311495	3351583	See client Help for more information.	See client help for more information	159265234	1476281126297	1476281126489	a	65
+311495	3351583	See client Help for more information.	See client help for more information	159265240	1476281126490	1476281126713	t	84
+311495	3351583	See client Help for more information.	See client help for more information	159265244	1476281127177	1476281127337	i	73
+311495	3351583	See client Help for more information.	See client help for more information	159265249	1476281127513	1476281127745	o	79
+311495	3351583	See client Help for more information.	See client help for more information	159265269	1476281127841	1476281128081	n	78
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265639	1476281130961	1476281131369	SHIFT	16
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265642	1476281131265	1476281131457	R	82
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265645	1476281132729	1476281133193	BKSP	8
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265650	1476281132785	1476281133529	SHIFT	16
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265654	1476281133481	1476281133689	T	84
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265658	1476281134073	1476281134241	h	72
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265664	1476281134289	1476281134481	a	65
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265670	1476281134665	1476281134865	t	84
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265869	1476281134841	1476281135017	 	32
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265871	1476281135273	1476281135449	m	77
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265874	1476281135633	1476281135746	i	73
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265876	1476281136378	1476281136594	BKSP	8
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265878	1476281137914	1476281138081	u	85
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265881	1476281138050	1476281138289	s	83
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265886	1476281138474	1476281138689	t	84
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265933	1476281138802	1476281138993	 	32
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265935	1476281139226	1476281139449	b	66
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265939	1476281139410	1476281139585	e	69
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159265941	1476281139602	1476281139761	 	32
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266013	1476281139745	1476281139937	a	65
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266018	1476281139874	1476281140049	 	32
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266022	1476281140249	1476281140385	l	76
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266025	1476281140897	1476281141097	p	80
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266029	1476281141057	1476281141281	t	84
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266243	1476281141209	1476281141385	 	32
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266245	1476281141777	1476281141969	BKSP	8
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266248	1476281142073	1476281142209	BKSP	8
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266251	1476281142273	1476281142457	BKSP	8
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266254	1476281143433	1476281143577	o	79
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266258	1476281143545	1476281143745	t	84
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266261	1476281143633	1476281143857	 	32
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266265	1476281143873	1476281144001	i	73
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266268	1476281144609	1476281144777	n	78
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266336	1476281144913	1476281145081	 	32
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266338	1476281145209	1476281145361	k	75
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266343	1476281145369	1476281145521	e	69
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266348	1476281146033	1476281146337	BKSP	8
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266352	1476281146505	1476281146665	i	73
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266357	1476281146873	1476281147033	l	76
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266463	1476281147177	1476281147337	o	79
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266466	1476281148233	1476281148385	m	77
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266472	1476281148369	1476281148489	e	69
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266475	1476281148689	1476281148857	t	84
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266479	1476281149026	1476281149129	e	69
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266651	1476281149305	1476281149489	r	82
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266654	1476281149449	1476281149657	s	83
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266658	1476281149937	1476281150233	/	191
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266663	1476281150825	1476281150953	BKSP	8
+311495	3351618	That must be a lot in kilometers.	That must be a lot in kilometers.	159266668	1476281151265	1476281151425	.	190
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159266893	1476281154432	1476281154871	SHIFT	16
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159266895	1476281154703	1476281154999	T	84
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159266897	1476281155127	1476281155279	h	72
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159266899	1476281155375	1476281155591	a	65
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159266902	1476281155575	1476281155759	m	77
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159266907	1476281156023	1476281156206	l	76
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267025	1476281156711	1476281156934	BKSP	8
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267032	1476281157023	1476281157286	BKSP	8
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267038	1476281157454	1476281157646	m	77
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267043	1476281157902	1476281158198	BKSP	8
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267048	1476281158446	1476281158630	n	78
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267051	1476281158574	1476281158742	k	75
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267053	1476281158782	1476281158990	 	32
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267056	1476281159031	1476281159214	y	89
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267103	1476281159198	1476281159398	o	79
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267105	1476281159406	1476281159574	u	85
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267107	1476281159806	1476281159990	 	32
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267110	1476281159926	1476281160102	f	70
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267113	1476281160078	1476281160302	o	79
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267181	1476281160270	1476281160462	r	82
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267185	1476281160382	1476281160550	 	32
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267186	1476281160526	1476281160758	a	65
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267188	1476281160990	1476281161118	l	76
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267191	1476281161174	1476281161326	l	76
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267193	1476281161422	1476281161622	 	32
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267262	1476281161582	1476281161734	y	89
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267267	1476281161750	1476281161974	o	79
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267270	1476281162286	1476281162438	u	85
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267276	1476281162446	1476281162590	r	82
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267280	1476281162550	1476281162758	 	32
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267282	1476281162766	1476281162862	h	72
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267350	1476281162990	1476281163230	e	69
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267352	1476281163198	1476281163318	l	76
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267356	1476281163454	1476281163678	p	80
+311495	3351650	Thank you for all your help.	Thank you for all your help.	159267359	1476281163830	1476281164022	.	190
+311495	3351669	That is not true.	That is not true.	159267564	1476281166470	1476281166838	SHIFT	16
+311495	3351669	That is not true.	That is not true.	159267568	1476281166782	1476281166982	T	84
+311495	3351669	That is not true.	That is not true.	159267573	1476281167278	1476281167486	h	72
+311495	3351669	That is not true.	That is not true.	159267578	1476281167502	1476281167710	a	65
+311495	3351669	That is not true.	That is not true.	159267584	1476281168110	1476281168294	t	84
+311495	3351669	That is not true.	That is not true.	159267737	1476281168278	1476281168510	 	32
+311495	3351669	That is not true.	That is not true.	159267738	1476281169582	1476281169774	i	73
+311495	3351669	That is not true.	That is not true.	159267739	1476281169766	1476281169958	s	83
+311495	3351669	That is not true.	That is not true.	159267740	1476281170510	1476281170711	 	32
+311495	3351669	That is not true.	That is not true.	159267742	1476281170847	1476281171007	n	78
+311495	3351669	That is not true.	That is not true.	159267744	1476281171231	1476281171439	o	79
+311495	3351669	That is not true.	That is not true.	159267842	1476281171391	1476281171567	t	84
+311495	3351669	That is not true.	That is not true.	159267846	1476281171575	1476281171719	 	32
+311495	3351669	That is not true.	That is not true.	159267850	1476281171679	1476281171807	t	84
+311495	3351669	That is not true.	That is not true.	159267853	1476281171887	1476281172023	u	85
+311495	3351669	That is not true.	That is not true.	159267858	1476281172543	1476281172735	BKSP	8
+311495	3351669	That is not true.	That is not true.	159267862	1476281172767	1476281172943	r	82
+311495	3351669	That is not true.	That is not true.	159267865	1476281173007	1476281173167	u	85
+311495	3351669	That is not true.	That is not true.	159267942	1476281173311	1476281173494	e	69
+311495	3351669	That is not true.	That is not true.	159267947	1476281173791	1476281173958	.	190

@@ -1,0 +1,649 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+55377	605941	I am on my way.	I am on my way.	28823987	1472656403807	1472656403959	SHIFT	16
+55377	605941	I am on my way.	I am on my way.	28823988	1472656403902	1472656403998	I	73
+55377	605941	I am on my way.	I am on my way.	28823989	1472656404052	1472656404196	 	32
+55377	605941	I am on my way.	I am on my way.	28823990	1472656404220	1472656404352	a	65
+55377	605941	I am on my way.	I am on my way.	28823991	1472656404333	1472656404479	m	77
+55377	605941	I am on my way.	I am on my way.	28824012	1472656404424	1472656404524	 	32
+55377	605941	I am on my way.	I am on my way.	28824017	1472656404643	1472656404754	o	79
+55377	605941	I am on my way.	I am on my way.	28824022	1472656404771	1472656404858	n	78
+55377	605941	I am on my way.	I am on my way.	28824026	1472656404935	1472656404986	 	32
+55377	605941	I am on my way.	I am on my way.	28824030	1472656405254	1472656405333	y	89
+55377	605941	I am on my way.	I am on my way.	28824061	1472656405326	1472656405410	m	77
+55377	605941	I am on my way.	I am on my way.	28824063	1472656405622	1472656405717	BKSP	8
+55377	605941	I am on my way.	I am on my way.	28824064	1472656405764	1472656405839	BKSP	8
+55377	605941	I am on my way.	I am on my way.	28824065	1472656405965	1472656406068	m	77
+55377	605941	I am on my way.	I am on my way.	28824066	1472656406037	1472656406184	y	89
+55377	605941	I am on my way.	I am on my way.	28824069	1472656406153	1472656406300	 	32
+55377	605941	I am on my way.	I am on my way.	28824072	1472656406460	1472656406748	w	87
+55377	605941	I am on my way.	I am on my way.	28824095	1472656406743	1472656406943	a	65
+55377	605941	I am on my way.	I am on my way.	28824097	1472656406896	1472656407043	y	89
+55377	605945	I am not aware of any.	I am not aware of any.	28824154	1472656409014	1472656409238	SHIFT	16
+55377	605945	I am not aware of any.	I am not aware of any.	28824157	1472656409191	1472656409298	I	73
+55377	605945	I am not aware of any.	I am not aware of any.	28824158	1472656409361	1472656409472	 	32
+55377	605945	I am not aware of any.	I am not aware of any.	28824161	1472656409437	1472656409542	a	65
+55377	605945	I am not aware of any.	I am not aware of any.	28824164	1472656409529	1472656409680	m	77
+55377	605945	I am not aware of any.	I am not aware of any.	28824178	1472656409637	1472656409724	 	32
+55377	605945	I am not aware of any.	I am not aware of any.	28824179	1472656409798	1472656409893	n	78
+55377	605945	I am not aware of any.	I am not aware of any.	28824180	1472656409878	1472656410001	o	79
+55377	605945	I am not aware of any.	I am not aware of any.	28824181	1472656410006	1472656410130	t	84
+55377	605945	I am not aware of any.	I am not aware of any.	28824182	1472656410138	1472656410257	 	32
+55377	605945	I am not aware of any.	I am not aware of any.	28824184	1472656410370	1472656410553	a	65
+55377	605945	I am not aware of any.	I am not aware of any.	28824213	1472656410510	1472656410681	w	87
+55377	605945	I am not aware of any.	I am not aware of any.	28824215	1472656410674	1472656410869	a	65
+55377	605945	I am not aware of any.	I am not aware of any.	28824217	1472656410846	1472656411009	t	84
+55377	605945	I am not aware of any.	I am not aware of any.	28824218	1472656411147	1472656411239	 	32
+55377	605945	I am not aware of any.	I am not aware of any.	28824219	1472656411648	1472656411724	BKSP	8
+55377	605945	I am not aware of any.	I am not aware of any.	28824220	1472656411792	1472656411879	BKSP	8
+55377	605945	I am not aware of any.	I am not aware of any.	28824221	1472656411856	1472656411979	r	82
+55377	605945	I am not aware of any.	I am not aware of any.	28824235	1472656411912	1472656412079	e	69
+55377	605945	I am not aware of any.	I am not aware of any.	28824236	1472656412092	1472656412191	 	32
+55377	605945	I am not aware of any.	I am not aware of any.	28824237	1472656412324	1472656412463	o	79
+55377	605945	I am not aware of any.	I am not aware of any.	28824238	1472656412480	1472656412667	f	70
+55377	605945	I am not aware of any.	I am not aware of any.	28824239	1472656412604	1472656412751	 	32
+55377	605945	I am not aware of any.	I am not aware of any.	28824240	1472656412771	1472656412930	a	65
+55377	605945	I am not aware of any.	I am not aware of any.	28824241	1472656412907	1472656412994	n	78
+55377	605945	I am not aware of any.	I am not aware of any.	28824242	1472656413069	1472656413208	y	89
+55377	605947	That s all I have to say.	That s all I have to say.	28824272	1472656414900	1472656415136	SHIFT	16
+55377	605947	That s all I have to say.	That s all I have to say.	28824273	1472656415069	1472656415196	T	84
+55377	605947	That s all I have to say.	That s all I have to say.	28824274	1472656415153	1472656415248	h	72
+55377	605947	That s all I have to say.	That s all I have to say.	28824276	1472656415285	1472656415468	a	65
+55377	605947	That s all I have to say.	That s all I have to say.	28824278	1472656415385	1472656415528	t	84
+55377	605947	That s all I have to say.	That s all I have to say.	28824280	1472656416281	1472656416388	 	32
+55377	605947	That s all I have to say.	That s all I have to say.	28824287	1472656416357	1472656416540	s	83
+55377	605947	That s all I have to say.	That s all I have to say.	28824288	1472656416505	1472656416660	 	32
+55377	605947	That s all I have to say.	That s all I have to say.	28824289	1472656416912	1472656417047	a	65
+55377	605947	That s all I have to say.	That s all I have to say.	28824290	1472656417048	1472656417135	l	76
+55377	605947	That s all I have to say.	That s all I have to say.	28824291	1472656417201	1472656417300	l	76
+55377	605947	That s all I have to say.	That s all I have to say.	28824302	1472656417277	1472656417420	 	32
+55377	605947	That s all I have to say.	That s all I have to say.	28824304	1472656417477	1472656417661	SHIFT	16
+55377	605947	That s all I have to say.	That s all I have to say.	28824303	1472656417570	1472656417649	I	73
+55377	605947	That s all I have to say.	That s all I have to say.	28824305	1472656417725	1472656417828	 	32
+55377	605947	That s all I have to say.	That s all I have to say.	28824306	1472656417961	1472656418067	h	72
+55377	605947	That s all I have to say.	That s all I have to say.	28824307	1472656418061	1472656418184	a	65
+55377	605947	That s all I have to say.	That s all I have to say.	28824317	1472656418161	1472656418320	v	86
+55377	605947	That s all I have to say.	That s all I have to say.	28824319	1472656418285	1472656418416	e	69
+55377	605947	That s all I have to say.	That s all I have to say.	28824320	1472656418394	1472656418488	 	32
+55377	605947	That s all I have to say.	That s all I have to say.	28824321	1472656418497	1472656418604	t	84
+55377	605947	That s all I have to say.	That s all I have to say.	28824322	1472656418593	1472656418680	o	79
+55377	605947	That s all I have to say.	That s all I have to say.	28824323	1472656418745	1472656418844	 	32
+55377	605947	That s all I have to say.	That s all I have to say.	28824331	1472656418905	1472656419100	s	83
+55377	605947	That s all I have to say.	That s all I have to say.	28824333	1472656419085	1472656419252	a	65
+55377	605947	That s all I have to say.	That s all I have to say.	28824334	1472656419224	1472656419384	y	89
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824377	1472656421132	1472656421596	SHIFT	16
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824381	1472656421528	1472656421680	T	84
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824385	1472656421620	1472656421793	r	82
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824388	1472656421769	1472656421956	a	65
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824389	1472656422138	1472656422247	v	86
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824390	1472656422347	1472656422430	k	75
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824412	1472656422510	1472656422641	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824413	1472656422667	1472656422762	n	78
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824414	1472656422845	1472656422952	 	32
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824417	1472656423061	1472656423133	d	68
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824418	1472656424036	1472656424143	o	79
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824435	1472656424624	1472656424740	BKSP	8
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824437	1472656424901	1472656424972	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824438	1472656424977	1472656425136	d	68
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824440	1472656425092	1472656425240	 	32
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824441	1472656425248	1472656425364	n	78
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824443	1472656425377	1472656425468	o	79
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824471	1472656425472	1472656425584	t	84
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824476	1472656425628	1472656425735	 	32
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824480	1472656426484	1472656426599	r	82
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824484	1472656426563	1472656426703	e	69
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824488	1472656426809	1472656426900	c	67
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824536	1472656426944	1472656427015	e	69
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824538	1472656427134	1472656427214	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824540	1472656427377	1472656427473	BKSP	8
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824542	1472656427547	1472656427627	BKSP	8
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824544	1472656427772	1472656427871	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824545	1472656428359	1472656428463	BKSP	8
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824546	1472656428515	1472656428639	e	69
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824551	1472656428623	1472656428727	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824554	1472656428775	1472656428903	v	86
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824559	1472656428851	1472656428999	e	69
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824564	1472656429044	1472656429140	 	32
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824568	1472656429156	1472656429312	a	65
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824594	1472656429272	1472656429364	 	32
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824597	1472656429552	1472656429684	s	83
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824600	1472656429644	1472656429784	p	80
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824603	1472656429816	1472656429921	e	69
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824606	1472656429994	1472656430085	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824609	1472656430351	1472656430451	BKSP	8
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824612	1472656430469	1472656430593	c	67
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824635	1472656430633	1472656430722	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824640	1472656430733	1472656430829	f	70
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824645	1472656430907	1472656430995	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824650	1472656431123	1472656431184	c	67
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824654	1472656431712	1472656431868	 	32
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824697	1472656432111	1472656432218	p	80
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824701	1472656432290	1472656432402	o	79
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824706	1472656432486	1472656432590	r	82
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824708	1472656432827	1472656432935	t	84
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824709	1472656433510	1472656433658	f	70
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824745	1472656433598	1472656433726	o	79
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824749	1472656433755	1472656433891	l	76
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824753	1472656433984	1472656434112	i	73
+55377	605951	Travkin did not receive a specific portfolio.	Travkin did not receive a specific portfolio.	28824758	1472656434142	1472656434282	o	79
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824842	1472656436258	1472656436462	SHIFT	16
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824845	1472656436410	1472656436494	N	78
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824849	1472656436506	1472656436594	o	79
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824853	1472656436633	1472656436757	t	84
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824858	1472656436713	1472656436801	h	72
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824861	1472656436809	1472656436929	i	73
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824866	1472656436897	1472656436994	n	78
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824867	1472656436981	1472656437033	g	71
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824869	1472656437076	1472656437180	 	32
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824871	1472656437449	1472656437541	b	66
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824873	1472656437553	1472656437651	u	85
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824901	1472656437649	1472656437725	t	84
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824902	1472656437742	1472656437854	 	32
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824904	1472656437933	1472656437980	f	70
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824906	1472656438368	1472656438451	BKSP	8
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824908	1472656438627	1472656438719	g	71
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824910	1472656438746	1472656438817	o	79
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824913	1472656438911	1472656438955	o	79
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824919	1472656439025	1472656439173	d	68
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824920	1472656439101	1472656439249	 	32
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824921	1472656439233	1472656439337	n	78
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824923	1472656439349	1472656439485	e	69
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824940	1472656439445	1472656439565	w	87
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824941	1472656439693	1472656439817	s	83
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824942	1472656439870	1472656439997	 	32
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824943	1472656440069	1472656440189	e	69
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824944	1472656440259	1472656440383	v	86
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824962	1472656440367	1472656440551	e	69
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824963	1472656440471	1472656440595	r	82
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824964	1472656440563	1472656440671	y	89
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824965	1472656440813	1472656440933	d	68
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824966	1472656440937	1472656441129	a	65
+55377	605960	Nothing but good news everyday.	Nothing but good news everyday.	28824967	1472656441089	1472656441221	y	89
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825045	1472656442740	1472656442987	SHIFT	16
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825047	1472656442892	1472656442996	I	73
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825049	1472656443204	1472656443367	'	222
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825051	1472656443360	1472656443485	m	77
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825053	1472656443583	1472656443667	 	32
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825056	1472656443839	1472656444023	p	80
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825098	1472656443947	1472656444058	l	76
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825100	1472656444096	1472656444259	a	65
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825103	1472656444708	1472656444823	BKSP	8
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825106	1472656444832	1472656444956	e	69
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825109	1472656444932	1472656445139	a	65
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825111	1472656445080	1472656445260	s	83
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825136	1472656445212	1472656445371	e	69
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825141	1472656445498	1472656445682	d	68
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825146	1472656445713	1472656445849	 	32
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825148	1472656445942	1472656446060	w	87
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825152	1472656446042	1472656446161	i	73
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825157	1472656446162	1472656446281	t	84
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825182	1472656446234	1472656446361	h	72
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825185	1472656446350	1472656446442	 	32
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825189	1472656446550	1472656446641	m	77
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825192	1472656446665	1472656446820	y	89
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825197	1472656446797	1472656446917	 	32
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825201	1472656446996	1472656447135	s	83
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825212	1472656447141	1472656447236	p	80
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825214	1472656447260	1472656447303	e	69
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825216	1472656447374	1472656447464	e	69
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825220	1472656447542	1472656447689	d	68
+55377	605966	I'm pleased with my speeds.	I'm pleased with my speeds.	28825226	1472656447670	1472656447797	s	83
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825301	1472656449247	1472656449638	SHIFT	16
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825302	1472656449559	1472656449655	T	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825304	1472656449583	1472656449703	H	72
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825306	1472656449699	1472656449875	e	69
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825310	1472656449879	1472656450022	y	89
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825382	1472656449991	1472656450094	 	32
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825383	1472656450234	1472656450349	l	76
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825384	1472656450722	1472656450774	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825385	1472656450860	1472656450943	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825386	1472656451009	1472656451096	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825387	1472656451157	1472656451232	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825388	1472656451297	1472656451373	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825389	1472656451429	1472656451492	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825391	1472656451536	1472656451623	h	72
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825393	1472656451596	1472656451711	e	69
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825394	1472656452021	1472656452104	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825396	1472656452177	1472656452273	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825399	1472656452380	1472656452584	SHIFT	16
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825404	1472656452517	1472656452636	T	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825409	1472656452707	1472656452834	h	72
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825406	1472656452787	1472656453002	e	69
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825410	1472656452923	1472656453090	y	89
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825414	1472656453043	1472656453127	 	32
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825418	1472656453230	1472656453337	l	76
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825422	1472656453378	1472656453493	o	79
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825452	1472656453486	1472656453705	s	83
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825453	1472656453678	1472656453829	t	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825454	1472656453786	1472656453890	 	32
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825455	1472656454066	1472656454170	t	79
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825456	1472656454448	1472656454519	 	32
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825492	1472656454644	1472656454695	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825496	1472656454797	1472656454843	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825498	1472656454912	1472656455008	BKSP	8
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825503	1472656455079	1472656455190	t	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825507	1472656455208	1472656455324	o	79
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825511	1472656455328	1472656455459	 	32
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825516	1472656455513	1472656455685	SHIFT	16
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825519	1472656455666	1472656455713	N	78
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825520	1472656455792	1472656455919	a	65
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825542	1472656455948	1472656456011	n	78
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825543	1472656456067	1472656456166	t	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825544	1472656456958	1472656457133	e	69
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825545	1472656457050	1472656457249	s	83
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825556	1472656457198	1472656457325	 	32
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825557	1472656457409	1472656457596	a	65
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825558	1472656457552	1472656457676	f	70
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825559	1472656457739	1472656457841	t	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825560	1472656457839	1472656457986	e	69
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825605	1472656457955	1472656458090	r	82
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825609	1472656458076	1472656458178	 	32
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825613	1472656458700	1472656458791	e	69
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825618	1472656458894	1472656459025	x	88
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825622	1472656459131	1472656459266	t	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825666	1472656459219	1472656459358	r	82
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825670	1472656459676	1472656459835	a	65
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825674	1472656460339	1472656460442	-	189
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825679	1472656460667	1472656460811	t	84
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825682	1472656460799	1472656460938	i	73
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825716	1472656460903	1472656460978	m	77
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825719	1472656460971	1472656461074	e	69
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825726	1472656461054	1472656461142	s	83
+55377	605969	They lost to Nantes after extra-time.	They lost to Nantes after extra-time.	28825732	1472656461499	1472656461591	BKSP	8
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825819	1472656463637	1472656463901	SHIFT	16
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825821	1472656463861	1472656464025	W	87
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825823	1472656464037	1472656464141	e	69
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825826	1472656464130	1472656464233	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825829	1472656464332	1472656464440	h	72
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825847	1472656464372	1472656464504	a	65
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825849	1472656464485	1472656464624	v	86
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825850	1472656464592	1472656464714	e	69
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825852	1472656464708	1472656464796	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825853	1472656465006	1472656465077	b	66
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825854	1472656465081	1472656465157	e	69
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825896	1472656465280	1472656465328	n	78
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825898	1472656465724	1472656465832	BKSP	8
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825904	1472656465855	1472656465979	e	69
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825906	1472656465951	1472656466071	n	78
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825908	1472656466103	1472656466234	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825912	1472656466402	1472656466530	c	67
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825934	1472656466502	1472656466628	o	79
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825936	1472656466603	1472656466694	n	78
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825938	1472656466719	1472656466830	s	83
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825940	1472656466881	1472656466981	i	73
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825942	1472656467377	1472656467501	s	83
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825943	1472656468154	1472656468257	t	84
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825952	1472656468229	1472656468361	e	69
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825954	1472656468353	1472656468448	n	78
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825958	1472656468441	1472656468561	t	84
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825961	1472656468573	1472656468677	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825964	1472656468693	1472656468805	a	65
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825966	1472656468793	1472656468877	n	78
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825967	1472656468889	1472656469017	d	68
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825969	1472656468997	1472656469105	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825971	1472656469183	1472656469319	w	87
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825973	1472656469291	1472656469423	e	69
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825977	1472656469419	1472656469523	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825980	1472656469674	1472656469758	h	72
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825983	1472656469770	1472656469850	a	65
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825987	1472656469830	1472656469962	v	86
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28825991	1472656469934	1472656470058	e	69
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826003	1472656470026	1472656470114	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826007	1472656470147	1472656470267	a	65
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826013	1472656470217	1472656470315	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826017	1472656470406	1472656470534	g	71
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826022	1472656470490	1472656470558	o	79
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826024	1472656470633	1472656470725	o	79
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826036	1472656470789	1472656470937	d	68
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826038	1472656470885	1472656471049	 	32
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826040	1472656471170	1472656471290	b	66
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826042	1472656471315	1472656471423	a	65
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826043	1472656471498	1472656471594	l	76
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826088	1472656471566	1472656471674	a	65
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826091	1472656471793	1472656471817	n	78
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826093	1472656472059	1472656472127	c	67
+55377	605981	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	28826097	1472656472120	1472656472239	e	69
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826180	1472656474475	1472656474751	SHIFT	16
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826183	1472656474703	1472656474867	W	87
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826186	1472656474879	1472656474987	e	69
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826192	1472656475012	1472656475104	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826197	1472656475353	1472656475473	c	67
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826223	1472656475457	1472656475573	a	65
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826227	1472656475553	1472656475637	n	78
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826230	1472656475702	1472656475810	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826232	1472656475851	1472656475971	w	87
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826233	1472656475951	1472656476063	o	79
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826234	1472656476083	1472656476179	r	82
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826248	1472656476195	1472656476331	k	75
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826249	1472656476339	1472656476463	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826251	1472656476568	1472656476696	a	65
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826253	1472656476819	1472656476938	r	82
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826267	1472656476931	1472656477083	o	79
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826269	1472656477059	1472656477167	u	85
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826272	1472656477263	1472656477327	n	78
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826274	1472656477343	1472656477428	d	68
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826276	1472656477423	1472656477507	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826278	1472656477571	1472656477647	t	84
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826301	1472656477608	1472656477719	h	72
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826304	1472656477932	1472656478048	s	83
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826307	1472656478004	1472656478132	e	69
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826310	1472656478372	1472656478395	BKSP	8
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826313	1472656478488	1472656478556	BKSP	8
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826315	1472656478671	1472656478779	e	69
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826317	1472656478825	1472656478969	s	83
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826349	1472656478929	1472656479065	e	69
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826351	1472656479207	1472656479331	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826354	1472656479712	1472656479836	p	80
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826357	1472656479784	1472656479884	l	76
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826360	1472656479864	1472656480004	a	65
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826363	1472656480004	1472656480096	n	78
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826387	1472656480080	1472656480208	s	83
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826389	1472656480216	1472656480308	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826392	1472656480668	1472656480760	i	73
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826396	1472656480768	1472656480900	f	70
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826399	1472656480884	1472656480968	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826403	1472656481072	1472656481174	y	89
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826430	1472656481172	1472656481251	o	79
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826434	1472656481244	1472656481336	u	85
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826436	1472656481385	1472656481489	 	32
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826438	1472656481783	1472656481903	p	80
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826441	1472656481957	1472656482101	r	82
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826476	1472656482077	1472656482189	e	69
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826480	1472656482300	1472656482344	f	70
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826484	1472656482496	1472656482628	e	69
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826489	1472656482556	1472656482708	r	82
+55377	605990	We can work around these plans if you prefer.	We can work around these plans if you prefer.	28826493	1472656482863	1472656482963	.	190
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826553	1472656484719	1472656484967	SHIFT	16
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826554	1472656484916	1472656485040	B	66
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826556	1472656485060	1472656485127	u	85
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826558	1472656485092	1472656485211	t	84
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826560	1472656485212	1472656485312	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826607	1472656485296	1472656485420	t	84
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826609	1472656485356	1472656485509	h	72
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826611	1472656485456	1472656485556	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826613	1472656485512	1472656485608	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826615	1472656485937	1472656486304	SHIFT	16
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826619	1472656486204	1472656486364	C	67
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826622	1472656486480	1472656486584	h	72
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826641	1472656486638	1472656486770	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826637	1472656486666	1472656486757	i	73
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826644	1472656486908	1472656487015	f	70
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826648	1472656486980	1472656487172	s	83
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826649	1472656487188	1472656487296	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826713	1472656487722	1472656487826	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826716	1472656487902	1472656487989	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826717	1472656488059	1472656488133	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826719	1472656488218	1472656488266	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826721	1472656488329	1472656488410	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826723	1472656488583	1472656488713	i	73
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826725	1472656488662	1472656488797	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826729	1472656488758	1472656488949	f	70
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826731	1472656488914	1472656489109	s	83
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826740	1472656489066	1472656489273	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826742	1472656489501	1472656489640	m	77
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826744	1472656489653	1472656489764	i	73
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826747	1472656489788	1472656489900	g	71
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826750	1472656489880	1472656490035	h	72
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826775	1472656490004	1472656490143	t	84
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826776	1472656490092	1472656490207	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826777	1472656490368	1472656490432	d	68
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826779	1472656490528	1472656490591	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826781	1472656490837	1472656490949	p	80
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826783	1472656491090	1472656491194	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826795	1472656491233	1472656491340	n	78
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826799	1472656491424	1472656491583	d	68
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826797	1472656491500	1472656491579	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826802	1472656491695	1472656491812	o	79
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826811	1472656491795	1472656491891	n	78
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826813	1472656491940	1472656492039	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826815	1472656491976	1472656492087	t	84
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826818	1472656492048	1472656492175	h	72
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826821	1472656492140	1472656492219	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826872	1472656492180	1472656492276	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826880	1472656492376	1472656492479	t	84
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826884	1472656492600	1472656492751	u	85
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826893	1472656492756	1472656492855	n	78
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826900	1472656493020	1472656493075	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826906	1472656493170	1472656493246	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826908	1472656493667	1472656493750	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826910	1472656493829	1472656493952	r	82
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826911	1472656493961	1472656494096	u	85
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826928	1472656494053	1472656494188	n	78
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826930	1472656494260	1472656494439	,	188
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826934	1472656494396	1472656494503	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826942	1472656494737	1472656494868	s	83
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826948	1472656494813	1472656494916	o	79
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826955	1472656495029	1472656495152	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826995	1472656495383	1472656495486	h	72
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28826998	1472656495451	1472656495554	i	73
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827002	1472656495555	1472656495714	s	83
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827005	1472656495687	1472656495830	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827007	1472656496232	1472656496356	n	78
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827013	1472656496364	1472656496491	u	85
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827015	1472656496496	1472656496602	m	77
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827018	1472656496600	1472656496691	b	66
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827021	1472656496737	1472656496904	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827064	1472656496853	1472656497008	r	82
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827066	1472656497050	1472656497201	s	83
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827069	1472656497170	1472656497317	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827071	1472656497341	1472656497457	m	77
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827072	1472656497449	1472656497600	a	65
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827074	1472656497690	1472656497817	y	89
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827093	1472656497826	1472656497913	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827096	1472656498082	1472656498185	b	66
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827099	1472656498194	1472656498317	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827103	1472656498302	1472656498393	 	32
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827107	1472656498448	1472656498555	l	76
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827151	1472656498720	1472656498867	m	77
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827156	1472656498901	1472656499012	i	73
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827159	1472656499211	1472656499273	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827161	1472656499361	1472656499424	BKSP	8
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827164	1472656499589	1472656499716	i	73
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827169	1472656499673	1472656499796	m	77
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827182	1472656499794	1472656499884	i	73
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827184	1472656499914	1472656500058	t	84
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827186	1472656500022	1472656500154	e	69
+55377	605998	But the Chiefs might depend on the run, so his numbers may be limited.	But the Chiefs might depend on the run, so his numbers may be limited.	28827191	1472656500171	1472656500306	d	68
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827253	1472656501859	1472656502191	SHIFT	16
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827257	1472656502128	1472656502287	D	68
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827261	1472656502293	1472656502415	r	82
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827265	1472656502396	1472656502487	o	79
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827269	1472656502516	1472656502643	p	80
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827273	1472656502660	1472656502811	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827334	1472656502899	1472656503071	h	72
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827336	1472656503059	1472656503231	i	73
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827339	1472656503236	1472656503355	m	77
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827342	1472656504009	1472656504173	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827345	1472656504320	1472656504391	o	79
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827406	1472656504666	1472656504750	BKSP	8
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827413	1472656504920	1472656504988	i	73
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827414	1472656505033	1472656505197	f	70
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827416	1472656505158	1472656505285	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827418	1472656505353	1472656505457	h	72
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827421	1472656505461	1472656505609	e	69
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827431	1472656505558	1472656505707	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827433	1472656505706	1472656505857	w	87
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827436	1472656505837	1472656506029	a	65
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827442	1472656505989	1472656506181	s	83
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827446	1472656506102	1472656506245	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827451	1472656506271	1472656506396	o	79
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827476	1472656506379	1472656506482	n	78
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827478	1472656506560	1472656506664	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827481	1472656506727	1472656506807	y	89
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827484	1472656506894	1472656506947	o	79
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827486	1472656506934	1472656507098	u	85
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827510	1472656507067	1472656507211	r	82
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827512	1472656507230	1472656507321	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827514	1472656507446	1472656507558	f	70
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827515	1472656507760	1472656507872	BKSP	8
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827516	1472656507848	1472656507984	SHIFT	16
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827518	1472656507932	1472656508068	F	70
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827520	1472656508024	1472656508186	a	65
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827522	1472656508343	1472656508450	n	78
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827553	1472656509207	1472656509304	t	84
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827555	1472656509294	1472656509462	a	65
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827557	1472656509437	1472656509620	s	83
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827559	1472656509707	1472656509867	y	89
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827588	1472656509859	1472656509975	 	32
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827591	1472656510095	1472656510200	r	82
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827595	1472656510191	1472656510316	o	79
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827599	1472656510311	1472656510491	s	83
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827602	1472656510459	1472656510567	t	84
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827604	1472656510593	1472656510713	e	69
+55377	606016	Drop him if he was on your Fantasy roster.	Drop him if he was on your Fantasy roster.	28827605	1472656510697	1472656510805	r	82
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827667	1472656512402	1472656512638	SHIFT	16
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827669	1472656512578	1472656512706	T	84
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827671	1472656512670	1472656512757	h	72
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827673	1472656512750	1472656512889	e	69
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827675	1472656512882	1472656513018	y	89
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827704	1472656512998	1472656513098	 	32
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827707	1472656513341	1472656513479	w	87
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827711	1472656513461	1472656513609	o	79
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827715	1472656513605	1472656513689	u	85
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827717	1472656513705	1472656513800	l	76
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827742	1472656513793	1472656513909	d	68
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827746	1472656513870	1472656514005	 	32
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827748	1472656514242	1472656514398	p	80
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827751	1472656514342	1472656514450	l	76
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827754	1472656514526	1472656514698	a	65
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827831	1472656514650	1472656514810	y	89
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827835	1472656514814	1472656514910	 	32
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827836	1472656515109	1472656515164	c	67
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827837	1472656515115	1472656515293	SHIFT	16
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827839	1472656515248	1472656515368	C	67
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827841	1472656515827	1472656515891	BKSP	8
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827843	1472656515962	1472656516046	BKSP	8
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827845	1472656516050	1472656516166	SHIFT	16
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827847	1472656516118	1472656516258	C	67
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827849	1472656516334	1472656516394	u	85
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827871	1472656516800	1472656516881	BKSP	8
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827872	1472656517124	1472656517236	h	72
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827874	1472656517208	1472656517340	i	73
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827876	1472656517422	1472656517550	l	76
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827881	1472656517608	1472656517724	e	69
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827907	1472656517716	1472656517808	 	32
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827909	1472656517926	1472656518034	i	73
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827911	1472656518014	1472656518106	n	78
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827913	1472656518157	1472656518261	 	32
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827915	1472656518241	1472656518513	SHIFT	16
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827917	1472656518441	1472656518577	B	66
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827920	1472656518601	1472656518677	u	85
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827925	1472656518721	1472656518781	e	69
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827926	1472656518821	1472656518921	n	78
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827927	1472656519003	1472656519098	o	79
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827929	1472656519134	1472656519278	s	83
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827964	1472656519235	1472656519382	 	32
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827968	1472656519354	1472656519570	SHIFT	16
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827971	1472656519526	1472656519738	A	65
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827973	1472656519973	1472656520069	i	73
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827974	1472656520124	1472656520272	r	82
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827975	1472656520256	1472656520448	e	69
+55377	606026	They would play Chile in Buenos Aires.	They would play Chile in Buenos Aires.	28827976	1472656520420	1472656520544	s	83
+55377	606032	We will keep trying.	We will keep trying.	28828043	1472656522300	1472656522572	SHIFT	16
+55377	606032	We will keep trying.	We will keep trying.	28828045	1472656522496	1472656522635	W	87
+55377	606032	We will keep trying.	We will keep trying.	28828048	1472656522588	1472656522748	e	69
+55377	606032	We will keep trying.	We will keep trying.	28828052	1472656522767	1472656522859	 	32
+55377	606032	We will keep trying.	We will keep trying.	28828056	1472656522890	1472656523014	w	87
+55377	606032	We will keep trying.	We will keep trying.	28828060	1472656523032	1472656523133	i	73
+55377	606032	We will keep trying.	We will keep trying.	28828082	1472656523253	1472656523313	l	76
+55377	606032	We will keep trying.	We will keep trying.	28828083	1472656523378	1472656523466	l	76
+55377	606032	We will keep trying.	We will keep trying.	28828084	1472656523493	1472656523617	 	32
+55377	606032	We will keep trying.	We will keep trying.	28828085	1472656523701	1472656523801	k	75
+55377	606032	We will keep trying.	We will keep trying.	28828086	1472656524014	1472656524134	e	69
+55377	606032	We will keep trying.	We will keep trying.	28828113	1472656524226	1472656524294	e	69
+55377	606032	We will keep trying.	We will keep trying.	28828114	1472656524352	1472656524476	p	80
+55377	606032	We will keep trying.	We will keep trying.	28828115	1472656524493	1472656524613	 	32
+55377	606032	We will keep trying.	We will keep trying.	28828119	1472656524851	1472656524983	t	84
+55377	606032	We will keep trying.	We will keep trying.	28828123	1472656525114	1472656525250	r	82
+55377	606032	We will keep trying.	We will keep trying.	28828149	1472656525480	1472656525580	i	73
+55377	606032	We will keep trying.	We will keep trying.	28828151	1472656525826	1472656525914	BKSP	8
+55377	606032	We will keep trying.	We will keep trying.	28828154	1472656525935	1472656526046	y	89
+55377	606032	We will keep trying.	We will keep trying.	28828157	1472656526083	1472656526239	i	73
+55377	606032	We will keep trying.	We will keep trying.	28828160	1472656526203	1472656526322	n	78
+55377	606032	We will keep trying.	We will keep trying.	28828162	1472656526394	1472656526490	g	71
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828247	1472656528195	1472656528374	SHIFT	16
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828249	1472656528339	1472656528427	I	73
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828252	1472656528492	1472656528612	 	32
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828255	1472656528608	1472656528707	t	84
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828258	1472656528680	1472656528796	r	82
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828289	1472656528792	1472656528884	i	73
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828290	1472656528937	1472656529065	e	69
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828291	1472656529085	1472656529233	d	68
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828292	1472656529668	1472656529767	 	32
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828293	1472656529910	1472656530045	t	84
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828309	1472656529998	1472656530113	h	72
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828310	1472656530118	1472656530261	a	65
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828311	1472656530226	1472656530362	t	84
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828312	1472656530354	1472656530445	 	32
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828313	1472656530462	1472656530562	t	84
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828353	1472656530558	1472656530658	o	79
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828357	1472656530686	1472656530786	 	32
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828360	1472656530814	1472656530910	n	78
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828363	1472656530942	1472656531021	o	79
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828365	1472656531097	1472656531201	 	32
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828367	1472656531433	1472656531636	a	65
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828372	1472656531638	1472656531747	v	86
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828376	1472656531721	1472656531848	a	65
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828382	1472656531849	1472656531957	i	73
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828387	1472656532035	1472656532138	l	76
+55377	606036	I tried that to no avail.	I tried that to no avail.	28828391	1472656532201	1472656532316	.	190
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828463	1472656533745	1472656534132	SHIFT	16
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828465	1472656534277	1472656534353	h	72
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828467	1472656534441	1472656534552	e	69
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828469	1472656534574	1472656534654	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828471	1472656534621	1472656534801	SHIFT	16
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828472	1472656534738	1472656534889	F	70
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828494	1472656534882	1472656534990	e	69
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828496	1472656535104	1472656535187	d	68
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828497	1472656535266	1472656535353	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828498	1472656535499	1472656535646	w	87
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828499	1472656535611	1472656535694	i	73
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828500	1472656535831	1472656535874	l	76
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828579	1472656535959	1472656536022	l	76
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828582	1472656536088	1472656536227	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828585	1472656536898	1472656537022	t	84
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828587	1472656537545	1472656537656	BKSP	8
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828589	1472656537718	1472656537845	c	67
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828618	1472656537854	1472656538033	o	79
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828590	1472656537922	1472656538021	n	78
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828623	1472656538158	1472656538264	t	84
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828626	1472656538246	1472656538393	i	73
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828631	1472656538357	1472656538465	n	78
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828635	1472656538503	1472656538587	u	85
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828639	1472656538611	1472656538740	e	69
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828652	1472656538703	1472656538822	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828655	1472656538857	1472656538968	t	84
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828660	1472656538997	1472656539052	o	79
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828664	1472656539076	1472656539191	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828668	1472656539314	1472656539407	h	72
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828697	1472656539382	1472656539497	a	65
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828699	1472656539474	1472656539597	v	86
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828701	1472656539586	1472656539721	e	69
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828704	1472656539694	1472656539794	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828706	1472656539899	1472656540019	o	79
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828708	1472656540247	1472656540345	v	86
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828745	1472656540362	1472656540509	e	69
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828749	1472656540474	1472656540721	r	82
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828752	1472656540803	1472656540922	s	83
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828756	1472656540887	1472656540986	i	73
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828761	1472656541011	1472656541138	g	71
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828776	1472656541103	1472656541278	h	72
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828780	1472656541247	1472656541358	t	84
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828784	1472656541376	1472656541459	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828788	1472656541644	1472656541755	o	79
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828793	1472656541852	1472656541980	v	86
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828869	1472656541976	1472656542143	e	69
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828870	1472656542084	1472656542255	r	82
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828871	1472656542268	1472656542361	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828872	1472656544164	1472656544298	3	51
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828873	1472656544285	1472656544356	8	56
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828874	1472656544430	1472656544565	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828916	1472656544891	1472656545495	SHIFT	16
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828914	1472656545068	1472656545115	U	85
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828915	1472656545284	1472656545427	S	83
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828917	1472656545550	1472656545653	 	32
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828918	1472656545940	1472656546051	b	66
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828919	1472656546266	1472656546418	a	65
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828925	1472656546379	1472656546506	n	78
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828927	1472656546472	1472656546562	k	75
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828929	1472656546567	1472656546690	s	83
+55377	606041	he Fed will continue to have oversight over 38 US banks.	he Fed will continue to have oversight over 38 US banks.	28828932	1472656546771	1472656546890	.	190

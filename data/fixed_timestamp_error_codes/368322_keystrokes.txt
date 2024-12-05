@@ -1,0 +1,915 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188680986	1477019910046	1477019910248	SHIFT	16
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188680990	1477019910125	1477019910268	I	73
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188680993	1477019912028	1477019912188	'	222
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188680997	1477019912301	1477019912446	l	76
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681000	1477019912551	1477019912634	l	76
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681002	1477019912819	1477019912982	 	32
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681103	1477019914201	1477019914328	p	80
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681105	1477019914318	1477019914451	r	82
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681110	1477019914410	1477019914529	o	79
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681113	1477019915996	1477019916254	b	66
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681323	1477019916194	1477019916346	a	65
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681327	1477019917260	1477019917471	BKSP	8
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681332	1477019917645	1477019917838	a	65
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681338	1477019918048	1477019918445	b	66
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681344	1477019920504	1477019920781	l	76
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681349	1477019920758	1477019920951	u	85
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681613	1477019920861	1477019921003	l	76
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681616	1477019921714	1477019921871	BKSP	8
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681617	1477019921941	1477019922074	BKSP	8
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681618	1477019926518	1477019926567	y	89
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681619	1477019926843	1477019927031	 	32
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681620	1477019927575	1477019927800	p	80
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681621	1477019927713	1477019927921	a	65
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681622	1477019928112	1477019928291	g	71
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681677	1477019928311	1477019928430	r	82
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681679	1477019928524	1477019928733	 	32
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681681	1477019929132	1477019929351	BKSP	8
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681683	1477019929441	1477019929539	BKSP	8
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681685	1477019929629	1477019929795	e	69
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681686	1477019929855	1477019930045	n	78
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681687	1477019930367	1477019930501	y	89
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681833	1477019930584	1477019930814	o	79
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681834	1477019930894	1477019931004	u	85
+368322	3971842	I'll probably page you.	I'll probably pagenyou.	188681836	1477019932181	1477019932331	.	190
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682075	1477019937177	1477019937620	b	66
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682077	1477019938074	1477019938297	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682082	1477019938770	1477019939360	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682080	1477019939156	1477019939280	B	66
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682084	1477019940591	1477019940863	o	79
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682086	1477019940903	1477019941060	b	66
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682088	1477019942147	1477019942317	,	188
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682223	1477019942504	1477019942600	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682225	1477019942733	1477019943003	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682226	1477019943084	1477019943224	i	73
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682227	1477019943986	1477019944218	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682228	1477019944188	1477019944467	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682231	1477019944808	1477019945227	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682229	1477019945130	1477019945227	I	73
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682233	1477019945663	1477019945848	;	186
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682235	1477019946442	1477019946687	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682238	1477019947187	1477019947354	'	222
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682329	1477019948490	1477019948584	l	76
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682330	1477019948664	1477019948787	l	76
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682331	1477019948927	1477019949106	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682332	1477019949532	1477019949761	p	80
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682333	1477019950310	1477019950503	c	67
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682454	1477019950856	1477019950980	k	75
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682455	1477019951150	1477019951290	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682456	1477019951542	1477019951714	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682459	1477019951917	1477019952153	c	67
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682461	1477019952088	1477019952185	i	73
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682462	1477019952684	1477019952947	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682464	1477019953037	1477019953180	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682466	1477019954076	1477019954207	i	73
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682543	1477019954197	1477019954400	c	67
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682545	1477019954570	1477019954730	k	75
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682547	1477019955163	1477019955366	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682549	1477019955860	1477019956283	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682551	1477019956181	1477019956353	S	83
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682553	1477019956333	1477019956443	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682557	1477019956910	1477019957090	a	65
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682622	1477019957090	1477019957243	n	78
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682623	1477019957483	1477019957693	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682625	1477019957663	1477019958100	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682624	1477019957835	1477019958043	D	68
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682626	1477019958053	1477019958230	I	73
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682627	1477019958240	1477019958374	e	69
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682628	1477019958887	1477019958990	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682629	1477019959230	1477019959357	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682631	1477019959456	1477019959580	BKSP	8
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682634	1477019959780	1477019959925	a	65
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682661	1477019960037	1477019960221	n	78
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682663	1477019960332	1477019960473	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682667	1477019960523	1477019961003	SHIFT	16
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682665	1477019960779	1477019960933	D	68
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682669	1477019961023	1477019961168	i	73
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682673	1477019961208	1477019961341	e	69
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682715	1477019961782	1477019961857	g	71
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682718	1477019962331	1477019962495	o	79
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682721	1477019962556	1477019962681	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682724	1477019963003	1477019963154	a	65
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682727	1477019963224	1477019963376	s	83
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682820	1477019963439	1477019963573	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682826	1477019964623	1477019964737	m	77
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682830	1477019964923	1477019964987	y	89
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682833	1477019965288	1477019965437	 	32
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682835	1477019965886	1477019966073	w	87
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682875	1477019966053	1477019966180	i	73
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682876	1477019966379	1477019966487	n	78
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682878	1477019966587	1477019966681	n	78
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682880	1477019966691	1477019966813	e	69
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682882	1477019966925	1477019967066	r	82
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682884	1477019967990	1477019968123	.	190
+368322	3971863	Bob, I'll pick San Diego as my winner.	Bob, I'll pick San Diego as my winner.	188682901	1477019968505	1477019968686	SHIFT	16
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683116	1477019973393	1477019973523	f	70
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683117	1477019974146	1477019974313	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683119	1477019974303	1477019975086	SHIFT	16
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683118	1477019974764	1477019974966	F	70
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683120	1477019975086	1477019975213	r	82
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683121	1477019975696	1477019975910	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683123	1477019975930	1477019976106	n	78
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683185	1477019976328	1477019976493	v	86
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683187	1477019976823	1477019976986	r	82
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683188	1477019977306	1477019977388	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683189	1477019977488	1477019977643	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683190	1477019978387	1477019978543	c	67
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683191	1477019978603	1477019978740	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683192	1477019978780	1477019978863	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683244	1477019981392	1477019981553	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683245	1477019981573	1477019981726	l	76
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683246	1477019981986	1477019982223	s	83
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683410	1477019982179	1477019982706	l	76
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683248	1477019982243	1477019982323	o	79
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683406	1477019982524	1477019982696	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683413	1477019983339	1477019983493	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683416	1477019983593	1477019983813	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683419	1477019984085	1477019984265	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683424	1477019984863	1477019984989	o	79
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683428	1477019987609	1477019987879	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683433	1477019988223	1477019988416	w	87
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683436	1477019988543	1477019988733	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683495	1477019989519	1477019989761	s	83
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683497	1477019989844	1477019990099	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683499	1477019990204	1477019990344	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683502	1477019990369	1477019990891	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683601	1477019990714	1477019990897	o	79
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683603	1477019990870	1477019991005	r	82
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683607	1477019990985	1477019991079	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683609	1477019991621	1477019991776	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683613	1477019991863	1477019991944	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683614	1477019992199	1477019992349	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683616	1477019992592	1477019992722	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683618	1477019992984	1477019993162	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683620	1477019993401	1477019993555	w	87
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683623	1477019993982	1477019994148	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683625	1477019994823	1477019995123	s	83
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683708	1477019995113	1477019995321	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683709	1477019996252	1477019996406	p	80
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683712	1477019997005	1477019997152	r	82
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683715	1477019997282	1477019997484	e	69
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683718	1477019997564	1477019997730	p	80
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683721	1477019997870	1477019998094	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683828	1477019998239	1477019998402	r	82
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683830	1477019998562	1477019998729	e	69
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683833	1477019999159	1477019999409	d	68
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683836	1477019999549	1477019999702	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683839	1477020000557	1477020000719	t	84
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683909	1477020000973	1477020001146	o	79
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683911	1477020001456	1477020001604	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683913	1477020001880	1477020002082	p	80
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683917	1477020002046	1477020002252	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188683919	1477020002645	1477020002767	r	82
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684022	1477020002798	1477020002982	t	84
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684024	1477020003409	1477020003549	i	73
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684029	1477020004525	1477020004715	c	67
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684033	1477020004705	1477020004819	i	73
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684036	1477020004939	1477020005132	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684304	1477020005765	1477020005945	[	219
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684306	1477020006218	1477020006352	=	187
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684309	1477020006422	1477020006565	=	187
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684313	1477020007169	1477020007352	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684318	1477020007482	1477020007582	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684323	1477020007672	1477020007765	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684327	1477020007875	1477020007955	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684330	1477020009229	1477020009339	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684333	1477020011652	1477020011749	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684337	1477020011829	1477020011915	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684338	1477020012246	1477020012342	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684341	1477020012995	1477020013112	i	73
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684610	1477020013998	1477020014269	p	80
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684612	1477020015762	1477020015959	t	84
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684701	1477020016442	1477020022901	e	69
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684615	1477020020648	1477020020706	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684617	1477020020806	1477020020875	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684619	1477020021380	1477020021519	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684621	1477020021978	1477020022106	t	84
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684703	1477020022996	1477020023217	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684707	1477020023715	1477020023828	i	73
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684712	1477020023974	1477020024095	n	78
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684716	1477020024215	1477020024365	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684718	1477020024446	1477020024653	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684841	1477020025007	1477020025147	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684849	1477020025227	1477020026572	SHIFT	16
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684844	1477020025829	1477020025963	U	85
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684847	1477020026249	1477020026311	N	78
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684851	1477020027160	1477020027271	m	77
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188684852	1477020027671	1477020027877	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685048	1477020027867	1477020028047	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685051	1477020028751	1477020029058	m	77
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685055	1477020029048	1477020029148	u	85
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685058	1477020029468	1477020029602	k	75
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685061	1477020030034	1477020030175	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685063	1477020030608	1477020030698	u	85
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685065	1477020031430	1477020031605	BKSP	8
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685066	1477020032038	1477020032151	l	76
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685162	1477020032493	1477020032693	t	84
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685166	1477020032723	1477020032891	i	73
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685171	1477020033844	1477020034031	n	78
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685177	1477020034231	1477020034495	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685184	1477020034919	1477020035105	t	84
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685257	1477020035216	1477020035345	i	73
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685258	1477020035575	1477020036091	o	79
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685263	1477020035935	1477020036151	n	78
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685268	1477020036191	1477020036471	a	65
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685402	1477020036444	1477020036645	l	76
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685404	1477020036896	1477020037091	 	32
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685406	1477020037695	1477020037880	f	70
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685409	1477020037981	1477020038191	o	79
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685414	1477020038137	1477020038281	r	82
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685421	1477020038795	1477020038981	c	67
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685515	1477020039618	1477020039791	e	69
+368322	3971890	France also was prepared to participate in a UN multinational force.	Franc  also  wapr epared to participae in a UN multinational force.	188685516	1477020040458	1477020040655	.	190
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685788	1477020046584	1477020047168	SHIFT	16
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685787	1477020046964	1477020047138	S	83
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685790	1477020047598	1477020047738	c	67
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685793	1477020047988	1477020048174	o	79
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685796	1477020048122	1477020048264	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685799	1477020048344	1477020048491	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685901	1477020048693	1477020048898	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685902	1477020049829	1477020049963	i	73
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685906	1477020049922	1477020050118	s	83
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685908	1477020050138	1477020050332	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685910	1477020050725	1477020051035	o	79
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685968	1477020051519	1477020051665	u	85
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685969	1477020051675	1477020051845	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685970	1477020051835	1477020052012	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685972	1477020052252	1477020052422	m	77
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188685974	1477020052562	1477020052599	o	79
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686123	1477020053035	1477020053131	d	68
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686125	1477020053361	1477020053431	SHIFT	16
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686128	1477020053501	1477020053671	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686132	1477020054325	1477020054656	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686135	1477020054776	1477020054895	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686137	1477020055026	1477020055205	s	83
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686140	1477020055669	1477020055807	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686143	1477020056028	1477020056275	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686258	1477020056806	1477020057019	o	79
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686261	1477020057009	1477020057165	f	70
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686271	1477020057192	1477020058022	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686266	1477020057757	1477020057869	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686275	1477020058644	1477020058820	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686278	1477020058968	1477020059105	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686282	1477020059728	1477020059875	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686341	1477020059897	1477020060083	h	72
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686342	1477020060477	1477020060645	i	73
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686344	1477020060685	1477020060833	s	83
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686346	1477020060823	1477020060985	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686348	1477020061628	1477020061848	w	87
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686440	1477020061848	1477020061962	e	69
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686444	1477020062052	1477020062198	e	69
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686446	1477020062318	1477020062405	,	188
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686449	1477020062585	1477020062758	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686455	1477020062987	1477020063162	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686460	1477020063272	1477020063476	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686465	1477020064403	1477020064559	k	75
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686468	1477020064952	1477020065159	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686538	1477020065743	1477020066003	o	79
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686541	1477020066013	1477020066119	n	78
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686544	1477020066239	1477020066409	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686547	1477020066886	1477020067019	v	86
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686553	1477020067063	1477020067557	a	65
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686683	1477020068256	1477020068429	x	88
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686685	1477020068903	1477020069163	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686688	1477020069213	1477020069349	c	67
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686691	1477020069410	1477020069581	a	65
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686697	1477020069883	1477020070043	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686703	1477020070519	1477020070639	i	73
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686757	1477020070981	1477020071215	o	79
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686759	1477020071205	1477020071289	n	78
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686762	1477020071439	1477020071603	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686765	1477020071736	1477020072039	a	65
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686919	1477020071986	1477020072182	n	78
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686923	1477020072815	1477020073029	d	68
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686926	1477020073099	1477020073269	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686936	1477020073512	1477020074252	SHIFT	16
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686931	1477020074092	1477020074172	I	73
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686942	1477020074583	1477020074799	'	222
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188686948	1477020075252	1477020075389	m	77
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687074	1477020075551	1477020075659	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687078	1477020076226	1477020076476	o	79
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687081	1477020076616	1477020076776	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687082	1477020077603	1477020077739	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687083	1477020078103	1477020078234	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687084	1477020078646	1477020078880	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687085	1477020079010	1477020079159	u	85
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687158	1477020079201	1477020079339	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687160	1477020079339	1477020079502	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687165	1477020079837	1477020079972	n	78
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687169	1477020079982	1477020080159	e	69
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687176	1477020080919	1477020081095	x	88
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687376	1477020081227	1477020081416	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687378	1477020081962	1477020082119	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687380	1477020082462	1477020082668	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687384	1477020082853	1477020082963	BKSP	8
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687388	1477020083832	1477020084016	a	65
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687390	1477020085684	1477020085857	x	88
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687395	1477020085937	1477020086102	t	84
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687399	1477020086165	1477020086370	 	32
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687456	1477020086802	1477020086942	w	87
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687459	1477020087012	1477020087125	e	69
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687461	1477020087211	1477020087359	e	69
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687463	1477020088042	1477020088195	k	75
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687467	1477020088787	1477020088904	.	190
+368322	3971946	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of  this week on vacation and I'm out next week.	188687501	1477020089325	1477020089576	SHIFT	16
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688441	1477020113021	1477020113311	SHIFT	16
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688442	1477020113301	1477020113472	H	72
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688443	1477020113955	1477020114027	p	80
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688444	1477020114621	1477020114830	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688445	1477020115000	1477020115127	o	79
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688446	1477020115851	1477020116077	p	80
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688448	1477020116137	1477020116316	w	87
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688533	1477020116956	1477020117180	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688535	1477020117047	1477020117200	e	69
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688537	1477020117308	1477020117512	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688539	1477020117990	1477020118100	y	89
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688541	1477020118120	1477020118324	p	80
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688543	1477020118407	1477020118547	u	85
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688641	1477020118609	1477020118777	t	84
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688642	1477020118797	1477020118987	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688643	1477020119364	1477020119510	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688644	1477020119620	1477020119826	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688645	1477020119896	1477020120120	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688646	1477020120280	1477020120454	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688647	1477020120654	1477020120846	o	79
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688648	1477020120876	1477020121014	u	85
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688649	1477020121254	1477020121420	t	84
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688743	1477020121522	1477020121690	n	78
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688746	1477020121950	1477020122200	t	84
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688750	1477020122560	1477020122707	o	79
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688755	1477020123077	1477020123160	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688758	1477020123280	1477020123343	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688762	1477020123419	1477020123524	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688767	1477020123714	1477020123894	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688772	1477020124024	1477020124195	r	82
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688776	1477020124737	1477020124920	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688855	1477020126390	1477020126520	t	84
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688856	1477020126600	1477020126764	r	82
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688857	1477020127577	1477020127683	i	73
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688859	1477020127813	1477020127977	p	80
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688861	1477020128460	1477020128617	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688949	1477020129380	1477020129550	t	84
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688952	1477020129530	1477020129685	o	79
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688955	1477020129593	1477020129695	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688957	1477020129805	1477020129977	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689049	1477020130671	1477020131299	SHIFT	16
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188688958	1477020130993	1477020131167	F	70
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689052	1477020131431	1477020131600	l	76
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689056	1477020131680	1477020131833	o	79
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689058	1477020132188	1477020132350	t	84
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689065	1477020132390	1477020132530	i	73
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689067	1477020132881	1477020133030	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689069	1477020133100	1477020133233	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689071	1477020133623	1477020133803	r	82
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689140	1477020134447	1477020134590	i	73
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689144	1477020134770	1477020134913	d	68
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689146	1477020135337	1477020135520	a	65
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689148	1477020135570	1477020135713	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689150	1477020135836	1477020136000	w	87
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689232	1477020136122	1477020136303	a	65
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689234	1477020136653	1477020136877	s	83
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689236	1477020136947	1477020137107	 	32
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689237	1477020137497	1477020137637	g	71
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689239	1477020137677	1477020137800	i	73
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689367	1477020137928	1477020138030	i	73
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689369	1477020138497	1477020138627	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689375	1477020138737	1477020138822	BKSP	8
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689379	1477020139313	1477020139427	o	79
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689382	1477020139585	1477020139740	o	79
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689384	1477020139812	1477020139991	s	83
+368322	3971985	Hope your trip to Florida was good.	Hope your trip to  Florida was goos.	188689386	1477020140897	1477020141085	.	190
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689920	1477020148031	1477020148529	SHIFT	16
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689924	1477020148340	1477020148579	A	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689928	1477020148669	1477020148893	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689930	1477020149080	1477020149366	SHIFT	16
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689931	1477020149406	1477020149578	h	72
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689933	1477020150221	1477020150413	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689941	1477020150353	1477020151234	SHIFT	16
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689936	1477020151053	1477020151234	H	72
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689946	1477020153183	1477020153330	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689951	1477020154676	1477020155083	SHIFT	16
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188689955	1477020155133	1477020155300	h	72
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690077	1477020156157	1477020156416	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690079	1477020156396	1477020156820	SHIFT	16
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690078	1477020156681	1477020156810	H	72
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690080	1477020157949	1477020158283	u	85
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690081	1477020158355	1477020158646	u	85
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690082	1477020158596	1477020158770	n	78
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690219	1477020158726	1477020158834	u	85
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690220	1477020159839	1477020159999	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690221	1477020160112	1477020160233	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690222	1477020160323	1477020160440	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690223	1477020161036	1477020161159	n	78
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690224	1477020161229	1477020161350	a	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690225	1477020161713	1477020161913	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690226	1477020161875	1477020162043	g	71
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690227	1477020162195	1477020162417	a	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690228	1477020162863	1477020162999	r	82
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690305	1477020163021	1477020163242	i	73
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690309	1477020163203	1477020163407	a	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690315	1477020163397	1477020163516	n	78
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690321	1477020163694	1477020163867	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690325	1477020164247	1477020164411	n	78
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690397	1477020164401	1477020164586	e	69
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690399	1477020164676	1477020164865	u	85
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690401	1477020164945	1477020165166	r	82
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690405	1477020165216	1477020165393	o	79
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690406	1477020165642	1477020165888	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690409	1477020166239	1477020166429	s	83
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690594	1477020166400	1477020166566	u	85
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690598	1477020166786	1477020166950	t	84
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690602	1477020167672	1477020167873	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690605	1477020167921	1477020168106	r	82
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690607	1477020168116	1477020168264	h	72
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690608	1477020168836	1477020169141	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690609	1477020169693	1477020169919	e	69
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690611	1477020170523	1477020170703	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690613	1477020171041	1477020171113	g	71
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690700	1477020171081	1477020171286	e	69
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690701	1477020171866	1477020172247	o	79
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690702	1477020172277	1477020172482	n	78
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690703	1477020172613	1477020172742	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690707	1477020173647	1477020173720	s	83
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690713	1477020173960	1477020174150	a	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690769	1477020174097	1477020174275	i	73
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690771	1477020174295	1477020174497	d	68
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690773	1477020174487	1477020174669	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690775	1477020175381	1477020175450	t	84
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690777	1477020175490	1477020175673	h	72
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690842	1477020175620	1477020175993	a	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690844	1477020175915	1477020176059	t	84
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690845	1477020176169	1477020176290	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690846	1477020176696	1477020176867	m	77
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690847	1477020177027	1477020177136	e	69
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690849	1477020177407	1477020177638	f	70
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690927	1477020177697	1477020177820	u	85
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690929	1477020178220	1477020178372	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690931	1477020178432	1477020178600	BKSP	8
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690933	1477020178902	1477020179047	d	68
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690939	1477020179467	1477020179603	i	73
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690942	1477020179593	1477020179740	c	67
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188690946	1477020179970	1477020180183	a	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691001	1477020180887	1477020181040	l	76
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691002	1477020181130	1477020181280	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691003	1477020181398	1477020181520	s	83
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691004	1477020181680	1477020181789	u	85
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691005	1477020181963	1477020182093	p	80
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691038	1477020182161	1477020182287	p	80
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691041	1477020182750	1477020182857	l	76
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691043	1477020182967	1477020183090	i	73
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691046	1477020183150	1477020183217	e	69
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691047	1477020183357	1477020183516	s	83
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691067	1477020183496	1477020183643	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691068	1477020183773	1477020184033	a	65
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691072	1477020184113	1477020184303	r	82
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691074	1477020184373	1477020184543	e	69
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691078	1477020184573	1477020184786	 	32
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691082	1477020184936	1477020185080	l	76
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691127	1477020185211	1477020185333	o	79
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691129	1477020185263	1477020185523	w	87
+368322	3972031	A Hungarian neuro surgeon said that medical supplies are low.	A Hungarian neuro surgeon said that medical supplies are low.	188691130	1477020186306	1477020186660	.	190
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691282	1477020189707	1477020190622	SHIFT	16
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691280	1477020190152	1477020190256	V	86
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691285	1477020190965	1477020191103	e	69
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691289	1477020191488	1477020191830	SHIFT	16
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691294	1477020192966	1477020193066	r	82
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691298	1477020193159	1477020193296	y	89
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691300	1477020193449	1477020193591	 	32
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691353	1477020194362	1477020194466	f	70
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691355	1477020194496	1477020194620	o	79
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691357	1477020194780	1477020194833	g	71
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691359	1477020194945	1477020195070	g	71
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691361	1477020195370	1477020195533	y	89
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691406	1477020195685	1477020195809	 	32
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691408	1477020196131	1477020196359	t	84
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691410	1477020196564	1477020196843	i	73
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691412	1477020197310	1477020197535	BKSP	8
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691414	1477020197877	1477020197951	h	72
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691415	1477020198042	1477020198209	i	73
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691467	1477020198290	1477020198451	s	83
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691469	1477020198794	1477020198982	 	32
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691472	1477020199285	1477020199455	m	77
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691645	1477020199682	1477020199860	t	79
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691647	1477020200329	1477020200574	BKSP	8
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691649	1477020200664	1477020200783	t	84
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691651	1477020200884	1477020201112	n	78
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691653	1477020201402	1477020201606	BKSP	8
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691656	1477020201676	1477020201823	BKSP	8
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691659	1477020201853	1477020201979	r	82
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691665	1477020206839	1477020206906	n	78
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691668	1477020206926	1477020207073	i	73
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691757	1477020207556	1477020207676	n	78
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691759	1477020207716	1477020207923	g	71
+368322	3972062	Very foggy this morning.	Very foggy this morning.	188691763	1477020208416	1477020208593	.	190
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694564	1477020292431	1477020293067	SHIFT	16
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694560	1477020292764	1477020292957	S	83
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694568	1477020293494	1477020293714	c	67
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694571	1477020293844	1477020293974	9	57
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694574	1477020294728	1477020294838	=	187
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694577	1477020294998	1477020295191	o	79
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694677	1477020296467	1477020296641	BKSP	8
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694679	1477020296721	1477020296814	BKSP	8
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694681	1477020296864	1477020296975	BKSP	8
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694683	1477020297245	1477020297489	o	79
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694687	1477020297821	1477020297931	t	84
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694690	1477020298041	1477020298178	t	84
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694692	1477020298218	1477020298396	y	89
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694694	1477020298426	1477020298545	 	32
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694948	1477020298696	1477020298955	a	65
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694949	1477020298908	1477020299035	n	78
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694950	1477020300361	1477020300545	f	70
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694952	1477020302948	1477020303095	BKSP	8
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694954	1477020304508	1477020304681	d	68
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188694957	1477020304851	1477020305005	 	32
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695078	1477020305106	1477020305376	SHIFT	16
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695084	1477020305548	1477020306111	SHIFT	16
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695080	1477020305938	1477020306051	I	73
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695088	1477020306211	1477020306415	 	32
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695090	1477020306529	1477020306740	w	87
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695094	1477020307393	1477020307508	i	73
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695097	1477020308965	1477020309101	l	76
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695236	1477020309222	1477020309391	l	76
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695239	1477020309995	1477020310155	BKSP	8
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695244	1477020310445	1477020310515	 	32
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695247	1477020311128	1477020311241	b	66
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695253	1477020311662	1477020311831	e	69
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695258	1477020311931	1477020312291	 	32
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695372	1477020312198	1477020312504	u	85
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695376	1477020312958	1477020313202	BKSP	8
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695380	1477020313598	1477020313771	i	73
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695387	1477020313861	1477020313904	n	78
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695389	1477020314044	1477020314203	 	32
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695392	1477020314711	1477020315131	N	78
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695581	1477020315071	1477020315193	Y	89
+368322	3972136	Scotty and I will be in NYC.	Scotty and I wil be in NYC.	188695582	1477020320052	1477020320131	.	190
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695911	1477020325839	1477020326843	SHIFT	16
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695909	1477020326363	1477020326511	B	66
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695910	1477020326521	1477020326723	U	85
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695912	1477020326833	1477020327007	T	84
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695915	1477020327247	1477020327406	BKSP	8
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695918	1477020327486	1477020327637	BKSP	8
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695921	1477020327927	1477020328087	u	85
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188695928	1477020329013	1477020329194	t	84
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696141	1477020329157	1477020329331	 	32
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696146	1477020329421	1477020329586	t	84
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696150	1477020329826	1477020329989	h	72
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696155	1477020334633	1477020334927	n	78
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696244	1477020334907	1477020335094	k	75
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696247	1477020335174	1477020335281	 	32
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696252	1477020335622	1477020335794	y	89
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696258	1477020335691	1477020335904	o	79
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696263	1477020335944	1477020336177	i	73
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696267	1477020336753	1477020336844	BKSP	8
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696270	1477020337054	1477020337201	u	85
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696291	1477020337273	1477020337441	 	32
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696292	1477020337711	1477020337870	f	70
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696294	1477020337860	1477020338081	o	79
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696296	1477020338024	1477020338177	r	82
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696441	1477020338141	1477020338299	 	32
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696445	1477020339324	1477020339487	t	84
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696448	1477020339547	1477020339661	h	72
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696451	1477020339614	1477020339800	e	69
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696455	1477020339830	1477020340091	 	32
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696460	1477020342055	1477020342251	o	79
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696519	1477020342322	1477020342444	f	70
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696523	1477020342534	1477020342657	f	70
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696526	1477020342779	1477020342983	e	69
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696530	1477020342973	1477020343137	r	82
+368322	3972164	But thank you for the offer.	But thank you for the offer.	188696533	1477020343507	1477020343714	.	190
+368322	3972184	See you next week.	Seen you next week.	188696785	1477020347465	1477020348641	SHIFT	16
+368322	3972184	See you next week.	Seen you next week.	188696782	1477020347831	1477020347977	S	83
+368322	3972184	See you next week.	Seen you next week.	188696784	1477020348376	1477020348536	R	82
+368322	3972184	See you next week.	Seen you next week.	188696786	1477020349010	1477020349214	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188696787	1477020349154	1477020349314	r	82
+368322	3972184	See you next week.	Seen you next week.	188696789	1477020349624	1477020349760	r	82
+368322	3972184	See you next week.	Seen you next week.	188696791	1477020349940	1477020350104	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188696793	1477020350184	1477020350337	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188696795	1477020350357	1477020350494	e	69
+368322	3972184	See you next week.	Seen you next week.	188696845	1477020350587	1477020350690	e	69
+368322	3972184	See you next week.	Seen you next week.	188696846	1477020351041	1477020351430	n	78
+368322	3972184	See you next week.	Seen you next week.	188696847	1477020351367	1477020351520	t	84
+368322	3972184	See you next week.	Seen you next week.	188696848	1477020352205	1477020352397	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188696849	1477020352561	1477020352627	b	32
+368322	3972184	See you next week.	Seen you next week.	188697003	1477020352952	1477020353054	o	79
+368322	3972184	See you next week.	Seen you next week.	188697009	1477020353473	1477020353603	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697013	1477020353695	1477020353803	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697018	1477020353793	1477020353954	y	89
+368322	3972184	See you next week.	Seen you next week.	188697022	1477020354530	1477020354667	o	79
+368322	3972184	See you next week.	Seen you next week.	188697027	1477020354940	1477020355077	i	73
+368322	3972184	See you next week.	Seen you next week.	188697032	1477020355583	1477020355777	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697039	1477020356345	1477020356517	u	85
+368322	3972184	See you next week.	Seen you next week.	188697133	1477020356579	1477020356860	 	32
+368322	3972184	See you next week.	Seen you next week.	188697136	1477020357330	1477020357517	n	78
+368322	3972184	See you next week.	Seen you next week.	188697141	1477020357507	1477020357703	r	82
+368322	3972184	See you next week.	Seen you next week.	188697146	1477020358330	1477020358587	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697147	1477020358627	1477020358804	e	69
+368322	3972184	See you next week.	Seen you next week.	188697148	1477020359006	1477020359070	c	67
+368322	3972184	See you next week.	Seen you next week.	188697238	1477020359342	1477020359518	t	84
+368322	3972184	See you next week.	Seen you next week.	188697243	1477020359728	1477020359860	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697247	1477020360220	1477020360400	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697253	1477020360736	1477020360877	x	88
+368322	3972184	See you next week.	Seen you next week.	188697263	1477020361077	1477020361287	t	84
+368322	3972184	See you next week.	Seen you next week.	188697269	1477020361427	1477020361610	n	78
+368322	3972184	See you next week.	Seen you next week.	188697275	1477020361931	1477020362000	w	87
+368322	3972184	See you next week.	Seen you next week.	188697398	1477020362443	1477020362603	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697402	1477020362653	1477020362793	BKSP	8
+368322	3972184	See you next week.	Seen you next week.	188697405	1477020362993	1477020363153	 	32
+368322	3972184	See you next week.	Seen you next week.	188697410	1477020363303	1477020363503	w	87
+368322	3972184	See you next week.	Seen you next week.	188697413	1477020363854	1477020363928	e	69
+368322	3972184	See you next week.	Seen you next week.	188697416	1477020364229	1477020364368	e	69
+368322	3972184	See you next week.	Seen you next week.	188697419	1477020364483	1477020364667	k	75
+368322	3972184	See you next week.	Seen you next week.	188697458	1477020365371	1477020365577	.	190
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697687	1477020368640	1477020369237	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697688	1477020369196	1477020369323	I	73
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697689	1477020369523	1477020369700	;	186
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697692	1477020370410	1477020370574	BKSP	8
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697697	1477020371416	1477020371581	'	222
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697701	1477020372246	1477020372395	m	77
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697709	1477020372555	1477020372633	 	32
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697851	1477020372784	1477020373156	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697852	1477020373586	1477020373950	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697854	1477020374010	1477020374142	s	83
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697857	1477020374703	1477020374853	t	84
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697860	1477020374803	1477020374973	i	73
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697862	1477020375426	1477020375546	l	76
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697864	1477020375636	1477020375766	l	76
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697954	1477020376070	1477020376310	 	32
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697959	1477020377316	1477020377461	i	73
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697961	1477020377461	1477020377573	n	78
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697963	1477020377644	1477020377813	 	32
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698123	1477020377843	1477020378606	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188697966	1477020378093	1477020378313	D	68
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698129	1477020379564	1477020379750	l	76
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698133	1477020380010	1477020380114	BKSP	8
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698139	1477020380214	1477020380380	BKSP	8
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698144	1477020380380	1477020381527	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698142	1477020381134	1477020381387	D	68
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698147	1477020381931	1477020382097	a	65
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698150	1477020382419	1477020382530	l	76
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698152	1477020382620	1477020382720	l	76
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698461	1477020382812	1477020383006	a	65
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698465	1477020383186	1477020383347	s	83
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698470	1477020383820	1477020384102	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698476	1477020384356	1477020384545	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698479	1477020385260	1477020386287	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698484	1477020389017	1477020389420	SHIFT	16
+368322	3972206	I'm still in Dallas!	I'm still in Dallas!	188698487	1477020389320	1477020389500	!	49
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698837	1477020393264	1477020393897	SHIFT	16
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698839	1477020393810	1477020393977	I	73
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698842	1477020394067	1477020394217	 	32
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698845	1477020397281	1477020397459	h	72
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698848	1477020397489	1477020397713	a	65
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698855	1477020397916	1477020398112	b	66
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698954	1477020398577	1477020398727	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698956	1477020399265	1477020399410	v	86
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698960	1477020399480	1477020399617	r	82
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698965	1477020399797	1477020399947	n	78
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698968	1477020400192	1477020400293	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698970	1477020400355	1477020400513	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698973	1477020400523	1477020400660	r	82
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188698976	1477020400880	1477020400987	m	77
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699068	1477020401240	1477020401407	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699071	1477020401538	1477020401707	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699074	1477020402190	1477020402357	e	69
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699077	1477020402447	1477020402607	n	78
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699078	1477020402810	1477020403040	;	186
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699079	1477020403220	1477020403370	s	83
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699080	1477020403550	1477020403653	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699082	1477020403733	1477020403817	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699084	1477020404077	1477020404300	'	222
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699279	1477020404545	1477020404773	s	83
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699285	1477020405520	1477020405740	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699291	1477020405760	1477020405920	t	84
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699297	1477020406110	1477020406250	 	32
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699300	1477020407037	1477020407328	a	65
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699305	1477020408325	1477020408430	d	68
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699430	1477020408492	1477020408667	p	80
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699432	1477020408563	1477020408898	a	65
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699434	1477020409233	1477020409388	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699437	1477020409458	1477020409570	BKSP	8
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699440	1477020409600	1477020409820	a	65
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699442	1477020409783	1477020409990	p	80
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699445	1477020410478	1477020410650	t	84
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699557	1477020410772	1477020410960	e	69
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699561	1477020411430	1477020411537	d	68
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699564	1477020411707	1477020411853	 	32
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699568	1477020412004	1477020412123	r	82
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699573	1477020412534	1477020412670	e	69
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699717	1477020413085	1477020413307	a	65
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699720	1477020414110	1477020414220	l	76
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699722	1477020414280	1477020414458	l	76
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699726	1477020414488	1477020414646	y	89
+368322	3972226	I haven't adapted really.	I haven't adapted really.	188699728	1477020415569	1477020415675	.	190
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708494	1477020599355	1477020599625	SHIFT	16
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708492	1477020599410	1477020599615	L	76
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708496	1477020599565	1477020599745	E	69
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708498	1477020600814	1477020601054	INSERT	45
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708500	1477020601922	1477020602185	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708503	1477020602509	1477020602699	w	87
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708507	1477020602665	1477020602845	t	84
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708514	1477020602915	1477020603142	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708615	1477020603364	1477020603555	=	187
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708618	1477020603705	1477020603862	=	187
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708623	1477020604118	1477020604332	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708626	1477020604411	1477020604729	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708627	1477020604849	1477020604979	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708629	1477020605071	1477020605185	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708631	1477020605265	1477020605410	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708633	1477020605741	1477020605932	e	69
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708635	1477020605872	1477020606072	y	89
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708637	1477020606162	1477020606345	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708693	1477020606593	1477020606744	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708697	1477020606836	1477020607079	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708701	1477020607139	1477020607259	t	84
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708704	1477020607500	1477020607654	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708706	1477020607796	1477020607959	m	77
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708707	1477020607939	1477020608121	e	69
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708759	1477020608089	1477020608250	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708761	1477020608462	1477020608575	k	75
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708763	1477020608685	1477020609012	n	78
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708765	1477020608902	1477020609092	o	79
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708767	1477020609294	1477020609519	w	87
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708874	1477020609509	1477020609975	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708877	1477020609925	1477020610068	i	73
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708880	1477020610168	1477020610345	f	70
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708883	1477020610659	1477020610895	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708885	1477020611165	1477020611325	i	73
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188708887	1477020611355	1477020611525	t	84
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709022	1477020611535	1477020611699	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709023	1477020612778	1477020612942	d	68
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709024	1477020613628	1477020613792	o	79
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709026	1477020613732	1477020613842	e	69
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709029	1477020614596	1477020614798	d	68
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709184	1477020614979	1477020615122	n	78
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709185	1477020615302	1477020615456	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709186	1477020615546	1477020615658	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709187	1477020616382	1477020616592	s	83
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709188	1477020616732	1477020616872	n	78
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709189	1477020617365	1477020617575	'	222
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709190	1477020617995	1477020618169	t	84
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709246	1477020618179	1477020618352	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709249	1477020618625	1477020618792	g	71
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709254	1477020618952	1477020619068	p	80
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709258	1477020619240	1477020619428	a	65
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709367	1477020619272	1477020619448	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709369	1477020619650	1477020619778	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709371	1477020620024	1477020620132	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709375	1477020620202	1477020620358	BKSP	8
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709380	1477020620635	1477020620804	o	79
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709382	1477020620814	1477020620969	 	32
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709386	1477020620999	1477020621118	a	65
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709388	1477020621158	1477020621345	w	87
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709389	1477020621868	1477020622048	a	65
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709426	1477020621995	1477020622120	y	89
+368322	3972424	Let me know if it doesn't go away.	Let me know if it doesn't go away.	188709427	1477020622864	1477020623065	.	190
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709770	1477020627212	1477020627978	SHIFT	16
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709765	1477020627508	1477020627912	N	78
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709776	1477020628415	1477020628591	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709779	1477020630030	1477020630181	o	79
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709785	1477020630351	1477020630458	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709789	1477020630921	1477020631205	a	65
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709794	1477020631235	1477020631411	i	73
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709965	1477020631657	1477020631798	g	71
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709968	1477020631838	1477020631938	n	78
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709973	1477020632318	1477020632445	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709976	1477020632715	1477020632845	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709981	1477020632945	1477020633078	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709986	1477020633891	1477020634048	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709992	1477020634098	1477020634278	s	83
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709996	1477020634931	1477020635081	i	73
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188709999	1477020635825	1477020636001	g	71
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710052	1477020636113	1477020636277	n	78
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710056	1477020636377	1477020636781	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710061	1477020636621	1477020636811	o	79
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710066	1477020637141	1477020637328	f	70
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710072	1477020637338	1477020637518	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710184	1477020637570	1477020639019	 	16
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710179	1477020638665	1477020638869	V	86
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710182	1477020638805	1477020638929	H	72
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710186	1477020639435	1477020639541	=	187
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710188	1477020639676	1477020639768	=	187
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710426	1477020640159	1477020640301	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710429	1477020640341	1477020640427	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710432	1477020640497	1477020640605	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710433	1477020640665	1477020640766	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710437	1477020641186	1477020642298	SHIFT	16
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710435	1477020641719	1477020641914	C	67
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710439	1477020642722	1477020642854	h	72
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710443	1477020643014	1477020643154	i	73
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710446	1477020643748	1477020643858	=	187
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710451	1477020644028	1477020644201	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710456	1477020644483	1477020644661	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710460	1477020644881	1477020645035	u	85
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710532	1477020645147	1477020645358	c	67
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710534	1477020645436	1477020645621	k	75
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710538	1477020645915	1477020646076	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710542	1477020646216	1477020646437	a	65
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710545	1477020646741	1477020646860	n	78
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710633	1477020646992	1477020647148	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710637	1477020647428	1477020647993	n	78
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710639	1477020647967	1477020648134	o	79
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710642	1477020648314	1477020648494	t	84
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710774	1477020648484	1477020648654	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710776	1477020649450	1477020649662	r	82
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710779	1477020649662	1477020649834	e	69
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710782	1477020650482	1477020650681	s	83
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710785	1477020650741	1477020651094	p	80
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710933	1477020650859	1477020651127	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710935	1477020651538	1477020651751	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710938	1477020652334	1477020652638	o	79
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710941	1477020652542	1477020652739	n	78
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710943	1477020652708	1477020652864	f	70
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710946	1477020654004	1477020654164	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710951	1477020654435	1477020654588	d	68
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188710955	1477020654758	1477020654894	i	73
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711083	1477020655009	1477020655188	g	71
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711087	1477020655531	1477020655761	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711091	1477020655801	1477020655927	n	78
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711093	1477020656003	1477020656164	g	71
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711095	1477020656194	1477020656802	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711097	1477020657878	1477020658052	t	84
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711209	1477020658615	1477020658815	o	79
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711211	1477020658855	1477020658968	 	32
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711214	1477020659208	1477020659408	m	77
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711216	1477020659355	1477020659571	e	69
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711218	1477020660383	1477020660562	a	65
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711351	1477020660644	1477020660818	a	65
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711353	1477020661048	1477020661158	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711357	1477020661428	1477020661642	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711360	1477020661753	1477020661928	s	83
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711363	1477020662179	1477020662618	s	65
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711365	1477020662738	1477020662932	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711367	1477020663345	1477020663559	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711571	1477020663528	1477020663672	s	83
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711572	1477020663762	1477020664115	a	65
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711573	1477020666332	1477020666462	g	71
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711574	1477020666683	1477020666942	e	69
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711576	1477020667385	1477020667612	d	68
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711579	1477020668135	1477020668363	BKSP	8
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711581	1477020668405	1477020668628	s	83
+368322	3972448	No sign of Chuck and not responding to messages.	No sign of  Chuck an not responding   to messages,	188711714	1477020669032	1477020669122	,	188
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712009	1477020675043	1477020675811	SHIFT	16
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712006	1477020675627	1477020675761	L	76
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712013	1477020676181	1477020676361	o	79
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712018	1477020676915	1477020677135	u	85
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712023	1477020677165	1477020677305	i	73
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712025	1477020677315	1477020677475	s	83
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712181	1477020677527	1477020677721	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712184	1477020679128	1477020679291	f	70
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712187	1477020679321	1477020679501	e	69
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712191	1477020679791	1477020680015	a	65
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712194	1477020680752	1477020680898	t	84
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712269	1477020680908	1477020681084	u	85
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712272	1477020681822	1477020682001	r	82
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712273	1477020682021	1477020682211	e	69
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712274	1477020682451	1477020682598	s	83
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712275	1477020682728	1477020682921	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712395	1477020683283	1477020683398	BKSP	8
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712397	1477020683478	1477020683641	BKSP	8
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712400	1477020683621	1477020683825	d	68
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712404	1477020683915	1477020683995	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712409	1477020684492	1477020684699	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712413	1477020685311	1477020685608	a	65
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712556	1477020685503	1477020685640	b	66
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712559	1477020686321	1477020686396	BKSP	8
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712563	1477020686516	1477020686664	BKSP	8
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712568	1477020687368	1477020687653	b	66
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712571	1477020687883	1477020688131	a	65
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712574	1477020689048	1477020689158	c	67
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712579	1477020689228	1477020689391	k	75
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712582	1477020689501	1477020689698	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712644	1477020690171	1477020690321	t	84
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712646	1477020690462	1477020690605	h	72
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712649	1477020690687	1477020690860	i	73
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712653	1477020690860	1477020691024	s	83
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712657	1477020691024	1477020691151	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712763	1477020691333	1477020691474	w	87
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712766	1477020691675	1477020691758	e	69
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712770	1477020691887	1477020692008	e	69
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712776	1477020692387	1477020692561	k	75
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712779	1477020692841	1477020692978	e	69
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712894	1477020693080	1477020693221	n	78
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712896	1477020693573	1477020693721	f	70
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712899	1477020694224	1477020694464	BKSP	8
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712901	1477020694484	1477020694591	d	68
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712903	1477020694631	1477020694811	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712992	1477020694931	1477020695553	a	65
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712906	1477020695226	1477020695371	g	71
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188712995	1477020696328	1477020696511	e	69
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713000	1477020696601	1477020697004	i	73
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713007	1477020696914	1477020697044	n	78
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713013	1477020697214	1477020697384	s	83
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713019	1477020697404	1477020697558	t	84
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713145	1477020697679	1477020697931	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713151	1477020698414	1477020698621	i	73
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713148	1477020698484	1477020698611	t	84
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713153	1477020699084	1477020699277	BKSP	8
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713155	1477020699899	1477020700064	BKSP	8
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713157	1477020701079	1477020701212	t	84
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713259	1477020701201	1477020701341	h	72
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713265	1477020701331	1477020701493	e	69
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713269	1477020701483	1477020701654	 	32
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713276	1477020701694	1477020702552	SHIFT	16
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713273	1477020702256	1477020702394	N	78
+368322	3972499	Louis featured back this weekend against the N.	Louis featured  back this weekend ageinst the N.	188713280	1477020702907	1477020703084	.	190

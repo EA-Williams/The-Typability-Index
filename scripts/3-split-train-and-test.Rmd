@@ -1,0 +1,338 @@
+---
+title: "3) Split, Train and Test"
+author: "Emily Williams"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE) 
+```
+
+## Load libraries
+
+```{r load_libraries}
+
+library(tidyverse) # for tidy data
+library(here) # for tidy and stable file paths
+library(janitor) # for tidy variable names
+library(GGally) # for correlation matrix
+library(performance) # for checking the assumptions of multiple regression models
+library(randomForest) # for feature selection
+library(beepr) # for beeps
+library(caret) # for model predictions
+library(lm.beta) # for standardised betas
+
+```
+
+
+## Create functions
+
+```{r create functions}
+
+# setup for ggpairs showing scatterplot with loess and lm in bottom half
+lowerFn <-  function(data, mapping, ...){
+  p <- ggplot(data = data, mapping = mapping) + 
+    geom_point(alpha = 0.01) + 
+    geom_smooth(method = loess, fill = "red", color = "red", ...) +
+    geom_smooth(method = lm, fill = "blue", color = "blue", ...)
+  p
+}
+
+
+
+```
+
+```{r load_and_split}
+
+# load the presented sentences that had errors (e.g. typos) [See Appendix 2]
+presentedSentsTypos <- read_csv(here("data", "error_presented_sentences",
+                             "presentedSentencesWithErrors.csv"))
+
+# read the sentences with outcome variable (typability)
+dataOutcome <- read_tsv(here("output", "processed_data", 
+                             "dhakal_typabilities", "dhakal_typabilities.txt"))
+
+# load the predictor variables
+dataPredictors <- read_tsv(here("output", "processed_data", 
+                             "all_dhakal_sentences_with_predictors.txt"))
+
+# join them and then filter out the erroneous sentences
+dataOutPred <- left_join(dataOutcome, dataPredictors, by = c("sentence",
+                                                             "sent_id" = "sentNum")) %>%
+  filter(!(sentence %in% presentedSentsTypos$sentence)) 
+
+
+
+# split the dataset into training sentences (80%) and testing sentences (20%)
+
+set.seed(42)
+
+dataTraining <- sample_frac(dataOutPred, 0.8)
+dataTesting <- setdiff(dataOutPred, dataTraining)
+
+# remove other data
+rm(dataOutcome, dataPredictors, dataOutPred, presentedSentsTypos,
+   trainingSentences, testingSentences)
+
+```
+
+
+## Plot the predictors
+
+
+```{r summary_plots}
+
+dataTrainingNums <- dataTraining %>%
+  select(-c(sent_id, sentence, n_typists))
+
+# NOTE: a plot showing histograms and correlations for predictors can be run below
+# make sure you specify which predictors are of interest
+
+# dataTrainingPlotPredictors <- dataTrainingNums %>%
+# select(predictors, of, interest))
+
+# ggpairs(
+#   dataTrainingPlotPredictors, lower = list(continuous = wrap(lowerFn))
+# )
+
+
+```
+
+Looking at the diagonal, some of the variables are not normally distributed.
+
+The distributions of the predictors themselves don't need to be normal for multiple regression though - it's the residuals of the model that do, which I'll check for later at the model stage.
+
+For the lower triangle, the blue line is a linear fit and the red line is a local regression (loess) fit. You can see that many of these variables are correlated (Pearson's r values provided in the upper triangle). Raw correlations between potential predictors isn't an issue in itself. According to the {performance} package:
+
+> > Multicollinearity should not be confused with a raw strong correlation between predictors. What matters is the association between one or more predictor variables, conditional on the other variables in the model. In a nutshell, multicollinearity means that once you know the effect of one predictor, the value of knowing the other predictor is rather low. Thus, one of the predictors doesn't help much in terms of better understanding the model or predicting the outcome. [link](https://rdrr.io/cran/performance/man/check_collinearity.html)
+
+I will therefore check for multicollinearity at the model stage.
+
+Another assumption of multiple regressions is a linear relationship between the predictors and the outcome variable. The first column of the lower triangle shows the relationship between each predictors and the outcome variable (typability_z; the relative speed of a sentence as a z-score).
+
+The loess function (red) tracks with the linear function (blue) most of the time, but there are departures mostly for very high and very low values of the outcome.
+
+## Multiple regressions
+
+```{r regs_null_and_old_school}
+
+# null model, where the only predictor is the mean (intercept-only model)
+model0 <- lm(typability_z ~ 1, 
+           data = dataTrainingNums)
+summary(model0)
+
+
+
+
+# Bell (1949) model (See "Review of Research in Typewriting Learning with Recommendations for Training",
+# West, 1956, p. 65)
+model1 <- lm(typability_z ~ 
+                 meanSyllsPerWord + # "syllabic intensity"
+                 highFreqWordProp + # "percentage of frequently used words"
+                 meanStrokesPerWord, # "stroke intensity"
+          data = dataTrainingNums)
+summary(lm.beta(model1)) # with standardised betas
+check_model(model1)
+
+
+residuals_m1 <-model1$residuals 
+(rmse_m1 <-sqrt(mean(residuals_m1^2)))
+
+
+plotdata_m1 <- rbind(dataTrainingNums$typability_z, model1[["fitted.values"]]) %>%
+  t() %>%
+  as.data.frame() %>%
+  rename(actual = V1, fitted = V2)
+
+ggplot(plotdata_m1, aes(x = actual, y = fitted)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  geom_abline(slope = 1, intercept = 0)
+
+```
+
+Now use the random forest method for feature selection - deciding which of the many predictors to use for the model. We have 1194 sentences, so with the common rule of thumb of needing 10 observations per predictors to prevent overfitting we could technically have 119 predictors - but we want to reduce from the 33 candidates we have in a meaningful way.
+
+It's also important to remember that there are some different versions of the same predictors present, e.g. mean word length vs mean word length as a proportion of the sentence. The intention is to select one of these versions for each variable that is most important. There are also sets of variables that will sum to 1, e.g. proportion of lowercase, uppercase, numbers, symbols, spaces. These are likely to affect the multicollinearity of the model, so it may be likely that only the most important of the set is used.
+
+As there are alternate versions and sets of variables present, the initial runs of the random forest regression will be to find out which versions of the variables and which variables from the sets are best to use.
+
+```{r random_forest_regression}
+
+# first aim: select variable versions
+# then: reduce multicollinearity / avoid singularity
+# last: select optimal number of predictors based on inflection point
+
+dataTrainingAllVersionsAndSetMembers <- dataTrainingNums
+
+set.seed(42)
+
+#train random forest model and calculate feature importance
+forestAllVersionsAndSetMembers = randomForest(typability_z ~.,
+                   data = dataTrainingAllVersionsAndSetMembers,
+                   ntree = 10000,
+                   keep.forest = FALSE, importance = TRUE,
+                   mtry = round((ncol(dataTrainingAllVersionsAndSetMembers) - 1) * 0.75))
+
+# plot MSE (give more weight) and node purity
+varImpPlot(forestAllVersionsAndSetMembers)
+
+beep()
+
+
+# remove the less important versions
+dataTrainingAllSetMembers <- dataTrainingAllVersionsAndSetMembers %>%
+  select(-c(lowercaseProp,        # propNonSpace set is better
+            uppercaseProp,        # propNonSpace set is better
+            numbersProp,          # propNonSpace set is better
+            symbolsProp,          # propNonSpace set is better
+            spacesProp,           # propNonSpace set is better
+            highFreqWordCharProp, # highFreqWordProp better
+            propBiTop15,          # biFreqMean is better
+            totalSinglePathLength,# totalDualPathLength is better
+            totalQuadPathLength,  # totalDualPathLength is better
+            totalOctoPathLength,   # totalDualPathLength is better
+            meanStrokesPerChar,   # meanStrokesPerWord is better
+            meanWordLength,       # meanStrokesPerWord is better
+            meanWordLengthPropSent, # meanStrokesPerWord is better
+            propWordsNonDictWords,# propCharsNonDictWords is better
+            numChars              # minStrokes is better
+            ))
+
+set.seed(42)
+
+# now that we've ascertained which versions are best, re-run to determine which of the sets to remove in order to reduce multicollinearity and avoid singularity
+
+#train random forest model and calculate feature importance
+forestAllSetMembers = randomForest(typability_z ~., data = dataTrainingAllSetMembers,
+                   ntree = 10000,
+                   keep.forest = FALSE, importance = TRUE,
+                   mtry = round((ncol(dataTrainingAllSetMembers) - 1) * 0.75))
+
+# plot MSE (give more weight) and node purity
+varImpPlot(forestAllSetMembers)
+
+beep()
+
+# use top 11 (an inflection point), based on MSE
+modelAllSetMembers <- lm(typability_z ~ 
+                           lowercasePropNonSpace +
+                           highFreqWordProp +
+                           totalDualPathLength +
+                           biFreqMean +
+                           symbolsPropNonSpace +
+                           meanStrokesPerWord +
+                           meanSyllsPerWord +
+                           uppercasePropNonSpace +
+                           minStrokes +
+                           propCharsNonDictWords +
+                           numActualWords,
+                           data = dataTrainingAllSetMembers)
+summary(modelAllSetMembers)
+check_model(modelAllSetMembers)
+
+multicollinearity(modelAllSetMembers)
+
+
+# remove variables causing multicollinearity issues
+
+dataTrainingBestOfSetsAndVersions <- dataTrainingAllSetMembers %>%
+  select(-c(numActualWords, # removing this because lowest importance of the strokes set - multicollinearity fix
+            minStrokes #multicollinearity fix - clashing with the better predictor of dualpath
+    ))
+    
+set.seed(42)
+
+# now the final stage, to select the optimal number of predictors
+
+#train random forest model and calculate feature importance
+forestBestOfSetsAndVersions = randomForest(typability_z ~., data = dataTrainingBestOfSetsAndVersions,
+                                              ntree = 10000,
+                                              keep.forest = FALSE, importance = TRUE,
+                                              mtry = round((ncol(dataTrainingBestOfSetsAndVersions) - 1) * 0.75))
+
+varImpPlot(forestBestOfSetsAndVersions)
+
+beep()
+
+
+
+# use top 10 (an inflection point), based on MSE
+modelBestOfSetsAndVersions <- lm(
+  typability_z ~
+    lowercasePropNonSpace +
+    totalDualPathLength +
+    highFreqWordProp +
+    biFreqMean +
+    symbolsPropNonSpace +
+    meanStrokesPerWord +
+    meanSyllsPerWord +
+    uppercasePropNonSpace + 
+    propCharsNonDictWords +
+    propRightHand,
+  data = dataTrainingBestOfSetsAndVersions
+)
+summary(lm.beta(modelBestOfSetsAndVersions)) # with standardised betas
+check_model(modelBestOfSetsAndVersions)
+multicollinearity(modelBestOfSetsAndVersions)
+
+model2 <- modelBestOfSetsAndVersions
+
+plotdata_m2 <- rbind(dataTrainingNums$typability_z, model2[["fitted.values"]]) %>%
+  t() %>%
+  as.data.frame() %>%
+  rename(actual = V1, fitted = V2)
+
+RMSE(obs = plotdata_m2$actual, pred = plotdata_m2$fitted)
+
+
+ggplot(plotdata_m2, aes(x = actual, y = fitted)) +
+  geom_point(colour = "#222222") +
+  geom_smooth(method = "lm", colour = "#10A5F5") +
+  geom_abline(slope = 1, intercept = 0) +
+  theme_classic() +
+  xlab("Actual Typability") +
+  ylab("Fitted Typability")
+
+# check against other models
+
+anova(model0, model1, model2)
+anova(model1, model2)
+AIC(model0, model1, model2)
+
+save(model2, file = here("output", "typability-index-model.RData"))
+
+```
+
+
+# Test on the rest of the dataset
+
+```{r test model}
+
+
+# Make predictions
+predictions <- model2 %>% predict(dataTesting)
+
+# Model performance
+
+# (a) Prediction error, RMSE
+RMSE(pred = predictions, obs = dataTesting$typability_z)
+
+# (b) R-square
+R2(pred = predictions, obs = dataTesting$typability_z)
+
+
+plotdata_test <- rbind(dataTesting$typability_z, predictions) %>%
+  t() %>%
+  as.data.frame() %>%
+  rename(actual = V1)
+
+
+ggplot(plotdata_test, aes(x = actual, y = predictions)) +
+  geom_point() +
+  geom_smooth(method = "lm") +
+  geom_abline(slope = 1, intercept = 0)
+
+
+```
+

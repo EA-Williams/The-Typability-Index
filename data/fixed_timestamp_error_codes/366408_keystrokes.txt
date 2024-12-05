@@ -1,0 +1,642 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187687928	1476995719320	1476995719500	SHIFT	16
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187687933	1476995719445	1476995719524	I	73
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187687935	1476995720301	1476995720381	m	77
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187687937	1476995720470	1476995720517	 	32
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187687941	1476995720621	1476995720685	i	73
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688031	1476995720781	1476995720877	n	78
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688033	1476995720949	1476995721012	 	32
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688035	1476995721412	1476995721516	s	83
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688038	1476995722037	1476995722118	BKSP	8
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688039	1476995722621	1476995722765	SHIFT	16
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688042	1476995722725	1476995722813	S	83
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688045	1476995723119	1476995723253	t	84
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688081	1476995723263	1476995723381	a	65
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688083	1476995723885	1476995723949	n	78
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688087	1476995724213	1476995724309	s	83
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688091	1476995724357	1476995724429	 	32
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688189	1476995724996	1476995725084	o	79
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688191	1476995725389	1476995725429	f	70
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688195	1476995725965	1476995726028	f	70
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688199	1476995726117	1476995726191	i	73
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688205	1476995726397	1476995726452	c	67
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688234	1476995726573	1476995726669	e	69
+366408	3950777	I'm in Stan's office.	I'm in Stan's office.	187688237	1476995726789	1476995726868	.	190
+366408	3950790	I am monitoring email.	I am monitoring email.	187688503	1476995730974	1476995731141	SHIFT	16
+366408	3950790	I am monitoring email.	I am monitoring email.	187688501	1476995731062	1476995731133	I	73
+366408	3950790	I am monitoring email.	I am monitoring email.	187688505	1476995731246	1476995731317	 	32
+366408	3950790	I am monitoring email.	I am monitoring email.	187688506	1476995731701	1476995731805	a	65
+366408	3950790	I am monitoring email.	I am monitoring email.	187688507	1476995731854	1476995731933	m	77
+366408	3950790	I am monitoring email.	I am monitoring email.	187688508	1476995732037	1476995732109	 	32
+366408	3950790	I am monitoring email.	I am monitoring email.	187688536	1476995732333	1476995732405	m	77
+366408	3950790	I am monitoring email.	I am monitoring email.	187688539	1476995732437	1476995732541	o	79
+366408	3950790	I am monitoring email.	I am monitoring email.	187688542	1476995732996	1476995733085	n	78
+366408	3950790	I am monitoring email.	I am monitoring email.	187688544	1476995733109	1476995733213	i	73
+366408	3950790	I am monitoring email.	I am monitoring email.	187688545	1476995733359	1476995733445	t	84
+366408	3950790	I am monitoring email.	I am monitoring email.	187688553	1476995733508	1476995733596	o	79
+366408	3950790	I am monitoring email.	I am monitoring email.	187688555	1476995733709	1476995733796	r	82
+366408	3950790	I am monitoring email.	I am monitoring email.	187688558	1476995733836	1476995733926	i	73
+366408	3950790	I am monitoring email.	I am monitoring email.	187688562	1476995734006	1476995734084	n	78
+366408	3950790	I am monitoring email.	I am monitoring email.	187688567	1476995734124	1476995734225	g	71
+366408	3950790	I am monitoring email.	I am monitoring email.	187688636	1476995734285	1476995734348	 	32
+366408	3950790	I am monitoring email.	I am monitoring email.	187688640	1476995734533	1476995734629	e	69
+366408	3950790	I am monitoring email.	I am monitoring email.	187688645	1476995734789	1476995734828	m	77
+366408	3950790	I am monitoring email.	I am monitoring email.	187688650	1476995734965	1476995735055	a	65
+366408	3950790	I am monitoring email.	I am monitoring email.	187688652	1476995735621	1476995735701	i	73
+366408	3950790	I am monitoring email.	I am monitoring email.	187688716	1476995735788	1476995735885	l	76
+366408	3950790	I am monitoring email.	I am monitoring email.	187688719	1476995735982	1476995736028	.	190
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688883	1476995739802	1476995739908	SHIFT	16
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688885	1476995739852	1476995739981	A	65
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688887	1476995740132	1476995740253	r	82
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688891	1476995740405	1476995740461	k	75
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688893	1476995740525	1476995740604	a	65
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688899	1476995741005	1476995741069	n	78
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688953	1476995741319	1476995741429	s	83
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688958	1476995741605	1476995741733	a	65
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688963	1476995741765	1476995741893	s	83
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688968	1476995741990	1476995742052	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187688972	1476995742253	1476995742348	c	67
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689020	1476995742430	1476995742533	a	65
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689023	1476995742637	1476995742693	l	76
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689026	1476995742789	1476995742860	l	76
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689031	1476995742917	1476995743005	e	69
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689036	1476995743096	1476995743205	d	68
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689359	1476995743213	1476995743301	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689363	1476995743751	1476995743814	i	73
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689368	1476995743892	1476995743973	n	78
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689372	1476995748093	1476995748244	3	99
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689545	1476995748221	1476995748293	2	98
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689547	1476995748909	1476995748967	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689552	1476995749301	1476995749381	e	69
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689555	1476995750184	1476995750244	BKSP	8
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689558	1476995750326	1476995750389	BKSP	8
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689560	1476995750485	1476995750541	BKSP	8
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689563	1476995750637	1476995750701	BKSP	8
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689566	1476995750885	1476995750972	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689569	1476995751974	1476995752117	3	99
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689571	1476995752206	1476995752268	2	98
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689680	1476995752829	1476995752900	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689682	1476995753117	1476995753189	e	69
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689685	1476995753341	1476995753449	s	83
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689688	1476995753669	1476995753789	t	84
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689693	1476995753926	1476995754061	r	82
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689716	1476995754093	1476995754236	a	65
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689719	1476995754333	1476995754413	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689726	1476995754828	1476995754949	s	83
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689729	1476995755077	1476995755216	t	84
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689736	1476995755229	1476995755373	a	65
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689847	1476995755540	1476995755645	t	84
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689849	1476995755693	1476995755788	e	69
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689851	1476995755845	1476995755933	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689853	1476995756229	1476995756308	p	80
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689855	1476995756981	1476995757055	o	79
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689906	1476995757173	1476995757290	l	76
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689909	1476995757270	1476995757381	i	73
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689913	1476995757630	1476995757717	c	67
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689916	1476995757828	1476995757917	e	69
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689922	1476995757989	1476995758061	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689959	1476995758253	1476995758332	t	84
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689962	1476995758356	1476995758470	o	79
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689965	1476995758510	1476995758566	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187689968	1476995758844	1476995758929	t	84
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690062	1476995758875	1476995758980	h	72
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690067	1476995759447	1476995759541	e	69
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690075	1476995759613	1476995759677	 	32
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690080	1476995760045	1476995760108	p	80
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690087	1476995760278	1476995760365	r	82
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690090	1476995760473	1476995760503	o	79
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690205	1476995761149	1476995761223	BKSP	8
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690210	1476995761558	1476995761645	i	73
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690215	1476995761693	1476995761749	s	83
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690218	1476995761844	1476995761958	o	79
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690224	1476995762069	1476995762133	n	78
+366408	3950802	Arkansas called in 32 extra state police to the prison.	Arkansas called in 32 estra state police to the prison.	187690228	1476995762333	1476995762421	.	190
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690680	1476995765509	1476995765597	s	83
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690683	1476995765645	1476995765733	o	79
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690686	1476995766229	1476995766276	BKSP	8
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690690	1476995766357	1476995766445	BKSP	8
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690694	1476995767093	1476995767248	SHIFT	16
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690698	1476995767206	1476995767284	S	83
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690701	1476995767751	1476995767828	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690703	1476995768464	1476995768621	SHIFT	16
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690783	1476995768541	1476995768630	I	73
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690786	1476995768719	1476995768780	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690788	1476995769101	1476995769189	d	68
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690790	1476995769293	1476995769311	o	79
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690792	1476995769589	1476995769605	n	78
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690793	1476995770733	1476995770821	t	84
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690884	1476995770997	1476995771109	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690887	1476995771949	1476995772004	k	75
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690891	1476995772149	1476995772221	n	78
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690895	1476995772299	1476995772381	o	79
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690901	1476995772461	1476995772570	w	87
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690992	1476995772653	1476995772725	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690996	1476995773053	1476995773157	w	87
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187690998	1476995773701	1476995773800	h	72
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691000	1476995773829	1476995773925	o	79
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691001	1476995774054	1476995774100	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691085	1476995774181	1476995774261	i	73
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691087	1476995774535	1476995774588	t	84
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691092	1476995774965	1476995775045	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691098	1476995775581	1476995775629	l	76
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691101	1476995775733	1476995775813	l	76
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691285	1476995776046	1476995776101	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691288	1476995776629	1476995776701	b	66
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691290	1476995776933	1476995776957	e	69
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691291	1476995777693	1476995777765	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691293	1476995778093	1476995778189	c	67
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691349	1476995778261	1476995778397	a	65
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691352	1476995778669	1476995778773	r	82
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691355	1476995778838	1476995778893	r	82
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691358	1476995779093	1476995779165	y	89
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691361	1476995779717	1476995779820	i	73
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691455	1476995779885	1476995779981	n	78
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691459	1476995780013	1476995780101	g	71
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691465	1476995780693	1476995780773	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691470	1476995781069	1476995781157	t	84
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691476	1476995781205	1476995781310	h	72
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691599	1476995781286	1476995781388	e	69
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691601	1476995781404	1476995781452	 	32
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691604	1476995781749	1476995781820	l	76
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691608	1476995781981	1476995782063	o	79
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691610	1476995782221	1476995782294	a	65
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691611	1476995782982	1476995783069	d	68
+366408	3950834	So I don't know who it ll be carrying the load.	So I don't know who it ll be carrying the load.	187691623	1476995783613	1476995783660	.	190
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187691816	1476995786543	1476995786704	SHIFT	16
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187691820	1476995786693	1476995786781	B	66
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187691823	1476995787057	1476995787124	o	79
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187691827	1476995787237	1476995787356	t	84
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187691830	1476995787380	1476995787453	h	72
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187691832	1476995787557	1476995787615	 	32
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692010	1476995787877	1476995787980	g	71
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692013	1476995788013	1476995788149	a	65
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692018	1476995788653	1476995788709	BKSP	8
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692020	1476995788841	1476995788892	BKSP	8
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692024	1476995789485	1476995789549	h	72
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692030	1476995789725	1476995789805	a	65
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692035	1476995790022	1476995790179	v	86
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692127	1476995790180	1476995790276	e	69
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692129	1476995790350	1476995790404	 	32
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692131	1476995790581	1476995790693	o	79
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692133	1476995791428	1476995791493	BKSP	8
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692139	1476995791573	1476995791660	a	65
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692144	1476995791749	1476995791837	l	76
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692215	1476995792196	1476995792301	s	83
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692219	1476995792309	1476995792437	o	79
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692222	1476995792493	1476995792581	 	32
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692226	1476995792957	1476995793045	p	80
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692229	1476995793141	1476995793253	r	82
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692335	1476995793325	1476995793396	o	79
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692339	1476995793821	1476995793877	m	77
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692342	1476995793934	1476995794020	e	69
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692345	1476995794245	1476995794325	s	83
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692348	1476995794845	1476995794903	BKSP	8
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692351	1476995794973	1476995795061	BKSP	8
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692352	1476995795421	1476995795500	i	73
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692415	1476995795557	1476995795647	s	83
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692418	1476995795789	1476995795884	e	69
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692423	1476995795988	1476995796069	d	68
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692428	1476995796246	1476995796325	 	32
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692436	1476995796626	1476995796684	h	72
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692493	1476995796749	1476995796845	i	73
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692495	1476995797013	1476995797093	g	71
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692499	1476995797150	1476995797212	h	72
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692502	1476995797871	1476995797964	e	69
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692577	1476995797944	1476995798037	r	82
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692580	1476995798133	1476995798196	 	32
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692583	1476995798341	1476995798420	s	83
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692590	1476995798509	1476995798641	a	65
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692598	1476995798774	1476995798886	l	76
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692607	1476995798932	1476995799013	a	65
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692690	1476995799277	1476995799372	r	82
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692693	1476995799411	1476995799517	i	73
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692700	1476995799619	1476995799708	e	69
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692704	1476995799797	1476995799909	s	83
+366408	3950871	Both have also promised higher salaries.	Both have also promised higher salaries.	187692709	1476995800244	1476995800303	.	190
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693045	1476995803237	1476995803395	SHIFT	16
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693049	1476995803365	1476995803444	W	87
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693059	1476995803877	1476995803935	e	69
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693067	1476995804037	1476995804126	d	68
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693072	1476995804460	1476995804541	n	78
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693076	1476995804565	1476995804677	e	69
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693177	1476995804781	1476995804885	s	83
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693178	1476995805269	1476995805357	d	68
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693179	1476995805732	1476995805885	a	65
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693181	1476995806142	1476995806220	y	89
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693183	1476995806349	1476995806380	 	32
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693237	1476995806670	1476995806756	i	73
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693240	1476995806788	1476995806881	s	83
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693243	1476995806876	1476995806941	 	32
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693245	1476995807357	1476995807435	d	68
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693246	1476995807557	1476995807653	e	69
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693310	1476995808100	1476995808195	f	70
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693314	1476995808236	1476995808317	i	73
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693319	1476995808589	1476995808669	n	78
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693324	1476995808742	1476995808821	i	73
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693328	1476995809037	1476995809165	t	84
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693374	1476995809222	1476995809317	e	69
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693377	1476995809455	1476995809575	l	76
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693379	1476995809605	1476995809690	y	89
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693381	1476995809797	1476995809876	 	32
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693383	1476995809951	1476995810053	a	65
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693418	1476995810092	1476995810247	 	32
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693421	1476995810469	1476995810541	h	72
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693423	1476995810581	1476995810677	o	79
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693425	1476995810781	1476995810861	t	84
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693426	1476995810951	1476995811028	 	32
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693532	1476995811261	1476995811341	c	67
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693535	1476995811443	1476995811524	h	72
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693544	1476995811573	1476995811677	o	79
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693550	1476995811996	1476995812076	c	67
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693553	1476995812756	1476995812821	o	79
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693621	1476995813085	1476995813174	l	76
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693624	1476995813175	1476995813309	a	65
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693626	1476995813357	1476995813479	t	84
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693629	1476995813597	1476995813705	e	69
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693632	1476995814070	1476995814124	 	32
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693757	1476995814302	1476995814405	d	68
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693760	1476995814470	1476995814556	a	65
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693768	1476995814629	1476995814693	y	89
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693775	1476995814877	1476995814958	l	76
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693778	1476995815500	1476995815589	BKSP	8
+366408	3950889	Wednesday is definitely a hot chocolate day.	Wednesday is definitely a hot chocolate day.	187693783	1476995816093	1476995816156	.	190
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694053	1476995818997	1476995819196	SHIFT	16
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694060	1476995819157	1476995819252	T	84
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694068	1476995819548	1476995819652	r	82
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694073	1476995819677	1476995819764	i	73
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694079	1476995820245	1476995820324	p	80
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694087	1476995820533	1476995820620	 	32
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694154	1476995820949	1476995820980	a	65
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694157	1476995821437	1476995821525	BKSP	8
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694162	1476995821510	1476995821613	w	87
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694166	1476995821669	1476995821831	a	65
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694169	1476995821821	1476995821949	s	83
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694171	1476995821981	1476995822052	 	32
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694277	1476995822365	1476995822469	d	68
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694278	1476995822860	1476995822941	BKSP	8
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694279	1476995823016	1476995823109	g	71
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694280	1476995823357	1476995823381	o	79
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694281	1476995823493	1476995823548	o	79
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694282	1476995823638	1476995823725	d	68
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694357	1476995823804	1476995823877	 	32
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694360	1476995824173	1476995824317	SHIFT	16
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694364	1476995824254	1476995824333	I	73
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694367	1476995824389	1476995824468	 	32
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694372	1476995824909	1476995824964	p	80
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694378	1476995825053	1476995825207	r	82
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694451	1476995825197	1476995825324	e	69
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694455	1476995825605	1476995825701	s	83
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694464	1476995825759	1476995825821	u	85
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694469	1476995826053	1476995826092	m	77
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694473	1476995826141	1476995826228	e	69
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694479	1476995826518	1476995826614	/	191
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694520	1476995826981	1476995827060	BKSP	8
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694529	1476995827373	1476995827573	SHIFT	16
+366408	3950910	Trip was good I presume?	Trip was good I presume?	187694524	1476995827429	1476995827493	?	191
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694728	1476995830270	1476995830393	SHIFT	16
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694732	1476995830364	1476995830486	A	65
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694736	1476995830589	1476995830701	r	82
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694743	1476995830678	1476995830765	e	69
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694748	1476995830813	1476995830877	 	32
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694752	1476995831277	1476995831390	o	79
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694870	1476995831909	1476995831973	BKSP	8
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694877	1476995832653	1476995832732	y	89
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694884	1476995832797	1476995832956	o	79
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694890	1476995832941	1476995833045	u	85
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694900	1476995833181	1476995833253	 	32
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694909	1476995833517	1476995833589	o	79
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694938	1476995833669	1476995833765	n	78
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694942	1476995833830	1476995833885	 	32
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694946	1476995833941	1476995834053	t	84
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694950	1476995834077	1476995834149	h	72
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187694954	1476995834165	1476995834270	e	69
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695016	1476995834261	1476995834308	 	32
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695018	1476995834485	1476995834573	d	68
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695022	1476995834645	1476995834725	i	73
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695026	1476995834982	1476995835117	e	69
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695032	1476995835133	1476995835253	t	84
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695035	1476995835309	1476995835372	 	32
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695080	1476995835645	1476995835733	w	87
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695082	1476995835789	1476995835893	i	73
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695086	1476995836013	1476995836117	t	84
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695089	1476995836147	1476995836213	h	72
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695095	1476995836293	1476995836333	 	32
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695153	1476995836477	1476995836549	m	77
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695159	1476995836597	1476995836669	e	69
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695173	1476995836917	1476995837181	SHIFT	16
+366408	3950931	Are you on the diet with me?	Are you on the diet with me?	187695166	1476995836989	1476995837069	?	191
+366408	3950944	This event will be a blast.	This event will be a blast.	187695602	1476995839925	1476995840077	SHIFT	16
+366408	3950944	This event will be a blast.	This event will be a blast.	187695607	1476995840085	1476995840173	t	84
+366408	3950944	This event will be a blast.	This event will be a blast.	187695615	1476995840559	1476995840645	h	72
+366408	3950944	This event will be a blast.	This event will be a blast.	187695621	1476995841213	1476995841269	BKSP	8
+366408	3950944	This event will be a blast.	This event will be a blast.	187695624	1476995841341	1476995841413	BKSP	8
+366408	3950944	This event will be a blast.	This event will be a blast.	187695628	1476995841885	1476995842109	SHIFT	16
+366408	3950944	This event will be a blast.	This event will be a blast.	187695635	1476995841989	1476995842117	T	84
+366408	3950944	This event will be a blast.	This event will be a blast.	187695639	1476995842437	1476995842533	h	72
+366408	3950944	This event will be a blast.	This event will be a blast.	187695645	1476995842557	1476995842653	i	73
+366408	3950944	This event will be a blast.	This event will be a blast.	187695677	1476995842662	1476995842733	e	69
+366408	3950944	This event will be a blast.	This event will be a blast.	187695679	1476995843309	1476995843397	BKSP	8
+366408	3950944	This event will be a blast.	This event will be a blast.	187695685	1476995843453	1476995843517	s	83
+366408	3950944	This event will be a blast.	This event will be a blast.	187695694	1476995843533	1476995843613	 	32
+366408	3950944	This event will be a blast.	This event will be a blast.	187695701	1476995843733	1476995843821	e	69
+366408	3950944	This event will be a blast.	This event will be a blast.	187695705	1476995844117	1476995844205	v	86
+366408	3950944	This event will be a blast.	This event will be a blast.	187695764	1476995844317	1476995844389	e	69
+366408	3950944	This event will be a blast.	This event will be a blast.	187695769	1476995844493	1476995844557	n	78
+366408	3950944	This event will be a blast.	This event will be a blast.	187695772	1476995844765	1476995844837	t	84
+366408	3950944	This event will be a blast.	This event will be a blast.	187695774	1476995844933	1476995845004	 	32
+366408	3950944	This event will be a blast.	This event will be a blast.	187695775	1476995845290	1476995845340	w	87
+366408	3950944	This event will be a blast.	This event will be a blast.	187695801	1476995845468	1476995845533	i	73
+366408	3950944	This event will be a blast.	This event will be a blast.	187695804	1476995845669	1476995845709	l	76
+366408	3950944	This event will be a blast.	This event will be a blast.	187695809	1476995845797	1476995845877	l	76
+366408	3950944	This event will be a blast.	This event will be a blast.	187695813	1476995845989	1476995846036	 	32
+366408	3950944	This event will be a blast.	This event will be a blast.	187695819	1476995846165	1476995846261	b	66
+366408	3950944	This event will be a blast.	This event will be a blast.	187695883	1476995846349	1476995846445	e	69
+366408	3950944	This event will be a blast.	This event will be a blast.	187695885	1476995846509	1476995846564	 	32
+366408	3950944	This event will be a blast.	This event will be a blast.	187695890	1476995846589	1476995846685	a	65
+366408	3950944	This event will be a blast.	This event will be a blast.	187695894	1476995846717	1476995846781	 	32
+366408	3950944	This event will be a blast.	This event will be a blast.	187695898	1476995847029	1476995847237	SHIFT	16
+366408	3950944	This event will be a blast.	This event will be a blast.	187696001	1476995847157	1476995847253	B	66
+366408	3950944	This event will be a blast.	This event will be a blast.	187696004	1476995847796	1476995847901	BKSP	8
+366408	3950944	This event will be a blast.	This event will be a blast.	187696007	1476995847997	1476995848069	b	66
+366408	3950944	This event will be a blast.	This event will be a blast.	187696010	1476995848349	1476995848429	l	76
+366408	3950944	This event will be a blast.	This event will be a blast.	187696012	1476995848485	1476995848621	a	65
+366408	3950944	This event will be a blast.	This event will be a blast.	187696015	1476995848891	1476995848989	s	83
+366408	3950944	This event will be a blast.	This event will be a blast.	187696019	1476995849133	1476995849221	t	84
+366408	3950944	This event will be a blast.	This event will be a blast.	187696034	1476995849581	1476995849645	.	190
+366408	3950959	What is the cost issue?	What is the cost issue?	187696286	1476995852263	1476995852388	SHIFT	16
+366408	3950959	What is the cost issue?	What is the cost issue?	187696288	1476995852349	1476995852429	W	87
+366408	3950959	What is the cost issue?	What is the cost issue?	187696292	1476995852629	1476995852773	a	65
+366408	3950959	What is the cost issue?	What is the cost issue?	187696295	1476995852749	1476995852836	t	84
+366408	3950959	What is the cost issue?	What is the cost issue?	187696299	1476995853613	1476995853677	BKSP	8
+366408	3950959	What is the cost issue?	What is the cost issue?	187696302	1476995853725	1476995853789	BKSP	8
+366408	3950959	What is the cost issue?	What is the cost issue?	187696304	1476995854326	1476995854405	h	72
+366408	3950959	What is the cost issue?	What is the cost issue?	187696306	1476995854461	1476995854598	a	65
+366408	3950959	What is the cost issue?	What is the cost issue?	187696340	1476995854615	1476995854652	t	84
+366408	3950959	What is the cost issue?	What is the cost issue?	187696342	1476995854741	1476995854805	 	32
+366408	3950959	What is the cost issue?	What is the cost issue?	187696345	1476995855085	1476995855173	i	73
+366408	3950959	What is the cost issue?	What is the cost issue?	187696349	1476995855181	1476995855261	s	83
+366408	3950959	What is the cost issue?	What is the cost issue?	187696355	1476995855269	1476995855332	 	32
+366408	3950959	What is the cost issue?	What is the cost issue?	187696344	1476995855476	1476995855597	t	84
+366408	3950959	What is the cost issue?	What is the cost issue?	187696346	1476995855629	1476995855717	h	72
+366408	3950959	What is the cost issue?	What is the cost issue?	187696351	1476995855725	1476995855813	e	69
+366408	3950959	What is the cost issue?	What is the cost issue?	187696357	1476995855821	1476995855884	 	32
+366408	3950959	What is the cost issue?	What is the cost issue?	187696361	1476995856061	1476995856141	c	67
+366408	3950959	What is the cost issue?	What is the cost issue?	187696396	1476995856181	1476995856293	o	79
+366408	3950959	What is the cost issue?	What is the cost issue?	187696398	1476995856349	1476995856469	s	83
+366408	3950959	What is the cost issue?	What is the cost issue?	187696402	1476995856573	1476995856701	t	84
+366408	3950959	What is the cost issue?	What is the cost issue?	187696406	1476995857061	1476995857116	 	32
+366408	3950959	What is the cost issue?	What is the cost issue?	187696412	1476995857405	1476995857509	i	73
+366408	3950959	What is the cost issue?	What is the cost issue?	187696493	1476995857789	1476995857869	s	83
+366408	3950959	What is the cost issue?	What is the cost issue?	187696497	1476995857957	1476995858029	s	83
+366408	3950959	What is the cost issue?	What is the cost issue?	187696505	1476995858069	1476995858117	u	85
+366408	3950959	What is the cost issue?	What is the cost issue?	187696510	1476995858221	1476995858326	e	69
+366408	3950959	What is the cost issue?	What is the cost issue?	187696518	1476995858718	1476995858781	?	191
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696958	1476995861373	1476995861453	O	79
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696964	1476995861621	1476995861693	 	32
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696967	1476995862109	1476995862213	BKSP	8
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696969	1476995862919	1476995862980	m	77
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696973	1476995863109	1476995863172	 	32
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696978	1476995863621	1476995863693	BKSP	8
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696981	1476995863749	1476995863837	BKSP	8
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696989	1476995864493	1476995864581	n	78
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696968	1476995864653	1476995864717	 	32
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696971	1476995864933	1476995865077	t	84
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696975	1476995865085	1476995865165	h	72
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696979	1476995865197	1476995865293	e	69
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187696985	1476995865372	1476995865444	 	32
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697100	1476995865933	1476995865997	p	80
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697105	1476995866525	1476995866564	l	76
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697110	1476995866805	1476995866901	a	65
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697115	1476995867045	1476995867093	n	78
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697121	1476995867165	1476995867253	e	69
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697253	1476995868197	1476995868269	,	188
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697258	1476995868581	1476995868661	d	68
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697267	1476995868717	1476995868781	o	79
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697272	1476995869309	1476995869405	o	79
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697277	1476995869477	1476995869573	r	82
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697334	1476995869717	1476995869813	s	83
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697337	1476995870013	1476995870092	 	32
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697345	1476995870269	1476995870340	c	67
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697349	1476995870476	1476995870541	l	76
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697356	1476995870653	1476995870725	o	79
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697428	1476995870925	1476995871036	s	83
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697433	1476995871125	1476995871205	i	73
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697439	1476995871341	1476995871421	n	78
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697445	1476995871461	1476995871533	g	71
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697452	1476995871877	1476995871940	.	190
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697948	1476995874062	1476995874896	ARW_LEFT	37
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697954	1476995875053	1476995875141	ARW_LEFT	37
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697960	1476995875253	1476995875269	ARW_LEFT	37
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697965	1476995875925	1476995876005	'	32
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697967	1476995877517	1476995877597	BKSP	8
+366408	3950970	On the plane, doors closing.	On the plane, doors closing.	187697968	1476995877853	1476995877941	 	32
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698245	1476995882205	1476995882524	SHIFT	16
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698247	1476995882445	1476995882540	G	71
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698252	1476995882805	1476995882917	e	69
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698258	1476995882989	1476995883085	t	84
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698264	1476995883165	1476995883229	 	32
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698268	1476995883413	1476995883525	w	87
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698359	1476995883565	1476995883653	i	73
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698364	1476995883765	1476995883837	t	84
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698367	1476995883853	1476995883909	h	72
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698372	1476995884021	1476995884044	 	32
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698376	1476995884415	1476995884477	m	77
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698579	1476995884490	1476995884596	a	65
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698583	1476995884910	1476995884981	r	82
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698586	1476995885101	1476995885197	y	89
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698589	1476995885917	1476995885965	BKSP	8
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698592	1476995886061	1476995886117	BKSP	8
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698595	1476995886221	1476995886261	BKSP	8
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698599	1476995886349	1476995886404	BKSP	8
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698603	1476995887005	1476995887061	m	77
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698607	1476995887543	1476995887621	BKSP	8
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698613	1476995887861	1476995888085	SHIFT	16
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698709	1476995888045	1476995888102	M	77
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698714	1476995888261	1476995888477	a	65
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698721	1476995888725	1476995888797	r	82
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698724	1476995888901	1476995888965	y	89
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698729	1476995889101	1476995889181	 	32
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698734	1476995890174	1476995890269	f	70
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698763	1476995890293	1476995890388	o	79
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698769	1476995890404	1476995890500	r	82
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698770	1476995890556	1476995890613	 	32
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698776	1476995890861	1476995890959	f	70
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698780	1476995890973	1476995891077	o	79
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698860	1476995891317	1476995891397	r	82
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698863	1476995891670	1476995891749	m	77
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698868	1476995891765	1476995891885	a	65
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698870	1476995891901	1476995891949	t	84
+366408	3951000	Get with Mary for format.	Get with Mary for format.	187698873	1476995892469	1476995892557	.	190
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699162	1476995895533	1476995895692	SHIFT	16
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699168	1476995895653	1476995895741	S	83
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699175	1476995896045	1476995896117	h	72
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699178	1476995896157	1476995896261	a	65
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699182	1476995896293	1476995896365	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699184	1476995896533	1476995896629	w	87
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699270	1476995896773	1476995896869	o	79
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699278	1476995897357	1476995897421	u	85
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699282	1476995897573	1476995897669	l	76
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699285	1476995897709	1476995897797	d	68
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699290	1476995897901	1476995897956	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699366	1476995898629	1476995898701	h	72
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699368	1476995898749	1476995898893	a	65
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699371	1476995898973	1476995899013	t	82
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699377	1476995899613	1476995899677	BKSP	8
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699383	1476995899758	1476995899837	BKSP	8
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699388	1476995899853	1476995899965	t	84
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699431	1476995899974	1476995900085	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699436	1476995900117	1476995900197	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699441	1476995900457	1476995900556	t	84
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699445	1476995900573	1476995900668	o	79
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699449	1476995900709	1476995900789	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699494	1476995900909	1476995901069	s	83
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699495	1476995901070	1476995901157	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699497	1476995901229	1476995901293	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699502	1476995901405	1476995901468	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699506	1476995901637	1476995901701	u	85
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699549	1476995901829	1476995901909	s	83
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699551	1476995901949	1476995902029	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699555	1476995902341	1476995902429	n	78
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699560	1476995902493	1476995902565	o	79
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699565	1476995902605	1476995902717	t	84
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699641	1476995902773	1476995902837	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699648	1476995903117	1476995903181	g	71
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699652	1476995903302	1476995903429	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699659	1476995903709	1476995903789	t	84
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699665	1476995903909	1476995903988	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699712	1476995904253	1476995904397	o	79
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699713	1476995904365	1476995904469	u	85
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699714	1476995904533	1476995904629	r	82
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699717	1476995904709	1476995904764	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187699721	1476995905109	1476995905181	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700045	1476995905614	1476995905717	x	88
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700047	1476995906158	1476995906261	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700050	1476995906829	1476995906925	BKSP	8
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700054	1476995907533	1476995907605	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700057	1476995908213	1476995908333	BKSP	8
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700061	1476995908845	1476995908948	p	80
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700066	1476995909149	1476995909237	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700049	1476995909501	1476995909549	n	78
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700052	1476995909709	1476995909856	s	83
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700055	1476995909845	1476995909925	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700059	1476995909989	1476995910061	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700063	1476995910309	1476995910436	r	82
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700056	1476995910468	1476995910524	e	69
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700060	1476995910773	1476995910918	p	80
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700064	1476995910909	1476995910949	o	79
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700068	1476995911005	1476995911141	r	82
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700073	1476995911349	1476995911429	t	84
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700133	1476995911525	1476995911645	s	83
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700134	1476995912101	1476995912181	 	32
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700136	1476995912445	1476995912525	p	80
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700138	1476995912541	1476995912661	a	65
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700142	1476995912837	1476995912909	i	73
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700170	1476995913005	1476995913077	d	68
+366408	3951020	She would hate to see us not get our expense reports paid.	Sha would hate to see us not get our expense reports paid.	187700173	1476995913341	1476995913413	.	190
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700634	1476995916942	1476995917301	SHIFT	16
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700631	1476995917205	1476995917285	R	82
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700639	1476995917869	1476995917997	BKSP	8
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700645	1476995918325	1476995918484	SHIFT	16
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700650	1476995918461	1476995918517	M	77
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700654	1476995918637	1476995918733	a	65
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700658	1476995919061	1476995919165	r	82
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700661	1476995919173	1476995919277	i	73
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700707	1476995919709	1476995919813	s	83
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700714	1476995919909	1476995919981	a	65
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700720	1476995920053	1476995920133	 	32
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700730	1476995920301	1476995920405	s	83
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700738	1476995921037	1476995921117	e	69
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700776	1476995921189	1476995921277	n	78
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700782	1476995921309	1476995921397	t	84
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700790	1476995921509	1476995921573	 	32
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700794	1476995921797	1476995921877	t	84
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700796	1476995921917	1476995921997	h	72
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700886	1476995922029	1476995922109	e	69
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700889	1476995922117	1476995922189	 	32
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700899	1476995922549	1476995922733	SHIFT	16
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700894	1476995922621	1476995922701	I	73
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700906	1476995923141	1476995923213	n	78
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700911	1476995923437	1476995923525	v	86
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700963	1476995923621	1476995923733	o	79
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700967	1476995924005	1476995924085	i	73
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700975	1476995924357	1476995924421	c	67
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700985	1476995924533	1476995924605	e	69
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187700993	1476995924701	1476995924789	s	83
+366408	3951049	Marisa sent the invoices.	Marisa sent the Invoices.	187701016	1476995924868	1476995924924	.	190
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701253	1476995928174	1476995928316	SHIFT	16
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701254	1476995928253	1476995928341	I	73
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701255	1476995928429	1476995928484	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701257	1476995928757	1476995928820	h	72
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701260	1476995928869	1476995928957	a	65
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701265	1476995929109	1476995929205	v	86
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701323	1476995929261	1476995929332	e	69
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701326	1476995929389	1476995929445	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701329	1476995929861	1476995929957	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701331	1476995930005	1476995930117	o	79
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701333	1476995930181	1476995930236	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701413	1476995930454	1476995930556	p	80
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701419	1476995930517	1476995930612	o	79
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701428	1476995930669	1476995930781	e	69
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701434	1476995930749	1476995930877	r	82
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701440	1476995931277	1476995931317	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701446	1476995931389	1476995931454	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701452	1476995931533	1476995931613	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701461	1476995931661	1476995931782	e	69
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701575	1476995931765	1476995931877	r	82
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701579	1476995932261	1476995932301	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701583	1476995932741	1476995932844	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701588	1476995932901	1476995932989	s	83
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701591	1476995933221	1476995933317	o	79
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701593	1476995933445	1476995933492	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701596	1476995933581	1476995933653	a	65
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701691	1476995933749	1476995933820	l	76
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701697	1476995934093	1476995934141	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701703	1476995934421	1476995934517	t	84
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701709	1476995934941	1476995935069	r	82
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701717	1476995935125	1476995935221	a	65
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701825	1476995935709	1476995935781	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701829	1476995935949	1476995935996	w	83
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701835	1476995936109	1476995936197	a	65
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701839	1476995936605	1476995936660	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701845	1476995936741	1476995936829	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701855	1476995936845	1476995936917	a	65
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701912	1476995937133	1476995937229	c	67
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701918	1476995937445	1476995937541	t	84
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701925	1476995937597	1476995937701	i	73
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701930	1476995937837	1476995937941	o	79
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701941	1476995937989	1476995938085	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701992	1476995938262	1476995938349	s	83
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187701998	1476995938413	1476995938485	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702003	1476995938710	1476995938796	w	87
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702010	1476995938852	1476995938964	i	73
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702017	1476995939133	1476995939229	t	84
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702186	1476995939877	1476995939941	h	72
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702188	1476995940564	1476995940681	a	65
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702190	1476995940749	1476995940805	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702193	1476995941189	1476995941261	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702198	1476995941325	1476995941397	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702203	1476995941485	1476995941557	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702208	1476995941685	1476995941733	a	65
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702379	1476995942381	1476995942437	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702381	1476995942557	1476995942613	y	89
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702387	1476995942773	1476995942853	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702391	1476995943157	1476995943373	SHIFT	16
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702394	1476995943773	1476995943924	SHIFT	16
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702397	1476995943893	1476995943997	E	69
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702400	1476995944365	1476995944421	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702472	1476995944637	1476995944749	r	82
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702475	1476995944789	1476995944877	o	79
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702477	1476995944965	1476995945045	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702481	1476995945133	1476995945205	 	32
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702487	1476995945600	1476995945677	e	69
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702606	1476995945917	1476995945981	n	78
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702609	1476995946150	1476995946196	t	84
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702613	1476995946437	1476995946533	i	73
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702618	1476995946845	1476995946925	r	82
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702624	1476995947573	1476995947677	t	84
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702705	1476995948133	1476995948197	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702708	1476995948271	1476995948341	BKSP	8
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702712	1476995948421	1476995948525	t	84
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702717	1476995948806	1476995948885	y	89
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702730	1476995949261	1476995949509	SHIFT	16
+366408	3951066	I have no personal transactions with any Enron entity.	I have no personal transactions with any Enron entity>	187702724	1476995949381	1476995949460	>	190

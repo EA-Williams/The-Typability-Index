@@ -1,0 +1,671 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591849	1477567543051	1477567544598	SHIFT	16
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591852	1477567544487	1477567544643	I	73
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591856	1477567544607	1477567544717	 	32
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591859	1477567544705	1477567544825	n	78
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591861	1477567545158	1477567545264	e	69
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591864	1477567545334	1477567545418	e	69
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591876	1477567545523	1477567545630	d	68
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591878	1477567545647	1477567545779	 	32
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591882	1477567545765	1477567545895	t	84
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591885	1477567545842	1477567545973	o	79
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591922	1477567545950	1477567546114	 	32
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591924	1477567546179	1477567546289	g	71
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591926	1477567546251	1477567546361	o	79
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591928	1477567546394	1477567546550	 	32
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591930	1477567546576	1477567546697	t	84
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591947	1477567546671	1477567546785	o	79
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591948	1477567546762	1477567546919	 	32
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591949	1477567546935	1477567547223	SHIFT	16
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591950	1477567547109	1477567547243	S	83
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591951	1477567547321	1477567547431	t	84
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591953	1477567547416	1477567547555	a	65
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591987	1477567547542	1477567547631	n	78
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591990	1477567548048	1477567548163	'	222
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591992	1477567548209	1477567548312	s	83
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591993	1477567548297	1477567548473	 	32
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591994	1477567548450	1477567548568	o	79
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208591995	1477567548603	1477567548685	f	70
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208592001	1477567548741	1477567548835	f	70
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208592002	1477567548819	1477567548933	i	73
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208592003	1477567548936	1477567549116	c	67
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208592004	1477567549069	1477567549202	e	69
+406782	4391423	I need to go to Stan's office.	I need to go to Stan's office.	208592005	1477567549188	1477567549295	.	190
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592063	1477567550904	1477567551128	SHIFT	16
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592064	1477567551044	1477567551151	H	72
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592065	1477567551236	1477567551350	o	79
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592067	1477567551318	1477567551423	w	87
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592069	1477567551413	1477567551568	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592086	1477567551553	1477567551660	w	87
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592089	1477567551641	1477567551791	o	79
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592090	1477567551713	1477567551834	u	85
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592091	1477567551926	1477567552077	l	76
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592092	1477567552158	1477567552280	d	68
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592093	1477567552339	1477567552501	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592102	1477567552520	1477567552641	y	89
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592104	1477567552602	1477567552723	o	79
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592107	1477567552647	1477567552795	u	85
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592111	1477567552766	1477567552932	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592114	1477567552935	1477567553043	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592123	1477567553144	1477567553282	x	88
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592125	1477567553227	1477567553364	p	80
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592127	1477567553312	1477567553446	l	76
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592129	1477567553400	1477567553550	a	65
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592142	1477567553498	1477567553628	i	73
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592144	1477567553596	1477567553725	n	78
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592151	1477567553732	1477567553892	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592148	1477567553800	1477567553891	t	84
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592153	1477567553879	1477567554000	h	72
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592165	1477567553961	1477567554074	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592166	1477567554056	1477567554170	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592168	1477567554160	1477567554267	d	68
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592170	1477567554232	1477567554349	i	73
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592172	1477567554336	1477567554431	f	70
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592175	1477567554486	1477567554588	f	70
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592183	1477567554637	1477567554750	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592187	1477567554744	1477567554914	r	82
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592190	1477567554845	1477567554965	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592192	1477567554972	1477567555115	n	78
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592210	1477567555099	1477567555252	c	67
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592213	1477567555194	1477567555308	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592218	1477567555230	1477567555364	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592224	1477567555370	1477567555501	b	66
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592228	1477567555706	1477567555804	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592231	1477567555888	1477567555985	t	84
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592235	1477567556096	1477567556223	w	87
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592237	1477567556295	1477567556409	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592239	1477567556474	1477567556588	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592241	1477567556650	1477567556806	n	78
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592255	1477567556786	1477567556944	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592257	1477567556940	1477567557051	t	84
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592259	1477567557005	1477567557126	h	72
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592260	1477567557133	1477567557269	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592261	1477567557228	1477567557371	 	32
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592318	1477567557349	1477567557453	t	84
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592320	1477567557508	1477567557668	e	69
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592321	1477567557616	1477567557740	o	79
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592322	1477567558105	1477567558198	BKSP	8
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592323	1477567558248	1477567558356	BKSP	8
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592324	1477567558437	1477567558548	w	87
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592325	1477567558597	1477567558711	o	79
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592331	1477567558731	1477567559315	SHIFT	16
+406782	4391429	How would you explain the difference between the two?	How would you explain the difference between the two?	208592326	1477567559031	1477567559173	?	191
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592375	1477567560671	1477567561292	SHIFT	16
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592376	1477567561199	1477567561299	T	84
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592377	1477567561270	1477567561396	H	72
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592378	1477567561391	1477567561526	e	69
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592380	1477567561479	1477567561623	 	32
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592407	1477567561596	1477567561724	a	65
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592408	1477567561820	1477567561938	m	77
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592409	1477567562020	1477567562137	e	69
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592410	1477567562121	1477567562247	n	78
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592411	1477567562244	1477567562358	d	68
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592412	1477567562397	1477567562508	m	77
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592417	1477567562521	1477567562618	e	69
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592421	1477567562607	1477567562722	n	78
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592424	1477567562717	1477567562818	t	84
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592427	1477567562783	1477567562939	 	32
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592448	1477567562904	1477567563019	h	72
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592449	1477567563010	1477567563185	a	65
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592450	1477567563109	1477567563247	s	83
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592451	1477567563228	1477567563332	 	32
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592452	1477567563955	1477567564081	l	76
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592455	1477567564130	1477567564252	i	73
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592487	1477567564247	1477567564342	t	84
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592488	1477567564413	1477567564517	t	84
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592489	1477567564472	1477567564580	l	76
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592490	1477567564613	1477567564716	e	69
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592491	1477567564691	1477567564811	 	32
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592493	1477567564821	1477567564922	c	67
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592511	1477567564870	1477567564991	h	72
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592514	1477567564985	1477567565082	a	65
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592519	1477567565057	1477567565198	n	78
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592524	1477567565193	1477567565304	c	67
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592525	1477567565295	1477567565383	e	69
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592542	1477567565330	1477567565484	 	32
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592544	1477567565405	1477567565532	o	79
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592547	1477567565510	1477567565641	f	70
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592552	1477567565628	1477567565739	 	32
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592555	1477567565742	1477567565875	b	66
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592602	1477567565830	1477567565915	e	69
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592605	1477567566006	1477567566139	c	67
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592609	1477567566104	1477567566224	o	79
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592613	1477567566260	1477567566396	m	77
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592617	1477567566380	1477567566502	e	69
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592619	1477567566907	1477567567060	BKSP	8
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592622	1477567567096	1477567567275	i	73
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592632	1477567567240	1477567567389	n	78
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592634	1477567567383	1477567567486	g	71
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592636	1477567567442	1477567567601	 	32
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592640	1477567567583	1477567567729	l	76
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592642	1477567567736	1477567567905	a	65
+406782	4391436	The amendment has little chance of becoming law.	THe amendment has little chance of becoming law.	208592646	1477567567907	1477567568059	w	87
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593116	1477567568684	1477567585299	.	190
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592749	1477567570420	1477567570732	SHIFT	16
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592747	1477567570554	1477567570707	B	66
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592751	1477567570927	1477567571028	r	82
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592753	1477567571167	1477567571287	c	67
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592759	1477567571310	1477567571454	k	75
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592763	1477567571461	1477567571627	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592805	1477567571777	1477567571914	h	72
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592806	1477567572182	1477567572276	BKSP	8
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592808	1477567572335	1477567572436	BKSP	8
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592810	1477567572890	1477567573005	o	79
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592812	1477567572998	1477567573124	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592813	1477567574025	1477567574167	h	72
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592815	1477567575142	1477567575242	a	65
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592856	1477567575335	1477567575436	s	83
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592858	1477567575971	1477567576068	BKSP	8
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592860	1477567576084	1477567576226	d	68
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592862	1477567576206	1477567576333	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592863	1477567576421	1477567576595	b	66
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592864	1477567576770	1477567576861	e	69
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592898	1477567576944	1477567577026	e	69
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592899	1477567577245	1477567577390	n	78
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592900	1477567577413	1477567577579	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592901	1477567577658	1477567577803	p	80
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592902	1477567577848	1477567577976	r	82
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592942	1477567578330	1477567578409	o	79
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592944	1477567578639	1477567578743	p	80
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592947	1477567578896	1477567578991	o	79
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592948	1477567579153	1477567579315	s	83
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592959	1477567579277	1477567579410	e	69
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592960	1477567579486	1477567579630	d	68
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592961	1477567579610	1477567579776	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592964	1477567579736	1477567579946	a	65
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592968	1477567579893	1477567580027	s	83
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592987	1477567580021	1477567580128	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592988	1477567580098	1477567580242	a	65
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592989	1477567580187	1477567580278	n	78
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592990	1477567580344	1477567580448	o	79
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592992	1477567580435	1477567580523	t	84
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208592994	1477567580526	1477567580644	h	72
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593012	1477567580609	1477567580757	e	69
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593013	1477567580683	1477567580803	r	82
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593014	1477567580745	1477567580884	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593016	1477567580869	1477567580957	s	83
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593018	1477567580980	1477567581107	i	73
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593020	1477567581219	1477567581294	t	84
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593058	1477567582230	1477567582307	e	69
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593060	1477567582353	1477567582480	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593061	1477567582955	1477567583043	f	70
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593062	1477567583066	1477567583150	o	79
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593063	1477567583173	1477567583278	r	82
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593080	1477567583265	1477567583387	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593081	1477567583376	1477567583503	a	65
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593082	1477567583447	1477567583617	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593083	1477567583611	1477567583816	s	83
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593084	1477567583764	1477567583894	a	65
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593085	1477567583940	1477567584136	f	70
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593104	1477567584062	1477567584211	e	69
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593106	1477567584236	1477567584368	 	32
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593107	1477567584361	1477567584482	a	65
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593108	1477567584550	1477567584723	r	82
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593109	1477567584645	1477567584785	e	69
+406782	4391441	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	208593111	1477567584889	1477567585016	a	65
+406782	4391450	The move is also against our law.	THe move is also against our law	208593185	1477567587745	1477567588096	SHIFT	16
+406782	4391450	The move is also against our law.	THe move is also against our law	208593187	1477567588010	1477567588119	T	84
+406782	4391450	The move is also against our law.	THe move is also against our law	208593189	1477567588063	1477567588184	H	72
+406782	4391450	The move is also against our law.	THe move is also against our law	208593191	1477567588201	1477567588315	e	69
+406782	4391450	The move is also against our law.	THe move is also against our law	208593193	1477567588273	1477567588442	 	32
+406782	4391450	The move is also against our law.	THe move is also against our law	208593201	1477567588417	1477567588534	m	77
+406782	4391450	The move is also against our law.	THe move is also against our law	208593203	1477567588570	1477567588713	o	79
+406782	4391450	The move is also against our law.	THe move is also against our law	208593205	1477567588694	1477567588808	v	86
+406782	4391450	The move is also against our law.	THe move is also against our law	208593208	1477567588828	1477567588961	e	69
+406782	4391450	The move is also against our law.	THe move is also against our law	208593210	1477567588955	1477567589134	 	32
+406782	4391450	The move is also against our law.	THe move is also against our law	208593228	1477567589112	1477567589236	i	73
+406782	4391450	The move is also against our law.	THe move is also against our law	208593230	1477567589255	1477567589353	s	83
+406782	4391450	The move is also against our law.	THe move is also against our law	208593232	1477567589383	1477567589511	 	32
+406782	4391450	The move is also against our law.	THe move is also against our law	208593233	1477567589503	1477567589620	a	65
+406782	4391450	The move is also against our law.	THe move is also against our law	208593234	1477567589604	1477567589725	l	76
+406782	4391450	The move is also against our law.	THe move is also against our law	208593235	1477567589728	1477567589845	s	83
+406782	4391450	The move is also against our law.	THe move is also against our law	208593262	1477567589810	1477567589930	o	79
+406782	4391450	The move is also against our law.	THe move is also against our law	208593266	1477567589931	1477567590067	 	32
+406782	4391450	The move is also against our law.	THe move is also against our law	208593269	1477567590005	1477567590123	a	65
+406782	4391450	The move is also against our law.	THe move is also against our law	208593272	1477567590254	1477567590358	g	71
+406782	4391450	The move is also against our law.	THe move is also against our law	208593274	1477567590407	1477567590547	a	65
+406782	4391450	The move is also against our law.	THe move is also against our law	208593296	1477567590476	1477567590592	i	73
+406782	4391450	The move is also against our law.	THe move is also against our law	208593297	1477567590563	1477567590703	n	78
+406782	4391450	The move is also against our law.	THe move is also against our law	208593298	1477567590962	1477567591089	s	83
+406782	4391450	The move is also against our law.	THe move is also against our law	208593299	1477567591285	1477567591458	 	32
+406782	4391450	The move is also against our law.	THe move is also against our law	208593300	1477567591588	1477567591745	BKSP	8
+406782	4391450	The move is also against our law.	THe move is also against our law	208593301	1477567591728	1477567591838	t	84
+406782	4391450	The move is also against our law.	THe move is also against our law	208593313	1477567591823	1477567591992	 	32
+406782	4391450	The move is also against our law.	THe move is also against our law	208593315	1477567591930	1477567592107	o	79
+406782	4391450	The move is also against our law.	THe move is also against our law	208593316	1477567592001	1477567592141	u	85
+406782	4391450	The move is also against our law.	THe move is also against our law	208593317	1477567592093	1477567592200	r	82
+406782	4391450	The move is also against our law.	THe move is also against our law	208593318	1477567592201	1477567592357	 	32
+406782	4391450	The move is also against our law.	THe move is also against our law	208593327	1477567592331	1477567592491	l	76
+406782	4391450	The move is also against our law.	THe move is also against our law	208593329	1477567592494	1477567592693	a	65
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593473	1477567592673	1477567598225	w	87
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593381	1477567594492	1477567594807	SHIFT	16
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593378	1477567594661	1477567594799	A	65
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593384	1477567594800	1477567594916	L	76
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593387	1477567594912	1477567595055	s	83
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593391	1477567595009	1477567595120	o	79
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593395	1477567595189	1477567595299	,	188
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593398	1477567595309	1477567595485	 	32
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593399	1477567595437	1477567595545	r	82
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593400	1477567595476	1477567595603	e	69
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593401	1477567595665	1477567595783	g	71
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593402	1477567595867	1477567596005	a	65
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593414	1477567595940	1477567596051	r	82
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593415	1477567596140	1477567596274	d	68
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593417	1477567596353	1477567596450	i	73
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593419	1477567596480	1477567596613	n	78
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593421	1477567596581	1477567596691	g	71
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593426	1477567596698	1477567596815	 	32
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593436	1477567596796	1477567596916	t	84
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593439	1477567596871	1477567596983	h	72
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593440	1477567596975	1477567597089	e	69
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593441	1477567597040	1477567597187	 	32
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593442	1477567597175	1477567597314	c	67
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593454	1477567597289	1477567597474	a	65
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593455	1477567597426	1477567597575	s	83
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593456	1477567597533	1477567597657	h	72
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593458	1477567597640	1477567597804	 	32
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593460	1477567597807	1477567597934	f	70
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593471	1477567597892	1477567598038	l	76
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593472	1477567598016	1477567598138	o	79
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593474	1477567598240	1477567598369	 	32
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593475	1477567598398	1477567598576	f	70
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593499	1477567598482	1477567598600	r	82
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593500	1477567598555	1477567598662	o	79
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593501	1477567598681	1477567598824	m	77
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593504	1477567598809	1477567598975	 	32
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593506	1477567598920	1477567599096	c	67
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593508	1477567599044	1477567599184	a	65
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593510	1477567599274	1477567599385	BKSP	8
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593511	1477567599428	1477567599539	BKSP	8
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593512	1477567599558	1477567599728	SHIFT	16
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593519	1477567599653	1477567599750	C	67
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593521	1477567599810	1477567599929	a	65
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593524	1477567599906	1477567600018	n	78
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593528	1477567600089	1477567600148	a	65
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593532	1477567600896	1477567601017	d	68
+406782	4391453	Also, regarding the cash flow from Canada.	ALso, regarding the cash flw from Canada.	208593536	1477567601027	1477567601155	a	65
+406782	4391460	November 14 works for me.	November 14 works for me.	208593768	1477567601233	1477567607840	.	190
+406782	4391460	November 14 works for me.	November 14 works for me.	208593622	1477567602782	1477567603085	SHIFT	16
+406782	4391460	November 14 works for me.	November 14 works for me.	208593619	1477567602920	1477567603052	N	78
+406782	4391460	November 14 works for me.	November 14 works for me.	208593626	1477567603108	1477567603242	o	79
+406782	4391460	November 14 works for me.	November 14 works for me.	208593630	1477567603434	1477567603554	v	86
+406782	4391460	November 14 works for me.	November 14 works for me.	208593633	1477567603626	1477567603740	e	69
+406782	4391460	November 14 works for me.	November 14 works for me.	208593636	1477567603802	1477567603929	m	77
+406782	4391460	November 14 works for me.	November 14 works for me.	208593678	1477567604035	1477567604172	b	66
+406782	4391460	November 14 works for me.	November 14 works for me.	208593681	1477567604196	1477567604365	e	69
+406782	4391460	November 14 works for me.	November 14 works for me.	208593684	1477567604284	1477567604414	r	82
+406782	4391460	November 14 works for me.	November 14 works for me.	208593688	1477567604394	1477567604545	 	32
+406782	4391460	November 14 works for me.	November 14 works for me.	208593692	1477567605213	1477567605416	1	49
+406782	4391460	November 14 works for me.	November 14 works for me.	208593725	1477567605384	1477567605537	4	52
+406782	4391460	November 14 works for me.	November 14 works for me.	208593726	1477567605706	1477567605810	 	32
+406782	4391460	November 14 works for me.	November 14 works for me.	208593727	1477567606416	1477567606528	w	87
+406782	4391460	November 14 works for me.	November 14 works for me.	208593728	1477567606494	1477567606614	o	79
+406782	4391460	November 14 works for me.	November 14 works for me.	208593729	1477567606623	1477567606757	r	82
+406782	4391460	November 14 works for me.	November 14 works for me.	208593741	1477567606706	1477567606823	k	75
+406782	4391460	November 14 works for me.	November 14 works for me.	208593742	1477567606859	1477567606954	s	83
+406782	4391460	November 14 works for me.	November 14 works for me.	208593743	1477567606947	1477567607078	 	32
+406782	4391460	November 14 works for me.	November 14 works for me.	208593744	1477567607068	1477567607178	f	70
+406782	4391460	November 14 works for me.	November 14 works for me.	208593745	1477567607153	1477567607258	o	79
+406782	4391460	November 14 works for me.	November 14 works for me.	208593759	1477567607247	1477567607370	r	82
+406782	4391460	November 14 works for me.	November 14 works for me.	208593762	1477567607345	1477567607472	 	32
+406782	4391460	November 14 works for me.	November 14 works for me.	208593764	1477567607459	1477567607578	m	77
+406782	4391460	November 14 works for me.	November 14 works for me.	208593766	1477567607556	1477567607660	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593849	1477567609809	1477567610063	SHIFT	16
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593847	1477567609920	1477567610049	I	73
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593851	1477567610125	1477567610212	t	84
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593853	1477567610173	1477567610317	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593855	1477567610485	1477567610690	a	65
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593879	1477567610652	1477567610805	s	83
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593881	1477567610785	1477567610964	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593884	1477567610883	1477567611025	p	80
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593885	1477567610941	1477567611084	o	79
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593887	1477567611062	1477567611156	s	83
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593889	1477567611215	1477567611351	s	83
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593926	1477567611337	1477567611457	i	73
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593929	1477567611480	1477567611612	b	66
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593931	1477567611601	1477567611718	l	76
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593933	1477567611731	1477567611878	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593937	1477567611829	1477567611979	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593939	1477567612562	1477567612678	t	84
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593953	1477567612656	1477567612773	o	79
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593956	1477567612735	1477567612864	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593959	1477567612846	1477567612972	a	65
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593961	1477567612933	1477567613067	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593964	1477567613113	1477567613216	l	76
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593968	1477567613231	1477567613390	a	65
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208593999	1477567613322	1477567613443	r	82
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594000	1477567613539	1477567613637	g	71
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594001	1477567613672	1477567613806	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594002	1477567613770	1477567613909	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594003	1477567613895	1477567614018	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594004	1477567614106	1477567614250	x	88
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594024	1477567614372	1477567614481	t	84
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594026	1477567614540	1477567614641	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594029	1477567614631	1477567614746	n	78
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594033	1477567614769	1477567614914	t	84
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594046	1477567614893	1477567615036	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594048	1477567615243	1477567615355	t	84
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594051	1477567615328	1477567615466	o	79
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594053	1477567615424	1477567615609	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594055	1477567615506	1477567615619	a	65
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594058	1477567615724	1477567615838	f	70
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594103	1477567616339	1477567616494	BKSP	8
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594104	1477567616518	1477567616609	g	71
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594105	1477567616724	1477567616825	r	82
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594107	1477567616908	1477567616996	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594109	1477567617065	1477567617186	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594126	1477567617175	1477567617319	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594127	1477567617236	1477567617351	o	79
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594128	1477567617423	1477567617547	n	78
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594129	1477567617551	1477567617677	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594130	1477567617632	1477567617874	s	83
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594133	1477567617766	1477567617890	o	79
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594135	1477567617929	1477567618062	m	77
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594137	1477567618037	1477567618180	e	69
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594139	1477567618089	1477567618265	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594184	1477567618174	1477567618304	k	75
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594187	1477567618252	1477567618409	i	73
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594191	1477567618415	1477567618562	n	78
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594193	1477567619198	1477567619319	d	68
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594198	1477567619338	1477567619471	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594201	1477567619416	1477567619566	o	79
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594202	1477567619572	1477567619689	f	70
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594212	1477567619661	1477567619787	 	32
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594213	1477567619801	1477567619917	a	65
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594214	1477567619943	1477567620032	p	80
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594215	1477567620092	1477567620199	p	80
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594216	1477567620222	1477567620319	r	82
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594239	1477567620293	1477567620421	o	79
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594240	1477567620464	1477567620584	a	65
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594242	1477567620644	1477567620761	c	67
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594244	1477567620865	1477567621021	h	72
+406782	4391465	It was possible to a large extent to agree on some kind of approach.	It as possible to a large extent to agree on some kind of approach.	208594246	1477567621034	1477567621148	.	190
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594320	1477567623558	1477567624072	SHIFT	16
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594319	1477567623955	1477567624050	I	73
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594321	1477567624382	1477567624532	'	222
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594322	1477567624659	1477567624808	m	77
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594323	1477567624796	1477567624977	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594369	1477567624933	1477567625056	o	79
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594372	1477567625115	1477567625226	n	78
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594373	1477567625293	1477567625487	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594375	1477567625467	1477567625584	m	77
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594377	1477567625788	1477567625907	y	89
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594379	1477567625930	1477567626094	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594397	1477567626219	1477567626413	w	87
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594398	1477567626328	1477567626511	a	65
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594399	1477567626479	1477567626641	y	89
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594400	1477567626625	1477567626773	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594401	1477567626796	1477567626946	b	66
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594409	1477567626995	1477567627167	a	65
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594412	1477567627132	1477567627262	c	67
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594419	1477567627200	1477567627334	k	75
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594423	1477567627340	1477567627467	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594450	1477567627405	1477567627542	t	84
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594451	1477567627516	1477567627643	h	72
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594453	1477567627614	1477567627732	e	69
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594455	1477567627748	1477567627920	r	82
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594537	1477567627882	1477567628031	e	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594538	1477567628087	1477567628224	t	84
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594539	1477567628202	1477567628326	o	79
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594540	1477567628313	1477567628489	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594541	1477567629222	1477567629297	BKSP	8
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594543	1477567629349	1477567629436	BKSP	8
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594545	1477567629502	1477567629593	BKSP	8
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594547	1477567629655	1477567629759	BKSP	8
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594550	1477567630089	1477567630203	t	84
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594551	1477567630174	1477567630297	o	79
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594554	1477567630262	1477567630431	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594558	1477567630353	1477567630491	d	68
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594561	1477567630415	1477567630549	o	79
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594563	1477567630523	1477567630692	 	32
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594576	1477567630637	1477567630774	s	83
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594581	1477567630738	1477567630860	o	79
+406782	4391475	I'm on my way back there to do so.	I'm on my way back ther to do so.	208594584	1477567631004	1477567631110	.	190
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594652	1477567633092	1477567633388	SHIFT	16
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594653	1477567633278	1477567633420	T	84
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594654	1477567633483	1477567633636	r	82
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594656	1477567633568	1477567633673	i	73
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594659	1477567633718	1477567633868	p	80
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594678	1477567633842	1477567633996	 	32
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594680	1477567633908	1477567634084	w	87
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594684	1477567634028	1477567634224	a	65
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594687	1477567634150	1477567634264	s	83
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594688	1477567634214	1477567634361	 	32
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594702	1477567634371	1477567634517	g	71
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594689	1477567634426	1477567634507	o	79
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594704	1477567634573	1477567634678	o	79
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594706	1477567634693	1477567634874	d	68
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594708	1477567634867	1477567634988	 	32
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594714	1477567634906	1477567635131	SHIFT	16
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594710	1477567635024	1477567635128	I	73
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594716	1477567635134	1477567635313	 	32
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594733	1477567635296	1477567635421	p	80
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594736	1477567635445	1477567635568	r	82
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594740	1477567635506	1477567635611	e	69
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594744	1477567635700	1477567635849	s	83
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594749	1477567635814	1477567635947	u	85
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594778	1477567635938	1477567636080	m	77
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594780	1477567636075	1477567636196	e	69
+406782	4391482	Trip was good I presume?	Trip was good I presume?	208594783	1477567637005	1477567637107	?	191
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594846	1477567639248	1477567639340	O	79
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594849	1477567639418	1477567639552	n	78
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594850	1477567639554	1477567639737	 	32
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594851	1477567639815	1477567639861	t	84
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594852	1477567639883	1477567639985	h	72
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594858	1477567640058	1477567640155	e	69
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594859	1477567640139	1477567640305	 	32
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594860	1477567640253	1477567640423	p	80
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594861	1477567640361	1477567640498	l	76
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594863	1477567640537	1477567640690	a	65
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594901	1477567640809	1477567640994	c	67
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594903	1477567640904	1477567641060	e	69
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594905	1477567641018	1477567641217	,	188
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594908	1477567641351	1477567641444	BKSP	8
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594911	1477567641484	1477567641594	BKSP	8
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594913	1477567642188	1477567642331	BKSP	8
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594916	1477567642450	1477567642600	n	78
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594920	1477567642636	1477567642805	e	69
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594952	1477567642793	1477567642914	,	188
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594954	1477567642915	1477567643073	 	32
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594959	1477567643292	1477567643409	d	68
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594963	1477567643397	1477567643471	o	79
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594965	1477567643517	1477567643618	o	79
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594967	1477567643687	1477567643810	r	82
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594985	1477567643791	1477567643953	s	83
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594989	1477567643938	1477567644134	 	32
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594994	1477567644305	1477567644422	c	67
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208594997	1477567644353	1477567644520	l	76
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208595005	1477567644441	1477567644588	o	79
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208595036	1477567644572	1477567644674	s	83
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208595037	1477567644667	1477567644806	i	73
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208595038	1477567644778	1477567644914	n	78
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208595039	1477567645084	1477567645162	g	71
+406782	4391486	On the plane, doors closing.	On the plane, doors closing.	208595041	1477567645293	1477567645436	.	190
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595116	1477567647052	1477567647292	SHIFT	16
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595118	1477567647182	1477567647298	T	84
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595120	1477567647260	1477567647384	H	72
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595122	1477567647397	1477567647528	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595123	1477567647577	1477567647711	r	82
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595140	1477567647635	1477567647789	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595142	1477567647782	1477567647941	 	32
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595143	1477567647936	1477567648073	a	65
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595145	1477567648099	1477567648233	r	82
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595146	1477567648154	1477567648275	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595148	1477567648278	1477567648418	 	32
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595166	1477567648369	1477567648516	s	83
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595167	1477567648470	1477567648546	o	79
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595168	1477567649017	1477567649128	m	77
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595169	1477567649164	1477567649267	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595170	1477567649256	1477567649416	 	32
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595176	1477567649397	1477567649503	d	68
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595177	1477567649474	1477567649578	i	73
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595178	1477567649595	1477567649677	f	70
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595181	1477567649742	1477567649850	f	70
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595184	1477567649886	1477567650012	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595209	1477567650000	1477567650166	r	82
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595211	1477567650111	1477567650221	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595214	1477567650189	1477567650287	n	78
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595216	1477567650293	1477567650387	t	84
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595217	1477567650364	1477567650512	 	32
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595219	1477567650532	1477567650665	r	82
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595229	1477567650627	1477567650717	u	85
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595231	1477567650834	1477567650978	l	76
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595234	1477567650971	1477567651121	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595237	1477567651020	1477567651150	s	83
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595254	1477567651095	1477567651229	 	32
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595256	1477567651134	1477567651258	h	72
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595259	1477567651275	1477567651401	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595261	1477567651392	1477567651564	r	82
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595263	1477567651493	1477567651616	e	69
+406782	4391492	There are some different rules here.	THere are some different rules here.	208595266	1477567651535	1477567651718	.	190
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595368	1477567653629	1477567653847	SHIFT	16
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595365	1477567653726	1477567653824	O	79
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595371	1477567653886	1477567654032	n	78
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595375	1477567653993	1477567654166	 	32
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595379	1477567654577	1477567654805	SHIFT	16
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595381	1477567654701	1477567654828	F	70
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595383	1477567654919	1477567655026	r	82
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595407	1477567654971	1477567655095	i	73
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595408	1477567655137	1477567655268	d	68
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595409	1477567655327	1477567655474	a	65
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595410	1477567655785	1477567655927	y	89
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595411	1477567655914	1477567656073	 	32
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595426	1477567656028	1477567656121	t	84
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595430	1477567656096	1477567656219	h	72
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595433	1477567656181	1477567656311	e	69
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595435	1477567656272	1477567656412	 	32
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595437	1477567656383	1477567656520	c	67
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595455	1477567656444	1477567656656	o	79
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595457	1477567656651	1477567656791	m	77
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595459	1477567656941	1477567657065	p	80
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595461	1477567657117	1477567657231	e	69
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595463	1477567657309	1477567657412	t	84
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595466	1477567657438	1477567657536	i	73
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595488	1477567657546	1477567657641	t	84
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595490	1477567657637	1477567657803	i	73
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595492	1477567657748	1477567657888	o	79
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595493	1477567657963	1477567658100	n	78
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595494	1477567658159	1477567658342	 	32
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595511	1477567658940	1477567659054	p	80
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595512	1477567659151	1477567659268	r	82
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595513	1477567659239	1477567659317	o	79
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595514	1477567659389	1477567659513	p	80
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595515	1477567659516	1477567659709	e	69
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595524	1477567659604	1477567659771	r	82
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595527	1477567659696	1477567659869	 	32
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595529	1477567660045	1477567660163	g	71
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595531	1477567660205	1477567660355	e	69
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595534	1477567660290	1477567660414	t	84
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595537	1477567660482	1477567660623	s	83
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595551	1477567660603	1477567660776	 	32
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595553	1477567660721	1477567660890	u	85
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595556	1477567660806	1477567660962	n	78
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595560	1477567660933	1477567661086	d	68
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595563	1477567661027	1477567661238	e	69
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595594	1477567661201	1477567661311	r	82
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595596	1477567661460	1477567661597	 	32
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595598	1477567661565	1477567661760	w	87
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595601	1477567661623	1477567661790	a	65
+406782	4391496	On Friday the competition proper gets under way.	On Friday the competition proper gets under way.	208595604	1477567661692	1477567661806	y	89
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595914	1477567662140	1477567672322	.	190
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595721	1477567664779	1477567665194	SHIFT	16
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595717	1477567665057	1477567665171	H	72
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595724	1477567665318	1477567665432	e	69
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595725	1477567665639	1477567665740	'	222
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595726	1477567665815	1477567665915	s	83
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595727	1477567665929	1477567666036	 	32
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595753	1477567666023	1477567666152	a	65
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595755	1477567666105	1477567666217	 	32
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595757	1477567666456	1477567666589	q	81
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595759	1477567666647	1477567666756	u	85
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595760	1477567666769	1477567666902	e	69
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595768	1477567666828	1477567666955	s	83
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595770	1477567667036	1477567667157	t	84
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595772	1477567667095	1477567667236	i	73
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595774	1477567667177	1477567667295	o	79
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595775	1477567667337	1477567667457	n	78
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595793	1477567667429	1477567667542	a	65
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595795	1477567667680	1477567667826	b	66
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595798	1477567667800	1477567667908	l	76
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595801	1477567667941	1477567668067	e	69
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595805	1477567668062	1477567668189	 	32
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595809	1477567668150	1477567668352	SHIFT	16
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595823	1477567668277	1477567668407	F	70
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595824	1477567668427	1477567668570	a	65
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595825	1477567668509	1477567668620	n	78
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595826	1477567668646	1477567668776	t	84
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595827	1477567668731	1477567668876	a	65
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595828	1477567668920	1477567669069	s	83
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595833	1477567669037	1477567669171	y	89
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595834	1477567669187	1477567669328	 	32
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595835	1477567669335	1477567669481	p	80
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595836	1477567669501	1477567669674	l	76
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595837	1477567669716	1477567669828	a	65
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595844	1477567669811	1477567669946	y	89
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595847	1477567669938	1477567670091	e	69
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595850	1477567670026	1477567670159	r	82
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595853	1477567670117	1477567670247	 	32
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595856	1477567670260	1477567670394	t	84
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595861	1477567670306	1477567670433	o	79
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595863	1477567670414	1477567670525	 	32
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595865	1477567670552	1477567670678	b	66
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595869	1477567670637	1477567670741	e	69
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595872	1477567670827	1477567670945	g	71
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595893	1477567670869	1477567671018	i	73
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595895	1477567671001	1477567671141	n	78
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595897	1477567671219	1477567671353	 	32
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595900	1477567671644	1477567671775	w	87
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595903	1477567671776	1477567671872	i	73
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595910	1477567671856	1477567671989	t	84
+406782	4391503	He's a questionable Fantasy player to begin with.	He's a questionable Fantasy player to begin with.	208595912	1477567671924	1477567672022	h	72
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208595975	1477567674246	1477567674435	SHIFT	16
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208595976	1477567674343	1477567674460	I	73
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208595977	1477567674441	1477567674591	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208595980	1477567674542	1477567674665	t	84
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208595997	1477567674577	1477567674710	h	72
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208595999	1477567674643	1477567674773	i	73
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596001	1477567674793	1477567674963	n	78
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596003	1477567674874	1477567675027	k	75
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596004	1477567675002	1477567675158	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596005	1477567675142	1477567675269	t	84
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596009	1477567675181	1477567675318	h	72
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596011	1477567675253	1477567675382	i	73
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596015	1477567675373	1477567675501	s	83
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596019	1477567675436	1477567675579	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596023	1477567675524	1477567675654	m	77
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596027	1477567675700	1477567675831	o	79
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596029	1477567675775	1477567675876	v	86
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596030	1477567675917	1477567676013	e	69
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596032	1477567675988	1477567676137	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596035	1477567676105	1477567676255	w	87
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596040	1477567676173	1477567676258	i	73
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596045	1477567676334	1477567676415	l	76
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596090	1477567676458	1477567676588	l	76
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596092	1477567676597	1477567676748	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596094	1477567676867	1477567676918	b	66
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596096	1477567677161	1477567677289	BKSP	8
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596098	1477567677338	1477567677458	n	78
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596100	1477567677507	1477567677657	o	79
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596118	1477567677628	1477567677725	t	84
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596121	1477567677693	1477567677882	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596124	1477567677804	1477567677960	o	79
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596126	1477567677953	1477567678072	v	86
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596128	1477567678101	1477567678287	e	69
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596140	1477567678212	1477567678309	r	82
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596142	1477567678421	1477567678521	c	67
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596146	1477567678482	1477567678583	o	79
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596150	1477567678605	1477567678727	m	77
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596154	1477567678714	1477567678807	e	69
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596161	1477567678792	1477567678900	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596162	1477567678892	1477567679000	t	84
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596163	1477567678948	1477567679061	h	72
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596164	1477567679056	1477567679164	e	69
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596167	1477567679112	1477567679278	 	32
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596175	1477567679221	1477567679339	p	80
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596178	1477567679287	1477567679395	r	82
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596181	1477567679415	1477567679526	o	79
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596183	1477567679491	1477567679602	b	66
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596184	1477567679621	1477567679718	l	76
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596206	1477567679700	1477567679823	e	69
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596210	1477567680046	1477567680143	m	77
+406782	4391511	I think this move will not overcome the problem.	I think this move will not overcome the problem.	208596214	1477567680265	1477567680404	.	190

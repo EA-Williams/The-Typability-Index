@@ -1,0 +1,654 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+429267	4627095	I am walking in now.	I am walking in now.	219741930	1477918930767	1477918930885	SHIFT	16
+429267	4627095	I am walking in now.	I am walking in now.	219741934	1477918930837	1477918930962	I	73
+429267	4627095	I am walking in now.	I am walking in now.	219741937	1477918930905	1477918931052	 	32
+429267	4627095	I am walking in now.	I am walking in now.	219741941	1477918930992	1477918931136	a	65
+429267	4627095	I am walking in now.	I am walking in now.	219741947	1477918931112	1477918931232	m	77
+429267	4627095	I am walking in now.	I am walking in now.	219741965	1477918931192	1477918931346	 	32
+429267	4627095	I am walking in now.	I am walking in now.	219741967	1477918931346	1477918931469	w	87
+429267	4627095	I am walking in now.	I am walking in now.	219741972	1477918931412	1477918931535	a	65
+429267	4627095	I am walking in now.	I am walking in now.	219741975	1477918931489	1477918931619	l	76
+429267	4627095	I am walking in now.	I am walking in now.	219741978	1477918931565	1477918931649	k	75
+429267	4627095	I am walking in now.	I am walking in now.	219741982	1477918931719	1477918931856	i	73
+429267	4627095	I am walking in now.	I am walking in now.	219741988	1477918931815	1477918931909	n	78
+429267	4627095	I am walking in now.	I am walking in now.	219741992	1477918931919	1477918932032	g	71
+429267	4627095	I am walking in now.	I am walking in now.	219741993	1477918931999	1477918932142	 	32
+429267	4627095	I am walking in now.	I am walking in now.	219741995	1477918932102	1477918932245	i	73
+429267	4627095	I am walking in now.	I am walking in now.	219741997	1477918932182	1477918932322	n	78
+429267	4627095	I am walking in now.	I am walking in now.	219742031	1477918932255	1477918932414	 	32
+429267	4627095	I am walking in now.	I am walking in now.	219742035	1477918932444	1477918932592	n	78
+429267	4627095	I am walking in now.	I am walking in now.	219742042	1477918932545	1477918932632	o	79
+429267	4627095	I am walking in now.	I am walking in now.	219742048	1477918932612	1477918932679	w	87
+429267	4627095	I am walking in now.	I am walking in now.	219742053	1477918932779	1477918932865	.	190
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742146	1477918937190	1477918937684	SHIFT	16
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742147	1477918937625	1477918937704	T	84
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742148	1477918937704	1477918937792	h	72
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742149	1477918937792	1477918937872	e	69
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742151	1477918937872	1477918938045	 	32
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742172	1477918937989	1477918938087	r	82
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742173	1477918938097	1477918938200	i	73
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742174	1477918938175	1477918938249	o	79
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742175	1477918938389	1477918938526	t	84
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742177	1477918938490	1477918938606	s	83
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742179	1477918938626	1477918938778	 	32
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742190	1477918938830	1477918938942	w	87
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742191	1477918938899	1477918939103	e	69
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742192	1477918939103	1477918939217	r	82
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742193	1477918939192	1477918939312	e	69
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742194	1477918939422	1477918939569	 	32
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742195	1477918939671	1477918939775	s	83
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742196	1477918939739	1477918939845	t	84
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742197	1477918939845	1477918939976	a	65
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742198	1477918939945	1477918940046	r	82
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742199	1477918940127	1477918940235	t	84
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742202	1477918940185	1477918940277	e	69
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742204	1477918940367	1477918940468	d	68
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742208	1477918940468	1477918940568	 	32
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742212	1477918940588	1477918940685	b	66
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742216	1477918940685	1477918940768	y	89
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742232	1477918940736	1477918940904	 	32
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742233	1477918940881	1477918941008	n	78
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742235	1477918940968	1477918941058	a	65
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742237	1477918941058	1477918941142	t	84
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742239	1477918941142	1477918941235	i	73
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742241	1477918941296	1477918941376	v	86
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742270	1477918941366	1477918941449	e	69
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742271	1477918941439	1477918941556	 	32
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742274	1477918941728	1477918941913	SHIFT	16
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742277	1477918941848	1477918941963	T	84
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742280	1477918942073	1477918942152	i	73
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742283	1477918942352	1477918942403	BKSP	8
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742285	1477918942454	1477918942533	a	65
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742287	1477918942533	1477918942616	i	73
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742273	1477918942857	1477918942923	w	87
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742276	1477918942913	1477918943023	a	65
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742279	1477918943033	1477918943136	n	78
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742282	1477918943206	1477918943359	e	69
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742299	1477918943313	1477918943489	s	83
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742300	1477918943451	1477918943533	e	69
+429267	4627097	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	219742301	1477918943593	1477918943676	.	190
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742363	1477918945986	1477918946137	SHIFT	16
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742364	1477918946096	1477918946217	O	79
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742365	1477918946189	1477918946266	u	85
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742366	1477918946316	1477918946409	r	82
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742367	1477918946399	1477918946493	 	32
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742368	1477918946513	1477918946673	a	65
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742385	1477918946651	1477918946743	d	68
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742389	1477918946993	1477918947076	v	86
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742393	1477918947046	1477918947146	a	65
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742396	1477918947146	1477918947273	n	78
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742400	1477918947323	1477918947389	t	84
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742403	1477918947409	1477918947513	a	65
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742414	1477918947624	1477918947689	g	71
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742416	1477918947799	1477918947886	e	69
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742418	1477918947843	1477918947956	s	83
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742421	1477918948016	1477918948179	 	32
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742426	1477918948169	1477918948249	h	72
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742427	1477918948249	1477918948345	a	65
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742428	1477918948313	1477918948389	v	86
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742429	1477918948419	1477918948509	e	69
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742430	1477918948509	1477918948615	 	32
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742431	1477918948615	1477918948689	b	66
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742448	1477918948769	1477918948829	e	69
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742451	1477918948959	1477918949036	n	69
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742455	1477918949091	1477918949218	 	32
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742459	1477918949328	1477918949419	b	66
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742472	1477918949552	1477918949632	r	82
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742474	1477918949642	1477918949713	o	79
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742476	1477918949686	1477918949766	u	85
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742478	1477918949846	1477918949939	g	71
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742481	1477918949939	1477918950056	h	72
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742489	1477918950066	1477918950169	t	84
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742490	1477918950149	1477918950289	 	32
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742492	1477918950263	1477918950376	i	73
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742493	1477918950343	1477918950416	n	78
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742494	1477918950486	1477918950556	t	84
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742512	1477918950578	1477918950673	o	79
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742516	1477918950636	1477918950775	 	32
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742521	1477918950805	1477918950872	f	70
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742527	1477918950912	1477918951003	u	85
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742530	1477918951003	1477918951072	l	76
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742532	1477918951154	1477918951243	l	76
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742533	1477918951273	1477918951369	e	69
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742534	1477918951329	1477918951425	r	82
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742535	1477918951386	1477918951502	 	32
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742550	1477918951456	1477918951585	p	80
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742553	1477918951544	1477918951622	l	76
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742555	1477918951622	1477918951689	a	65
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742557	1477918951689	1477918951776	y	89
+429267	4627101	Our advantages have been brought into fuller play.	Our advantages have been brought into fuller play.	219742559	1477918951836	1477918951916	.	190
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742589	1477918953999	1477918954146	SHIFT	16
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742594	1477918954088	1477918954186	A	65
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742599	1477918954246	1477918954376	 	32
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742603	1477918954376	1477918954466	b	66
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742607	1477918954466	1477918954539	i	73
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742612	1477918954589	1477918954681	t	84
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742635	1477918954656	1477918954774	 	32
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742638	1477918954824	1477918954889	b	66
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742642	1477918954969	1477918955059	e	69
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742645	1477918955059	1477918955182	i	73
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742649	1477918955412	1477918955469	BKSP	8
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742652	1477918955622	1477918955713	h	72
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742669	1477918955689	1477918955841	i	73
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742672	1477918955807	1477918955912	n	78
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742675	1477918956032	1477918956136	d	68
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742676	1477918956146	1477918956319	 	32
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742680	1477918956272	1477918956376	o	79
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742690	1477918956329	1477918956457	n	78
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742691	1477918956457	1477918956585	 	32
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742692	1477918956552	1477918956642	m	77
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742693	1477918956752	1477918956841	y	89
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742695	1477918956792	1477918956882	 	32
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742697	1477918956912	1477918957019	e	69
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742705	1477918957041	1477918957156	m	77
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742707	1477918957216	1477918957309	a	65
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742709	1477918957309	1477918957422	i	73
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742712	1477918957352	1477918957452	l	76
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742714	1477918957592	1477918957696	.	190
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742729	1477918957728	1477918957789	s	83
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742731	1477918957979	1477918958026	BKSP	8
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742732	1477918958116	1477918958159	BKSP	8
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742734	1477918958219	1477918958289	s	83
+429267	4627110	A bit behind on my emails.	A bit behind on my emails.	219742736	1477918958289	1477918958376	.	190
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742764	1477918960290	1477918960442	SHIFT	16
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742766	1477918960399	1477918960502	H	72
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742768	1477918960512	1477918960609	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742769	1477918960609	1477918960749	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742771	1477918960749	1477918960817	r	82
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742782	1477918960792	1477918960870	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742783	1477918960990	1477918961055	c	67
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742784	1477918961145	1477918961232	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742785	1477918961252	1477918961352	n	78
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742786	1477918961362	1477918961419	t	84
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742787	1477918961449	1477918961569	l	76
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742799	1477918961535	1477918961652	y	89
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742802	1477918961592	1477918961712	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742807	1477918961772	1477918961859	a	65
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742811	1477918961859	1477918961929	l	76
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742816	1477918962003	1477918962072	s	83
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742820	1477918962072	1477918962176	o	79
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742831	1477918962139	1477918962278	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742832	1477918962298	1477918962372	d	68
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742833	1477918962462	1477918962552	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742834	1477918962552	1477918962662	m	77
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742835	1477918962662	1477918962739	a	65
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742836	1477918962739	1477918962835	n	78
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742851	1477918962835	1477918962905	d	68
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742853	1477918962995	1477918963042	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742855	1477918963152	1477918963222	d	68
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742858	1477918963242	1477918963315	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742862	1477918963345	1477918963405	t	84
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742868	1477918963405	1477918963505	h	72
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742871	1477918963472	1477918963559	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742873	1477918963579	1477918963675	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742875	1477918963675	1477918963759	r	82
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742886	1477918963729	1477918963831	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742889	1477918964024	1477918964129	s	83
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742892	1477918964129	1477918964179	i	73
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742895	1477918964269	1477918964369	g	71
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742898	1477918964369	1477918964470	n	78
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742901	1477918964540	1477918964625	a	65
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742916	1477918964767	1477918964869	t	84
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742918	1477918964869	1477918965057	i	73
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742921	1477918964939	1477918965057	o	79
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742922	1477918965015	1477918965119	n	78
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742923	1477918965249	1477918965362	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742945	1477918965305	1477918965394	o	79
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742948	1477918965424	1477918965521	f	70
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742950	1477918965521	1477918965629	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742952	1477918965629	1477918965705	s	83
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742954	1477918965705	1477918965792	i	73
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742956	1477918966129	1477918966229	x	88
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742966	1477918966229	1477918966393	 	32
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742967	1477918966365	1477918966489	m	77
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742969	1477918966449	1477918966552	i	73
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742971	1477918966672	1477918966825	n	78
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742984	1477918966779	1477918966897	i	73
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742986	1477918966937	1477918967065	s	83
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742991	1477918967035	1477918967105	t	84
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742995	1477918967225	1477918967321	e	69
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219742999	1477918967289	1477918967409	r	82
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219743004	1477918967385	1477918967505	s	83
+429267	4627114	He recently also demanded the resignation of six ministers.	He recently also demanded the resignation of six ministers.'	219743005	1477918967495	1477918967580	.	190
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743077	1477918969409	1477918969611	SHIFT	16
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743079	1477918969539	1477918969641	T	84
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743081	1477918969701	1477918969792	h	72
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743084	1477918969812	1477918969889	e	69
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743088	1477918970199	1477918970289	r	82
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743120	1477918970252	1477918970344	e	69
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743122	1477918970514	1477918970665	s	83
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743126	1477918970629	1477918970757	a	65
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743130	1477918970927	1477918971009	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743132	1477918971249	1477918971292	BKSP	8
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743135	1477918971452	1477918971559	,	188
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743147	1477918971522	1477918971631	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743149	1477918971661	1477918971745	t	84
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743151	1477918971712	1477918971809	h	72
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743153	1477918971859	1477918971932	a	65
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743155	1477918972136	1477918972185	BKSP	8
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743157	1477918972225	1477918972299	e	69
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743159	1477918972299	1477918972392	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743172	1477918972503	1477918972592	f	70
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743173	1477918972592	1477918972672	o	79
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743174	1477918972712	1477918972813	r	82
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743175	1477918972813	1477918972889	m	77
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743177	1477918972999	1477918973097	u	85
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743219	1477918973072	1477918973171	l	76
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743220	1477918973171	1477918973268	a	65
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743221	1477918973488	1477918973600	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743222	1477918973680	1477918973788	b	66
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743224	1477918973988	1477918974035	BKSP	8
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743242	1477918974065	1477918974514	SHIFT	16
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743227	1477918974145	1477918974232	B	66
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743231	1477918974402	1477918974492	P	80
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743243	1477918974564	1477918974708	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743244	1477918974708	1477918974802	i	73
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743245	1477918974862	1477918974937	s	83
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743247	1477918974902	1477918975003	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743249	1477918975073	1477918975168	u	85
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743265	1477918975229	1477918975305	s	83
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743268	1477918975305	1477918975425	i	73
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743271	1477918975392	1477918975512	n	78
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743273	1477918975532	1477918975608	g	71
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743293	1477918975575	1477918975702	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743295	1477918975659	1477918975772	i	73
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743298	1477918975772	1477918975848	s	83
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743299	1477918975848	1477918975932	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743301	1477918976072	1477918976175	h	72
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743311	1477918976138	1477918976237	i	73
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743312	1477918976257	1477918976375	g	71
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743314	1477918976337	1477918976435	h	72
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743316	1477918976505	1477918976593	l	76
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743319	1477918976562	1477918976638	i	73
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743321	1477918976748	1477918976822	s	83
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743348	1477918977074	1477918977128	BKSP	8
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743351	1477918977208	1477918977282	g	71
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743353	1477918977282	1477918977355	h	72
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743355	1477918977445	1477918977535	t	84
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743356	1477918977555	1477918977654	e	69
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743357	1477918977784	1477918977875	d	68
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743371	1477918977897	1477918978022	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743376	1477918978052	1477918978185	i	73
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743380	1477918978152	1477918978272	n	78
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743384	1477918978202	1477918978342	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743388	1477918978422	1477918978498	r	82
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743391	1477918978498	1477918978552	e	69
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743394	1477918978662	1477918978732	d	68
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743395	1477918978732	1477918978865	 	32
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743397	1477918978865	1477918978948	b	66
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743399	1477918979048	1477918979112	e	69
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743416	1477918979193	1477918979262	l	76
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743417	1477918979342	1477918979400	o	79
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743418	1477918979440	1477918979495	w	87
+429267	4627121	Theresa, the formula BP is using is highlighted in red below.	Theresa, the formula BP is using is highlighted in red below.	219743419	1477918979515	1477918979608	.	190
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743507	1477918982640	1477918982839	SHIFT	16
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743509	1477918982770	1477918982859	M	77
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743511	1477918982939	1477918983025	i	73
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743513	1477918983125	1477918983250	c	67
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743517	1477918983229	1477918983315	h	72
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743522	1477918983355	1477918983442	a	65
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743543	1477918983584	1477918983685	e	69
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743545	1477918983705	1477918983818	l	76
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743548	1477918983762	1477918983922	 	32
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743551	1477918983888	1477918983985	h	72
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743552	1477918983985	1477918984082	a	65
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743568	1477918984055	1477918984154	s	83
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743569	1477918984184	1477918984305	 	32
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743570	1477918984465	1477918984578	h	72
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743571	1477918984538	1477918984634	i	73
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743573	1477918984654	1477918984738	s	83
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743592	1477918984702	1477918984820	 	32
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743595	1477918984910	1477918985018	h	72
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743597	1477918984992	1477918985065	o	79
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743600	1477918985185	1477918985292	l	76
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743604	1477918985249	1477918985362	i	73
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743606	1477918985362	1477918985458	d	68
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743614	1477918985529	1477918985628	a	65
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743616	1477918985658	1477918985775	y	89
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743620	1477918985742	1477918985845	 	32
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743624	1477918985966	1477918986038	p	80
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743628	1477918986118	1477918986226	e	69
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743646	1477918986198	1477918986312	r	82
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743648	1477918986542	1477918986635	f	70
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743650	1477918986635	1477918986698	o	79
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743652	1477918986748	1477918986866	r	82
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743653	1477918986832	1477918986945	m	77
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743656	1477918986945	1477918987022	a	65
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743666	1477918987064	1477918987162	n	78
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743669	1477918987192	1477918987265	c	67
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743672	1477918987365	1477918987475	e	69
+429267	4627127	Michael has his holiday performance.	Michael has his holiday performance.	219743675	1477918987438	1477918987545	.	190
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743711	1477918989162	1477918989398	SHIFT	16
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743712	1477918989328	1477918989428	T	84
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743713	1477918989488	1477918989585	h	72
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743714	1477918989585	1477918989685	e	69
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743715	1477918989935	1477918990025	r	82
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743733	1477918989985	1477918990087	e	69
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743734	1477918990257	1477918990418	s	83
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743735	1477918990382	1477918990545	a	65
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743736	1477918990786	1477918990885	 	32
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743737	1477918991017	1477918991098	-	189
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743738	1477918991278	1477918991378	 	32
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743775	1477918991519	1477918991778	SHIFT	16
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743776	1477918991679	1477918991778	P	80
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743777	1477918991878	1477918991968	l	76
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743778	1477918992018	1477918992155	e	69
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743779	1477918992088	1477918992235	a	65
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743780	1477918992265	1477918992386	s	83
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743801	1477918992347	1477918992418	e	69
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743803	1477918992418	1477918992548	 	32
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743806	1477918992748	1477918992873	r	82
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743808	1477918992832	1477918992925	e	69
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743811	1477918993081	1477918993172	s	83
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743822	1477918993108	1477918993224	e	69
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743823	1477918993254	1477918993342	n	78
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743824	1477918993462	1477918993542	d	68
+429267	4627131	Theresa - Please resend.	Theresa - Please resend.	219743825	1477918993602	1477918993677	.	190
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743915	1477918995352	1477918995472	SHIFT	16
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743917	1477918995802	1477918995985	SHIFT	16
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743918	1477918995931	1477918996049	W	87
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743919	1477918996025	1477918996098	e	69
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743920	1477918996338	1477918996475	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743921	1477918996649	1477918996731	w	87
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743922	1477918996731	1477918996785	o	79
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743937	1477918996785	1477918996897	u	85
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743941	1477918996865	1477918996978	l	76
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743944	1477918996978	1477918997065	d	68
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743946	1477918997065	1477918997212	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743949	1477918997352	1477918997441	h	72
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743963	1477918997522	1477918997638	a	65
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743964	1477918997638	1477918997735	v	86
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743965	1477918997785	1477918997905	e	69
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743966	1477918997906	1477918998041	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743967	1477918998191	1477918998281	w	87
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743978	1477918998255	1477918998354	a	65
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743980	1477918998344	1477918998445	i	73
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743983	1477918998645	1477918998753	t	84
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743985	1477918998731	1477918998815	e	69
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743987	1477918998905	1477918999001	d	68
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743995	1477918998991	1477918999080	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743996	1477918999227	1477918999345	u	85
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743997	1477918999345	1477918999409	p	80
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743998	1477918999386	1477918999515	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219743999	1477918999576	1477918999668	a	65
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744000	1477918999688	1477918999745	l	76
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744004	1477918999836	1477918999937	l	76
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744006	1477918999905	1477919000051	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744009	1477919000051	1477919000175	n	78
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744012	1477919000132	1477919000245	i	73
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744015	1477919000245	1477919000321	g	71
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744021	1477919000343	1477919000418	h	72
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744023	1477919000418	1477919000488	t	84
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744025	1477919000508	1477919000601	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744027	1477919000591	1477919000689	t	84
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744034	1477919000665	1477919000728	o	79
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744035	1477919000738	1477919000849	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744037	1477919000815	1477919000897	s	83
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744039	1477919000867	1477919000938	e	69
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744041	1477919001008	1477919001081	e	69
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744043	1477919001111	1477919001211	 	32
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744047	1477919001211	1477919001271	t	84
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744049	1477919001271	1477919001328	h	72
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744051	1477919001368	1477919001438	e	69
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744053	1477919001438	1477919001509	m	77
+429267	4627136	We would have waited up all night to see them.	We would have waited up all night to see them.	219744054	1477919001539	1477919001625	.	190
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744064	1477919003115	1477919003258	SHIFT	16
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744065	1477919003215	1477919003289	W	87
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744067	1477919003258	1477919003358	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744071	1477919003741	1477919003829	v	86
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744073	1477919003829	1477919003915	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744075	1477919003945	1477919004045	 	32
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744076	1477919004067	1477919004148	a	65
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744077	1477919004148	1477919004211	l	76
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744078	1477919004321	1477919004408	r	82
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744079	1477919004368	1477919004485	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744085	1477919004428	1477919004507	a	65
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744086	1477919004627	1477919004725	d	68
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744087	1477919004725	1477919004821	y	89
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744088	1477919004758	1477919004891	 	32
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744089	1477919005001	1477919005097	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744102	1477919005061	1477919005201	l	76
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744103	1477919005170	1477919005315	i	73
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744104	1477919005315	1477919005481	m	77
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744105	1477919005448	1477919005541	i	73
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744106	1477919005631	1477919005745	n	78
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744107	1477919005765	1477919005838	a	65
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744117	1477919005960	1477919006017	t	84
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744120	1477919005985	1477919006065	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744123	1477919006185	1477919006274	d	68
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744125	1477919006324	1477919006428	 	32
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744127	1477919006620	1477919006737	h	72
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744128	1477919006708	1477919006772	i	73
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744129	1477919006802	1477919006891	s	83
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744130	1477919006891	1477919007034	 	32
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744131	1477919007274	1477919007368	s	83
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744132	1477919007378	1477919007448	p	80
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744133	1477919007488	1477919007544	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744135	1477919007635	1477919007704	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744138	1477919007834	1477919007945	c	67
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744141	1477919007914	1477919008034	h	72
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744145	1477919007988	1477919008114	 	32
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744149	1477919008144	1477919008225	t	84
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744178	1477919008196	1477919008271	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744179	1477919008501	1477919008551	BKSP	8
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744180	1477919008705	1477919008771	h	72
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744181	1477919008791	1477919008874	e	69
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744182	1477919009044	1477919009161	r	82
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744183	1477919009131	1477919009224	a	65
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744184	1477919009364	1477919009468	p	80
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744189	1477919009550	1477919009631	y	89
+429267	4627142	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	219744191	1477919009761	1477919009841	.	190
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744223	1477919012414	1477919012641	SHIFT	16
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744225	1477919012551	1477919012661	T	84
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744228	1477919012681	1477919012768	h	72
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744231	1477919012798	1477919012881	e	69
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744234	1477919012881	1477919012954	r	82
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744238	1477919012954	1477919013041	e	69
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744242	1477919013162	1477919013258	'	222
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744243	1477919013288	1477919013364	s	83
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744244	1477919013364	1477919013478	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744246	1477919013498	1477919013561	b	66
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744248	1477919013652	1477919013721	e	69
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744253	1477919013803	1477919013921	e	69
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744254	1477919013901	1477919014024	n	78
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744255	1477919013991	1477919014104	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744256	1477919014034	1477919014114	a	65
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744257	1477919014174	1477919014248	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744281	1477919014280	1477919014398	s	83
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744283	1477919014398	1477919014521	h	72
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744285	1477919014481	1477919014563	o	79
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744287	1477919014583	1477919014664	r	82
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744289	1477919014804	1477919014913	t	84
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744293	1477919014891	1477919015006	a	65
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744295	1477919015046	1477919015113	g	71
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744297	1477919015153	1477919015265	e	69
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744299	1477919015241	1477919015384	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744300	1477919015344	1477919015434	o	79
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744301	1477919015474	1477919015543	f	70
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744312	1477919015565	1477919015648	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744314	1477919015768	1477919015902	b	66
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744316	1477919015902	1477919015961	l	76
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744317	1477919016071	1477919016108	o	79
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744322	1477919016208	1477919016267	o	79
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744329	1477919016289	1477919016344	d	68
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744330	1477919016384	1477919016497	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744331	1477919016464	1477919016585	i	73
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744332	1477919016548	1477919016661	n	78
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744338	1477919016601	1477919016723	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744339	1477919016803	1477919016881	t	84
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744340	1477919016881	1477919017009	h	72
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744341	1477919016984	1477919017074	i	73
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744342	1477919017074	1477919017154	s	83
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744343	1477919017154	1477919017307	 	32
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744349	1477919017281	1477919017409	a	65
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744350	1477919017399	1477919017505	r	82
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744351	1477919017461	1477919017577	e	69
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744352	1477919017577	1477919017680	a	65
+429267	4627145	There's been a shortage of blood in this area.	There's been a shortage of blood in this area.	219744353	1477919017720	1477919017817	.	190
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744472	1477919020181	1477919020311	SHIFT	16
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744473	1477919020321	1477919020467	n	78
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744474	1477919020417	1477919020487	o	79
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744476	1477919020527	1477919020617	w	87
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744478	1477919020617	1477919020707	 	32
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744480	1477919020897	1477919020944	BKSP	8
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744482	1477919021024	1477919021084	BKSP	8
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744484	1477919021184	1477919021194	BKSP	8
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744486	1477919021264	1477919021317	BKSP	8
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744487	1477919021417	1477919021544	SHIFT	16
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744475	1477919021497	1477919021624	N	78
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744477	1477919021576	1477919021664	o	79
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744479	1477919021734	1477919021804	w	87
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744481	1477919021804	1477919021911	 	32
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744483	1477919022031	1477919022114	g	71
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744485	1477919022144	1477919022241	o	79
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744495	1477919022201	1477919022343	 	32
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744497	1477919022483	1477919022554	g	71
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744498	1477919022705	1477919022833	e	69
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744500	1477919022794	1477919022897	t	84
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744503	1477919022861	1477919023007	 	32
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744506	1477919023007	1477919023129	w	87
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744515	1477919023101	1477919023202	a	65
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744516	1477919023312	1477919023407	s	83
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744517	1477919023407	1477919023491	h	72
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744519	1477919023481	1477919023567	e	69
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744522	1477919023657	1477919023777	d	68
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744529	1477919023727	1477919023849	 	32
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744531	1477919023849	1477919024024	u	85
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744533	1477919023921	1477919024024	p	80
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744534	1477919023987	1477919024114	 	32
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744535	1477919024134	1477919024204	f	70
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744557	1477919024184	1477919024274	o	79
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744559	1477919024304	1477919024385	r	82
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744561	1477919024361	1477919024511	 	32
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744563	1477919024511	1477919024584	d	68
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744564	1477919024537	1477919024614	i	73
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744565	1477919025026	1477919025084	n	78
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744583	1477919025166	1477919025217	n	78
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744586	1477919025217	1477919025297	e	69
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744589	1477919025337	1477919025434	r	82
+429267	4627149	Now go get washed up for dinner.	Now go get washed up for dinner.	219744591	1477919025454	1477919025511	.	190
+429267	4627155	Take what you can get.	Take what you can get.	219744618	1477919028009	1477919028277	SHIFT	16
+429267	4627155	Take what you can get.	Take what you can get.	219744619	1477919028217	1477919028327	T	84
+429267	4627155	Take what you can get.	Take what you can get.	219744620	1477919028427	1477919028534	a	65
+429267	4627155	Take what you can get.	Take what you can get.	219744621	1477919028534	1477919028604	k	75
+429267	4627155	Take what you can get.	Take what you can get.	219744622	1477919028644	1477919028721	e	69
+429267	4627155	Take what you can get.	Take what you can get.	219744671	1477919028700	1477919028800	 	32
+429267	4627155	Take what you can get.	Take what you can get.	219744672	1477919028860	1477919028967	w	87
+429267	4627155	Take what you can get.	Take what you can get.	219744673	1477919028967	1477919029057	h	72
+429267	4627155	Take what you can get.	Take what you can get.	219744674	1477919029067	1477919029177	a	65
+429267	4627155	Take what you can get.	Take what you can get.	219744675	1477919029289	1477919029344	BKSP	8
+429267	4627155	Take what you can get.	Take what you can get.	219744676	1477919029434	1477919029484	BKSP	8
+429267	4627155	Take what you can get.	Take what you can get.	219744677	1477919029554	1477919029620	BKSP	8
+429267	4627155	Take what you can get.	Take what you can get.	219744678	1477919029690	1477919029744	BKSP	8
+429267	4627155	Take what you can get.	Take what you can get.	219744679	1477919029824	1477919029874	BKSP	8
+429267	4627155	Take what you can get.	Take what you can get.	219744680	1477919029964	1477919030017	BKSP	8
+429267	4627155	Take what you can get.	Take what you can get.	219744681	1477919030497	1477919030580	a	65
+429267	4627155	Take what you can get.	Take what you can get.	219744682	1477919030780	1477919030834	BKSP	8
+429267	4627155	Take what you can get.	Take what you can get.	219744683	1477919030954	1477919031049	k	75
+429267	4627155	Take what you can get.	Take what you can get.	219744694	1477919031081	1477919031157	e	69
+429267	4627155	Take what you can get.	Take what you can get.	219744697	1477919031157	1477919031260	 	32
+429267	4627155	Take what you can get.	Take what you can get.	219744703	1477919031310	1477919031425	w	87
+429267	4627155	Take what you can get.	Take what you can get.	219744708	1477919031400	1477919031490	h	72
+429267	4627155	Take what you can get.	Take what you can get.	219744713	1477919031512	1477919031625	a	65
+429267	4627155	Take what you can get.	Take what you can get.	219744720	1477919031587	1477919031677	t	84
+429267	4627155	Take what you can get.	Take what you can get.	219744722	1477919031627	1477919031707	 	32
+429267	4627155	Take what you can get.	Take what you can get.	219744723	1477919031747	1477919031810	y	89
+429267	4627155	Take what you can get.	Take what you can get.	219744725	1477919031840	1477919031953	o	79
+429267	4627155	Take what you can get.	Take what you can get.	219744727	1477919031914	1477919032040	u	85
+429267	4627155	Take what you can get.	Take what you can get.	219744728	1477919031997	1477919032139	 	32
+429267	4627155	Take what you can get.	Take what you can get.	219744729	1477919032139	1477919032257	c	67
+429267	4627155	Take what you can get.	Take what you can get.	219744730	1477919032214	1477919032297	a	65
+429267	4627155	Take what you can get.	Take what you can get.	219744731	1477919032267	1477919032375	n	78
+429267	4627155	Take what you can get.	Take what you can get.	219744733	1477919032337	1477919032457	 	32
+429267	4627155	Take what you can get.	Take what you can get.	219744752	1477919032435	1477919032494	g	71
+429267	4627155	Take what you can get.	Take what you can get.	219744754	1477919032514	1477919032657	e	69
+429267	4627155	Take what you can get.	Take what you can get.	219744756	1477919032617	1477919032737	t	84
+429267	4627155	Take what you can get.	Take what you can get.	219744758	1477919032757	1477919032872	.	190
+429267	4627159	Make sure they are current.	Make sure they are current.	219744809	1477919034582	1477919034927	SHIFT	16
+429267	4627159	Make sure they are current.	Make sure they are current.	219744811	1477919034822	1477919034947	M	77
+429267	4627159	Make sure they are current.	Make sure they are current.	219744813	1477919035047	1477919035160	a	65
+429267	4627159	Make sure they are current.	Make sure they are current.	219744815	1477919035160	1477919035237	k	75
+429267	4627159	Make sure they are current.	Make sure they are current.	219744816	1477919035257	1477919035367	e	69
+429267	4627159	Make sure they are current.	Make sure they are current.	219744817	1477919035367	1477919035457	 	32
+429267	4627159	Make sure they are current.	Make sure they are current.	219744824	1477919035539	1477919035634	s	83
+429267	4627159	Make sure they are current.	Make sure they are current.	219744825	1477919035634	1477919035714	u	85
+429267	4627159	Make sure they are current.	Make sure they are current.	219744826	1477919035744	1477919035849	r	82
+429267	4627159	Make sure they are current.	Make sure they are current.	219744827	1477919035810	1477919035897	e	69
+429267	4627159	Make sure they are current.	Make sure they are current.	219744829	1477919035897	1477919035994	 	32
+429267	4627159	Make sure they are current.	Make sure they are current.	219744836	1477919036016	1477919036108	t	84
+429267	4627159	Make sure they are current.	Make sure they are current.	219744838	1477919036108	1477919036187	h	72
+429267	4627159	Make sure they are current.	Make sure they are current.	219744840	1477919036207	1477919036321	e	69
+429267	4627159	Make sure they are current.	Make sure they are current.	219744842	1477919036290	1477919036400	y	89
+429267	4627159	Make sure they are current.	Make sure they are current.	219744850	1477919036353	1477919036482	 	32
+429267	4627159	Make sure they are current.	Make sure they are current.	219744852	1477919036482	1477919036570	a	65
+429267	4627159	Make sure they are current.	Make sure they are current.	219744856	1477919036513	1477919036640	r	82
+429267	4627159	Make sure they are current.	Make sure they are current.	219744861	1477919036600	1477919036690	e	69
+429267	4627159	Make sure they are current.	Make sure they are current.	219744866	1477919036690	1477919036776	 	32
+429267	4627159	Make sure they are current.	Make sure they are current.	219744869	1477919036826	1477919036921	c	67
+429267	4627159	Make sure they are current.	Make sure they are current.	219744871	1477919036884	1477919036964	u	85
+429267	4627159	Make sure they are current.	Make sure they are current.	219744873	1477919037076	1477919037127	r	82
+429267	4627159	Make sure they are current.	Make sure they are current.	219744875	1477919037225	1477919037313	r	82
+429267	4627159	Make sure they are current.	Make sure they are current.	219744877	1477919037297	1477919037380	e	69
+429267	4627159	Make sure they are current.	Make sure they are current.	219744880	1477919037380	1477919037464	n	78
+429267	4627159	Make sure they are current.	Make sure they are current.	219744883	1477919037484	1477919037600	t	84
+429267	4627159	Make sure they are current.	Make sure they are current.	219744878	1477919037544	1477919037600	.	190
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744937	1477919040199	1477919040400	SHIFT	16
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744939	1477919040299	1477919040400	B	66
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744941	1477919040480	1477919040547	o	79
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744943	1477919040767	1477919040857	t	84
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744944	1477919040877	1477919040967	h	72
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744945	1477919040997	1477919041113	e	69
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744969	1477919041080	1477919041247	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744970	1477919041497	1477919041543	BKSP	8
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744971	1477919041613	1477919041677	BKSP	8
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744973	1477919041737	1477919041903	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744975	1477919041833	1477919041953	l	76
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744977	1477919041953	1477919042060	e	69
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744979	1477919042000	1477919042100	a	65
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744981	1477919042180	1477919042297	d	68
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744983	1477919042273	1477919042385	i	73
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744985	1477919042360	1477919042440	n	78
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744989	1477919042440	1477919042550	g	71
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744992	1477919042510	1477919042630	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219744995	1477919042699	1477919042839	c	67
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745000	1477919042799	1477919042904	a	65
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745002	1477919042871	1477919042975	n	78
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745004	1477919043085	1477919043189	d	68
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745006	1477919043152	1477919043229	i	73
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745008	1477919043349	1477919043488	d	68
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745024	1477919043459	1477919043556	a	65
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745025	1477919043646	1477919043712	t	84
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745027	1477919043689	1477919043822	e	69
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745029	1477919043822	1477919043936	s	83
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745032	1477919043936	1477919044064	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745040	1477919044032	1477919044122	h	72
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745042	1477919044087	1477919044192	a	65
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745043	1477919044162	1477919044246	v	86
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745044	1477919044246	1477919044369	e	69
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745045	1477919044369	1477919044504	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745066	1477919044456	1477919044546	p	80
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745068	1477919044566	1477919044671	r	82
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745070	1477919044671	1477919044772	o	79
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745072	1477919044772	1477919044922	m	77
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745074	1477919044886	1477919044992	i	73
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745076	1477919045062	1477919045232	s	83
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745088	1477919045186	1477919045253	t	84
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745090	1477919045433	1477919045502	BKSP	8
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745091	1477919045502	1477919045599	e	69
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745092	1477919045704	1477919045789	d	68
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745093	1477919045789	1477919045902	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745094	1477919045942	1477919046039	t	84
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745105	1477919046003	1477919046071	o	79
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745106	1477919046061	1477919046216	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745108	1477919046256	1477919046336	c	67
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745112	1477919046456	1477919046576	r	82
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745115	1477919046519	1477919046649	e	69
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745132	1477919046596	1477919046721	a	65
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745134	1477919046841	1477919046939	t	84
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745136	1477919046909	1477919047009	e	69
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745138	1477919047039	1477919047149	 	32
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745140	1477919047189	1477919047322	j	74
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745146	1477919047282	1477919047404	o	79
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745148	1477919047424	1477919047522	b	66
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745151	1477919047522	1477919047616	s	83
+429267	4627164	Both leading candidates have promised to create jobs.	Both leading candidates have promised to create jobs.	219745154	1477919047646	1477919047719	.	190

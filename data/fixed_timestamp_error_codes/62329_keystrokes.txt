@@ -1,0 +1,668 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+62329	682813	I have 2 different ones.	I have 2 different ones	32473676	1472736355214	1472736355343	NA	73
+62329	682813	I have 2 different ones.	I have 2 different ones	32473679	1472736355354	1472736355529	NA	32
+62329	682813	I have 2 different ones.	I have 2 different ones	32473686	1472736356074	1472736356122		8
+62329	682813	I have 2 different ones.	I have 2 different ones	32473693	1472736356202	1472736356297		8
+62329	682813	I have 2 different ones.	I have 2 different ones	32473698	1472736356650	1472736356858	SHIFT	16
+62329	682813	I have 2 different ones.	I have 2 different ones	32473729	1472736356729	1472736356905	NA	73
+62329	682813	I have 2 different ones.	I have 2 different ones	32473735	1472736356890	1472736357087	NA	32
+62329	682813	I have 2 different ones.	I have 2 different ones	32473742	1472736357018	1472736357145	NA	72
+62329	682813	I have 2 different ones.	I have 2 different ones	32473746	1472736357066	1472736357209	NA	65
+62329	682813	I have 2 different ones.	I have 2 different ones	32473749	1472736357210	1472736357321	NA	86
+62329	682813	I have 2 different ones.	I have 2 different ones	32473752	1472736357402	1472736357545	NA	69
+62329	682813	I have 2 different ones.	I have 2 different ones	32473807	1472736357466	1472736357673	NA	32
+62329	682813	I have 2 different ones.	I have 2 different ones	32473810	1472736358122	1472736358249	NA	50
+62329	682813	I have 2 different ones.	I have 2 different ones	32473813	1472736358251	1472736358409	NA	32
+62329	682813	I have 2 different ones.	I have 2 different ones	32473817	1472736358425	1472736358569	NA	68
+62329	682813	I have 2 different ones.	I have 2 different ones	32473821	1472736358571	1472736358617	NA	73
+62329	682813	I have 2 different ones.	I have 2 different ones	32473825	1472736358810	1472736358921	NA	70
+62329	682813	I have 2 different ones.	I have 2 different ones	32473894	1472736359018	1472736359146	NA	70
+62329	682813	I have 2 different ones.	I have 2 different ones	32473900	1472736359260	1472736359337	NA	69
+62329	682813	I have 2 different ones.	I have 2 different ones	32473906	1472736359306	1472736359449	NA	82
+62329	682813	I have 2 different ones.	I have 2 different ones	32473914	1472736359689	1472736359817	NA	69
+62329	682813	I have 2 different ones.	I have 2 different ones	32473922	1472736359849	1472736359993	NA	78
+62329	682813	I have 2 different ones.	I have 2 different ones	32473966	1472736359962	1472736360089	NA	84
+62329	682813	I have 2 different ones.	I have 2 different ones	32473970	1472736360137	1472736360329	NA	32
+62329	682813	I have 2 different ones.	I have 2 different ones	32473975	1472736360330	1472736360441	NA	79
+62329	682813	I have 2 different ones.	I have 2 different ones	32473980	1472736360426	1472736360569	NA	78
+62329	682813	I have 2 different ones.	I have 2 different ones	32473986	1472736360506	1472736360617	NA	69
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474183	1472736363162	1472736363355	SHIFT	16
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474194	1472736363243	1472736363369	NA	84
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474203	1472736363488	1472736363630	NA	82
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474211	1472736363633	1472736363770	NA	73
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474218	1472736363772	1472736363850	NA	69
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474222	1472736363962	1472736364058	NA	68
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474242	1472736364042	1472736364201	NA	32
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474245	1472736364202	1472736364313	NA	84
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474246	1472736364266	1472736364393	NA	79
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474250	1472736364346	1472736364473	NA	32
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474253	1472736364490	1472736364602	NA	67
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474258	1472736364874	1472736365002	NA	65
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474280	1472736365009	1472736365066	NA	76
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474283	1472736365146	1472736365258	NA	76
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474291	1472736365194	1472736365369	NA	32
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474297	1472736365434	1472736365562	NA	66
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474304	1472736365578	1472736365674	NA	85
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474322	1472736365722	1472736365866	NA	84
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474326	1472736365834	1472736366009	NA	32
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474331	1472736366186	1472736366313	NA	67
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474335	1472736366235	1472736366361	NA	79
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474520	1472736366330	1472736366442	NA	85
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474526	1472736366490	1472736366618	NA	76
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474532	1472736366619	1472736366746	NA	68
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474536	1472736368314	1472736368426	NA	78
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474540	1472736368586	1472736368714	NA	222
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474542	1472736368826	1472736368970	NA	84
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474590	1472736368954	1472736369130	NA	32
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474595	1472736369162	1472736369322	NA	82
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474601	1472736369290	1472736369465	NA	69
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474607	1472736369466	1472736369578	NA	65
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474611	1472736369674	1472736369802	NA	67
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474631	1472736369770	1472736369882	NA	72
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474636	1472736369834	1472736370058	NA	32
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474644	1472736370026	1472736370169	NA	89
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474649	1472736370170	1472736370335	NA	79
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474699	1472736370314	1472736370441	NA	85
+62329	682823	Tried to call but couldn't reach you.	Tried to call but couldn't reach you8.	32474703	1472736371002	1472736371066	NA	190
+62329	682841	We had a great time!	We had a great time!	32474947	1472736373178	1472736373226	NA	87
+62329	682841	We had a great time!	We had a great time!	32474954	1472736373482	1472736373625	SHIFT	16
+62329	682841	We had a great time!	We had a great time!	32474961	1472736373834	1472736373930		8
+62329	682841	We had a great time!	We had a great time!	32474967	1472736373962	1472736374057		8
+62329	682841	We had a great time!	We had a great time!	32474972	1472736374202	1472736374426	SHIFT	16
+62329	682841	We had a great time!	We had a great time!	32474977	1472736374330	1472736374506	NA	87
+62329	682841	We had a great time!	We had a great time!	32474995	1472736374427	1472736374553	NA	69
+62329	682841	We had a great time!	We had a great time!	32474999	1472736374602	1472736374778	NA	32
+62329	682841	We had a great time!	We had a great time!	32475004	1472736374794	1472736374922	NA	72
+62329	682841	We had a great time!	We had a great time!	32475010	1472736374923	1472736375082	NA	65
+62329	682841	We had a great time!	We had a great time!	32475016	1472736375051	1472736375210	NA	68
+62329	682841	We had a great time!	We had a great time!	32475066	1472736375162	1472736375290	NA	32
+62329	682841	We had a great time!	We had a great time!	32475074	1472736375274	1472736375404	NA	65
+62329	682841	We had a great time!	We had a great time!	32475083	1472736375386	1472736375545	NA	32
+62329	682841	We had a great time!	We had a great time!	32475086	1472736375626	1472736375706	NA	67
+62329	682841	We had a great time!	We had a great time!	32475091	1472736375994	1472736376074		8
+62329	682841	We had a great time!	We had a great time!	32475097	1472736376075	1472736376186	NA	71
+62329	682841	We had a great time!	We had a great time!	32475126	1472736376314	1472736376458	NA	82
+62329	682841	We had a great time!	We had a great time!	32475132	1472736376426	1472736376586	NA	69
+62329	682841	We had a great time!	We had a great time!	32475139	1472736376618	1472736376762	NA	65
+62329	682841	We had a great time!	We had a great time!	32475146	1472736376730	1472736376874	NA	84
+62329	682841	We had a great time!	We had a great time!	32475249	1472736376842	1472736377002	NA	32
+62329	682841	We had a great time!	We had a great time!	32475252	1472736376970	1472736377098	NA	84
+62329	682841	We had a great time!	We had a great time!	32475258	1472736377050	1472736377161	NA	73
+62329	682841	We had a great time!	We had a great time!	32475263	1472736377226	1472736377354	NA	77
+62329	682841	We had a great time!	We had a great time!	32475268	1472736377290	1472736377417	NA	69
+62329	682841	We had a great time!	We had a great time!	32475302	1472736377594	1472736378570	SHIFT	16
+62329	682841	We had a great time!	We had a great time!	32475276	1472736378378	1472736378538	NA	49
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475456	1472736380714	1472736380874	NA	65
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475459	1472736380938	1472736381114	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475463	1472736381115	1472736381194	NA	83
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475466	1472736381322	1472736381450	NA	83
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475471	1472736381498	1472736381610	NA	79
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475511	1472736381883	1472736381898		8
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475517	1472736381979	1472736382058		8
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475521	1472736382090	1472736382138		8
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475528	1472736382202	1472736382266		8
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475532	1472736382346	1472736382394		8
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475598	1472736382954	1472736383178	SHIFT	16
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475601	1472736383098	1472736383258	NA	65
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475605	1472736383226	1472736383386	NA	83
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475607	1472736383387	1472736383530	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475609	1472736383514	1472736383626	NA	83
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475612	1472736383674	1472736383754	NA	79
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475667	1472736383866	1472736384010	NA	79
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475671	1472736384266	1472736384378	NA	78
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475675	1472736384426	1472736384602	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475680	1472736384666	1472736384810	NA	65
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475704	1472736384747	1472736384906	NA	83
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475708	1472736384859	1472736385018	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475714	1472736385019	1472736385162	NA	87
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475719	1472736385147	1472736385338	NA	69
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475724	1472736385306	1472736385450	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475751	1472736385418	1472736386099	NA	65
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475756	1472736385532	1472736386105	NA	82
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475763	1472736386101	1472736386105	NA	69
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475769	1472736386106	1472736386116	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475823	1472736386222	1472736386346	NA	78
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475825	1472736386378	1472736386506	NA	69
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475828	1472736387194	1472736387354	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475831	1472736387466	1472736387626	NA	173
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475945	1472736387595	1472736387786	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475947	1472736387994	1472736388122	NA	87
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475949	1472736388250	1472736388330	NA	69
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475952	1472736389002	1472736389114	NA	222
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475955	1472736389290	1472736389370	NA	76
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475959	1472736389482	1472736389562	NA	76
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475987	1472736389626	1472736389802	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475990	1472736389850	1472736389962	NA	71
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475993	1472736389978	1472736390122	NA	73
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475996	1472736390123	1472736390218	NA	86
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32475999	1472736390314	1472736390442	NA	69
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476033	1472736390379	1472736390586	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476044	1472736390554	1472736390682	NA	89
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476057	1472736390683	1472736390842	NA	79
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476064	1472736390795	1472736390938	NA	85
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476072	1472736390906	1472736391066	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476078	1472736391067	1472736391215	NA	65
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476140	1472736391195	1472736391338	NA	32
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476143	1472736391402	1472736391516	NA	67
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476145	1472736391626	1472736391738	NA	65
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476147	1472736391723	1472736391770	NA	76
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476150	1472736391851	1472736391914	NA	76
+62329	682853	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	32476152	1472736392426	1472736392490	NA	190
+62329	682868	Are you being a baby?	Are you being a baby?	32476270	1472736393980	1472736394251	SHIFT	16
+62329	682868	Are you being a baby?	Are you being a baby?	32476274	1472736394138	1472736394299	NA	65
+62329	682868	Are you being a baby?	Are you being a baby?	32476280	1472736394282	1472736394426	NA	82
+62329	682868	Are you being a baby?	Are you being a baby?	32476283	1472736394379	1472736394506	NA	69
+62329	682868	Are you being a baby?	Are you being a baby?	32476286	1472736394491	1472736394682	NA	32
+62329	682868	Are you being a baby?	Are you being a baby?	32476352	1472736394683	1472736394778	NA	85
+62329	682868	Are you being a baby?	Are you being a baby?	32476355	1472736395323	1472736395354		8
+62329	682868	Are you being a baby?	Are you being a baby?	32476358	1472736395419	1472736395483		8
+62329	682868	Are you being a baby?	Are you being a baby?	32476363	1472736395739	1472736395947	NA	79
+62329	682868	Are you being a baby?	Are you being a baby?	32476366	1472736396251	1472736396298		8
+62329	682868	Are you being a baby?	Are you being a baby?	32476373	1472736396507	1472736396667	NA	85
+62329	682868	Are you being a baby?	Are you being a baby?	32476437	1472736396651	1472736396810	NA	79
+62329	682868	Are you being a baby?	Are you being a baby?	32476441	1472736396811	1472736396939	NA	85
+62329	682868	Are you being a baby?	Are you being a baby?	32476445	1472736397115	1472736397183		8
+62329	682868	Are you being a baby?	Are you being a baby?	32476449	1472736397260	1472736397291		8
+62329	682868	Are you being a baby?	Are you being a baby?	32476452	1472736397355	1472736397435		8
+62329	682868	Are you being a baby?	Are you being a baby?	32476455	1472736397676	1472736397787	NA	89
+62329	682868	Are you being a baby?	Are you being a baby?	32476490	1472736397771	1472736397934	NA	79
+62329	682868	Are you being a baby?	Are you being a baby?	32476493	1472736397917	1472736398042	NA	85
+62329	682868	Are you being a baby?	Are you being a baby?	32476500	1472736398043	1472736398218	NA	32
+62329	682868	Are you being a baby?	Are you being a baby?	32476506	1472736398250	1472736398347	NA	66
+62329	682868	Are you being a baby?	Are you being a baby?	32476511	1472736398458	1472736398587	NA	69
+62329	682868	Are you being a baby?	Are you being a baby?	32476542	1472736398523	1472736398593	NA	73
+62329	682868	Are you being a baby?	Are you being a baby?	32476546	1472736398667	1472736398810	NA	78
+62329	682868	Are you being a baby?	Are you being a baby?	32476551	1472736398795	1472736398906	NA	71
+62329	682868	Are you being a baby?	Are you being a baby?	32476555	1472736398907	1472736399051	NA	32
+62329	682868	Are you being a baby?	Are you being a baby?	32476562	1472736399052	1472736399195	NA	65
+62329	682868	Are you being a baby?	Are you being a baby?	32476606	1472736399147	1472736399322	NA	32
+62329	682868	Are you being a baby?	Are you being a baby?	32476611	1472736399323	1472736399435	NA	66
+62329	682868	Are you being a baby?	Are you being a baby?	32476616	1472736399514	1472736399645	NA	65
+62329	682868	Are you being a baby?	Are you being a baby?	32476622	1472736399739	1472736399867	NA	66
+62329	682868	Are you being a baby?	Are you being a baby?	32476625	1472736399930	1472736400011	NA	89
+62329	682868	Are you being a baby?	Are you being a baby?	32476638	1472736400187	1472736400395	SHIFT	16
+62329	682868	Are you being a baby?	Are you being a baby?	32476630	1472736400266	1472736400379	NA	191
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476770	1472736402699	1472736402875	SHIFT	16
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476774	1472736402811	1472736402938	NA	74
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476778	1472736402939	1472736403067	NA	69
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476783	1472736403068	1472736403211	NA	84
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476790	1472736403291	1472736403419	NA	83
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476795	1472736403643	1472736403707		8
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476867	1472736404139	1472736404299	NA	83
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476871	1472736404300	1472736404475	NA	32
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476875	1472736404507	1472736404619	NA	83
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476880	1472736404683	1472736404763	NA	69
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476887	1472736404891	1472736405019	NA	67
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476899	1472736405024	1472736405147	NA	79
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476904	1472736405148	1472736405275	NA	78
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477156	1472736405211	1472736407994	NA	68
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476914	1472736405387	1472736405531	NA	65
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476942	1472736405515	1472736405626	NA	82
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476947	1472736405691	1472736405851	NA	89
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476953	1472736405803	1472736405995	NA	32
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476959	1472736405932	1472736406079	NA	79
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32476964	1472736406059	1472736406235	NA	78
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477051	1472736406187	1472736406362	NA	32
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477053	1472736406507	1472736406571	NA	83
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477055	1472736406955	1472736407035		8
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477058	1472736407179	1472736407419	SHIFT	16
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477061	1472736407275	1472736407434	NA	83
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477066	1472736407547	1472736407675	NA	85
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477073	1472736407803	1472736407915	NA	78
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477159	1472736408043	1472736408155	NA	65
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477165	1472736408156	1472736408251	NA	89
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477173	1472736408827	1472736408923	NA	188
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477178	1472736409403	1472736409467		8
+62329	682877	Jets secondary on Sunday.	Jets secondary on Sunday.	32477181	1472736409947	1472736410011	NA	190
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477273	1472736411563	1472736411787	SHIFT	16
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477275	1472736411707	1472736411835	NA	87
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477279	1472736411788	1472736411931	NA	69
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477283	1472736411867	1472736412043	NA	32
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477287	1472736411995	1472736412123	NA	78
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477302	1472736412091	1472736412171	NA	69
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477307	1472736412251	1472736412331	NA	69
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477317	1472736412492	1472736412635	NA	32
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477320	1472736412636	1472736412795	NA	84
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477337	1472736412699	1472736412843	NA	79
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477339	1472736412801	1472736412955	NA	32
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477340	1472736413244	1472736413387	NA	84
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477342	1472736413355	1472736413515	NA	65
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477343	1472736413451	1472736413643	NA	76
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477376	1472736413563	1472736413707	NA	75
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477380	1472736413648	1472736413867	NA	32
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477391	1472736413963	1472736414107	NA	65
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477396	1472736414139	1472736414283	NA	66
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477401	1472736414219	1472736414331	NA	79
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477413	1472736414299	1472736414443	NA	85
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477416	1472736414459	1472736414603	NA	84
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477422	1472736414606	1472736414795	NA	32
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477428	1472736414700	1472736414827	NA	72
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477435	1472736414796	1472736414891	NA	84
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477439	1472736414971	1472736415115	NA	73
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477471	1472736415356	1472736415419		8
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477474	1472736415499	1472736415531		8
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477478	1472736415595	1472736415659		8
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477484	1472736415803	1472736415931	NA	84
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477489	1472736415932	1472736416043	NA	74
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477534	1472736416395	1472736416475		8
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477536	1472736416620	1472736416731		8
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477539	1472736416875	1472736417051	NA	72
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477543	1472736417020	1472736417131	NA	73
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477546	1472736417147	1472736417291	NA	83
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477573	1472736417276	1472736417403	NA	32
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477578	1472736417340	1472736417467	NA	77
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477582	1472736417771	1472736417931	NA	79
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477587	1472736417916	1472736418043	NA	78
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477594	1472736418075	1472736418235	NA	84
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477627	1472736418172	1472736418283	NA	72
+62329	682888	We need to talk about this month.	We need to talk about this month.	32477630	1472736418955	1472736419019	NA	190
+62329	682898	Task has to be completed.	Task has to be completed.	32477766	1472736420716	1472736420955	SHIFT	16
+62329	682898	Task has to be completed.	Task has to be completed.	32477768	1472736420859	1472736421035	NA	84
+62329	682898	Task has to be completed.	Task has to be completed.	32477774	1472736420987	1472736421131	NA	65
+62329	682898	Task has to be completed.	Task has to be completed.	32477779	1472736421211	1472736421339	NA	83
+62329	682898	Task has to be completed.	Task has to be completed.	32477784	1472736421340	1472736421467	NA	75
+62329	682898	Task has to be completed.	Task has to be completed.	32477814	1472736421436	1472736421595	NA	32
+62329	682898	Task has to be completed.	Task has to be completed.	32477818	1472736421579	1472736421707	NA	65
+62329	682898	Task has to be completed.	Task has to be completed.	32477823	1472736421644	1472736421755	NA	83
+62329	682898	Task has to be completed.	Task has to be completed.	32477829	1472736421931	1472736421995		8
+62329	682898	Task has to be completed.	Task has to be completed.	32477833	1472736422059	1472736422171		8
+62329	682898	Task has to be completed.	Task has to be completed.	32477836	1472736422331	1472736422427	NA	72
+62329	682898	Task has to be completed.	Task has to be completed.	32477842	1472736422443	1472736422571	NA	65
+62329	682898	Task has to be completed.	Task has to be completed.	32477844	1472736422476	1472736422651	NA	83
+62329	682898	Task has to be completed.	Task has to be completed.	32477846	1472736422619	1472736422763	NA	32
+62329	682898	Task has to be completed.	Task has to be completed.	32477848	1472736422764	1472736422891	NA	84
+62329	682898	Task has to be completed.	Task has to be completed.	32477881	1472736422844	1472736422971	NA	79
+62329	682898	Task has to be completed.	Task has to be completed.	32477884	1472736422907	1472736423067	NA	32
+62329	682898	Task has to be completed.	Task has to be completed.	32477888	1472736423068	1472736423147	NA	66
+62329	682898	Task has to be completed.	Task has to be completed.	32477891	1472736423243	1472736423387	NA	69
+62329	682898	Task has to be completed.	Task has to be completed.	32477893	1472736423356	1472736423531	NA	32
+62329	682898	Task has to be completed.	Task has to be completed.	32477897	1472736423595	1472736423723	NA	67
+62329	682898	Task has to be completed.	Task has to be completed.	32477914	1472736423729	1472736423853	NA	79
+62329	682898	Task has to be completed.	Task has to be completed.	32477918	1472736423836	1472736423963	NA	77
+62329	682898	Task has to be completed.	Task has to be completed.	32477920	1472736424027	1472736424139	NA	80
+62329	682898	Task has to be completed.	Task has to be completed.	32477924	1472736424220	1472736424363	NA	76
+62329	682898	Task has to be completed.	Task has to be completed.	32478039	1472736424316	1472736424427	NA	69
+62329	682898	Task has to be completed.	Task has to be completed.	32478045	1472736424507	1472736424619	NA	84
+62329	682898	Task has to be completed.	Task has to be completed.	32478050	1472736424716	1472736424827	NA	69
+62329	682898	Task has to be completed.	Task has to be completed.	32478060	1472736425531	1472736425611	NA	190
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478202	1472736428044	1472736428284	SHIFT	16
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478205	1472736428140	1472736428299	NA	84
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478208	1472736428396	1472736428540	NA	87
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478212	1472736428587	1472736428748	NA	79
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478216	1472736428796	1472736428972	NA	32
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478306	1472736429068	1472736429659	SHIFT	16
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478220	1472736429196	1472736429372	NA	82
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478302	1472736429376	1472736429548	NA	65
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478303	1472736429549	1472736429612	NA	70
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478307	1472736429867	1472736430092	NA	32
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478311	1472736430620	1472736430940	SHIFT	16
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478313	1472736430860	1472736430987	NA	72
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478317	1472736431228	1472736431356	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478368	1472736431340	1472736431467	NA	82
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478372	1472736431676	1472736431804	NA	67
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478373	1472736431836	1472736431948	NA	85
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478375	1472736431980	1472736432124	NA	76
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478377	1472736432124	1472736432220	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478380	1472736432316	1472736432460	NA	83
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478415	1472736432465	1472736432620	NA	32
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478417	1472736432908	1472736433020	NA	84
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478419	1472736433116	1472736433232	NA	82
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478421	1472736433212	1472736433355	NA	65
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478423	1472736433436	1472736433548	NA	78
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478451	1472736433552	1472736433692	NA	83
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478452	1472736433820	1472736433964	NA	80
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478453	1472736433980	1472736434140	NA	79
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478454	1472736434156	1472736434268	NA	82
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478455	1472736434380	1472736434508	NA	84
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478517	1472736434476	1472736434667	NA	32
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478518	1472736434780	1472736434892	NA	80
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478520	1472736435020	1472736435196	NA	76
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478521	1472736435181	1472736435323	NA	65
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478522	1472736435564	1472736435660	NA	78
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478524	1472736435868	1472736435964	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478573	1472736436012	1472736436156	NA	83
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478576	1472736436157	1472736436284	NA	32
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478578	1472736436428	1472736436572	NA	65
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478580	1472736436732	1472736436876	NA	73
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478633	1472736436844	1472736436940	NA	82
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478637	1472736437068	1472736437228	NA	76
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478641	1472736437196	1472736437340	NA	73
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478645	1472736437276	1472736437403	NA	70
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478649	1472736437596	1472736437724	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478656	1472736437948	1472736438044		8
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478707	1472736438028	1472736438155	NA	84
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478710	1472736438188	1472736438300	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478715	1472736438764	1472736438956	NA	32
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478717	1472736439068	1472736439196	NA	70
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478719	1472736439197	1472736439324	NA	79
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478787	1472736439564	1472736439676	NA	82
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478791	1472736439948	1472736440060	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478795	1472736440156	1472736440268	NA	73
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478802	1472736440460	1472736440572	NA	71
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478806	1472736440604	1472736440748	NA	78
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478846	1472736440754	1472736440908	NA	32
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478849	1472736440972	1472736441084	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478854	1472736441196	1472736441324	NA	86
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478861	1472736441356	1472736441500	NA	65
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478867	1472736441692	1472736441804	NA	67
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478964	1472736442236	1472736442332		8
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478969	1472736443052	1472736443180	NA	67
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478976	1472736443228	1472736443324	NA	85
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478980	1472736443420	1472736443516	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32478989	1472736443692	1472736443804	NA	69
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32479059	1472736443900	1472736444012	NA	83
+62329	682906	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	32479061	1472736445326	1472736445388	NA	190
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479261	1472736447741	1472736447948	SHIFT	16
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479267	1472736447852	1472736447996	NA	65
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479273	1472736448028	1472736448172	NA	76
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479276	1472736448173	1472736448284	NA	83
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479281	1472736448332	1472736448428	NA	79
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479287	1472736448988	1472736449068	NA	188
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479327	1472736449388	1472736449580	NA	32
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479332	1472736449757	1472736449900	NA	82
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479337	1472736449885	1472736450012	NA	69
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479340	1472736450076	1472736450188	NA	71
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479345	1472736450220	1472736450364	NA	65
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479359	1472736450369	1472736450460	NA	82
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479674	1472736450605	1472736456140	NA	68
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479367	1472736450764	1472736450829	NA	73
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479372	1472736450908	1472736451085	NA	78
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479391	1472736450973	1472736451093	NA	71
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479394	1472736451089	1472736451244	NA	32
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479398	1472736451245	1472736451356	NA	84
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479401	1472736451309	1472736451388	NA	72
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479403	1472736451420	1472736451548	NA	32
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479462	1472736451533	1472736451644	NA	69
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479464	1472736452060	1472736452092		8
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479465	1472736452124	1472736452220		8
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479466	1472736452284	1472736452428	NA	69
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479468	1472736452429	1472736452572	NA	32
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479493	1472736452525	1472736452636	NA	83
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479495	1472736452860	1472736452924		8
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479497	1472736452925	1472736453036	NA	67
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479501	1472736453084	1472736453212	NA	65
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479505	1472736453244	1472736453372	NA	83
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479546	1472736453325	1472736453468	NA	72
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479551	1472736453436	1472736453580	NA	32
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479555	1472736453612	1472736453724	NA	70
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479559	1472736453772	1472736453837	NA	76
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479564	1472736453932	1472736454028	NA	79
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479569	1472736454044	1472736454140	NA	87
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479600	1472736454300	1472736454460	NA	32
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479602	1472736454445	1472736454556	NA	70
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479606	1472736454669	1472736454780	NA	82
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479607	1472736454765	1472736454892	NA	79
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479610	1472736454893	1472736455068	NA	77
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479657	1472736455037	1472736455212	NA	32
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479665	1472736455276	1472736455532	SHIFT	16
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479661	1472736455357	1472736455484	NA	67
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479669	1472736455564	1472736455676	NA	65
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479672	1472736455708	1472736455804	NA	78
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479673	1472736455868	1472736455964	NA	65
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479767	1472736456028	1472736457228	NA	68
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479764	1472736456524	1472736456588		8
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479771	1472736457244	1472736457372	NA	65
+62329	682931	Also, regarding the cash flow from Canada.	Also, regarding the cash flow from Canada.	32479775	1472736457709	1472736457820	NA	190
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479892	1472736459661	1472736459869	SHIFT	16
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479896	1472736459821	1472736459980	NA	84
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479899	1472736459933	1472736460044	NA	72
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479901	1472736460060	1472736460205	NA	69
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479905	1472736460173	1472736460268	NA	89
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479910	1472736460284	1472736460477	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479945	1472736460413	1472736460572	NA	65
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479948	1472736460573	1472736460669	NA	80
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479950	1472736460732	1472736460845	NA	80
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479952	1472736460892	1472736461021	NA	69
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479954	1472736461501	1472736461645	NA	65
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479992	1472736461613	1472736461757	NA	82
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32479998	1472736461725	1472736461900	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480003	1472736462029	1472736462141	NA	79
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480006	1472736462381	1472736462429		8
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480008	1472736462525	1472736462638	NA	84
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480022	1472736462621	1472736462781	NA	79
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480024	1472736462749	1472736462909	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480025	1472736462877	1472736462972	NA	66
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480026	1472736463101	1472736463229	NA	69
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480028	1472736463213	1472736463421	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480059	1472736463389	1472736463532	NA	67
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480062	1472736463533	1472736463661	NA	79
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480066	1472736463629	1472736463740	NA	77
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480067	1472736463789	1472736463917	NA	73
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480068	1472736463933	1472736464093	NA	78
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480079	1472736464061	1472736464173	NA	71
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480081	1472736464141	1472736464317	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480082	1472736464285	1472736464397	NA	79
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480083	1472736464349	1472736464461	NA	85
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480084	1472736464445	1472736464573	NA	84
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480130	1472736464541	1472736464684	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480132	1472736464733	1472736464861	NA	79
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480134	1472736464862	1472736464989	NA	70
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480136	1472736464957	1472736465116	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480137	1472736465357	1472736465549	SHIFT	16
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480138	1472736465453	1472736465549	NA	85
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480140	1472736465661	1472736465773	NA	78
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480180	1472736465853	1472736465949	NA	73
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480181	1472736466029	1472736466141	NA	70
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480182	1472736466189	1472736466285	NA	89
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480184	1472736466653	1472736466749	NA	188
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480187	1472736466877	1472736467069	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480219	1472736467165	1472736467293	NA	66
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480221	1472736467294	1472736467405	NA	85
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480226	1472736467437	1472736467597	NA	84
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480227	1472736467565	1472736467709	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480249	1472736467677	1472736467856	NA	73
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480252	1472736467837	1472736467965	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480255	1472736467901	1472736468012	NA	67
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480258	1472736468093	1472736468221	NA	65
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480261	1472736468173	1472736468268	NA	78
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480263	1472736468541	1472736468621	NA	78
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480311	1472736468701	1472736468797	NA	79
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480315	1472736468989	1472736469069		8
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480323	1472736469421	1472736469533	NA	79
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480329	1472736469757	1472736469885	NA	84
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480352	1472736469853	1472736470013	NA	32
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480354	1472736470061	1472736470157	NA	83
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480359	1472736470237	1472736470317	NA	69
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480363	1472736470445	1472736470477	NA	69
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480391	1472736470557	1472736470669	NA	84
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480392	1472736470781	1472736470829	NA	72
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480393	1472736470925	1472736471069	NA	69
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480395	1472736471070	1472736471165	NA	77
+62329	682942	They appear to be coming out of Unify, but I cannot see them.	They appear to be coming out of Unify, but i cannot see them.	32480397	1472736471917	1472736471965	NA	190
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480515	1472736473550	1472736473869	SHIFT	16
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480518	1472736473789	1472736473949	NA	72
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480523	1472736473885	1472736474028	NA	65
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480527	1472736474029	1472736474173	NA	83
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480532	1472736474413	1472736474493	NA	73
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480535	1472736475133	1472736475197		8
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480556	1472736475261	1472736475437	NA	32
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480558	1472736475405	1472736475549	NA	73
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480561	1472736475550	1472736475677	NA	84
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480564	1472736475661	1472736475789	NA	32
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480642	1472736475981	1472736476061	NA	66
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480644	1472736476669	1472736476750	NA	69
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480647	1472736476845	1472736476941	NA	69
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480648	1472736477149	1472736477181		8
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480649	1472736477277	1472736477405		8
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480650	1472736477469	1472736477549		8
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480696	1472736477741	1472736477853	NA	69
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480700	1472736478365	1472736478493	NA	69
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480703	1472736478494	1472736478656	NA	78
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480705	1472736478638	1472736478813	NA	32
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480710	1472736478925	1472736479069	NA	77
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480764	1472736479074	1472736479197	NA	69
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480766	1472736479229	1472736479325	NA	84
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480769	1472736479502	1472736479565		8
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480772	1472736479981	1472736480077	NA	78
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480776	1472736480285	1472736480429	NA	84
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480792	1472736480541	1472736480717	NA	73
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480794	1472736480670	1472736480861	NA	79
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480798	1472736480862	1472736481037	NA	78
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480804	1472736481038	1472736481133	NA	69
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480863	1472736481326	1472736481501	NA	32
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480864	1472736481502	1472736481597	NA	89
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480866	1472736481566	1472736481677	NA	69
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480868	1472736481709	1472736481856	NA	84
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480875	1472736481949	1472736482237	SHIFT	16
+62329	682958	Has it been mentioned yet?	Has it been mentioned yet?	32480871	1472736482125	1472736482205	NA	191
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481032	1472736484398	1472736484894	SHIFT	16
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481037	1472736484814	1472736484957	NA	84
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481043	1472736484958	1472736485117	NA	72
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481048	1472736485149	1472736485293	NA	79
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481052	1472736485373	1472736485517	NA	77
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481053	1472736485533	1472736485709	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481058	1472736485662	1472736485822	NA	83
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481059	1472736485822	1472736485982	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481060	1472736485950	1472736486061	NA	72
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481061	1472736485997	1472736486157	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481062	1472736486062	1472736486254	NA	83
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481090	1472736486238	1472736486397	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481092	1472736486429	1472736486558	NA	78
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481094	1472736486562	1472736486717	NA	79
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481096	1472736486750	1472736486893	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481098	1472736487022	1472736487181	NA	82
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481137	1472736487134	1472736487293	NA	69
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481143	1472736487294	1472736487437	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481145	1472736487422	1472736487565	NA	76
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481150	1472736487518	1472736487693	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481152	1472736487646	1472736487757	NA	70
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481157	1472736488014	1472736488110		8
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481173	1472736488190	1472736488302	NA	86
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481176	1472736488350	1472736488494	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481179	1472736488498	1472736488654	NA	76
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481182	1472736488685	1472736488798	NA	85
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481186	1472736488845	1472736488989	NA	69
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481203	1472736488958	1472736489085	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481204	1472736489086	1472736489246	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481208	1472736489198	1472736489357	NA	83
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481211	1472736489358	1472736489471	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481213	1472736489454	1472736489597	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481253	1472736489582	1472736489726	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481254	1472736489678	1472736489821	NA	70
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481255	1472736489822	1472736489950	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481256	1472736489998	1472736490142	NA	78
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481257	1472736490430	1472736490462		8
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481259	1472736490542	1472736490606		8
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481279	1472736490638	1472736490718		8
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481280	1472736490798	1472736490862		8
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481284	1472736491262	1472736491406	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481289	1472736491438	1472736491662	SHIFT	16
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481294	1472736491534	1472736491694	NA	70
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481349	1472736491663	1472736491821	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481353	1472736491886	1472736492030	NA	78
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481355	1472736492254	1472736492382	NA	84
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481357	1472736492430	1472736492574	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481359	1472736492622	1472736492750	NA	83
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481362	1472736492798	1472736492958	NA	89
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481407	1472736492963	1472736493150	NA	32
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481409	1472736493198	1472736493278	NA	80
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481411	1472736493790	1472736493838		8
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481413	1472736494062	1472736494142	NA	76
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481439	1472736494174	1472736494334	NA	65
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481443	1472736494446	1472736494542	NA	89
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481446	1472736494590	1472736494686	NA	69
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481452	1472736494654	1472736494798	NA	82
+62329	682966	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	32481456	1472736495198	1472736495278	NA	190
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481554	1472736497407	1472736497822	SHIFT	16
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481557	1472736497710	1472736497870	NA	87
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481560	1472736497854	1472736497966	NA	72
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481563	1472736497966	1472736498126	NA	65
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481565	1472736498094	1472736498238	NA	84
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481587	1472736498174	1472736498302	NA	32
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481591	1472736498286	1472736498414	NA	73
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481595	1472736498414	1472736498526	NA	83
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481598	1472736498478	1472736498654	NA	32
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481602	1472736498654	1472736498784	NA	72
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481630	1472736498766	1472736498910	NA	65
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481632	1472736498894	1472736498974	NA	80
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481636	1472736499038	1472736499134	NA	80
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481639	1472736499278	1472736499358	NA	69
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481643	1472736499390	1472736499502	NA	78
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481646	1472736499710	1472736499790	NA	73
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481675	1472736499870	1472736500030	NA	78
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481678	1472736499982	1472736500094	NA	71
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481679	1472736500031	1472736500205	NA	32
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481680	1472736500302	1472736500430	NA	84
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481681	1472736500431	1472736500542	NA	79
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481699	1472736500510	1472736500638	NA	32
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481704	1472736500702	1472736500830	NA	84
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481707	1472736500798	1472736500910	NA	72
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481710	1472736500942	1472736501070	NA	69
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481712	1472736501006	1472736501101	NA	32
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481713	1472736501150	1472736501294	NA	83
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481720	1472736501299	1472736501422	NA	84
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481723	1472736501390	1472736501502	NA	79
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481729	1472736501566	1472736501710	NA	67
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481733	1472736501678	1472736501774	NA	75
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481737	1472736501790	1472736501966	NA	32
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481766	1472736501982	1472736502078	NA	80
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481768	1472736502206	1472736502318	NA	82
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481771	1472736502382	1472736502478	NA	73
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481775	1472736502510	1472736502622	NA	67
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481783	1472736502718	1472736502830	NA	69
+62329	682983	What is happening to the stock price?	What is happening to the stock price?	32481798	1472736502958	1472736503102	NA	16
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481914	1472736504639	1472736504910	SHIFT	16
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481916	1472736505054	1472736505247	SHIFT	16
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481920	1472736505166	1472736505294	NA	73
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481922	1472736505262	1472736505425	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481924	1472736505406	1472736505534	NA	67
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481926	1472736505582	1472736505726	NA	65
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481957	1472736505711	1472736505790	NA	78
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481960	1472736505886	1472736505966	NA	78
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481962	1472736506094	1472736506222	NA	79
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481965	1472736506254	1472736506398	NA	84
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481966	1472736506367	1472736506526	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481968	1472736506527	1472736506654	NA	70
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481996	1472736506659	1472736506750	NA	73
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32481999	1472736506766	1472736506894	NA	71
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482003	1472736506926	1472736507022	NA	85
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482008	1472736507038	1472736507166	NA	82
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482011	1472736507278	1472736507406	NA	69
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482039	1472736507411	1472736507553	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482044	1472736507535	1472736507678	NA	79
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482048	1472736507662	1472736507774	NA	85
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482051	1472736507838	1472736507982	NA	84
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482054	1472736507983	1472736508126	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482088	1472736508095	1472736508254	NA	87
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482090	1472736508255	1472736508350	NA	72
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482094	1472736508319	1472736508462	NA	69
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482097	1472736508446	1472736508606	NA	82
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482100	1472736508590	1472736508734	NA	69
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482103	1472736508735	1472736508862	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482122	1472736508990	1472736509118	NA	84
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482124	1472736509087	1472736509198	NA	72
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482127	1472736509182	1472736509294	NA	69
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482129	1472736509390	1472736509486	NA	83
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482131	1472736509582	1472736509694	NA	69
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482146	1472736509699	1472736509870	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482147	1472736509934	1472736510062	NA	80
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482148	1472736510094	1472736510222	NA	82
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482151	1472736510254	1472736510334	NA	73
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482154	1472736510382	1472736510510	NA	67
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482178	1472736510622	1472736510718	NA	69
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482180	1472736510830	1472736510958	NA	83
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482182	1472736510974	1472736511134	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482185	1472736511135	1472736511278	NA	65
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482225	1472736511247	1472736511406	NA	82
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482227	1472736511374	1472736511518	NA	69
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482230	1472736511519	1472736511710	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482232	1472736511711	1472736511854	NA	67
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482234	1472736511839	1472736511982	NA	79
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482236	1472736511983	1472736512078	NA	77
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482263	1472736512142	1472736512254	NA	73
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482265	1472736512302	1472736512414	NA	71
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482267	1472736512383	1472736512542	NA	78
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482272	1472736513070	1472736513134		8
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482277	1472736513326	1472736513406	NA	61
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482317	1472736513678	1472736513726		8
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482321	1472736513791	1472736513886		8
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482324	1472736514062	1472736514174	NA	78
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482326	1472736514206	1472736514302	NA	71
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482352	1472736514255	1472736514414	NA	32
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482357	1472736514430	1472736514558	NA	70
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482362	1472736514638	1472736514782	NA	82
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482366	1472736514862	1472736515038	NA	77
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482368	1472736515295	1472736515342		8
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482369	1472736515551	1472736515662	NA	79
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482436	1472736515727	1472736515822	NA	77
+62329	682991	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	32482440	1472736517119	1472736517199	NA	190

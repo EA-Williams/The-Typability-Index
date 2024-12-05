@@ -1,0 +1,481 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833856	1473169145376	1473169150007	SHIFT	16
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833853	1473169149847	1473169149927	I	73
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833860	1473169151200	1473169151296	'	222
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833862	1473169151751	1473169151823	l	76
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833863	1473169151895	1473169151974	l	76
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833864	1473169152055	1473169152167	 	32
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833939	1473169152911	1473169152990	c	67
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833943	1473169153151	1473169153295	a	65
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833945	1473169153367	1473169153446	l	76
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833948	1473169153518	1473169153598	l	76
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46833951	1473169153694	1473169153790	 	32
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834000	1473169154198	1473169154294	y	89
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834001	1473169154302	1473169154382	o	79
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834002	1473169154478	1473169154559	u	85
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834004	1473169154638	1473169154742	 	32
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834006	1473169154886	1473169154982	o	79
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834101	1473169155966	1473169156054	BKSP	8
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834102	1473169156638	1473169156718	i	73
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834103	1473169156862	1473169156942	n	78
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834104	1473169157030	1473169157134	 	32
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834105	1473169157278	1473169157373	t	84
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834106	1473169157390	1473169157477	h	72
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834142	1473169157558	1473169157669	e	69
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834146	1473169157702	1473169157790	 	32
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834149	1473169157982	1473169158101	m	77
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834154	1473169158181	1473169158270	o	79
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834159	1473169158613	1473169158718	r	82
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834209	1473169158847	1473169158928	n	78
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834212	1473169159103	1473169159190	i	73
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834215	1473169159327	1473169159438	n	78
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834219	1473169159527	1473169159622	g	71
+89880	984282	I'll call you in the morning.	I'll call you in the morning.	46834223	1473169159959	1473169160046	.	190
+89880	984298	I'll get you one.	I'll get youy one.	46834398	1473169163573	1473169164085	SHIFT	16
+89880	984298	I'll get you one.	I'll get youy one.	46834397	1473169163894	1473169163973	I	73
+89880	984298	I'll get you one.	I'll get youy one.	46834399	1473169164437	1473169164517	'	222
+89880	984298	I'll get you one.	I'll get youy one.	46834400	1473169164693	1473169164781	l	76
+89880	984298	I'll get you one.	I'll get youy one.	46834402	1473169165045	1473169165125	l	76
+89880	984298	I'll get you one.	I'll get youy one.	46834404	1473169165245	1473169165325	 	32
+89880	984298	I'll get you one.	I'll get youy one.	46834464	1473169165829	1473169165925	g	71
+89880	984298	I'll get you one.	I'll get youy one.	46834465	1473169165966	1473169166061	e	69
+89880	984298	I'll get you one.	I'll get youy one.	46834468	1473169166069	1473169166157	t	84
+89880	984298	I'll get you one.	I'll get youy one.	46834471	1473169166213	1473169166325	 	32
+89880	984298	I'll get you one.	I'll get youy one.	46834476	1473169166534	1473169166630	y	89
+89880	984298	I'll get you one.	I'll get youy one.	46834520	1473169166677	1473169166765	o	79
+89880	984298	I'll get you one.	I'll get youy one.	46834523	1473169166885	1473169166949	y	85
+89880	984298	I'll get you one.	I'll get youy one.	46834527	1473169167109	1473169167205	 	32
+89880	984298	I'll get you one.	I'll get youy one.	46834531	1473169167549	1473169167629	o	79
+89880	984298	I'll get you one.	I'll get youy one.	46834702	1473169167797	1473169167884	n	78
+89880	984298	I'll get you one.	I'll get youy one.	46834704	1473169168101	1473169168205	e	69
+89880	984298	I'll get you one.	I'll get youy one.	46834707	1473169170468	1473169170556	.	190
+89880	984298	I'll get you one.	I'll get youy one.	46834711	1473169171172	1473169171292	SHIFT	16
+89880	984309	We're on the way.	We're on the way 	46834925	1473169174748	1473169174852	SHIFT	16
+89880	984309	We're on the way.	We're on the way 	46834931	1473169174899	1473169175811	SHIFT	16
+89880	984309	We're on the way.	We're on the way 	46834928	1473169175619	1473169175699	W	87
+89880	984309	We're on the way.	We're on the way 	46834934	1473169176107	1473169176227	e	69
+89880	984309	We're on the way.	We're on the way 	46834937	1473169176644	1473169176764	'	222
+89880	984309	We're on the way.	We're on the way 	46834940	1473169177324	1473169177412	r	82
+89880	984309	We're on the way.	We're on the way 	46834941	1473169177460	1473169177556	e	69
+89880	984309	We're on the way.	We're on the way 	46835043	1473169177620	1473169177716	 	32
+89880	984309	We're on the way.	We're on the way 	46835045	1473169178636	1473169178723	o	79
+89880	984309	We're on the way.	We're on the way 	46835047	1473169178851	1473169178939	n	78
+89880	984309	We're on the way.	We're on the way 	46835052	1473169178987	1473169179116	 	32
+89880	984309	We're on the way.	We're on the way 	46835059	1473169180163	1473169180252	t	84
+89880	984309	We're on the way.	We're on the way 	46835119	1473169180308	1473169180387	h	72
+89880	984309	We're on the way.	We're on the way 	46835123	1473169180947	1473169181043	e	69
+89880	984309	We're on the way.	We're on the way 	46835126	1473169181107	1473169181195	 	32
+89880	984309	We're on the way.	We're on the way 	46835130	1473169181355	1473169181460	w	87
+89880	984309	We're on the way.	We're on the way 	46835134	1473169181603	1473169181731	a	65
+89880	984309	We're on the way.	We're on the way 	46835142	1473169181787	1473169181899	y	89
+89880	984309	We're on the way.	We're on the way 	46835143	1473169181963	1473169182019	 	32
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835306	1473169184187	1473169186626	SHIFT	16
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835303	1473169186506	1473169186594	I	73
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835312	1473169186730	1473169186842	 	32
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835315	1473169187042	1473169187130	t	84
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835319	1473169187178	1473169187274	h	72
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835323	1473169187362	1473169187450	i	73
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835356	1473169187578	1473169187674	n	78
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835359	1473169187834	1473169187914	k	75
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835364	1473169187994	1473169188106	 	32
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835368	1473169188298	1473169188402	w	87
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835369	1473169188466	1473169188562	e	69
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835389	1473169188601	1473169188689	 	32
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835391	1473169188778	1473169188897	a	65
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835393	1473169189186	1473169189297	r	82
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835396	1473169189321	1473169189441	e	69
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835398	1473169189465	1473169189554	 	32
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835440	1473169190025	1473169190130	d	68
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835444	1473169190162	1473169190257	o	79
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835449	1473169190337	1473169190441	i	73
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835453	1473169190641	1473169190730	n	78
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835456	1473169190809	1473169190889	g	71
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835561	1473169190905	1473169191009	 	32
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835568	1473169191657	1473169191737	o	79
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835576	1473169191809	1473169191897	k	75
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835582	1473169192657	1473169192753	BKSP	8
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835588	1473169192833	1473169192913	BKSP	8
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835625	1473169193281	1473169194137	SHIFT	16
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835593	1473169193705	1473169193777	O	79
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835598	1473169193850	1473169193922	K	75
+89880	984317	I think we are dong OK.	I think we are doing OK.	46835629	1473169194322	1473169194394	.	190
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836380	1473169210656	1473169211104	SHIFT	16
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836375	1473169210959	1473169211047	T	84
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836384	1473169211305	1473169211408	h	72
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836387	1473169211456	1473169211544	e	69
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836389	1473169211545	1473169211648	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836460	1473169211920	1473169212464	SHIFT	16
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836390	1473169212329	1473169212425	A	65
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836462	1473169213064	1473169213136	z	90
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836467	1473169213448	1473169213520	e	69
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836470	1473169213608	1473169213688	r	82
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836473	1473169214248	1473169214344	b	66
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836476	1473169214408	1473169214496	a	65
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836528	1473169214640	1473169214743	i	73
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836529	1473169215328	1473169215423	j	74
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836531	1473169215487	1473169215575	a	65
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836535	1473169216055	1473169216175	n	78
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836539	1473169216216	1473169216319	i	73
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836712	1473169218007	1473169218111	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836713	1473169218991	1473169219063	e	69
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836715	1473169219543	1473169219639	n	78
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836717	1473169220095	1473169220198	c	67
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836718	1473169220255	1473169220342	l	76
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836816	1473169220551	1473169220647	a	65
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836818	1473169221063	1473169221159	v	86
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836821	1473169221167	1473169221254	e	69
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836824	1473169221310	1473169221398	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836983	1473169221631	1473169222918	SHIFT	16
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836827	1473169222703	1473169222798	N	78
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836986	1473169223782	1473169223878	a	65
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836989	1473169225502	1473169225598	g	71
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836993	1473169225710	1473169225821	o	79
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46836996	1473169227118	1473169227214	r	82
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837000	1473169227270	1473169227357	o	79
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837185	1473169227597	1473169227678	n	78
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837188	1473169227814	1473169227925	o	79
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837191	1473169228029	1473169228141	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837195	1473169231214	1473169231309	w	87
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837199	1473169231381	1473169231494	a	65
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837255	1473169231550	1473169231661	s	83
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837257	1473169231677	1473169231789	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837260	1473169232118	1473169232285	t	84
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837262	1473169232309	1473169232413	o	79
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837264	1473169232726	1473169232813	r	82
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837292	1473169232837	1473169232917	n	78
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837296	1473169232997	1473169233110	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837300	1473169233589	1473169233693	b	66
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837305	1473169233742	1473169233845	y	89
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837309	1473169233869	1473169233965	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837473	1473169235421	1473169235508	f	70
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837474	1473169235557	1473169235644	u	85
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837475	1473169235757	1473169235861	r	82
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837477	1473169235949	1473169235989	h	72
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837479	1473169236828	1473169236925	BKSP	8
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837482	1473169237252	1473169237348	t	84
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837564	1473169237388	1473169237468	h	72
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837567	1473169238149	1473169238228	e	69
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837571	1473169238300	1473169238380	r	82
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837573	1473169238452	1473169238540	 	32
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837575	1473169239020	1473169239100	f	70
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837622	1473169239141	1473169239220	i	73
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837626	1473169239388	1473169239468	g	71
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837629	1473169239516	1473169239596	h	72
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837633	1473169239748	1473169239844	t	84
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837637	1473169240012	1473169240100	i	73
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837750	1473169240276	1473169240364	n	78
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837753	1473169240468	1473169240556	g	71
+89880	984328	The Azerbaijani enclave Nagorno was torn by further fighting.	The Azerbaijani enclave Nagorono was torn by further fighting.	46837757	1473169240916	1473169241019	.	190
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838083	1473169246619	1473169247372	SHIFT	16
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838081	1473169247203	1473169247299	D	68
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838086	1473169247835	1473169247924	i	73
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838087	1473169247996	1473169248091	d	68
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838090	1473169248147	1473169248211	 	32
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838094	1473169248675	1473169248771	y	89
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838157	1473169248811	1473169248899	o	79
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838159	1473169249012	1473169249099	u	85
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838162	1473169249156	1473169249251	 	32
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838165	1473169249411	1473169249491	t	84
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838168	1473169249755	1473169249875	a	65
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838227	1473169249987	1473169250075	l	76
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838231	1473169250307	1473169250395	k	75
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838235	1473169250459	1473169250571	 	32
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838238	1473169250899	1473169250963	t	84
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838241	1473169250995	1473169251075	o	79
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838403	1473169251195	1473169251275	 	32
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838413	1473169252059	1473169252498	SHIFT	16
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838409	1473169252291	1473169252419	A	65
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838415	1473169253387	1473169253458	v	86
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838416	1473169253706	1473169253762	a	65
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838417	1473169254674	1473169254778	 	32
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838475	1473169255418	1473169255506	t	84
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838480	1473169255546	1473169255618	h	72
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838486	1473169256042	1473169256138	i	73
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838492	1473169256234	1473169256330	s	83
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838497	1473169256346	1473169256473	 	32
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838541	1473169256914	1473169257018	m	77
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838542	1473169257129	1473169257218	o	79
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838545	1473169257467	1473169257570	r	82
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838550	1473169257665	1473169257762	n	78
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838554	1473169258009	1473169258105	i	73
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838634	1473169258322	1473169258418	n	78
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838640	1473169258466	1473169258537	g	71
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838648	1473169259009	1473169259441	SHIFT	16
+89880	984376	Did you talk to Ava this morning?	Did you talk to Ava this morning?	46838644	1473169259297	1473169259433	?	191
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46838846	1473169262361	1473169263160	SHIFT	16
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46838845	1473169263024	1473169263104	C	67
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46838847	1473169263409	1473169263513	r	82
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46838848	1473169263673	1473169263761	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46838849	1473169264394	1473169264482	s	83
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46838850	1473169264553	1473169264633	t	84
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839016	1473169265050	1473169265137	o	79
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839021	1473169265570	1473169265665	n	78
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839026	1473169265713	1473169265809	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839031	1473169265857	1473169265953	 	32
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839035	1473169267265	1473169267360	w	87
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839104	1473169267409	1473169267488	o	79
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839107	1473169267641	1473169267729	n	78
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839110	1473169268377	1473169268536	'	222
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839117	1473169268577	1473169268672	t	84
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839122	1473169268753	1473169268833	 	32
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839286	1473169270673	1473169270761	h	72
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839291	1473169270825	1473169270921	a	65
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839294	1473169271233	1473169271329	v	86
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839297	1473169271361	1473169271457	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839301	1473169271521	1473169271586	 	32
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839381	1473169272577	1473169272672	f	70
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839385	1473169272761	1473169272840	i	73
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839388	1473169273304	1473169273384	n	78
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839392	1473169273497	1473169273601	a	65
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839396	1473169273704	1473169273816	l	76
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839445	1473169273888	1473169273992	 	32
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839448	1473169274145	1473169274240	m	77
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839450	1473169274352	1473169274424	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839453	1473169274577	1473169274673	a	65
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839456	1473169274792	1473169274888	s	83
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839552	1473169275145	1473169275233	u	85
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839557	1473169275544	1473169275656	r	82
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839560	1473169275721	1473169275808	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839565	1473169276184	1473169276280	m	77
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839568	1473169276376	1473169276456	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839664	1473169276520	1473169276600	n	78
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839668	1473169276904	1473169277000	t	84
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839672	1473169277096	1473169277183	 	32
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839676	1473169277952	1473169278039	u	85
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839680	1473169278183	1473169278271	n	78
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839782	1473169278623	1473169278735	t	84
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839787	1473169278815	1473169278903	i	73
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839793	1473169279056	1473169279143	l	76
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839798	1473169279231	1473169279335	 	32
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839802	1473169280104	1473169280184	n	78
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839867	1473169280279	1473169280375	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839870	1473169281153	1473169281248	x	88
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839871	1473169281281	1473169281368	t	84
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839873	1473169281448	1473169281552	 	32
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839875	1473169281856	1473169281936	w	87
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839930	1473169282080	1473169282160	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839934	1473169282224	1473169282329	e	69
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839938	1473169282384	1473169282471	k	75
+89880	984395	Crestone won't have final measurement until next week.	Crestone won't have final measurement until next week.	46839940	1473169283008	1473169283095	.	190
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840212	1473169287599	1473169288070	SHIFT	16
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840210	1473169287919	1473169288014	A	65
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840215	1473169288367	1473169288470	m	77
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840216	1473169288751	1473169288839	y	89
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840219	1473169288903	1473169288991	 	32
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840222	1473169289463	1473169289542	w	87
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840295	1473169289622	1473169289702	i	73
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840299	1473169290055	1473169290150	l	76
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840301	1473169290230	1473169290310	l	76
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840303	1473169290646	1473169290726	 	32
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840304	1473169291350	1473169291438	b	66
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840335	1473169291494	1473169291566	e	69
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840336	1473169291599	1473169291702	 	32
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840338	1473169291838	1473169291942	h	72
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840339	1473169292086	1473169292166	e	69
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840340	1473169292254	1473169292358	r	82
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840422	1473169292966	1473169293053	e	69
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840426	1473169293246	1473169293334	 	32
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840429	1473169293926	1473169294013	t	84
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840432	1473169294094	1473169294173	o	79
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840436	1473169294237	1473169294342	 	32
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840504	1473169294573	1473169294669	c	67
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840508	1473169294741	1473169294824	o	79
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840511	1473169295317	1473169295406	v	86
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840517	1473169295462	1473169295542	e	69
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840520	1473169295621	1473169295725	r	82
+89880	984422	Amy will be here to cover.	Amy will be here to cover.	46840570	1473169296741	1473169296837	.	190
+89880	984439	Money wise that is.	Money wise thatis.	46840809	1473169301333	1473169301869	SHIFT	16
+89880	984439	Money wise that is.	Money wise thatis.	46840808	1473169301741	1473169301829	M	77
+89880	984439	Money wise that is.	Money wise thatis.	46840810	1473169302038	1473169302133	o	79
+89880	984439	Money wise that is.	Money wise thatis.	46840811	1473169302461	1473169302565	n	78
+89880	984439	Money wise that is.	Money wise thatis.	46840812	1473169302613	1473169302709	e	69
+89880	984439	Money wise that is.	Money wise thatis.	46840813	1473169302765	1473169302861	y	89
+89880	984439	Money wise that is.	Money wise thatis.	46840884	1473169302957	1473169303045	 	32
+89880	984439	Money wise that is.	Money wise thatis.	46840886	1473169303421	1473169303508	w	87
+89880	984439	Money wise that is.	Money wise thatis.	46840889	1473169303549	1473169303621	i	73
+89880	984439	Money wise that is.	Money wise thatis.	46840893	1473169303869	1473169303948	s	83
+89880	984439	Money wise that is.	Money wise thatis.	46840899	1473169304044	1473169304133	e	69
+89880	984439	Money wise that is.	Money wise thatis.	46840951	1473169304221	1473169304317	 	32
+89880	984439	Money wise that is.	Money wise thatis.	46840955	1473169304500	1473169304588	t	84
+89880	984439	Money wise that is.	Money wise thatis.	46840959	1473169304645	1473169304733	h	72
+89880	984439	Money wise that is.	Money wise thatis.	46840965	1473169304821	1473169304956	a	65
+89880	984439	Money wise that is.	Money wise thatis.	46840970	1473169304964	1473169305060	t	84
+89880	984439	Money wise that is.	Money wise thatis.	46841030	1473169305684	1473169305772	i	73
+89880	984439	Money wise that is.	Money wise thatis.	46841033	1473169305853	1473169305941	s	83
+89880	984439	Money wise that is.	Money wise thatis.	46841036	1473169306517	1473169306604	.	190
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842511	1473169335376	1473169335915	SHIFT	16
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842509	1473169335785	1473169335872	C	67
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842513	1473169336122	1473169336208	h	72
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842514	1473169336240	1473169336344	a	65
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842517	1473169336456	1473169336568	d	68
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842519	1473169336632	1473169336712	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842557	1473169336880	1473169336976	t	84
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842559	1473169337008	1473169337096	h	72
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842560	1473169337344	1473169337432	o	79
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842562	1473169337568	1473169337656	u	85
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842564	1473169337951	1473169338055	g	71
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842586	1473169338103	1473169338207	h	72
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842588	1473169338263	1473169338351	r	82
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842591	1473169338463	1473169338543	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842594	1473169338703	1473169338775	BKSP	8
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842596	1473169338855	1473169338943	t	84
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842598	1473169339039	1473169339127	t	84
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842802	1473169339311	1473169339391	BKSP	8
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842807	1473169339479	1473169339543	BKSP	8
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842812	1473169339631	1473169339695	BKSP	8
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842819	1473169339759	1473169339815	BKSP	8
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842828	1473169341255	1473169341343	h	72
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842832	1473169341375	1473169341471	t	84
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842841	1473169341575	1473169341655	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842848	1473169343006	1473169343103	w	87
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842855	1473169343150	1473169343246	e	69
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842886	1473169343294	1473169343366	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842891	1473169343774	1473169343870	w	87
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842899	1473169343918	1473169344006	e	69
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842904	1473169344102	1473169344198	r	82
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842908	1473169344238	1473169344358	e	69
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842995	1473169344438	1473169344542	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46842998	1473169345870	1473169345950	o	79
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843002	1473169346054	1473169346158	n	78
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843007	1473169346254	1473169346358	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843009	1473169346470	1473169346566	a	65
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843054	1473169346630	1473169346710	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843059	1473169347374	1473169347485	t	84
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843063	1473169347558	1473169347653	r	82
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843066	1473169347749	1473169347813	e	69
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843070	1473169348125	1473169348222	a	65
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843116	1473169348382	1473169348477	s	83
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843119	1473169348861	1473169348957	u	85
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843123	1473169349213	1473169349325	r	82
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843125	1473169349349	1473169349477	e	69
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843128	1473169349509	1473169349589	 	32
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843243	1473169349733	1473169349837	h	72
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843247	1473169349997	1473169350085	u	85
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843254	1473169350301	1473169350397	n	78
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843261	1473169350525	1473169350630	t	84
+89880	984476	Chad thought we were on a treasure hunt.	Chad thought we were on a treasure hunt.	46843268	1473169351574	1473169351654	.	190
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46843953	1473169363308	1473169363716	SHIFT	16
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46843947	1473169363524	1473169363620	I	73
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46843962	1473169364180	1473169364268	'	222
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46843968	1473169364532	1473169364612	m	77
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46843973	1473169364708	1473169364780	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46843977	1473169365076	1473169365156	n	78
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844010	1473169365244	1473169365340	o	79
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844012	1473169365524	1473169365612	t	84
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844014	1473169365684	1473169365756	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844021	1473169366196	1473169366292	c	67
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844025	1473169366340	1473169366419	l	76
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844083	1473169366500	1473169366580	o	79
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844086	1473169366988	1473169367068	s	83
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844088	1473169367140	1473169367251	e	69
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844091	1473169367299	1473169367387	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844095	1473169367716	1473169367819	e	69
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844219	1473169367876	1473169367947	n	78
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844223	1473169368261	1473169368356	o	79
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844227	1473169368932	1473169369012	u	85
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844232	1473169369100	1473169369173	h	72
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844237	1473169369948	1473169370036	BKSP	8
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844241	1473169370132	1473169370228	g	71
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844334	1473169370277	1473169370356	h	72
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844338	1473169370652	1473169370756	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844344	1473169371716	1473169371819	r	82
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844349	1473169371908	1473169371996	i	73
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844354	1473169372251	1473169372339	g	71
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844414	1473169372372	1473169372468	h	72
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844416	1473169372548	1473169372652	t	84
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844418	1473169372675	1473169372755	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844420	1473169372988	1473169373084	n	78
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844421	1473169373243	1473169373323	o	79
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844550	1473169374019	1473169374115	w	87
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844553	1473169374180	1473169374267	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844555	1473169375259	1473169375348	t	84
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844558	1473169375403	1473169375491	o	79
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844562	1473169375587	1473169375699	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844659	1473169375820	1473169375907	t	84
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844660	1473169375979	1473169376067	h	72
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844661	1473169377331	1473169377427	e	69
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844663	1473169377475	1473169377554	 	32
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844666	1473169378339	1473169378434	d	68
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844723	1473169378539	1473169378643	i	73
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844727	1473169378898	1473169378978	s	83
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844731	1473169379298	1473169379386	c	67
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844736	1473169379442	1473169379514	u	85
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844744	1473169379778	1473169379834	s	83
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844824	1473169379906	1473169379986	s	83
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844828	1473169380018	1473169380098	i	73
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844835	1473169380274	1473169380378	o	79
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844846	1473169380625	1473169380698	n	78
+89880	984502	I'm not close enough right now to the discussion.	I'm not close enough right now to the discussion.	46844853	1473169381194	1473169381290	.	190
+89880	984536	Good to know it exists.	Good to know it exists.	46845156	1473169384465	1473169384937	SHIFT	16
+89880	984536	Good to know it exists.	Good to know it exists.	46845155	1473169384809	1473169384881	G	71
+89880	984536	Good to know it exists.	Good to know it exists.	46845157	1473169385218	1473169385281	o	79
+89880	984536	Good to know it exists.	Good to know it exists.	46845159	1473169385345	1473169385433	o	79
+89880	984536	Good to know it exists.	Good to know it exists.	46845163	1473169385611	1473169385689	d	68
+89880	984536	Good to know it exists.	Good to know it exists.	46845166	1473169385739	1473169385818	 	32
+89880	984536	Good to know it exists.	Good to know it exists.	46845201	1473169386098	1473169386178	t	84
+89880	984536	Good to know it exists.	Good to know it exists.	46845203	1473169386227	1473169386314	o	79
+89880	984536	Good to know it exists.	Good to know it exists.	46845205	1473169386402	1473169386490	 	32
+89880	984536	Good to know it exists.	Good to know it exists.	46845207	1473169386778	1473169386874	k	75
+89880	984536	Good to know it exists.	Good to know it exists.	46845211	1473169386970	1473169387058	n	78
+89880	984536	Good to know it exists.	Good to know it exists.	46845266	1473169387202	1473169387306	o	79
+89880	984536	Good to know it exists.	Good to know it exists.	46845267	1473169387682	1473169387777	w	87
+89880	984536	Good to know it exists.	Good to know it exists.	46845268	1473169387866	1473169387922	 	32
+89880	984536	Good to know it exists.	Good to know it exists.	46845269	1473169388257	1473169388354	i	73
+89880	984536	Good to know it exists.	Good to know it exists.	46845270	1473169388410	1473169388490	t	84
+89880	984536	Good to know it exists.	Good to know it exists.	46845354	1473169388506	1473169388585	 	32
+89880	984536	Good to know it exists.	Good to know it exists.	46845357	1473169388865	1473169388937	e	69
+89880	984536	Good to know it exists.	Good to know it exists.	46845360	1473169389881	1473169389969	x	88
+89880	984536	Good to know it exists.	Good to know it exists.	46845363	1473169390114	1473169390193	i	73
+89880	984536	Good to know it exists.	Good to know it exists.	46845365	1473169390489	1473169390515	s	83
+89880	984536	Good to know it exists.	Good to know it exists.	46845494	1473169390738	1473169390835	t	84
+89880	984536	Good to know it exists.	Good to know it exists.	46845498	1473169391819	1473169391907	s	83
+89880	984536	Good to know it exists.	Good to know it exists.	46845502	1473169392131	1473169392227	.	190
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845680	1473169395491	1473169396162	SHIFT	16
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845676	1473169396018	1473169396107	T	84
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845684	1473169396498	1473169396594	h	72
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845687	1473169396618	1473169396698	e	69
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845691	1473169396730	1473169396809	 	32
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845696	1473169397130	1473169397210	a	65
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845753	1473169397698	1473169397778	v	86
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845756	1473169397810	1473169397906	i	73
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845761	1473169398010	1473169398122	a	65
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845765	1473169398634	1473169398738	t	84
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845769	1473169398810	1473169398897	i	73
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845809	1473169398985	1473169399081	o	79
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845813	1473169399338	1473169399417	n	78
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845817	1473169399473	1473169399585	 	32
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845822	1473169399778	1473169399873	c	67
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845827	1473169399922	1473169399993	o	79
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845889	1473169400153	1473169400225	l	76
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845893	1473169400306	1473169400385	l	76
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845900	1473169400484	1473169400569	e	69
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845906	1473169401081	1473169401185	g	71
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46845915	1473169401274	1473169401377	e	69
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846036	1473169402041	1473169402121	 	32
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846038	1473169403210	1473169403313	h	72
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846042	1473169403362	1473169403449	a	65
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846045	1473169403586	1473169403682	d	68
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846048	1473169403714	1473169403793	 	32
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846129	1473169403921	1473169404017	a	65
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846132	1473169404385	1473169404481	l	76
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846134	1473169404746	1473169404882	r	82
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846140	1473169404921	1473169405009	e	69
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846143	1473169405209	1473169405322	a	65
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846217	1473169405465	1473169405577	d	68
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846219	1473169405842	1473169405946	y	89
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846220	1473169406033	1473169406153	 	32
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846222	1473169407001	1473169407145	t	84
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846225	1473169407201	1473169407321	r	82
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846275	1473169407561	1473169407673	a	65
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846276	1473169407857	1473169407937	i	73
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846277	1473169408129	1473169408217	n	78
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846278	1473169408489	1473169408569	e	69
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846279	1473169408665	1473169408768	d	68
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846360	1473169408817	1473169408912	 	32
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846362	1473169409777	1473169409856	p	80
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846363	1473169410000	1473169410080	i	73
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846365	1473169410184	1473169410289	l	76
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846367	1473169410416	1473169410489	o	79
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846461	1473169410857	1473169410929	t	84
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846462	1473169411280	1473169411368	s	83
+89880	984549	The aviation college had already trained pilots.	The aviation college had already trained pilots.	46846465	1473169411768	1473169411864	.	190

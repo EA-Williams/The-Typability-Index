@@ -1,0 +1,785 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+94731	1037233	Weather is bad here.	Weather is bad here.	49332378	1473218224826	1473218225371	CAPS_LOCK	20
+94731	1037233	Weather is bad here.	Weather is bad here.	49332372	1473218225200	1473218225287	W	87
+94731	1037233	Weather is bad here.	Weather is bad here.	49332383	1473218225553	1473218225661	e	69
+94731	1037233	Weather is bad here.	Weather is bad here.	49332387	1473218225743	1473218225867	a	65
+94731	1037233	Weather is bad here.	Weather is bad here.	49332392	1473218225930	1473218226030	t	84
+94731	1037233	Weather is bad here.	Weather is bad here.	49332395	1473218226287	1473218226414	e	69
+94731	1037233	Weather is bad here.	Weather is bad here.	49332534	1473218227004	1473218227056	BKSP	8
+94731	1037233	Weather is bad here.	Weather is bad here.	49332537	1473218227490	1473218227621	h	72
+94731	1037233	Weather is bad here.	Weather is bad here.	49332541	1473218227687	1473218227839	e	69
+94731	1037233	Weather is bad here.	Weather is bad here.	49332544	1473218227956	1473218228080	r	82
+94731	1037233	Weather is bad here.	Weather is bad here.	49332547	1473218228339	1473218228443	 	32
+94731	1037233	Weather is bad here.	Weather is bad here.	49332550	1473218229119	1473218229247	i	73
+94731	1037233	Weather is bad here.	Weather is bad here.	49332566	1473218229249	1473218229399	s	83
+94731	1037233	Weather is bad here.	Weather is bad here.	49332567	1473218229421	1473218229501	 	32
+94731	1037233	Weather is bad here.	Weather is bad here.	49332568	1473218229655	1473218229743	b	66
+94731	1037233	Weather is bad here.	Weather is bad here.	49332569	1473218229780	1473218229912	a	65
+94731	1037233	Weather is bad here.	Weather is bad here.	49332570	1473218230013	1473218230141	s	83
+94731	1037233	Weather is bad here.	Weather is bad here.	49332613	1473218230498	1473218230630	BKSP	8
+94731	1037233	Weather is bad here.	Weather is bad here.	49332614	1473218230646	1473218230750	d	68
+94731	1037233	Weather is bad here.	Weather is bad here.	49332615	1473218230879	1473218230971	 	32
+94731	1037233	Weather is bad here.	Weather is bad here.	49332616	1473218231384	1473218231484	h	72
+94731	1037233	Weather is bad here.	Weather is bad here.	49332618	1473218231500	1473218231623	e	69
+94731	1037233	Weather is bad here.	Weather is bad here.	49332620	1473218231724	1473218231812	r	82
+94731	1037233	Weather is bad here.	Weather is bad here.	49332645	1473218231856	1473218231956	e	69
+94731	1037233	Weather is bad here.	Weather is bad here.	49332646	1473218232099	1473218232183	.	190
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332766	1473218234785	1473218235119	CAPS_LOCK	20
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332765	1473218235004	1473218235092	L	76
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332767	1473218235342	1473218235465	e	69
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332770	1473218235477	1473218235573	t	84
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332774	1473218235689	1473218235781	 	32
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332776	1473218235928	1473218236039	m	77
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332813	1473218236031	1473218236148	e	69
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332816	1473218236190	1473218236270	 	32
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332820	1473218236572	1473218236684	k	75
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332825	1473218236771	1473218236859	n	78
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332829	1473218236935	1473218237039	o	79
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332832	1473218237040	1473218237147	w	87
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332890	1473218237247	1473218237331	 	32
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332895	1473218237752	1473218237851	i	73
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332899	1473218237987	1473218238087	f	70
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332903	1473218238117	1473218238209	 	32
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332907	1473218238627	1473218238743	y	89
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332937	1473218238909	1473218239025	o	79
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332940	1473218239108	1473218239192	u	85
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332944	1473218239309	1473218239405	 	32
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332948	1473218239474	1473218239558	n	78
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332955	1473218239570	1473218239666	e	69
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332964	1473218239761	1473218239885	e	69
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332967	1473218239911	1473218240035	d	68
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332971	1473218240058	1473218240146	 	32
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332975	1473218240329	1473218240413	a	65
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332979	1473218240445	1473218240537	n	78
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332992	1473218240644	1473218240728	y	89
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332993	1473218240886	1473218240966	t	84
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332994	1473218241074	1473218241154	h	72
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332995	1473218241252	1473218241328	i	73
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49332996	1473218241430	1473218241510	n	78
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49333025	1473218241632	1473218241708	g	71
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49333027	1473218241827	1473218241907	 	32
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49333029	1473218242167	1473218242287	e	69
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49333031	1473218242287	1473218242387	l	76
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49333033	1473218242525	1473218242697	s	83
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49333040	1473218242762	1473218242886	e	69
+94731	1037240	Let me know if you need anything else.	Let me know if you need anything else.	49333041	1473218242944	1473218243048	.	190
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333183	1473218245113	1473218245676	CAPS_LOCK	20
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333182	1473218245518	1473218245601	E	69
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333187	1473218245828	1473218245908	x	88
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333189	1473218247806	1473218247925	p	80
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333192	1473218247977	1473218248096	e	69
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333196	1473218248192	1473218248307	c	67
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333235	1473218248365	1473218248452	t	84
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333239	1473218248575	1473218248662	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333242	1473218248808	1473218248891	h	72
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333245	1473218248990	1473218249077	i	73
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333247	1473218249179	1473218249254	m	77
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333292	1473218249366	1473218249449	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333296	1473218249614	1473218249693	t	84
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333299	1473218250679	1473218250794	o	79
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333302	1473218250911	1473218250994	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333304	1473218251100	1473218251219	p	80
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333317	1473218251221	1473218251356	r	82
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333320	1473218251396	1473218251483	o	79
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333325	1473218251604	1473218251735	d	68
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333327	1473218251836	1473218251931	u	85
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333330	1473218252033	1473218252176	c	67
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333350	1473218252224	1473218252359	e	69
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333352	1473218252448	1473218252527	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333354	1473218252790	1473218252873	g	71
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333356	1473218252997	1473218253088	o	79
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333357	1473218253162	1473218253237	o	79
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333406	1473218253269	1473218253372	d	68
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333407	1473218253440	1473218253523	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333409	1473218254184	1473218254299	n	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333411	1473218254385	1473218254464	u	85
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333415	1473218255144	1473218255259	m	77
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333442	1473218255441	1473218255528	b	66
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333444	1473218255556	1473218255691	e	69
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333446	1473218255740	1473218255879	r	82
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333447	1473218255993	1473218256152	s	83
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333449	1473218256183	1473218256266	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333493	1473218256296	1473218256411	a	65
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333495	1473218256623	1473218256714	g	71
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333498	1473218256797	1473218256912	a	65
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333500	1473218257128	1473218257231	i	73
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333502	1473218257340	1473218257419	n	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333621	1473218257468	1473218257591	s	83
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333626	1473218257674	1473218257753	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333642	1473218257910	1473218260300	CAPS_LOCK	20
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333629	1473218258557	1473218258712	BKSP	8
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333632	1473218259232	1473218259327	T	84
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333635	1473218259556	1473218259631	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333638	1473218259911	1473218260004	BKSP	8
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333640	1473218260078	1473218260165	BKSP	8
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333643	1473218260599	1473218260677	t	84
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333872	1473218260987	1473218261389	CAPS_LOCK	20
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333870	1473218261083	1473218261162	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333873	1473218261646	1473218261717	n	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333876	1473218261928	1473218262621	CAPS_LOCK	20
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333875	1473218262302	1473218262418	BKSP	8
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333878	1473218262788	1473218262851	n	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333882	1473218263075	1473218264547	CAPS_LOCK	20
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333880	1473218264292	1473218264419	BKSP	8
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333884	1473218264976	1473218265071	n	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333886	1473218265809	1473218265953	BKSP	8
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333951	1473218266517	1473218266894	CAPS_LOCK	20
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333888	1473218266665	1473218266765	N	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333954	1473218267233	1473218267356	w	87
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333958	1473218268236	1473218268398	BKSP	8
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333963	1473218268611	1473218268723	e	69
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333967	1473218268838	1473218268934	w	87
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333970	1473218268988	1473218269083	 	32
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333997	1473218269265	1473218269691	CAPS_LOCK	20
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333972	1473218269530	1473218269626	E	69
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49333999	1473218269868	1473218269964	n	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49334001	1473218270085	1473218270161	g	71
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49334004	1473218270323	1473218270411	l	76
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49334007	1473218270415	1473218270535	a	65
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49334011	1473218270597	1473218270697	n	78
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49334037	1473218270705	1473218270805	d	68
+94731	1037249	Expect him to produce good numbers against New England.	Expect him to produce good numbers against New England.	49334040	1473218271559	1473218271635	.	190
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334154	1473218273724	1473218274505	CAPS_LOCK	20
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334151	1473218274348	1473218274432	P	80
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334159	1473218274708	1473218274800	l	76
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334164	1473218274892	1473218275024	e	69
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334170	1473218275128	1473218275280	a	65
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334175	1473218275333	1473218275477	s	83
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334198	1473218275525	1473218275649	e	69
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334200	1473218275633	1473218275724	 	32
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334202	1473218275862	1473218275954	c	67
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334204	1473218276015	1473218276127	a	65
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334207	1473218276163	1473218276247	l	76
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334222	1473218276330	1473218276402	l	76
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334223	1473218276499	1473218276587	 	32
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334225	1473218276660	1473218276748	m	77
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334226	1473218276752	1473218276856	e	69
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334228	1473218276904	1473218276992	 	32
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334242	1473218277155	1473218277263	i	73
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334245	1473218277394	1473218277521	f	70
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334253	1473218277555	1473218277635	 	32
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334262	1473218277748	1473218277836	y	89
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334271	1473218277981	1473218278088	o	79
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334340	1473218278199	1473218278267	u	85
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334341	1473218278571	1473218278655	 	32
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334343	1473218278773	1473218278805	a	65
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334346	1473218279230	1473218279354	BKSP	8
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334349	1473218279532	1473218279616	h	72
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334353	1473218279679	1473218279807	a	65
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334379	1473218280245	1473218280333	v	86
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334384	1473218280374	1473218280478	e	69
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334387	1473218280520	1473218280608	 	32
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334391	1473218280634	1473218280746	a	65
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334396	1473218280762	1473218280870	n	78
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334424	1473218280954	1473218281042	y	89
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334425	1473218281156	1473218281240	 	32
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334427	1473218281369	1473218281469	a	65
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334429	1473218281741	1473218281861	BKSP	8
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334431	1473218281895	1473218282007	q	81
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334433	1473218282049	1473218282137	u	85
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334490	1473218282196	1473218282320	e	69
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334491	1473218282409	1473218282509	s	83
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334492	1473218283317	1473218283397	t	84
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334493	1473218283572	1473218283656	i	73
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334495	1473218283765	1473218283845	o	79
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334506	1473218283934	1473218284014	n	78
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334508	1473218284068	1473218284171	s	83
+94731	1037272	Please call me if you have any questions.	Please call me if you have any questions.	49334514	1473218284211	1473218284275	.	190
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334622	1473218286441	1473218286919	CAPS_LOCK	20
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334620	1473218286710	1473218286814	W	87
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334624	1473218287150	1473218287254	i	73
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334626	1473218287392	1473218287468	l	76
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334630	1473218287540	1473218287608	l	76
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334636	1473218287710	1473218287790	 	32
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334663	1473218287962	1473218288054	g	71
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334666	1473218288148	1473218288224	i	73
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334668	1473218288334	1473218288418	v	86
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334670	1473218288458	1473218288550	e	69
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334672	1473218288583	1473218288683	 	32
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334694	1473218288834	1473218288929	y	89
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334698	1473218289072	1473218289172	o	79
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334699	1473218289253	1473218289329	u	85
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334701	1473218289444	1473218289528	 	32
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334702	1473218289649	1473218289749	m	77
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334715	1473218289815	1473218289902	o	79
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334716	1473218289944	1473218290072	r	82
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334719	1473218290116	1473218290240	e	69
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334722	1473218290274	1473218290364	 	32
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334757	1473218290362	1473218290481	s	83
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334759	1473218290512	1473218290591	h	72
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334761	1473218290695	1473218290802	o	79
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334762	1473218291243	1473218291355	r	82
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334763	1473218291450	1473218291542	t	84
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334764	1473218291964	1473218292043	l	76
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334781	1473218292211	1473218292290	y	89
+94731	1037278	Will give you more shortly.	Will give you more shortly.	49334782	1473218292544	1473218292616	.	190
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334928	1473218294762	1473218295285	CAPS_LOCK	20
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334925	1473218295164	1473218295243	H	72
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334934	1473218295520	1473218295631	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334938	1473218296047	1473218296126	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334941	1473218296343	1473218296756	CAPS_LOCK	20
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334943	1473218296943	1473218297042	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334946	1473218297245	1473218297304	x	88
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334971	1473218297578	1473218297694	t	84
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334972	1473218297759	1473218297878	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334974	1473218297959	1473218298058	n	78
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334978	1473218298131	1473218298250	d	68
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49334980	1473218298306	1473218298457	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335017	1473218298764	1473218298879	d	68
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335018	1473218298994	1473218299073	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335022	1473218299209	1473218299460	CAPS_LOCK	20
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335020	1473218299340	1473218299419	F	70
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335024	1473218299622	1473218299708	r	82
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335026	1473218299824	1473218299951	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335063	1473218300399	1473218300546	u	85
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335066	1473218300769	1473218300892	d	68
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335068	1473218300950	1473218301053	i	73
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335070	1473218301102	1473218301217	a	65
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335072	1473218301364	1473218301451	n	78
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335137	1473218301565	1473218301648	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335139	1473218301883	1473218302127	CAPS_LOCK	20
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335142	1473218302297	1473218302380	t	84
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335145	1473218302495	1473218302586	h	72
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335148	1473218302623	1473218302730	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335153	1473218303066	1473218303189	o	79
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335196	1473218303421	1473218303540	r	82
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335198	1473218303642	1473218303753	y	89
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335199	1473218303884	1473218303971	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335200	1473218304101	1473218304188	i	73
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335201	1473218304456	1473218304543	n	78
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335239	1473218304678	1473218304845	t	84
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335241	1473218304826	1473218304905	o	79
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335245	1473218305014	1473218305105	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335247	1473218305149	1473218305288	a	65
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335250	1473218305412	1473218305527	d	68
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335300	1473218305647	1473218305738	o	79
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335301	1473218305858	1473218305945	l	76
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335302	1473218305999	1473218306122	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335303	1473218306510	1473218306645	s	83
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335305	1473218307064	1473218307183	c	67
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335322	1473218307245	1473218307360	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335324	1473218307377	1473218307456	n	78
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335327	1473218307579	1473218307710	s	83
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335329	1473218307787	1473218307902	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335331	1473218307941	1473218308024	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335379	1473218308299	1473218308394	=	187
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335382	1473218308497	1473218308572	=	187
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335384	1473218308803	1473218308903	BKSP	8
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335386	1473218308974	1473218309050	BKSP	8
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335388	1473218309102	1473218309170	BKSP	8
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335390	1473218309233	1473218309317	BKSP	8
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335393	1473218309397	1473218309481	BKSP	8
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335396	1473218309582	1473218309693	c	67
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335399	1473218309792	1473218309939	e	69
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335402	1473218309993	1473218310080	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335420	1473218310210	1473218310349	a	65
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335422	1473218310353	1473218310429	n	78
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335424	1473218310528	1473218310623	d	68
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335426	1473218310697	1473218310776	 	32
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335428	1473218311109	1473218311224	a	65
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335447	1473218311501	1473218311608	d	68
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335449	1473218311657	1473218311748	u	85
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335451	1473218311942	1473218312029	t	84
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335454	1473218312647	1473218312739	l	76
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335457	1473218312940	1473218313020	h	72
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335484	1473218313122	1473218313198	o	79
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335486	1473218313279	1473218313347	o	79
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335487	1473218313381	1473218313497	d	68
+94731	1037286	He extended Freudian theory into adolescence and adulthood.	He extended Freudian theory into adolescence and adutlhood.	49335489	1473218313675	1473218313709	.	190
+94731	1037298	I think I'm OK.	I think I'm OK.	49335669	1473218317398	1473218317868	CAPS_LOCK	20
+94731	1037298	I think I'm OK.	I think I'm OK.	49335667	1473218317730	1473218317818	I	73
+94731	1037298	I think I'm OK.	I think I'm OK.	49335672	1473218318036	1473218318120	 	32
+94731	1037298	I think I'm OK.	I think I'm OK.	49335675	1473218318268	1473218318356	t	84
+94731	1037298	I think I'm OK.	I think I'm OK.	49335679	1473218318829	1473218318913	h	72
+94731	1037298	I think I'm OK.	I think I'm OK.	49335682	1473218319054	1473218319146	i	73
+94731	1037298	I think I'm OK.	I think I'm OK.	49335744	1473218319257	1473218319341	n	78
+94731	1037298	I think I'm OK.	I think I'm OK.	49335746	1473218319937	1473218320149	k	75
+94731	1037298	I think I'm OK.	I think I'm OK.	49335748	1473218320320	1473218320420	 	32
+94731	1037298	I think I'm OK.	I think I'm OK.	49335750	1473218320587	1473218320813	CAPS_LOCK	20
+94731	1037298	I think I'm OK.	I think I'm OK.	49335749	1473218320634	1473218320718	I	73
+94731	1037298	I think I'm OK.	I think I'm OK.	49335752	1473218321395	1473218321471	'	222
+94731	1037298	I think I'm OK.	I think I'm OK.	49335802	1473218321676	1473218321755	m	77
+94731	1037298	I think I'm OK.	I think I'm OK.	49335803	1473218321969	1473218322045	 	32
+94731	1037298	I think I'm OK.	I think I'm OK.	49335804	1473218322516	1473218322632	o	79
+94731	1037298	I think I'm OK.	I think I'm OK.	49335805	1473218323078	1473218323182	BKSP	8
+94731	1037298	I think I'm OK.	I think I'm OK.	49335806	1473218323397	1473218323481	O	79
+94731	1037298	I think I'm OK.	I think I'm OK.	49335807	1473218323673	1473218323741	K	75
+94731	1037298	I think I'm OK.	I think I'm OK.	49335816	1473218324121	1473218324221	.	190
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49335988	1473218326908	1473218327004	h	72
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49335990	1473218327182	1473218328245	CAPS_LOCK	20
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49335989	1473218328018	1473218328161	BKSP	8
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49335991	1473218328415	1473218328506	h	72
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49335997	1473218328656	1473218329902	CAPS_LOCK	20
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49335992	1473218329129	1473218329252	BKSP	8
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49335994	1473218329645	1473218329737	H	72
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336002	1473218330314	1473218330430	e	69
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336005	1473218330545	1473218330629	 	32
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336033	1473218330995	1473218331111	w	87
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336035	1473218331237	1473218331365	a	65
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336037	1473218331428	1473218331532	s	83
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336040	1473218331559	1473218331651	 	32
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336043	1473218331819	1473218331931	i	73
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336091	1473218332005	1473218332089	n	78
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336093	1473218332176	1473218332260	 	32
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336095	1473218332394	1473218332482	g	71
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336096	1473218332585	1473218332709	e	69
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336097	1473218333112	1473218333231	BKSP	8
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336098	1473218333236	1473218333352	r	82
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336161	1473218333607	1473218333763	a	65
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336163	1473218333897	1473218333993	t	84
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336168	1473218334443	1473218334555	BKSP	8
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336174	1473218334626	1473218334717	BKSP	8
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336179	1473218334686	1473218334802	e	69
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336181	1473218335232	1473218335372	a	65
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336184	1473218335483	1473218335614	t	84
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336226	1473218335780	1473218335867	 	32
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336228	1473218336435	1473218336570	s	83
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336230	1473218336611	1473218336695	h	72
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336234	1473218336757	1473218336885	a	65
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336236	1473218337025	1473218337173	p	80
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336264	1473218337222	1473218337329	e	69
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336267	1473218337370	1473218337453	 	32
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336269	1473218337564	1473218337655	l	76
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336273	1473218337668	1473218337791	a	65
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336277	1473218337808	1473218337940	s	83
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336310	1473218337960	1473218338028	r	82
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336313	1473218338167	1473218338254	 	32
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336316	1473218338595	1473218338686	BKSP	8
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336318	1473218338770	1473218338858	BKSP	8
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336320	1473218338893	1473218339025	t	84
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336323	1473218339078	1473218339169	 	32
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336326	1473218339286	1473218339337	n	78
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336376	1473218339432	1473218339479	i	73
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336378	1473218340093	1473218340196	g	71
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336379	1473218340244	1473218340335	h	72
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336380	1473218340464	1473218340539	t	84
+94731	1037304	He was in great shape last night.	He was in great shape last night.	49336382	1473218341016	1473218341079	.	190
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336460	1473218343450	1473218343918	CAPS_LOCK	20
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336458	1473218343717	1473218343840	S	83
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336462	1473218344086	1473218344201	o	79
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336466	1473218344299	1473218344386	m	77
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336470	1473218344416	1473218344527	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336476	1473218344628	1473218344707	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336489	1473218344818	1473218344901	m	77
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336491	1473218344979	1473218345094	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336493	1473218345218	1473218345289	m	77
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336496	1473218345523	1473218345614	b	66
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336499	1473218345660	1473218345799	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336523	1473218345823	1473218345969	r	82
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336526	1473218346113	1473218346236	s	83
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336528	1473218346287	1473218346378	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336532	1473218346489	1473218346596	o	79
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336533	1473218346696	1473218346819	f	70
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336541	1473218346875	1473218346962	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336544	1473218347073	1473218347168	t	84
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336547	1473218347263	1473218347342	h	72
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336549	1473218347327	1473218347434	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336551	1473218347469	1473218347560	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336627	1473218347585	1473218347700	c	67
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336631	1473218348689	1473218348748	p	80
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336634	1473218349337	1473218349460	BKSP	8
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336639	1473218350081	1473218350156	o	79
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336641	1473218350354	1473218350433	u	85
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336643	1473218350575	1473218350646	n	78
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336688	1473218351152	1473218351276	c	67
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336691	1473218351300	1473218351394	i	73
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336694	1473218351624	1473218351731	l	76
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336698	1473218351877	1473218351944	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336701	1473218352090	1473218352214	r	82
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336772	1473218352247	1473218352395	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336773	1473218353522	1473218353633	f	70
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336774	1473218353650	1473218353749	u	85
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336775	1473218354061	1473218354276	s	83
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336776	1473218354315	1473218354438	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336799	1473218354427	1473218354527	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336801	1473218354971	1473218355038	t	84
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336803	1473218355027	1473218355126	o	79
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336805	1473218355264	1473218355331	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336807	1473218355391	1473218355518	r	82
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336809	1473218355589	1473218355708	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336836	1473218355929	1473218356088	c	67
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336839	1473218356258	1473218356374	o	79
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336844	1473218356665	1473218356745	g	71
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336848	1473218356878	1473218356969	n	78
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336852	1473218357044	1473218357131	i	73
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336881	1473218357235	1473218357418	z	90
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336884	1473218357540	1473218357672	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336887	1473218357710	1473218357805	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336888	1473218357944	1473218358039	t	84
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336890	1473218358136	1473218358223	h	72
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336906	1473218358221	1473218358332	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336908	1473218358353	1473218358437	 	32
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336910	1473218358593	1473218358700	p	80
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336912	1473218358713	1473218358808	r	82
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336914	1473218358872	1473218358955	o	79
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336917	1473218359154	1473218359233	g	71
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336949	1473218359377	1473218359501	r	82
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336953	1473218359566	1473218359682	e	69
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336955	1473218359818	1473218359926	s	83
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336957	1473218359997	1473218360088	s	83
+94731	1037315	Some members of the council refuse to recognize the progress.	Some members of the council refuse to recognize the progress.	49336959	1473218360263	1473218360371	.	190
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337091	1473218362330	1473218362793	CAPS_LOCK	20
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337088	1473218362555	1473218362670	W	87
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337094	1473218363162	1473218363286	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337096	1473218363976	1473218364048	'	222
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337098	1473218364314	1473218364402	v	86
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337101	1473218364418	1473218364530	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337167	1473218364583	1473218364675	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337170	1473218364961	1473218365088	p	80
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337172	1473218365207	1473218365307	r	82
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337177	1473218366133	1473218366297	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337181	1473218366485	1473218366589	u	85
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337185	1473218366670	1473218366790	r	82
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337218	1473218366960	1473218367108	s	83
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337220	1473218367279	1473218367367	u	85
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337222	1473218367425	1473218367565	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337225	1473218367632	1473218367744	d	68
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337229	1473218367855	1473218367939	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337258	1473218368240	1473218368364	o	79
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337261	1473218368550	1473218368638	t	84
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337265	1473218368731	1473218368815	h	72
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337267	1473218368795	1473218368907	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337269	1473218368966	1473218369041	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337322	1473218369150	1473218369254	o	79
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337323	1473218369587	1473218369683	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337324	1473218369752	1473218369852	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337325	1473218369968	1473218370048	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337326	1473218370094	1473218370190	r	82
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337327	1473218370323	1473218370411	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337328	1473218370659	1473218370751	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337332	1473218370820	1473218370912	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337335	1473218370920	1473218371048	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337339	1473218371102	1473218371214	r	82
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337375	1473218371231	1473218371319	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337379	1473218371814	1473218371899	o	79
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337385	1473218372024	1473218372108	p	80
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337390	1473218372371	1473218372455	t	84
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337394	1473218372612	1473218372696	i	73
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337410	1473218372793	1473218372873	o	79
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337414	1473218372961	1473218373037	n	78
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337418	1473218373065	1473218373181	s	83
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337422	1473218373261	1473218373341	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337426	1473218373393	1473218373513	a	65
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337440	1473218373521	1473218373609	n	78
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337441	1473218373662	1473218373786	d	68
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337443	1473218373812	1473218373896	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337445	1473218374059	1473218374207	a	65
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337447	1473218374254	1473218374370	s	83
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337466	1473218374436	1473218374516	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337467	1473218374546	1473218374662	a	65
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337468	1473218374690	1473218374774	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337469	1473218374944	1473218375040	l	76
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337470	1473218375327	1473218375439	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337471	1473218375443	1473218375547	r	82
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337511	1473218375589	1473218375737	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337513	1473218375836	1473218375972	s	83
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337517	1473218376047	1473218376131	u	85
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337520	1473218376252	1473218376344	l	76
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337523	1473218376570	1473218376662	t	84
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337612	1473218376809	1473218376893	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337615	1473218377162	1473218377310	w	87
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337619	1473218377619	1473218377731	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337622	1473218378178	1473218378238	/	191
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337624	1473218378620	1473218378724	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337626	1473218378891	1473218378951	'	222
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337669	1473218379237	1473218379317	v	86
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337672	1473218379360	1473218379444	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337675	1473218379548	1473218379624	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337677	1473218380003	1473218380127	m	77
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337679	1473218380143	1473218380267	a	65
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337694	1473218380315	1473218380383	i	73
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337696	1473218380656	1473218380751	BKSP	8
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337700	1473218380744	1473218380860	d	68
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337705	1473218380929	1473218381041	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337709	1473218381081	1473218381169	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337712	1473218381476	1473218381614	s	83
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337734	1473218381612	1473218381692	o	79
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337735	1473218381778	1473218381866	m	77
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337737	1473218381895	1473218382003	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337739	1473218382053	1473218382145	p	80
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337741	1473218382211	1473218382343	r	82
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337743	1473218382406	1473218382486	o	79
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337808	1473218382835	1473218382918	g	71
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337810	1473218383154	1473218383273	r	82
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337812	1473218383385	1473218383505	e	69
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337815	1473218383670	1473218383798	s	83
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337820	1473218383885	1473218383992	s	83
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337945	1473218385642	1473218385725	 	32
+94731	1037328	We've pursued other options and as a result we've made some progress.	We've pursued other options and as a result we've made some progress.	49337948	1473218387191	1473218387253	.	190
+94731	1037348	What number should he call you on?	What number should he call you?	49338097	1473218389639	1473218390114	CAPS_LOCK	20
+94731	1037348	What number should he call you on?	What number should he call you?	49338094	1473218389903	1473218390034	W	87
+94731	1037348	What number should he call you on?	What number should he call you?	49338100	1473218390290	1473218390401	g	71
+94731	1037348	What number should he call you on?	What number should he call you?	49338102	1473218390597	1473218390728	a	65
+94731	1037348	What number should he call you on?	What number should he call you?	49338104	1473218391124	1473218391259	BKSP	8
+94731	1037348	What number should he call you on?	What number should he call you?	49338105	1473218391311	1473218391399	BKSP	8
+94731	1037348	What number should he call you on?	What number should he call you?	49338106	1473218391548	1473218391635	h	72
+94731	1037348	What number should he call you on?	What number should he call you?	49338107	1473218391678	1473218391769	a	65
+94731	1037348	What number should he call you on?	What number should he call you?	49338132	1473218391806	1473218391889	t	84
+94731	1037348	What number should he call you on?	What number should he call you?	49338135	1473218391975	1473218392058	 	32
+94731	1037348	What number should he call you on?	What number should he call you?	49338137	1473218392181	1473218392280	n	78
+94731	1037348	What number should he call you on?	What number should he call you?	49338142	1473218392418	1473218392440	u	85
+94731	1037348	What number should he call you on?	What number should he call you?	49338148	1473218392553	1473218392644	n	78
+94731	1037348	What number should he call you on?	What number should he call you?	49338211	1473218392779	1473218392850	b	66
+94731	1037348	What number should he call you on?	What number should he call you?	49338213	1473218392888	1473218393015	e	69
+94731	1037348	What number should he call you on?	What number should he call you?	49338215	1473218393241	1473218393328	BKSP	8
+94731	1037348	What number should he call you on?	What number should he call you?	49338217	1473218393411	1473218393470	BKSP	8
+94731	1037348	What number should he call you on?	What number should he call you?	49338219	1473218393536	1473218393603	BKSP	8
+94731	1037348	What number should he call you on?	What number should he call you?	49338222	1473218393796	1473218393875	m	77
+94731	1037348	What number should he call you on?	What number should he call you?	49338225	1473218394017	1473218394088	b	66
+94731	1037348	What number should he call you on?	What number should he call you?	49338229	1473218394127	1473218394266	e	69
+94731	1037348	What number should he call you on?	What number should he call you?	49338247	1473218394312	1473218394452	r	82
+94731	1037348	What number should he call you on?	What number should he call you?	49338249	1473218394444	1473218394523	 	32
+94731	1037348	What number should he call you on?	What number should he call you?	49338251	1473218394574	1473218394697	s	83
+94731	1037348	What number should he call you on?	What number should he call you?	49338253	1473218394844	1473218394931	h	72
+94731	1037348	What number should he call you on?	What number should he call you?	49338256	1473218395249	1473218395296	u	85
+94731	1037348	What number should he call you on?	What number should he call you?	49338329	1473218395727	1473218395850	BKSP	8
+94731	1037348	What number should he call you on?	What number should he call you?	49338331	1473218396025	1473218396136	o	79
+94731	1037348	What number should he call you on?	What number should he call you?	49338333	1473218396255	1473218396342	u	85
+94731	1037348	What number should he call you on?	What number should he call you?	49338335	1473218396473	1473218396564	l	76
+94731	1037348	What number should he call you on?	What number should he call you?	49338337	1473218396593	1473218396712	d	68
+94731	1037348	What number should he call you on?	What number should he call you?	49338341	1473218396761	1473218396856	 	32
+94731	1037348	What number should he call you on?	What number should he call you?	49338374	1473218397043	1473218397130	h	72
+94731	1037348	What number should he call you on?	What number should he call you?	49338375	1473218397172	1473218397283	e	69
+94731	1037348	What number should he call you on?	What number should he call you?	49338376	1473218397344	1473218397423	 	32
+94731	1037348	What number should he call you on?	What number should he call you?	49338377	1473218397637	1473218397716	c	67
+94731	1037348	What number should he call you on?	What number should he call you?	49338378	1473218397735	1473218397854	a	65
+94731	1037348	What number should he call you on?	What number should he call you?	49338443	1473218398321	1473218398416	l	76
+94731	1037348	What number should he call you on?	What number should he call you?	49338446	1473218398486	1473218398569	l	76
+94731	1037348	What number should he call you on?	What number should he call you?	49338449	1473218398683	1473218398774	 	32
+94731	1037348	What number should he call you on?	What number should he call you?	49338453	1473218399201	1473218399296	y	89
+94731	1037348	What number should he call you on?	What number should he call you?	49338457	1473218399411	1473218399526	o	79
+94731	1037348	What number should he call you on?	What number should he call you?	49338497	1473218399576	1473218399655	u	85
+94731	1037348	What number should he call you on?	What number should he call you?	49338501	1473218399848	1473218400140	SHIFT	16
+94731	1037348	What number should he call you on?	What number should he call you?	49338504	1473218400040	1473218400192	?	191
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338671	1473218402711	1473218403241	CAPS_LOCK	20
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338669	1473218403011	1473218403078	I	73
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338674	1473218403454	1473218403537	t	84
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338675	1473218404163	1473218404250	'	222
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338676	1473218404297	1473218404416	s	83
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338677	1473218404499	1473218404578	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338699	1473218404689	1473218404801	a	65
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338701	1473218404889	1473218404972	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338703	1473218405088	1473218405191	s	83
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338706	1473218405291	1473218405379	h	72
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338709	1473218405442	1473218405554	a	65
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338736	1473218405722	1473218405833	m	77
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338739	1473218405877	1473218405965	e	69
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338742	1473218406061	1473218406132	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338746	1473218406456	1473218406543	t	84
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338749	1473218406726	1473218406765	o	79
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338771	1473218406863	1473218406958	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338775	1473218407029	1473218407117	h	72
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338778	1473218407188	1473218407312	a	65
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338781	1473218407546	1473218407622	v	86
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338783	1473218407689	1473218407757	v	86
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338811	1473218408149	1473218408277	BKSP	8
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338813	1473218408323	1473218408434	e	69
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338816	1473218408465	1473218408573	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338819	1473218409090	1473218409220	t	84
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338822	1473218409219	1473218409306	o	79
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338825	1473218409418	1473218409506	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338856	1473218409585	1473218409653	m	77
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338858	1473218409845	1473218409933	i	73
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338860	1473218409958	1473218410058	s	83
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338861	1473218410151	1473218410234	s	83
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338862	1473218410329	1473218410413	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338898	1473218410991	1473218411127	o	79
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338901	1473218411198	1473218411296	n	78
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338906	1473218411294	1473218411390	e	69
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338908	1473218411416	1473218411500	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338912	1473218411626	1473218411726	o	79
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338949	1473218411785	1473218411897	r	82
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338953	1473218411898	1473218411985	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338956	1473218412106	1473218412198	t	84
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338959	1473218412305	1473218412385	h	72
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338962	1473218412389	1473218412505	e	69
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49338999	1473218412521	1473218412605	 	32
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339000	1473218412842	1473218412862	p	80
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339001	1473218413695	1473218413827	BKSP	8
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339002	1473218413945	1473218414037	o	79
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339003	1473218414225	1473218414300	t	84
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339004	1473218414401	1473218414487	h	72
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339018	1473218414481	1473218414605	e	69
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339020	1473218414643	1473218414755	r	82
+94731	1037358	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	49339021	1473218414786	1473218414882	.	190
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339250	1473218419190	1473218419919	CAPS_LOCK	20
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339249	1473218419491	1473218419534	S	83
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339251	1473218420111	1473218420298	p	80
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339253	1473218420404	1473218420515	o	79
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339255	1473218420924	1473218420983	t	84
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339257	1473218421406	1473218421552	BKSP	8
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339310	1473218421526	1473218421625	r	82
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339312	1473218421761	1473218421868	t	84
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339316	1473218421939	1473218422074	s	83
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339318	1473218422159	1473218422242	 	32
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339320	1473218422694	1473218422781	f	70
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339322	1473218422801	1473218422908	a	65
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339353	1473218422964	1473218423063	n	78
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339356	1473218423302	1473218423405	s	83
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339360	1473218423526	1473218423609	 	32
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339363	1473218423971	1473218424046	h	72
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339366	1473218424123	1473218424250	e	69
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339390	1473218424339	1473218424434	r	82
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339392	1473218424465	1473218424572	e	69
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339397	1473218424650	1473218424741	 	32
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339403	1473218424950	1473218425097	a	65
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339405	1473218425173	1473218425276	r	82
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339442	1473218425363	1473218425458	e	69
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339444	1473218425494	1473218425577	 	32
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339448	1473218425702	1473218425797	e	69
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339453	1473218426023	1473218426154	x	88
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339456	1473218426212	1473218426303	i	73
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339520	1473218426660	1473218426783	e	69
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339525	1473218427131	1473218427287	BKSP	8
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339529	1473218427353	1473218427480	t	84
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339532	1473218427524	1473218427695	e	69
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339533	1473218427762	1473218427913	d	68
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339534	1473218428408	1473218428483	.	190
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339608	1473218429704	1473218429811	ARW_LEFT	37
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339611	1473218429892	1473218429968	ARW_LEFT	37
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339614	1473218430048	1473218430108	ARW_LEFT	37
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339616	1473218430177	1473218430257	ARW_LEFT	37
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339618	1473218430345	1473218430421	ARW_LEFT	37
+94731	1037368	Sports fans here are excited.	Sports fans here are excited.	49339620	1473218430862	1473218430954	c	67
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339752	1473218434274	1473218434551	CAPS_LOCK	20
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339751	1473218434405	1473218434477	H	72
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339754	1473218434802	1473218434936	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339758	1473218435237	1473218435329	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339763	1473218435486	1473218435603	p	80
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339767	1473218435669	1473218435756	l	76
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339820	1473218435774	1473218435910	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339823	1473218436019	1473218436171	a	65
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339826	1473218436693	1473218436821	d	68
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339828	1473218436911	1473218437040	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339830	1473218437137	1473218437265	s	83
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339867	1473218437328	1473218437417	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339869	1473218437600	1473218437684	h	72
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339871	1473218438015	1473218438091	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339873	1473218438186	1473218438302	g	71
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339876	1473218438372	1473218438452	u	85
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339879	1473218438569	1473218438649	i	73
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339918	1473218439094	1473218439198	l	76
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339919	1473218439521	1473218439637	t	84
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339920	1473218439798	1473218439886	y	89
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339921	1473218440015	1473218440115	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339922	1473218440238	1473218440334	i	73
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339978	1473218440435	1473218440515	n	78
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339984	1473218440621	1473218440689	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339992	1473218440807	1473218441093	CAPS_LOCK	20
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339988	1473218440943	1473218440998	F	70
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339993	1473218441641	1473218441765	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49339996	1473218442063	1473218442178	b	66
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340028	1473218442244	1473218442371	r	82
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340029	1473218442389	1473218442505	y	89
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340030	1473218442606	1473218442748	a	65
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340032	1473218443083	1473218443187	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340034	1473218443259	1473218443347	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340035	1473218443516	1473218443608	u	85
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340036	1473218443643	1473218443763	a	65
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340063	1473218444117	1473218444245	r	82
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340065	1473218444352	1473218444468	y	89
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340066	1473218444613	1473218444705	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340067	1473218445022	1473218445110	u	85
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340068	1473218445193	1473218445281	n	78
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340083	1473218445334	1473218445442	d	68
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340085	1473218445497	1473218445653	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340087	1473218445697	1473218445837	r	82
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340090	1473218445801	1473218445893	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340093	1473218445982	1473218446102	a	65
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340177	1473218446149	1473218446237	n	78
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340179	1473218446468	1473218446524	d	68
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340182	1473218446996	1473218447056	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340184	1473218447387	1473218447471	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340186	1473218447507	1473218447635	a	65
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340190	1473218448004	1473218448120	g	71
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340225	1473218448223	1473218448303	r	82
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340227	1473218448345	1473218448429	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340229	1473218448521	1473218448637	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340231	1473218448825	1473218448941	m	77
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340233	1473218448979	1473218449087	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340291	1473218449109	1473218449212	n	78
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340294	1473218449341	1473218449425	t	84
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340299	1473218449783	1473218449867	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340303	1473218449937	1473218450049	w	87
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340306	1473218450215	1473218450315	h	72
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340426	1473218450600	1473218450703	=	187
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340429	1473218450900	1473218450983	i	73
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340432	1473218451106	1473218451242	t	84
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340434	1473218451274	1473218451350	h	72
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340436	1473218451679	1473218451763	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340438	1473218451841	1473218451917	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340443	1473218451985	1473218452049	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340447	1473218452110	1473218452170	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340451	1473218452234	1473218452302	BKSP	8
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340454	1473218452703	1473218452791	i	73
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340483	1473218452913	1473218453073	t	84
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340487	1473218453164	1473218453244	h	72
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340491	1473218453394	1473218453478	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340495	1473218453919	1473218453995	t	84
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340498	1473218454118	1473218454197	h	72
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340531	1473218454174	1473218454281	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340534	1473218454340	1473218454432	 	32
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340537	1473218454758	1473218454838	g	71
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340543	1473218454947	1473218455035	o	79
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340547	1473218455160	1473218455252	v	86
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340552	1473218455280	1473218455424	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340564	1473218455494	1473218455610	r	82
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340567	1473218455693	1473218455781	n	78
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340570	1473218455951	1473218456042	m	77
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340572	1473218456116	1473218456236	e	69
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340574	1473218456253	1473218456345	n	78
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340605	1473218456504	1473218456586	t	84
+94731	1037381	He pleaded guilty in February under an agreement with the government.	He pleades guilty in February under an agreement with the government.	49340606	1473218457088	1473218457156	.	190
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340851	1473218462532	1473218464096	CAPS_LOCK	20
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340836	1473218462792	1473218462821	G	71
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340838	1473218463084	1473218463175	H	72
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340840	1473218463429	1473218463522	BKSP	8
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340842	1473218463599	1473218463687	BKSP	8
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340848	1473218463880	1473218463991	H	72
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340854	1473218464359	1473218464498	e	69
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340857	1473218464584	1473218464683	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340875	1473218464828	1473218464955	c	67
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340879	1473218465000	1473218465107	a	65
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340882	1473218465080	1473218465171	n	78
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340885	1473218465276	1473218465344	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340888	1473218465439	1473218465538	b	66
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340914	1473218465519	1473218465630	e	69
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340916	1473218465719	1473218465814	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340918	1473218465919	1473218466038	e	69
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340920	1473218466260	1473218466396	p	80
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340922	1473218466688	1473218466788	BKSP	8
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340924	1473218466893	1473218466989	x	88
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340926	1473218467084	1473218467167	p	80
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340935	1473218467345	1473218467469	l	76
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340936	1473218467525	1473218467633	o	79
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340937	1473218467625	1473218467729	s	83
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340938	1473218467795	1473218467899	i	73
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340939	1473218468073	1473218468173	v	86
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340984	1473218468182	1473218468289	e	69
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340987	1473218468390	1473218468482	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340990	1473218469224	1473218469352	BKSP	8
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340993	1473218469553	1473218469657	,	188
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340996	1473218469766	1473218469850	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49340998	1473218469947	1473218470043	b	66
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341017	1473218470107	1473218470214	u	85
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341018	1473218470312	1473218470436	t	84
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341019	1473218470483	1473218470571	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341021	1473218470675	1473218470783	h	72
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341025	1473218470823	1473218470931	e	69
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341043	1473218470987	1473218471103	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341047	1473218471196	1473218471308	i	73
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341050	1473218471296	1473218471428	s	83
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341054	1473218471466	1473218471558	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341058	1473218471634	1473218471737	a	65
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341077	1473218471758	1473218471869	l	76
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341079	1473218471943	1473218472055	s	83
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341081	1473218472153	1473218472253	o	79
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341082	1473218472435	1473218472515	 	32
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341084	1473218472742	1473218472890	e	69
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341108	1473218473000	1473218473104	r	82
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341110	1473218473184	1473218473273	r	82
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341112	1473218473359	1473218473499	a	65
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341114	1473218473656	1473218473756	t	84
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341116	1473218473841	1473218473933	i	73
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341138	1473218474159	1473218474239	c	67
+94731	1037400	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	49341139	1473218474485	1473218474601	.	190

@@ -1,0 +1,654 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969391	1472019725912	1472019726052	CAPS_LOCK	20
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969392	1472019726052	1472019726214	W	87
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969393	1472019726214	1472019726355	CAPS_LOCK	20
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969394	1472019726355	1472019726442	h	72
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969395	1472019726504	1472019726583	e	69
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969396	1472019726583	1472019726700	n	78
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969397	1472019726793	1472019726875	 	32
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969442	1472019726955	1472019727111	CAPS_LOCK	20
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969445	1472019727111	1472019727197	I	73
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969446	1472019727244	1472019727422	CAPS_LOCK	20
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969447	1472019727353	1472019727422	 	32
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969448	1472019727532	1472019727612	d	68
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969449	1472019727612	1472019727795	o	79
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969450	1472019728368	1472019728431	,	188
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969479	1472019728553	1472019728616	 	32
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969480	1472019728663	1472019728826	w	87
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969481	1472019728826	1472019728919	e	69
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969482	1472019729076	1472019729091	 	32
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969483	1472019729529	1472019729585	w	87
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969498	1472019729702	1472019729817	i	73
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969501	1472019729911	1472019729976	l	76
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969506	1472019730039	1472019730108	l	76
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969511	1472019730237	1472019730337	 	32
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969516	1472019730603	1472019730741	e	69
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969524	1472019730741	1472019730997	a	65
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969526	1472019730997	1472019731111	t	84
+7780	83408	When I do, we will eat.	When I do, we will eat.	3969528	1472019731470	1472019731551	.	190
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969728	1472019739130	1472019739297	CAPS_LOCK	20
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969731	1472019739360	1472019739456	I	73
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969733	1472019739518	1472019739643	CAPS_LOCK	20
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969735	1472019739706	1472019739791	 	32
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969740	1472019739948	1472019740048	w	87
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969741	1472019740048	1472019740237	o	79
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969758	1472019740186	1472019740302	u	85
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969761	1472019740365	1472019740505	l	76
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969762	1472019740505	1472019740607	d	68
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969763	1472019740669	1472019740748	 	32
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969765	1472019740858	1472019741012	l	76
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969798	1472019740981	1472019741125	i	73
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969801	1472019741204	1472019741300	k	75
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969803	1472019741332	1472019741436	e	69
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969804	1472019741514	1472019741614	 	32
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969805	1472019742200	1472019742279	t	84
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969806	1472019742310	1472019742427	o	79
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969819	1472019742491	1472019742603	 	32
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969822	1472019742807	1472019742924	a	65
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969824	1472019743065	1472019743065	t	84
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969825	1472019743213	1472019743322	t	84
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969826	1472019743447	1472019743617	e	69
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969856	1472019743680	1472019743786	n	78
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969858	1472019743989	1472019744035	f	68
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969860	1472019744503	1472019744630	BKSP	8
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969862	1472019744880	1472019744965	 	32
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969864	1472019745200	1472019745304	i	73
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969883	1472019745399	1472019745499	f	70
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969884	1472019745562	1472019745641	 	32
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969885	1472019745889	1472019745987	s	83
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969886	1472019745987	1472019746170	o	79
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969887	1472019746715	1472019746832	,	188
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969893	1472019747240	1472019747394	BKSP	8
+7780	83413	I would like to attend if so.	I would like to attend if so.	3969894	1472019747550	1472019747655	.	190
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970013	1472019751584	1472019751725	CAPS_LOCK	20
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970014	1472019751756	1472019751871	S	83
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970015	1472019751871	1472019752011	CAPS_LOCK	20
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970016	1472019752058	1472019752143	h	72
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970018	1472019752206	1472019752413	o	79
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970017	1472019752254	1472019752332	i	73
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970079	1472019752364	1472019752516	u	85
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970080	1472019752610	1472019752713	l	76
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970081	1472019752760	1472019752882	d	68
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970083	1472019753148	1472019753284	BKSP	8
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970085	1472019753346	1472019753448	BKSP	8
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970087	1472019753526	1472019753605	BKSP	8
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970091	1472019753667	1472019753756	BKSP	8
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970093	1472019754347	1472019754476	i	73
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970094	1472019754914	1472019755030	BKSP	8
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970095	1472019755170	1472019755304	u	85
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970096	1472019755494	1472019755583	l	76
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970142	1472019755725	1472019755814	d	68
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970144	1472019756443	1472019756528	n	78
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970146	1472019756856	1472019756950	'	222
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970148	1472019757043	1472019757133	t	84
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970150	1472019757180	1472019757278	 	32
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970175	1472019757701	1472019757784	b	66
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970176	1472019757831	1472019757920	e	69
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970178	1472019757952	1472019758048	 	32
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970182	1472019758126	1472019758218	t	84
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970185	1472019758344	1472019758449	o	79
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970218	1472019758512	1472019758627	o	79
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970221	1472019758752	1472019758850	 	32
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970224	1472019759288	1472019759373	h	72
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970227	1472019759373	1472019759540	a	65
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970234	1472019759603	1472019759737	r	82
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970260	1472019759832	1472019759932	d	68
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970262	1472019760073	1472019760141	 	32
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970263	1472019760266	1472019760346	t	84
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970264	1472019760410	1472019760530	h	72
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970265	1472019760530	1472019760735	o	79
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970323	1472019761699	1472019761804	u	85
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970325	1472019761914	1472019762000	g	71
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970327	1472019762047	1472019762142	h	72
+7780	83423	Shouldn't be too hard though.	Shouldn't be too hard though.	3970328	1472019762661	1472019762731	.	190
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970454	1472019768609	1472019768785	CAPS_LOCK	20
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970457	1472019768718	1472019768816	T	84
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970461	1472019768878	1472019769022	CAPS_LOCK	20
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970464	1472019768957	1472019769053	h	72
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970467	1472019769131	1472019769254	e	69
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970470	1472019769270	1472019769384	 	32
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970472	1472019769572	1472019769721	a	65
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970507	1472019770050	1472019770152	r	82
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970510	1472019770277	1472019770359	t	84
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970515	1472019770499	1472019770581	i	73
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970516	1472019770627	1472019770716	s	83
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970520	1472019770857	1472019770959	t	84
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970550	1472019771054	1472019771136	 	32
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970552	1472019771214	1472019771369	a	65
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970553	1472019771526	1472019771606	s	83
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970555	1472019771715	1472019771791	s	83
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970559	1472019771885	1472019771971	u	85
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970579	1472019772035	1472019772129	r	82
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970581	1472019772129	1472019772292	e	69
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970582	1472019772417	1472019772526	s	83
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970583	1472019772604	1472019772686	 	32
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970584	1472019772827	1472019772921	m	77
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970596	1472019772921	1472019773054	e	69
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970598	1472019773117	1472019773214	 	32
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970601	1472019773324	1472019773449	i	73
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970604	1472019773480	1472019773569	t	84
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970605	1472019773631	1472019773711	 	32
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970622	1472019773837	1472019773947	i	73
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970625	1472019773947	1472019774045	s	83
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970627	1472019774108	1472019774201	 	32
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970628	1472019774294	1472019774431	a	65
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970629	1472019774431	1472019774559	 	32
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970661	1472019775009	1472019775079	t	84
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970662	1472019775172	1472019775250	u	85
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970663	1472019775297	1472019775366	r	82
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970664	1472019775665	1472019775756	k	75
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970665	1472019776367	1472019776428	e	69
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970690	1472019776488	1472019776568	y	89
+7780	83429	The artist assures me it is a turkey.	The artist assures me it is a turkey.	3970693	1472019776976	1472019777036	.	190
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970816	1472019771213	1472019771320	T	84
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970817	1472019771352	1472019771461	CAPS_LOCK	20
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970819	1472019771461	1472019771553	h	72
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970820	1472019771600	1472019771698	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970822	1472019771729	1472019771820	y	89
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970823	1472019771914	1472019771984	 	32
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970847	1472019771984	1472019772138	a	65
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970848	1472019772138	1472019772284	r	82
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970849	1472019772284	1472019772439	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970850	1472019772486	1472019772575	 	32
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970851	1472019772997	1472019773102	s	83
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970880	1472019773196	1472019773296	p	80
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970882	1472019773421	1472019773538	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970884	1472019774096	1472019774172	c	67
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970888	1472019774422	1472019774518	i	73
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970892	1472019774627	1472019774735	f	70
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970912	1472019774814	1472019774918	i	73
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970913	1472019775027	1472019775128	c	67
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970914	1472019775159	1472019775330	a	65
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970915	1472019775408	1472019775500	l	76
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970916	1472019775594	1472019775681	l	76
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970964	1472019776072	1472019776173	y	89
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970966	1472019776251	1472019776347	 	32
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970968	1472019776769	1472019776850	c	67
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970969	1472019776912	1472019777080	o	79
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970970	1472019777080	1472019777180	n	78
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970984	1472019777243	1472019777386	c	67
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970986	1472019777417	1472019777599	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970988	1472019777599	1472019777682	r	82
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970990	1472019777775	1472019777869	n	78
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3970993	1472019777932	1472019778081	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971030	1472019778144	1472019778244	d	68
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971031	1472019778338	1472019778418	 	32
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971032	1472019778496	1472019778664	a	65
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971033	1472019778727	1472019778814	b	66
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971034	1472019778814	1472019779058	o	79
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971057	1472019778986	1472019779121	u	85
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971058	1472019779121	1472019779200	t	84
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971059	1472019779278	1472019779383	 	32
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971060	1472019779519	1472019779615	t	84
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971061	1472019779646	1472019779710	h	72
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971062	1472019779819	1472019779925	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971109	1472019780019	1472019780105	 	32
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971112	1472019780418	1472019780528	i	73
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971114	1472019780606	1472019780682	n	78
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971115	1472019780807	1472019780894	t	84
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971117	1472019781065	1472019781184	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971156	1472019781294	1472019781379	r	82
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971157	1472019781644	1472019781767	c	67
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971158	1472019782470	1472019782625	o	79
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971159	1472019782625	1472019782743	m	77
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971160	1472019782853	1472019782970	p	80
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971187	1472019783033	1472019783144	a	65
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971190	1472019783457	1472019783578	n	78
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971194	1472019783766	1472019783875	y	89
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971198	1472019784016	1472019784124	 	32
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971202	1472019784296	1472019784420	n	78
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971219	1472019784420	1472019784614	o	79
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971221	1472019784739	1472019784875	t	84
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971224	1472019784985	1472019785104	e	69
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971229	1472019785229	1472019785316	s	83
+7780	83439	They are specifically concerned about the intercompany notes.	They are specifically concerned about the intercompany notes.	3971231	1472019785551	1472019785642	.	190
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971391	1472019791284	1472019791488	CAPS_LOCK	20
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971393	1472019791431	1472019791598	W	87
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971395	1472019791598	1472019791754	CAPS_LOCK	20
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971398	1472019791879	1472019791980	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971402	1472019792538	1472019792632	'	222
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971406	1472019792741	1472019792831	v	86
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971408	1472019792894	1472019793039	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971422	1472019793149	1472019793232	 	32
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971424	1472019793404	1472019793504	a	65
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971425	1472019793566	1472019793706	l	76
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971426	1472019793862	1472019793958	r	82
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971427	1472019793958	1472019794105	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971436	1472019794169	1472019794282	a	65
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971439	1472019794282	1472019794419	d	68
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971440	1472019794497	1472019794600	y	89
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971441	1472019794693	1472019794807	 	32
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971442	1472019795025	1472019795144	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971464	1472019795238	1472019795434	l	76
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971466	1472019795434	1472019795576	i	73
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971467	1472019795701	1472019795798	m	77
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971468	1472019795907	1472019796032	i	73
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971469	1472019796298	1472019796400	n	78
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971479	1472019796448	1472019796574	a	65
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971480	1472019796793	1472019796894	t	84
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971481	1472019796925	1472019797096	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971482	1472019797174	1472019797281	d	68
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971483	1472019797391	1472019797479	 	32
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971501	1472019797855	1472019797972	h	72
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971502	1472019797972	1472019798081	i	73
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971503	1472019798128	1472019798230	s	83
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971504	1472019798355	1472019798425	 	32
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971505	1472019798536	1472019798662	s	83
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971517	1472019798726	1472019798863	p	80
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971518	1472019798894	1472019799026	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971519	1472019799308	1472019799402	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971520	1472019799527	1472019799651	c	67
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971521	1472019799714	1472019799802	h	72
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971550	1472019799912	1472019799996	 	32
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971552	1472019800402	1472019800485	t	84
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971555	1472019800595	1472019800689	h	72
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971557	1472019800830	1472019801002	e	69
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971559	1472019801096	1472019801189	r	82
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971598	1472019801440	1472019801570	a	65
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971602	1472019801758	1472019801892	p	80
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971606	1472019801938	1472019802021	y	89
+7780	83447	We've already eliminated his speech therapy.	We've already eliminated his speech therapy.	3971610	1472019802271	1472019802358	.	190
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972269	1472019820360	1472019820468	t	84
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972270	1472019820500	1472019820601	i	73
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972284	1472019820680	1472019820746	m	77
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972286	1472019820746	1472019820862	e	69
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972287	1472019821066	1472019821155	.	190
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972101	1472019823815	1472019823909	CAPS_LOCK	20
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972103	1472019823909	1472019823996	T	84
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972105	1472019824090	1472019824217	CAPS_LOCK	20
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972107	1472019824168	1472019824256	h	72
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972109	1472019824350	1472019824447	e	69
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972110	1472019824478	1472019824567	 	32
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972111	1472019824614	1472019824696	f	70
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972127	1472019824775	1472019824898	i	73
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972128	1472019824945	1472019825079	l	76
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972130	1472019825048	1472019825170	e	69
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972133	1472019825436	1472019825582	BKSP	8
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972136	1472019825723	1472019825809	m	77
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972139	1472019825918	1472019826000	 	32
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972149	1472019826110	1472019826235	w	87
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972150	1472019826267	1472019826353	i	73
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972151	1472019826447	1472019826542	l	76
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972152	1472019826589	1472019826680	l	76
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972153	1472019826758	1472019826858	 	32
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972177	1472019826953	1472019827019	b	66
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972179	1472019827019	1472019827135	e	69
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972181	1472019827199	1472019827279	 	32
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972183	1472019827530	1472019827631	s	83
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972185	1472019827709	1472019827790	h	72
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972199	1472019827790	1472019827953	o	79
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972202	1472019827953	1472019828032	w	87
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972204	1472019828079	1472019828166	n	78
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972208	1472019828275	1472019828343	 	32
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972210	1472019828530	1472019828613	f	70
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972225	1472019828644	1472019828766	o	79
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972228	1472019828797	1472019828880	r	82
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972231	1472019828911	1472019829017	 	32
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972234	1472019829251	1472019829346	t	84
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972236	1472019829409	1472019829514	h	72
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972252	1472019829577	1472019829676	e	69
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972254	1472019829723	1472019829813	 	32
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972256	1472019829954	1472019830043	f	70
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972258	1472019830121	1472019830205	i	73
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972260	1472019830236	1472019830358	r	82
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972266	1472019830549	1472019830627	s	83
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972267	1472019830689	1472019830776	t	84
+7780	83455	The film will be shown for the first time.	The film will be shown for the first time.	3972268	1472019830917	1472019831017	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972415	1472019826464	1472019826570	T	84
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972416	1472019826570	1472019826695	CAPS_LOCK	20
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972417	1472019826695	1472019826767	h	72
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972418	1472019826830	1472019826927	e	69
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972419	1472019827052	1472019827132	r	82
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972421	1472019827225	1472019827315	e	69
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972429	1472019827394	1472019827479	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972433	1472019827589	1472019827653	i	73
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972437	1472019827653	1472019827754	s	83
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972442	1472019827847	1472019827928	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972446	1472019827975	1472019828096	a	65
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972509	1472019828096	1472019828192	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972511	1472019829486	1472019829574	9	57
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972513	1472019829652	1472019829734	0	48
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972516	1472019830193	1472019830260	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972519	1472019830401	1472019830482	p	80
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972523	1472019830545	1472019830634	e	69
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972543	1472019830728	1472019830797	r	82
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972545	1472019830968	1472019831067	c	67
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972546	1472019831098	1472019831267	e	69
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972547	1472019831267	1472019831368	n	78
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972548	1472019831446	1472019831510	t	84
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972555	1472019831510	1472019831628	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972557	1472019831753	1472019831868	c	67
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972559	1472019831868	1472019831942	h	72
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972562	1472019832005	1472019832149	a	65
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972564	1472019832149	1472019832240	n	78
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972575	1472019832319	1472019832451	c	67
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972576	1472019832451	1472019832575	e	69
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972577	1472019832606	1472019832708	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972578	1472019832848	1472019832918	h	72
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972579	1472019832965	1472019833088	e	69
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972600	1472019833151	1472019833239	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972604	1472019833468	1472019833543	i	73
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972607	1472019833543	1472019833669	s	83
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972609	1472019833716	1472019833789	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972612	1472019834039	1472019834132	g	71
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972621	1472019834195	1472019834349	o	79
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972623	1472019834297	1472019834483	i	73
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972625	1472019834483	1472019834587	n	78
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972627	1472019834639	1472019834704	g	71
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972628	1472019834704	1472019834851	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972647	1472019834915	1472019834966	t	84
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972648	1472019835011	1472019835131	o	79
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972650	1472019835177	1472019835259	 	32
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972651	1472019835399	1472019835493	w	87
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972653	1472019835540	1472019835658	i	73
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972672	1472019835658	1472019835752	n	78
+7780	83469	There is a 90 percent chance he is going to win.	There is a 90 percent chance he is going to win.	3972674	1472019836033	1472019836133	.	190
+7780	83479	I am freaking out!	I am freaking out!	3972789	1472019838991	1472019839102	CAPS_LOCK	20
+7780	83479	I am freaking out!	I am freaking out!	3972790	1472019839214	1472019839354	CAPS_LOCK	20
+7780	83479	I am freaking out!	I am freaking out!	3972791	1472019839751	1472019839860	CAPS_LOCK	20
+7780	83479	I am freaking out!	I am freaking out!	3972792	1472019839985	1472019840062	I	73
+7780	83479	I am freaking out!	I am freaking out!	3972793	1472019840062	1472019840234	CAPS_LOCK	20
+7780	83479	I am freaking out!	I am freaking out!	3972794	1472019840297	1472019840392	 	32
+7780	83479	I am freaking out!	I am freaking out!	3972795	1472019840595	1472019840678	a	65
+7780	83479	I am freaking out!	I am freaking out!	3972796	1472019840694	1472019840814	m	77
+7780	83479	I am freaking out!	I am freaking out!	3972797	1472019840861	1472019840960	 	32
+7780	83479	I am freaking out!	I am freaking out!	3972833	1472019841351	1472019841433	f	70
+7780	83479	I am freaking out!	I am freaking out!	3972834	1472019841683	1472019841802	e	69
+7780	83479	I am freaking out!	I am freaking out!	3972835	1472019842297	1472019842421	BKSP	8
+7780	83479	I am freaking out!	I am freaking out!	3972836	1472019842483	1472019842571	r	82
+7780	83479	I am freaking out!	I am freaking out!	3972837	1472019842680	1472019842780	e	69
+7780	83479	I am freaking out!	I am freaking out!	3972839	1472019842983	1472019843133	a	65
+7780	83479	I am freaking out!	I am freaking out!	3972850	1472019843227	1472019843298	k	75
+7780	83479	I am freaking out!	I am freaking out!	3972851	1472019843391	1472019843488	i	73
+7780	83479	I am freaking out!	I am freaking out!	3972852	1472019843535	1472019843623	n	78
+7780	83479	I am freaking out!	I am freaking out!	3972853	1472019843623	1472019843749	g	71
+7780	83479	I am freaking out!	I am freaking out!	3972854	1472019843749	1472019843835	 	32
+7780	83479	I am freaking out!	I am freaking out!	3972882	1472019843945	1472019844098	o	79
+7780	83479	I am freaking out!	I am freaking out!	3972883	1472019844043	1472019844177	u	85
+7780	83479	I am freaking out!	I am freaking out!	3972884	1472019844224	1472019844291	t	84
+7780	83479	I am freaking out!	I am freaking out!	3972885	1472019844588	1472019845093	SHIFT	16
+7780	83479	I am freaking out!	I am freaking out!	3972886	1472019844922	1472019845093	!	49
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973034	1472019850116	1472019850257	CAPS_LOCK	20
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973036	1472019850257	1472019850380	I	73
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973038	1472019850380	1472019850473	CAPS_LOCK	20
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973039	1472019850520	1472019850612	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973043	1472019850721	1472019850779	h	72
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973045	1472019850779	1472019850918	a	65
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973048	1472019850980	1472019851084	v	86
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973087	1472019851147	1472019851212	e	69
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973091	1472019851212	1472019851344	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973094	1472019851467	1472019851552	r	82
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973097	1472019851646	1472019851741	e	69
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973101	1472019852116	1472019852209	c	67
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973142	1472019852491	1472019852576	e	69
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973147	1472019852759	1472019852843	i	73
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973151	1472019853093	1472019853182	v	86
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973154	1472019853260	1472019853406	e	69
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973157	1472019853453	1472019853548	d	68
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973173	1472019853611	1472019853716	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973175	1472019853872	1472019854008	y	89
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973177	1472019853976	1472019854134	o	79
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973179	1472019854102	1472019854221	u	85
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973181	1472019854253	1472019854348	r	82
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973216	1472019854443	1472019854535	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973218	1472019854691	1472019854798	m	77
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973219	1472019854878	1472019854965	e	69
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973220	1472019855230	1472019855322	s	83
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973221	1472019855400	1472019855488	s	83
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973248	1472019855614	1472019855744	a	65
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973251	1472019855791	1472019855900	g	71
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973253	1472019855931	1472019856034	e	69
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973254	1472019856175	1472019856245	s	83
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973255	1472019856323	1472019856417	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973284	1472019856511	1472019856678	a	65
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973288	1472019856678	1472019856761	n	78
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973293	1472019856793	1472019856898	d	68
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973296	1472019856962	1472019857047	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973299	1472019857297	1472019857420	w	87
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973327	1472019857592	1472019857683	i	73
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973330	1472019857793	1472019857881	l	76
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973337	1472019857959	1472019858040	l	76
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973340	1472019858134	1472019858225	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973344	1472019858350	1472019858439	r	82
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973370	1472019858534	1472019858634	e	69
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973374	1472019858746	1472019858827	s	83
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973376	1472019858937	1472019859125	p	80
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973380	1472019859125	1472019859323	o	79
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973384	1472019859323	1472019859486	n	78
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973423	1472019859565	1472019859679	d	68
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973425	1472019859820	1472019859935	 	32
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973427	1472019860295	1472019860407	a	65
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973428	1472019860579	1472019860662	c	67
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973430	1472019860771	1472019860850	c	67
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973502	1472019860976	1472019861099	o	79
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973505	1472019861459	1472019861549	r	82
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973506	1472019862203	1472019862306	d	68
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973508	1472019862466	1472019862647	i	73
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973510	1472019862647	1472019862777	n	78
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973624	1472019862887	1472019862985	l	76
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973626	1472019863898	1472019864074	BKSP	8
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973628	1472019864433	1472019864533	g	71
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973632	1472019864611	1472019864706	l	76
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973634	1472019864784	1472019864874	y	89
+7780	83487	I have received your messages and will respond accordingly.	I have received your messages and will respond accordingly.	3973636	1472019866092	1472019866237	.	190
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974181	1472019870086	1472019870273	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974184	1472019870414	1472019870526	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974188	1472019870682	1472019870764	l	76
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974191	1472019870889	1472019870968	o	79
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974193	1472019871046	1472019871120	o	79
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974194	1472019871182	1472019871263	k	75
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973824	1472019871370	1472019871495	CAPS_LOCK	20
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974261	1472019871405	1472019871501	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973826	1472019871526	1472019871702	W	87
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973828	1472019871671	1472019871876	CAPS_LOCK	20
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974263	1472019871782	1472019871884	b	66
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973831	1472019871827	1472019871943	e	69
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974265	1472019871916	1472019872073	a	65
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973837	1472019872052	1472019872150	d	68
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973841	1472019872244	1472019872321	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973975	1472019872447	1472019872647	o	79
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973978	1472019872647	1472019872732	n	78
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974267	1472019872756	1472019872840	d	68
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974269	1472019872919	1472019873044	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973981	1472019873185	1472019873320	'	222
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973983	1472019873429	1472019873549	t	84
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974337	1472019873519	1472019873580	t	84
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974339	1472019873689	1472019873783	o	79
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974341	1472019873879	1472019873984	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974343	1472019874031	1472019874156	CAPS_LOCK	20
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973985	1472019874153	1472019874268	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974347	1472019874265	1472019874393	D	68
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973986	1472019874331	1472019874471	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974349	1472019874393	1472019874518	CAPS_LOCK	20
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973988	1472019874534	1472019874994	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974352	1472019874612	1472019874699	y	89
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974378	1472019874825	1472019874909	n	78
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973990	1472019875088	1472019875243	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974380	1472019875221	1472019875298	.	190
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973992	1472019875290	1472019875410	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973995	1472019875457	1472019875571	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3973999	1472019876125	1472019876248	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974064	1472019876358	1472019876479	d	68
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974066	1472019876604	1472019876756	o	79
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974067	1472019876740	1472019876869	n	78
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974068	1472019877213	1472019877292	;	186
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974069	1472019877842	1472019878039	BKSP	8
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974070	1472019878179	1472019878287	'	222
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974099	1472019878366	1472019878469	t	84
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974102	1472019878627	1472019878715	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974105	1472019879138	1472019879273	w	87
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974109	1472019879367	1472019879515	a	65
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974111	1472019879547	1472019879658	n	78
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974122	1472019879721	1472019879798	t	84
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974123	1472019879798	1472019879893	 	32
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974124	1472019879956	1472019880045	t	84
+7780	83502	We don't want to look bad to Dyn.	We don't want to look bad to Dyn.	3974179	1472019880123	1472019880278	p	79
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974603	1472019880432	1472019880588	CAPS_LOCK	20
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974606	1472019880588	1472019880697	A	65
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974609	1472019880697	1472019880853	CAPS_LOCK	20
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974612	1472019881025	1472019881144	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974616	1472019881238	1472019881338	b	66
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974619	1472019881370	1472019881493	a	65
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974623	1472019881602	1472019881723	d	68
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974641	1472019881723	1472019881821	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974643	1472019881977	1472019882075	t	84
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974645	1472019882122	1472019882243	h	72
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974647	1472019882243	1472019882356	i	73
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974650	1472019882356	1472019882492	n	78
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974687	1472019882586	1472019882673	g	71
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974691	1472019882705	1472019882798	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974697	1472019882972	1472019883066	h	72
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974700	1472019883066	1472019883254	a	65
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974732	1472019883195	1472019883349	s	83
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974734	1472019883380	1472019883482	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974736	1472019883591	1472019883659	b	66
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974739	1472019883659	1472019883808	e	69
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974743	1472019883886	1472019883971	e	69
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974746	1472019884081	1472019884162	n	78
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974773	1472019884272	1472019884380	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974775	1472019884443	1472019884545	t	84
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974777	1472019884639	1472019884737	u	85
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974780	1472019884815	1472019884908	r	82
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974782	1472019885095	1472019885174	n	78
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974808	1472019885269	1472019885374	e	69
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974810	1472019885514	1472019885603	d	68
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974812	1472019885666	1472019885763	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974814	1472019885873	1472019886046	i	73
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974849	1472019885998	1472019886090	n	78
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974850	1472019886184	1472019886280	t	84
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974852	1472019886389	1472019886533	o	79
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974855	1472019886673	1472019886767	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974857	1472019886939	1472019887048	a	65
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974860	1472019887048	1472019887181	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974893	1472019887575	1472019887676	g	71
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974895	1472019887723	1472019887802	o	79
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974897	1472019887912	1472019888002	o	79
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974900	1472019888080	1472019888165	d	68
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974903	1472019888180	1472019888318	 	32
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974950	1472019888522	1472019888601	t	84
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974952	1472019888664	1472019888799	h	72
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974954	1472019888799	1472019888942	i	73
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974955	1472019889067	1472019889165	g	71
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974956	1472019889633	1472019889718	BKSP	8
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974957	1472019889890	1472019889976	n	78
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974984	1472019890384	1472019890485	g	71
+7780	83516	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	3974987	1472019890719	1472019890808	.	190
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975424	1472019899761	1472019899886	CAPS_LOCK	20
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975426	1472019899910	1472019900046	L	76
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975429	1472019900015	1472019900140	CAPS_LOCK	20
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975431	1472019900203	1472019900309	i	73
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975433	1472019900590	1472019900689	v	86
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975436	1472019900736	1472019900953	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975523	1472019900921	1472019901040	r	82
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975525	1472019901196	1472019901299	o	79
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975528	1472019901706	1472019901872	BKSP	8
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975532	1472019902075	1472019902154	p	80
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975537	1472019902295	1472019902357	o	79
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975542	1472019902435	1472019902520	o	79
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975548	1472019902645	1472019902727	l	76
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975592	1472019902869	1472019902949	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975595	1472019903136	1472019903265	f	70
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975599	1472019903296	1472019903465	a	65
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975602	1472019903497	1472019903568	i	73
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975672	1472019903568	1472019903784	l	76
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975675	1472019903815	1472019903952	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975676	1472019904045	1472019904134	d	68
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975678	1472019904197	1472019904309	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975680	1472019904372	1472019904558	a	65
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975683	1472019904793	1472019904911	g	71
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975759	1472019905765	1472019905878	a	65
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975760	1472019905878	1472019906046	i	73
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975761	1472019906125	1472019906229	n	78
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975762	1472019906354	1472019906441	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975763	1472019906535	1472019906664	i	73
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975793	1472019906664	1472019906753	n	78
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975797	1472019906847	1472019906963	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975801	1472019907324	1472019907421	w	87
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975805	1472019907453	1472019907558	h	72
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975808	1472019907605	1472019907706	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975850	1472019907737	1472019907812	n	78
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975855	1472019907921	1472019908024	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975860	1472019908118	1472019908189	t	84
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975863	1472019908252	1472019908357	h	72
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975866	1472019908404	1472019908519	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975889	1472019908519	1472019908609	y	89
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975892	1472019908734	1472019908806	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975895	1472019908962	1472019909060	w	87
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975898	1472019909076	1472019909246	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975901	1472019909355	1472019909472	r	82
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975983	1472019909585	1472019909690	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975986	1472019909799	1472019909950	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975992	1472019910382	1472019910382	n	78
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3975996	1472019910802	1472019910997	BKSP	8
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976002	1472019910997	1472019911092	b	66
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976007	1472019911202	1472019911326	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976081	1472019911545	1472019911737	a	65
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976083	1472019912340	1472019912473	t	84
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976086	1472019912676	1472019912796	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976088	1472019912890	1472019912977	n	78
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976091	1472019913102	1472019913186	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976182	1472019913375	1472019913538	a	65
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976184	1472019913538	1472019913710	t	84
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976187	1472019913772	1472019913895	 	32
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976192	1472019914020	1472019914161	CAPS_LOCK	20
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976196	1472019914161	1472019914308	W	87
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976198	1472019914308	1472019914464	CAPS_LOCK	20
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976201	1472019914621	1472019914717	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976294	1472019914953	1472019915071	m	77
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976297	1472019916035	1472019916141	b	66
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976298	1472019916219	1472019916337	l	76
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976301	1472019916494	1472019916581	e	69
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976303	1472019916643	1472019916738	y	89
+7780	83531	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Wembley.	3976338	1472019917129	1472019917204	.	190
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976639	1472019921247	1472019921387	CAPS_LOCK	20
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976642	1472019921465	1472019921606	D	68
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976648	1472019921575	1472019921747	CAPS_LOCK	20
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976653	1472019921715	1472019921824	o	79
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976659	1472019921933	1472019922073	w	87
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976663	1472019921992	1472019922073	 	32
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976666	1472019922276	1472019922418	e	69
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976735	1472019922792	1472019922918	BKSP	8
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976738	1472019922996	1472019923103	BKSP	8
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976745	1472019923150	1472019923251	BKSP	8
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976750	1472019923469	1472019923574	 	32
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976755	1472019923636	1472019923766	w	87
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976757	1472019923829	1472019923923	e	69
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976762	1472019924002	1472019924060	 	32
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976766	1472019924185	1472019924270	n	78
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976794	1472019924334	1472019924412	e	69
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976799	1472019924490	1472019924577	e	69
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976804	1472019924670	1472019924768	d	68
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976806	1472019924815	1472019924906	 	32
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976808	1472019925080	1472019925156	t	84
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976870	1472019925219	1472019925366	o	79
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976872	1472019925428	1472019925524	 	32
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976873	1472019925915	1472019925994	d	68
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976875	1472019926103	1472019926194	i	73
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976877	1472019926272	1472019926357	s	83
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976928	1472019926499	1472019926597	c	67
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976935	1472019926722	1472019926803	u	85
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976937	1472019926881	1472019926988	s	83
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976942	1472019927082	1472019927184	s	83
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976946	1472019927309	1472019927428	SHIFT	16
+7780	83557	Do we need to discuss?	Do we need to discuss?	3976945	1472019927372	1472019927530	?	191
+7780	83568	There is no average.	There is no average.	3977165	1472019919539	1472019919623	T	84
+7780	83568	There is no average.	There is no average.	3977170	1472019919685	1472019919795	CAPS_LOCK	20
+7780	83568	There is no average.	There is no average.	3977175	1472019919795	1472019919863	h	72
+7780	83568	There is no average.	There is no average.	3977179	1472019919910	1472019920015	e	69
+7780	83568	There is no average.	There is no average.	3977183	1472019920093	1472019920195	r	82
+7780	83568	There is no average.	There is no average.	3977186	1472019920304	1472019920387	e	69
+7780	83568	There is no average.	There is no average.	3977213	1472019920467	1472019920543	 	32
+7780	83568	There is no average.	There is no average.	3977218	1472019920652	1472019920740	i	73
+7780	83568	There is no average.	There is no average.	3977223	1472019920740	1472019920848	s	83
+7780	83568	There is no average.	There is no average.	3977227	1472019920958	1472019921031	 	32
+7780	83568	There is no average.	There is no average.	3977228	1472019921140	1472019921210	n	78
+7780	83568	There is no average.	There is no average.	3977260	1472019921210	1472019921392	o	79
+7780	83568	There is no average.	There is no average.	3977262	1472019921455	1472019921558	 	32
+7780	83568	There is no average.	There is no average.	3977265	1472019921605	1472019921733	a	65
+7780	83568	There is no average.	There is no average.	3977268	1472019921805	1472019921882	v	86
+7780	83568	There is no average.	There is no average.	3977272	1472019921960	1472019922108	e	69
+7780	83568	There is no average.	There is no average.	3977316	1472019922139	1472019922267	r	82
+7780	83568	There is no average.	There is no average.	3977319	1472019922314	1472019922499	a	65
+7780	83568	There is no average.	There is no average.	3977322	1472019922624	1472019922702	g	71
+7780	83568	There is no average.	There is no average.	3977325	1472019922749	1472019922835	e	69
+7780	83568	There is no average.	There is no average.	3977328	1472019923241	1472019923326	.	190

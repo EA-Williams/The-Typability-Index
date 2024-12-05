@@ -1,0 +1,618 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+55311	605020	What a crazy day.	What a crazy day.	28780508	1472655448262	1472655448564	SHIFT	16
+55311	605020	What a crazy day.	What a crazy day.	28780512	1472655448487	1472655448644	W	87
+55311	605020	What a crazy day.	What a crazy day.	28780518	1472655448764	1472655448884	h	72
+55311	605020	What a crazy day.	What a crazy day.	28780524	1472655448817	1472655448977	a	65
+55311	605020	What a crazy day.	What a crazy day.	28780527	1472655448898	1472655449077	t	84
+55311	605020	What a crazy day.	What a crazy day.	28780579	1472655449007	1472655449126	 	32
+55311	605020	What a crazy day.	What a crazy day.	28780582	1472655449099	1472655449241	a	65
+55311	605020	What a crazy day.	What a crazy day.	28780583	1472655449194	1472655449321	 	32
+55311	605020	What a crazy day.	What a crazy day.	28780584	1472655449451	1472655449597	c	67
+55311	605020	What a crazy day.	What a crazy day.	28780585	1472655449627	1472655449784	r	82
+55311	605020	What a crazy day.	What a crazy day.	28780586	1472655449784	1472655449921	a	65
+55311	605020	What a crazy day.	What a crazy day.	28780624	1472655450003	1472655450187	z	90
+55311	605020	What a crazy day.	What a crazy day.	28780627	1472655450227	1472655450371	y	89
+55311	605020	What a crazy day.	What a crazy day.	28780630	1472655450371	1472655450464	 	32
+55311	605020	What a crazy day.	What a crazy day.	28780636	1472655450554	1472655450691	d	68
+55311	605020	What a crazy day.	What a crazy day.	28780725	1472655450617	1472655450763	a	65
+55311	605020	What a crazy day.	What a crazy day.	28780732	1472655450833	1472655450981	y	89
+55311	605020	What a crazy day.	What a crazy day.	28780734	1472655451604	1472655451694	.	190
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780945	1472655453581	1472655453811	SHIFT	16
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780948	1472655453741	1472655453891	S	83
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780950	1472655454201	1472655454301	h	72
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780952	1472655454291	1472655454417	e	69
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780955	1472655454397	1472655454517	 	32
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780957	1472655454527	1472655454698	s	83
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780981	1472655454624	1472655454764	a	65
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780990	1472655454672	1472655454784	i	73
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28780998	1472655454794	1472655454907	d	68
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781006	1472655454867	1472655454947	 	32
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781013	1472655454967	1472655455087	i	73
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781020	1472655455034	1472655455154	t	84
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781030	1472655455117	1472655455226	 	32
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781034	1472655455187	1472655455310	w	87
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781038	1472655455230	1472655455346	o	79
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781039	1472655455284	1472655455436	u	85
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781042	1472655455446	1472655455567	l	76
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781171	1472655455510	1472655455631	d	68
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781179	1472655455589	1472655455681	 	32
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781187	1472655456241	1472655456301	p	80
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781195	1472655456671	1472655456774	r	82
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781206	1472655456914	1472655457047	o	79
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781215	1472655457237	1472655457311	b	66
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781252	1472655457321	1472655457448	a	65
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781257	1472655457411	1472655457514	b	66
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781262	1472655457594	1472655457711	l	76
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781266	1472655457771	1472655457927	y	89
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781306	1472655457851	1472655457949	 	32
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781312	1472655458049	1472655458157	b	66
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781321	1472655458127	1472655458230	e	69
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781326	1472655458220	1472655458333	 	32
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781332	1472655458353	1472655458487	a	65
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781338	1472655458667	1472655458764	f	70
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781373	1472655458866	1472655458991	t	84
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781376	1472655458944	1472655459090	e	69
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781379	1472655459021	1472655459207	r	82
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781383	1472655459150	1472655459267	 	32
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781386	1472655459400	1472655459607	SHIFT	16
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781415	1472655459550	1472655459659	J	74
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781418	1472655459709	1472655459823	a	65
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781422	1472655459777	1472655459891	n	78
+55311	605029	She said it would probably be after Jan.	She said it would probably be after Jan.	28781425	1472655460031	1472655460140	.	190
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781594	1472655461810	1472655462194	SHIFT	16
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781597	1472655462137	1472655462234	I	73
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781603	1472655462284	1472655462391	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781608	1472655462401	1472655462491	h	72
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781613	1472655462591	1472655462697	o	79
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781621	1472655462777	1472655462894	p	80
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781627	1472655462874	1472655462991	e	69
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781631	1472655462954	1472655463055	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781634	1472655463021	1472655463174	t	84
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781640	1472655463144	1472655463280	h	72
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781649	1472655463220	1472655463340	i	73
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781661	1472655463290	1472655463411	s	83
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781664	1472655463401	1472655463535	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781666	1472655463506	1472655463634	i	73
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781670	1472655463574	1472655463701	s	83
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781673	1472655463654	1472655463767	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781734	1472655463731	1472655463874	t	84
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781741	1472655463807	1472655463994	e	69
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781750	1472655463924	1472655464034	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781758	1472655464344	1472655464437	BKSP	8
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781764	1472655464487	1472655464580	BKSP	8
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781771	1472655464910	1472655465007	h	72
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781779	1472655465007	1472655465114	e	69
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781797	1472655465084	1472655465156	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781801	1472655465166	1472655465324	l	76
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781808	1472655465234	1472655465364	a	65
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781815	1472655465280	1472655465404	s	83
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781818	1472655465464	1472655465594	t	84
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781859	1472655465554	1472655465664	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781860	1472655465916	1472655466051	r	82
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781864	1472655465968	1472655466112	e	69
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781869	1472655466252	1472655466374	v	86
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781873	1472655466348	1472655466438	i	73
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781877	1472655466438	1472655466572	s	83
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781906	1472655466541	1472655466785	i	73
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781912	1472655466638	1472655466808	o	79
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781917	1472655466731	1472655466868	n	78
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781923	1472655466938	1472655467011	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28781931	1472655467171	1472655467318	f	70
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782015	1472655467265	1472655467378	o	79
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782018	1472655467340	1472655467464	r	82
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782022	1472655467441	1472655467551	 	32
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782025	1472655468098	1472655468375	SHIFT	16
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782029	1472655468308	1472655468465	S	83
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782032	1472655468545	1472655468631	e	69
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782039	1472655468691	1472655468821	p	80
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782058	1472655468831	1472655468931	t	84
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782059	1472655468941	1472655469087	e	69
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782062	1472655469041	1472655469148	m	77
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782064	1472655469248	1472655469355	b	66
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782075	1472655469308	1472655469432	e	69
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782082	1472655469362	1472655469492	r	82
+55311	605042	I hope this is the last revision for September.	I hope this is the last revision for September.	28782088	1472655469492	1472655469591	.	190
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782279	1472655471144	1472655471491	SHIFT	16
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782283	1472655471481	1472655471581	D	68
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782290	1472655471651	1472655471756	i	73
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782299	1472655471728	1472655471835	d	68
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782307	1472655471835	1472655471958	 	32
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782315	1472655471958	1472655472123	y	89
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782330	1472655472028	1472655472142	o	79
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782336	1472655472095	1472655472201	u	85
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782341	1472655472127	1472655472231	 	32
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782346	1472655472261	1472655472418	t	84
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782350	1472655472365	1472655472521	a	65
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782391	1472655472438	1472655472627	l	76
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782394	1472655472511	1472655472652	k	75
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782397	1472655472595	1472655472725	 	32
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782399	1472655472686	1472655472888	t	84
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782404	1472655472765	1472655472898	o	79
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782408	1472655472814	1472655472938	 	32
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782413	1472655472968	1472655473208	SHIFT	16
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782473	1472655473089	1472655473238	A	65
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782479	1472655473448	1472655473548	v	67
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782485	1472655473848	1472655473944	BKSP	8
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782493	1472655473994	1472655474091	BKSP	8
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782498	1472655474181	1472655474308	v	86
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782502	1472655474235	1472655474368	a	65
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782507	1472655474538	1472655474625	 	32
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782512	1472655474747	1472655474871	t	84
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782515	1472655474786	1472655474931	h	72
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782519	1472655474881	1472655474991	i	73
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782522	1472655474941	1472655475071	s	83
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782547	1472655475061	1472655475135	 	32
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782552	1472655475225	1472655475341	m	77
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782560	1472655475275	1472655475428	o	79
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782566	1472655475371	1472655475490	r	82
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782571	1472655475490	1472655475661	i	73
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782585	1472655475581	1472655475725	n	78
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782587	1472655475692	1472655475781	g	71
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782597	1472655475901	1472655476195	SHIFT	16
+55311	605057	Did you talk to Ava this morning?	Did you talk to Ava this moring?	28782592	1472655476002	1472655476115	?	191
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782842	1472655479237	1472655479511	SHIFT	16
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782844	1472655479437	1472655479551	I	73
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782848	1472655479611	1472655479767	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782853	1472655479698	1472655479860	w	87
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782919	1472655479731	1472655479893	o	79
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782922	1472655479828	1472655479993	u	85
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782927	1472655479953	1472655480124	l	76
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782932	1472655480015	1472655480168	d	68
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782938	1472655480134	1472655480273	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782943	1472655480283	1472655480371	s	83
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782951	1472655480561	1472655480668	BKSP	8
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782956	1472655480828	1472655480941	n	78
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782966	1472655480885	1472655481025	o	79
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782971	1472655480972	1472655481098	t	84
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782977	1472655481055	1472655481178	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782982	1472655481168	1472655481311	s	83
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782987	1472655481238	1472655481381	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28782993	1472655481391	1472655481509	y	89
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783100	1472655481478	1472655481582	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783103	1472655481582	1472655481707	t	84
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783108	1472655481685	1472655481785	h	72
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783114	1472655481731	1472655481858	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783119	1472655481815	1472655481958	t	84
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783126	1472655482155	1472655482240	BKSP	8
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783132	1472655482300	1472655482388	BKSP	8
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783141	1472655482438	1472655482521	BKSP	8
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783149	1472655482731	1472655482821	BKSP	8
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783163	1472655482871	1472655483075	SHIFT	16
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783146	1472655483021	1472655483117	I	73
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783151	1472655483157	1472655483268	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783160	1472655483318	1472655483438	h	72
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783168	1472655483369	1472655483503	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783179	1472655483458	1472655483621	v	86
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783381	1472655483535	1472655483685	e	69
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783387	1472655483611	1472655483725	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783392	1472655483935	1472655484121	g	71
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783398	1472655484211	1472655484348	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783407	1472655484558	1472655484655	BKSP	8
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783414	1472655484865	1472655484955	u	85
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783422	1472655485471	1472655485590	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783427	1472655485740	1472655485838	r	82
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783476	1472655486200	1472655486358	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783480	1472655486301	1472655486428	n	78
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783483	1472655486458	1472655486538	t	84
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783486	1472655486618	1472655486708	e	69
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783491	1472655486758	1472655486845	e	69
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783519	1472655486927	1472655487058	d	68
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783522	1472655487015	1472655487088	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783526	1472655487198	1472655487262	m	77
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783531	1472655487231	1472655487370	y	89
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783583	1472655487350	1472655487445	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783588	1472655487595	1472655487765	f	70
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783595	1472655487711	1472655487835	i	73
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783605	1472655487775	1472655487915	n	78
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783609	1472655487925	1472655488065	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783624	1472655488020	1472655488166	l	76
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783627	1472655488186	1472655488321	 	32
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783631	1472655488381	1472655488493	p	80
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783638	1472655488573	1472655488711	l	76
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783647	1472655488635	1472655488785	a	65
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783639	1472655488731	1472655488921	c	67
+55311	605069	I would not say I have guaranteed my final place.	I would not say I have guaranteed my final place.	28783645	1472655488847	1472655488991	e	69
+55311	605087	Not at this time.	Not at this time.	28784086	1472655488941	1472655493988	.	190
+55311	605087	Not at this time.	Not at this time.	28783848	1472655490520	1472655490775	SHIFT	16
+55311	605087	Not at this time.	Not at this time.	28783846	1472655490634	1472655490695	B	66
+55311	605087	Not at this time.	Not at this time.	28783851	1472655491075	1472655491177	BKSP	8
+55311	605087	Not at this time.	Not at this time.	28783863	1472655491247	1472655491478	SHIFT	16
+55311	605087	Not at this time.	Not at this time.	28783857	1472655491357	1472655491448	N	78
+55311	605087	Not at this time.	Not at this time.	28783868	1472655491548	1472655491631	o	79
+55311	605087	Not at this time.	Not at this time.	28783873	1472655491641	1472655491747	t	84
+55311	605087	Not at this time.	Not at this time.	28783977	1472655491718	1472655491810	 	32
+55311	605087	Not at this time.	Not at this time.	28783978	1472655491830	1472655491945	a	65
+55311	605087	Not at this time.	Not at this time.	28783981	1472655492245	1472655492308	BKSP	8
+55311	605087	Not at this time.	Not at this time.	28783982	1472655492628	1472655492785	a	65
+55311	605087	Not at this time.	Not at this time.	28783984	1472655492721	1472655492870	t	84
+55311	605087	Not at this time.	Not at this time.	28783987	1472655492825	1472655492941	 	32
+55311	605087	Not at this time.	Not at this time.	28784025	1472655492931	1472655493056	t	84
+55311	605087	Not at this time.	Not at this time.	28784028	1472655493106	1472655493275	h	72
+55311	605087	Not at this time.	Not at this time.	28784030	1472655493205	1472655493353	i	73
+55311	605087	Not at this time.	Not at this time.	28784035	1472655493325	1472655493431	s	83
+55311	605087	Not at this time.	Not at this time.	28784038	1472655493431	1472655493521	 	32
+55311	605087	Not at this time.	Not at this time.	28784055	1472655493541	1472655493675	t	84
+55311	605087	Not at this time.	Not at this time.	28784051	1472655493611	1472655493728	i	73
+55311	605087	Not at this time.	Not at this time.	28784062	1472655493665	1472655493801	m	77
+55311	605087	Not at this time.	Not at this time.	28784077	1472655493738	1472655493851	e	69
+55311	605095	I know you changed it.	I know you changed it.	28784246	1472655495466	1472655495801	SHIFT	16
+55311	605095	I know you changed it.	I know you changed it.	28784244	1472655495694	1472655495801	I	73
+55311	605095	I know you changed it.	I know you changed it.	28784248	1472655495871	1472655495952	 	32
+55311	605095	I know you changed it.	I know you changed it.	28784251	1472655495982	1472655496201	k	75
+55311	605095	I know you changed it.	I know you changed it.	28784284	1472655496056	1472655496218	n	78
+55311	605095	I know you changed it.	I know you changed it.	28784289	1472655496149	1472655496269	o	79
+55311	605095	I know you changed it.	I know you changed it.	28784299	1472655496222	1472655496349	w	87
+55311	605095	I know you changed it.	I know you changed it.	28784306	1472655496309	1472655496419	 	32
+55311	605095	I know you changed it.	I know you changed it.	28784310	1472655496529	1472655496719	y	89
+55311	605095	I know you changed it.	I know you changed it.	28784360	1472655496586	1472655496733	o	79
+55311	605095	I know you changed it.	I know you changed it.	28784365	1472655496689	1472655496766	u	85
+55311	605095	I know you changed it.	I know you changed it.	28784368	1472655496736	1472655496826	 	32
+55311	605095	I know you changed it.	I know you changed it.	28784373	1472655497231	1472655497372	c	67
+55311	605095	I know you changed it.	I know you changed it.	28784377	1472655497302	1472655497434	h	72
+55311	605095	I know you changed it.	I know you changed it.	28784381	1472655497412	1472655497550	a	65
+55311	605095	I know you changed it.	I know you changed it.	28784413	1472655497499	1472655497595	n	78
+55311	605095	I know you changed it.	I know you changed it.	28784417	1472655497625	1472655497775	g	71
+55311	605095	I know you changed it.	I know you changed it.	28784421	1472655497716	1472655497835	e	69
+55311	605095	I know you changed it.	I know you changed it.	28784427	1472655497935	1472655498062	d	68
+55311	605095	I know you changed it.	I know you changed it.	28784433	1472655498102	1472655498192	 	32
+55311	605095	I know you changed it.	I know you changed it.	28784443	1472655498212	1472655498305	i	73
+55311	605095	I know you changed it.	I know you changed it.	28784445	1472655498295	1472655498402	t	84
+55311	605095	I know you changed it.	I know you changed it.	28784452	1472655498422	1472655498536	.	190
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784632	1472655499951	1472655500202	SHIFT	16
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784635	1472655500149	1472655500299	T	84
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784639	1472655500262	1472655500369	h	72
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784644	1472655500369	1472655500498	e	69
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784650	1472655500455	1472655500569	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784657	1472655500901	1472655501065	q	81
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784824	1472655501035	1472655501167	u	85
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784830	1472655501247	1472655501389	a	65
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784834	1472655501379	1472655501525	n	78
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784838	1472655501989	1472655502079	BKSP	8
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784845	1472655502469	1472655502575	l	76
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784850	1472655502725	1472655502815	i	73
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784858	1472655503135	1472655503252	f	70
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784893	1472655503633	1472655503725	y	89
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784901	1472655503795	1472655503939	i	73
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784908	1472655503859	1472655503999	n	78
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784913	1472655503969	1472655504085	g	71
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784956	1472655504075	1472655504186	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784962	1472655504416	1472655504541	c	67
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784965	1472655504519	1472655504729	o	79
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784971	1472655504662	1472655504799	n	78
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28784975	1472655504809	1472655504950	t	84
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785008	1472655504929	1472655505082	i	73
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785010	1472655505045	1472655505142	n	78
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785013	1472655505242	1472655505365	u	85
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785015	1472655505322	1472655505419	e	69
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785021	1472655505479	1472655505629	s	83
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785054	1472655505562	1472655505681	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785058	1472655505811	1472655505962	o	79
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785065	1472655505885	1472655506015	n	78
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785073	1472655505962	1472655506106	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785080	1472655506065	1472655506257	t	84
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785123	1472655506125	1472655506269	h	72
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785128	1472655506215	1472655506389	e	69
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785131	1472655506309	1472655506409	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785136	1472655506561	1472655506765	w	87
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785141	1472655506665	1472655506855	e	69
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785149	1472655506865	1472655507015	s	83
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785181	1472655506959	1472655507102	t	84
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785183	1472655507037	1472655507182	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785185	1472655507222	1472655507369	s	83
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785190	1472655507342	1472655507442	i	73
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785195	1472655507462	1472655507549	d	68
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785201	1472655507619	1472655507732	e	69
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785216	1472655507722	1472655507839	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785218	1472655507889	1472655508019	o	79
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785221	1472655507972	1472655508094	f	70
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785225	1472655508072	1472655508175	 	32
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785234	1472655508185	1472655508305	t	84
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785241	1472655508445	1472655508572	o	79
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785264	1472655508645	1472655508769	w	87
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785268	1472655508809	1472655508879	n	78
+55311	605102	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	28785274	1472655509029	1472655509125	.	190
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785432	1472655510501	1472655510842	SHIFT	16
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785439	1472655510792	1472655510879	H	72
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785447	1472655510919	1472655511032	e	69
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785452	1472655510989	1472655511114	 	32
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785457	1472655511082	1472655511202	w	87
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785462	1472655511242	1472655511445	a	65
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785540	1472655511362	1472655511486	s	83
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785546	1472655511435	1472655511536	 	32
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785552	1472655511906	1472655512062	r	82
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785558	1472655511989	1472655512132	e	69
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785569	1472655512152	1472655512289	p	80
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785577	1472655512359	1472655512512	l	76
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785615	1472655512438	1472655512592	a	65
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785623	1472655512563	1472655512759	c	67
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785629	1472655512709	1472655512849	e	69
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785637	1472655512939	1472655513045	d	68
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785642	1472655512999	1472655513121	 	32
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785647	1472655513311	1472655513429	b	66
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785696	1472655513419	1472655513557	y	89
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785702	1472655513525	1472655513632	 	32
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785710	1472655513672	1472655513842	SHIFT	16
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785723	1472655513742	1472655513852	K	75
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785734	1472655513902	1472655514025	e	69
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785740	1472655514004	1472655514109	n	78
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785746	1472655514219	1472655514325	 	32
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785798	1472655514528	1472655514615	BKSP	8
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785801	1472655514585	1472655514749	t	84
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785803	1472655514695	1472655514809	 	32
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785807	1472655514909	1472655515149	SHIFT	16
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785811	1472655515099	1472655515239	G	71
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785814	1472655515279	1472655515442	r	82
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785819	1472655515849	1472655515969	a	65
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785909	1472655516060	1472655516159	h	72
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785913	1472655516409	1472655516545	a	65
+55311	605121	He was replaced by Kent Graham.	He was replaced by Kent Graham.	28785918	1472655516565	1472655516685	m	77
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786060	1472655519108	1472655519345	SHIFT	16
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786063	1472655519285	1472655519465	W	87
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786066	1472655519555	1472655519685	e	69
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786070	1472655519625	1472655519725	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786073	1472655519765	1472655519895	w	87
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786098	1472655519835	1472655520005	i	73
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786103	1472655519917	1472655520045	l	76
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786107	1472655520085	1472655520184	l	76
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786109	1472655520152	1472655520315	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786113	1472655520285	1472655520385	b	66
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786143	1472655520355	1472655520496	e	69
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786148	1472655520455	1472655520558	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786152	1472655520668	1472655520749	b	66
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786158	1472655520840	1472655520965	r	82
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786163	1472655520929	1472655521085	i	73
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786169	1472655521015	1472655521132	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786171	1472655521085	1472655521218	g	71
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786174	1472655521189	1472655521312	i	73
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786178	1472655521249	1472655521363	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786181	1472655521332	1472655521460	g	71
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786221	1472655521432	1472655521492	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786224	1472655521562	1472655521679	i	73
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786228	1472655521629	1472655521711	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786234	1472655521811	1472655521943	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786238	1472655521943	1472655522142	l	76
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786292	1472655522089	1472655522243	u	85
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786300	1472655522253	1472655522325	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786306	1472655522325	1472655522465	c	67
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786312	1472655522455	1472655522575	h	72
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786317	1472655522575	1472655522686	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786321	1472655522876	1472655523019	a	65
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786359	1472655522965	1472655523061	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786361	1472655523101	1472655523209	d	68
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786365	1472655523165	1472655523259	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786373	1472655523259	1472655523442	SHIFT	16
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786379	1472655523349	1472655523442	I	73
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786388	1472655523512	1472655523595	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786397	1472655523665	1472655523760	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786426	1472655523729	1472655523812	e	69
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786431	1472655523872	1472655523959	e	69
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786436	1472655524049	1472655524142	d	68
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786442	1472655524115	1472655524215	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786491	1472655524215	1472655524417	t	84
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786449	1472655524319	1472655524405	o	79
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786494	1472655524365	1472655524497	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786498	1472655524517	1472655524775	k	75
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786502	1472655524611	1472655524785	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786505	1472655524719	1472655524869	o	79
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786509	1472655524815	1472655524930	w	87
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786566	1472655524920	1472655525025	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786570	1472655525136	1472655525285	h	72
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786577	1472655525212	1472655525345	o	79
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786583	1472655525355	1472655525459	w	87
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786588	1472655525409	1472655525509	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786593	1472655525579	1472655525664	m	77
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786615	1472655525642	1472655525782	a	65
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786621	1472655525752	1472655525861	n	78
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786630	1472655525832	1472655525977	y	89
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786636	1472655525942	1472655526052	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786646	1472655526072	1472655526249	t	84
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786691	1472655526155	1472655526259	o	79
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786694	1472655526215	1472655526310	 	32
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786698	1472655526580	1472655526710	o	79
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786704	1472655526655	1472655526800	r	82
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786708	1472655526950	1472655527062	d	68
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786715	1472655527162	1472655527319	e	69
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786725	1472655527219	1472655527381	r	82
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786734	1472655527351	1472655527555	SHIFT	16
+55311	605133	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	28786729	1472655527431	1472655527545	?	191
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786880	1472655529135	1472655529305	SHIFT	16
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786886	1472655529215	1472655529325	I	73
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786889	1472655529397	1472655529499	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786891	1472655529509	1472655529695	k	75
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786893	1472655529629	1472655529847	n	78
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786932	1472655529695	1472655529879	o	79
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786938	1472655529869	1472655529992	w	87
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786942	1472655530002	1472655530089	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786949	1472655530179	1472655530282	m	77
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28786954	1472655530282	1472655530413	y	89
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787045	1472655530375	1472655530477	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787048	1472655530747	1472655530912	w	87
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787055	1472655530861	1472655531022	a	65
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787062	1472655531072	1472655531175	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787067	1472655531395	1472655531508	BKSP	8
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787073	1472655531608	1472655531709	y	89
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787091	1472655531699	1472655531802	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787096	1472655531812	1472655531975	a	65
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787102	1472655531909	1472655532069	r	82
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787108	1472655532005	1472655532212	o	79
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787125	1472655532079	1472655532275	u	85
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787127	1472655532185	1472655532318	n	78
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787130	1472655532285	1472655532382	d	68
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787133	1472655532402	1472655532486	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787137	1472655532442	1472655532592	t	84
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787229	1472655532518	1472655532671	h	72
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787232	1472655532551	1472655532728	e	69
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787236	1472655532634	1472655532778	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787241	1472655533144	1472655533307	h	72
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787245	1472655533272	1472655533425	o	79
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787252	1472655533445	1472655533562	s	83
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787258	1472655533712	1472655533875	p	80
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787281	1472655533907	1472655534045	i	73
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787290	1472655534095	1472655534260	t	84
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787298	1472655534212	1472655534368	a	65
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787304	1472655534305	1472655534442	l	76
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787339	1472655534388	1472655534535	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787344	1472655534545	1472655534649	b	66
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787352	1472655534859	1472655535028	e	69
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787363	1472655534965	1472655535098	t	84
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787371	1472655535138	1472655535281	t	84
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787415	1472655535235	1472655535415	e	69
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787419	1472655535319	1472655535490	r	82
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787425	1472655535455	1472655535572	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787429	1472655535538	1472655535687	t	84
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787434	1472655535662	1472655535765	h	72
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787442	1472655535927	1472655536108	a	65
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787484	1472655536035	1472655536140	n	78
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787489	1472655536140	1472655536242	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787500	1472655536292	1472655536482	SHIFT	16
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787494	1472655536352	1472655536462	I	73
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787505	1472655536552	1472655536675	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787514	1472655536675	1472655536822	d	68
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787554	1472655536752	1472655536904	o	79
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787550	1472655536832	1472655536884	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787561	1472655536934	1472655537115	t	84
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787565	1472655537028	1472655537135	h	72
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787569	1472655537075	1472655537265	e	69
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787573	1472655537265	1472655537364	 	32
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787687	1472655537868	1472655537995	d	68
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787692	1472655538075	1472655538212	t	84
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787698	1472655538185	1472655538322	a	65
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787702	1472655538432	1472655538562	d	68
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787705	1472655538822	1472655538935	i	73
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787747	1472655538997	1472655539082	u	85
+55311	605151	I know my way around the hospital better than I do the stadium.	I know my way around the hospital better than I do the dtadium.	28787750	1472655539152	1472655539265	m	77
+55311	605172	Trip was good I presume?	Trip was good I presume?	28787950	1472655541182	1472655541648	SHIFT	16
+55311	605172	Trip was good I presume?	Trip was good I presume?	28787952	1472655541602	1472655541708	T	84
+55311	605172	Trip was good I presume?	Trip was good I presume?	28787955	1472655541798	1472655541922	r	82
+55311	605172	Trip was good I presume?	Trip was good I presume?	28787960	1472655541932	1472655542108	i	73
+55311	605172	Trip was good I presume?	Trip was good I presume?	28787968	1472655542062	1472655542246	p	80
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788014	1472655542210	1472655542310	 	32
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788017	1472655542600	1472655542698	w	87
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788023	1472655542778	1472655542912	a	65
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788031	1472655542825	1472655542965	s	83
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788041	1472655542922	1472655543048	 	32
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788084	1472655543015	1472655543145	g	71
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788091	1472655543155	1472655543228	o	79
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788096	1472655543278	1472655543367	o	79
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788102	1472655543342	1472655543492	d	68
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788109	1472655543502	1472655543624	 	32
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788112	1472655543594	1472655543762	SHIFT	16
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788185	1472655543694	1472655543794	I	73
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788192	1472655543864	1472655543958	 	32
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788199	1472655544018	1472655544138	p	80
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788209	1472655544128	1472655544327	r	82
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788217	1472655544242	1472655544417	e	69
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788226	1472655544467	1472655544638	s	83
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788281	1472655544810	1472655544948	u	85
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788285	1472655545018	1472655545126	m	77
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788289	1472655545095	1472655545211	e	69
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788296	1472655545241	1472655545502	SHIFT	16
+55311	605172	Trip was good I presume?	Trip was good I presume?	28788293	1472655545351	1472655545462	?	191
+55311	605181	Do you have it yet?.	Do you have it yet?	28788472	1472655547498	1472655547942	SHIFT	16
+55311	605181	Do you have it yet?.	Do you have it yet?	28788474	1472655547906	1472655548062	D	68
+55311	605181	Do you have it yet?.	Do you have it yet?	28788478	1472655548092	1472655548204	o	79
+55311	605181	Do you have it yet?.	Do you have it yet?	28788482	1472655548162	1472655548295	 	32
+55311	605181	Do you have it yet?.	Do you have it yet?	28788517	1472655548305	1472655548510	y	89
+55311	605181	Do you have it yet?.	Do you have it yet?	28788488	1472655548358	1472655548504	o	79
+55311	605181	Do you have it yet?.	Do you have it yet?	28788520	1472655548475	1472655548527	 	85
+55311	605181	Do you have it yet?.	Do you have it yet?	28788525	1472655548572	1472655548695	h	72
+55311	605181	Do you have it yet?.	Do you have it yet?	28788528	1472655548628	1472655548778	a	65
+55311	605181	Do you have it yet?.	Do you have it yet?	28788532	1472655548715	1472655548875	v	86
+55311	605181	Do you have it yet?.	Do you have it yet?	28788536	1472655548828	1472655549008	e	69
+55311	605181	Do you have it yet?.	Do you have it yet?	28788570	1472655548895	1472655549018	 	32
+55311	605181	Do you have it yet?.	Do you have it yet?	28788574	1472655549040	1472655549152	i	73
+55311	605181	Do you have it yet?.	Do you have it yet?	28788578	1472655549142	1472655549312	t	84
+55311	605181	Do you have it yet?.	Do you have it yet?	28788581	1472655549232	1472655549342	 	32
+55311	605181	Do you have it yet?.	Do you have it yet?	28788588	1472655549452	1472655549538	y	89
+55311	605181	Do you have it yet?.	Do you have it yet?	28788590	1472655549548	1472655549712	e	69
+55311	605181	Do you have it yet?.	Do you have it yet?	28788729	1472655550332	1472655550442	y	89
+55311	605181	Do you have it yet?.	Do you have it yet?	28788735	1472655550662	1472655550758	BKSP	8
+55311	605181	Do you have it yet?.	Do you have it yet?	28788740	1472655550828	1472655550932	t	84
+55311	605181	Do you have it yet?.	Do you have it yet?	28788744	1472655551062	1472655551302	SHIFT	16
+55311	605181	Do you have it yet?.	Do you have it yet?	28788748	1472655551142	1472655551312	?	191
+55311	605194	Have a great trip.	Have a great trip.	28788884	1472655552974	1472655553295	SHIFT	16
+55311	605194	Have a great trip.	Have a great trip.	28788886	1472655553238	1472655553325	H	72
+55311	605194	Have a great trip.	Have a great trip.	28788891	1472655553365	1472655553517	a	65
+55311	605194	Have a great trip.	Have a great trip.	28788893	1472655553488	1472655553655	v	86
+55311	605194	Have a great trip.	Have a great trip.	28788897	1472655553562	1472655553715	e	69
+55311	605194	Have a great trip.	Have a great trip.	28788931	1472655553665	1472655553767	 	32
+55311	605194	Have a great trip.	Have a great trip.	28788935	1472655553757	1472655553905	a	65
+55311	605194	Have a great trip.	Have a great trip.	28788941	1472655553825	1472655553948	 	32
+55311	605194	Have a great trip.	Have a great trip.	28788945	1472655553988	1472655554155	g	71
+55311	605194	Have a great trip.	Have a great trip.	28788951	1472655554068	1472655554315	r	82
+55311	605194	Have a great trip.	Have a great trip.	28789009	1472655554185	1472655554377	e	69
+55311	605194	Have a great trip.	Have a great trip.	28789014	1472655554255	1472655554488	a	65
+55311	605194	Have a great trip.	Have a great trip.	28789019	1472655554417	1472655554608	t	84
+55311	605194	Have a great trip.	Have a great trip.	28789022	1472655554598	1472655554738	 	32
+55311	605194	Have a great trip.	Have a great trip.	28789027	1472655555019	1472655555178	t	84
+55311	605194	Have a great trip.	Have a great trip.	28789031	1472655555108	1472655555278	r	82
+55311	605194	Have a great trip.	Have a great trip.	28789088	1472655555268	1472655555424	i	73
+55311	605194	Have a great trip.	Have a great trip.	28789094	1472655555395	1472655555532	p	80
+55311	605194	Have a great trip.	Have a great trip.	28789099	1472655556062	1472655556168	.	190
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789330	1472655557632	1472655558078	SHIFT	16
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789336	1472655558328	1472655558602	SHIFT	16
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789333	1472655558448	1472655558572	O	79
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789340	1472655558702	1472655558792	p	80
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789346	1472655558852	1472655558935	p	80
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789353	1472655559065	1472655559188	o	79
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789402	1472655559178	1472655559305	s	83
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789407	1472655559455	1472655559582	i	73
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789416	1472655559562	1472655559695	t	84
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789424	1472655559685	1472655559925	i	73
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789460	1472655559793	1472655559947	o	79
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789465	1472655559872	1472655559997	n	78
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789477	1472655560067	1472655560162	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789483	1472655560212	1472655560356	l	76
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789491	1472655560328	1472655560467	e	69
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789497	1472655560447	1472655560653	a	65
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789512	1472655560618	1472655560736	d	68
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789516	1472655560846	1472655561012	e	69
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789519	1472655560894	1472655561082	r	82
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789524	1472655561122	1472655561247	s	83
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789534	1472655561185	1472655561339	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789584	1472655561298	1472655561427	h	72
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789591	1472655561324	1472655561475	a	65
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789597	1472655561437	1472655561588	v	86
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789604	1472655561512	1472655561679	e	69
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789612	1472655561588	1472655561699	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789620	1472655561771	1472655561894	u	85
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789624	1472655561954	1472655562078	r	82
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789652	1472655562150	1472655562267	g	71
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789660	1472655562238	1472655562418	e	69
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789665	1472655562352	1472655562478	r	82
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789670	1472655562638	1472655562742	BKSP	8
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789677	1472655562732	1472655562916	d	68
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789731	1472655562892	1472655562992	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789738	1472655563212	1472655563355	h	72
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789748	1472655563275	1472655563425	i	73
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789758	1472655563445	1472655563562	m	77
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789770	1472655563522	1472655563644	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789810	1472655563601	1472655563816	t	84
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789805	1472655563659	1472655563799	o	79
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789816	1472655563728	1472655563846	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789822	1472655563956	1472655564105	c	67
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789827	1472655564018	1472655564184	a	65
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789835	1472655564105	1472655564194	l	76
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789837	1472655564246	1472655564333	l	76
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789840	1472655564312	1472655564408	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789846	1472655564428	1472655564542	o	79
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789853	1472655564485	1472655564602	f	70
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789912	1472655564592	1472655564714	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789915	1472655564884	1472655564955	BKSP	8
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789918	1472655564975	1472655565115	f	70
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789923	1472655565105	1472655565208	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28789928	1472655565218	1472655565388	t	84
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790043	1472655565305	1472655565415	h	72
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790049	1472655565378	1472655565523	e	69
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790058	1472655565475	1472655565582	 	32
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790064	1472655565662	1472655565812	c	67
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790071	1472655565748	1472655565862	i	73
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790078	1472655565906	1472655566041	s	83
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790084	1472655566191	1472655566278	BKSP	8
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790088	1472655566328	1472655566415	BKSP	8
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790093	1472655566465	1472655566555	BKSP	8
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790098	1472655567015	1472655567165	v	86
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790168	1472655567128	1472655567207	i	73
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790179	1472655567237	1472655567392	s	83
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790190	1472655567412	1472655567515	i	73
+55311	605202	Opposition leaders have urged him to call off the visit.	Opposition leaders have urged him to call off the visit.	28790196	1472655567647	1472655567788	t	84

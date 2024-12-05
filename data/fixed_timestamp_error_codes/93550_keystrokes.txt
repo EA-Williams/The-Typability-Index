@@ -1,0 +1,812 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+93550	1023470	I am trying again.	I am trying again.	48684500	1473203016434	1473203016681	SHIFT	16
+93550	1023470	I am trying again.	I am trying again.	48684502	1473203016551	1473203016733	I	73
+93550	1023470	I am trying again.	I am trying again.	48684505	1473203016713	1473203016845	 	32
+93550	1023470	I am trying again.	I am trying again.	48684507	1473203016929	1473203017082	m	77
+93550	1023470	I am trying again.	I am trying again.	48684512	1473203017631	1473203017753	BKSP	8
+93550	1023470	I am trying again.	I am trying again.	48684515	1473203017753	1473203017892	a	65
+93550	1023470	I am trying again.	I am trying again.	48684560	1473203017868	1473203018016	m	77
+93550	1023470	I am trying again.	I am trying again.	48684563	1473203017985	1473203018085	 	32
+93550	1023470	I am trying again.	I am trying again.	48684568	1473203018101	1473203018190	t	84
+93550	1023470	I am trying again.	I am trying again.	48684577	1473203018272	1473203018397	r	82
+93550	1023470	I am trying again.	I am trying again.	48684580	1473203018354	1473203018476	y	89
+93550	1023470	I am trying again.	I am trying again.	48684585	1473203018533	1473203018653	i	73
+93550	1023470	I am trying again.	I am trying again.	48684591	1473203018697	1473203018819	n	78
+93550	1023470	I am trying again.	I am trying again.	48684595	1473203018750	1473203018875	g	71
+93550	1023470	I am trying again.	I am trying again.	48684599	1473203018892	1473203018996	 	32
+93550	1023470	I am trying again.	I am trying again.	48684603	1473203018942	1473203019109	a	65
+93550	1023470	I am trying again.	I am trying again.	48684649	1473203019080	1473203019210	g	71
+93550	1023470	I am trying again.	I am trying again.	48684651	1473203019210	1473203019359	a	65
+93550	1023470	I am trying again.	I am trying again.	48684653	1473203019285	1473203019380	i	73
+93550	1023470	I am trying again.	I am trying again.	48684655	1473203019465	1473203019541	n	78
+93550	1023470	I am trying again.	I am trying again.	48684660	1473203019686	1473203019832	.	190
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684914	1473203021975	1473203022489	SHIFT	16
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684910	1473203022363	1473203022470	Y	89
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684920	1473203022516	1473203022632	o	79
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684923	1473203022632	1473203022751	u	85
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684927	1473203022805	1473203022933	'	222
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684933	1473203023048	1473203023150	l	76
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684962	1473203023202	1473203023336	l	76
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684965	1473203023301	1473203023419	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684969	1473203023434	1473203023581	r	82
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684974	1473203023618	1473203023750	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48684979	1473203023803	1473203023940	v	86
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685054	1473203024112	1473203024262	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685056	1473203024229	1473203024376	c	67
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685060	1473203024328	1473203024464	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685063	1473203024445	1473203024576	i	73
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685066	1473203024640	1473203024731	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685071	1473203024915	1473203024991	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685075	1473203025235	1473203025351	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685201	1473203025438	1473203025569	v	86
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685208	1473203025600	1473203025729	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685213	1473203025776	1473203025905	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685218	1473203026198	1473203026290	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685224	1473203026382	1473203026457	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685229	1473203026531	1473203026618	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685239	1473203026668	1473203026855	b	66
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685233	1473203026682	1473203026773	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685246	1473203027059	1473203027144	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685249	1473203027244	1473203027392	b	66
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685295	1473203027692	1473203027807	BKSP	8
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685302	1473203027755	1473203027909	v	86
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685311	1473203027924	1473203028062	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685320	1473203028062	1473203028178	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685327	1473203028425	1473203028546	t	84
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685363	1473203028503	1473203028621	h	72
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685368	1473203028606	1473203028727	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685372	1473203028706	1473203028798	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685377	1473203028790	1473203028911	b	66
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685384	1473203028997	1473203029206	r	82
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685420	1473203029153	1473203029356	a	65
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685422	1473203029314	1473203029466	n	78
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685428	1473203029417	1473203029564	d	68
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685433	1473203029523	1473203029646	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685435	1473203029700	1473203029838	n	78
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685485	1473203029806	1473203029955	e	69
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685491	1473203030017	1473203030195	w	87
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685499	1473203030169	1473203030290	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685504	1473203030357	1473203030590	SHIFT	16
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685509	1473203030459	1473203030621	P	80
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685511	1473203030674	1473203030817	a	65
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685533	1473203030774	1473203030909	l	76
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685536	1473203030959	1473203031114	m	77
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685540	1473203031060	1473203031181	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685555	1473203031165	1473203031608	SHIFT	16
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685544	1473203031263	1473203031383	O	79
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685549	1473203031414	1473203031567	S	83
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685618	1473203031584	1473203031699	 	32
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685621	1473203031788	1473203031935	v	86
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685624	1473203032368	1473203032489	4	52
+93550	1023477	You'll receive the brand new Palm OS v4.	You'll receive the brand new Palm OS v4.	48685627	1473203032453	1473203032600	.	190
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685860	1473203035993	1473203036262	SHIFT	16
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685864	1473203036146	1473203036293	S	83
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685866	1473203036377	1473203036492	e	69
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685868	1473203036523	1473203036650	e	69
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685873	1473203036639	1473203036751	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685909	1473203036723	1473203036885	w	87
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685913	1473203036839	1473203036962	h	72
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685915	1473203036871	1473203037008	a	65
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685917	1473203037048	1473203037180	t	84
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685918	1473203037164	1473203037277	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685938	1473203037266	1473203037402	c	67
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685940	1473203037321	1473203037449	o	79
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685944	1473203037511	1473203037645	n	78
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685951	1473203037603	1473203037731	c	67
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685960	1473203037721	1473203037865	e	69
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685972	1473203037881	1473203038028	r	82
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685995	1473203038081	1473203038197	t	84
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685998	1473203038266	1473203038383	s	83
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48685999	1473203038350	1473203038450	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686001	1473203038482	1473203038634	w	87
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686011	1473203038582	1473203038740	e	69
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686014	1473203038681	1473203038797	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686017	1473203038813	1473203038915	j	74
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686020	1473203038888	1473203039016	a	65
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686022	1473203039082	1473203039244	v	86
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686104	1473203039233	1473203039341	e	69
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686110	1473203039385	1473203039485	BKSP	8
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686113	1473203039556	1473203039651	BKSP	8
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686120	1473203039703	1473203039801	BKSP	8
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686123	1473203039858	1473203039959	BKSP	8
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686131	1473203040034	1473203040180	h	72
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686137	1473203040155	1473203040258	a	65
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686142	1473203040305	1473203040464	v	86
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686145	1473203040430	1473203040557	e	69
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686157	1473203040539	1473203040655	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686158	1473203040639	1473203040777	f	70
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686159	1473203040719	1473203040886	o	79
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686160	1473203040834	1473203040957	r	82
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686161	1473203040960	1473203041061	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686162	1473203041061	1473203041207	y	89
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686190	1473203041235	1473203041375	o	79
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686194	1473203041324	1473203041438	u	85
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686199	1473203041463	1473203041583	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686204	1473203041553	1473203041660	i	73
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686207	1473203041719	1473203041860	n	78
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686228	1473203041838	1473203041963	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686230	1473203042058	1473203042169	y	89
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686233	1473203042140	1473203042296	o	79
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686239	1473203042263	1473203042390	u	85
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686244	1473203042479	1473203042624	r	82
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686298	1473203042610	1473203042717	 	32
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686300	1473203042762	1473203042920	c	67
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686302	1473203042863	1473203042995	i	73
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686306	1473203043010	1473203043137	r	82
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686312	1473203043380	1473203043508	BKSP	8
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686319	1473203043464	1473203043565	t	84
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686323	1473203043628	1473203043741	y	89
+93550	1023498	See what concerts we have for you in your city.	See what concerts we have for you in your city.	48686315	1473203043679	1473203043827	.	190
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686539	1473203045623	1473203046256	SHIFT	16
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686542	1473203046156	1473203046283	L	76
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686548	1473203046300	1473203046430	e	69
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686551	1473203046462	1473203046588	t	84
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686554	1473203046604	1473203046747	'	222
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686574	1473203046718	1473203046883	s	83
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686579	1473203046849	1473203046975	 	32
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686585	1473203047003	1473203047166	l	76
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686592	1473203047110	1473203047258	e	69
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686599	1473203047191	1473203047323	a	65
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686606	1473203047339	1473203047501	v	86
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686641	1473203047449	1473203047601	e	69
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686645	1473203047575	1473203047653	 	32
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686650	1473203047630	1473203047739	i	73
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686652	1473203047954	1473203048092	t	84
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686655	1473203048170	1473203048272	 	32
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686657	1473203048307	1473203048408	u	85
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686668	1473203048485	1473203048595	n	78
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686672	1473203048610	1473203048737	t	84
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686677	1473203048675	1473203048811	i	73
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686683	1473203048858	1473203049004	l	76
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686724	1473203048998	1473203049120	 	32
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686727	1473203049098	1473203049247	w	87
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686732	1473203049196	1473203049346	e	69
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686737	1473203049298	1473203049414	 	32
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686742	1473203049430	1473203049561	g	71
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686747	1473203049593	1473203049746	e	69
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686805	1473203049792	1473203049915	 	32
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686808	1473203050116	1473203050263	g	71
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686811	1473203050366	1473203050484	BKSP	8
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686815	1473203050547	1473203050657	BKSP	8
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686820	1473203050635	1473203050776	t	84
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686823	1473203050765	1473203050911	 	32
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686826	1473203050911	1473203050990	g	71
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686849	1473203050960	1473203051091	o	79
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686854	1473203051165	1473203051251	i	73
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686857	1473203051320	1473203051441	n	78
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686860	1473203051375	1473203051495	g	71
+93550	1023513	Let's leave it until we get going.	Let's leave it until we get going.	48686863	1473203051635	1473203051782	.	190
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48686973	1473203053731	1473203054042	SHIFT	16
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48686969	1473203053885	1473203053984	O	79
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48686978	1473203054073	1473203054224	n	78
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48686982	1473203054204	1473203054317	 	32
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48686987	1473203054273	1473203054404	a	65
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687010	1473203054374	1473203054489	p	80
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687012	1473203054531	1473203054631	p	80
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687015	1473203054662	1473203054835	e	69
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687017	1473203054762	1473203054923	a	65
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687019	1473203054829	1473203054995	l	76
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687048	1473203054983	1473203055037	 	32
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687051	1473203055052	1473203055132	t	84
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687054	1473203055334	1473203055466	h	72
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687057	1473203055481	1473203055632	e	69
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687059	1473203055588	1473203055736	y	89
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687060	1473203055752	1473203055868	 	32
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687093	1473203056117	1473203056238	w	87
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687097	1473203056300	1473203056443	e	69
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687102	1473203056491	1473203056615	r	82
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687106	1473203056660	1473203056777	e	69
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687138	1473203056742	1473203056860	 	32
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687140	1473203056860	1473203057007	f	70
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687146	1473203056944	1473203057044	i	73
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687150	1473203057091	1473203057213	n	78
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687157	1473203057176	1473203057333	a	65
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687188	1473203057308	1473203057445	l	76
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687191	1473203057493	1473203057637	l	76
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687195	1473203057608	1473203057739	y	89
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687200	1473203057705	1473203057855	 	32
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687206	1473203057846	1473203057962	p	80
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687213	1473203058008	1473203058146	l	76
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687265	1473203058056	1473203058173	a	65
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687266	1473203058246	1473203058325	v	86
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687267	1473203058303	1473203058376	c	67
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687268	1473203058334	1473203058462	e	69
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687270	1473203058805	1473203058881	BKSP	8
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687272	1473203058944	1473203059018	BKSP	8
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687275	1473203059073	1473203059191	BKSP	8
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687282	1473203059126	1473203059291	c	67
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687310	1473203059238	1473203059375	e	69
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687315	1473203059438	1473203059560	d	68
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687319	1473203059560	1473203059684	 	32
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687324	1473203059676	1473203059776	i	73
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687328	1473203059838	1473203059973	n	78
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687379	1473203059938	1473203060055	 	32
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687385	1473203060092	1473203060291	SHIFT	16
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687390	1473203060223	1473203060371	D	68
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687396	1473203060338	1473203060476	i	73
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687403	1473203060460	1473203060628	v	86
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687408	1473203060594	1473203060726	i	73
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687413	1473203060741	1473203060888	s	83
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687477	1473203060858	1473203060979	i	73
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687481	1473203061367	1473203061482	o	79
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687485	1473203061544	1473203061684	n	78
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687488	1473203061684	1473203061986	 	16
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687492	1473203061918	1473203062048	T	84
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687495	1473203062117	1473203062289	w	87
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687498	1473203062206	1473203062330	o	79
+93550	1023526	On appeal they were finally placed in Division Two.	On appeal they were finally placed in Division Two.	48687501	1473203062390	1473203062537	.	190
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687672	1473203064384	1473203064851	SHIFT	16
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687675	1473203064750	1473203064866	B	66
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687678	1473203064935	1473203065073	u	85
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687682	1473203065053	1473203065188	t	84
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687685	1473203065119	1473203065260	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687712	1473203065220	1473203065359	h	72
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687718	1473203065305	1473203065458	e	69
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687723	1473203065420	1473203065534	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687726	1473203065490	1473203065649	i	73
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687730	1473203065593	1473203065746	s	83
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687764	1473203065724	1473203065822	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687769	1473203065792	1473203065912	e	69
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687774	1473203065976	1473203066124	x	88
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687782	1473203066057	1473203066196	p	80
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687788	1473203066228	1473203066352	e	69
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687793	1473203066512	1473203066660	c	67
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687838	1473203066745	1473203066895	t	84
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687844	1473203066929	1473203067060	e	69
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687850	1473203067114	1473203067242	d	68
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687855	1473203067199	1473203067315	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687861	1473203067331	1473203067491	t	84
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687885	1473203067400	1473203067533	o	79
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687889	1473203067549	1473203067670	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687896	1473203067670	1473203067785	p	80
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687900	1473203068006	1473203068158	l	76
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687903	1473203068133	1473203068283	a	65
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48687907	1473203068283	1473203068452	u	85
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688010	1473203068438	1473203068552	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688014	1473203068568	1473203068709	a	65
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688018	1473203068756	1473203068912	g	71
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688023	1473203068912	1473203069075	a	65
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688043	1473203069412	1473203069996	BKSP	8
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688026	1473203069861	1473203069916	CTRL	17
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688031	1473203069928	1473203069957	CTRL	17
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688033	1473203069960	1473203069990	CTRL	17
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688038	1473203069992	1473203069995	CTRL	17
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688049	1473203069996	1473203070087	CTRL	17
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688064	1473203070087	1473203070208	BKSP	8
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688056	1473203070100	1473203070208	CTRL	17
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688072	1473203070208	1473203070215	CTRL	17
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688079	1473203070351	1473203070482	y	89
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688083	1473203070489	1473203070588	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688087	1473203070753	1473203070904	a	65
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688089	1473203070970	1473203071102	g	71
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688092	1473203071125	1473203071269	a	65
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688095	1473203071202	1473203071325	i	73
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688098	1473203071372	1473203071527	n	78
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688106	1473203071436	1473203071569	s	83
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688109	1473203071600	1473203071731	t	84
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688113	1473203071700	1473203071808	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688117	1473203071774	1473203071924	t	84
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688123	1473203071872	1473203071992	h	72
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688179	1473203071941	1473203072057	e	69
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688183	1473203072057	1473203072157	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688186	1473203072261	1473203072496	SHIFT	16
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688188	1473203072445	1473203072629	R	82
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688191	1473203072925	1473203073078	a	65
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688194	1473203073061	1473203073196	i	73
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688237	1473203073176	1473203073283	d	68
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688240	1473203073348	1473203073463	e	69
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688242	1473203073665	1473203073812	r	82
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688245	1473203073850	1473203073995	s	83
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688248	1473203073935	1473203074078	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688269	1473203074039	1473203074169	o	79
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688273	1473203074232	1473203074371	n	78
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688279	1473203074318	1473203074455	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688284	1473203074600	1473203074840	SHIFT	16
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688291	1473203074736	1473203074876	S	83
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688299	1473203074871	1473203074955	u	85
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688304	1473203075018	1473203075141	n	78
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688324	1473203075240	1473203075391	d	68
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688326	1473203075337	1473203075474	a	65
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688330	1473203075443	1473203075613	y	89
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688336	1473203075592	1473203075719	 	32
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688341	1473203075845	1473203075976	n	78
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688371	1473203076040	1473203076184	i	73
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688376	1473203076091	1473203076215	g	71
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688381	1473203076246	1473203076372	h	72
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688384	1473203076335	1473203076477	t	84
+93550	1023536	But he is expected to play against the Raiders on Sunday night.	But he is expected to play against the Raiders on Sunday night.	48688387	1473203076493	1473203076642	.	190
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688506	1473203078353	1473203078982	SHIFT	16
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688500	1473203078539	1473203078712	E	69
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688503	1473203078677	1473203078812	N	78
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688505	1473203078763	1473203078932	A	65
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688507	1473203078909	1473203079032	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688509	1473203079078	1473203079217	i	73
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688548	1473203079194	1473203079331	s	83
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688550	1473203079294	1473203079400	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688552	1473203080270	1473203080390	n	78
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688556	1473203080469	1473203080618	o	79
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688558	1473203080539	1473203080682	t	84
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688582	1473203080634	1473203080755	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688585	1473203080723	1473203080853	p	80
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688587	1473203080925	1473203081033	u	85
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688591	1473203081048	1473203081176	r	82
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688594	1473203081246	1473203081375	c	67
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688625	1473203081303	1473203081417	h	72
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688627	1473203081493	1473203081693	a	65
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688631	1473203081578	1473203081750	s	83
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688634	1473203081724	1473203081821	i	73
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688637	1473203081878	1473203082020	n	78
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688700	1473203081994	1473203082127	g	71
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688703	1473203082196	1473203082342	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688709	1473203082342	1473203082763	SHIFT	16
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688706	1473203082476	1473203082685	W	87
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688712	1473203083061	1473203083182	e	69
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688715	1473203083248	1473203083385	s	83
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688718	1473203083432	1473203083537	t	84
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688729	1473203083553	1473203083670	p	80
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688736	1473203083718	1473203083857	o	79
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688742	1473203083789	1473203083935	r	82
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688748	1473203083966	1473203084120	t	84
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688775	1473203084090	1473203084265	'	222
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688779	1473203084253	1473203084402	s	83
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688783	1473203084370	1473203084492	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688788	1473203084508	1473203084611	g	71
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688791	1473203084658	1473203084864	a	65
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688813	1473203084750	1473203084907	s	83
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688816	1473203084900	1473203085028	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688820	1473203085145	1473203085269	a	65
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688825	1473203085330	1473203085458	t	84
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688827	1473203085446	1473203085600	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688865	1473203085596	1473203085734	t	84
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688870	1473203085717	1473203085846	h	72
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688874	1473203085915	1473203086034	i	73
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688876	1473203085974	1473203086127	s	83
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688880	1473203086100	1473203086216	 	32
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688887	1473203086232	1473203086398	t	84
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688909	1473203086319	1473203086425	i	73
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688912	1473203086472	1473203086604	m	77
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688916	1473203086524	1473203086666	e	69
+93550	1023553	ENA is not purchasing Westport's gas at this time.	ENA is not purchasing Westport's gas at this time.	48688922	1473203086682	1473203086838	.	190
+93550	1023567	Can you help me here?	Can you help me there?	48689087	1473203088630	1473203088812	SHIFT	16
+93550	1023567	Can you help me here?	Can you help me there?	48689090	1473203088739	1473203088903	C	67
+93550	1023567	Can you help me here?	Can you help me there?	48689092	1473203088878	1473203089022	a	65
+93550	1023567	Can you help me here?	Can you help me there?	48689097	1473203088986	1473203089143	n	78
+93550	1023567	Can you help me here?	Can you help me there?	48689101	1473203089119	1473203089218	 	32
+93550	1023567	Can you help me here?	Can you help me there?	48689106	1473203089421	1473203089535	y	89
+93550	1023567	Can you help me here?	Can you help me there?	48689116	1473203089562	1473203089698	o	79
+93550	1023567	Can you help me here?	Can you help me there?	48689118	1473203089720	1473203089851	u	85
+93550	1023567	Can you help me here?	Can you help me there?	48689120	1473203089788	1473203089919	 	32
+93550	1023567	Can you help me here?	Can you help me there?	48689122	1473203089920	1473203090056	h	72
+93550	1023567	Can you help me here?	Can you help me there?	48689126	1473203090087	1473203090238	e	69
+93550	1023567	Can you help me here?	Can you help me there?	48689150	1473203090186	1473203090322	l	76
+93550	1023567	Can you help me here?	Can you help me there?	48689153	1473203090369	1473203090522	p	80
+93550	1023567	Can you help me here?	Can you help me there?	48689155	1473203090463	1473203090596	 	32
+93550	1023567	Can you help me here?	Can you help me there?	48689157	1473203090613	1473203090767	m	77
+93550	1023567	Can you help me here?	Can you help me there?	48689160	1473203090715	1473203090822	e	69
+93550	1023567	Can you help me here?	Can you help me there?	48689187	1473203090783	1473203090912	 	32
+93550	1023567	Can you help me here?	Can you help me there?	48689190	1473203090902	1473203091023	t	84
+93550	1023567	Can you help me here?	Can you help me there?	48689193	1473203090972	1473203091101	h	72
+93550	1023567	Can you help me here?	Can you help me there?	48689195	1473203091140	1473203091325	e	69
+93550	1023567	Can you help me here?	Can you help me there?	48689197	1473203091240	1473203091426	r	82
+93550	1023567	Can you help me here?	Can you help me there?	48689227	1473203091372	1473203091539	e	69
+93550	1023567	Can you help me here?	Can you help me there?	48689230	1473203091486	1473203091619	.	190
+93550	1023567	Can you help me here?	Can you help me there?	48689233	1473203091821	1473203091941	BKSP	8
+93550	1023567	Can you help me here?	Can you help me there?	48689239	1473203092041	1473203092232	?	191
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689339	1473203094187	1473203094340	T	84
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689343	1473203094314	1473203094453	H	72
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689347	1473203094399	1473203094537	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689351	1473203094514	1473203094615	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689356	1473203094615	1473203094737	f	70
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689435	1473203094715	1473203094848	o	79
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689437	1473203094787	1473203094939	r	82
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689439	1473203094941	1473203095078	m	77
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689442	1473203095397	1473203096008	BKSP	8
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689446	1473203096119	1473203096203	BKSP	8
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689451	1473203096286	1473203096370	BKSP	8
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689456	1473203096433	1473203096517	BKSP	8
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689460	1473203096633	1473203096770	h	72
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689464	1473203096757	1473203096884	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689496	1473203096838	1473203096976	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689499	1473203096977	1473203097105	f	70
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689502	1473203097105	1473203097246	o	79
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689506	1473203097290	1473203097437	r	82
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689512	1473203097691	1473203097837	m	77
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689563	1473203097822	1473203097992	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689568	1473203097931	1473203098106	r	82
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689573	1473203098122	1473203098260	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689581	1473203098323	1473203098431	m	77
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689588	1473203098492	1473203098624	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689591	1473203098680	1473203098794	n	78
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689614	1473203098867	1473203098996	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689617	1473203098937	1473203099065	s	83
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689622	1473203099112	1473203099251	t	84
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689628	1473203099256	1473203099434	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689662	1473203099367	1473203099562	r	82
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689665	1473203099512	1473203099646	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689669	1473203099598	1473203099751	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689672	1473203099712	1473203099845	s	83
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689681	1473203099845	1473203099999	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689737	1473203099905	1473203100049	a	65
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689740	1473203100214	1473203100334	c	67
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689742	1473203100484	1473203100635	c	67
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689744	1473203100599	1473203100735	u	85
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689747	1473203100699	1473203100846	s	83
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689749	1473203100869	1473203100985	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689766	1473203101043	1473203101191	d	68
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689771	1473203101132	1473203101247	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689777	1473203101265	1473203101400	o	79
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689781	1473203101348	1473203101492	f	70
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689823	1473203101452	1473203101573	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689825	1473203101589	1473203101672	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689828	1473203102078	1473203102203	BKSP	8
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689832	1473203102155	1473203102319	r	82
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689835	1473203102271	1473203102425	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689837	1473203102559	1473203102695	c	67
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689838	1473203102726	1473203102864	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689881	1473203102831	1473203102975	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689882	1473203103097	1473203103214	v	86
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689883	1473203103245	1473203103351	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689884	1473203103417	1473203103561	n	78
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689885	1473203103515	1473203103673	g	71
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689897	1473203103615	1473203103746	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689898	1473203103832	1473203103951	s	83
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689899	1473203103967	1473203104086	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689901	1473203104164	1473203104286	v	86
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689905	1473203104364	1473203104505	e	69
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689945	1473203104437	1473203104606	n	78
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689949	1473203104567	1473203104687	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689955	1473203104854	1473203105005	b	66
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689962	1473203105036	1473203105161	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689968	1473203105236	1473203105351	l	76
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48689973	1473203105383	1473203105491	l	76
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690025	1473203105585	1473203105689	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690026	1473203106039	1473203106148	o	79
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690028	1473203106223	1473203106373	n	78
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690030	1473203106394	1473203106531	 	32
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690032	1473203106547	1473203106692	l	76
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690066	1473203106734	1473203106873	i	73
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690069	1473203106821	1473203106977	r	82
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690073	1473203107031	1473203107191	a	65
+93550	1023575	The former minister is accused of receiving seven billion lira.	The former minister is accused of receiving seven billion lira.	48690076	1473203107132	1473203107300	.	190
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690224	1473203109272	1473203109542	SHIFT	16
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690230	1473203109423	1473203109569	S	83
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690233	1473203109557	1473203109673	u	85
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690238	1473203109742	1473203109875	n	78
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690242	1473203109827	1473203109988	d	68
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690261	1473203109923	1473203110084	a	65
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690263	1473203110027	1473203110200	y	89
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690265	1473203110176	1473203110301	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690267	1473203110322	1473203110452	t	84
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690269	1473203110404	1473203110533	i	73
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690272	1473203110549	1473203110722	c	67
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690290	1473203110647	1473203110787	k	75
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690294	1473203110765	1473203110898	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690299	1473203110914	1473203111063	y	89
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690303	1473203111034	1473203111188	s	83
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690306	1473203111152	1473203111267	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690310	1473203111299	1473203111424	h	72
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690407	1473203111387	1473203111482	a	65
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690410	1473203111498	1473203111680	v	86
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690412	1473203111636	1473203111771	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690416	1473203112002	1473203112594	BKSP	8
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690418	1473203112702	1473203112814	BKSP	8
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690420	1473203112891	1473203112982	BKSP	8
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690424	1473203113078	1473203113138	BKSP	8
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690427	1473203113191	1473203113297	t	84
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690433	1473203113407	1473203113549	s	83
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690439	1473203113549	1473203113663	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690451	1473203113794	1473203113921	h	72
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690454	1473203113866	1473203113979	a	65
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690457	1473203113995	1473203114165	v	86
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690460	1473203114104	1473203114252	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690502	1473203114197	1473203114345	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690504	1473203114280	1473203114429	b	66
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690505	1473203114483	1473203114584	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690506	1473203114631	1473203114764	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690507	1473203114716	1473203114864	n	78
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690557	1473203114833	1473203114958	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690559	1473203114932	1473203115053	o	79
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690560	1473203115116	1473203115285	n	78
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690563	1473203115285	1473203115454	s	83
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690564	1473203115589	1473203115654	a	65
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690569	1473203115755	1473203115870	BKSP	8
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690574	1473203115917	1473203116076	BKSP	8
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690598	1473203116029	1473203116181	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690600	1473203116119	1473203116305	s	83
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690602	1473203116256	1473203116420	a	65
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690604	1473203116356	1473203116505	l	76
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690609	1473203116489	1473203116614	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690614	1473203116657	1473203116759	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690625	1473203116770	1473203116914	f	70
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690627	1473203116876	1473203117022	o	79
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690629	1473203116960	1473203117108	r	82
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690630	1473203117092	1473203117227	 	32
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690646	1473203117192	1473203117351	w	87
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690649	1473203117307	1473203117413	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690650	1473203117452	1473203117592	e	69
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690652	1473203117553	1473203117687	k	75
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690657	1473203117676	1473203117821	s	83
+93550	1023588	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	48690655	1473203117763	1473203117925	.	190
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690768	1473203119443	1473203119791	SHIFT	16
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690772	1473203119666	1473203119797	T	84
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690777	1473203119784	1473203119905	H	72
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690784	1473203119897	1473203120032	e	69
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690790	1473203119966	1473203120114	y	89
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690865	1473203120064	1473203120189	 	32
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690869	1473203120197	1473203120333	h	72
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690875	1473203120462	1473203120548	BKSP	8
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690880	1473203120631	1473203120731	BKSP	8
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690884	1473203120801	1473203120900	BKSP	8
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690889	1473203120978	1473203121087	BKSP	8
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690893	1473203121134	1473203121252	BKSP	8
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690897	1473203121335	1473203121465	h	72
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690901	1473203121505	1473203121640	e	69
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690906	1473203121582	1473203121740	y	89
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690928	1473203121706	1473203121838	 	32
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690932	1473203121903	1473203122046	h	72
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690935	1473203122006	1473203122137	a	65
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690941	1473203122168	1473203122330	v	86
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690944	1473203122302	1473203122433	e	69
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690978	1473203122354	1473203122506	 	32
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690986	1473203122607	1473203122654	n	78
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690992	1473203122723	1473203122838	o	79
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48690998	1473203123070	1473203123168	t	84
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691003	1473203123239	1473203123393	 	32
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691032	1473203123372	1473203123504	i	73
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691034	1473203123484	1473203123549	s	83
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691035	1473203123610	1473203123722	s	83
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691036	1473203123705	1473203123812	u	85
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691037	1473203123827	1473203123958	e	69
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691039	1473203124042	1473203124207	d	68
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691053	1473203124142	1473203124266	 	32
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691058	1473203124234	1473203124394	a	65
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691064	1473203124342	1473203124489	n	78
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691068	1473203124458	1473203124601	 	32
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691072	1473203124608	1473203124758	o	79
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691101	1473203124727	1473203124860	r	82
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691104	1473203124915	1473203125077	d	68
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691107	1473203125077	1473203125233	e	69
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691110	1473203125165	1473203125338	r	82
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691113	1473203125280	1473203125385	 	32
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691117	1473203125470	1473203125564	y	89
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691136	1473203125615	1473203125804	e	69
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691141	1473203125751	1473203125912	t	84
+93550	1023598	They have not issued an order yet.	They have not issued an order yet.	48691146	1473203125917	1473203126064	.	190
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691319	1473203127805	1473203128383	SHIFT	16
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691317	1473203128235	1473203128352	Y	89
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691321	1473203128451	1473203128571	o	79
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691322	1473203128617	1473203128768	i	73
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691323	1473203128784	1473203128971	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691326	1473203129153	1473203129253	BKSP	8
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691328	1473203129300	1473203129418	BKSP	8
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691331	1473203129471	1473203129627	u	85
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691343	1473203129616	1473203129740	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691347	1473203129756	1473203129887	j	74
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691350	1473203129944	1473203130085	u	85
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691354	1473203130004	1473203130142	s	83
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691359	1473203130158	1473203130271	t	84
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691402	1473203130221	1473203130360	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691405	1473203130376	1473203130498	c	67
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691407	1473203130444	1473203130587	a	65
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691411	1473203130520	1473203130644	n	78
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691413	1473203130791	1473203130944	'	222
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691417	1473203130976	1473203131136	t	84
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691434	1473203131076	1473203131194	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691439	1473203131194	1473203131360	w	87
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691444	1473203131314	1473203131467	o	79
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691447	1473203131445	1473203131604	r	82
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691451	1473203131562	1473203131701	k	75
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691482	1473203131677	1473203131824	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691483	1473203131893	1473203132045	w	87
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691487	1473203131966	1473203132093	i	73
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691491	1473203132124	1473203132274	t	84
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691495	1473203132203	1473203132340	h	72
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691499	1473203132424	1473203132545	o	79
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691510	1473203132603	1473203132756	u	85
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691513	1473203132701	1473203132850	t	84
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691516	1473203132782	1473203132943	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691520	1473203132928	1473203133108	m	77
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691539	1473203133096	1473203133216	e	69
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691540	1473203133154	1473203133297	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691542	1473203133297	1473203133457	c	67
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691544	1473203133401	1473203133555	a	65
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691547	1473203133451	1473203133599	n	78
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691580	1473203133555	1473203133687	 	32
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691583	1473203133718	1473203133806	y	89
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691586	1473203133771	1473203133923	o	79
+93550	1023608	You just can't work without me can you?	You just can't work without me can you?	48691588	1473203133889	1473203133987	u	85
+93550	1023617	There will be some better news later today	There will be some better news later today	48691714	1473203134107	1473203136496	SHIFT	16
+93550	1023617	There will be some better news later today	There will be some better news later today	48691717	1473203136357	1473203136513	T	84
+93550	1023617	There will be some better news later today	There will be some better news later today	48691722	1473203136478	1473203136618	H	72
+93550	1023617	There will be some better news later today	There will be some better news later today	48691727	1473203136594	1473203136737	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48691732	1473203136680	1473203136852	r	82
+93550	1023617	There will be some better news later today	There will be some better news later today	48691757	1473203136796	1473203136945	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48691761	1473203136977	1473203137076	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48691765	1473203137047	1473203137172	w	87
+93550	1023617	There will be some better news later today	There will be some better news later today	48691767	1473203137114	1473203137222	i	73
+93550	1023617	There will be some better news later today	There will be some better news later today	48691770	1473203137282	1473203137376	l	76
+93550	1023617	There will be some better news later today	There will be some better news later today	48691777	1473203137413	1473203137553	l	76
+93550	1023617	There will be some better news later today	There will be some better news later today	48691827	1473203137513	1473203137649	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48691829	1473203137784	1473203138553	BKSP	8
+93550	1023617	There will be some better news later today	There will be some better news later today	48691832	1473203138651	1473203138735	BKSP	8
+93550	1023617	There will be some better news later today	There will be some better news later today	48691834	1473203138930	1473203139076	h	72
+93550	1023617	There will be some better news later today	There will be some better news later today	48691836	1473203139081	1473203139237	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48691837	1473203139188	1473203139356	r	82
+93550	1023617	There will be some better news later today	There will be some better news later today	48691839	1473203139320	1473203139470	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48691842	1473203139470	1473203139612	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48691899	1473203139580	1473203139719	w	87
+93550	1023617	There will be some better news later today	There will be some better news later today	48691900	1473203139691	1473203139754	u	85
+93550	1023617	There will be some better news later today	There will be some better news later today	48691901	1473203140098	1473203140196	l	76
+93550	1023617	There will be some better news later today	There will be some better news later today	48691904	1473203140328	1473203140430	BKSP	8
+93550	1023617	There will be some better news later today	There will be some better news later today	48691908	1473203140477	1473203140598	BKSP	8
+93550	1023617	There will be some better news later today	There will be some better news later today	48691912	1473203140666	1473203140779	i	73
+93550	1023617	There will be some better news later today	There will be some better news later today	48691917	1473203140870	1473203140982	l	76
+93550	1023617	There will be some better news later today	There will be some better news later today	48691920	1473203141005	1473203141155	l	76
+93550	1023617	There will be some better news later today	There will be some better news later today	48691927	1473203141103	1473203141252	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48691929	1473203141186	1473203141323	b	66
+93550	1023617	There will be some better news later today	There will be some better news later today	48691931	1473203141355	1473203141487	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48691933	1473203141447	1473203141571	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48691936	1473203141640	1473203141765	s	83
+93550	1023617	There will be some better news later today	There will be some better news later today	48691978	1473203141708	1473203141804	o	79
+93550	1023617	There will be some better news later today	There will be some better news later today	48691983	1473203141876	1473203142006	m	77
+93550	1023617	There will be some better news later today	There will be some better news later today	48691987	1473203141953	1473203142085	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48691990	1473203142067	1473203142196	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48691997	1473203142152	1473203142267	b	66
+93550	1023617	There will be some better news later today	There will be some better news later today	48692001	1473203142344	1473203142520	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48692037	1473203142489	1473203142674	r	82
+93550	1023617	There will be some better news later today	There will be some better news later today	48692039	1473203142858	1473203142963	BKSP	8
+93550	1023617	There will be some better news later today	There will be some better news later today	48692041	1473203142911	1473203143043	t	84
+93550	1023617	There will be some better news later today	There will be some better news later today	48692044	1473203143074	1473203143211	t	84
+93550	1023617	There will be some better news later today	There will be some better news later today	48692047	1473203143243	1473203143431	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48692052	1473203143359	1473203143506	r	82
+93550	1023617	There will be some better news later today	There will be some better news later today	48692081	1473203143431	1473203143580	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48692086	1473203143627	1473203143780	n	78
+93550	1023617	There will be some better news later today	There will be some better news later today	48692089	1473203143743	1473203143911	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48692093	1473203143845	1473203143989	w	87
+93550	1023617	There will be some better news later today	There will be some better news later today	48692095	1473203144058	1473203144216	s	83
+93550	1023617	There will be some better news later today	There will be some better news later today	48692120	1473203144167	1473203144307	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48692125	1473203144313	1473203144468	l	76
+93550	1023617	There will be some better news later today	There will be some better news later today	48692128	1473203144444	1473203144560	a	65
+93550	1023617	There will be some better news later today	There will be some better news later today	48692132	1473203144575	1473203144738	t	84
+93550	1023617	There will be some better news later today	There will be some better news later today	48692135	1473203144713	1473203144899	e	69
+93550	1023617	There will be some better news later today	There will be some better news later today	48692158	1473203144832	1473203144994	r	82
+93550	1023617	There will be some better news later today	There will be some better news later today	48692160	1473203144950	1473203145108	 	32
+93550	1023617	There will be some better news later today	There will be some better news later today	48692162	1473203145064	1473203145195	t	84
+93550	1023617	There will be some better news later today	There will be some better news later today	48692164	1473203145249	1473203145365	o	79
+93550	1023617	There will be some better news later today	There will be some better news later today	48692168	1473203145452	1473203145611	d	68
+93550	1023617	There will be some better news later today	There will be some better news later today	48692170	1473203145583	1473203145748	a	65
+93550	1023617	There will be some better news later today	There will be some better news later today	48692172	1473203145681	1473203145796	y	89
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692264	1473203147633	1473203147919	SHIFT	16
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692266	1473203147816	1473203147968	F	70
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692268	1473203148041	1473203148184	r	82
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692270	1473203148170	1473203148329	a	65
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692272	1473203148286	1473203148428	n	78
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692283	1473203148370	1473203148553	c	67
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692285	1473203148487	1473203148646	e	69
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692287	1473203148638	1473203148757	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692288	1473203148772	1473203148887	w	87
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692290	1473203148887	1473203148947	o	79
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692293	1473203149044	1473203149173	u	85
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692318	1473203149241	1473203149421	l	76
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692319	1473203149373	1473203149531	d	68
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692320	1473203149441	1473203149573	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692321	1473203149588	1473203149712	n	78
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692322	1473203149789	1473203149940	o	79
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692352	1473203149897	1473203150038	t	84
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692355	1473203149970	1473203150093	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692359	1473203150073	1473203150220	j	74
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692364	1473203150290	1473203150412	o	79
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692369	1473203150475	1473203150591	i	73
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692374	1473203150645	1473203150794	n	78
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692409	1473203150760	1473203150876	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692413	1473203150923	1473203151065	a	65
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692415	1473203151003	1473203151128	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692423	1473203151161	1473203151704	SHIFT	16
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692418	1473203151277	1473203151408	U	85
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692420	1473203151477	1473203151624	S	83
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692453	1473203151640	1473203151746	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692455	1473203151846	1473203151946	m	77
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692457	1473203152046	1473203152146	i	73
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692459	1473203152224	1473203152336	l	76
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692460	1473203152395	1473203152512	i	73
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692504	1473203152469	1473203152595	t	84
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692510	1473203152666	1473203152865	a	65
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692517	1473203152796	1473203152953	r	82
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692522	1473203153019	1473203153154	t	84
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692526	1473203153269	1473203153372	BKSP	8
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692531	1473203153339	1473203153495	y	89
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692571	1473203153484	1473203153615	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692575	1473203153754	1473203153858	i	73
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692580	1473203153921	1473203154047	n	78
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692584	1473203154258	1473203154406	v	86
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692590	1473203154437	1473203154660	a	65
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692619	1473203154551	1473203154693	s	83
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692621	1473203154656	1473203154759	i	73
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692622	1473203154822	1473203154919	o	79
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692623	1473203154991	1473203155119	n	78
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692625	1473203155091	1473203155224	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692630	1473203155207	1473203155359	o	79
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692690	1473203155334	1473203155483	f	70
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692694	1473203155398	1473203155514	 	32
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692698	1473203155514	1473203155718	SHIFT	16
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692701	1473203155607	1473203155734	H	72
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692704	1473203155963	1473203156110	a	65
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692707	1473203156126	1473203156258	i	73
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692710	1473203156341	1473203156476	t	84
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692717	1473203156465	1473203156596	i	73
+93550	1023629	France would not join a US military invasion of Haiti.	France would not join a US military invasion of Haiti.	48692719	1473203156715	1473203156882	.	190
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692819	1473203158577	1473203158924	SHIFT	16
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692814	1473203158736	1473203158877	B	66
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692823	1473203158977	1473203159109	u	85
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692827	1473203159124	1473203159259	t	84
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692830	1473203159219	1473203159352	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692838	1473203159334	1473203159480	t	84
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692839	1473203159404	1473203159511	h	72
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692840	1473203159527	1473203159676	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692842	1473203159598	1473203159745	y	89
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692846	1473203159696	1473203159798	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692851	1473203159944	1473203160029	p	80
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692876	1473203160138	1473203160280	l	76
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692878	1473203160250	1473203160402	a	65
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692881	1473203160485	1473203160632	y	89
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692885	1473203160688	1473203160803	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692890	1473203160850	1473203161017	d	68
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692900	1473203160947	1473203161087	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692902	1473203161087	1473203161232	d	68
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692904	1473203161148	1473203161298	o	79
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692906	1473203161263	1473203161379	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692908	1473203161363	1473203161481	w	87
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692933	1473203161432	1473203161570	n	78
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692934	1473203161669	1473203161780	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692937	1473203161831	1473203161946	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692940	1473203161922	1473203162087	w	87
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692943	1473203162038	1473203162194	n	78
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692946	1473203162308	1473203162408	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692947	1473203162489	1473203162568	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692948	1473203162625	1473203162731	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692949	1473203162709	1473203162851	w	87
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692950	1473203162810	1473203163003	n	78
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692964	1473203162992	1473203163117	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692967	1473203163261	1473203163395	t	84
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692969	1473203163353	1473203163474	h	72
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692972	1473203163436	1473203163575	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692977	1473203163515	1473203163646	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692980	1473203163677	1473203163753	p	80
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692991	1473203163949	1473203164094	r	82
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692993	1473203164119	1473203164252	o	79
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48692997	1473203164323	1473203164423	p	80
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693000	1473203164586	1473203164700	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693003	1473203164682	1473203164831	s	83
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693033	1473203164781	1473203164924	p	80
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693034	1473203164955	1473203165102	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693035	1473203165191	1473203165343	c	67
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693038	1473203165415	1473203165559	t	84
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693041	1473203165522	1473203165621	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693044	1473203165621	1473203165750	o	79
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693069	1473203165704	1473203165835	f	70
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693071	1473203165824	1473203165939	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693076	1473203165954	1473203166123	a	65
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693081	1473203166103	1473203166219	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693087	1473203166389	1473203166531	r	82
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693149	1473203166524	1473203166657	p	80
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693152	1473203166626	1473203166776	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693155	1473203167206	1473203167303	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693158	1473203167379	1473203167495	BKSP	8
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693160	1473203167510	1473203167644	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693161	1473203167601	1473203167733	p	80
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693162	1473203168082	1473203168313	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693177	1473203168229	1473203168413	a	65
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693184	1473203168452	1473203168591	t	84
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693188	1473203168552	1473203168684	 	32
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693195	1473203168715	1473203168836	p	80
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693200	1473203168852	1473203168952	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693203	1473203169013	1473203169117	r	82
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693219	1473203169188	1473203169338	f	70
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693221	1473203169287	1473203169402	o	79
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693223	1473203169381	1473203169517	r	82
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693226	1473203169586	1473203169739	m	77
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693230	1473203169818	1473203169972	a	65
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693235	1473203170013	1473203170160	n	78
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693236	1473203170141	1473203170300	c	67
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693238	1473203170257	1473203170372	e	69
+93550	1023639	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	48693240	1473203170315	1473203170489	.	190

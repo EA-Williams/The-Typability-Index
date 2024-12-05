@@ -1,0 +1,633 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+430104	4636461	Are you going to apply?	Are you going to apply?	220190054	1477929112093	1477929112238	SHIFT	16
+430104	4636461	Are you going to apply?	Are you going to apply?	220190055	1477929112142	1477929112242	A	65
+430104	4636461	Are you going to apply?	Are you going to apply?	220190057	1477929112242	1477929112352	r	82
+430104	4636461	Are you going to apply?	Are you going to apply?	220190059	1477929112312	1477929112437	e	69
+430104	4636461	Are you going to apply?	Are you going to apply?	220190064	1477929112417	1477929112512	 	32
+430104	4636461	Are you going to apply?	Are you going to apply?	220190069	1477929112852	1477929112972	y	89
+430104	4636461	Are you going to apply?	Are you going to apply?	220190089	1477929112967	1477929113112	o	79
+430104	4636461	Are you going to apply?	Are you going to apply?	220190092	1477929113062	1477929113199	u	85
+430104	4636461	Are you going to apply?	Are you going to apply?	220190095	1477929113192	1477929113292	 	32
+430104	4636461	Are you going to apply?	Are you going to apply?	220190098	1477929113307	1477929113372	g	71
+430104	4636461	Are you going to apply?	Are you going to apply?	220190100	1477929113342	1477929113517	o	79
+430104	4636461	Are you going to apply?	Are you going to apply?	220190116	1477929113422	1477929113547	i	73
+430104	4636461	Are you going to apply?	Are you going to apply?	220190118	1477929113519	1477929113617	n	78
+430104	4636461	Are you going to apply?	Are you going to apply?	220190122	1477929113577	1477929113668	g	71
+430104	4636461	Are you going to apply?	Are you going to apply?	220190125	1477929113763	1477929113868	 	32
+430104	4636461	Are you going to apply?	Are you going to apply?	220190128	1477929114058	1477929114143	t	84
+430104	4636461	Are you going to apply?	Are you going to apply?	220190131	1477929114148	1477929114278	o	79
+430104	4636461	Are you going to apply?	Are you going to apply?	220190176	1477929114258	1477929114378	 	32
+430104	4636461	Are you going to apply?	Are you going to apply?	220190179	1477929114399	1477929114498	a	65
+430104	4636461	Are you going to apply?	Are you going to apply?	220190182	1477929114583	1477929114693	p	80
+430104	4636461	Are you going to apply?	Are you going to apply?	220190185	1477929114773	1477929114858	p	80
+430104	4636461	Are you going to apply?	Are you going to apply?	220190188	1477929114958	1477929115043	,	188
+430104	4636461	Are you going to apply?	Are you going to apply?	220190192	1477929115443	1477929115513	BKSP	8
+430104	4636461	Are you going to apply?	Are you going to apply?	220190195	1477929115823	1477929115943	l	76
+430104	4636461	Are you going to apply?	Are you going to apply?	220190217	1477929116168	1477929116253	y	89
+430104	4636461	Are you going to apply?	Are you going to apply?	220190218	1477929116728	1477929116913	SHIFT	16
+430104	4636478	I have a request.	I have a request.	220190321	1477929118834	1477929119018	SHIFT	16
+430104	4636478	I have a request.	I have a request.	220190324	1477929118933	1477929119019	I	73
+430104	4636478	I have a request.	I have a request.	220190325	1477929119068	1477929119233	 	32
+430104	4636478	I have a request.	I have a request.	220190327	1477929119234	1477929119319	h	72
+430104	4636478	I have a request.	I have a request.	220190331	1477929119313	1477929119393	a	65
+430104	4636478	I have a request.	I have a request.	220190333	1477929119493	1477929119619	v	86
+430104	4636478	I have a request.	I have a request.	220190366	1477929119613	1477929119788	e	69
+430104	4636478	I have a request.	I have a request.	220190369	1477929119718	1477929119813	 	32
+430104	4636478	I have a request.	I have a request.	220190372	1477929119858	1477929119993	a	65
+430104	4636478	I have a request.	I have a request.	220190374	1477929119974	1477929120098	 	32
+430104	4636478	I have a request.	I have a request.	220190377	1477929120078	1477929120383	r	82
+430104	4636478	I have a request.	I have a request.	220190412	1477929120248	1477929120433	e	69
+430104	4636478	I have a request.	I have a request.	220190416	1477929120598	1477929120733	q	81
+430104	4636478	I have a request.	I have a request.	220190421	1477929120828	1477929120954	u	85
+430104	4636478	I have a request.	I have a request.	220190424	1477929120948	1477929121143	e	69
+430104	4636478	I have a request.	I have a request.	220190428	1477929121028	1477929121149	s	83
+430104	4636478	I have a request.	I have a request.	220190435	1477929121144	1477929121223	t	84
+430104	4636478	I have a request.	I have a request.	220190438	1477929121313	1477929121383	.	190
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190572	1477929123443	1477929123523	l	76
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190575	1477929123548	1477929123613	e	69
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190578	1477929123818	1477929123883	BKSP	8
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190582	1477929123963	1477929124033	BKSP	8
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190587	1477929124163	1477929124343	SHIFT	16
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190593	1477929124273	1477929124378	L	76
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190596	1477929124398	1477929124483	e	69
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190611	1477929124448	1477929124569	t	84
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190612	1477929124568	1477929124653	 	32
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190614	1477929124653	1477929124758	m	77
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190616	1477929124753	1477929124873	e	69
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190619	1477929124873	1477929124968	 	32
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190621	1477929124993	1477929125138	k	75
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190636	1477929125093	1477929125253	n	78
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190639	1477929125198	1477929125278	o	79
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190642	1477929125248	1477929125313	w	87
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190645	1477929125358	1477929125493	 	32
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190649	1477929125558	1477929125674	w	87
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190659	1477929125668	1477929125743	h	72
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190663	1477929125778	1477929125898	e	69
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190666	1477929125863	1477929125964	n	78
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190669	1477929125963	1477929126048	 	32
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190671	1477929126123	1477929126203	y	89
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190674	1477929126223	1477929126333	o	79
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190685	1477929126288	1477929126403	u	85
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190688	1477929126373	1477929126473	 	32
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190691	1477929126508	1477929126573	g	71
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190694	1477929126618	1477929126733	e	69
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190697	1477929126713	1477929126814	t	84
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190709	1477929126813	1477929126898	 	32
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190713	1477929126933	1477929127048	t	84
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190715	1477929126963	1477929127093	h	72
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190717	1477929127068	1477929127158	i	73
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190844	1477929127198	1477929127289	l	83
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190847	1477929127563	1477929127633	BKSP	8
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190853	1477929129146	1477929129211	BKSP	8
+430104	4636483	Let me know when you get this.	Let me know when you get this.	220190856	1477929129391	1477929129461	.	190
+430104	4636492	This is all so unreal.	This is all so unreal.	220191160	1477929134362	1477929134522	SHIFT	16
+430104	4636492	This is all so unreal.	This is all so unreal.	220191159	1477929134422	1477929134502	T	84
+430104	4636492	This is all so unreal.	This is all so unreal.	220191162	1477929134567	1477929134672	h	72
+430104	4636492	This is all so unreal.	This is all so unreal.	220191164	1477929134632	1477929134737	i	73
+430104	4636492	This is all so unreal.	This is all so unreal.	220191166	1477929134717	1477929134797	s	83
+430104	4636492	This is all so unreal.	This is all so unreal.	220191170	1477929134822	1477929134952	 	32
+430104	4636492	This is all so unreal.	This is all so unreal.	220191214	1477929135007	1477929135097	a	65
+430104	4636492	This is all so unreal.	This is all so unreal.	220191217	1477929135312	1477929135377	BKSP	8
+430104	4636492	This is all so unreal.	This is all so unreal.	220191220	1477929135507	1477929135577	i	73
+430104	4636492	This is all so unreal.	This is all so unreal.	220191225	1477929135577	1477929135657	s	83
+430104	4636492	This is all so unreal.	This is all so unreal.	220191229	1477929135687	1477929135792	 	32
+430104	4636492	This is all so unreal.	This is all so unreal.	220191235	1477929135822	1477929135928	a	65
+430104	4636492	This is all so unreal.	This is all so unreal.	220191257	1477929135930	1477929135982	l	76
+430104	4636492	This is all so unreal.	This is all so unreal.	220191260	1477929136072	1477929136157	l	76
+430104	4636492	This is all so unreal.	This is all so unreal.	220191264	1477929136192	1477929136327	 	32
+430104	4636492	This is all so unreal.	This is all so unreal.	220191271	1477929136307	1477929136362	s	83
+430104	4636492	This is all so unreal.	This is all so unreal.	220191274	1477929136422	1477929136507	o	79
+430104	4636492	This is all so unreal.	This is all so unreal.	220191315	1477929136537	1477929136682	 	32
+430104	4636492	This is all so unreal.	This is all so unreal.	220191317	1477929136682	1477929136762	r	82
+430104	4636492	This is all so unreal.	This is all so unreal.	220191319	1477929136982	1477929137047	BKSP	8
+430104	4636492	This is all so unreal.	This is all so unreal.	220191322	1477929137182	1477929137252	u	85
+430104	4636492	This is all so unreal.	This is all so unreal.	220191327	1477929137312	1477929137422	r	82
+430104	4636492	This is all so unreal.	This is all so unreal.	220191331	1477929137462	1477929137517	n	78
+430104	4636492	This is all so unreal.	This is all so unreal.	220191402	1477929137877	1477929137962	BKSP	8
+430104	4636492	This is all so unreal.	This is all so unreal.	220191404	1477929138697	1477929138762	BKSP	8
+430104	4636492	This is all so unreal.	This is all so unreal.	220191407	1477929138897	1477929139003	n	78
+430104	4636492	This is all so unreal.	This is all so unreal.	220191411	1477929139003	1477929139152	r	82
+430104	4636492	This is all so unreal.	This is all so unreal.	220191415	1477929139117	1477929139207	e	69
+430104	4636492	This is all so unreal.	This is all so unreal.	220191419	1477929139182	1477929139257	a	65
+430104	4636492	This is all so unreal.	This is all so unreal.	220191425	1477929139277	1477929139392	l	76
+430104	4636492	This is all so unreal.	This is all so unreal.	220191434	1477929139527	1477929139677	.	190
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220191945	1477929148983	1477929149123	SHIFT	16
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220191949	1477929149048	1477929149180	M	77
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220191953	1477929149178	1477929149314	i	73
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220191958	1477929149308	1477929149428	x	88
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220191964	1477929149493	1477929149603	e	69
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220191972	1477929149683	1477929149823	d	68
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192022	1477929149803	1477929149943	 	32
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192026	1477929149943	1477929150073	s	83
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192030	1477929150068	1477929150148	i	73
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192033	1477929150208	1477929150293	g	71
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192035	1477929150353	1477929150463	n	78
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192037	1477929150713	1477929150808	a	65
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192059	1477929150838	1477929150918	l	76
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192061	1477929150953	1477929151068	s	83
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192062	1477929151098	1477929151208	 	32
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192063	1477929151323	1477929151433	f	70
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192130	1477929151558	1477929151638	r	79
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192132	1477929152049	1477929152113	BKSP	8
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192135	1477929152193	1477929152248	BKSP	8
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192139	1477929152278	1477929152358	r	82
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192144	1477929152388	1477929152488	o	79
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192147	1477929152468	1477929152583	m	77
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192152	1477929152608	1477929152693	 	32
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192155	1477929152978	1477929153138	a	65
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192234	1477929153378	1477929153443	BKSP	8
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192238	1477929153693	1477929154108	SHIFT	16
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192240	1477929153943	1477929154128	A	65
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192242	1477929154263	1477929154783	SHIFT	16
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192241	1477929154403	1477929154533	P	80
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192243	1477929154603	1477929154790	S	83
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192245	1477929154788	1477929154858	 	32
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192247	1477929155003	1477929155113	t	84
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192282	1477929155143	1477929155243	o	79
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192284	1477929155633	1477929155790	d	68
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192286	1477929155788	1477929155873	a	65
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192289	1477929156073	1477929156168	y	89
+430104	4636502	Mixed signals from APS today.	Mixed signals from APS today.	220192293	1477929156283	1477929156403	.	190
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192752	1477929165388	1477929165498	T	16
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192754	1477929165553	1477929165638	h	72
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192756	1477929165623	1477929165708	e	69
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192757	1477929165709	1477929165828	 	32
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192758	1477929165893	1477929166018	a	65
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192793	1477929166073	1477929166139	d	68
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192794	1477929166404	1477929166459	BKSP	8
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192795	1477929166574	1477929166634	m	77
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192797	1477929167039	1477929167139	e	69
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192801	1477929167169	1477929167255	n	78
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192847	1477929167249	1477929167374	d	68
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192851	1477929167454	1477929167589	e	69
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192856	1477929167539	1477929167659	m	77
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192860	1477929167689	1477929167769	t	84
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192864	1477929168084	1477929168199	 	32
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192867	1477929168279	1477929168354	h	72
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192886	1477929168349	1477929168489	a	65
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192889	1477929168440	1477929168569	s	83
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192893	1477929168539	1477929168639	 	32
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192897	1477929168749	1477929168844	l	76
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192901	1477929168909	1477929168979	i	73
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192907	1477929169014	1477929169074	t	84
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192918	1477929169169	1477929169234	t	84
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192921	1477929169254	1477929169345	l	76
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192926	1477929169339	1477929169429	e	69
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192931	1477929169430	1477929169534	 	32
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192936	1477929169664	1477929169789	c	67
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192949	1477929169744	1477929169834	h	72
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192951	1477929169854	1477929169974	a	65
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192952	1477929169934	1477929170034	n	78
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192953	1477929170004	1477929170119	c	67
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192955	1477929170104	1477929170229	e	69
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192985	1477929170179	1477929170289	 	32
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192990	1477929170294	1477929170379	o	79
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220192997	1477929170329	1477929170414	f	70
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193003	1477929170449	1477929170594	 	32
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193008	1477929170595	1477929170714	b	66
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193012	1477929170764	1477929170870	e	69
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193018	1477929170919	1477929171044	c	67
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193022	1477929170959	1477929171134	o	79
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193027	1477929171079	1477929171224	m	77
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193031	1477929171219	1477929171365	i	73
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193058	1477929171299	1477929171399	n	78
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193060	1477929171366	1477929171459	g	71
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193063	1477929171594	1477929171694	 	32
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193068	1477929171909	1477929172074	SHIFT	16
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193071	1477929172204	1477929172305	l	76
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193076	1477929172299	1477929172369	a	65
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193080	1477929172499	1477929172600	w	87
+430104	4636520	The amendment has little chance of becoming law.	The amendemt has little chance of becoming law.	220193075	1477929172594	1477929172684	.	190
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193190	1477929174889	1477929175039	SHIFT	16
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193194	1477929175004	1477929175104	T	84
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193199	1477929175084	1477929175184	h	72
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193204	1477929175164	1477929175249	i	73
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193209	1477929175229	1477929175321	s	83
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193226	1477929175319	1477929175494	 	32
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193228	1477929175464	1477929175539	i	73
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193232	1477929175499	1477929175624	s	83
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193238	1477929175644	1477929175729	 	32
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193243	1477929175714	1477929175819	a	65
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193248	1477929175879	1477929175964	m	32
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193269	1477929176009	1477929176135	o	79
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193273	1477929176134	1477929176229	s	83
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193276	1477929176194	1477929176284	t	84
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193279	1477929176249	1477929176364	 	32
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193284	1477929176399	1477929176474	u	85
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193312	1477929176574	1477929176654	n	78
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193314	1477929176754	1477929176874	f	70
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193316	1477929176969	1477929177054	r	82
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193317	1477929177274	1477929177324	BKSP	8
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193318	1477929177469	1477929177539	o	79
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193319	1477929177559	1477929177624	r	82
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193364	1477929177899	1477929177984	t	84
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193367	1477929177989	1477929178064	u	85
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193373	1477929178165	1477929178249	n	78
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193370	1477929178194	1477929178244	a	65
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193377	1477929178889	1477929179006	t	84
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193420	1477929178999	1477929179134	e	69
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193421	1477929179079	1477929179184	 	32
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193423	1477929179284	1477929179399	n	78
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193425	1477929179454	1477929179649	e	69
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193427	1477929179584	1477929179749	w	87
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193430	1477929179814	1477929179919	 	32
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193452	1477929179969	1477929180089	r	82
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193455	1477929180044	1477929180174	e	69
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193457	1477929180175	1477929180279	l	76
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193459	1477929180319	1477929180489	e	69
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193461	1477929180494	1477929180635	a	65
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193561	1477929180534	1477929180694	s	83
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193564	1477929180660	1477929180789	.	190
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193566	1477929181249	1477929181314	BKSP	8
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193569	1477929181399	1477929181474	BKSP	8
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193572	1477929181624	1477929181664	e	69
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193576	1477929181979	1477929182049	BKSP	8
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193582	1477929182050	1477929182109	s	83
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193588	1477929182079	1477929182214	e	69
+430104	4636538	This is a most unfortunate news release.	This is a most unfortunate new release.	220193594	1477929182364	1477929182500	.	190
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193770	1477929184340	1477929184550	SHIFT	16
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193773	1477929184485	1477929184605	T	84
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193775	1477929184670	1477929184780	a	65
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193779	1477929184781	1477929184885	h	72
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193782	1477929185230	1477929185300	BKSP	8
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193783	1477929185445	1477929185560	BKSP	8
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193784	1477929186095	1477929186197	h	72
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193786	1477929186195	1477929186305	a	65
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193788	1477929186306	1477929186405	n	78
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193790	1477929186400	1477929186511	k	75
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193792	1477929186505	1477929186625	s	83
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193797	1477929186620	1477929186695	 	32
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193802	1477929186725	1477929186842	f	70
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193819	1477929186840	1477929186930	o	79
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193821	1477929186931	1477929187032	r	82
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193823	1477929187030	1477929187110	 	32
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193825	1477929187145	1477929187220	a	65
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193828	1477929187225	1477929187270	l	76
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193830	1477929187345	1477929187441	l	76
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193876	1477929187435	1477929187580	 	32
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193878	1477929187515	1477929187651	t	84
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193880	1477929187550	1477929187651	h	72
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193881	1477929187715	1477929187815	 	32
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193882	1477929187875	1477929187985	e	69
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193884	1477929188130	1477929188205	BKSP	8
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193888	1477929188270	1477929188365	BKSP	8
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193891	1477929188435	1477929188520	e	69
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193933	1477929188545	1477929188640	 	32
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193935	1477929188655	1477929188775	e	69
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193937	1477929188740	1477929188830	m	77
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193940	1477929188910	1477929188962	i	73
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193943	1477929189442	1477929189512	BKSP	8
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220193946	1477929189517	1477929189627	a	65
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220194089	1477929189658	1477929189727	i	73
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220194092	1477929189842	1477929189942	.	190
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220194095	1477929190357	1477929190432	BKSP	8
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220194097	1477929191397	1477929191467	l	76
+430104	4636549	Thanks for all the email.	Thanks for all the email.	220194098	1477929191722	1477929191827	.	190
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194941	1477929208243	1477929208408	SHIFT	16
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194943	1477929208293	1477929208428	S	83
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194945	1477929208448	1477929208568	c	67
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194948	1477929208569	1477929208638	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194953	1477929208723	1477929208788	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194955	1477929209038	1477929209103	BKSP	8
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194958	1477929209153	1477929209223	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194972	1477929209323	1477929209420	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194976	1477929209413	1477929209553	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194981	1477929209533	1477929209608	i	73
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220194984	1477929209588	1477929209704	s	83
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195000	1477929209698	1477929209838	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195004	1477929209803	1477929209964	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195008	1477929209923	1477929209998	u	85
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195011	1477929209958	1477929210043	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195015	1477929210093	1477929210183	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195028	1477929210143	1477929210308	m	77
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195033	1477929210273	1477929210425	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195038	1477929210353	1477929210478	s	83
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195043	1477929210423	1477929210538	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195047	1477929210503	1477929210623	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195058	1477929210603	1477929210723	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195059	1477929210683	1477929210780	f	70
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195061	1477929210773	1477929210898	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195064	1477929210899	1477929211023	h	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195098	1477929210968	1477929211078	e	69
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195101	1477929211018	1477929211144	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195104	1477929211268	1477929211383	w	87
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195107	1477929211463	1477929211568	e	69
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195110	1477929211633	1477929211738	e	69
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195112	1477929211718	1477929211813	k	75
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195113	1477929211868	1477929212048	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195126	1477929212050	1477929212169	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195129	1477929212118	1477929212238	n	78
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195132	1477929212283	1477929212463	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195136	1477929212503	1477929212643	v	86
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195204	1477929212638	1477929212768	a	65
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195208	1477929212738	1477929212883	c	67
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195210	1477929213018	1477929213093	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195214	1477929213524	1477929213609	BKSP	8
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195219	1477929213643	1477929213729	a	65
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195223	1477929213758	1477929213865	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195232	1477929213863	1477929213983	i	73
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195233	1477929213923	1477929214078	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195234	1477929214033	1477929214138	n	78
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195235	1477929214168	1477929214318	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195236	1477929214319	1477929214423	a	65
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195270	1477929214403	1477929214518	n	78
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195272	1477929214488	1477929214583	d	68
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195274	1477929214563	1477929214748	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195276	1477929215028	1477929215279	SHIFT	16
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195278	1477929215113	1477929215283	I	73
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195281	1477929215228	1477929215378	"	222
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195285	1477929215413	1477929215538	m	77
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195327	1477929215683	1477929215793	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195330	1477929215943	1477929216093	o	79
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195334	1477929216058	1477929216148	u	85
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195337	1477929216173	1477929216258	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195340	1477929216303	1477929216453	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195359	1477929216433	1477929216553	n	78
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195363	1477929216518	1477929216623	e	69
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195365	1477929216708	1477929216833	x	88
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195366	1477929216873	1477929217005	t	84
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195367	1477929217003	1477929217073	 	32
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195384	1477929217058	1477929217239	w	87
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195387	1477929217233	1477929217338	e	69
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195390	1477929217408	1477929217518	e	69
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195393	1477929217523	1477929217623	k	75
+430104	4636559	Scott is out most of this week on vacation and I'm out next week.	Scott is out most of the week on vacation and I"m out next week.	220195395	1477929217708	1477929217834	.	190
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195470	1477929220014	1477929220114	SHIFT	16
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195474	1477929220094	1477929220189	B	66
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195478	1477929220219	1477929220299	u	85
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195480	1477929220349	1477929220454	t	84
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195481	1477929220449	1477929220609	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195494	1477929220574	1477929220649	i	73
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195497	1477929220754	1477929220849	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195503	1477929220894	1477929221064	h	72
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195535	1477929221014	1477929221239	o	79
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195508	1477929221129	1477929221236	p	80
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195537	1477929221234	1477929221339	e	69
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195539	1477929221340	1477929221459	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195540	1477929221474	1477929221559	t	84
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195542	1477929221584	1477929221685	o	79
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195543	1477929221679	1477929221769	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195561	1477929221744	1477929221834	s	83
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195564	1477929221879	1477929221959	e	69
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195567	1477929222029	1477929222129	e	69
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195571	1477929222130	1477929222174	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195578	1477929222339	1477929222474	o	79
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195616	1477929222424	1477929222544	u	85
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195619	1477929222809	1477929222879	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195624	1477929222964	1477929223009	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195631	1477929223244	1477929223374	y	89
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195635	1477929223369	1477929223509	o	79
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195637	1477929223474	1477929223574	u	85
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195640	1477929223569	1477929223659	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195645	1477929223724	1477929223794	a	65
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195696	1477929223796	1477929223939	t	84
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195698	1477929223934	1477929223994	 	69
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195700	1477929224304	1477929224384	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195702	1477929224474	1477929224544	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195704	1477929224624	1477929224744	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195708	1477929224739	1477929224899	SHIFT	16
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195821	1477929224859	1477929225005	K	75
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195822	1477929225019	1477929225144	CAPS_LOCK	20
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195824	1477929225059	1477929225149	A	65
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195828	1477929225139	1477929225219	R	69
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195831	1477929225494	1477929225574	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195836	1477929225654	1477929225744	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195840	1477929226124	1477929226204	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195845	1477929226239	1477929226349	CAPS_LOCK	20
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195848	1477929226679	1477929226799	r	82
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195853	1477929227009	1477929227089	BKSP	8
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195861	1477929227149	1477929227234	a	65
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195901	1477929227239	1477929227315	r	82
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195902	1477929227309	1477929227384	i	73
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195904	1477929227679	1477929227804	'	222
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195908	1477929227889	1477929227989	s	83
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195911	1477929228049	1477929228244	 	32
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195942	1477929228214	1477929228359	h	72
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195946	1477929228489	1477929228699	o	79
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195944	1477929228589	1477929228696	u	85
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195950	1477929228689	1477929228805	s	83
+430104	4636590	But I hope to see you at Kari's house.	But i hope to see you at Kari's house	220195953	1477929228799	1477929228864	e	69
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196071	1477929230594	1477929230754	SHIFT	16
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196074	1477929230685	1477929230759	M	77
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196078	1477929230884	1477929231005	y	89
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196080	1477929230999	1477929231139	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196082	1477929231104	1477929231189	h	72
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196085	1477929231369	1477929231489	u	85
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196102	1477929231484	1477929231599	s	83
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196104	1477929231679	1477929231809	b	66
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196106	1477929231804	1477929231964	a	65
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196110	1477929231899	1477929231999	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196114	1477929232029	1477929232144	d	68
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196132	1477929232099	1477929232194	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196134	1477929232229	1477929232414	SHIFT	16
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196138	1477929232299	1477929232415	J	74
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196144	1477929232449	1477929232544	e	69
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196147	1477929232549	1477929232599	f	70
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196151	1477929232709	1477929232804	f	70
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196156	1477929232874	1477929232954	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196182	1477929232959	1477929233070	a	65
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196188	1477929233039	1477929233120	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196193	1477929233114	1477929233204	d	68
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196198	1477929233149	1477929233314	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196214	1477929233349	1477929233539	SHIFT	16
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196203	1477929233429	1477929233504	I	73
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196216	1477929233569	1477929233714	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196219	1477929233715	1477929233799	a	65
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196223	1477929233994	1477929234114	r	82
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196225	1477929234079	1477929234199	e	69
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196267	1477929234179	1477929234334	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196269	1477929234369	1477929234449	p	80
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196273	1477929234554	1477929234661	l	76
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196277	1477929234659	1477929234759	a	65
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196279	1477929234794	1477929234874	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196281	1477929234959	1477929235039	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196314	1477929235064	1477929235169	i	73
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196317	1477929235170	1477929235289	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196322	1477929235654	1477929235739	g	71
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196327	1477929235769	1477929235949	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196370	1477929235904	1477929236070	o	79
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196373	1477929236029	1477929236202	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196376	1477929236200	1477929236285	 	32
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196379	1477929236460	1477929236595	a	65
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196383	1477929236635	1477929236681	t	84
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196386	1477929236775	1477929236880	t	84
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196420	1477929236916	1477929236985	d	69
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196423	1477929237380	1477929237515	BKSP	8
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196427	1477929237680	1477929237780	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196429	1477929237816	1477929237922	d	68
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196440	1477929237915	1477929238015	i	73
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196442	1477929238016	1477929238085	n	78
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196444	1477929238065	1477929238130	g	71
+430104	4636601	My husband Jeff and I are planning on attending.	My husband Jeff and I are planning on attending.	220196447	1477929238195	1477929238311	.	190
+430104	4636613	I am on my way.	I am on my way	220196542	1477929240055	1477929240250	SHIFT	16
+430104	4636613	I am on my way.	I am on my way	220196538	1477929240130	1477929240230	I	73
+430104	4636613	I am on my way.	I am on my way	220196544	1477929240300	1477929240405	 	32
+430104	4636613	I am on my way.	I am on my way	220196547	1477929240406	1477929240500	a	65
+430104	4636613	I am on my way.	I am on my way	220196550	1477929240501	1477929240632	m	77
+430104	4636613	I am on my way.	I am on my way	220196582	1477929240625	1477929240805	 	32
+430104	4636613	I am on my way.	I am on my way	220196586	1477929240755	1477929240860	o	79
+430104	4636613	I am on my way.	I am on my way	220196590	1477929240825	1477929240975	n	78
+430104	4636613	I am on my way.	I am on my way	220196595	1477929240970	1477929241035	 	32
+430104	4636613	I am on my way.	I am on my way	220196599	1477929241080	1477929241160	m	77
+430104	4636613	I am on my way.	I am on my way	220196601	1477929241285	1477929241395	y	89
+430104	4636613	I am on my way.	I am on my way	220196644	1477929241365	1477929241490	 	32
+430104	4636613	I am on my way.	I am on my way	220196646	1477929241491	1477929241600	w	87
+430104	4636613	I am on my way.	I am on my way	220196649	1477929241685	1477929241785	a	65
+430104	4636613	I am on my way.	I am on my way	220196654	1477929241735	1477929241855	y	89
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196764	1477929243900	1477929244040	SHIFT	16
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196769	1477929243995	1477929244090	T	84
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196772	1477929244216	1477929244342	r	82
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196775	1477929244340	1477929244461	u	85
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196778	1477929244455	1477929244540	s	83
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196805	1477929244510	1477929244640	t	84
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196809	1477929244595	1477929244695	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196817	1477929244720	1477929244835	m	77
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196823	1477929244830	1477929244945	e	69
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196826	1477929245046	1477929245140	,	188
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196829	1477929245340	1477929245440	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196850	1477929245770	1477929245850	t	84
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196857	1477929245835	1477929245931	h	72
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196871	1477929245930	1477929246040	e	69
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196881	1477929246010	1477929246135	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196887	1477929246160	1477929246270	m	77
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196893	1477929246310	1477929246435	e	69
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196895	1477929246410	1477929246517	n	78
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196897	1477929246515	1477929246690	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196900	1477929246600	1477929246710	a	65
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196911	1477929246691	1477929246830	r	82
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196914	1477929246770	1477929246875	e	69
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196917	1477929246825	1477929247000	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196920	1477929246910	1477929247071	t	84
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196942	1477929246970	1477929247090	h	72
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196943	1477929247065	1477929247200	e	69
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196945	1477929247150	1477929247335	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196947	1477929247271	1477929247410	o	79
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196949	1477929247385	1477929247481	n	78
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196952	1477929247475	1477929247680	e	69
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196957	1477929247575	1477929247715	s	83
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196958	1477929247682	1477929247795	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196959	1477929247820	1477929247917	s	83
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196960	1477929247915	1477929248030	h	72
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196961	1477929247995	1477929248135	o	79
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196980	1477929248075	1477929248175	w	87
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196984	1477929248250	1477929248390	i	73
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196988	1477929248340	1477929248465	n	78
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220196992	1477929248430	1477929248551	g	71
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197000	1477929248545	1477929248661	 	32
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197005	1477929248690	1477929248825	r	82
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197027	1477929248790	1477929248998	e	69
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197030	1477929248885	1477929249005	s	83
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197034	1477929249003	1477929249073	t	84
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197037	1477929249183	1477929249325	r	82
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197040	1477929249324	1477929249488	a	65
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197057	1477929249448	1477929249588	i	73
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197061	1477929249518	1477929249668	n	78
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197064	1477929249728	1477929249814	t	84
+430104	4636616	Trust me, the men are the ones showing restraint.	Trust me, the men are the ones showing restraint.	220197066	1477929249963	1477929250068	.	190
+430104	4636623	I know you changed it.	I know you changed it.	220197174	1477929251738	1477929251923	SHIFT	16
+430104	4636623	I know you changed it.	I know you changed it.	220197171	1477929251818	1477929251888	I	73
+430104	4636623	I know you changed it.	I know you changed it.	220197177	1477929251953	1477929252163	 	32
+430104	4636623	I know you changed it.	I know you changed it.	220197180	1477929252053	1477929252164	k	75
+430104	4636623	I know you changed it.	I know you changed it.	220197182	1477929252168	1477929252278	n	78
+430104	4636623	I know you changed it.	I know you changed it.	220197219	1477929252233	1477929252355	o	79
+430104	4636623	I know you changed it.	I know you changed it.	220197225	1477929252349	1477929252433	w	87
+430104	4636623	I know you changed it.	I know you changed it.	220197231	1477929252498	1477929252533	 	32
+430104	4636623	I know you changed it.	I know you changed it.	220197238	1477929252958	1477929253043	y	89
+430104	4636623	I know you changed it.	I know you changed it.	220197242	1477929253073	1477929253198	o	79
+430104	4636623	I know you changed it.	I know you changed it.	220197250	1477929253163	1477929253263	u	85
+430104	4636623	I know you changed it.	I know you changed it.	220197253	1477929253258	1477929253343	 	32
+430104	4636623	I know you changed it.	I know you changed it.	220197258	1477929253418	1477929253554	c	67
+430104	4636623	I know you changed it.	I know you changed it.	220197261	1477929253519	1477929253604	h	72
+430104	4636623	I know you changed it.	I know you changed it.	220197267	1477929253624	1477929253804	a	65
+430104	4636623	I know you changed it.	I know you changed it.	220197289	1477929253714	1477929253846	n	78
+430104	4636623	I know you changed it.	I know you changed it.	220197293	1477929253844	1477929253959	g	71
+430104	4636623	I know you changed it.	I know you changed it.	220197297	1477929254004	1477929254089	e	69
+430104	4636623	I know you changed it.	I know you changed it.	220197300	1477929254179	1477929254314	d	68
+430104	4636623	I know you changed it.	I know you changed it.	220197303	1477929254279	1477929254454	 	32
+430104	4636623	I know you changed it.	I know you changed it.	220197312	1477929254414	1477929254509	i	73
+430104	4636623	I know you changed it.	I know you changed it.	220197315	1477929254514	1477929254614	t	84
+430104	4636623	I know you changed it.	I know you changed it.	220197317	1477929254674	1477929254774	.	190
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197400	1477929256414	1477929256599	SHIFT	16
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197402	1477929256529	1477929256669	H	72
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197405	1477929256634	1477929256739	i	73
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197409	1477929256740	1477929256856	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197414	1477929256849	1477929256974	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197420	1477929256975	1477929257115	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197446	1477929257109	1477929257214	t	84
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197449	1477929257239	1477929257374	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197452	1477929257319	1477929257429	t	84
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197456	1477929257430	1477929257564	u	85
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197463	1477929257714	1477929257856	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197492	1477929257854	1477929257934	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197495	1477929258074	1477929258174	f	70
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197499	1477929258254	1477929258354	o	79
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197504	1477929258379	1477929258499	r	82
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197508	1477929258494	1477929258589	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197513	1477929258799	1477929258894	SHIFT	16
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197537	1477929258844	1477929258954	T	84
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197539	1477929258989	1477929259054	h	72
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197546	1477929259214	1477929259294	u	85
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197551	1477929259295	1477929259414	r	82
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197556	1477929259439	1477929259559	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197562	1477929259784	1477929259909	d	68
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197590	1477929259904	1477929259999	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197594	1477929260000	1477929260104	y	89
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197598	1477929260119	1477929260269	'	222
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197601	1477929260315	1477929260389	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197605	1477929260409	1477929260529	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197608	1477929260629	1477929260749	g	71
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197629	1477929260751	1477929260834	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197630	1477929260834	1477929260915	m	77
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197633	1477929260909	1477929261059	e	69
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197637	1477929260984	1477929261064	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197639	1477929261149	1477929261279	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197664	1477929261429	1477929261539	g	71
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197668	1477929261649	1477929261759	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197672	1477929261759	1477929261854	n	78
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197675	1477929261849	1477929261969	i	73
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197822	1477929261939	1477929262031	n	78
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197826	1477929262025	1477929262109	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197832	1477929262094	1477929262189	t	84
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197835	1477929262204	1477929262324	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197843	1477929262419	1477929262464	f	70
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197848	1477929262704	1477929262774	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197852	1477929262859	1477929262929	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197856	1477929263009	1477929263104	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197858	1477929263349	1477929263434	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197861	1477929264129	1477929264204	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197863	1477929264949	1477929265024	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197865	1477929265139	1477929265204	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197866	1477929265334	1477929265369	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197867	1477929265939	1477929266079	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197879	1477929266081	1477929266229	n	78
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197881	1477929266464	1477929266549	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197884	1477929266709	1477929266839	i	73
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197886	1477929266809	1477929266914	n	78
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197891	1477929266964	1477929267109	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197918	1477929267049	1477929267174	t	84
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197927	1477929267144	1477929267259	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197933	1477929267539	1477929267634	SHIFT	16
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197939	1477929267584	1477929267734	D	68
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197944	1477929267779	1477929267849	l	76
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197948	1477929268024	1477929268184	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197952	1477929268379	1477929268444	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197955	1477929268499	1477929268574	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197959	1477929268609	1477929268709	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197989	1477929268754	1477929268854	l	76
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197991	1477929268914	1477929269009	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197992	1477929269314	1477929269374	BKSP	8
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197993	1477929269510	1477929269619	l	76
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220197994	1477929269649	1477929269784	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198021	1477929269734	1477929269894	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198023	1477929269859	1477929270019	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198027	1477929269989	1477929270099	i	73
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198029	1477929270069	1477929270194	s	83
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198031	1477929270164	1477929270254	 	32
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198034	1477929270289	1477929270374	u	85
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198040	1477929270459	1477929270569	n	78
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198042	1477929270584	1477929270741	l	76
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198046	1477929270739	1477929270874	c	67
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198049	1477929270824	1477929270969	e	69
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198072	1477929270924	1477929271056	a	65
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198077	1477929271100	1477929271200	r	82
+430104	4636629	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unlcear.	220198081	1477929271300	1477929271400	.	190

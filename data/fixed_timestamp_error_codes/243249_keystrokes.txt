@@ -1,0 +1,808 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458804	1475295513168	1475295513648	SHIFT	16
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458807	1475295513611	1475295513734	O	79
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458810	1475295514188	1475295514321	BKSP	8
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458816	1475295514594	1475295515229	CTRL	17
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458813	1475295515096	1475295515213	NA	73
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458819	1475295515532	1475295515710	'	222
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458821	1475295516806	1475295516934	BKSP	8
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458822	1475295517176	1475295517331	i	73
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458823	1475295518165	1475295518464	SHIFT	16
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458851	1475295518352	1475295518496	"	222
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458853	1475295518765	1475295518904	m	77
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458855	1475295519042	1475295519197	 	32
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458857	1475295519341	1475295519469	o	79
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458859	1475295519501	1475295519630	n	78
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458860	1475295519732	1475295519860	 	32
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458905	1475295519855	1475295520031	a	65
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458908	1475295519940	1475295520078	 	32
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458913	1475295520557	1475295520765	c	67
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458911	1475295520637	1475295520754	o	79
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458915	1475295520760	1475295520935	n	78
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458917	1475295521504	1475295521674	f	70
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458933	1475295521680	1475295521829	e	69
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458936	1475295521883	1475295522081	r	82
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458938	1475295522022	1475295522193	e	69
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458942	1475295522250	1475295522413	n	78
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458949	1475295522475	1475295522677	c	67
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458969	1475295522597	1475295522762	e	69
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458970	1475295522736	1475295522895	 	32
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458972	1475295523026	1475295523186	a	65
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458974	1475295523453	1475295523575	BKSP	8
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458977	1475295523501	1475295523657	c	67
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458980	1475295523615	1475295523763	a	65
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458989	1475295523748	1475295523860	l	76
+243249	2600100	I'm on a conference call.	i"m on a conference call	123458991	1475295523912	1475295524040	l	76
+243249	2600108	The mud was their idea.	The mud was their idea	123459061	1475295526319	1475295526585	SHIFT	16
+243249	2600108	The mud was their idea.	The mud was their idea	123459063	1475295526448	1475295526591	T	84
+243249	2600108	The mud was their idea.	The mud was their idea	123459065	1475295526635	1475295526774	h	72
+243249	2600108	The mud was their idea.	The mud was their idea	123459067	1475295526797	1475295526982	e	69
+243249	2600108	The mud was their idea.	The mud was their idea	123459070	1475295526944	1475295527074	 	32
+243249	2600108	The mud was their idea.	The mud was their idea	123459072	1475295527165	1475295527341	m	77
+243249	2600108	The mud was their idea.	The mud was their idea	123459107	1475295527495	1475295527628	u	85
+243249	2600108	The mud was their idea.	The mud was their idea	123459109	1475295527788	1475295527933	d	68
+243249	2600108	The mud was their idea.	The mud was their idea	123459111	1475295528159	1475295528276	 	32
+243249	2600108	The mud was their idea.	The mud was their idea	123459113	1475295528385	1475295528495	e	69
+243249	2600108	The mud was their idea.	The mud was their idea	123459114	1475295528886	1475295529014	BKSP	8
+243249	2600108	The mud was their idea.	The mud was their idea	123459165	1475295528977	1475295529148	e	69
+243249	2600108	The mud was their idea.	The mud was their idea	123459166	1475295529068	1475295529303	s	83
+243249	2600108	The mud was their idea.	The mud was their idea	123459167	1475295529196	1475295529420	d	68
+243249	2600108	The mud was their idea.	The mud was their idea	123459168	1475295529485	1475295529565	BKSP	8
+243249	2600108	The mud was their idea.	The mud was their idea	123459169	1475295529665	1475295529740	BKSP	8
+243249	2600108	The mud was their idea.	The mud was their idea	123459170	1475295529779	1475295529919	BKSP	8
+243249	2600108	The mud was their idea.	The mud was their idea	123459171	1475295530536	1475295530703	w	87
+243249	2600108	The mud was their idea.	The mud was their idea	123459172	1475295530642	1475295530842	a	65
+243249	2600108	The mud was their idea.	The mud was their idea	123459194	1475295530783	1475295530917	s	83
+243249	2600108	The mud was their idea.	The mud was their idea	123459195	1475295530912	1475295531043	 	32
+243249	2600108	The mud was their idea.	The mud was their idea	123459196	1475295531289	1475295531428	t	84
+243249	2600108	The mud was their idea.	The mud was their idea	123459197	1475295531369	1475295531559	h	72
+243249	2600108	The mud was their idea.	The mud was their idea	123459198	1475295531945	1475295532089	e	69
+243249	2600108	The mud was their idea.	The mud was their idea	123459215	1475295532046	1475295532212	i	73
+243249	2600108	The mud was their idea.	The mud was their idea	123459217	1475295532185	1475295532372	r	82
+243249	2600108	The mud was their idea.	The mud was their idea	123459220	1475295532491	1475295532645	 	32
+243249	2600108	The mud was their idea.	The mud was their idea	123459225	1475295532904	1475295533070	i	73
+243249	2600108	The mud was their idea.	The mud was their idea	123459229	1475295533080	1475295533304	d	68
+243249	2600108	The mud was their idea.	The mud was their idea	123459266	1475295533246	1475295533434	e	69
+243249	2600108	The mud was their idea.	The mud was their idea	123459267	1475295533525	1475295533654	a	65
+243249	2600108	The mud was their idea.	The mud was their idea	123459269	1475295533659	1475295533776	l	76
+243249	2600108	The mud was their idea.	The mud was their idea	123459271	1475295534137	1475295534260	BKSP	8
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459357	1475295536440	1475295536671	SHIFT	16
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459360	1475295536547	1475295536710	T	84
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459362	1475295536714	1475295536833	h	72
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459365	1475295536894	1475295537065	e	69
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459368	1475295537032	1475295537157	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459370	1475295537251	1475295537454	m	77
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459414	1475295537412	1475295537593	o	79
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459415	1475295537829	1475295537903	c	67
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459416	1475295538197	1475295538330	BKSP	8
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459418	1475295538373	1475295538540	v	86
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459420	1475295538460	1475295538626	e	69
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459424	1475295538915	1475295539054	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459454	1475295539049	1475295539236	w	87
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459457	1475295539188	1475295539364	a	65
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459459	1475295539300	1475295539461	s	83
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459460	1475295539413	1475295539675	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459461	1475295539583	1475295539717	a	65
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459462	1475295539756	1475295539869	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459507	1475295540570	1475295540761	f	70
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459510	1475295541229	1475295541382	u	85
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459513	1475295541378	1475295541500	r	82
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459516	1475295541583	1475295541711	t	84
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459538	1475295541620	1475295541743	h	72
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459541	1475295541790	1475295541945	e	69
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459544	1475295541908	1475295542073	r	82
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459547	1475295542036	1475295542181	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459551	1475295542488	1475295542627	w	87
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459552	1475295542811	1475295542976	BKSP	8
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459577	1475295542896	1475295543110	t	84
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459580	1475295543003	1475295543174	r	82
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459585	1475295543355	1475295543520	i	73
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459590	1475295543609	1475295543700	s	83
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459597	1475295543805	1475295543859	BKSP	8
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459601	1475295543969	1475295544043	BKSP	8
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459607	1475295544116	1475295544234	BKSP	8
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459610	1475295544670	1475295544804	w	87
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459611	1475295544814	1475295544948	i	73
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459624	1475295544921	1475295545087	s	83
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459625	1475295545065	1475295545220	t	84
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459626	1475295545183	1475295545311	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459627	1475295545788	1475295545915	i	73
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459629	1475295545910	1475295546018	n	78
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459631	1475295546122	1475295546261	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459661	1475295546186	1475295546368	t	84
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459665	1475295546309	1475295546431	h	72
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459668	1475295546389	1475295546554	e	69
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459670	1475295546485	1475295546634	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459672	1475295546982	1475295547088	l	76
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459674	1475295547203	1475295547293	o	79
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459721	1475295547798	1475295547909	n	78
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459723	1475295548202	1475295548309	g	71
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459724	1475295548738	1475295548895	-	189
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459725	1475295549468	1475295549607	r	82
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459726	1475295549678	1475295549795	u	85
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459740	1475295549876	1475295549961	n	78
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459742	1475295550059	1475295550128	n	78
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459747	1475295550112	1475295550267	i	73
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459750	1475295550272	1475295550384	n	78
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459799	1475295550304	1475295550421	g	71
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459801	1475295550958	1475295551102	 	32
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459802	1475295551589	1475295551737	d	68
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459803	1475295551732	1475295551872	i	73
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459804	1475295551845	1475295551984	s	83
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459805	1475295552189	1475295552365	p	80
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459867	1475295552945	1475295553143	u	85
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459868	1475295553185	1475295553334	t	84
+243249	2600115	The move was a further twist in the long-running dispute.	The move was a further twist in the long-running dispute.	123459869	1475295553551	1475295553706	e	69
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460212	1475295554595	1475295563328	.	190
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123459985	1475295556572	1475295556866	SHIFT	16
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123459988	1475295556759	1475295556921	D	68
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123459991	1475295556995	1475295557150	o	79
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123459994	1475295557193	1475295557333	n	78
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123459998	1475295557252	1475295557370	t	84
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460000	1475295558071	1475295558204	BKSP	8
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460001	1475295558379	1475295558536	'	222
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460025	1475295558754	1475295558905	t	84
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460029	1475295559492	1475295559620	 	32
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460034	1475295559843	1475295559997	f	70
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460039	1475295559959	1475295560098	o	79
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460070	1475295560066	1475295560199	r	82
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460071	1475295560313	1475295560452	g	71
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460072	1475295560414	1475295560558	e	69
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460073	1475295560521	1475295560617	t	84
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460074	1475295560740	1475295560906	 	32
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460102	1475295560901	1475295561077	t	84
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460105	1475295560992	1475295561130	h	72
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460110	1475295561103	1475295561257	e	69
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460118	1475295561189	1475295561343	 	32
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460123	1475295561534	1475295561689	w	87
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460201	1475295561614	1475295561732	o	79
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460203	1475295561831	1475295561975	o	79
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460205	1475295562038	1475295562123	f	70
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460207	1475295562393	1475295562527	BKSP	8
+243249	2600129	Don't forget the wood.	Don't forget the wood.	123460209	1475295562457	1475295562614	d	68
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460411	1475295565322	1475295565840	SHIFT	16
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460409	1475295565696	1475295565823	I	73
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460416	1475295566140	1475295566321	'	222
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460421	1475295566508	1475295566674	,	188
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460425	1475295567094	1475295567228	BKSP	8
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460429	1475295567560	1475295567693	m	77
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460433	1475295568296	1475295568436	 	32
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460446	1475295568995	1475295569129	g	71
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460448	1475295569114	1475295569275	l	76
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460451	1475295569253	1475295569367	a	65
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460453	1475295569556	1475295569726	s	83
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460455	1475295569815	1475295569954	 	32
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460507	1475295570165	1475295570256	BKSP	8
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460512	1475295570359	1475295570492	BKSP	8
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460516	1475295570891	1475295571055	d	68
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460520	1475295570955	1475295571142	 	32
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460522	1475295571458	1475295571628	y	89
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460526	1475295571559	1475295571671	o	79
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460530	1475295571727	1475295571872	u	85
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460555	1475295572010	1475295572137	 	32
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460557	1475295572154	1475295572292	a	65
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460561	1475295572358	1475295572576	r	82
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460568	1475295572486	1475295572646	e	69
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460629	1475295572598	1475295572737	 	32
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460632	1475295572775	1475295572935	i	73
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460636	1475295572914	1475295573074	n	78
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460638	1475295573338	1475295573520	c	67
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460640	1475295573950	1475295574106	BKSP	8
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460641	1475295574230	1475295574372	v	86
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460670	1475295574350	1475295574501	o	79
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460672	1475295574606	1475295574750	l	76
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460674	1475295574745	1475295574956	v	86
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460676	1475295574859	1475295575079	e	69
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460677	1475295575152	1475295575297	d	68
+243249	2600135	I'm glad you are involved!	I'm glad you are involved!	123460678	1475295575553	1475295576000	SHIFT	16
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460755	1475295577506	1475295577783	SHIFT	16
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460758	1475295577664	1475295577832	T	84
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460761	1475295577843	1475295577961	h	72
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460765	1475295578125	1475295578279	n	78
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460771	1475295578693	1475295578809	BKSP	8
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460777	1475295578783	1475295578912	a	65
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460781	1475295578958	1475295579143	n	78
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460803	1475295579139	1475295579299	k	75
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460806	1475295579256	1475295579400	s	83
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460809	1475295579406	1475295579555	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460812	1475295579675	1475295579861	f	70
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460836	1475295579755	1475295579904	o	79
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460839	1475295579819	1475295580010	r	82
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460841	1475295579978	1475295580139	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460843	1475295580291	1475295580469	y	89
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460845	1475295580432	1475295580566	o	79
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460847	1475295580607	1475295580778	u	85
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460882	1475295580729	1475295580884	r	82
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460884	1475295581107	1475295581248	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460886	1475295581427	1475295581587	h	72
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460888	1475295581581	1475295581736	e	69
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460891	1475295581731	1475295581875	l	76
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460892	1475295582111	1475295582256	p	80
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460922	1475295582532	1475295582665	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460925	1475295582682	1475295582836	i	73
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460928	1475295582831	1475295582964	n	78
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460931	1475295583051	1475295583190	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460933	1475295583840	1475295584000	q	81
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460980	1475295583947	1475295584037	i	73
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460981	1475295584487	1475295584594	BKSP	8
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460983	1475295585066	1475295585173	u	85
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460985	1475295585211	1475295585356	i	73
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460987	1475295585408	1475295585531	c	67
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460990	1475295585763	1475295585961	k	75
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123460993	1475295586016	1475295586182	l	76
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461022	1475295586668	1475295586795	y	89
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461023	1475295586864	1475295587050	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461025	1475295587040	1475295587215	s	83
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461028	1475295587152	1475295587322	e	69
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461032	1475295587536	1475295587653	t	84
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461041	1475295587703	1475295587836	t	84
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461042	1475295587777	1475295587910	i	73
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461043	1475295587863	1475295588018	n	78
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461044	1475295587964	1475295588108	g	71
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461045	1475295588114	1475295588247	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461056	1475295588515	1475295588649	t	84
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461057	1475295588606	1475295588766	h	72
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461058	1475295588750	1475295588889	i	73
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461059	1475295588819	1475295588964	s	83
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461160	1475295588953	1475295589123	 	32
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461161	1475295589327	1475295589504	i	73
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461162	1475295589391	1475295589592	o	79
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461163	1475295589860	1475295589961	BKSP	8
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461165	1475295590023	1475295590151	BKSP	8
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461170	1475295590288	1475295590448	i	73
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461174	1475295590325	1475295590469	o	79
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461176	1475295590903	1475295591015	BKSP	8
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461178	1475295591689	1475295591807	BKSP	8
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461201	1475295591802	1475295591946	u	85
+243249	2600145	Thanks for your help in quickly setting this up.	Thanks for your help in quickly setting this up	123461202	1475295592585	1475295592710	p	80
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461283	1475295594312	1475295594745	SHIFT	16
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461284	1475295594653	1475295594800	H	72
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461285	1475295594967	1475295595117	e	69
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461287	1475295595222	1475295595388	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461289	1475295595411	1475295595529	i	73
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461342	1475295595480	1475295595609	s	83
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461346	1475295595576	1475295595734	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461350	1475295595968	1475295596157	c	67
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461353	1475295596489	1475295596645	BKSP	8
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461356	1475295596575	1475295596769	r	82
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461358	1475295596666	1475295596855	e	69
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461360	1475295597098	1475295597238	c	67
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461401	1475295597842	1475295597996	o	79
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461403	1475295598179	1475295598355	v	86
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461407	1475295598607	1475295598765	e	69
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461410	1475295598743	1475295598898	r	82
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461414	1475295598986	1475295599130	i	73
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461440	1475295599154	1475295599302	n	78
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461442	1475295599207	1475295599335	g	71
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461444	1475295599396	1475295599518	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461445	1475295599989	1475295600128	g	71
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461485	1475295600069	1475295600214	t	84
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461486	1475295600144	1475295600293	o	79
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461488	1475295600288	1475295600432	m	77
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461491	1475295600561	1475295600620	BKSP	8
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461495	1475295600686	1475295600739	BKSP	8
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461499	1475295600811	1475295600876	BKSP	8
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461503	1475295600943	1475295601070	BKSP	8
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461508	1475295601087	1475295601236	f	70
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461514	1475295601167	1475295601375	r	82
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461533	1475295601353	1475295601460	o	79
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461534	1475295601423	1475295601593	m	77
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461535	1475295601872	1475295601974	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461536	1475295601930	1475295602040	a	65
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461537	1475295602068	1475295602196	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461538	1475295602392	1475295602558	l	76
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461590	1475295602466	1475295602670	e	69
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461593	1475295602719	1475295602865	f	70
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461598	1475295603331	1475295603487	t	84
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461602	1475295603590	1475295603708	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461606	1475295604048	1475295604192	k	75
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461654	1475295604155	1475295604336	n	78
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461656	1475295604363	1475295604495	e	69
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461658	1475295604759	1475295604860	e	69
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461662	1475295605162	1475295605312	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461668	1475295605474	1475295605617	i	73
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461717	1475295605607	1475295605773	n	78
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461718	1475295606248	1475295606392	j	74
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461719	1475295606398	1475295606541	u	85
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461720	1475295606602	1475295606671	r	82
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461721	1475295607080	1475295607240	y	89
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461722	1475295607316	1475295607487	 	32
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461763	1475295607811	1475295607944	BKSP	8
+243249	2600158	He is recovering from a left knee injury.	He is recovering from a left knee injury.	123461765	1475295608471	1475295608573	.	190
+243249	2600167	I know several who work there.	I know several who work there.	123461836	1475295610136	1475295610568	SHIFT	16
+243249	2600167	I know several who work there.	I know several who work there.	123461840	1475295610493	1475295610643	I	73
+243249	2600167	I know several who work there.	I know several who work there.	123461845	1475295610737	1475295610901	 	32
+243249	2600167	I know several who work there.	I know several who work there.	123461848	1475295610897	1475295611065	k	75
+243249	2600167	I know several who work there.	I know several who work there.	123461850	1475295611028	1475295611235	n	78
+243249	2600167	I know several who work there.	I know several who work there.	123461868	1475295611172	1475295611327	o	79
+243249	2600167	I know several who work there.	I know several who work there.	123461870	1475295611225	1475295611379	w	87
+243249	2600167	I know several who work there.	I know several who work there.	123461873	1475295611369	1475295611519	 	32
+243249	2600167	I know several who work there.	I know several who work there.	123461876	1475295611691	1475295611851	s	83
+243249	2600167	I know several who work there.	I know several who work there.	123461878	1475295611787	1475295611968	e	69
+243249	2600167	I know several who work there.	I know several who work there.	123461880	1475295612009	1475295612228	v	86
+243249	2600167	I know several who work there.	I know several who work there.	123461909	1475295612179	1475295612307	e	69
+243249	2600167	I know several who work there.	I know several who work there.	123461911	1475295612408	1475295612562	r	82
+243249	2600167	I know several who work there.	I know several who work there.	123461912	1475295612708	1475295612906	a	65
+243249	2600167	I know several who work there.	I know several who work there.	123461913	1475295612852	1475295612996	l	76
+243249	2600167	I know several who work there.	I know several who work there.	123461914	1475295613085	1475295613234	 	32
+243249	2600167	I know several who work there.	I know several who work there.	123461915	1475295613424	1475295613610	w	87
+243249	2600167	I know several who work there.	I know several who work there.	123461933	1475295613546	1475295613658	h	72
+243249	2600167	I know several who work there.	I know several who work there.	123461934	1475295613763	1475295613928	o	79
+243249	2600167	I know several who work there.	I know several who work there.	123461935	1475295614021	1475295614168	 	32
+243249	2600167	I know several who work there.	I know several who work there.	123461936	1475295614335	1475295614505	w	87
+243249	2600167	I know several who work there.	I know several who work there.	123461937	1475295614441	1475295614574	o	79
+243249	2600167	I know several who work there.	I know several who work there.	123461938	1475295614597	1475295614731	r	82
+243249	2600167	I know several who work there.	I know several who work there.	123461995	1475295614736	1475295614891	k	75
+243249	2600167	I know several who work there.	I know several who work there.	123461998	1475295614957	1475295615095	e	69
+243249	2600167	I know several who work there.	I know several who work there.	123462000	1475295615090	1475295615245	 	32
+243249	2600167	I know several who work there.	I know several who work there.	123462002	1475295615571	1475295615656	BKSP	8
+243249	2600167	I know several who work there.	I know several who work there.	123462004	1475295615733	1475295615844	BKSP	8
+243249	2600167	I know several who work there.	I know several who work there.	123462005	1475295616138	1475295616237	t	84
+243249	2600167	I know several who work there.	I know several who work there.	123462041	1475295616233	1475295616414	 	32
+243249	2600167	I know several who work there.	I know several who work there.	123462043	1475295616586	1475295616676	BKSP	8
+243249	2600167	I know several who work there.	I know several who work there.	123462048	1475295616734	1475295616862	BKSP	8
+243249	2600167	I know several who work there.	I know several who work there.	123462051	1475295617029	1475295617155	 	32
+243249	2600167	I know several who work there.	I know several who work there.	123462053	1475295617165	1475295617336	t	84
+243249	2600167	I know several who work there.	I know several who work there.	123462055	1475295617251	1475295617411	n	78
+243249	2600167	I know several who work there.	I know several who work there.	123462054	1475295617315	1475295617373	h	72
+243249	2600167	I know several who work there.	I know several who work there.	123462120	1475295617384	1475295617554	e	69
+243249	2600167	I know several who work there.	I know several who work there.	123462122	1475295617834	1475295617903	BKSP	8
+243249	2600167	I know several who work there.	I know several who work there.	123462125	1475295618022	1475295618091	BKSP	8
+243249	2600167	I know several who work there.	I know several who work there.	123462128	1475295618161	1475295618295	BKSP	8
+243249	2600167	I know several who work there.	I know several who work there.	123462131	1475295618720	1475295618854	h	72
+243249	2600167	I know several who work there.	I know several who work there.	123462133	1475295618806	1475295618939	e	69
+243249	2600167	I know several who work there.	I know several who work there.	123462135	1475295618886	1475295619073	r	82
+243249	2600167	I know several who work there.	I know several who work there.	123462137	1475295619046	1475295619175	e	69
+243249	2600167	I know several who work there.	I know several who work there.	123462139	1475295619931	1475295620043	.	190
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462254	1475295621336	1475295621562	SHIFT	16
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462257	1475295621487	1475295621610	F	70
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462262	1475295621924	1475295622175	BKSP	8
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462268	1475295622385	1475295622573	SHIFT	16
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462273	1475295622444	1475295622612	D	68
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462277	1475295622712	1475295622829	p	80
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462281	1475295623153	1475295623279	BKSP	8
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462283	1475295623488	1475295623653	p	80
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462285	1475295624037	1475295624165	BKSP	8
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462286	1475295624322	1475295624434	o	79
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462310	1475295624513	1475295624667	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462313	1475295624847	1475295625007	n	78
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462317	1475295624991	1475295625135	o	79
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462323	1475295625205	1475295625253	t	84
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462329	1475295625629	1475295625773	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462357	1475295625806	1475295625967	s	83
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462358	1475295625881	1475295626089	e	69
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462360	1475295626063	1475295626196	n	78
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462362	1475295626318	1475295626470	s	83
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462364	1475295626819	1475295626942	BKSP	8
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462395	1475295626915	1475295627070	d	68
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462397	1475295627189	1475295627335	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462399	1475295627473	1475295627607	s	83
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462401	1475295627553	1475295627704	m	77
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462405	1475295627734	1475295627863	a	65
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462412	1475295627897	1475295628004	l	76
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462492	1475295628074	1475295628187	l	76
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462495	1475295628688	1475295628789	,	188
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462499	1475295628894	1475295629065	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462502	1475295629856	1475295629968	u	85
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462522	1475295629963	1475295630106	n	78
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462526	1475295630085	1475295630240	s	83
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462531	1475295630316	1475295630455	u	85
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462533	1475295630499	1475295630671	s	83
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462538	1475295631121	1475295631265	p	80
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462558	1475295631222	1475295631429	e	69
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462560	1475295631425	1475295631596	c	67
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462562	1475295631846	1475295632001	t	84
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462564	1475295632081	1475295632225	i	73
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462566	1475295632219	1475295632357	n	78
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462596	1475295632278	1475295632406	g	71
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462599	1475295632468	1475295632602	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462601	1475295632813	1475295632962	c	67
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462605	1475295632973	1475295633090	h	72
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462609	1475295633121	1475295633254	i	73
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462613	1475295633301	1475295633424	c	67
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462688	1475295633494	1475295633632	l	76
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462690	1475295633877	1475295633963	f	70
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462692	1475295634191	1475295634277	BKSP	8
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462693	1475295634352	1475295634442	BKSP	8
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462694	1475295634485	1475295634575	BKSP	8
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462695	1475295635059	1475295635198	l	76
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462696	1475295635273	1475295635414	d	68
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462697	1475295635522	1475295635684	r	82
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462725	1475295635657	1475295635860	e	69
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462726	1475295635883	1475295635985	n	78
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462728	1475295636133	1475295636253	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462733	1475295636262	1475295636428	t	84
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462737	1475295636358	1475295636471	o	79
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462741	1475295636525	1475295636701	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462748	1475295636691	1475295636835	c	67
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462749	1475295636813	1475295636962	h	72
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462751	1475295636930	1475295637059	e	69
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462753	1475295637069	1475295637219	c	67
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462755	1475295637197	1475295637330	k	75
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462757	1475295637410	1475295637554	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462774	1475295637643	1475295637766	o	79
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462777	1475295637800	1475295637918	n	78
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462780	1475295638007	1475295638106	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462783	1475295638193	1475295638323	m	77
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462820	1475295638318	1475295638456	y	89
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462823	1475295638419	1475295638584	 	32
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462825	1475295638982	1475295639147	p	80
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462827	1475295639126	1475295639340	r	82
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462828	1475295640264	1475295640370	o	79
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462833	1475295640621	1475295640765	g	71
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462898	1475295640706	1475295640949	r	82
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462899	1475295640879	1475295641014	e	69
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462901	1475295641230	1475295641593	s	83
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462903	1475295641758	1475295641881	s	83
+243249	2600177	Do not send small, unsuspecting children to check on my progress.	Do not send small, unsuspecting children to check on my progress.	123462906	1475295642406	1475295642524	.	190
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463024	1475295644480	1475295644804	SHIFT	16
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463025	1475295644719	1475295644879	M	77
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463026	1475295644960	1475295645142	w	87
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463027	1475295645720	1475295645860	BKSP	8
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463028	1475295645849	1475295646004	e	69
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463029	1475295645999	1475295646146	g	71
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463030	1475295646191	1475295646383	a	65
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463137	1475295646335	1475295646452	n	78
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463139	1475295647306	1475295647401	,	188
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463141	1475295647605	1475295647742	 	32
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463144	1475295648528	1475295648693	i	73
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463148	1475295648866	1475295649341	SHIFT	16
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463146	1475295649112	1475295649309	:	186
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463151	1475295649696	1475295649814	BKSP	8
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463155	1475295650054	1475295650183	'	222
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463212	1475295650428	1475295650561	m	77
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463214	1475295650769	1475295650929	 	32
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463216	1475295651444	1475295651620	a	65
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463218	1475295651598	1475295651743	 	32
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463220	1475295652241	1475295652355	l	76
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463256	1475295652834	1475295652960	i	73
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463258	1475295652948	1475295653259	t	84
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463263	1475295653237	1475295653406	l	76
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463268	1475295653378	1475295653534	e	69
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463272	1475295653624	1475295653762	 	32
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463308	1475295653869	1475295654000	t	84
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463310	1475295653926	1475295654058	o	79
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463312	1475295654116	1475295654276	o	79
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463314	1475295654514	1475295654636	 	32
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463316	1475295654896	1475295655082	w	87
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463380	1475295655066	1475295655274	u	85
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463382	1475295655173	1475295655349	i	73
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463384	1475295655536	1475295655600	BKSP	8
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463386	1475295655686	1475295655766	BKSP	8
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463387	1475295655817	1475295655950	BKSP	8
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463388	1475295656684	1475295656852	q	81
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463389	1475295656766	1475295656939	u	85
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463390	1475295656831	1475295657011	i	73
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463391	1475295657093	1475295657240	c	67
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463409	1475295657540	1475295657663	k	75
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463411	1475295657746	1475295657880	 	32
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463415	1475295657916	1475295658082	f	70
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463433	1475295658002	1475295658125	o	79
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463436	1475295658034	1475295658210	r	82
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463438	1475295658205	1475295658312	 	32
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463439	1475295658409	1475295658542	m	77
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463440	1475295658920	1475295659032	y	89
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463441	1475295659056	1475295659208	s	83
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463446	1475295659158	1475295659315	e	69
+243249	2600193	Megan, I'm a little too quick for myself.	Megan, i'm a litle too quick for myself	123463448	1475295659251	1475295659422	l	76
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463557	1475295661305	1475295661695	SHIFT	16
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463558	1475295661614	1475295661764	I	73
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463559	1475295662108	1475295662257	'	222
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463560	1475295662366	1475295662494	l	76
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463561	1475295663127	1475295663276	l	76
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463562	1475295664265	1475295664398	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463583	1475295664455	1475295664679	r	82
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463585	1475295664599	1475295664727	e	69
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463587	1475295664960	1475295665051	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463589	1475295665106	1475295665218	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463592	1475295665350	1475295665526	p	80
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463623	1475295665415	1475295665622	r	82
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463625	1475295665521	1475295665675	e	69
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463627	1475295666005	1475295666158	s	83
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463631	1475295666277	1475295666362	i	73
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463632	1475295666524	1475295666599	u	85
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463634	1475295666742	1475295666834	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463636	1475295666891	1475295667021	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463639	1475295667159	1475295667330	u	85
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463692	1475295667268	1475295667458	m	77
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463696	1475295668360	1475295668497	e	69
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463700	1475295668434	1475295668582	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463702	1475295668650	1475295668799	i	73
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463704	1475295668855	1475295669004	t	84
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463708	1475295669145	1475295669324	s	83
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463776	1475295669647	1475295669764	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463777	1475295669987	1475295670120	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463778	1475295670275	1475295670430	i	83
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463779	1475295670550	1475295670688	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463780	1475295671148	1475295671212	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463781	1475295671454	1475295671571	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463782	1475295671640	1475295671779	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463783	1475295672069	1475295672171	i	73
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463811	1475295672166	1475295672295	s	83
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463812	1475295672263	1475295672389	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463813	1475295672928	1475295673067	a	65
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463814	1475295673282	1475295673448	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463815	1475295673455	1475295673623	d	68
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463816	1475295673553	1475295673735	e	69
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463817	1475295673769	1475295673940	a	65
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463857	1475295673977	1475295674190	d	68
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463860	1475295674499	1475295674642	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463863	1475295674770	1475295674941	u	85
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463865	1475295674951	1475295675132	n	78
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463867	1475295675205	1475295675406	t	84
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463910	1475295675436	1475295675596	i	73
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463911	1475295675681	1475295675835	l	76
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463913	1475295675941	1475295676101	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463915	1475295676324	1475295676777	SHIFT	16
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463918	1475295676677	1475295676810	I	73
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463922	1475295677005	1475295677159	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463963	1475295677741	1475295677874	h	72
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463965	1475295677903	1475295678058	e	69
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463966	1475295678188	1475295678322	a	65
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463967	1475295678379	1475295678527	r	82
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123463968	1475295678532	1475295678695	 	32
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464003	1475295679097	1475295679235	o	79
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464004	1475295679536	1475295679685	t	84
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464006	1475295679631	1475295679765	h	72
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464008	1475295679838	1475295680014	e	69
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464063	1475295680009	1475295680184	r	82
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464064	1475295680624	1475295680768	w	87
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464065	1475295681531	1475295681584	s	85
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464066	1475295682265	1475295682340	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464067	1475295682412	1475295682534	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464068	1475295682800	1475295683008	s	83
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464099	1475295683342	1475295683432	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464101	1475295683510	1475295683634	BKSP	8
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464104	1475295683987	1475295684125	i	73
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464107	1475295684104	1475295684227	s	83
+243249	2600203	I'll presume it is dead until I hear otherwise.	I'll presume it is dead until I hear otherwise	123464108	1475295684130	1475295684339	e	69
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464195	1475295686675	1475295687200	SHIFT	16
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464197	1475295687136	1475295687259	I	73
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464199	1475295687413	1475295687562	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464201	1475295687614	1475295687768	w	87
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464205	1475295687882	1475295688025	i	73
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464206	1475295688182	1475295688305	l	76
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464254	1475295688378	1475295688527	l	76
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464256	1475295688744	1475295688899	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464260	1475295690871	1475295690956	o	79
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464262	1475295691254	1475295691329	l	76
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464264	1475295691401	1475295691503	l	76
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464322	1475295691595	1475295691739	o	79
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464325	1475295692039	1475295692204	w	87
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464328	1475295692253	1475295692408	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464331	1475295692886	1475295693003	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464336	1475295693097	1475295693187	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464339	1475295693239	1475295693373	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464342	1475295693441	1475295693538	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464345	1475295693610	1475295693679	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464347	1475295693808	1475295694021	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464348	1475295694236	1475295694352	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464349	1475295694538	1475295694676	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464350	1475295694940	1475295695079	f	70
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464355	1475295695106	1475295695224	o	79
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464356	1475295695341	1475295695410	l	76
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464357	1475295695462	1475295695532	l	76
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464358	1475295695629	1475295695751	o	79
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464413	1475295695714	1475295695874	w	87
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464415	1475295695934	1475295696083	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464416	1475295696289	1475295696487	i	73
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464417	1475295696369	1475295696572	o	79
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464418	1475295696896	1475295696982	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464420	1475295697058	1475295697202	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464422	1475295697854	1475295698036	u	85
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464456	1475295697998	1475295698169	p	80
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464459	1475295698330	1475295698479	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464461	1475295698584	1475295698755	w	87
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464462	1475295698653	1475295698803	i	73
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464463	1475295698901	1475295699077	t	84
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464507	1475295698953	1475295699082	h	72
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464511	1475295699184	1475295699312	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464515	1475295699972	1475295700122	h	72
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464520	1475295700132	1475295700271	i	73
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464525	1475295700337	1475295700422	m	77
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464528	1475295700663	1475295700823	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464579	1475295700829	1475295701020	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464580	1475295701684	1475295701838	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464581	1475295701817	1475295702078	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464582	1475295701993	1475295702191	d	68
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464583	1475295702457	1475295702548	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464584	1475295702640	1475295702878	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464585	1475295703026	1475295703234	a	65
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464586	1475295703268	1475295703428	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464670	1475295703438	1475295703599	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464672	1475295705845	1475295706018	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464674	1475295706217	1475295706335	o	79
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464676	1475295706401	1475295706561	o	79
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464678	1475295706871	1475295707036	n	78
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464701	1475295707324	1475295707532	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464703	1475295707792	1475295708039	a	65
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464706	1475295707986	1475295708146	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464708	1475295708060	1475295708205	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464710	1475295708318	1475295708532	r	82
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464773	1475295708462	1475295708649	h	72
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464775	1475295708948	1475295709016	=	187
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464782	1475295709483	1475295709600	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464787	1475295709693	1475295709757	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464792	1475295709850	1475295709977	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464796	1475295710713	1475295710874	t	84
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464800	1475295710815	1475295710948	h	72
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464804	1475295711039	1475295711216	e	69
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464806	1475295711316	1475295711481	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464823	1475295711883	1475295712046	d	68
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464826	1475295712150	1475295712284	u	85
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464828	1475295712230	1475295712406	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464831	1475295712401	1475295712556	t	84
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464894	1475295712529	1475295712715	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464895	1475295713789	1475295714056	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464896	1475295713998	1475295714146	e	69
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464897	1475295714505	1475295714676	t	84
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464898	1475295715198	1475295715363	t	84
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464963	1475295715358	1475295715560	l	76
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464965	1475295715791	1475295716015	e	69
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464967	1475295715930	1475295716138	s	83
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464969	1475295716143	1475295716372	 	32
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464973	1475295716725	1475295716869	BKSP	8
+243249	2600220	I will follow up with him as soon as the dust settles.	I will follow up with him as soon as the dust settles.	123464975	1475295717575	1475295717709	.	190
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465062	1475295719963	1475295720245	SHIFT	16
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465064	1475295720091	1475295720250	A	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465067	1475295720373	1475295720544	r	82
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465072	1475295720618	1475295720783	g	71
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465077	1475295720951	1475295721104	e	69
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465080	1475295721132	1475295721292	n	78
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465120	1475295721239	1475295721399	t	84
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465121	1475295721530	1475295721743	i	73
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465123	1475295721977	1475295722180	n	78
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465125	1475295722378	1475295722517	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465127	1475295722695	1475295722875	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465129	1475295723005	1475295723183	h	72
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465159	1475295723586	1475295723753	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465161	1475295723794	1475295724008	v	86
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465162	1475295723955	1475295724144	e	69
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465164	1475295724104	1475295724251	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465165	1475295724447	1475295724591	c	67
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465177	1475295724586	1475295724759	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465178	1475295724656	1475295724780	l	76
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465179	1475295724853	1475295724991	l	76
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465180	1475295725411	1475295725559	e	69
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465181	1475295725501	1475295725645	d	68
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465182	1475295725692	1475295725847	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465197	1475295725961	1475295726147	o	79
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465199	1475295726142	1475295726275	f	70
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465201	1475295726588	1475295726743	f	70
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465203	1475295726847	1475295726954	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465205	1475295726964	1475295727118	t	84
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465229	1475295727107	1475295727245	h	72
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465231	1475295727261	1475295727404	e	69
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465233	1475295727509	1475295727557	i	73
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465235	1475295727610	1475295727743	i	73
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465238	1475295727782	1475295727916	r	82
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465239	1475295728094	1475295728174	=	187
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465312	1475295728252	1475295728343	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465315	1475295728432	1475295728533	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465319	1475295728603	1475295728646	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465321	1475295728754	1475295728834	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465323	1475295729740	1475295729873	i	73
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465325	1475295729862	1475295730017	r	82
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465327	1475295730529	1475295730658	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465329	1475295731022	1475295731172	t	84
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465333	1475295731314	1475295731489	w	87
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465365	1475295731399	1475295731505	o	79
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465367	1475295731615	1475295731764	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465370	1475295732522	1475295732629	f	70
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465373	1475295732591	1475295732688	o	79
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465376	1475295732757	1475295732906	o	79
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465452	1475295732869	1475295732986	s	83
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465453	1475295733347	1475295733491	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465455	1475295733581	1475295733698	t	84
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465456	1475295733804	1475295733983	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465458	1475295734251	1475295734397	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465461	1475295734331	1475295734514	v	86
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465464	1475295734450	1475295734551	e	69
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465466	1475295734862	1475295734958	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465468	1475295735022	1475295735135	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465527	1475295735086	1475295735242	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465529	1475295735329	1475295735382	l	76
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465531	1475295735579	1475295735685	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465532	1475295735751	1475295735846	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465533	1475295735900	1475295735959	BKSP	8
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465534	1475295736727	1475295736855	t	84
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465535	1475295737003	1475295737152	b	66
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465536	1475295737334	1475295737501	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465579	1475295737469	1475295737575	l	76
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465580	1475295737663	1475295737791	l	76
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465581	1475295737969	1475295738120	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465582	1475295738340	1475295738479	i	73
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465584	1475295738468	1475295738623	n	78
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465586	1475295739076	1475295739199	t	84
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465620	1475295739299	1475295739494	e	69
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465622	1475295739557	1475295739696	r	82
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465624	1475295739754	1475295739892	n	78
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465626	1475295739865	1475295740057	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465628	1475295740156	1475295740300	t	84
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465659	1475295740194	1475295740391	i	73
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465660	1475295740295	1475295740481	o	79
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465661	1475295740524	1475295740668	n	78
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465662	1475295740941	1475295741074	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465664	1475295741147	1475295741280	l	76
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465667	1475295741360	1475295741493	s	83
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465670	1475295741556	1475295741669	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465729	1475295742482	1475295742588	i	73
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465730	1475295742617	1475295742708	n	78
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465731	1475295742811	1475295742939	 	32
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465732	1475295743169	1475295743819	SHIFT	16
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465733	1475295743750	1475295743904	J	74
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465734	1475295743929	1475295744093	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465773	1475295744029	1475295744184	p	80
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465774	1475295744671	1475295744837	a	65
+243249	2600234	Argentina have called off their two football internationals in Japan.	Argentina have called off their two football internationals in Japan.	123465775	1475295744772	1475295744932	n	78
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465938	1475295748574	1475295751884	SHIFT	16
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465939	1475295751836	1475295751982	M	77
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465940	1475295751918	1475295752057	a	65
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465941	1475295752148	1475295752276	r	82
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465942	1475295752255	1475295752399	i	73
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465948	1475295752373	1475295752502	s	83
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465950	1475295752607	1475295752789	a	65
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465952	1475295752756	1475295752912	 	32
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465954	1475295753322	1475295753444	s	83
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465958	1475295753418	1475295753572	e	69
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465975	1475295753503	1475295753631	n	78
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465976	1475295753666	1475295753800	t	84
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465978	1475295753730	1475295753859	 	32
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465980	1475295754435	1475295754568	t	84
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123465984	1475295754499	1475295754610	h	72
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466008	1475295754589	1475295754746	e	69
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466010	1475295754683	1475295754827	 	32
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466013	1475295755183	1475295755306	i	73
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466016	1475295755263	1475295755429	n	78
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466019	1475295755536	1475295755740	c	67
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466043	1475295755719	1475295755887	o	79
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466044	1475295756067	1475295756142	BKSP	8
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466045	1475295756212	1475295756314	BKSP	8
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466046	1475295756308	1475295756452	v	86
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466047	1475295756442	1475295756601	o	79
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466048	1475295756684	1475295756844	i	73
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466049	1475295756807	1475295756977	c	67
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466051	1475295756908	1475295757069	e	69
+243249	2600248	Marisa sent the invoices.	Marisa sent the invoices	123466055	1475295757185	1475295757319	s	83
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466110	1475295759257	1475295759636	SHIFT	16
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466112	1475295759577	1475295759689	I	73
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466114	1475295760113	1475295760209	/	191
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466116	1475295760407	1475295760532	m	77
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466118	1475295760597	1475295760755	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466120	1475295760909	1475295761020	i	73
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466151	1475295761208	1475295761304	n	78
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466153	1475295761470	1475295761560	BKSP	8
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466156	1475295761637	1475295761749	BKSP	8
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466159	1475295762023	1475295762135	o	79
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466161	1475295762195	1475295762308	n	78
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466165	1475295762388	1475295762490	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466168	1475295762548	1475295762686	m	77
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466173	1475295762633	1475295762766	y	89
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466175	1475295762777	1475295762946	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466178	1475295763053	1475295763213	w	87
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466181	1475295763165	1475295763304	a	65
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466184	1475295763277	1475295763421	s	83
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466199	1475295763395	1475295763528	y	89
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466200	1475295763587	1475295763672	b	66
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466203	1475295763640	1475295763851	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466204	1475295763947	1475295764112	b	66
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466205	1475295764054	1475295764225	a	65
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466206	1475295764290	1475295764437	c	67
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466212	1475295764817	1475295764977	k	75
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466213	1475295765050	1475295765177	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466214	1475295765166	1475295765316	t	84
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466215	1475295765279	1475295765406	h	72
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466216	1475295765430	1475295765581	e	69
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466239	1475295765610	1475295765783	r	82
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466240	1475295765815	1475295765896	e	69
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466241	1475295765934	1475295765981	e	69
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466242	1475295766221	1475295766350	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466292	1475295766345	1475295766484	t	84
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466294	1475295766426	1475295766555	o	79
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466296	1475295766603	1475295766744	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466300	1475295767423	1475295767540	d	68
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466303	1475295767492	1475295767615	o	79
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466306	1475295767697	1475295767841	 	32
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466415	1475295768037	1475295768197	s	83
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466416	1475295768085	1475295768234	o	79
+243249	2600254	I'm on my way back there to do so.	I/m on my wasyb back three to do so	123466417	1475295770303	1475295770430	BKSP	8

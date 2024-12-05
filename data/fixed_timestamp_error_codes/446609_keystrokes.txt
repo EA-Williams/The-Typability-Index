@@ -1,0 +1,633 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+446609	4808964	I have some more data coming.	I have some more data coming.	228306172	1478118470671	1478118470820	SHIFT	16
+446609	4808964	I have some more data coming.	I have some more data coming.	228306178	1478118470717	1478118470820	I	73
+446609	4808964	I have some more data coming.	I have some more data coming.	228306183	1478118470912	1478118471033	 	32
+446609	4808964	I have some more data coming.	I have some more data coming.	228306190	1478118471003	1478118471103	a	72
+446609	4808964	I have some more data coming.	I have some more data coming.	228306208	1478118471061	1478118471175	v	86
+446609	4808964	I have some more data coming.	I have some more data coming.	228306216	1478118471116	1478118471204	e	69
+446609	4808964	I have some more data coming.	I have some more data coming.	228306229	1478118471173	1478118471248	 	32
+446609	4808964	I have some more data coming.	I have some more data coming.	228306239	1478118471295	1478118471398	s	83
+446609	4808964	I have some more data coming.	I have some more data coming.	228306254	1478118471343	1478118471426	o	79
+446609	4808964	I have some more data coming.	I have some more data coming.	228306256	1478118471384	1478118471468	m	77
+446609	4808964	I have some more data coming.	I have some more data coming.	228306258	1478118471451	1478118471547	e	69
+446609	4808964	I have some more data coming.	I have some more data coming.	228306260	1478118471533	1478118471592	 	32
+446609	4808964	I have some more data coming.	I have some more data coming.	228306261	1478118471671	1478118471744	m	77
+446609	4808964	I have some more data coming.	I have some more data coming.	228306263	1478118471714	1478118471802	o	79
+446609	4808964	I have some more data coming.	I have some more data coming.	228306285	1478118471753	1478118471891	r	82
+446609	4808964	I have some more data coming.	I have some more data coming.	228306294	1478118471804	1478118471902	e	69
+446609	4808964	I have some more data coming.	I have some more data coming.	228306303	1478118471915	1478118472007	 	32
+446609	4808964	I have some more data coming.	I have some more data coming.	228306312	1478118472006	1478118472145	d	68
+446609	4808964	I have some more data coming.	I have some more data coming.	228306317	1478118472097	1478118472167	a	65
+446609	4808964	I have some more data coming.	I have some more data coming.	228306319	1478118472183	1478118472318	t	84
+446609	4808964	I have some more data coming.	I have some more data coming.	228306339	1478118472261	1478118472379	a	65
+446609	4808964	I have some more data coming.	I have some more data coming.	228306343	1478118472346	1478118472436	 	32
+446609	4808964	I have some more data coming.	I have some more data coming.	228306349	1478118472550	1478118472694	c	67
+446609	4808964	I have some more data coming.	I have some more data coming.	228306353	1478118472603	1478118472771	o	79
+446609	4808964	I have some more data coming.	I have some more data coming.	228306356	1478118472682	1478118472854	i	73
+446609	4808964	I have some more data coming.	I have some more data coming.	228306397	1478118472787	1478118472913	n	78
+446609	4808964	I have some more data coming.	I have some more data coming.	228306399	1478118473110	1478118473150	BKSP	8
+446609	4808964	I have some more data coming.	I have some more data coming.	228306401	1478118473213	1478118473287	BKSP	8
+446609	4808964	I have some more data coming.	I have some more data coming.	228306403	1478118473334	1478118473415	m	77
+446609	4808964	I have some more data coming.	I have some more data coming.	228306406	1478118473447	1478118473544	i	73
+446609	4808964	I have some more data coming.	I have some more data coming.	228306410	1478118473501	1478118473604	n	78
+446609	4808964	I have some more data coming.	I have some more data coming.	228306413	1478118473553	1478118473649	g	71
+446609	4808964	I have some more data coming.	I have some more data coming.	228306415	1478118473664	1478118473781	.	190
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306565	1478118475642	1478118476130	SHIFT	16
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306562	1478118476049	1478118476115	I	73
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306569	1478118476224	1478118476333	 	32
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306574	1478118476284	1478118476396	h	72
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306580	1478118476396	1478118476534	a	65
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306602	1478118476432	1478118476561	v	86
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306604	1478118476500	1478118476610	e	69
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306607	1478118476573	1478118476651	 	32
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306609	1478118476681	1478118476827	o	79
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306611	1478118476815	1478118476910	t	84
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306613	1478118476884	1478118476982	h	72
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306621	1478118476964	1478118477065	e	69
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306623	1478118477006	1478118477102	r	82
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306625	1478118477055	1478118477137	 	32
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306629	1478118477167	1478118477257	t	84
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306633	1478118477221	1478118477308	h	72
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306636	1478118477417	1478118477502	i	73
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306649	1478118477443	1478118477527	g	78
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306652	1478118477502	1478118477618	s	83
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306657	1478118477594	1478118477679	 	32
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306661	1478118477679	1478118477782	t	84
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306667	1478118477745	1478118477814	o	79
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306672	1478118477829	1478118477898	 	32
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306682	1478118477926	1478118478041	w	87
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306685	1478118477997	1478118478102	o	79
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306688	1478118478118	1478118478172	r	82
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306692	1478118478242	1478118478348	r	82
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306703	1478118478328	1478118478386	y	89
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306706	1478118478441	1478118478532	 	32
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306710	1478118478516	1478118478580	a	65
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306717	1478118478611	1478118478710	b	66
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306741	1478118478693	1478118478767	u	79
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306746	1478118478819	1478118478895	t	84
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306751	1478118478941	1478118479074	SHIFT	16
+446609	4808974	I have other things to worry about!	I have other things to worry about!	228306757	1478118479019	1478118479086	!	49
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306865	1478118480961	1478118481098	SHIFT	16
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306868	1478118481071	1478118481209	C	67
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306872	1478118481101	1478118481225	a	65
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306876	1478118481191	1478118481275	n	78
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306879	1478118481368	1478118481449	 	32
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306906	1478118481410	1478118481522	y	89
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306909	1478118481501	1478118481615	o	79
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306913	1478118481545	1478118481653	u	85
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306917	1478118481734	1478118481834	 	32
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306919	1478118482028	1478118482150	d	68
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306940	1478118482085	1478118482164	o	79
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306945	1478118482212	1478118482297	 	32
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306952	1478118482328	1478118482439	t	84
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306958	1478118482381	1478118482471	h	72
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228306962	1478118482439	1478118482541	e	69
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307003	1478118482509	1478118482596	 	32
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307008	1478118482908	1478118483010	SHIFT	16
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307011	1478118482991	1478118483068	G	71
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307013	1478118483030	1478118483150	a	65
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307015	1478118483109	1478118483168	l	76
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307017	1478118483247	1478118483302	l	76
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307019	1478118483412	1478118483536	u	85
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307032	1478118483471	1478118483610	p	80
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307038	1478118483674	1478118483755	 	32
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307045	1478118483751	1478118483902	c	67
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307050	1478118483822	1478118483934	o	79
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307059	1478118483869	1478118483950	n	78
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307066	1478118483996	1478118484080	t	84
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307089	1478118484147	1478118484244	r	82
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307092	1478118484211	1478118484325	a	65
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307095	1478118484341	1478118484469	c	67
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307097	1478118484549	1478118484650	t	84
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307120	1478118484644	1478118484741	s	83
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307124	1478118484757	1478118484851	 	32
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307131	1478118484835	1478118484968	a	65
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307135	1478118484916	1478118485017	s	83
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307138	1478118484984	1478118485073	 	32
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307140	1478118485105	1478118485204	w	87
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307167	1478118485166	1478118485252	e	69
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307170	1478118485194	1478118485252	l	76
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307173	1478118485346	1478118485399	l	76
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307185	1478118485530	1478118485862	SHIFT	16
+446609	4808982	Can you do the Gallup contracts as well?	Can you do the Gallup contracts as well?	228307176	1478118485725	1478118485847	?	191
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307326	1478118487620	1478118487884	SHIFT	16
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307330	1478118487821	1478118487915	M	77
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307333	1478118487915	1478118488058	o	79
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307338	1478118488045	1478118488134	s	83
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307343	1478118488083	1478118488166	t	84
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307348	1478118488166	1478118488262	l	76
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307367	1478118488279	1478118488377	y	89
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307372	1478118488346	1478118488438	 	32
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307377	1478118488446	1478118488564	a	65
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307383	1478118488520	1478118488596	 	32
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307386	1478118488627	1478118488739	s	83
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307405	1478118488731	1478118488815	o	79
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307408	1478118488941	1478118489012	i	73
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307412	1478118489000	1478118489135	c	67
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307417	1478118489048	1478118489150	a	65
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307421	1478118489098	1478118489216	l	76
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307426	1478118489263	1478118489347	 	32
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307513	1478118489314	1478118489453	c	67
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307516	1478118489364	1478118489484	a	65
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307519	1478118489431	1478118489501	l	76
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307523	1478118489997	1478118490157	.	190
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307524	1478118490391	1478118490470	BKSP	8
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307527	1478118490522	1478118490613	l	76
+446609	4808991	Mostly a social call.	Mostly a soical call.	228307531	1478118490706	1478118490817	.	190
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307731	1478118493276	1478118494894	SHIFT	16
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307728	1478118494801	1478118494879	I	73
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307732	1478118495004	1478118495115	 	32
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307734	1478118495096	1478118495180	t	84
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307738	1478118495258	1478118495376	r	82
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307746	1478118495334	1478118495451	i	73
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307750	1478118495422	1478118495551	e	69
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307753	1478118495464	1478118495576	d	68
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307756	1478118495551	1478118495644	 	32
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307759	1478118495676	1478118495762	t	84
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307771	1478118495740	1478118495859	h	72
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307775	1478118495814	1478118495932	a	65
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307777	1478118495875	1478118495960	t	84
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307778	1478118495912	1478118496007	 	32
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307779	1478118496039	1478118496142	t	84
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307792	1478118496091	1478118496219	o	79
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307797	1478118496181	1478118496258	 	32
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307802	1478118496331	1478118496430	n	78
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307804	1478118496388	1478118496487	o	79
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307807	1478118496536	1478118496624	 	32
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307855	1478118496593	1478118496683	a	65
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307857	1478118496647	1478118496786	v	86
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307862	1478118496757	1478118496879	a	65
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307868	1478118496870	1478118496921	i	73
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307874	1478118497000	1478118497115	l	76
+446609	4808998	I tried that to no avail.	I tried that to no avail.	228307878	1478118497226	1478118497341	.	190
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308034	1478118499059	1478118499408	SHIFT	16
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308037	1478118499344	1478118499439	S	83
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308042	1478118499517	1478118499632	h	72
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308044	1478118499609	1478118499709	o	79
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308047	1478118499660	1478118499757	u	85
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308050	1478118499835	1478118499929	l	76
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308067	1478118499895	1478118499976	d	68
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308070	1478118499992	1478118500061	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308073	1478118500046	1478118500158	w	87
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308076	1478118500111	1478118500190	e	69
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308078	1478118500143	1478118500228	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308083	1478118500305	1478118500401	e	69
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308113	1478118500384	1478118500480	m	77
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308115	1478118500558	1478118500673	a	65
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308117	1478118500642	1478118500771	i	73
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308121	1478118500803	1478118500928	l	76
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308129	1478118500968	1478118501029	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308138	1478118501060	1478118501166	t	84
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308146	1478118501129	1478118501210	h	72
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308150	1478118501160	1478118501240	i	73
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308158	1478118501226	1478118501316	s	83
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308162	1478118501312	1478118501401	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308163	1478118501395	1478118501484	t	84
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308165	1478118501448	1478118501493	o	79
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308167	1478118501525	1478118501609	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308172	1478118501664	1478118501750	y	89
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308174	1478118501699	1478118501796	o	79
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308176	1478118501747	1478118501831	u	85
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308178	1478118501883	1478118501962	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308183	1478118502010	1478118502100	o	79
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308195	1478118502079	1478118502146	r	82
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308197	1478118502161	1478118502243	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308198	1478118502245	1478118502361	f	70
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308203	1478118502299	1478118502394	a	65
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308208	1478118502460	1478118502574	x	88
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308231	1478118502564	1478118502626	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308234	1478118502642	1478118502738	t	84
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308240	1478118502728	1478118502829	o	79
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308248	1478118502908	1478118502979	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308253	1478118503011	1478118503090	y	89
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308271	1478118503077	1478118503176	o	79
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308276	1478118503103	1478118503210	u	85
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308281	1478118503192	1478118503292	r	82
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308289	1478118503275	1478118503377	 	32
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308294	1478118503329	1478118503424	h	72
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308300	1478118503503	1478118503610	o	79
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308311	1478118503539	1478118503622	u	85
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308314	1478118503601	1478118503697	s	83
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308317	1478118503644	1478118503729	e	69
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308321	1478118503791	1478118504056	SHIFT	16
+446609	4809005	Should we email this to you or fax to your house?	Should we email this to you or fax to your house?	228308319	1478118503924	1478118504051	?	191
+446609	4809017	It will all be public someday.	It will all be public someday.	228308466	1478118506039	1478118506260	SHIFT	16
+446609	4809017	It will all be public someday.	It will all be public someday.	228308455	1478118506142	1478118506245	I	73
+446609	4809017	It will all be public someday.	It will all be public someday.	228308474	1478118506430	1478118506527	t	84
+446609	4809017	It will all be public someday.	It will all be public someday.	228308482	1478118506549	1478118506628	 	32
+446609	4809017	It will all be public someday.	It will all be public someday.	228308489	1478118506706	1478118506763	w	87
+446609	4809017	It will all be public someday.	It will all be public someday.	228308495	1478118506779	1478118506874	i	73
+446609	4809017	It will all be public someday.	It will all be public someday.	228308509	1478118506970	1478118507010	l	76
+446609	4809017	It will all be public someday.	It will all be public someday.	228308513	1478118507089	1478118507176	l	76
+446609	4809017	It will all be public someday.	It will all be public someday.	228308516	1478118507162	1478118507250	 	32
+446609	4809017	It will all be public someday.	It will all be public someday.	228308530	1478118507244	1478118507370	a	65
+446609	4809017	It will all be public someday.	It will all be public someday.	228308519	1478118507294	1478118507360	l	76
+446609	4809017	It will all be public someday.	It will all be public someday.	228308535	1478118507404	1478118507519	l	76
+446609	4809017	It will all be public someday.	It will all be public someday.	228308540	1478118507477	1478118507560	 	32
+446609	4809017	It will all be public someday.	It will all be public someday.	228308545	1478118507638	1478118507711	b	66
+446609	4809017	It will all be public someday.	It will all be public someday.	228308551	1478118507698	1478118507794	e	69
+446609	4809017	It will all be public someday.	It will all be public someday.	228308570	1478118507793	1478118507893	 	32
+446609	4809017	It will all be public someday.	It will all be public someday.	228308577	1478118507956	1478118508093	p	80
+446609	4809017	It will all be public someday.	It will all be public someday.	228308581	1478118508030	1478118508140	u	85
+446609	4809017	It will all be public someday.	It will all be public someday.	228308585	1478118508156	1478118508249	b	66
+446609	4809017	It will all be public someday.	It will all be public someday.	228308588	1478118508210	1478118508363	l	76
+446609	4809017	It will all be public someday.	It will all be public someday.	228308600	1478118508277	1478118508397	i	73
+446609	4809017	It will all be public someday.	It will all be public someday.	228308603	1478118508380	1478118508478	c	67
+446609	4809017	It will all be public someday.	It will all be public someday.	228308605	1478118508498	1478118508578	 	32
+446609	4809017	It will all be public someday.	It will all be public someday.	228308609	1478118508594	1478118508686	s	83
+446609	4809017	It will all be public someday.	It will all be public someday.	228308613	1478118508660	1478118508761	o	79
+446609	4809017	It will all be public someday.	It will all be public someday.	228308653	1478118508706	1478118508812	m	77
+446609	4809017	It will all be public someday.	It will all be public someday.	228308655	1478118508774	1478118508860	e	69
+446609	4809017	It will all be public someday.	It will all be public someday.	228308657	1478118509000	1478118509148	d	68
+446609	4809017	It will all be public someday.	It will all be public someday.	228308664	1478118509095	1478118509208	a	65
+446609	4809017	It will all be public someday.	It will all be public someday.	228308669	1478118509197	1478118509261	y	89
+446609	4809017	It will all be public someday.	It will all be public someday.	228308674	1478118509424	1478118509495	.	190
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308832	1478118511389	1478118511574	SHIFT	16
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308833	1478118511467	1478118511574	W	87
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308834	1478118511637	1478118511709	e	69
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308836	1478118511847	1478118512002	'	222
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308838	1478118512001	1478118512128	r	82
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308856	1478118512060	1478118512147	e	69
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308860	1478118512163	1478118512242	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308864	1478118512344	1478118512427	n	78
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308869	1478118512386	1478118512484	o	79
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308875	1478118512478	1478118512587	t	84
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308933	1478118512549	1478118512631	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308937	1478118512663	1478118512854	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308941	1478118512826	1478118512978	w	87
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308944	1478118512958	1478118513073	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308948	1478118513114	1478118513288	r	82
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308957	1478118513351	1478118513481	e	69
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308980	1478118513514	1478118513626	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308983	1478118513580	1478118513725	o	79
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308987	1478118513674	1478118513797	f	70
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308991	1478118513757	1478118513826	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228308996	1478118513857	1478118513962	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309043	1478118513903	1478118514060	n	78
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309048	1478118514006	1478118514092	y	89
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309052	1478118514139	1478118514227	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309054	1478118514290	1478118514427	p	80
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309058	1478118514343	1478118514477	o	79
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309061	1478118514573	1478118514645	s	83
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309088	1478118514720	1478118514793	s	83
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309090	1478118514919	1478118514980	i	73
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309092	1478118514994	1478118515101	b	66
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309094	1478118515077	1478118515192	l	76
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309096	1478118515192	1478118515275	e	69
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309103	1478118515275	1478118515327	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309109	1478118515344	1478118515459	c	67
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309114	1478118515410	1478118515507	h	72
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309121	1478118515459	1478118515574	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309129	1478118515574	1478118515660	n	78
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309167	1478118515610	1478118515684	g	71
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309170	1478118515933	1478118515993	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309174	1478118516190	1478118516276	g	71
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309180	1478118516338	1478118516460	e	69
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309185	1478118516410	1478118516510	s	83
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309191	1478118516460	1478118516526	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309196	1478118516563	1478118516630	t	84
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309231	1478118516799	1478118516865	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309236	1478118516843	1478118516960	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309239	1478118516892	1478118516991	t	84
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309242	1478118517021	1478118517119	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309318	1478118517291	1478118517480	SHIFT	16
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309244	1478118517354	1478118517452	S	83
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309323	1478118517423	1478118517549	T	84
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309329	1478118517497	1478118517610	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309336	1478118517587	1478118517691	n	78
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309343	1478118517707	1478118517760	d	68
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309354	1478118518015	1478118518060	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309362	1478118518139	1478118518200	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309366	1478118518279	1478118518343	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309369	1478118518421	1478118518562	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309373	1478118518509	1478118518618	t	84
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309378	1478118518618	1478118518708	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309403	1478118518745	1478118518828	n	78
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309405	1478118518845	1478118518934	d	68
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309407	1478118519091	1478118519162	f	70
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309409	1478118519247	1478118519325	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309411	1478118519453	1478118519541	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309413	1478118519557	1478118519640	f	70
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309414	1478118519656	1478118519742	o	79
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309457	1478118519845	1478118519910	d	68
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309460	1478118520150	1478118520212	BKSP	8
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309464	1478118520227	1478118520301	r	82
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309469	1478118520318	1478118520410	d	68
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309473	1478118520449	1478118520541	 	32
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309476	1478118520627	1478118520811	SHIFT	16
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309531	1478118520752	1478118520824	S	83
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309536	1478118520840	1478118520942	t	84
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309541	1478118520942	1478118521058	a	65
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309544	1478118521161	1478118521232	d	68
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309549	1478118521451	1478118521528	i	73
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309551	1478118521647	1478118521761	u	85
+446609	4809024	We're not aware of any possible changes at Stanford Stadium.	We're not aware of any possible changes at Stanford Stadium	228309548	1478118521727	1478118521874	m	77
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309760	1478118523572	1478118523997	SHIFT	16
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309763	1478118523907	1478118524028	I	73
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309770	1478118524170	1478118524309	'	222
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309777	1478118524488	1478118524547	;	186
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309786	1478118524635	1478118524757	;	186
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309793	1478118525078	1478118525132	BKSP	8
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309801	1478118525210	1478118525314	BKSP	8
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309812	1478118525241	1478118525364	l	76
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309815	1478118525432	1478118525495	l	76
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309819	1478118525621	1478118525709	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309822	1478118525697	1478118525836	c	67
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309837	1478118525775	1478118525862	o	79
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309838	1478118525812	1478118525918	m	77
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309840	1478118525878	1478118525977	e	69
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309841	1478118525977	1478118526121	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309843	1478118526063	1478118526162	h	72
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309844	1478118526093	1478118526192	a	65
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309849	1478118526162	1478118526293	v	86
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309854	1478118526229	1478118526338	e	69
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309860	1478118526279	1478118526344	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309868	1478118526357	1478118526462	a	65
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309876	1478118526428	1478118526462	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309883	1478118526545	1478118526656	b	66
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309901	1478118526639	1478118526687	e	69
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309903	1478118526750	1478118526881	e	69
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309905	1478118526851	1478118526959	r	82
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309908	1478118526913	1478118527021	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309913	1478118527019	1478118527110	w	87
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309932	1478118527081	1478118527171	i	73
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309935	1478118527190	1478118527270	t	84
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309941	1478118527225	1478118527285	h	72
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309946	1478118527379	1478118527483	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309949	1478118527474	1478118527584	y	89
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309972	1478118527524	1478118527623	o	79
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309979	1478118527572	1478118527671	u	85
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309985	1478118527744	1478118527821	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309995	1478118527852	1478118527972	g	71
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228309989	1478118527907	1478118527955	u	85
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310000	1478118528034	1478118528129	y	89
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310009	1478118528109	1478118528209	s	83
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310013	1478118528175	1478118528302	 	32
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310018	1478118528272	1478118528391	l	76
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310022	1478118528338	1478118528455	a	65
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310028	1478118528407	1478118528471	t	84
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310034	1478118528523	1478118528629	e	69
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310026	1478118528572	1478118528654	r	82
+446609	4809044	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	228310031	1478118528600	1478118528686	.	190
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310162	1478118530202	1478118530339	SHIFT	16
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310167	1478118530322	1478118530420	W	87
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310171	1478118530451	1478118530528	h	72
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310173	1478118530528	1478118530661	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310177	1478118530643	1478118530721	n	78
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310183	1478118530840	1478118530902	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310232	1478118530889	1478118531002	t	84
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310234	1478118531018	1478118531120	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310239	1478118531319	1478118531372	BKSP	8
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310245	1478118531473	1478118531555	h	72
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310251	1478118531538	1478118531657	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310259	1478118531642	1478118531724	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310268	1478118531771	1478118531873	i	73
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310294	1478118531825	1478118531919	n	78
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310298	1478118531934	1478118532040	s	83
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310302	1478118532189	1478118532292	p	80
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310307	1478118532242	1478118532374	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310311	1478118532339	1478118532439	c	67
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310317	1478118532535	1478118532629	t	84
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310343	1478118532576	1478118532744	i	73
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310351	1478118532633	1478118532744	o	79
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310354	1478118532695	1478118532776	n	78
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310359	1478118532854	1478118532947	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310364	1478118532925	1478118533026	i	73
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310374	1478118532976	1478118533088	s	83
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310380	1478118533046	1478118533145	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310385	1478118533161	1478118533266	f	70
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310389	1478118533232	1478118533305	i	73
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310395	1478118533278	1478118533374	n	78
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310399	1478118533389	1478118533472	i	73
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310424	1478118533721	1478118533842	s	83
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310427	1478118533837	1478118533939	h	72
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310430	1478118533925	1478118534044	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310432	1478118534000	1478118534078	d	68
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310457	1478118534044	1478118534141	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310464	1478118534266	1478118534376	w	87
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310469	1478118534326	1478118534429	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310473	1478118534393	1478118534473	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310476	1478118534473	1478118534582	w	87
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310503	1478118534578	1478118534661	i	73
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310507	1478118534719	1478118534791	l	76
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310514	1478118534853	1478118534988	l	76
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310521	1478118534942	1478118535069	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310530	1478118535035	1478118535158	c	67
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310598	1478118535140	1478118535225	u	85
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310602	1478118535453	1478118535492	BKSP	8
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310606	1478118535602	1478118535742	o	79
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310611	1478118535697	1478118535790	m	77
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310615	1478118536129	1478118536192	m	77
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310620	1478118536355	1478118536450	u	85
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310625	1478118536408	1478118536522	n	78
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310628	1478118536556	1478118536651	i	73
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310634	1478118536627	1478118536742	c	67
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310642	1478118536690	1478118536806	a	65
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310645	1478118536836	1478118536952	t	84
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310651	1478118536925	1478118537009	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310653	1478118536971	1478118537041	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310660	1478118537087	1478118537196	t	84
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310667	1478118537173	1478118537226	h	72
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310676	1478118537211	1478118537294	o	79
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310697	1478118537251	1478118537359	s	83
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310699	1478118537308	1478118537424	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310701	1478118537375	1478118537477	 	32
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310705	1478118537491	1478118537608	r	82
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310710	1478118537541	1478118537652	e	69
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310717	1478118537702	1478118537809	s	83
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310756	1478118538027	1478118538091	u	85
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310761	1478118538155	1478118538269	l	76
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310765	1478118538240	1478118538340	t	84
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310772	1478118538282	1478118538392	s	83
+446609	4809053	When the inspection is finished we will communicate those results.	When the inspection is finished we will communicate those results.	228310778	1478118538492	1478118538648	.	190
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310942	1478118540257	1478118540452	SHIFT	16
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310945	1478118540409	1478118540534	C	67
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310947	1478118540452	1478118540584	a	65
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310951	1478118540550	1478118540602	n	78
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310955	1478118540705	1478118540756	 	32
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310964	1478118540803	1478118540877	y	89
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310979	1478118540849	1478118540935	o	79
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310989	1478118540881	1478118540967	u	85
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228310997	1478118541014	1478118541123	 	32
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311005	1478118541068	1478118541185	g	71
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311012	1478118541154	1478118541304	e	69
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311052	1478118541257	1478118541387	t	84
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311048	1478118541296	1478118541368	 	32
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311056	1478118541434	1478118541530	m	77
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311060	1478118541502	1478118541589	e	69
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311066	1478118541621	1478118541684	 	32
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311073	1478118541684	1478118541839	t	84
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311132	1478118541754	1478118541860	h	72
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311136	1478118541818	1478118541921	e	69
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311140	1478118541936	1478118542005	 	32
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311145	1478118542171	1478118542284	c	67
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311150	1478118542181	1478118542365	SHIFT	16
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311159	1478118542739	1478118542785	l	76
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311166	1478118542802	1478118542946	a	65
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311172	1478118543087	1478118543135	BKSP	8
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311179	1478118543199	1478118543278	BKSP	8
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311164	1478118543239	1478118543372	a	65
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311170	1478118543339	1478118543437	l	76
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311175	1478118543418	1478118543485	g	71
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311181	1478118543547	1478118543655	e	69
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311221	1478118543596	1478118543702	r	82
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311230	1478118543637	1478118543751	 	32
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311238	1478118543718	1478118543812	l	76
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311246	1478118543774	1478118543898	e	69
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311256	1478118543945	1478118544019	t	84
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311265	1478118544105	1478118544184	t	84
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311269	1478118544278	1478118544387	e	69
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311273	1478118544336	1478118544436	r	82
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311276	1478118544435	1478118544528	 	32
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311280	1478118544532	1478118544638	d	68
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311284	1478118544619	1478118544731	o	79
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311289	1478118544705	1478118544797	w	87
+446609	4809067	Can you get me the Calger letter done?	Can you get me the calger letter down	228311279	1478118544752	1478118544811	n	78
+446609	4809080	Travis is in charge.	Travis is in charge.	228311465	1478118546301	1478118546641	SHIFT	16
+446609	4809080	Travis is in charge.	Travis is in charge.	228311461	1478118546481	1478118546550	T	84
+446609	4809080	Travis is in charge.	Travis is in charge.	228311473	1478118546855	1478118547002	a	65
+446609	4809080	Travis is in charge.	Travis is in charge.	228311480	1478118547151	1478118547206	BKSP	8
+446609	4809080	Travis is in charge.	Travis is in charge.	228311486	1478118547310	1478118547401	r	82
+446609	4809080	Travis is in charge.	Travis is in charge.	228311494	1478118547384	1478118547483	a	65
+446609	4809080	Travis is in charge.	Travis is in charge.	228311500	1478118547483	1478118547581	v	86
+446609	4809080	Travis is in charge.	Travis is in charge.	228311504	1478118547536	1478118547634	i	73
+446609	4809080	Travis is in charge.	Travis is in charge.	228311510	1478118547626	1478118547720	s	83
+446609	4809080	Travis is in charge.	Travis is in charge.	228311521	1478118547715	1478118547802	 	32
+446609	4809080	Travis is in charge.	Travis is in charge.	228311531	1478118547784	1478118547875	i	73
+446609	4809080	Travis is in charge.	Travis is in charge.	228311537	1478118547838	1478118547941	s	83
+446609	4809080	Travis is in charge.	Travis is in charge.	228311552	1478118547918	1478118547969	 	32
+446609	4809080	Travis is in charge.	Travis is in charge.	228311553	1478118547986	1478118548084	i	73
+446609	4809080	Travis is in charge.	Travis is in charge.	228311555	1478118548066	1478118548118	n	78
+446609	4809080	Travis is in charge.	Travis is in charge.	228311561	1478118548210	1478118548286	 	32
+446609	4809080	Travis is in charge.	Travis is in charge.	228311566	1478118548262	1478118548358	c	67
+446609	4809080	Travis is in charge.	Travis is in charge.	228311573	1478118548333	1478118548432	h	72
+446609	4809080	Travis is in charge.	Travis is in charge.	228311575	1478118548402	1478118548525	a	65
+446609	4809080	Travis is in charge.	Travis is in charge.	228311580	1478118548487	1478118548581	r	82
+446609	4809080	Travis is in charge.	Travis is in charge.	228311584	1478118548676	1478118548774	g	71
+446609	4809080	Travis is in charge.	Travis is in charge.	228311592	1478118548718	1478118548806	e	69
+446609	4809080	Travis is in charge.	Travis is in charge.	228311596	1478118548754	1478118548868	.	190
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311772	1478118550452	1478118550605	SHIFT	16
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311774	1478118550966	1478118551125	SHIFT	16
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311777	1478118551096	1478118551191	Y	89
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311780	1478118551269	1478118551395	o	79
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311786	1478118551296	1478118551427	u	85
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311792	1478118551489	1478118551585	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311797	1478118551564	1478118551706	c	67
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311801	1478118551602	1478118551715	a	65
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311805	1478118551664	1478118551731	n	78
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311808	1478118551794	1478118551913	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311812	1478118551864	1478118551975	h	72
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311842	1478118551917	1478118551999	a	65
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311844	1478118551959	1478118552109	v	86
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311847	1478118552015	1478118552137	e	69
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311850	1478118552081	1478118552178	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311859	1478118552194	1478118552319	a	65
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311864	1478118552280	1478118552335	l	76
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311874	1478118552398	1478118552497	l	76
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311889	1478118552449	1478118552564	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311891	1478118552569	1478118552693	t	84
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311894	1478118552664	1478118552751	h	72
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311898	1478118552737	1478118552846	e	69
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311903	1478118552800	1478118552867	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311908	1478118552985	1478118553081	h	72
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311927	1478118553032	1478118553136	o	79
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311930	1478118553093	1478118553204	r	82
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311937	1478118553184	1478118553296	s	83
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311944	1478118553235	1478118553343	e	69
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311948	1478118553359	1478118553511	p	80
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228311998	1478118553414	1478118553545	o	79
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312004	1478118553466	1478118553601	w	87
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312009	1478118553532	1478118553625	e	69
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312014	1478118553585	1478118553694	r	82
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312020	1478118553725	1478118553829	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312023	1478118554126	1478118554232	a	65
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312052	1478118554180	1478118554262	n	78
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312054	1478118554333	1478118554434	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312062	1478118554382	1478118554488	i	73
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312073	1478118554466	1478118554547	t	84
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312083	1478118554721	1478118554812	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312094	1478118554859	1478118554969	w	87
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312138	1478118554949	1478118555047	o	78
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312144	1478118555187	1478118555301	'	222
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312148	1478118555287	1478118555382	t	84
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312151	1478118555413	1478118555511	 	32
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312157	1478118555643	1478118555714	m	77
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312163	1478118555730	1478118555831	a	65
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312173	1478118555915	1478118555981	t	84
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312179	1478118556059	1478118556096	t	84
+446609	4809086	You can have all the horsepower and it won't matter.	You can have all the horsepower an it wno't matter	228312188	1478118556114	1478118556217	e	69
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312309	1478118557605	1478118557862	SHIFT	16
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312318	1478118557748	1478118557862	G	71
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312324	1478118557910	1478118558014	e	69
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312331	1478118557964	1478118558076	t	84
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312336	1478118558046	1478118558132	 	32
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312340	1478118558147	1478118558231	w	87
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312363	1478118558196	1478118558303	i	73
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312369	1478118558294	1478118558396	h	84
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312375	1478118558485	1478118558578	 	32
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312380	1478118558667	1478118558837	SHIFT	16
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312446	1478118558767	1478118558849	D	68
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312451	1478118558798	1478118558902	A	65
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312458	1478118558866	1478118558986	v	86
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312466	1478118558941	1478118559053	i	73
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312472	1478118559040	1478118559125	d	68
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312477	1478118559141	1478118559226	 	32
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312500	1478118559432	1478118559664	SHIFT	16
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312485	1478118559511	1478118559636	L	76
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312505	1478118559753	1478118559858	u	85
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312512	1478118559795	1478118559892	n	78
+446609	4809102	Get with David Lund.	Get with DAvid Lund	228312519	1478118559888	1478118559946	d	68
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312735	1478118561458	1478118561757	SHIFT	16
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312742	1478118561692	1478118561788	F	70
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312753	1478118561926	1478118562038	a	65
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312755	1478118561992	1478118562094	n	78
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312756	1478118562075	1478118562219	c	67
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312775	1478118562144	1478118562243	e	69
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312780	1478118562227	1478118562264	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312788	1478118562285	1478118562389	w	87
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312793	1478118562405	1478118562508	u	79
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312795	1478118562586	1478118562706	l	76
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312812	1478118562647	1478118562735	d	68
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312818	1478118562733	1478118562792	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312826	1478118562871	1478118562975	n	78
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312831	1478118562924	1478118563020	o	79
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312836	1478118562991	1478118563093	t	84
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312858	1478118563062	1478118563168	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312863	1478118563147	1478118563255	j	74
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312871	1478118563244	1478118563429	o	79
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312877	1478118563355	1478118563458	i	73
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312882	1478118563391	1478118563458	n	78
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312887	1478118563537	1478118563610	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312940	1478118563623	1478118563752	a	65
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312943	1478118563696	1478118563793	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312953	1478118564004	1478118564190	SHIFT	16
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312948	1478118564072	1478118564159	U	85
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312956	1478118564175	1478118564285	S	83
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228312963	1478118564285	1478118564371	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313002	1478118564461	1478118564592	m	77
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313006	1478118564506	1478118564669	i	73
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313009	1478118564745	1478118564949	l	76
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313011	1478118564839	1478118564965	i	73
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313014	1478118564996	1478118565077	t	84
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313038	1478118565114	1478118565245	a	65
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313041	1478118565204	1478118565310	r	82
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313045	1478118565274	1478118565337	y	89
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313048	1478118565430	1478118565491	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313050	1478118565553	1478118565688	i	73
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313072	1478118565636	1478118565754	n	78
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313077	1478118565769	1478118565881	v	86
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313084	1478118565838	1478118565936	i	73
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313091	1478118565936	1478118566049	s	83
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313098	1478118566021	1478118566172	i	73
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313145	1478118566062	1478118566193	o	79
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313150	1478118566121	1478118566217	n	78
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313159	1478118566295	1478118566404	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313166	1478118566451	1478118566561	o	79
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313170	1478118566535	1478118566648	f	70
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313174	1478118566612	1478118566704	 	32
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313178	1478118566819	1478118566932	SHIFT	16
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313202	1478118566866	1478118566972	H	72
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313208	1478118566908	1478118567050	A	65
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313212	1478118567019	1478118567091	i	73
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313217	1478118567138	1478118567212	t	84
+446609	4809106	France would not join a US military invasion of Haiti.	rance would not join a US military invision of HAiti	228313220	1478118567186	1478118567291	i	73

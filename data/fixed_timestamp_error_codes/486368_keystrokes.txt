@@ -1,0 +1,582 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+486368	5238138	This is the crew.	this is the crew	248640295	1478652789001	1478652789043	NA	84
+486368	5238138	This is the crew.	this is the crew	248640300	1478652789155	1478652789227	NA	72
+486368	5238138	This is the crew.	this is the crew	248640304	1478652789611	1478652789690	NA	73
+486368	5238138	This is the crew.	this is the crew	248640314	1478652789835	1478652790003	NA	83
+486368	5238138	This is the crew.	this is the crew	248640317	1478652790219	1478652790322	NA	32
+486368	5238138	This is the crew.	this is the crew	248640396	1478652790411	1478652790474	NA	73
+486368	5238138	This is the crew.	this is the crew	248640399	1478652790619	1478652790770	NA	83
+486368	5238138	This is the crew.	this is the crew	248640402	1478652790891	1478652790978	NA	32
+486368	5238138	This is the crew.	this is the crew	248640405	1478652791756	1478652791826	NA	84
+486368	5238138	This is the crew.	this is the crew	248640408	1478652791954	1478652792050	NA	72
+486368	5238138	This is the crew.	this is the crew	248640460	1478652792291	1478652792362	NA	69
+486368	5238138	This is the crew.	this is the crew	248640465	1478652792459	1478652792554	NA	32
+486368	5238138	This is the crew.	this is the crew	248640472	1478652792835	1478652792913	NA	67
+486368	5238138	This is the crew.	this is the crew	248640478	1478652793075	1478652793146	NA	82
+486368	5238138	This is the crew.	this is the crew	248640482	1478652793285	1478652793346	NA	69
+486368	5238138	This is the crew.	this is the crew	248640513	1478652793580	1478652793650	NA	87
+486368	5238145	Talk to you later.	Talk to you later.	248640762	1478652796604	1478652796972	SHIFT	16
+486368	5238145	Talk to you later.	Talk to you later.	248640768	1478652796939	1478652796994	NA	84
+486368	5238145	Talk to you later.	Talk to you later.	248640775	1478652797187	1478652797426	NA	65
+486368	5238145	Talk to you later.	Talk to you later.	248640781	1478652797586	1478652797666	NA	76
+486368	5238145	Talk to you later.	Talk to you later.	248640788	1478652797795	1478652797842	NA	75
+486368	5238145	Talk to you later.	Talk to you later.	248640792	1478652798628	1478652798754	NA	32
+486368	5238145	Talk to you later.	Talk to you later.	248640851	1478652799215	1478652799274	NA	84
+486368	5238145	Talk to you later.	Talk to you later.	248640852	1478652799588	1478652799658	NA	73
+486368	5238145	Talk to you later.	Talk to you later.	248640853	1478652799739	1478652799818	NA	32
+486368	5238145	Talk to you later.	Talk to you later.	248640854	1478652800003	1478652800074	NA	89
+486368	5238145	Talk to you later.	Talk to you later.	248640856	1478652800315	1478652800420	NA	79
+486368	5238145	Talk to you later.	Talk to you later.	248640939	1478652800546	1478652800626	NA	85
+486368	5238145	Talk to you later.	Talk to you later.	248640944	1478652800779	1478652800874	NA	32
+486368	5238145	Talk to you later.	Talk to you later.	248640949	1478652801538	1478652801610	NA	76
+486368	5238145	Talk to you later.	Talk to you later.	248640954	1478652801739	1478652801929	NA	65
+486368	5238145	Talk to you later.	Talk to you later.	248640958	1478652801995	1478652802065	NA	84
+486368	5238145	Talk to you later.	Talk to you later.	248641307	1478652802227	1478652802298	NA	69
+486368	5238145	Talk to you later.	Talk to you later.	248641309	1478652802410	1478652802482	NA	82
+486368	5238145	Talk to you later.	Talk to you later.	248641311	1478652804154	1478652804258	NA	190
+486368	5238145	Talk to you later.	Talk to you later.	248641314	1478652806516	1478652807818		8
+486368	5238145	Talk to you later.	Talk to you later.	248641317	1478652808059	1478652808146		8
+486368	5238145	Talk to you later.	Talk to you later.	248641431	1478652808771	1478652808849	NA	79
+486368	5238145	Talk to you later.	Talk to you later.	248641433	1478652809122	1478652809225	NA	32
+486368	5238145	Talk to you later.	Talk to you later.	248641436	1478652809594	1478652809665	NA	89
+486368	5238145	Talk to you later.	Talk to you later.	248641440	1478652810010	1478652810090	NA	79
+486368	5238145	Talk to you later.	Talk to you later.	248641444	1478652810210	1478652810289	NA	85
+486368	5238145	Talk to you later.	Talk to you later.	248641554	1478652810362	1478652810442	NA	32
+486368	5238145	Talk to you later.	Talk to you later.	248641558	1478652810690	1478652810779	NA	76
+486368	5238145	Talk to you later.	Talk to you later.	248641562	1478652811218	1478652811402	NA	65
+486368	5238145	Talk to you later.	Talk to you later.	248641566	1478652811490	1478652811610	NA	84
+486368	5238145	Talk to you later.	Talk to you later.	248641571	1478652812250	1478652812321	NA	69
+486368	5238145	Talk to you later.	Talk to you later.	248641639	1478652812434	1478652812531	NA	82
+486368	5238145	Talk to you later.	Talk to you later.	248641643	1478652813482	1478652813561	NA	190
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248641881	1478652815898	1478652816537	SHIFT	16
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248641876	1478652816282	1478652816402	NA	82
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248641883	1478652817026	1478652817105	NA	69
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248641886	1478652818002	1478652818073	NA	67
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248641890	1478652818466	1478652818585	NA	79
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248641895	1478652818834	1478652818954	NA	78
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642053	1478652820035	1478652820121	NA	70
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642056	1478652820722	1478652820801	NA	73
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642062	1478652821259	1478652821329	NA	71
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642068	1478652821674	1478652821753	NA	85
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642073	1478652822066	1478652822169	NA	82
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642128	1478652822274	1478652822377	NA	69
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642129	1478652822562	1478652822689	NA	32
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642130	1478652823090	1478652823169	NA	84
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642131	1478652823322	1478652823417	NA	72
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642133	1478652823650	1478652823737	NA	69
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642234	1478652823843	1478652823937	NA	32
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642236	1478652824723	1478652824881	NA	68
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642239	1478652825074	1478652825169	NA	73
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642241	1478652825330	1478652825481	NA	83
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642244	1478652825682	1478652825769	NA	75
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642359	1478652825842	1478652825945	NA	32
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642361	1478652826690	1478652826753	NA	76
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642364	1478652826946	1478652827153	NA	65
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642367	1478652827338	1478652827425	NA	89
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642369	1478652827988	1478652828049	NA	79
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642477	1478652828250	1478652828329	NA	85
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642479	1478652828569	1478652828673	NA	84
+486368	5238170	Reconfigure the disk layout.	Reconfigure the disk layout.	248642482	1478652829498	1478652829577	NA	190
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642762	1478652832474	1478652832841	SHIFT	16
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642765	1478652832794	1478652832881	NA	87
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642771	1478652833018	1478652833112	NA	69
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642776	1478652835121	1478652835170	NA	222
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642780	1478652835706	1478652835777	NA	82
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642784	1478652835929	1478652836081	NA	69
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642910	1478652836225	1478652836329	NA	32
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642914	1478652836970	1478652837145	NA	87
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642919	1478652837297	1478652837377	NA	79
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642926	1478652837673	1478652837777	NA	82
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248642931	1478652838282	1478652838361	NA	75
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643066	1478652838457	1478652838552	NA	73
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643067	1478652838707	1478652838748	NA	78
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643068	1478652839706	1478652839801	NA	71
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643071	1478652839969	1478652840089	NA	32
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643074	1478652840681	1478652840793	NA	87
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643157	1478652840953	1478652841033	NA	73
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643161	1478652841245	1478652841297	NA	84
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643165	1478652841441	1478652841560	NA	72
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643168	1478652841665	1478652841738	NA	32
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643172	1478652842282	1478652842352	NA	84
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643274	1478652842505	1478652842612	NA	72
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643278	1478652842817	1478652842912	NA	69
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643283	1478652842977	1478652843168	NA	65
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643286	1478652843817	1478652843961		8
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643290	1478652844105	1478652844201	NA	32
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643402	1478652844809	1478652844985	NA	83
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643408	1478652845321	1478652845416	NA	80
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643411	1478652845993	1478652846049	NA	69
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643412	1478652846177	1478652846232	NA	69
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643413	1478652846601	1478652846696	NA	68
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643581	1478652847185	1478652847290	NA	87
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643585	1478652847417	1478652847552	NA	65
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643590	1478652847649	1478652847736	NA	89
+486368	5238187	We're working with the speedway.	We're working with the speedway.	248643596	1478652848601	1478652848680	NA	190
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643848	1478652852649	1478652852993	SHIFT	16
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643850	1478652853024	1478652853096	NA	73
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643855	1478652853226	1478652853313	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643861	1478652854265	1478652854368		8
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643869	1478652854473	1478652854544		8
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643952	1478652854952	1478652855808	SHIFT	16
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643874	1478652855441	1478652855521	NA	73
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643953	1478652855761	1478652855864	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643955	1478652856513	1478652856672	NA	87
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643958	1478652856849	1478652856912	NA	73
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643962	1478652857161	1478652857224	NA	76
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248643965	1478652857321	1478652857384	NA	76
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644029	1478652857529	1478652857608	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644031	1478652858266	1478652858321	NA	70
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644035	1478652858392	1478652858544	NA	65
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644037	1478652858753	1478652858896	NA	88
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644040	1478652858977	1478652859072	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644148	1478652859665	1478652859720	NA	84
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644151	1478652859864	1478652859936	NA	72
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644154	1478652860529	1478652860672	NA	69
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644157	1478652860819	1478652860928	NA	65
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644306	1478652860905	1478652860968	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644309	1478652861472	1478652861568		8
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644314	1478652861673	1478652861760		8
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644317	1478652862082	1478652862168	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644321	1478652862792	1478652862896	NA	73
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644324	1478652863169	1478652863313	NA	78
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644499	1478652865057	1478652865208	NA	86
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644502	1478652865320	1478652865408	NA	79
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644505	1478652865553	1478652865632	NA	73
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644508	1478652865881	1478652866032	NA	67
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644510	1478652866585	1478652866712	NA	69
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644621	1478652866857	1478652866976	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644623	1478652867649	1478652867728	NA	84
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644626	1478652868099	1478652868219	NA	79
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644630	1478652868273	1478652868400	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644634	1478652868512	1478652868600	NA	89
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644716	1478652868841	1478652868952	NA	79
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644722	1478652869073	1478652869152	NA	85
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644728	1478652869281	1478652869352	NA	32
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644733	1478652870033	1478652870104	NA	84
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644738	1478652870448	1478652870536	NA	79
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644876	1478652871001	1478652871079	NA	68
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644878	1478652871209	1478652871352	NA	65
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644880	1478652871496	1478652871608	NA	89
+486368	5238211	I will fax the invoice to you today.	I will fax the invoice to you today.	248644883	1478652872465	1478652872537	NA	190
+486368	5238240	I'm still in FW.	I'm still in FW.	248645153	1478652875642	1478652876135	SHIFT	16
+486368	5238240	I'm still in FW.	I'm still in FW.	248645147	1478652876024	1478652876128	NA	73
+486368	5238240	I'm still in FW.	I'm still in FW.	248645159	1478652877641	1478652877736	NA	222
+486368	5238240	I'm still in FW.	I'm still in FW.	248645162	1478652878184	1478652878280	NA	77
+486368	5238240	I'm still in FW.	I'm still in FW.	248645167	1478652878360	1478652878464	NA	32
+486368	5238240	I'm still in FW.	I'm still in FW.	248645170	1478652878979	1478652879136	NA	83
+486368	5238240	I'm still in FW.	I'm still in FW.	248645226	1478652879328	1478652879415	NA	84
+486368	5238240	I'm still in FW.	I'm still in FW.	248645227	1478652879792	1478652879880	NA	73
+486368	5238240	I'm still in FW.	I'm still in FW.	248645228	1478652880176	1478652880233	NA	76
+486368	5238240	I'm still in FW.	I'm still in FW.	248645229	1478652880320	1478652880391	NA	76
+486368	5238240	I'm still in FW.	I'm still in FW.	248645230	1478652880680	1478652880791	NA	32
+486368	5238240	I'm still in FW.	I'm still in FW.	248645387	1478652881272	1478652881335	NA	73
+486368	5238240	I'm still in FW.	I'm still in FW.	248645389	1478652881472	1478652881576	NA	78
+486368	5238240	I'm still in FW.	I'm still in FW.	248645397	1478652881959	1478652882887	SHIFT	16
+486368	5238240	I'm still in FW.	I'm still in FW.	248645394	1478652882665	1478652882767	NA	70
+486368	5238240	I'm still in FW.	I'm still in FW.	248645400	1478652883304	1478652883336	NA	88
+486368	5238240	I'm still in FW.	I'm still in FW.	248645404	1478652884000	1478652884167		8
+486368	5238240	I'm still in FW.	I'm still in FW.	248645551	1478652884800	1478652884927		8
+486368	5238240	I'm still in FW.	I'm still in FW.	248645557	1478652884992	1478652885095		8
+486368	5238240	I'm still in FW.	I'm still in FW.	248645560	1478652885984	1478652886047	NA	78
+486368	5238240	I'm still in FW.	I'm still in FW.	248645563	1478652886120	1478652886215	NA	32
+486368	5238240	I'm still in FW.	I'm still in FW.	248645644	1478652886640	1478652889327	SHIFT	16
+486368	5238240	I'm still in FW.	I'm still in FW.	248645565	1478652888304	1478652888391	NA	70
+486368	5238240	I'm still in FW.	I'm still in FW.	248645642	1478652888952	1478652889047	NA	87
+486368	5238240	I'm still in FW.	I'm still in FW.	248645647	1478652889864	1478652889951	NA	190
+486368	5238258	We just need a sitter.	We just need a sitter.	248645902	1478652893056	1478652893415	SHIFT	16
+486368	5238258	We just need a sitter.	We just need a sitter.	248645905	1478652893375	1478652893432	NA	87
+486368	5238258	We just need a sitter.	We just need a sitter.	248645907	1478652893919	1478652893983	NA	69
+486368	5238258	We just need a sitter.	We just need a sitter.	248645909	1478652894584	1478652894695	NA	32
+486368	5238258	We just need a sitter.	We just need a sitter.	248645910	1478652895272	1478652895335	NA	74
+486368	5238258	We just need a sitter.	We just need a sitter.	248645911	1478652895463	1478652895551	NA	85
+486368	5238258	We just need a sitter.	We just need a sitter.	248645997	1478652895768	1478652895928	NA	83
+486368	5238258	We just need a sitter.	We just need a sitter.	248646001	1478652896151	1478652896231	NA	84
+486368	5238258	We just need a sitter.	We just need a sitter.	248646004	1478652896344	1478652896431	NA	32
+486368	5238258	We just need a sitter.	We just need a sitter.	248646008	1478652897128	1478652897207	NA	78
+486368	5238258	We just need a sitter.	We just need a sitter.	248646013	1478652897368	1478652897463	NA	69
+486368	5238258	We just need a sitter.	We just need a sitter.	248646108	1478652897592	1478652897735	NA	69
+486368	5238258	We just need a sitter.	We just need a sitter.	248646111	1478652897944	1478652898071	NA	68
+486368	5238258	We just need a sitter.	We just need a sitter.	248646114	1478652898144	1478652898263	NA	32
+486368	5238258	We just need a sitter.	We just need a sitter.	248646117	1478652898799	1478652898975	NA	65
+486368	5238258	We just need a sitter.	We just need a sitter.	248646119	1478652899232	1478652899399	NA	83
+486368	5238258	We just need a sitter.	We just need a sitter.	248646251	1478652899703	1478652899799	NA	73
+486368	5238258	We just need a sitter.	We just need a sitter.	248646257	1478652900384	1478652900447	NA	84
+486368	5238258	We just need a sitter.	We just need a sitter.	248646261	1478652900552	1478652900639	NA	84
+486368	5238258	We just need a sitter.	We just need a sitter.	248646266	1478652901303	1478652901375	NA	69
+486368	5238258	We just need a sitter.	We just need a sitter.	248646272	1478652901479	1478652901591	NA	82
+486368	5238258	We just need a sitter.	We just need a sitter.	248646672	1478652902312	1478652902383	NA	190
+486368	5238258	We just need a sitter.	We just need a sitter.	248646675	1478652905179	1478652905295	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646878	1478652912959	1478652913374	SHIFT	16
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646882	1478652913383	1478652913470	NA	67
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646884	1478652913647	1478652913911	NA	65
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646887	1478652914144	1478652914270	NA	78
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646889	1478652914431	1478652914622	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646891	1478652915079	1478652915182	NA	89
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646981	1478652915583	1478652915694	NA	79
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646984	1478652915840	1478652915975	NA	85
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646986	1478652916023	1478652916174	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646988	1478652917031	1478652917102	NA	82
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248646990	1478652917263	1478652917367	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647135	1478652917968	1478652918134	NA	83
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647136	1478652918751	1478652918926	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647137	1478652919127	1478652919214	NA	78
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647138	1478652919568	1478652919774	NA	68
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647140	1478652920127	1478652920238	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647214	1478652920759	1478652920871	NA	77
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647216	1478652921120	1478652921246	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647219	1478652921367	1478652921494	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647222	1478652921903	1478652921998	NA	84
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647224	1478652922183	1478652922262	NA	72
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647360	1478652922775	1478652922886	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647361	1478652923023	1478652923167	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647364	1478652924247	1478652924982	SHIFT	16
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647362	1478652924695	1478652924790	NA	68
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647366	1478652925400	1478652925478	NA	79
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647368	1478652926031	1478652926119	NA	89
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647551	1478652926863	1478652926926	NA	76
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647557	1478652927191	1478652927318	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647564	1478652927487	1478652927590	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647572	1478652928674	1478652928798	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647579	1478652929471	1478652929518	NA	77
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647670	1478652929615	1478652929790	NA	65
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647673	1478652929999	1478652930062	NA	73
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647676	1478652930526	1478652930622	NA	76
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647680	1478652931679	1478652931750	NA	70
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647684	1478652931878	1478652931966	NA	82
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647768	1478652932359	1478652932478	NA	79
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647769	1478652932711	1478652932798	NA	77
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647770	1478652932919	1478652933030	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647772	1478652934015	1478652934094	NA	76
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647774	1478652934183	1478652934334	NA	65
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647857	1478652934502	1478652934678	NA	83
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647858	1478652934816	1478652934894	NA	84
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647861	1478652935006	1478652935094	NA	32
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647863	1478652935966	1478652936078	NA	87
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248647865	1478652936335	1478652936454	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248648139	1478652936534	1478652936686	NA	69
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248648144	1478652936990	1478652937078	NA	75
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248648151	1478652937566	1478652937758	SHIFT	16
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248648156	1478652937726	1478652937846	NA	191
+486368	5238280	Can you resend me the Doyle email from last week?	can you resend me the Doyle email from last week?	248648164	1478652941718	1478652941813	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648359	1478652946430	1478652946509	NA	80
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648361	1478652946766	1478652946926	NA	69
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648363	1478652947070	1478652947157	NA	79
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648366	1478652947294	1478652947381	NA	80
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648368	1478652947598	1478652947702	NA	76
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648474	1478652947950	1478652948157	NA	69
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648475	1478652948278	1478652948374	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648476	1478652949078	1478652949213	NA	83
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648477	1478652949438	1478652949526	NA	84
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648478	1478652950350	1478652950445	NA	82
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648619	1478652950846	1478652950933	NA	85
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648624	1478652951678	1478652951901	NA	67
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648628	1478652952046	1478652952133	NA	75
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648632	1478652952254	1478652952325	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648634	1478652953070	1478652953158	NA	84
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648699	1478652953294	1478652953381	NA	82
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648701	1478652953478	1478652953629	NA	65
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648704	1478652954103	1478652954173	NA	70
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648708	1478652954254	1478652954341	NA	70
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648710	1478652954702	1478652954789	NA	73
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648783	1478652955176	1478652955405	NA	67
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648784	1478652955398	1478652955493	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648785	1478652956302	1478652956365	NA	79
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648786	1478652956558	1478652956629	NA	78
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648788	1478652956718	1478652956830	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648854	1478652957614	1478652957749	NA	69
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648857	1478652957966	1478652958061	NA	73
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648859	1478652958334	1478652958413	NA	84
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648865	1478652958542	1478652958653	NA	72
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648871	1478652958974	1478652959126	NA	69
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648935	1478652959245	1478652959357	NA	82
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648938	1478652959574	1478652959709	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648942	1478652960294	1478652960485	NA	83
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648946	1478652960582	1478652960669	NA	73
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248648952	1478652960910	1478652961005	NA	68
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649037	1478652961085	1478652961205	NA	69
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649041	1478652961326	1478652961453	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649044	1478652961950	1478652962077	NA	79
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649049	1478652962397	1478652962501	NA	70
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649052	1478652962558	1478652962685	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649189	1478652963054	1478652963173	NA	85
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649194	1478652963326	1478652963437	NA	83
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649196	1478652963565	1478652963685	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649200	1478652965165	1478652965252	NA	74
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649204	1478652965454	1478652965549	NA	79
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649322	1478652965718	1478652965805	NA	73
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649325	1478652965958	1478652966062	NA	78
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649328	1478652966806	1478652966917	NA	69
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649331	1478652967142	1478652967317	NA	68
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649335	1478652967446	1478652967541	NA	32
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649492	1478652968109	1478652968181	NA	73
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649497	1478652968301	1478652968413	NA	78
+486368	5238313	People stuck in traffic on either side of us joined in.	people struck traffic on either side of us joined in.	248649501	1478652970286	1478652970389	NA	190
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649751	1478652974341	1478652974716	SHIFT	16
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649749	1478652974629	1478652974684	NA	84
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649754	1478652974821	1478652974924	NA	72
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649756	1478652975365	1478652975533	NA	69
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649758	1478652975573	1478652975693	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649761	1478652976310	1478652976358	NA	67
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649821	1478652976437	1478652976605	NA	65
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649824	1478652976893	1478652976988	NA	85
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649827	1478652977133	1478652977285	NA	83
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649831	1478652977453	1478652977628	NA	69
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649838	1478652977677	1478652977780	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649927	1478652978277	1478652978380	NA	79
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649930	1478652978701	1478652978789	NA	70
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649932	1478652978893	1478652979004	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649934	1478652979837	1478652979900	NA	84
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649936	1478652980053	1478652980132	NA	72
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649991	1478652980381	1478652980444	NA	69
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649993	1478652980565	1478652980677	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649994	1478652980901	1478652980981	NA	70
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649997	1478652981405	1478652981484	NA	73
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248649998	1478652981925	1478652982020	NA	82
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650167	1478652982125	1478652982252	NA	69
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650170	1478652982397	1478652982525	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650173	1478652984533	1478652984636	NA	87
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650177	1478652984805	1478652984980	NA	65
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650181	1478652985125	1478652985308	NA	83
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650247	1478652985525	1478652985652	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650249	1478652986093	1478652986180	NA	85
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650251	1478652986293	1478652986396	NA	78
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650255	1478652986741	1478652986828	NA	68
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650260	1478652986933	1478652987004	NA	69
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650360	1478652987109	1478652987204	NA	82
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650368	1478652987341	1478652987444	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650372	1478652988189	1478652988268	NA	73
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650376	1478652988413	1478652988524	NA	78
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650377	1478652988885	1478652988965	NA	86
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650466	1478652989189	1478652989340	NA	69
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650470	1478652989557	1478652989708	NA	83
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650474	1478652989836	1478652989900	NA	84
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650479	1478652990301	1478652990372	NA	73
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650482	1478652990773	1478652990836	NA	71
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650568	1478652990989	1478652991172	NA	65
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650570	1478652991236	1478652991340	NA	84
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650572	1478652992469	1478652992548	NA	73
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650574	1478652992644	1478652992756	NA	79
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650579	1478652993013	1478652993100	NA	78
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650756	1478652993157	1478652993268	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650758	1478652993805	1478652993932		8
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650761	1478652995293	1478652995412	NA	188
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650765	1478652995636	1478652995724	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650769	1478652996277	1478652996356	NA	80
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650826	1478652996477	1478652996540	NA	79
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650828	1478652996685	1478652996764	NA	76
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650832	1478652996916	1478652997020	NA	73
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650835	1478652997629	1478652997708	NA	67
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650838	1478652997844	1478652998028	NA	69
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650931	1478652998116	1478652998204	NA	32
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650933	1478652999021	1478652999156	NA	83
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650937	1478652999284	1478652999476	NA	65
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650941	1478652999590	1478652999675	NA	73
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248650944	1478653000053	1478653000228	NA	68
+486368	5238338	The cause of the fire was under investigation, police said.	The cause of the fire was under investigation, police said.	248651014	1478653000948	1478653001019	NA	190
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651604	1478653005460	1478653010835	NA	83
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651441	1478653008829	1478653008940	NA	72
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651444	1478653009028	1478653009179	NA	69
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651447	1478653009220	1478653009347	NA	32
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651449	1478653010165	1478653010228	NA	72
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651600	1478653010348	1478653010475	NA	65
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651610	1478653011028	1478653011220	NA	32
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651612	1478653011661	1478653011843	NA	65
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651613	1478653012132	1478653012211	NA	66
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651614	1478653012572	1478653012723	NA	83
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651702	1478653012988	1478653013084	NA	79
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651704	1478653013236	1478653013355	NA	76
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651708	1478653013508	1478653013595	NA	85
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651712	1478653013964	1478653014051	NA	84
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651719	1478653014684	1478653014796	NA	69
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651872	1478653015628	1478653015707	NA	76
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651877	1478653015972	1478653016043	NA	89
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651881	1478653016132	1478653016235	NA	32
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651884	1478653017108	1478653017228	NA	69
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248651885	1478653017556	1478653017643	NA	86
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652012	1478653017828	1478653018011	NA	69
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652016	1478653018156	1478653018227	NA	82
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652020	1478653018532	1478653018603	NA	89
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652024	1478653019108	1478653019211	NA	73
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652029	1478653019860	1478653019988		8
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652138	1478653020844	1478653020931	NA	84
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652141	1478653021092	1478653021171	NA	72
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652144	1478653021484	1478653021563	NA	73
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652148	1478653021758	1478653021827	NA	78
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652151	1478653021996	1478653022075	NA	71
+486368	5238372	She has absolutely everything.	She hs absolutely everything.	248652247	1478653022988	1478653023075	NA	190
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652523	1478653026788	1478653026844	NA	65
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652527	1478653027467	1478653027571	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652529	1478653027668	1478653027787	NA	83
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652533	1478653028051	1478653028108	NA	84
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652537	1478653028164	1478653028331	NA	65
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652636	1478653028500	1478653028571	NA	84
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652639	1478653028731	1478653028827	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652644	1478653029004	1478653029107	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652647	1478653029939	1478653030091	NA	83
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652652	1478653030347	1478653030405	NA	85
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652766	1478653030614	1478653030683	NA	80
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652770	1478653031340	1478653031419	NA	82
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652775	1478653031531	1478653031619	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652780	1478653032276	1478653032347	NA	77
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652783	1478653032468	1478653032643	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652935	1478653032700	1478653032755	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652943	1478653034116	1478653034298	NA	67
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652948	1478653034379	1478653034459	NA	79
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652953	1478653034635	1478653034698	NA	85
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248652958	1478653034811	1478653034883	NA	78
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653084	1478653035139	1478653035211	NA	84
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653089	1478653035292	1478653035395	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653094	1478653036123	1478653036203	NA	74
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653098	1478653036380	1478653036459	NA	85
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653104	1478653037284	1478653037427	NA	68
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653168	1478653037660	1478653037755	NA	71
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653173	1478653038043	1478653038171	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653178	1478653038235	1478653038354	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653185	1478653039012	1478653039083	NA	73
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653192	1478653039211	1478653039394	NA	83
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653425	1478653039387	1478653039499	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653428	1478653040724	1478653040875	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653431	1478653041251	1478653041346	NA	88
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653436	1478653042028	1478653042107	NA	80
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653443	1478653042699	1478653042843	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653452	1478653043411	1478653043611	NA	67
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653555	1478653043715	1478653043794	NA	84
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653558	1478653044059	1478653044130	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653561	1478653044267	1478653044371	NA	68
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653564	1478653044515	1478653044618	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653567	1478653045235	1478653045306	NA	84
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653659	1478653045659	1478653045731	NA	79
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653664	1478653045780	1478653045891	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653670	1478653046179	1478653046267	NA	82
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653680	1478653046939	1478653047002	NA	85
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653685	1478653047323	1478653047386	NA	76
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653800	1478653047811	1478653047995	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653802	1478653048043	1478653048122	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653804	1478653048803	1478653048859	NA	79
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653806	1478653049003	1478653049090	NA	78
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653809	1478653049235	1478653049306	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653902	1478653049595	1478653049674	NA	84
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653906	1478653050043	1478653050114	NA	72
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653909	1478653050635	1478653050770	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653916	1478653050867	1478653050954	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248653919	1478653051611	1478653051754	NA	73
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654025	1478653052227	1478653052338	NA	83
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654029	1478653052443	1478653052554	NA	83
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654032	1478653052667	1478653052746	NA	85
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654037	1478653053171	1478653053306	NA	69
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654041	1478653053371	1478653053490	NA	32
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654199	1478653054291	1478653054466	NA	83
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654204	1478653054626	1478653054698	NA	72
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654207	1478653055114	1478653055163	NA	79
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654213	1478653055515	1478653055586	NA	82
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654215	1478653055827	1478653055906	NA	84
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654383	1478653056435	1478653056514	NA	76
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654385	1478653056779	1478653056858	NA	89
+486368	5238392	A state supreme court judge is expected to rule on the issue shortly.	A state supreme count judge is expected to rule on the issue shortly.	248654388	1478653057659	1478653057707	NA	190
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654673	1478653061291	1478653061362	SHIFT	16
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654680	1478653061418	1478653061858	SHIFT	16
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654677	1478653061762	1478653061842	NA	87
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654683	1478653062379	1478653062490	NA	69
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654690	1478653062610	1478653062730	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654696	1478653063115	1478653063210	NA	72
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654703	1478653063258	1478653063450	NA	65
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654792	1478653063610	1478653063690	NA	67
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654794	1478653064170	1478653064274		8
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654800	1478653064780	1478653064850	NA	86
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654806	1478653064962	1478653065098	NA	69
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654810	1478653065155	1478653065298	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654913	1478653066203	1478653066284	NA	66
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654916	1478653066395	1478653066506	NA	69
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654919	1478653066648	1478653066738	NA	69
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654921	1478653066907	1478653067010	NA	78
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248654924	1478653067603	1478653067722	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655058	1478653068338	1478653068570	NA	87
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655062	1478653068611	1478653068682	NA	79
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655064	1478653069010	1478653069090	NA	82
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655067	1478653069778	1478653069866	NA	75
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655074	1478653069962	1478653070074	NA	73
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655161	1478653070178	1478653070281	NA	78
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655163	1478653070498	1478653070594	NA	71
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655167	1478653070683	1478653070794	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655171	1478653071802	1478653071873	NA	79
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655179	1478653072019	1478653072098	NA	78
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655289	1478653072186	1478653072306	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655293	1478653073058	1478653073227	NA	67
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655299	1478653073498	1478653073570	NA	76
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655305	1478653073770	1478653073938	NA	65
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655310	1478653074339	1478653074409	NA	89
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655520	1478653074554	1478653074633	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655526	1478653075386	1478653075458	NA	70
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655529	1478653075866	1478653075969	NA	79
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655532	1478653076530	1478653076658	NA	82
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655534	1478653077539	1478653077666	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655623	1478653077978	1478653078081	NA	70
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655625	1478653078426	1478653078505	NA	79
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655628	1478653078738	1478653078850	NA	85
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655631	1478653079082	1478653079177	NA	82
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655633	1478653079266	1478653079369	NA	32
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655756	1478653079610	1478653079754	NA	87
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655764	1478653079946	1478653080089	NA	69
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655771	1478653080186	1478653080322	NA	69
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655778	1478653080898	1478653080977	NA	75
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655788	1478653081162	1478653081337	NA	83
+486368	5238436	We have been working on clay for four weeks.	We have been working on clay for four weeks.	248655885	1478653082154	1478653082241	NA	190
+486368	5238468	Are you going to apply?	Are you going to apply?	248656434	1478653088681	1478653089257	SHIFT	16
+486368	5238468	Are you going to apply?	Are you going to apply?	248656431	1478653089058	1478653089137	NA	65
+486368	5238468	Are you going to apply?	Are you going to apply?	248656437	1478653090202	1478653090289	NA	82
+486368	5238468	Are you going to apply?	Are you going to apply?	248656442	1478653090450	1478653090537	NA	69
+486368	5238468	Are you going to apply?	Are you going to apply?	248656447	1478653090738	1478653090849	NA	32
+486368	5238468	Are you going to apply?	Are you going to apply?	248656453	1478653091666	1478653091737	NA	89
+486368	5238468	Are you going to apply?	Are you going to apply?	248656660	1478653092162	1478653092241	NA	79
+486368	5238468	Are you going to apply?	Are you going to apply?	248656663	1478653092427	1478653092505	NA	85
+486368	5238468	Are you going to apply?	Are you going to apply?	248656667	1478653092633	1478653092737	NA	32
+486368	5238468	Are you going to apply?	Are you going to apply?	248656674	1478653095290	1478653095385	NA	71
+486368	5238468	Are you going to apply?	Are you going to apply?	248656679	1478653095946	1478653096025	NA	79
+486368	5238468	Are you going to apply?	Are you going to apply?	248656735	1478653096155	1478653096233	NA	73
+486368	5238468	Are you going to apply?	Are you going to apply?	248656739	1478653096410	1478653096513	NA	78
+486368	5238468	Are you going to apply?	Are you going to apply?	248656742	1478653096650	1478653096713	NA	71
+486368	5238468	Are you going to apply?	Are you going to apply?	248656744	1478653096793	1478653096905	NA	32
+486368	5238468	Are you going to apply?	Are you going to apply?	248656747	1478653097618	1478653097681	NA	84
+486368	5238468	Are you going to apply?	Are you going to apply?	248656840	1478653098042	1478653098113	NA	79
+486368	5238468	Are you going to apply?	Are you going to apply?	248656843	1478653098178	1478653098297	NA	32
+486368	5238468	Are you going to apply?	Are you going to apply?	248656848	1478653098738	1478653098921	NA	65
+486368	5238468	Are you going to apply?	Are you going to apply?	248656857	1478653099098	1478653099161	NA	80
+486368	5238468	Are you going to apply?	Are you going to apply?	248656864	1478653099234	1478653099296	NA	80
+486368	5238468	Are you going to apply?	Are you going to apply?	248657030	1478653099401	1478653099489	NA	76
+486368	5238468	Are you going to apply?	Are you going to apply?	248657034	1478653099777	1478653099881	NA	89
+486368	5238468	Are you going to apply?	Are you going to apply?	248657041	1478653099913	1478653100000	NA	32
+486368	5238468	Are you going to apply?	Are you going to apply?	248657050	1478653101034	1478653101104		8
+486368	5238468	Are you going to apply?	Are you going to apply?	248657058	1478653102105	1478653102290	SHIFT	16
+486368	5238468	Are you going to apply?	Are you going to apply?	248657078	1478653102265	1478653102385	NA	191
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657453	1478653106041	1478653106400	SHIFT	16
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657451	1478653106313	1478653106384	NA	84
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657455	1478653106777	1478653106857	NA	72
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657459	1478653108097	1478653108193	NA	69
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657464	1478653109042	1478653109128	NA	82
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657470	1478653109249	1478653109360	NA	69
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657581	1478653110057	1478653110128	NA	83
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657586	1478653110241	1478653110440	NA	65
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657593	1478653110513	1478653110569	NA	32
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657599	1478653111049	1478653111201		8
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657606	1478653111993	1478653112072	NA	188
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657739	1478653112225	1478653112297	NA	32
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657740	1478653112729	1478653113296	SHIFT	16
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657742	1478653113258	1478653113344	NA	73
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657745	1478653113489	1478653113577	NA	32
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657749	1478653114401	1478653114488	NA	72
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657754	1478653114825	1478653114904	NA	79
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657909	1478653115041	1478653115129	NA	80
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657914	1478653115617	1478653115712	NA	69
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657922	1478653115841	1478653115953	NA	32
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657925	1478653116929	1478653117000	NA	72
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248657927	1478653117457	1478653117584	NA	69
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658018	1478653117673	1478653117760	NA	32
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658021	1478653118650	1478653118728	NA	76
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658025	1478653118857	1478653118920	NA	73
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658029	1478653119049	1478653119144	NA	75
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658035	1478653119401	1478653119520	NA	69
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658187	1478653119673	1478653119809	NA	68
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658191	1478653120329	1478653120424	NA	32
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658194	1478653120561	1478653120624	NA	73
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658199	1478653121089	1478653121168	NA	84
+486368	5238491	Theresa, I hope he liked it.	Theresa, I hope he liked it.	248658206	1478653121985	1478653122064	NA	190

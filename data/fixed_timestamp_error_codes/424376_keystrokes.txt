@@ -1,0 +1,545 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139490	1477810069718	1477810069800	m	77
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139492	1477810070349	1477810070432	BKSP	8
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139493	1477810070572	1477810070822	SHIFT	16
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139494	1477810070853	1477810070946	m	77
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139496	1477810071039	1477810071134	a	65
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139499	1477810071306	1477810071476	r	82
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139502	1477810071664	1477810071762	i	73
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139511	1477810071888	1477810072096	s	83
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139512	1477810072075	1477810072228	a	65
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139514	1477810072259	1477810072349	 	32
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139516	1477810072866	1477810072952	s	83
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139518	1477810073077	1477810073179	e	69
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139537	1477810073325	1477810073433	n	78
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139538	1477810073527	1477810073629	t	84
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139539	1477810073769	1477810073895	 	32
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139540	1477810074294	1477810074411	t	84
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139541	1477810074473	1477810074562	h	72
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139582	1477810074604	1477810074712	e	69
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139583	1477810074915	1477810075029	 	32
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139584	1477810075576	1477810075649	i	73
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139585	1477810075852	1477810075978	n	78
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139586	1477810076275	1477810076393	v	86
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139600	1477810076494	1477810076564	o	79
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139602	1477810076689	1477810076764	i	73
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139604	1477810077251	1477810077377	c	67
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139606	1477810077502	1477810077689	e	69
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139608	1477810077689	1477810077851	s	83
+424376	4572621	Marisa sent the invoices.	marisa sent the invoices.	217139620	1477810078989	1477810079068	.	190
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139732	1477810082433	1477810082783	SHIFT	16
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139735	1477810082716	1477810082798	I	73
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139736	1477810083142	1477810083257	'	222
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139738	1477810083609	1477810083681	m	77
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139740	1477810083931	1477810084012	 	32
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139742	1477810084768	1477810084846	o	79
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139754	1477810085032	1477810085105	n	78
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139756	1477810085245	1477810085349	 	32
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139758	1477810085909	1477810086012	a	65
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139760	1477810086074	1477810086193	 	32
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139761	1477810087326	1477810087383	c	67
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139773	1477810087483	1477810087562	o	79
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139774	1477810087718	1477810087814	n	78
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139775	1477810088085	1477810088196	f	70
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139776	1477810088333	1477810088447	e	69
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139777	1477810088510	1477810088644	r	82
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139795	1477810088686	1477810088810	e	69
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139797	1477810088888	1477810088979	n	78
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139799	1477810089383	1477810089555	c	67
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139802	1477810089536	1477810089692	e	69
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139805	1477810089896	1477810089996	 	32
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139851	1477810090749	1477810090962	c	67
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139853	1477810090942	1477810091108	a	65
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139855	1477810091217	1477810091295	l	76
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139856	1477810091389	1477810091481	l	76
+424376	4572628	I'm on a conference call.	I'm on a conference call.	217139857	1477810092279	1477810092350	.	190
+424376	4572634	John this message concerns me.	John this message concerns me.	217139911	1477810095711	1477810096183	SHIFT	16
+424376	4572634	John this message concerns me.	John this message concerns me.	217139910	1477810096103	1477810096183	J	74
+424376	4572634	John this message concerns me.	John this message concerns me.	217139912	1477810096307	1477810096412	o	79
+424376	4572634	John this message concerns me.	John this message concerns me.	217139913	1477810096740	1477810096828	h	72
+424376	4572634	John this message concerns me.	John this message concerns me.	217139914	1477810096922	1477810097026	n	78
+424376	4572634	John this message concerns me.	John this message concerns me.	217139915	1477810097198	1477810097296	 	32
+424376	4572634	John this message concerns me.	John this message concerns me.	217139946	1477810097981	1477810098077	t	84
+424376	4572634	John this message concerns me.	John this message concerns me.	217139948	1477810098124	1477810098211	h	72
+424376	4572634	John this message concerns me.	John this message concerns me.	217139951	1477810098336	1477810098428	i	73
+424376	4572634	John this message concerns me.	John this message concerns me.	217139954	1477810098584	1477810098694	s	83
+424376	4572634	John this message concerns me.	John this message concerns me.	217139957	1477810098851	1477810098931	 	32
+424376	4572634	John this message concerns me.	John this message concerns me.	217140010	1477810099419	1477810099510	m	77
+424376	4572634	John this message concerns me.	John this message concerns me.	217140012	1477810099589	1477810099724	e	69
+424376	4572634	John this message concerns me.	John this message concerns me.	217140013	1477810100934	1477810101030	s	83
+424376	4572634	John this message concerns me.	John this message concerns me.	217140014	1477810101140	1477810101259	s	83
+424376	4572634	John this message concerns me.	John this message concerns me.	217140015	1477810101384	1477810101524	a	65
+424376	4572634	John this message concerns me.	John this message concerns me.	217140051	1477810101755	1477810101844	g	71
+424376	4572634	John this message concerns me.	John this message concerns me.	217140052	1477810101926	1477810101998	e	69
+424376	4572634	John this message concerns me.	John this message concerns me.	217140053	1477810102233	1477810102345	 	32
+424376	4572634	John this message concerns me.	John this message concerns me.	217140054	1477810103285	1477810103379	c	67
+424376	4572634	John this message concerns me.	John this message concerns me.	217140055	1477810103473	1477810103579	o	79
+424376	4572634	John this message concerns me.	John this message concerns me.	217140080	1477810103727	1477810103827	n	78
+424376	4572634	John this message concerns me.	John this message concerns me.	217140084	1477810103952	1477810104076	c	67
+424376	4572634	John this message concerns me.	John this message concerns me.	217140086	1477810104217	1477810104309	e	69
+424376	4572634	John this message concerns me.	John this message concerns me.	217140089	1477810104418	1477810104530	r	82
+424376	4572634	John this message concerns me.	John this message concerns me.	217140092	1477810105078	1477810105162	n	78
+424376	4572634	John this message concerns me.	John this message concerns me.	217140118	1477810105318	1477810105412	s	83
+424376	4572634	John this message concerns me.	John this message concerns me.	217140120	1477810105914	1477810106011	 	32
+424376	4572634	John this message concerns me.	John this message concerns me.	217140121	1477810106402	1477810106494	m	77
+424376	4572634	John this message concerns me.	John this message concerns me.	217140122	1477810106557	1477810106661	e	69
+424376	4572634	John this message concerns me.	John this message concerns me.	217140123	1477810107570	1477810107725	.	190
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140215	1477810111884	1477810112229	SHIFT	16
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140217	1477810112209	1477810112296	B	66
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140218	1477810112453	1477810112532	u	85
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140220	1477810112724	1477810112826	t	84
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140221	1477810112952	1477810113063	 	32
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140223	1477810113688	1477810113779	t	84
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140231	1477810113867	1477810113993	h	72
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140232	1477810114056	1477810114161	a	65
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140233	1477810114458	1477810114545	n	78
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140234	1477810114748	1477810114796	k	75
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140235	1477810114937	1477810115059	 	32
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140276	1477810115227	1477810115327	y	89
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140277	1477810115327	1477810115462	o	79
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140278	1477810115564	1477810115676	u	85
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140279	1477810115919	1477810116070	 	32
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140280	1477810117800	1477810117925	f	70
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140286	1477810117976	1477810118064	o	79
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140287	1477810118563	1477810118646	r	82
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140288	1477810118693	1477810118811	 	32
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140289	1477810118842	1477810118930	t	84
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140290	1477810119071	1477810119193	h	72
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140318	1477810119212	1477810119344	e	69
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140320	1477810119547	1477810119690	 	32
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140322	1477810120726	1477810120813	o	79
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140324	1477810120954	1477810121061	f	70
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140326	1477810121139	1477810121246	f	70
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140343	1477810121387	1477810121584	e	69
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140344	1477810121584	1477810121706	r	82
+424376	4572640	But thank you for the offer.	But thank you for the offer.	217140345	1477810122411	1477810122541	.	190
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140404	1477810126160	1477810126647	SHIFT	16
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140405	1477810126582	1477810126725	S	83
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140406	1477810126740	1477810126844	p	80
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140407	1477810126968	1477810127046	o	79
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140408	1477810127171	1477810127276	r	82
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140409	1477810127432	1477810127497	t	84
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140441	1477810127651	1477810127759	s	83
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140444	1477810127962	1477810128107	 	32
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140446	1477810128482	1477810128545	f	70
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140449	1477810128702	1477810128780	a	65
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140452	1477810129014	1477810129079	n	78
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140479	1477810129726	1477810129808	s	83
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140481	1477810130054	1477810130174	 	32
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140484	1477810130367	1477810130450	h	72
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140487	1477810130563	1477810130646	e	69
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140490	1477810130881	1477810131108	r	82
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140523	1477810131088	1477810131195	e	69
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140526	1477810131445	1477810131575	 	32
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140529	1477810131825	1477810131959	a	65
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140531	1477810132099	1477810132325	r	82
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140532	1477810132319	1477810132459	e	69
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140533	1477810132537	1477810132659	 	32
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140566	1477810133018	1477810133129	e	69
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140567	1477810133410	1477810133511	x	88
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140568	1477810133625	1477810133741	c	67
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140569	1477810134178	1477810134277	i	73
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140570	1477810134355	1477810134507	t	84
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140579	1477810134574	1477810134709	e	69
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140581	1477810134838	1477810134927	d	68
+424376	4572646	Sports fans here are excited.	Sports fans here are excited.	217140583	1477810135461	1477810135530	.	190
+424376	4572649	We're on the way.	We're on the way.	217140697	1477810139195	1477810139382	SHIFT	16
+424376	4572649	We're on the way.	We're on the way.	217140699	1477810139806	1477810139997	w	87
+424376	4572649	We're on the way.	We're on the way.	217140701	1477810139975	1477810140061	e	69
+424376	4572649	We're on the way.	We're on the way.	217140703	1477810140357	1477810140518	SHIFT	16
+424376	4572649	We're on the way.	We're on the way.	217140705	1477810141266	1477810141345	BKSP	8
+424376	4572649	We're on the way.	We're on the way.	217140707	1477810141455	1477810141528	BKSP	8
+424376	4572649	We're on the way.	We're on the way.	217140708	1477810142092	1477810142536	SHIFT	16
+424376	4572649	We're on the way.	We're on the way.	217140709	1477810142514	1477810142580	W	87
+424376	4572649	We're on the way.	We're on the way.	217140710	1477810142690	1477810142778	e	69
+424376	4572649	We're on the way.	We're on the way.	217140711	1477810143801	1477810143912	'	222
+424376	4572649	We're on the way.	We're on the way.	217140727	1477810143967	1477810144150	r	82
+424376	4572649	We're on the way.	We're on the way.	217140728	1477810144122	1477810144260	e	69
+424376	4572649	We're on the way.	We're on the way.	217140729	1477810144445	1477810144575	 	32
+424376	4572649	We're on the way.	We're on the way.	217140730	1477810145061	1477810145160	o	79
+424376	4572649	We're on the way.	We're on the way.	217140731	1477810145300	1477810145379	n	78
+424376	4572649	We're on the way.	We're on the way.	217140744	1477810145513	1477810145636	 	32
+424376	4572649	We're on the way.	We're on the way.	217140745	1477810145628	1477810145758	t	84
+424376	4572649	We're on the way.	We're on the way.	217140746	1477810145868	1477810145964	h	72
+424376	4572649	We're on the way.	We're on the way.	217140748	1477810146062	1477810146177	e	69
+424376	4572649	We're on the way.	We're on the way.	217140750	1477810146317	1477810146442	 	32
+424376	4572649	We're on the way.	We're on the way.	217140778	1477810146822	1477810146982	w	87
+424376	4572649	We're on the way.	We're on the way.	217140779	1477810146942	1477810147202	a	65
+424376	4572649	We're on the way.	We're on the way.	217140780	1477810147217	1477810147297	y	89
+424376	4572649	We're on the way.	We're on the way.	217140781	1477810147878	1477810147959	.	190
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140861	1477810151493	1477810151945	SHIFT	16
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140862	1477810151875	1477810151982	L	76
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140863	1477810152192	1477810152278	e	69
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140864	1477810152456	1477810152521	t	84
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140865	1477810152790	1477810152883	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140866	1477810153307	1477810153383	m	77
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140873	1477810153577	1477810153649	e	69
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140874	1477810153828	1477810153929	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140875	1477810154164	1477810154240	k	75
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140876	1477810154379	1477810154429	n	78
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140877	1477810154552	1477810154628	o	79
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140910	1477810154827	1477810154934	w	87
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140912	1477810155071	1477810155190	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140914	1477810156068	1477810156179	w	87
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140917	1477810156366	1477810156462	h	72
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140919	1477810156556	1477810156659	i	73
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140935	1477810156907	1477810156963	c	67
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140937	1477810157120	1477810157209	h	72
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140938	1477810157335	1477810157474	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140939	1477810157802	1477810158006	d	68
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140940	1477810158037	1477810158281	a	65
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140993	1477810158251	1477810158342	y	89
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140995	1477810158717	1477810158811	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140997	1477810159155	1477810159226	i	73
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217140999	1477810159402	1477810159510	s	83
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141001	1477810159572	1477810159662	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141003	1477810160634	1477810160729	g	71
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141032	1477810160880	1477810160961	o	79
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141034	1477810161055	1477810161146	o	79
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141038	1477810161909	1477810161995	d	68
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141041	1477810162074	1477810162208	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141043	1477810162567	1477810162676	f	70
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141054	1477810162771	1477810162862	o	79
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141055	1477810162924	1477810163010	r	82
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141056	1477810163105	1477810163227	 	32
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141057	1477810163352	1477810163460	y	89
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141059	1477810163522	1477810163596	o	79
+424376	4572653	Let me know which day is good for you.	Let me know which day is good for you.	217141124	1477810163770	1477810163873	u	85
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141293	1477810169677	1477810169976	SHIFT	16
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141295	1477810169945	1477810170012	T	84
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141298	1477810170156	1477810170227	h	72
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141301	1477810170274	1477810170390	a	65
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141303	1477810170531	1477810170628	n	78
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141306	1477810171018	1477810171110	k	75
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141328	1477810171210	1477810171292	s	83
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141329	1477810171402	1477810171525	 	32
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141330	1477810172171	1477810172175	f	70
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141331	1477810172243	1477810172359	o	79
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141332	1477810172437	1477810172543	r	82
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141413	1477810172659	1477810172809	 	32
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141415	1477810173954	1477810174059	c	67
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141417	1477810174216	1477810174325	h	72
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141419	1477810174607	1477810174708	e	69
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141422	1477810175261	1477810175343	c	67
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141452	1477810175455	1477810175531	k	75
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141455	1477810175640	1477810175725	i	73
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141459	1477810175866	1477810175958	n	78
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141462	1477810176052	1477810176159	g	71
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141466	1477810176262	1477810176361	 	32
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141519	1477810177304	1477810177408	w	87
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141521	1477810177751	1477810177850	i	73
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141523	1477810177999	1477810178112	h	72
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141525	1477810178060	1477810178222	t	84
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141528	1477810178426	1477810178542	 	32
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141612	1477810179420	1477810179495	BKSP	8
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141613	1477810179620	1477810179694	BKSP	8
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141615	1477810179819	1477810179893	BKSP	8
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141617	1477810180492	1477810180594	t	84
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141619	1477810180641	1477810180725	h	72
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141621	1477810181038	1477810181128	 	32
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141623	1477810181253	1477810181343	m	77
+424376	4572665	Thanks for checking with me.	Thanks for checking with me.	217141625	1477810181577	1477810181692	e	69
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141847	1477810185820	1477810186039	SHIFT	16
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141849	1477810186086	1477810186145	i	73
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141853	1477810186520	1477810186595	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141857	1477810187191	1477810187291	BKSP	8
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141861	1477810187431	1477810187512	BKSP	8
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141863	1477810188232	1477810189002	SHIFT	16
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141867	1477810188953	1477810189030	I	73
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141870	1477810189233	1477810189343	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141872	1477810190735	1477810190843	e	69
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141884	1477810190925	1477810191058	n	78
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141886	1477810191136	1477810191224	c	67
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141889	1477810191333	1477810191408	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141892	1477810191580	1477810191661	u	85
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141895	1477810191910	1477810192008	r	82
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141951	1477810192203	1477810192338	a	65
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141952	1477810192557	1477810192641	g	71
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141954	1477810192719	1477810192857	e	69
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141955	1477810193130	1477810193241	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217141957	1477810193715	1477810193775	e	69
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142018	1477810193907	1477810194025	a	65
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142020	1477810194163	1477810194276	c	67
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142024	1477810194479	1477810194558	h	72
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142027	1477810194808	1477810194924	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142032	1477810195598	1477810195675	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142046	1477810195792	1477810195877	f	70
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142049	1477810195955	1477810196089	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142051	1477810196214	1477810196293	y	89
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142053	1477810196387	1477810196476	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142055	1477810196695	1477810196772	u	85
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142095	1477810196994	1477810197154	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142096	1477810197357	1477810197489	t	84
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142098	1477810197536	1477810197655	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142099	1477810197812	1477810197938	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142100	1477810197969	1477810198104	a	65
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142135	1477810198328	1477810198392	t	84
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142137	1477810198501	1477810198576	t	84
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142139	1477810198716	1477810198821	e	69
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142141	1477810199310	1477810199406	n	78
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142146	1477810199500	1477810199575	d	68
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142188	1477810199727	1477810199840	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142189	1477810200659	1477810200742	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142191	1477810200883	1477810200975	r	82
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142192	1477810201115	1477810201207	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142194	1477810201756	1477810201873	t	84
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142202	1477810202049	1477810202123	u	85
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142203	1477810202308	1477810202409	n	78
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142204	1477810202519	1477810202621	e	69
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142205	1477810202668	1477810202775	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142206	1477810203226	1477810203305	i	73
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142226	1477810203428	1477810203495	n	78
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142227	1477810203605	1477810203748	 	32
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142228	1477810203916	1477810204038	t	84
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142229	1477810204054	1477810204170	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142230	1477810204452	1477810204524	m	77
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142264	1477810204662	1477810204743	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142265	1477810205102	1477810205176	r	82
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142266	1477810205285	1477810205374	r	82
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142268	1477810205515	1477810205608	o	79
+424376	4572675	I encourage each of you to attend or tune in tomorrow.	I encourage each of you to attend or tune in tomorrow.	217142270	1477810206438	1477810206525	w	87
+424376	4572688	Email the consent to me.	Email the consent to me.	217142404	1477810210761	1477810211158	SHIFT	16
+424376	4572688	Email the consent to me.	Email the consent to me.	217142403	1477810211089	1477810211142	E	69
+424376	4572688	Email the consent to me.	Email the consent to me.	217142405	1477810211848	1477810211924	m	77
+424376	4572688	Email the consent to me.	Email the consent to me.	217142406	1477810212002	1477810212143	a	65
+424376	4572688	Email the consent to me.	Email the consent to me.	217142407	1477810212174	1477810212240	i	73
+424376	4572688	Email the consent to me.	Email the consent to me.	217142408	1477810212381	1477810212488	l	76
+424376	4572688	Email the consent to me.	Email the consent to me.	217142426	1477810212809	1477810212893	 	32
+424376	4572688	Email the consent to me.	Email the consent to me.	217142428	1477810213355	1477810213458	t	84
+424376	4572688	Email the consent to me.	Email the consent to me.	217142430	1477810213505	1477810213607	h	72
+424376	4572688	Email the consent to me.	Email the consent to me.	217142433	1477810213623	1477810213723	e	69
+424376	4572688	Email the consent to me.	Email the consent to me.	217142436	1477810213864	1477810213959	 	32
+424376	4572688	Email the consent to me.	Email the consent to me.	217142467	1477810214757	1477810214811	c	67
+424376	4572688	Email the consent to me.	Email the consent to me.	217142470	1477810214936	1477810215024	o	79
+424376	4572688	Email the consent to me.	Email the consent to me.	217142472	1477810215149	1477810215223	n	78
+424376	4572688	Email the consent to me.	Email the consent to me.	217142473	1477810215428	1477810215595	s	83
+424376	4572688	Email the consent to me.	Email the consent to me.	217142527	1477810215556	1477810215643	a	65
+424376	4572688	Email the consent to me.	Email the consent to me.	217142529	1477810216441	1477810216472	BKSP	8
+424376	4572688	Email the consent to me.	Email the consent to me.	217142532	1477810216602	1477810216661	BKSP	8
+424376	4572688	Email the consent to me.	Email the consent to me.	217142535	1477810217387	1477810217488	s	83
+424376	4572688	Email the consent to me.	Email the consent to me.	217142538	1477810217597	1477810217690	e	69
+424376	4572688	Email the consent to me.	Email the consent to me.	217142540	1477810217721	1477810217839	n	78
+424376	4572688	Email the consent to me.	Email the consent to me.	217142542	1477810217964	1477810218059	t	84
+424376	4572688	Email the consent to me.	Email the consent to me.	217142543	1477810218235	1477810218340	 	32
+424376	4572688	Email the consent to me.	Email the consent to me.	217142581	1477810218918	1477810219007	t	84
+424376	4572688	Email the consent to me.	Email the consent to me.	217142582	1477810219101	1477810219191	o	79
+424376	4572688	Email the consent to me.	Email the consent to me.	217142583	1477810219363	1477810219487	 	32
+424376	4572688	Email the consent to me.	Email the consent to me.	217142584	1477810219565	1477810219674	m	77
+424376	4572688	Email the consent to me.	Email the consent to me.	217142585	1477810219784	1477810219907	e	69
+424376	4572688	Email the consent to me.	Email the consent to me.	217142586	1477810220485	1477810220573	.	190
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142718	1477810223551	1477810223869	SHIFT	16
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142719	1477810223830	1477810223905	I	73
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142720	1477810224444	1477810224526	'	222
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142721	1477810224698	1477810224789	m	77
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142722	1477810224898	1477810225006	 	32
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142724	1477810225468	1477810225664	w	87
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142744	1477810225646	1477810225802	a	65
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142745	1477810225865	1477810225955	i	73
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142746	1477810226109	1477810226209	t	84
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142747	1477810226319	1477810226392	i	73
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142748	1477810226548	1477810226641	n	78
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142749	1477810226735	1477810226854	g	71
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142782	1477810226961	1477810227055	 	32
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142784	1477810227824	1477810227890	u	85
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142786	1477810228031	1477810228124	n	78
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142788	1477810228281	1477810228376	t	84
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142790	1477810228470	1477810228541	i	73
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142843	1477810229061	1477810229143	l	76
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142844	1477810229268	1477810229389	 	32
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142845	1477810229654	1477810229739	s	83
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142847	1477810229895	1477810229984	h	72
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142849	1477810230137	1477810230231	e	69
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142876	1477810230367	1477810230482	 	32
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142879	1477810231088	1477810231174	c	67
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142881	1477810231261	1477810231358	o	79
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142882	1477810231483	1477810231606	m	77
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142884	1477810231747	1477810231933	e	69
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142910	1477810231949	1477810232101	s	83
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142911	1477810232179	1477810232305	 	32
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142912	1477810232885	1477810232988	h	72
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142914	1477810233164	1477810233227	o	79
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142918	1477810233430	1477810233522	m	77
+424376	4572694	I'm waiting until she comes home.	I'm waiting until she comes home.	217142966	1477810233646	1477810233737	e	69
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143794	1477810234478	1477810259702	.	190
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143157	1477810238763	1477810239224	SHIFT	16
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143155	1477810239152	1477810239224	Y	89
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143160	1477810239458	1477810239508	o	79
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143163	1477810239680	1477810239760	u	85
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143167	1477810241311	1477810241391	'	222
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143172	1477810241657	1477810241808	r	82
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143224	1477810241786	1477810241927	e	69
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143226	1477810242338	1477810242468	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143227	1477810242960	1477810243088	d	68
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143229	1477810243150	1477810243238	o	79
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143230	1477810243411	1477810243504	w	87
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143232	1477810243662	1477810243759	n	78
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143331	1477810243926	1477810244039	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143336	1477810244698	1477810244788	b	66
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143341	1477810244991	1477810245072	y	89
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143347	1477810245197	1477810245305	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143351	1477810246685	1477810246760	5	53
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143408	1477810247277	1477810247403	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143411	1477810247819	1477810247938	a	65
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143413	1477810248000	1477810248076	n	78
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143415	1477810248185	1477810248273	d	68
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143417	1477810248371	1477810248472	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143457	1477810248700	1477810248804	n	78
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143459	1477810248976	1477810249057	e	69
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143461	1477810249167	1477810249242	e	69
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143465	1477810249398	1477810249505	d	68
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143469	1477810249677	1477810249848	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143491	1477810250065	1477810250187	t	84
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143493	1477810250281	1477810250373	o	79
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143495	1477810250592	1477810250736	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143496	1477810250955	1477810251119	s	83
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143498	1477810251385	1477810251490	c	67
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143529	1477810251532	1477810251624	o	79
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143531	1477810251780	1477810251946	r	82
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143535	1477810251934	1477810252068	e	69
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143538	1477810252216	1477810252307	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143540	1477810252679	1477810252790	i	73
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143611	1477810252902	1477810252991	n	78
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143614	1477810253100	1477810253220	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143617	1477810254227	1477810254321	4	52
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143620	1477810254461	1477810254573	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143623	1477810255106	1477810255189	p	80
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143663	1477810255287	1477810255402	l	76
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143666	1477810255481	1477810255605	a	65
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143669	1477810255777	1477810255871	y	89
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143672	1477810256027	1477810256123	s	83
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143674	1477810256344	1477810256438	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143732	1477810256939	1477810257023	o	79
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143735	1477810257809	1477810257889	r	82
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143737	1477810257999	1477810258102	 	32
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143740	1477810258259	1477810258357	l	76
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143742	1477810258497	1477810258590	e	69
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143787	1477810258756	1477810258841	s	83
+424376	4572702	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	217143790	1477810258934	1477810259023	s	83
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143916	1477810263128	1477810263521	SHIFT	16
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143917	1477810263503	1477810263565	T	84
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143918	1477810263714	1477810263789	h	72
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143919	1477810263899	1477810263973	e	69
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143920	1477810264020	1477810264122	 	32
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143921	1477810264231	1477810264414	r	82
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143953	1477810264427	1477810264491	e	69
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143955	1477810264647	1477810264770	s	83
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143957	1477810264926	1477810265022	t	84
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143961	1477810265225	1477810265355	 	32
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217143963	1477810265527	1477810265637	i	73
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144010	1477810265812	1477810265921	s	83
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144012	1477810266062	1477810266169	 	32
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144015	1477810266373	1477810266484	a	65
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144018	1477810266688	1477810266788	 	32
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144021	1477810267225	1477810267321	b	66
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144066	1477810267461	1477810267523	y	89
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144067	1477810268568	1477810268656	p	80
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144069	1477810268750	1477810268854	r	82
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144071	1477810269452	1477810269569	d	68
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144073	1477810269647	1477810269737	u	85
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144134	1477810270069	1477810270155	c	67
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144135	1477810270420	1477810270491	t	84
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144136	1477810270741	1477810270839	 	32
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144137	1477810271198	1477810271273	o	79
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144138	1477810271523	1477810271606	f	70
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144209	1477810271643	1477810271754	 	32
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144211	1477810273366	1477810273453	s	83
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144214	1477810273531	1477810273636	l	76
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144217	1477810273652	1477810273771	a	65
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144219	1477810273833	1477810273939	p	80
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144264	1477810274486	1477810274603	s	83
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144265	1477810274744	1477810274851	h	72
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144266	1477810274991	1477810275059	o	79
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144267	1477810275262	1477810275355	t	84
+424376	4572719	The rest is a byproduct of slapshot.	The rest is a byprduct of slapshot.	217144268	1477810276248	1477810276353	.	190
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144508	1477810280934	1477810281551	SHIFT	16
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144513	1477810281503	1477810281571	B	66
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144515	1477810282180	1477810282254	r	82
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144517	1477810283400	1477810283485	c	67
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144520	1477810283844	1477810283936	k	75
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144523	1477810284014	1477810284103	o	79
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144530	1477810284370	1477810284437	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144531	1477810284895	1477810284972	h	72
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144532	1477810285081	1477810285187	a	65
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144533	1477810285296	1477810285386	d	68
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144535	1477810285433	1477810285539	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144587	1477810286495	1477810286571	b	66
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144589	1477810286704	1477810286772	e	69
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144591	1477810287069	1477810287156	e	69
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144593	1477810287234	1477810287338	n	78
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144595	1477810287574	1477810287732	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144623	1477810288123	1477810288216	p	80
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144625	1477810288308	1477810288388	r	82
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144627	1477810288867	1477810288923	o	79
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144629	1477810289095	1477810289155	p	80
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144632	1477810289265	1477810289340	o	79
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144651	1477810289611	1477810289768	s	83
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144654	1477810289815	1477810289906	e	69
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144658	1477810290046	1477810290138	d	68
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144664	1477810290310	1477810290390	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144668	1477810291093	1477810291311	a	65
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144708	1477810291265	1477810291452	s	83
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144713	1477810291577	1477810291688	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144719	1477810292168	1477810292269	a	65
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144724	1477810292394	1477810292488	n	78
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144729	1477810292863	1477810292969	o	79
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144734	1477810293078	1477810293172	t	84
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144758	1477810293232	1477810293336	h	72
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144760	1477810293399	1477810293597	e	69
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144762	1477810293568	1477810293715	r	82
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144764	1477810293887	1477810294003	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144766	1477810294739	1477810294852	s	83
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144775	1477810294925	1477810295023	i	73
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144776	1477810295132	1477810295346	t	84
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144777	1477810295378	1477810295553	e	69
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144778	1477810295725	1477810295870	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144779	1477810296372	1477810296486	f	70
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144814	1477810296580	1477810296654	o	79
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144815	1477810296701	1477810296821	r	82
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144816	1477810296930	1477810297069	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144818	1477810297413	1477810297506	a	65
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144821	1477810297615	1477810297737	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144859	1477810297843	1477810298019	s	83
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144861	1477810297982	1477810298196	a	65
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144863	1477810298651	1477810298799	f	70
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144865	1477810298862	1477810299063	e	69
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144866	1477810299188	1477810299302	 	32
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144921	1477810299980	1477810300102	a	65
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144924	1477810300274	1477810300472	r	82
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144927	1477810300465	1477810300571	e	69
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144931	1477810300743	1477810300855	a	65
+424376	4572729	Brcko had been proposed as another site for a safe area.	Brcko had been proposed as another site for a safe area.	217144933	1477810301682	1477810301771	.	190
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145054	1477810304697	1477810305632	SHIFT	16
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145057	1477810305648	1477810305699	p	80
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145059	1477810305832	1477810305919	l	76
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145062	1477810306060	1477810306170	e	69
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145066	1477810306279	1477810306435	a	65
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145068	1477810306435	1477810306550	s	83
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145109	1477810306667	1477810306755	e	69
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145111	1477810306974	1477810307087	 	32
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145116	1477810307322	1477810307374	s	83
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145120	1477810307483	1477810307588	s	83
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145123	1477810307791	1477810307885	e	69
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145247	1477810308043	1477810308106	n	78
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145249	1477810308623	1477810308687	BKSP	8
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145251	1477810308812	1477810308872	BKSP	8
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145253	1477810308981	1477810309038	BKSP	8
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145256	1477810310120	1477810310186	e	69
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145258	1477810310233	1477810310350	n	78
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145260	1477810310569	1477810310653	d	68
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145263	1477810310760	1477810310869	 	32
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145352	1477810311542	1477810311636	t	84
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145354	1477810311714	1477810311820	o	79
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145356	1477810312009	1477810312119	 	32
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145358	1477810313218	1477810313657	SHIFT	16
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145360	1477810313673	1477810313740	g	71
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145363	1477810313865	1477810313986	a	65
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145392	1477810314161	1477810314255	r	82
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145395	1477810314473	1477810314558	y	89
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145398	1477810314720	1477810314870	 	32
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145400	1477810315073	1477810315487	SHIFT	16
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145404	1477810315430	1477810315565	S	83
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145406	1477810315770	1477810315853	m	77
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145451	1477810316049	1477810316152	i	73
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145452	1477810316293	1477810316417	t	84
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145453	1477810316417	1477810316506	h	72
+424376	4572744	Please send to Gary Smith.	please send to gary Smith.	217145454	1477810317383	1477810317449	.	190

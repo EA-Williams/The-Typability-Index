@@ -1,0 +1,204 @@
+---
+title: "0) Handle Timestamp Errors"
+author: "Emily Williams"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE) 
+```
+
+## Load libraries
+
+```{r load_libraries}
+
+library(tidyverse) # for tidy data
+library(here) # for tidy and stable file paths
+library(janitor) # for tidy variable names
+
+```
+
+[[NOTE upon upload: For this to work, you must follow the setup instructions HERE, including downloading Dhakal et al.'s (2018) 136M Keystrokes Dataset from https://userinterfaces.aalto.fi/136Mkeystrokes/ into the required folder.]]
+
+I have defined timestamp errors as:
+
+1. Keystroke apparently released before it was pressed
+2. Non-first keystroke of a sentence apparently pressed before they finished the previous sentence trial
+3. First keystroke of a sentence apparently pressed before they finished the previous sentence trial
+
+[[NOTE upon upload: As mentioned later I did not find any of the #2s above - only #1s and #3s. For simplicity in Appendix 2 I refer to #1 and #3 as #1 and #2. However, this code uses the naming convention above.]]
+
+This timestamp error list was based on inspection of the raw data after calculating several negative wpms (16 trials, 3 from 1 participant, 1 each from 13 other participants). This happened because the duration between the first key press of the sentence and final key release of the sentence was apparently negative. All of the negative wpms calculated were found to be due to at least one timestamp error code 1, and 9 of them also had an error code 3.
+
+To deal with timestamp errors, I will do the following:
+
+* If a sentence contains a timestamp error code 3, exclude this keystroke from the analysis of this sentence (this timestamp error doesn't affect the measurement of the sentence itself apart from the error keystroke).
+* If a sentence contains a timestamp error code 1, exclude this sentence from the analysis of the participant's mean (this timestamp error likely does affect the measurement of the sentence).
+* If a sentence contains both codes 3 and 1, exclude the sentence from the analysis of the mean.
+
+NOTE: Raw data for participant 3 not provided by original authors.
+
+```{r get participicant id list}
+
+# read "metadata_participants" 
+data_meta <- read_tsv(here("data", "dhakal_files_with_replacements_for_both_issues", "metadata_participants.txt")) %>%
+  # convert the names to lowercase
+  clean_names()
+
+# get the participant ids from the metadata and remove the first row/participant
+# (participant 3) because this data is not available
+
+p_ids <- as.data.frame(data_meta$participant_id[-1])
+p_ids <- as.numeric(unlist(p_ids))
+
+rm(data_meta)
+
+```
+
+Now check all participant datafiles for timestamp errors. Copy to a separate dataframe when found to keep track of how many and which participants. And handle them according to the description above.
+
+```{r handle timestamp errors}
+
+# number of processed participants
+p_n = 0
+# number of files fixed
+fixed_files = 0
+
+
+# for each participant
+  for (ptp_id in p_ids) {
+    
+    p_n <- p_n + 1
+
+      # read data for the participant from
+      # {project_folder}/data/dhakal_files_with_replacements/
+      data_this_p <- read_tsv(here("data",
+                                   "dhakal_files_with_replacements_for_both_issues",
+                                   paste(ptp_id,
+                                         "_keystrokes.txt",
+                                        sep = "")),
+                              quote = "",
+                              trim_ws = FALSE,
+                              show_col_types = FALSE,
+                              # setting this locale allows it to parse a wider variety of characters
+                              locale = locale(encoding = "windows-1252")) %>%
+        # convert the header names to lowercase
+        clean_names() %>%
+        # create columns to check if there was a timestamp error (time apparently went backwards)
+        mutate(press_to_release = release_time - press_time,
+               press_to_press = press_time - lag(press_time),
+               timestamp_error_code = case_when(
+                 # timestamp error code 1: apparently released before it was pressed
+                 press_to_release < 0 ~ 1,
+                 # timestamp error code 2 or 3 (depending on if first keystroke of sentence):
+                 # this keystroke apparently pressed before the previous one
+                 press_to_press < 0 ~ 2,
+                 # put the others as NA
+                 TRUE ~ NA_real_)) %>%
+        # group by the sentence
+        group_by(test_section_id) %>%
+        # now differentiate between timestamp error codes 2 and 3
+        # can't do this in the previous mutate as that needs to be ungrouped
+        # and this needs to be grouped, to use first()
+        mutate(timestamp_error_code = case_when(
+              # it's the first keystroke of a sentence
+          keystroke_id = first(keystroke_id) &
+            # and it's an error code 2, make it an error code 3
+            timestamp_error_code == 2 ~ 3,
+          # otherwise keep it as-is
+          TRUE ~ timestamp_error_code),
+          timestamp_error_code_1_this_sent = 
+            if_else(any(timestamp_error_code == 1), TRUE, FALSE)) %>%
+        ungroup()
+            
+       
+        # new df filtered to error codes
+            
+        timestamp_error_codes_this_p <- data_this_p %>%
+          filter(timestamp_error_code %in% 1:3)
+        
+        
+        # if there were any timestamp errors
+        # 1. increment fixed_files counter, add error row to running df of errors (timestamp_error_codes_list)
+        # 2. filter them out and save the new data
+        
+        if(nrow(timestamp_error_codes_this_p) > 0)
+        {
+          
+          fixed_files <- fixed_files + 1
+          
+          # add to the timestamp_error_codes_list
+        
+         # if first one
+        if (!exists("timestamp_error_codes_list"))          {
+          # if this is the first participant, the running list = their data
+            timestamp_error_codes_list <- timestamp_error_codes_this_p
+          } else {
+            # otherwise add this Ps data to the running list
+            timestamp_error_codes_list <- bind_rows(timestamp_error_codes_list,
+                                                    timestamp_error_codes_this_p)
+          }
+
+          # remove the errors
+            
+        fixed_timestamp_errors <- data_this_p %>%
+          # remove the full sentence when it's a timestamp error code 1 (value is not NA)
+          filter(is.na(timestamp_error_code_1_this_sent)) %>%
+          # remove just the keystroke when it's a timestamp error code 3
+          # (no error code 2 was found)
+          filter(is.na(timestamp_error_code)) %>%
+          select(-c(timestamp_error_code, timestamp_error_code_1_this_sent,
+                    press_to_press, press_to_release))
+        
+        # save the fixed version
+        
+        # re-capitalise column names
+        names(fixed_timestamp_errors) <- str_to_upper(names(fixed_timestamp_errors))
+        
+  write.table(
+              fixed_timestamp_errors,
+              file = here(
+                          "data",
+                          "fixed_timestamp_error_codes",
+                          str_c(ptp_id,
+                                "_keystrokes.txt")),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
+     
+        }  
+        
+        print(str_c(
+          "p_n: ",
+          p_n,
+          ", ptp_id: ",
+          ptp_id,
+          ", fixed files: ",
+          fixed_files,
+          ", perc processed: ",
+          round((p_n/length(p_ids)) * 100,3),
+          "%, perc fixed: ",
+          round((fixed_files/p_n) * 100,3),
+          "%"))
+          
+  }
+
+
+# save the running df of error codes
+
+  write.table(
+              timestamp_error_codes_list,
+              file = here(
+                          "data",
+                          "fixed_timestamp_error_codes",
+                          "timestamp_error_codes_list.txt"),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
+   
+
+```
+
+

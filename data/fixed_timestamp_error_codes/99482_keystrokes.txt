@@ -1,0 +1,544 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+99482	1085808	This is the limit.	This is the limit.	51646847	1473271485120	1473271485207	CAPS_LOCK	20
+99482	1085808	This is the limit.	This is the limit.	51646851	1473271485184	1473271485243	T	84
+99482	1085808	This is the limit.	This is the limit.	51646862	1473271485274	1473271485410	CAPS_LOCK	20
+99482	1085808	This is the limit.	This is the limit.	51646858	1473271485337	1473271485410	h	72
+99482	1085808	This is the limit.	This is the limit.	51646869	1473271485503	1473271485604	i	73
+99482	1085808	This is the limit.	This is the limit.	51646876	1473271485594	1473271485678	s	83
+99482	1085808	This is the limit.	This is the limit.	51646891	1473271485636	1473271485750	 	32
+99482	1085808	This is the limit.	This is the limit.	51646893	1473271485732	1473271485809	i	73
+99482	1085808	This is the limit.	This is the limit.	51646901	1473271485794	1473271485903	s	83
+99482	1085808	This is the limit.	This is the limit.	51646909	1473271485857	1473271485943	 	32
+99482	1085808	This is the limit.	This is the limit.	51646919	1473271486021	1473271486085	t	84
+99482	1085808	This is the limit.	This is the limit.	51646931	1473271486109	1473271486161	h	72
+99482	1085808	This is the limit.	This is the limit.	51646961	1473271486181	1473271486265	e	69
+99482	1085808	This is the limit.	This is the limit.	51646966	1473271486217	1473271486317	 	32
+99482	1085808	This is the limit.	This is the limit.	51646971	1473271486332	1473271486411	l	76
+99482	1085808	This is the limit.	This is the limit.	51646975	1473271486489	1473271486559	i	73
+99482	1085808	This is the limit.	This is the limit.	51646979	1473271486637	1473271486696	m	77
+99482	1085808	This is the limit.	This is the limit.	51647209	1473271486782	1473271486851	i	73
+99482	1085808	This is the limit.	This is the limit.	51647213	1473271486843	1473271486911	t	84
+99482	1085808	This is the limit.	This is the limit.	51647219	1473271487021	1473271487047	.	190
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647652	1473271492631	1473271492804	CAPS_LOCK	20
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647654	1473271493199	1473271493288	T	84
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647657	1473271493272	1473271493382	CAPS_LOCK	20
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647661	1473271493350	1473271493438	h	72
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647670	1473271493454	1473271493562	e	69
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647674	1473271493521	1473271493586	 	32
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647680	1473271493648	1473271493722	r	82
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647697	1473271493800	1473271493869	e	69
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647700	1473271493963	1473271494078	s	83
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647707	1473271494054	1473271494119	t	84
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647714	1473271494107	1473271494231	 	32
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647726	1473271494262	1473271494360	i	73
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647766	1473271494353	1473271494428	s	83
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647769	1473271494400	1473271494483	 	32
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647772	1473271494577	1473271494647	a	65
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647776	1473271494619	1473271494703	 	32
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647778	1473271494813	1473271494915	b	66
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647780	1473271495002	1473271495090	y	89
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647864	1473271495289	1473271495390	p	80
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647872	1473271495484	1473271495581	r	82
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647879	1473271495566	1473271495664	o	79
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647887	1473271495695	1473271495801	d	68
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51647894	1473271496004	1473271496127	c	67
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648199	1473271496537	1473271496601	BKSP	8
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648205	1473271496664	1473271496766	BKSP	8
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648217	1473271498783	1473271498849	d	68
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648226	1473271499005	1473271499094	u	85
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648233	1473271499102	1473271499190	c	67
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648239	1473271499346	1473271499424	t	84
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648281	1473271499392	1473271499465	 	32
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648289	1473271499496	1473271499591	o	79
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648297	1473271499582	1473271499680	f	70
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648309	1473271499631	1473271499748	 	32
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648318	1473271499920	1473271500011	s	83
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648323	1473271500027	1473271500094	l	76
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648370	1473271500122	1473271500256	a	65
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648379	1473271500245	1473271500304	p	80
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648392	1473271500359	1473271500433	s	83
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648399	1473271500495	1473271500563	h	72
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648411	1473271500672	1473271500793	o	79
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648479	1473271500809	1473271500895	t	84
+99482	1085823	The rest is a byproduct of slapshot.	The rest is a byproduct of slapshot.	51648485	1473271500942	1473271500949	.	190
+99482	1085850	Presumably so do you.	Presumably so do you.	51648856	1473271505098	1473271505192	CAPS_LOCK	20
+99482	1085850	Presumably so do you.	Presumably so do you.	51648860	1473271505223	1473271505293	P	80
+99482	1085850	Presumably so do you.	Presumably so do you.	51648865	1473271505281	1473271505356	CAPS_LOCK	20
+99482	1085850	Presumably so do you.	Presumably so do you.	51648872	1473271505434	1473271505494	r	82
+99482	1085850	Presumably so do you.	Presumably so do you.	51648879	1473271505584	1473271505659	e	69
+99482	1085850	Presumably so do you.	Presumably so do you.	51648887	1473271505753	1473271505855	s	83
+99482	1085850	Presumably so do you.	Presumably so do you.	51649012	1473271505839	1473271505938	u	85
+99482	1085850	Presumably so do you.	Presumably so do you.	51649017	1473271506031	1473271506137	m	77
+99482	1085850	Presumably so do you.	Presumably so do you.	51649025	1473271506658	1473271506754	a	65
+99482	1085850	Presumably so do you.	Presumably so do you.	51649036	1473271506801	1473271506874	b	66
+99482	1085850	Presumably so do you.	Presumably so do you.	51649042	1473271506984	1473271507071	l	76
+99482	1085850	Presumably so do you.	Presumably so do you.	51649050	1473271507111	1473271507156	u	85
+99482	1085850	Presumably so do you.	Presumably so do you.	51649161	1473271507168	1473271507244	 	32
+99482	1085850	Presumably so do you.	Presumably so do you.	51649169	1473271507831	1473271507902	BKSP	8
+99482	1085850	Presumably so do you.	Presumably so do you.	51649177	1473271507953	1473271508061	BKSP	8
+99482	1085850	Presumably so do you.	Presumably so do you.	51649184	1473271508348	1473271508490	 	32
+99482	1085850	Presumably so do you.	Presumably so do you.	51649189	1473271508454	1473271508570	s	83
+99482	1085850	Presumably so do you.	Presumably so do you.	51649193	1473271508585	1473271508653	o	79
+99482	1085850	Presumably so do you.	Presumably so do you.	51649202	1473271508700	1473271508802	 	32
+99482	1085850	Presumably so do you.	Presumably so do you.	51649214	1473271508849	1473271508946	d	68
+99482	1085850	Presumably so do you.	Presumably so do you.	51649219	1473271508921	1473271509000	o	79
+99482	1085850	Presumably so do you.	Presumably so do you.	51649226	1473271508971	1473271509056	 	32
+99482	1085850	Presumably so do you.	Presumably so do you.	51649231	1473271509162	1473271509261	y	89
+99482	1085850	Presumably so do you.	Presumably so do you.	51649333	1473271509254	1473271509281	o	79
+99482	1085850	Presumably so do you.	Presumably so do you.	51649339	1473271509322	1473271509385	u	85
+99482	1085850	Presumably so do you.	Presumably so do you.	51649344	1473271509419	1473271509480	.	190
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649667	1473271513006	1473271513155	CAPS_LOCK	20
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649674	1473271513233	1473271513295	W	87
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649679	1473271513267	1473271513397	CAPS_LOCK	20
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649688	1473271513460	1473271513528	e	69
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649697	1473271513496	1473271513584	 	32
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649707	1473271513615	1473271513712	h	72
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649813	1473271513685	1473271513924	a	65
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649821	1473271513956	1473271513973	v	86
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649829	1473271513985	1473271514029	e	69
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649842	1473271514009	1473271514100	 	32
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649857	1473271514634	1473271514715	l	76
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649870	1473271514809	1473271514862	o	79
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649917	1473271514874	1473271514934	t	84
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649930	1473271515122	1473271515299	s	83
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649942	1473271515279	1473271515315	 	32
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649951	1473271515307	1473271515315	o	79
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51649955	1473271515339	1473271515443	f	70
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650016	1473271515435	1473271515471	 	32
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650023	1473271515515	1473271515599	o	79
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650030	1473271515815	1473271515881	BKSP	8
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650038	1473271515995	1473271516120	f	70
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650045	1473271516136	1473271516201	o	79
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650056	1473271516216	1473271516298	r	82
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650067	1473271516345	1473271516415	k	75
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650176	1473271516476	1473271516566	s	83
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650179	1473271517094	1473271517182	,	188
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650183	1473271517322	1473271517398	 	32
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650188	1473271517680	1473271517781	e	69
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650195	1473271517875	1473271517931	t	84
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650242	1473271517957	1473271518029	c	67
+99482	1085869	We have lots of forks, etc.	We have lots of forks, etc.	51650249	1473271518109	1473271518181	.	190
+99482	1085887	Are you back in town?	Are you back in town?	51650859	1473271522805	1473271523022	CAPS_LOCK	20
+99482	1085887	Are you back in town?	Are you back in town?	51650866	1473271523069	1473271523182	A	65
+99482	1085887	Are you back in town?	Are you back in town?	51650872	1473271523150	1473271523277	CAPS_LOCK	20
+99482	1085887	Are you back in town?	Are you back in town?	51650877	1473271523260	1473271523325	r	82
+99482	1085887	Are you back in town?	Are you back in town?	51650884	1473271523340	1473271523431	e	69
+99482	1085887	Are you back in town?	Are you back in town?	51650887	1473271523392	1473271523475	 	32
+99482	1085887	Are you back in town?	Are you back in town?	51650892	1473271523569	1473271523661	y	89
+99482	1085887	Are you back in town?	Are you back in town?	51650923	1473271523640	1473271523725	o	79
+99482	1085887	Are you back in town?	Are you back in town?	51650928	1473271523835	1473271523915	u	85
+99482	1085887	Are you back in town?	Are you back in town?	51650934	1473271523893	1473271524006	 	32
+99482	1085887	Are you back in town?	Are you back in town?	51650942	1473271524022	1473271524098	b	66
+99482	1085887	Are you back in town?	Are you back in town?	51650948	1473271524118	1473271524191	a	65
+99482	1085887	Are you back in town?	Are you back in town?	51650952	1473271524284	1473271524392	c	67
+99482	1085887	Are you back in town?	Are you back in town?	51650999	1473271524374	1473271524453	k	75
+99482	1085887	Are you back in town?	Are you back in town?	51651007	1473271524469	1473271524587	 	32
+99482	1085887	Are you back in town?	Are you back in town?	51651019	1473271524558	1473271524624	i	73
+99482	1085887	Are you back in town?	Are you back in town?	51651032	1473271524727	1473271524799	n	78
+99482	1085887	Are you back in town?	Are you back in town?	51651044	1473271524779	1473271524855	 	32
+99482	1085887	Are you back in town?	Are you back in town?	51651053	1473271524933	1473271525017	t	84
+99482	1085887	Are you back in town?	Are you back in town?	51651090	1473271524992	1473271525089	o	79
+99482	1085887	Are you back in town?	Are you back in town?	51651097	1473271525122	1473271525227	w	87
+99482	1085887	Are you back in town?	Are you back in town?	51651104	1473271525208	1473271525259	n	78
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651553	1473271528886	1473271529104	CAPS_LOCK	20
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651558	1473271529229	1473271529320	L	76
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651562	1473271529307	1473271529398	CAPS_LOCK	20
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651569	1473271529476	1473271529581	e	69
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651577	1473271529556	1473271529638	t	84
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651585	1473271529871	1473271529952	'	222
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651595	1473271529983	1473271530113	s	83
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651643	1473271530137	1473271530249	 	32
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651653	1473271530459	1473271530523	h	72
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651663	1473271530567	1473271530667	a	65
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651672	1473271530716	1473271530779	v	86
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651682	1473271530786	1473271530869	e	69
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651701	1473271530828	1473271530886	 	32
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651706	1473271530964	1473271531041	t	84
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651708	1473271531010	1473271531069	h	72
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651714	1473271531147	1473271531231	i	73
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651717	1473271531202	1473271531298	s	83
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651757	1473271531266	1473271531359	 	32
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651762	1473271531342	1473271531402	m	77
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651770	1473271531433	1473271531499	e	69
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651781	1473271531565	1473271531651	e	69
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651793	1473271531761	1473271531829	t	84
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651806	1473271531854	1473271531917	i	73
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651825	1473271532007	1473271532087	n	78
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651832	1473271532068	1473271532152	g	71
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651839	1473271532119	1473271532216	 	32
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651850	1473271532278	1473271532344	t	84
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651891	1473271532324	1473271532399	o	79
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651899	1473271532467	1473271532557	d	68
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651905	1473271532658	1473271532759	a	65
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651912	1473271532732	1473271532814	y	89
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651920	1473271532799	1473271532881	 	32
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651928	1473271532960	1473271533032	o	79
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651988	1473271533003	1473271533086	r	82
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651994	1473271533054	1473271533131	 	32
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51651998	1473271533175	1473271533249	t	84
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652007	1473271533438	1473271533546	o	79
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652014	1473271533676	1473271533737	g	71
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652025	1473271533753	1473271533796	n	78
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652138	1473271533972	1473271534033	BKSP	8
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652145	1473271534106	1473271534166	BKSP	8
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652153	1473271534307	1473271534382	n	78
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652167	1473271534476	1473271534563	i	73
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652178	1473271534578	1473271534665	g	71
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652188	1473271534696	1473271534764	h	72
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652196	1473271534779	1473271534853	t	84
+99482	1085909	Let's have this meeting today or tonight.	Let's have this meeting today or tonight.	51652229	1473271534913	1473271534949	.	190
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652689	1473271539152	1473271539246	CAPS_LOCK	20
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652697	1473271539344	1473271539445	S	83
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652706	1473271539535	1473271539672	CAPS_LOCK	20
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652714	1473271539708	1473271539797	h	72
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652719	1473271539789	1473271539892	e	69
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652724	1473271539873	1473271540006	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652814	1473271539989	1473271540059	w	87
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652820	1473271540704	1473271540777	a	65
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652826	1473271540889	1473271540985	s	83
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652834	1473271540945	1473271541040	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652839	1473271541107	1473271541188	g	71
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652885	1473271541164	1473271541224	o	79
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652890	1473271541318	1473271541390	i	73
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652894	1473271541484	1473271541574	n	78
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652901	1473271541549	1473271541614	g	71
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652905	1473271541578	1473271541704	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652915	1473271541721	1473271541824	t	84
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652945	1473271541757	1473271541824	o	79
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652952	1473271541847	1473271541942	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652959	1473271541942	1473271542040	l	76
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652965	1473271542071	1473271542156	e	69
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652969	1473271542266	1473271542355	a	65
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51652978	1473271542370	1473271542441	v	86
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653002	1473271542494	1473271542586	e	69
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653004	1473271542554	1473271542653	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653010	1473271542715	1473271542844	a	65
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653021	1473271542804	1473271542868	t	84
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653027	1473271542888	1473271542972	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653126	1473271543358	1473271543454	8	56
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653132	1473271543548	1473271543670	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653138	1473271543826	1473271543888	o	79
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653140	1473271543902	1473271544056	r	82
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653197	1473271544003	1473271544137	 	32
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653200	1473271544449	1473271544545	9	57
+99482	1085933	She was going to leave at 8 or 9.	She was going to leave at 8 or 9.	51653207	1473271544537	1473271544636	.	190
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653596	1473271548027	1473271548103	CAPS_LOCK	20
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653606	1473271548182	1473271548267	I	73
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653614	1473271548223	1473271548366	CAPS_LOCK	20
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653624	1473271548345	1473271548471	 	32
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653631	1473271548449	1473271548535	w	87
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653642	1473271548502	1473271548569	i	73
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653652	1473271548678	1473271548732	l	76
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653668	1473271548782	1473271548901	l	76
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653680	1473271548882	1473271548965	 	32
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653691	1473271549123	1473271549170	b	66
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653699	1473271549201	1473271549300	e	69
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653764	1473271549252	1473271549374	 	32
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653768	1473271549474	1473271549536	b	66
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653775	1473271549517	1473271549614	a	65
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653780	1473271549708	1473271549782	c	67
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653788	1473271549804	1473271549866	k	75
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653795	1473271549882	1473271549967	 	32
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653819	1473271549983	1473271550034	o	79
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653826	1473271550138	1473271550211	n	78
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653833	1473271550202	1473271550331	 	32
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653839	1473271550346	1473271550416	f	70
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653845	1473271550473	1473271550509	i	73
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653969	1473271550554	1473271550584	r	82
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653979	1473271550753	1473271550801	BKSP	8
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653985	1473271550880	1473271550951	BKSP	8
+99482	1085954	I will be back Friday.	I will be back on Friday.	51653997	1473271551215	1473271551282	BKSP	8
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654006	1473271551403	1473271551509	CAPS_LOCK	20
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654019	1473271551525	1473271551598	F	70
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654032	1473271551645	1473271551756	CAPS_LOCK	20
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654041	1473271551803	1473271551882	r	82
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654048	1473271551898	1473271551980	i	73
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654054	1473271552011	1473271552089	d	68
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654075	1473271552185	1473271552286	a	65
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654079	1473271552249	1473271552332	y	89
+99482	1085954	I will be back Friday.	I will be back on Friday.	51654087	1473271552460	1473271552566	.	190
+99482	1085975	Travis is in charge.	Travis is in charge.	51654749	1473271557594	1473271557704	CAPS_LOCK	20
+99482	1085975	Travis is in charge.	Travis is in charge.	51654758	1473271557782	1473271557876	T	84
+99482	1085975	Travis is in charge.	Travis is in charge.	51654762	1473271557805	1473271557955	CAPS_LOCK	20
+99482	1085975	Travis is in charge.	Travis is in charge.	51654767	1473271558001	1473271558075	r	82
+99482	1085975	Travis is in charge.	Travis is in charge.	51654773	1473271558312	1473271558438	a	65
+99482	1085975	Travis is in charge.	Travis is in charge.	51654782	1473271558732	1473271558810	v	86
+99482	1085975	Travis is in charge.	Travis is in charge.	51654788	1473271559073	1473271559160	i	73
+99482	1085975	Travis is in charge.	Travis is in charge.	51654803	1473271559195	1473271559309	s	83
+99482	1085975	Travis is in charge.	Travis is in charge.	51654805	1473271559233	1473271559356	 	32
+99482	1085975	Travis is in charge.	Travis is in charge.	51654810	1473271559387	1473271559460	i	73
+99482	1085975	Travis is in charge.	Travis is in charge.	51654814	1473271559601	1473271559724	s	83
+99482	1085975	Travis is in charge.	Travis is in charge.	51654937	1473271559691	1473271559849	 	32
+99482	1085975	Travis is in charge.	Travis is in charge.	51654945	1473271559818	1473271559890	i	73
+99482	1085975	Travis is in charge.	Travis is in charge.	51654953	1473271559984	1473271560076	n	78
+99482	1085975	Travis is in charge.	Travis is in charge.	51654959	1473271560042	1473271560140	 	32
+99482	1085975	Travis is in charge.	Travis is in charge.	51654966	1473271560509	1473271560581	h	72
+99482	1085975	Travis is in charge.	Travis is in charge.	51654971	1473271560831	1473271560896	BKSP	8
+99482	1085975	Travis is in charge.	Travis is in charge.	51654975	1473271561065	1473271561142	c	67
+99482	1085975	Travis is in charge.	Travis is in charge.	51655000	1473271561192	1473271561271	h	72
+99482	1085975	Travis is in charge.	Travis is in charge.	51655003	1473271561287	1473271561404	a	65
+99482	1085975	Travis is in charge.	Travis is in charge.	51655010	1473271561419	1473271561488	r	82
+99482	1085975	Travis is in charge.	Travis is in charge.	51655014	1473271561582	1473271561662	g	71
+99482	1085975	Travis is in charge.	Travis is in charge.	51655095	1473271561655	1473271561763	e	69
+99482	1085975	Travis is in charge.	Travis is in charge.	51655106	1473271562225	1473271562290	BKSP	8
+99482	1085975	Travis is in charge.	Travis is in charge.	51655111	1473271562431	1473271562520	.	190
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655570	1473271565935	1473271566018	CAPS_LOCK	20
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655578	1473271566064	1473271566157	I	73
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655585	1473271566119	1473271566231	CAPS_LOCK	20
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655591	1473271566191	1473271566276	 	32
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655596	1473271566355	1473271566434	t	84
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655603	1473271566402	1473271566467	h	72
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655610	1473271566560	1473271566633	i	73
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655672	1473271566713	1473271566770	n	78
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655677	1473271566879	1473271566952	k	75
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655683	1473271566967	1473271567065	 	32
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655690	1473271567113	1473271567183	i	73
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655696	1473271567324	1473271567414	t	84
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655775	1473271567401	1473271567498	 	32
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655779	1473271567595	1473271567702	s	83
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655785	1473271567718	1473271567784	h	72
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655790	1473271567893	1473271567968	o	79
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655795	1473271568077	1473271568142	u	85
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655799	1473271568251	1473271568344	l	76
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655838	1473271568333	1473271568433	d	68
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655843	1473271568396	1473271568480	 	32
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655852	1473271568511	1473271568581	b	66
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655863	1473271568565	1473271568650	e	69
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655872	1473271568602	1473271568712	 	32
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655879	1473271568880	1473271568974	f	70
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655910	1473271568950	1473271569016	i	73
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655917	1473271569152	1473271569261	x	88
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655924	1473271569377	1473271569432	e	69
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655931	1473271569527	1473271569630	d	68
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51655937	1473271569601	1473271569718	 	32
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51656063	1473271569680	1473271569730	n	78
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51656070	1473271569844	1473271569913	o	79
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51656078	1473271569960	1473271570030	w	87
+99482	1085999	I think it should be fixed now.	I think it should be fixed now.	51656084	1473271570837	1473271570889	.	190
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656559	1473271574383	1473271574562	CAPS_LOCK	20
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656564	1473271574976	1473271575102	A	65
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656569	1473271575152	1473271575308	CAPS_LOCK	20
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656574	1473271575246	1473271575324	n	78
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656583	1473271575449	1473271575509	y	89
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656590	1473271575525	1473271575671	 	32
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656596	1473271575686	1473271575778	o	79
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656611	1473271575824	1473271575894	t	84
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656614	1473271575941	1473271576014	h	72
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656618	1473271576006	1473271576059	e	69
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656624	1473271576152	1473271576238	r	82
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656686	1473271576214	1473271576291	 	32
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656690	1473271576369	1473271576424	u	85
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656695	1473271576548	1473271576624	s	83
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656706	1473271576733	1473271576841	e	69
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656714	1473271576793	1473271576907	 	32
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656722	1473271577000	1473271577058	i	73
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656821	1473271577201	1473271577322	s	83
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656827	1473271577291	1473271577390	 	32
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656832	1473271577499	1473271577591	e	69
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656839	1473271577911	1473271578006	x	88
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656842	1473271578113	1473271578199	p	80
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656901	1473271578188	1473271578260	r	82
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656904	1473271578338	1473271578424	e	69
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656907	1473271578518	1473271578589	s	83
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656911	1473271578667	1473271578754	s	83
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656913	1473271578832	1473271578922	l	76
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656917	1473271578969	1473271579075	y	89
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656953	1473271579087	1473271579218	 	32
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656958	1473271579513	1473271579583	p	80
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656964	1473271579572	1473271579657	r	82
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656972	1473271579845	1473271579922	o	79
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51656977	1473271580047	1473271580124	h	72
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51657069	1473271580316	1473271580395	i	73
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51657075	1473271580535	1473271580604	b	66
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51657079	1473271580714	1473271580803	i	73
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51657086	1473271580803	1473271580886	t	84
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51657095	1473271581011	1473271581111	e	69
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51657114	1473271581216	1473271581315	d	68
+99482	1086016	Any other use is expressly prohibited.	Any other use is expressly prohibited.	51657120	1473271581305	1473271581402	.	190
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657436	1473271584383	1473271584547	CAPS_LOCK	20
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657442	1473271584562	1473271584662	L	76
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657451	1473271584634	1473271584739	CAPS_LOCK	20
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657455	1473271584786	1473271584866	e	69
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657462	1473271584929	1473271584999	t	84
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657470	1473271585030	1473271585141	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657477	1473271585148	1473271585235	m	77
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657573	1473271585266	1473271585367	e	69
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657579	1473271585319	1473271585414	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657587	1473271585586	1473271585671	j	74
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657596	1473271585879	1473271585997	BKSP	8
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657604	1473271586167	1473271586230	k	75
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657614	1473271586324	1473271586399	n	78
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657649	1473271586511	1473271586595	o	79
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657658	1473271586583	1473271586712	w	87
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657670	1473271586682	1473271586837	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657680	1473271586795	1473271586901	w	87
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657728	1473271586885	1473271586965	h	72
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657731	1473271586996	1473271587124	a	65
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657738	1473271587108	1473271587228	t	84
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657747	1473271587152	1473271587289	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657756	1473271587264	1473271587364	d	68
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657766	1473271587551	1473271587593	a	65
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657798	1473271587573	1473271587681	y	89
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657802	1473271587701	1473271587721	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657806	1473271587764	1473271587799	i	73
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657809	1473271587795	1473271587871	s	83
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657813	1473271587835	1473271587911	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657815	1473271588051	1473271588069	h	72
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657857	1473271588089	1473271588133	o	79
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657863	1473271588346	1473271588416	BKSP	8
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657872	1473271588463	1473271588549	BKSP	8
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657880	1473271588611	1473271588680	g	71
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657888	1473271588712	1473271588775	o	79
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657894	1473271588842	1473271588912	o	79
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657900	1473271588943	1473271589038	d	68
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657921	1473271588997	1473271589078	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657928	1473271589151	1473271589249	f	70
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657936	1473271589227	1473271589298	o	79
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657944	1473271589313	1473271589417	r	82
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657950	1473271589380	1473271589445	 	32
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657953	1473271589524	1473271589612	y	89
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657967	1473271589584	1473271589644	o	79
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657971	1473271589691	1473271589807	u	85
+99482	1086040	Let me know which day is good for you.	Let me know what day is good for you.	51657974	1473271589798	1473271589827	.	190
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658717	1473271596139	1473271596249	CAPS_LOCK	20
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658720	1473271596280	1473271596374	I	73
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658722	1473271596359	1473271596508	CAPS_LOCK	20
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658725	1473271596468	1473271596556	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658727	1473271596650	1473271596766	t	84
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658730	1473271596755	1473271596790	h	72
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658732	1473271596901	1473271596971	i	73
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658784	1473271597070	1473271597154	n	78
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658791	1473271597248	1473271597355	k	75
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658797	1473271597335	1473271597449	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658803	1473271597449	1473271597574	CAPS_LOCK	20
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658809	1473271597637	1473271597693	F	70
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658813	1473271597768	1473271597839	M	77
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658893	1473271597923	1473271598065	V	86
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658901	1473271598021	1473271598167	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658910	1473271598234	1473271598366	CAPS_LOCK	20
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658915	1473271598368	1473271598452	i	73
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658922	1473271598524	1473271598620	s	83
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51658932	1473271598651	1473271598755	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659057	1473271598860	1473271598937	BKSP	8
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659068	1473271599030	1473271599070	BKSP	8
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659082	1473271599653	1473271599752	s	83
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659092	1473271599721	1473271599835	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659103	1473271599928	1473271599971	p	80
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659113	1473271599983	1473271600098	r	82
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659119	1473271600110	1473271600170	o	79
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659854	1473271600207	1473271600284	b	66
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659859	1473271606842	1473271606943	a	65
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659865	1473271607021	1473271607063	b	66
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659871	1473271607242	1473271607309	l	76
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659880	1473271607313	1473271607407	y	89
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659979	1473271607404	1473271607543	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659985	1473271607658	1473271607749	t	84
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659991	1473271607914	1473271608000	BKSP	8
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51659996	1473271608147	1473271608214	l	76
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660002	1473271608210	1473271608262	e	69
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660007	1473271608356	1473271608426	s	83
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660012	1473271608505	1473271608591	s	83
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660027	1473271608562	1473271608643	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660036	1473271608753	1473271608812	t	84
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660046	1473271608812	1473271608881	h	72
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660053	1473271608921	1473271609010	e	69
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660059	1473271608993	1473271609083	n	78
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660122	1473271609063	1473271609159	 	32
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660132	1473271609206	1473271609277	f	70
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660139	1473271609257	1473271609319	i	73
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660151	1473271609382	1473271609472	f	70
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660160	1473271609582	1473271609660	t	84
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660168	1473271609772	1473271609856	y	89
+99482	1086056	I think FMV is probably less than fifty.	I think FMV is probably less then fifty.	51660158	1473271609828	1473271609912	.	190
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663699	1473271643390	1473271643585	CAPS_LOCK	20
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663703	1473271643924	1473271643990	H	72
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663707	1473271643966	1473271644078	CAPS_LOCK	20
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663711	1473271644124	1473271644221	e	69
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663717	1473271644197	1473271644323	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663722	1473271644370	1473271644430	d	68
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663725	1473271644445	1473271644543	i	73
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663741	1473271644527	1473271644644	d	68
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663747	1473271644583	1473271644700	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663756	1473271644715	1473271644775	n	78
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663773	1473271644887	1473271644964	o	79
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663781	1473271644960	1473271645043	t	84
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663831	1473271645009	1473271645108	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663834	1473271645187	1473271645258	r	82
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663838	1473271645367	1473271645458	e	69
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663844	1473271645583	1473271645665	t	84
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663851	1473271645660	1473271645728	u	85
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663864	1473271645775	1473271645859	r	82
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663853	1473271645875	1473271645929	n	78
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663859	1473271645944	1473271646027	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663873	1473271646074	1473271646166	t	84
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663878	1473271646144	1473271646209	o	79
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663925	1473271646193	1473271646303	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663930	1473271646318	1473271646394	t	84
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663935	1473271646410	1473271646486	h	72
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663941	1473271646517	1473271646612	e	69
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663946	1473271646570	1473271646659	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663954	1473271646675	1473271646741	g	71
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663977	1473271646774	1473271646874	a	65
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663982	1473271646889	1473271646974	m	77
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51663989	1473271647005	1473271647079	e	69
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664001	1473271647106	1473271647189	,	188
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664012	1473271647236	1473271647355	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664164	1473271647610	1473271647691	a	65
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664171	1473271647805	1473271647889	d	68
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664178	1473271648145	1473271648170	BKSP	8
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664186	1473271648442	1473271648507	n	78
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664189	1473271648538	1473271648636	d	68
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664226	1473271648583	1473271648686	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664234	1473271648702	1473271648758	i	73
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664243	1473271648774	1473271648898	s	83
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664250	1473271648855	1473271648958	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664256	1473271648953	1473271649023	l	76
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664263	1473271649147	1473271649203	i	73
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664310	1473271649214	1473271649270	s	83
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664317	1473271649389	1473271649438	t	84
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664325	1473271649540	1473271649599	e	69
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664334	1473271649701	1473271649812	d	68
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664394	1473271649786	1473271649934	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664400	1473271649903	1473271650003	a	65
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664411	1473271650095	1473271650207	s	83
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664417	1473271650171	1473271650277	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664421	1473271650308	1473271650389	d	68
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664428	1473271650488	1473271650586	a	65
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664448	1473271650606	1473271650672	y	89
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664454	1473271650652	1473271650737	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664461	1473271650847	1473271650899	t	84
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664467	1473271650915	1473271650972	o	79
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664470	1473271650988	1473271651106	 	32
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664534	1473271651227	1473271651307	d	68
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664543	1473271651400	1473271651521	a	65
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664551	1473271651470	1473271651528	y	89
+99482	1086108	He did not return to the game, and is listed as day to day.	He did not return to the game, and is listed as day to day.	51664556	1473271651787	1473271651886	.	190
+99482	1086195	Thank you for your support.	Thank you for your support.	51665005	1473271655737	1473271655867	CAPS_LOCK	20
+99482	1086195	Thank you for your support.	Thank you for your support.	51665009	1473271655883	1473271655977	T	84
+99482	1086195	Thank you for your support.	Thank you for your support.	51665017	1473271655986	1473271656131	CAPS_LOCK	20
+99482	1086195	Thank you for your support.	Thank you for your support.	51665027	1473271656085	1473271656167	h	72
+99482	1086195	Thank you for your support.	Thank you for your support.	51665035	1473271656230	1473271656336	a	65
+99482	1086195	Thank you for your support.	Thank you for your support.	51665043	1473271656299	1473271656367	n	78
+99482	1086195	Thank you for your support.	Thank you for your support.	51665050	1473271656445	1473271656533	k	75
+99482	1086195	Thank you for your support.	Thank you for your support.	51665074	1473271656545	1473271656632	 	32
+99482	1086195	Thank you for your support.	Thank you for your support.	51665081	1473271656757	1473271656820	y	89
+99482	1086195	Thank you for your support.	Thank you for your support.	51665084	1473271656812	1473271656882	o	79
+99482	1086195	Thank you for your support.	Thank you for your support.	51665094	1473271656992	1473271657058	u	85
+99482	1086195	Thank you for your support.	Thank you for your support.	51665125	1473271657023	1473271657158	 	32
+99482	1086195	Thank you for your support.	Thank you for your support.	51665133	1473271657138	1473271657223	f	70
+99482	1086195	Thank you for your support.	Thank you for your support.	51665140	1473271657214	1473271657280	o	79
+99482	1086195	Thank you for your support.	Thank you for your support.	51665147	1473271657295	1473271657381	r	82
+99482	1086195	Thank you for your support.	Thank you for your support.	51665154	1473271657349	1473271657414	 	32
+99482	1086195	Thank you for your support.	Thank you for your support.	51665160	1473271657523	1473271657589	y	89
+99482	1086195	Thank you for your support.	Thank you for your support.	51665200	1473271657566	1473271657631	o	79
+99482	1086195	Thank you for your support.	Thank you for your support.	51665204	1473271657756	1473271657841	u	85
+99482	1086195	Thank you for your support.	Thank you for your support.	51665207	1473271657825	1473271657945	r	82
+99482	1086195	Thank you for your support.	Thank you for your support.	51665209	1473271657914	1473271658015	 	32
+99482	1086195	Thank you for your support.	Thank you for your support.	51665212	1473271658151	1473271658301	s	83
+99482	1086195	Thank you for your support.	Thank you for your support.	51665214	1473271658426	1473271658527	u	85
+99482	1086195	Thank you for your support.	Thank you for your support.	51665259	1473271658871	1473271658948	p	80
+99482	1086195	Thank you for your support.	Thank you for your support.	51665267	1473271659011	1473271659079	p	80
+99482	1086195	Thank you for your support.	Thank you for your support.	51665278	1473271659189	1473271659249	o	79
+99482	1086195	Thank you for your support.	Thank you for your support.	51665288	1473271659245	1473271659297	r	82
+99482	1086195	Thank you for your support.	Thank you for your support.	51665297	1473271659375	1473271659459	t	84
+99482	1086195	Thank you for your support.	Thank you for your support.	51665277	1473271659446	1473271659525	.	190

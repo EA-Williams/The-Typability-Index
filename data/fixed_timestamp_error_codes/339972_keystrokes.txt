@@ -1,0 +1,778 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+339972	3665307	It's not working very well.	It's not working very well.	174151882	1476701546861	1476701547295	SHIFT	16
+339972	3665307	It's not working very well.	It's not working very well.	174151883	1476701547226	1476701547295	I	73
+339972	3665307	It's not working very well.	It's not working very well.	174151884	1476701547342	1476701547411	t	84
+339972	3665307	It's not working very well.	It's not working very well.	174151885	1476701547442	1476701547511	'	222
+339972	3665307	It's not working very well.	It's not working very well.	174151886	1476701547558	1476701547628	s	83
+339972	3665307	It's not working very well.	It's not working very well.	174151887	1476701547628	1476701547678	 	32
+339972	3665307	It's not working very well.	It's not working very well.	174151893	1476701547843	1476701547900	n	78
+339972	3665307	It's not working very well.	It's not working very well.	174151895	1476701547988	1476701548052	o	79
+339972	3665307	It's not working very well.	It's not working very well.	174151898	1476701548035	1476701548084	t	84
+339972	3665307	It's not working very well.	It's not working very well.	174151901	1476701548139	1476701548203	 	32
+339972	3665307	It's not working very well.	It's not working very well.	174151904	1476701548227	1476701548298	w	87
+339972	3665307	It's not working very well.	It's not working very well.	174151905	1476701548308	1476701548344	o	79
+339972	3665307	It's not working very well.	It's not working very well.	174151906	1476701548398	1476701548498	r	82
+339972	3665307	It's not working very well.	It's not working very well.	174151907	1476701548451	1476701548498	k	75
+339972	3665307	It's not working very well.	It's not working very well.	174151909	1476701548561	1476701548596	i	73
+339972	3665307	It's not working very well.	It's not working very well.	174151912	1476701548667	1476701548716	n	78
+339972	3665307	It's not working very well.	It's not working very well.	174151927	1476701548700	1476701548775	g	71
+339972	3665307	It's not working very well.	It's not working very well.	174151928	1476701548775	1476701548828	 	32
+339972	3665307	It's not working very well.	It's not working very well.	174151929	1476701548859	1476701548900	b	66
+339972	3665307	It's not working very well.	It's not working very well.	174151930	1476701549147	1476701549228	BKSP	8
+339972	3665307	It's not working very well.	It's not working very well.	174151932	1476701549347	1476701549400	v	86
+339972	3665307	It's not working very well.	It's not working very well.	174151934	1476701549503	1476701549561	e	69
+339972	3665307	It's not working very well.	It's not working very well.	174151936	1476701549647	1476701549732	r	82
+339972	3665307	It's not working very well.	It's not working very well.	174151939	1476701549732	1476701549771	y	89
+339972	3665307	It's not working very well.	It's not working very well.	174151940	1476701549756	1476701549832	 	32
+339972	3665307	It's not working very well.	It's not working very well.	174151941	1476701550212	1476701550261	w	87
+339972	3665307	It's not working very well.	It's not working very well.	174151942	1476701550348	1476701550436	e	69
+339972	3665307	It's not working very well.	It's not working very well.	174151954	1476701550417	1476701550447	l	76
+339972	3665307	It's not working very well.	It's not working very well.	174151956	1476701550501	1476701550545	l	76
+339972	3665307	It's not working very well.	It's not working very well.	174151959	1476701550633	1476701550700	.	190
+339972	3665311	I know you changed it.	I know you changed it.	174152015	1476701552500	1476701552718	SHIFT	16
+339972	3665311	I know you changed it.	I know you changed it.	174152014	1476701552665	1476701552700	I	73
+339972	3665311	I know you changed it.	I know you changed it.	174152016	1476701552780	1476701552860	 	32
+339972	3665311	I know you changed it.	I know you changed it.	174152017	1476701552892	1476701552944	k	75
+339972	3665311	I know you changed it.	I know you changed it.	174152018	1476701553003	1476701553060	n	78
+339972	3665311	I know you changed it.	I know you changed it.	174152020	1476701553110	1476701553194	o	79
+339972	3665311	I know you changed it.	I know you changed it.	174152032	1476701553194	1476701553275	w	87
+339972	3665311	I know you changed it.	I know you changed it.	174152034	1476701553275	1476701553327	 	32
+339972	3665311	I know you changed it.	I know you changed it.	174152038	1476701553526	1476701553612	y	89
+339972	3665311	I know you changed it.	I know you changed it.	174152040	1476701553562	1476701553612	o	79
+339972	3665311	I know you changed it.	I know you changed it.	174152043	1476701553674	1476701553732	u	85
+339972	3665311	I know you changed it.	I know you changed it.	174152051	1476701553712	1476701553811	 	32
+339972	3665311	I know you changed it.	I know you changed it.	174152054	1476701553827	1476701553894	h	72
+339972	3665311	I know you changed it.	I know you changed it.	174152057	1476701553911	1476701553995	c	67
+339972	3665311	I know you changed it.	I know you changed it.	174152059	1476701554027	1476701554059	h	66
+339972	3665311	I know you changed it.	I know you changed it.	174152061	1476701554108	1476701554160	a	65
+339972	3665311	I know you changed it.	I know you changed it.	174152069	1476701554443	1476701554579	CTRL	17
+339972	3665311	I know you changed it.	I know you changed it.	174152068	1476701554490	1476701554545	BKSP	8
+339972	3665311	I know you changed it.	I know you changed it.	174152070	1476701554654	1476701554712	c	67
+339972	3665311	I know you changed it.	I know you changed it.	174152071	1476701554712	1476701554761	h	72
+339972	3665311	I know you changed it.	I know you changed it.	174152072	1476701554812	1476701554878	a	65
+339972	3665311	I know you changed it.	I know you changed it.	174152074	1476701554845	1476701554928	n	78
+339972	3665311	I know you changed it.	I know you changed it.	174152076	1476701554990	1476701555028	g	71
+339972	3665311	I know you changed it.	I know you changed it.	174152085	1476701555128	1476701555162	e	69
+339972	3665311	I know you changed it.	I know you changed it.	174152087	1476701555265	1476701555318	d	68
+339972	3665311	I know you changed it.	I know you changed it.	174152089	1476701555434	1476701555493	 	32
+339972	3665311	I know you changed it.	I know you changed it.	174152091	1476701555565	1476701555612	i	73
+339972	3665311	I know you changed it.	I know you changed it.	174152093	1476701555649	1476701555719	t	84
+339972	3665311	I know you changed it.	I know you changed it.	174152098	1476701555766	1476701555819	.	190
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152149	1476701557320	1476701557612	SHIFT	16
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152152	1476701557551	1476701557620	T	84
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152155	1476701557651	1476701557683	h	72
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152157	1476701557783	1476701557860	a	65
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152160	1476701558036	1476701558078	n	78
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152161	1476701558283	1476701558321	k	75
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152162	1476701558499	1476701558560	 	32
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152163	1476701558592	1476701558679	y	89
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152164	1476701558629	1476701558679	o	79
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152165	1476701558752	1476701558821	u	85
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152193	1476701558788	1476701558879	 	32
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152195	1476701558847	1476701558915	f	70
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152196	1476701559000	1476701559036	o	79
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152197	1476701559485	1476701559545	r	82
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152198	1476701559576	1476701559642	 	32
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152214	1476701559704	1476701559788	y	89
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152199	1476701559748	1476701559780	o	79
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152215	1476701559842	1476701559916	u	85
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152216	1476701559926	1476701559994	r	82
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152218	1476701560026	1476701560078	 	32
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152220	1476701560173	1476701560226	p	80
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152224	1476701560304	1476701560393	r	82
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152228	1476701560526	1476701560594	o	79
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152229	1476701560727	1476701560794	m	77
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152230	1476701561299	1476701561345	p	80
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152231	1476701561544	1476701561612	t	84
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152232	1476701561644	1476701561710	 	32
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152236	1476701561832	1476701561876	e	69
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152238	1476701562044	1476701562110	BKSP	8
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152243	1476701562129	1476701562171	r	82
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152247	1476701562260	1476701562330	e	69
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152251	1476701562384	1476701562412	p	80
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152255	1476701562476	1476701562529	l	76
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152258	1476701562551	1476701562628	y	89
+339972	3665315	Thank you for your prompt reply.	Thank you for your prompt reply.	174152260	1476701562645	1476701562712	.	190
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152302	1476701564079	1476701564428	SHIFT	16
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152303	1476701564378	1476701564449	T	84
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152304	1476701564449	1476701564496	h	72
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152306	1476701564612	1476701564677	a	65
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152309	1476701565050	1476701565096	n	78
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152315	1476701565181	1476701565250	k	75
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152324	1476701565267	1476701565331	s	83
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152327	1476701565351	1476701565411	 	32
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152329	1476701565537	1476701565628	s	83
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152331	1476701565595	1476701565660	o	79
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152343	1476701565636	1476701565703	 	32
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152345	1476701565812	1476701565862	m	77
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152347	1476701565940	1476701565980	u	85
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152349	1476701566036	1476701566116	c	67
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152381	1476701566068	1476701566140	h	72
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152383	1476701566107	1476701566192	 	32
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152386	1476701566989	1476701567042	f	70
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152388	1476701567073	1476701567140	o	79
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152390	1476701567142	1476701567195	r	82
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152392	1476701567227	1476701567278	 	32
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152394	1476701567278	1476701567342	t	84
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152397	1476701567342	1476701567396	h	72
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152399	1476701567436	1476701567508	e	69
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152402	1476701567463	1476701567515	 	32
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152406	1476701567540	1476701567612	m	77
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152410	1476701567612	1476701567663	e	69
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152429	1476701567789	1476701567874	s	83
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152432	1476701567942	1476701567995	s	83
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152435	1476701568092	1476701568147	a	65
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152437	1476701568276	1476701568324	g	71
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152439	1476701568407	1476701568511	e	69
+339972	3665323	Thanks so much for the message.	Thanks so much for the message.	174152441	1476701568592	1476701568645	.	190
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152503	1476701570044	1476701570679	SHIFT	16
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152502	1476701570595	1476701570648	L	76
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152504	1476701570779	1476701570813	u	85
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152505	1476701570911	1476701570995	i	73
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152506	1476701571195	1476701571264	s	83
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152507	1476701571380	1476701571413	.	190
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152568	1476701571932	1476701572067	CTRL	17
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152572	1476701572199	1476701572395	SHIFT	16
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152570	1476701572299	1476701572363	L	76
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152574	1476701572517	1476701572564	u	85
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152575	1476701572970	1476701573027	BKSP	8
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152576	1476701573101	1476701573154	o	79
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152577	1476701573386	1476701573455	u	85
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152578	1476701573602	1476701573655	i	73
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152582	1476701573902	1476701573973	s	83
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152584	1476701574052	1476701574124	,	188
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152586	1476701574080	1476701574130	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152588	1476701574474	1476701574514	p	80
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152590	1476701574573	1476701574658	o	79
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152601	1476701574694	1476701574756	s	83
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152607	1476701574836	1476701574930	t	84
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152604	1476701574896	1476701574930	i	73
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152610	1476701575006	1476701575084	n	78
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152633	1476701575075	1476701575147	g	71
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152636	1476701575159	1476701575243	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152639	1476701575590	1476701575659	f	70
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152640	1476701575659	1476701575728	i	73
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152641	1476701575759	1476701575812	v	86
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152642	1476701575922	1476701575988	e	69
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152685	1476701575979	1476701576059	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152686	1476701576136	1476701576165	c	67
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152687	1476701576592	1476701576661	a	65
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152688	1476701577024	1476701577126	t	84
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152689	1476701577277	1476701577361	c	67
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152690	1476701577361	1476701577428	h	72
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152711	1476701577477	1476701577562	e	69
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152712	1476701577725	1476701577795	s	83
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152713	1476701577826	1476701577880	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152714	1476701578263	1476701578327	f	70
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152715	1476701578364	1476701578428	o	79
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152722	1476701578439	1476701578496	r	82
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152724	1476701578527	1476701578595	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152726	1476701578595	1476701578646	t	84
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152727	1476701578665	1476701578729	h	72
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152728	1476701578745	1476701578829	e	69
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152761	1476701578843	1476701578913	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152764	1476701579396	1476701579514	CTRL	17
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152762	1476701579429	1476701579498	BKSP	8
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152766	1476701579630	1476701579743	3	51
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152768	1476701579800	1476701579931	2	50
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152770	1476701580048	1476701580114	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152773	1476701580301	1476701580316	y	72
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152809	1476701580502	1476701580586	a	65
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152814	1476701580750	1476701580987	CTRL	17
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152810	1476701580804	1476701580868	BKSP	8
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152812	1476701580918	1476701580987	BKSP	8
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152816	1476701581528	1476701581571	3	51
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152818	1476701581834	1476701581927	5	53
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152821	1476701582050	1476701582096	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152824	1476701582187	1476701582287	y	89
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152841	1476701582387	1476701582446	a	65
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152843	1476701582550	1476701582595	r	82
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152846	1476701582688	1476701582764	d	68
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152848	1476701582824	1476701582903	s	83
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152850	1476701582919	1476701582996	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152854	1476701583072	1476701583113	a	65
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152855	1476701583129	1476701583194	n	78
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152856	1476701583225	1476701583307	d	68
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152857	1476701583288	1476701583347	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152858	1476701583404	1476701583473	t	84
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152874	1476701583573	1476701583631	w	87
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152877	1476701583631	1476701583700	o	79
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152878	1476701583675	1476701583729	 	32
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152880	1476701583780	1476701583839	s	83
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152881	1476701584196	1476701584231	c	67
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152885	1476701584311	1476701584379	o	79
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152887	1476701584457	1476701584528	r	82
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152889	1476701584611	1476701584662	e	69
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152891	1476701584760	1476701584860	s	83
+339972	3665326	Louis, posting five catches for 35 yards and two scores.	Louis, posting five catches for 35 yards and two scores.	174152893	1476701584860	1476701584913	.	190
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152939	1476701585662	1476701586629	SHIFT	16
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152937	1476701586559	1476701586597	B	66
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152943	1476701586712	1476701586763	o	79
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152948	1476701586812	1476701586884	t	84
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152953	1476701586863	1476701586932	h	72
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152965	1476701586924	1476701586982	 	32
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152968	1476701587029	1476701587083	h	72
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152971	1476701587114	1476701587181	a	65
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152976	1476701587163	1476701587245	v	86
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152980	1476701587283	1476701587347	e	69
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174152984	1476701587363	1476701587444	 	32
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153004	1476701587515	1476701587580	a	65
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153008	1476701587605	1476701587659	l	76
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153011	1476701588006	1476701588076	s	83
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153013	1476701588064	1476701588131	o	79
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153029	1476701588113	1476701588180	 	32
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153030	1476701588390	1476701588447	p	80
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153032	1476701588490	1476701588572	r	82
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153034	1476701588531	1476701588606	o	79
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153037	1476701588753	1476701588806	m	77
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153040	1476701588868	1476701588988	i	73
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153073	1476701588955	1476701589019	s	83
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153076	1476701589106	1476701589164	e	69
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153081	1476701589253	1476701589328	d	68
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153087	1476701589328	1476701589404	 	32
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153090	1476701589588	1476701589659	h	72
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153098	1476701589646	1476701589691	i	73
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153099	1476701589754	1476701589813	g	71
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153100	1476701589829	1476701589892	h	72
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153101	1476701589954	1476701590023	e	69
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153102	1476701590108	1476701590188	r	82
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153104	1476701590208	1476701590249	 	32
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153129	1476701590575	1476701590629	s	83
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153132	1476701590761	1476701590798	a	65
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153134	1476701590830	1476701590897	l	76
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153136	1476701590929	1476701590981	a	65
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153138	1476701591101	1476701591164	r	82
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153146	1476701591175	1476701591230	i	73
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153147	1476701591277	1476701591315	e	69
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153149	1476701591435	1476701591500	s	83
+339972	3665337	Both have also promised higher salaries.	Both have also promised higher salaries.	174153152	1476701591618	1476701591700	.	190
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153177	1476701593263	1476701593514	SHIFT	16
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153178	1476701593461	1476701593530	S	83
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153179	1476701593561	1476701593630	o	79
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153180	1476701593646	1476701593698	r	82
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153181	1476701593796	1476701593881	r	82
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153182	1476701593831	1476701593895	y	89
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153183	1476701593915	1476701593980	 	32
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153184	1476701594030	1476701594080	i	73
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153185	1476701594096	1476701594164	t	84
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153186	1476701594196	1476701594264	 	32
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153187	1476701594279	1476701594364	t	84
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153193	1476701594346	1476701594381	o	79
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153194	1476701594462	1476701594546	o	79
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153195	1476701594631	1476701594716	k	75
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153196	1476701594697	1476701594762	 	32
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153197	1476701595031	1476701595116	s	83
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153198	1476701595080	1476701595148	o	79
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153199	1476701595124	1476701595195	 	32
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153200	1476701595247	1476701595298	l	76
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153201	1476701595379	1476701595432	o	79
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153202	1476701595516	1476701595587	n	78
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153210	1476701595579	1476701595671	g	71
+339972	3665340	Sorry it took so long.	Sorry it took so long.	174153212	1476701595733	1476701595796	.	190
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153282	1476701597296	1476701597564	SHIFT	16
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153279	1476701597470	1476701597548	I	73
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153285	1476701597538	1476701597623	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153288	1476701597787	1476701597862	t	84
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153292	1476701597862	1476701597908	o	79
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153296	1476701597987	1476701598047	l	76
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153326	1476701598071	1476701598125	d	68
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153329	1476701598157	1476701598220	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153331	1476701598441	1476701598498	g	71
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153335	1476701598726	1476701598796	BKSP	8
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153342	1476701598764	1476701599019	SHIFT	16
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153339	1476701598926	1476701598999	G	71
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153347	1476701599104	1476701599164	a	65
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153357	1476701599305	1476701599364	r	82
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153361	1476701599364	1476701599436	t	84
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153364	1476701599403	1476701599489	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153367	1476701599577	1476701599664	y	89
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153457	1476701599611	1476701599664	o	79
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153459	1476701599731	1476701599804	u	85
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153460	1476701599782	1476701599863	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153461	1476701599878	1476701599970	w	87
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153462	1476701600206	1476701600524	CTRL	17
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153464	1476701600531	1476701600599	BKSP	8
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153466	1476701600752	1476701600795	BKSP	8
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153470	1476701600752	1476701600970	CTRL	17
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153468	1476701600868	1476701600932	BKSP	8
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153472	1476701601511	1476701601898	SHIFT	16
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153474	1476701601854	1476701601938	G	71
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153499	1476701602116	1476701602156	s	65
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153501	1476701602572	1476701602636	BKSP	8
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153503	1476701602740	1476701602813	r	82
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153505	1476701602813	1476701602868	y	89
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153507	1476701602849	1476701602941	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153509	1476701603242	1476701603349	y	89
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153513	1476701603298	1476701603349	o	79
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153514	1476701603442	1476701603498	u	85
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153515	1476701603498	1476701603580	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153516	1476701603642	1476701603732	c	67
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153517	1476701603682	1476701603732	o	79
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153518	1476701603779	1476701603815	u	85
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153528	1476701603905	1476701603972	l	76
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153532	1476701603991	1476701604066	d	68
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153536	1476701604036	1476701604097	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153540	1476701604097	1476701604149	m	77
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153543	1476701604181	1476701604268	a	65
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153549	1476701604243	1476701604314	k	75
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153551	1476701604359	1476701604412	e	69
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153554	1476701604398	1476701604459	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153556	1476701604505	1476701604572	t	84
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153558	1476701604559	1476701604604	h	72
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153560	1476701604658	1476701604714	e	69
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153563	1476701604714	1476701604791	 	32
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153565	1476701604807	1476701604860	v	86
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153567	1476701604828	1476701604865	c	67
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153569	1476701604986	1476701605015	a	65
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153573	1476701605036	1476701605065	l	76
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153589	1476701605236	1476701605364	CTRL	17
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153587	1476701605275	1476701605344	BKSP	8
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153592	1476701605427	1476701605482	c	67
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153597	1476701605583	1476701605681	a	65
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153595	1476701605636	1476701605681	l	76
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153599	1476701605746	1476701605779	l	76
+339972	3665344	I told Gary you could make the call.	I told Gary you could make the call.	174153601	1476701605846	1476701605914	.	190
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153651	1476701607163	1476701607449	SHIFT	16
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153656	1476701607380	1476701607464	T	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153658	1476701607649	1476701607714	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153660	1476701607880	1476701607916	BKSP	8
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153662	1476701607997	1476701608092	h	72
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153663	1476701608081	1476701608148	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153664	1476701608181	1476701608251	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153697	1476701608279	1476701608372	s	83
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153700	1476701608351	1476701608380	i	73
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153703	1476701608454	1476701608548	m	77
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153705	1476701609051	1476701609092	BKSP	8
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153709	1476701609198	1476701609283	n	78
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153712	1476701609330	1476701609381	g	71
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153718	1476701609400	1476701609468	l	76
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153722	1476701609515	1476701609568	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153725	1476701609568	1476701609615	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153728	1476701609731	1476701609804	b	66
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153745	1476701609782	1476701609852	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153746	1476701609940	1476701609981	t	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153747	1476701610085	1476701610154	w	87
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153748	1476701610252	1476701610298	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153749	1476701610370	1476701610460	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153767	1476701610415	1476701610492	n	78
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153771	1476701610471	1476701610548	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153774	1476701610555	1476701610615	t	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153776	1476701610615	1476701610670	h	72
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153777	1476701610686	1476701610773	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153778	1476701610773	1476701610855	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153783	1476701610871	1476701610924	t	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153785	1476701611017	1476701611101	w	87
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153786	1476701611081	1476701611164	o	79
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153788	1476701611132	1476701611212	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153790	1476701611273	1476701611324	v	86
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153808	1476701611404	1476701611473	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153810	1476701611558	1476701611612	r	82
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153811	1476701611720	1476701611836	s	83
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153813	1476701611813	1476701611844	i	73
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153815	1476701611913	1476701611961	o	79
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153839	1476701612060	1476701612132	n	78
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153840	1476701612178	1476701612212	a	65
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153841	1476701612440	1476701612530	BKSP	8
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153843	1476701612596	1476701612665	s	83
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153845	1476701612696	1476701612781	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153847	1476701613181	1476701613232	i	73
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153869	1476701613398	1476701613449	n	78
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153872	1476701613752	1476701613814	BKSP	8
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153875	1476701613867	1476701613948	s	83
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153877	1476701613948	1476701614014	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153879	1476701614109	1476701614196	t	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153893	1476701614176	1476701614246	h	72
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153896	1476701614292	1476701614380	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153898	1476701614348	1476701614415	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153901	1476701614558	1476701614676	SHIFT	16
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153903	1476701614915	1476701614994	t	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153904	1476701615110	1476701615179	r	82
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153905	1476701615295	1476701615372	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153936	1476701615579	1476701615636	a	65
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153939	1476701615827	1476701615895	t	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153942	1476701616158	1476701616230	m	77
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153944	1476701616246	1476701616330	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153947	1476701616346	1476701616429	n	78
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153955	1476701616463	1476701616547	t	84
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153958	1476701616580	1476701616632	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153961	1476701616697	1476701616764	o	79
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153964	1476701616799	1476701616865	f	70
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174153967	1476701616865	1476701616932	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154028	1476701617045	1476701617084	h	72
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154031	1476701617582	1476701617664	BKSP	8
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154034	1476701618030	1476701618099	f	70
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154038	1476701618099	1476701618164	o	79
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154041	1476701618580	1476701618647	r	82
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154044	1476701619184	1476701619249	e	69
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154049	1476701619332	1476701619385	i	73
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154051	1476701619485	1476701619562	n	78
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154054	1476701619585	1476701619632	g	71
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154055	1476701619684	1476701619748	 	32
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154057	1476701619832	1476701619901	b	66
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154069	1476701619951	1476701620012	a	65
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154070	1476701620002	1476701620049	n	78
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154071	1476701620149	1476701620195	m	77
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154072	1476701620788	1476701620832	BKSP	8
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154073	1476701620936	1476701620988	k	75
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154075	1476701621321	1476701621390	s	83
+339972	3665352	The single between the two versions is the treatment of foreign banks.	The single between the two versions is the treatment of foreing banks.	174154080	1476701621637	1476701621699	.	190
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154158	1476701623342	1476701623632	SHIFT	16
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154159	1476701623573	1476701623648	S	83
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154162	1476701623758	1476701623800	e	69
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154166	1476701623878	1476701623980	e	69
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154170	1476701624243	1476701624315	,	188
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154173	1476701624346	1476701624436	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154200	1476701624544	1476701624596	w	87
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154202	1476701624697	1476701624749	e	69
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154205	1476701624764	1476701624878	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154208	1476701624961	1476701625047	a	65
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154212	1476701625063	1476701625147	m	77
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154234	1476701625399	1476701625449	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154235	1476701625515	1476701625565	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154236	1476701625540	1476701625682	SHIFT	16
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154237	1476701625631	1476701625682	A	65
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154239	1476701625716	1476701625800	m	77
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154242	1476701625832	1476701625882	e	69
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154245	1476701626000	1476701626064	r	82
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154248	1476701626163	1476701626232	i	73
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154262	1476701626278	1476701626348	c	67
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154267	1476701626432	1476701626517	n	78
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154270	1476701626549	1476701626618	a	65
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154273	1476701626649	1476701626702	l	76
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154276	1476701626749	1476701626820	s	83
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154298	1476701626827	1476701626876	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154301	1476701627281	1476701627333	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154304	1476701627403	1476701627500	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154308	1476701627565	1476701627648	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154311	1476701627727	1476701627804	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154314	1476701627890	1476701627954	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154317	1476701628128	1476701628168	a	65
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154323	1476701628204	1476701628250	n	78
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154331	1476701628293	1476701628349	s	83
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154338	1476701628364	1476701628416	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154358	1476701628933	1476701629016	h	72
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154361	1476701629032	1476701629083	a	65
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154363	1476701629194	1476701629265	d	68
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154366	1476701629265	1476701629316	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154367	1476701629459	1476701629516	g	71
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154387	1476701629527	1476701629599	o	79
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154390	1476701629663	1476701629717	t	84
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154393	1476701629795	1476701629865	t	84
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154395	1476701629988	1476701630076	e	69
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154436	1476701630048	1476701630124	n	78
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154438	1476701630116	1476701630196	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154441	1476701630479	1476701630534	s	83
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154443	1476701630995	1476701631066	o	79
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154445	1476701631117	1476701631182	r	82
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154446	1476701631296	1476701631349	t	84
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154455	1476701631582	1476701631634	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154457	1476701631737	1476701631783	o	79
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154459	1476701631884	1476701631937	f	70
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154461	1476701631953	1476701632004	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154463	1476701632322	1476701632383	d	68
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154502	1476701632412	1476701632470	i	73
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154504	1476701632585	1476701632665	s	83
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154505	1476701632761	1476701632830	t	84
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154506	1476701632986	1476701633030	r	82
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154507	1476701633362	1476701633420	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154508	1476701633593	1476701633650	a	65
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154545	1476701634031	1476701634100	c	67
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154547	1476701634209	1476701634266	t	84
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154551	1476701634510	1476701634582	e	69
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154553	1476701634679	1476701634780	d	68
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154603	1476701634748	1476701634801	 	32
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154605	1476701635237	1476701635382	CTRL	17
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154606	1476701635308	1476701635382	BKSP	8
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154608	1476701635615	1476701635668	d	68
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154610	1476701635699	1476701635768	i	73
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154613	1476701636069	1476701636138	s	83
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154618	1476701636301	1476701636340	t	84
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154622	1476701636469	1476701636538	r	82
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154630	1476701636732	1476701636783	a	65
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154632	1476701636916	1476701636966	c	67
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154634	1476701637055	1476701637117	t	84
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154636	1476701637204	1476701637266	e	69
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154639	1476701637341	1476701637416	d	68
+339972	3665364	See, we Americans had gotten sort of distracted.	See, we Americans had gotten sort of distracted.	174154641	1476701637468	1476701637517	.	190
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154695	1476701638167	1476701639115	SHIFT	16
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154698	1476701639046	1476701639146	T	84
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154701	1476701639146	1476701639184	h	72
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154704	1476701639247	1476701639315	i	73
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154707	1476701639332	1476701639396	s	83
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154719	1476701639383	1476701639446	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154721	1476701639477	1476701639555	n	78
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154724	1476701639517	1476701639582	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154727	1476701639662	1476701639730	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154731	1476701639790	1476701639850	d	68
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154736	1476701639930	1476701640013	s	83
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154741	1476701640063	1476701640131	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154742	1476701640116	1476701640166	t	84
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154744	1476701640264	1476701640339	o	79
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154746	1476701640315	1476701640403	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154768	1476701640382	1476701640464	g	71
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154769	1476701640464	1476701640551	o	79
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154770	1476701640515	1476701640582	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154772	1476701641083	1476701641179	t	84
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154773	1476701641133	1476701641233	o	79
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154854	1476701641200	1476701641265	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154855	1476701641381	1476701641450	i	73
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154856	1476701641547	1476701641615	m	77
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154857	1476701641985	1476701642051	b	66
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154858	1476701642829	1476701642951	a	65
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154861	1476701643052	1476701643130	l	76
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154867	1476701643152	1476701643215	a	65
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154869	1476701643252	1476701643330	n	78
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154871	1476701643354	1476701643400	c	67
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154875	1476701643486	1476701643555	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154878	1476701643555	1476701643600	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154895	1476701643655	1476701643755	b	66
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154900	1476701643755	1476701643816	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154905	1476701643902	1476701643955	t	84
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154910	1476701644052	1476701644115	e	87
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154963	1476701644486	1476701644555	BKSP	8
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154965	1476701644902	1476701644947	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154968	1476701645033	1476701645106	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154971	1476701645083	1476701645163	n	78
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154974	1476701645132	1476701645199	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154977	1476701645456	1476701645567	SHIFT	16
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154989	1476701645503	1476701645567	Q	81
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154991	1476701645599	1476701645672	u	85
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154992	1476701645719	1476701645772	a	65
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154993	1476701645834	1476701645930	n	78
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154994	1476701645956	1476701646031	t	84
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174154995	1476701646155	1476701646217	u	85
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155020	1476701646451	1476701646518	m	77
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155023	1476701646491	1476701646573	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155026	1476701646689	1476701646757	a	65
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155029	1476701646757	1476701646816	n	78
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155032	1476701646873	1476701646932	d	68
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155064	1476701646932	1476701646999	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155070	1476701647159	1476701647431	SHIFT	16
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155067	1476701647354	1476701647415	C	67
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155072	1476701647591	1476701647659	r	82
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155074	1476701647838	1476701647914	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155078	1476701648038	1476701648098	a	65
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155100	1476701648376	1476701648433	s	83
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155102	1476701648523	1476701648618	t	84
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155101	1476701648568	1476701648611	o	79
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155103	1476701648695	1476701648764	n	78
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155104	1476701648764	1476701648864	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155172	1476701648893	1476701648955	 	32
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155174	1476701649396	1476701649459	BKSP	8
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155177	1476701649612	1476701649763	CTRL	17
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155180	1476701649665	1476701649763	BKSP	8
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155182	1476701649897	1476701650130	SHIFT	16
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155184	1476701650044	1476701650130	C	67
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155186	1476701650312	1476701650397	r	82
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155188	1476701650563	1476701650631	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155190	1476701650782	1476701650850	s	83
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155210	1476701650945	1476701651026	t	84
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155216	1476701650992	1476701651034	o	79
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155220	1476701651113	1476701651187	n	78
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155224	1476701651168	1476701651249	e	69
+339972	3665372	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalance between Quantum and Crestone.	174155227	1476701651429	1476701651475	.	190
+339972	3665383	How's the share price?	How's the share price?	174155302	1476701653677	1476701653900	SHIFT	16
+339972	3665383	How's the share price?	How's the share price?	174155299	1476701653856	1476701653891	H	72
+339972	3665383	How's the share price?	How's the share price?	174155306	1476701653994	1476701654049	o	79
+339972	3665383	How's the share price?	How's the share price?	174155310	1476701654075	1476701654148	w	87
+339972	3665383	How's the share price?	How's the share price?	174155314	1476701654178	1476701654248	'	222
+339972	3665383	How's the share price?	How's the share price?	174155318	1476701654310	1476701654379	s	83
+339972	3665383	How's the share price?	How's the share price?	174155332	1476701654398	1476701654467	 	32
+339972	3665383	How's the share price?	How's the share price?	174155335	1476701654795	1476701654883	t	84
+339972	3665383	How's the share price?	How's the share price?	174155341	1476701654875	1476701654939	h	72
+339972	3665383	How's the share price?	How's the share price?	174155346	1476701654994	1476701655067	e	69
+339972	3665383	How's the share price?	How's the share price?	174155349	1476701655067	1476701655100	 	32
+339972	3665383	How's the share price?	How's the share price?	174155359	1476701655196	1476701655251	s	83
+339972	3665383	How's the share price?	How's the share price?	174155360	1476701655218	1476701655251	h	72
+339972	3665383	How's the share price?	How's the share price?	174155361	1476701655397	1476701655454	a	65
+339972	3665383	How's the share price?	How's the share price?	174155363	1476701655582	1476701655635	r	82
+339972	3665383	How's the share price?	How's the share price?	174155365	1476701655730	1476701655797	e	69
+339972	3665383	How's the share price?	How's the share price?	174155381	1476701655814	1476701655867	 	32
+339972	3665383	How's the share price?	How's the share price?	174155385	1476701655929	1476701655982	p	80
+339972	3665383	How's the share price?	How's the share price?	174155388	1476701655982	1476701656050	r	82
+339972	3665383	How's the share price?	How's the share price?	174155393	1476701656065	1476701656164	i	73
+339972	3665383	How's the share price?	How's the share price?	174155395	1476701656183	1476701656233	c	67
+339972	3665383	How's the share price?	How's the share price?	174155401	1476701656315	1476701656385	e	69
+339972	3665383	How's the share price?	How's the share price?	174155403	1476701656530	1476701656584	?	191
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155468	1476701658318	1476701658444	A	65
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155470	1476701658497	1476701658587	n	78
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155472	1476701658644	1476701658729	t	84
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155473	1476701658760	1476701658818	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155474	1476701658960	1476701659017	n	78
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155500	1476701659261	1476701659317	i	73
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155505	1476701659477	1476701659533	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155508	1476701659899	1476701659966	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155512	1476701660078	1476701660366	SHIFT	16
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155514	1476701660315	1476701660400	G	71
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155515	1476701660435	1476701660484	u	85
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155538	1476701660764	1476701660833	t	84
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155539	1476701660979	1476701661049	e	69
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155541	1476701661179	1476701661218	r	82
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155543	1476701661479	1476701661531	r	82
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155545	1476701661632	1476701661668	e	69
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155547	1476701661801	1476701661866	s	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155552	1476701661901	1476701661978	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155558	1476701662017	1476701662083	s	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155564	1476701662164	1476701662232	e	69
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155571	1476701662264	1476701662317	n	78
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155599	1476701662432	1476701662483	d	68
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155602	1476701663218	1476701663299	BKSP	8
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155606	1476701663303	1476701663366	t	84
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155609	1476701663419	1476701663468	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155613	1476701663566	1476701663634	a	65
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155618	1476701663634	1476701663685	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155637	1476701663772	1476701663860	m	77
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155640	1476701663834	1476701663885	e	69
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155641	1476701663981	1476701664051	s	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155643	1476701664126	1476701664184	s	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155645	1476701664260	1476701664337	a	65
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155655	1476701664452	1476701664505	g	71
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155656	1476701664603	1476701664682	e	69
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155657	1476701664699	1476701664735	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155659	1476701664766	1476701664849	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155661	1476701664865	1476701664931	f	70
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155688	1476701664906	1476701664971	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155691	1476701665238	1476701665310	c	67
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155694	1476701665326	1476701665368	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155696	1476701665469	1476701665549	n	78
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155698	1476701665607	1476701665666	d	68
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155699	1476701665755	1476701665803	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155763	1476701666128	1476701666184	l	76
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155767	1476701666944	1476701667003	e	69
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155771	1476701667113	1476701667203	n	78
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155776	1476701667375	1476701667435	c	67
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155780	1476701667532	1476701667586	e	69
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155797	1476701667695	1476701667767	s	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155799	1476701667782	1476701667836	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155801	1476701668001	1476701668082	t	84
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155803	1476701668118	1476701668204	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155818	1476701668167	1476701668235	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155824	1476701668617	1476701668818	SHIFT	16
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155821	1476701668751	1476701668811	S	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155828	1476701668865	1476701668915	m	77
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155833	1476701668980	1476701669066	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155840	1476701669082	1476701669179	t	84
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155867	1476701669151	1476701669202	h	72
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155868	1476701669350	1476701669402	'	222
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155869	1476701669465	1476701669519	s	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155870	1476701669519	1476701669585	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155871	1476701669715	1476701669767	w	87
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155873	1476701670019	1476701670083	i	73
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155935	1476701670167	1476701670220	d	68
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155937	1476701670267	1476701670336	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155939	1476701670351	1476701670418	w	87
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155946	1476701670800	1476701671082	CTRL	17
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155941	1476701670867	1476701670922	BKSP	8
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155943	1476701670985	1476701671051	BKSP	8
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155951	1476701671201	1476701671354	CTRL	17
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155957	1476701671486	1476701671584	SHIFT	16
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155963	1476701671524	1476701671584	S	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174155970	1476701671624	1476701671667	m	77
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156007	1476701671755	1476701671803	i	73
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156011	1476701672104	1476701672183	t	84
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156014	1476701672199	1476701672236	h	72
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156017	1476701672673	1476701672690	'	222
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156020	1476701672974	1476701673043	s	83
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156039	1476701673077	1476701673143	 	32
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156045	1476701673243	1476701673383	SHIFT	16
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156042	1476701673323	1476701673367	W	87
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156049	1476701673427	1476701673451	i	73
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156053	1476701673759	1476701673802	BKSP	8
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156058	1476701673875	1476701673944	BKSP	8
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156061	1476701673966	1476701674028	w	87
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156065	1476701674044	1476701674102	i	73
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156071	1476701674175	1476701674228	d	68
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156072	1476701674328	1476701674355	o	79
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156073	1476701674401	1476701674469	w	87
+339972	3665389	Antonio Guterres sent a message of condolences to Smith's widow.	Antonio Guterres sent a message of condolences to Smith's widow.	174156074	1476701674693	1476701674707	.	190
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156141	1476701676396	1476701676699	SHIFT	16
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156140	1476701676634	1476701676699	B	66
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156143	1476701676734	1476701676800	e	69
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156147	1476701676865	1476701676917	l	76
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156150	1476701676981	1476701677050	l	76
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156153	1476701677113	1476701677183	o	79
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156162	1476701677195	1476701677250	w	87
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156165	1476701677297	1476701677336	 	32
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156168	1476701677383	1476701677436	i	73
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156172	1476701677483	1476701677535	s	83
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156175	1476701677535	1476701677601	 	32
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156194	1476701677666	1476701677731	t	84
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156195	1476701677691	1476701677750	h	72
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156196	1476701677835	1476701677916	e	69
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156197	1476701677916	1476701677984	 	32
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156198	1476701678091	1476701678137	i	73
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156222	1476701678235	1476701678316	n	78
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156226	1476701678458	1476701678536	t	84
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156230	1476701678685	1476701678768	e	69
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156234	1476701679133	1476701679201	n	78
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156237	1476701679252	1476701679301	d	68
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156249	1476701679415	1476701679484	e	69
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156252	1476701679599	1476701679652	d	68
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156253	1476701679652	1476701679718	 	32
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156255	1476701679837	1476701679886	v	86
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156257	1476701680000	1476701680037	e	69
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156274	1476701680131	1476701680185	r	82
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156280	1476701680300	1476701680419	s	83
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156276	1476701680369	1476701680403	i	73
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156283	1476701680466	1476701680553	o	79
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156285	1476701680616	1476701680669	n	78
+339972	3665401	Below is the intended version.	Bellow is the intended version.	174156288	1476701680786	1476701680855	.	190
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156322	1476701682159	1476701682418	SHIFT	16
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156323	1476701682359	1476701682418	I	73
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156325	1476701682443	1476701682501	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156327	1476701682543	1476701682635	t	84
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156329	1476701682602	1476701682643	h	72
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156331	1476701682721	1476701682747	i	73
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156357	1476701682843	1476701682885	n	78
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156361	1476701682974	1476701683053	k	75
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156365	1476701683027	1476701683100	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156379	1476701683675	1476701683819	SHIFT	16
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156370	1476701683722	1476701683788	I	73
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156380	1476701683769	1476701683819	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156381	1476701683876	1476701683945	h	72
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156382	1476701683945	1476701684002	a	65
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156383	1476701684045	1476701684118	v	86
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156384	1476701684145	1476701684187	e	69
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156385	1476701684261	1476701684302	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156398	1476701684443	1476701684488	g	71
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156401	1476701684519	1476701684586	i	73
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156403	1476701684617	1476701684668	v	86
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156405	1476701684810	1476701684883	e	69
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156407	1476701684899	1476701684987	n	78
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156422	1476701684971	1476701685035	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156423	1476701685110	1476701685169	t	84
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156424	1476701685169	1476701685219	h	72
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156425	1476701685296	1476701685379	e	69
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156426	1476701685349	1476701685419	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156427	1476701685547	1476701685603	g	71
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156439	1476701685750	1476701685803	a	65
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156444	1476701686015	1476701686068	f	70
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156448	1476701686150	1476701686202	f	70
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156453	1476701686297	1476701686351	e	69
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156457	1476701686429	1476701686501	r	82
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156488	1476701686547	1476701686603	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156491	1476701686667	1476701686733	t	84
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156496	1476701686733	1476701686786	h	72
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156504	1476701687552	1476701687699	CTRL	17
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156499	1476701687583	1476701687652	BKSP	8
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156510	1476701687783	1476701687852	a	65
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156515	1476701687868	1476701687952	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156537	1476701688053	1476701688118	d	68
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156540	1476701688200	1476701688253	e	69
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156545	1476701688400	1476701688454	c	67
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156549	1476701688485	1476701688536	i	73
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156552	1476701688586	1476701688670	s	83
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156582	1476701688670	1476701688723	i	73
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156585	1476701688817	1476701688843	o	79
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156588	1476701688933	1476701688971	n	78
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156592	1476701689260	1476701689334	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156594	1476701689391	1476701689491	t	84
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156601	1476701689421	1476701689492	o	79
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156604	1476701689472	1476701689534	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156605	1476701689591	1476701689651	m	77
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156606	1476701689676	1476701689736	a	65
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156607	1476701689736	1476701689779	k	75
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156608	1476701689851	1476701689931	e	69
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156620	1476701689902	1476701689966	 	32
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156622	1476701690533	1476701690602	BKSP	8
+339972	3665405	I think I have given the gaffer a decision to make.	I think I have given the gaffer a decision to make.	174156624	1476701690679	1476701690755	.	190

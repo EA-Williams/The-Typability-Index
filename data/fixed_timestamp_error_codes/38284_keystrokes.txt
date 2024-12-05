@@ -1,0 +1,684 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+38284	415894	I think I'm OK.	I thing I'm OK.	19786181	1472453687376	1472453687756	SHIFT	16
+38284	415894	I think I'm OK.	I thing I'm OK.	19786184	1472453687621	1472453687786	I	73
+38284	415894	I think I'm OK.	I thing I'm OK.	19786188	1472453687855	1472453687984	 	32
+38284	415894	I think I'm OK.	I thing I'm OK.	19786192	1472453687984	1472453688147	t	84
+38284	415894	I think I'm OK.	I thing I'm OK.	19786195	1472453688094	1472453688224	h	72
+38284	415894	I think I'm OK.	I thing I'm OK.	19786214	1472453688153	1472453688335	i	73
+38284	415894	I think I'm OK.	I thing I'm OK.	19786216	1472453688296	1472453688458	n	78
+38284	415894	I think I'm OK.	I thing I'm OK.	19786219	1472453688396	1472453688558	g	71
+38284	415894	I think I'm OK.	I thing I'm OK.	19786222	1472453688690	1472453688784	 	32
+38284	415894	I think I'm OK.	I thing I'm OK.	19786225	1472453688815	1472453688877	'	222
+38284	415894	I think I'm OK.	I thing I'm OK.	19786229	1472453689087	1472453689193	BKSP	8
+38284	415894	I think I'm OK.	I thing I'm OK.	19786232	1472453689263	1472453689331	BKSP	8
+38284	415894	I think I'm OK.	I thing I'm OK.	19786281	1472453689331	1472453689626	SHIFT	16
+38284	415894	I think I'm OK.	I thing I'm OK.	19786234	1472453689483	1472453689544	 	32
+38284	415894	I think I'm OK.	I thing I'm OK.	19786283	1472453689816	1472453690091	SHIFT	16
+38284	415894	I think I'm OK.	I thing I'm OK.	19786282	1472453689917	1472453690051	I	73
+38284	415894	I think I'm OK.	I thing I'm OK.	19786284	1472453690266	1472453690405	'	222
+38284	415894	I think I'm OK.	I thing I'm OK.	19786285	1472453690500	1472453690640	,	188
+38284	415894	I think I'm OK.	I thing I'm OK.	19786286	1472453690616	1472453690711	 	32
+38284	415894	I think I'm OK.	I thing I'm OK.	19786322	1472453690656	1472453691055	SHIFT	16
+38284	415894	I think I'm OK.	I thing I'm OK.	19786287	1472453690834	1472453690926	O	79
+38284	415894	I think I'm OK.	I thing I'm OK.	19786325	1472453691105	1472453691203	BKSP	8
+38284	415894	I think I'm OK.	I thing I'm OK.	19786328	1472453691256	1472453691356	BKSP	8
+38284	415894	I think I'm OK.	I thing I'm OK.	19786332	1472453691465	1472453691511	BKSP	8
+38284	415894	I think I'm OK.	I thing I'm OK.	19786335	1472453691778	1472453691904	m	77
+38284	415894	I think I'm OK.	I thing I'm OK.	19786337	1472453691975	1472453692087	 	32
+38284	415894	I think I'm OK.	I thing I'm OK.	19786344	1472453692190	1472453692825	SHIFT	16
+38284	415894	I think I'm OK.	I thing I'm OK.	19786338	1472453692336	1472453692447	O	79
+38284	415894	I think I'm OK.	I thing I'm OK.	19786341	1472453692557	1472453692675	K	75
+38284	415894	I think I'm OK.	I thing I'm OK.	19786347	1472453692935	1472453693058	.	190
+38284	415899	I hope you feel better.	I hope you feel better.	19786419	1472453696342	1472453696586	SHIFT	16
+38284	415899	I hope you feel better.	I hope you feel better.	19786424	1472453696442	1472453696608	I	73
+38284	415899	I hope you feel better.	I hope you feel better.	19786427	1472453696556	1472453696650	 	32
+38284	415899	I hope you feel better.	I hope you feel better.	19786431	1472453696720	1472453696891	h	72
+38284	415899	I hope you feel better.	I hope you feel better.	19786435	1472453696825	1472453696951	o	79
+38284	415899	I hope you feel better.	I hope you feel better.	19786437	1472453697014	1472453697190	p	80
+38284	415899	I hope you feel better.	I hope you feel better.	19786445	1472453697129	1472453697275	e	69
+38284	415899	I hope you feel better.	I hope you feel better.	19786447	1472453697234	1472453697354	 	32
+38284	415899	I hope you feel better.	I hope you feel better.	19786449	1472453697434	1472453697546	y	89
+38284	415899	I hope you feel better.	I hope you feel better.	19786451	1472453697491	1472453697606	o	79
+38284	415899	I hope you feel better.	I hope you feel better.	19786453	1472453697686	1472453697864	u	85
+38284	415899	I hope you feel better.	I hope you feel better.	19786455	1472453697788	1472453697916	 	32
+38284	415899	I hope you feel better.	I hope you feel better.	19786457	1472453697906	1472453698054	f	70
+38284	415899	I hope you feel better.	I hope you feel better.	19786460	1472453698001	1472453698104	e	69
+38284	415899	I hope you feel better.	I hope you feel better.	19786464	1472453698188	1472453698300	e	69
+38284	415899	I hope you feel better.	I hope you feel better.	19786469	1472453698273	1472453698431	l	76
+38284	415899	I hope you feel better.	I hope you feel better.	19786500	1472453698367	1472453698526	 	32
+38284	415899	I hope you feel better.	I hope you feel better.	19786501	1472453698484	1472453698611	b	66
+38284	415899	I hope you feel better.	I hope you feel better.	19786502	1472453698574	1472453698691	e	69
+38284	415899	I hope you feel better.	I hope you feel better.	19786504	1472453698751	1472453698854	t	84
+38284	415899	I hope you feel better.	I hope you feel better.	19786506	1472453698924	1472453699048	t	84
+38284	415899	I hope you feel better.	I hope you feel better.	19786503	1472453698991	1472453699161	e	69
+38284	415899	I hope you feel better.	I hope you feel better.	19786505	1472453699120	1472453699259	r	82
+38284	415899	I hope you feel better.	I hope you feel better.	19786507	1472453699211	1472453699383	.	190
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786569	1472453702615	1472453702868	SHIFT	16
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786571	1472453702785	1472453702948	I	73
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786572	1472453702888	1472453702998	 	32
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786574	1472453702998	1472453703128	a	65
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786576	1472453703120	1472453703291	m	77
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786609	1472453703241	1472453703354	 	32
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786610	1472453703515	1472453703711	n	78
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786611	1472453703621	1472453703802	o	79
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786612	1472453704097	1472453704230	w	87
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786613	1472453704206	1472453704351	 	32
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786615	1472453704606	1472453704747	o	79
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786664	1472453704705	1472453704811	f	70
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786666	1472453704906	1472453704959	f	70
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786669	1472453705239	1472453705426	i	73
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786671	1472453705388	1472453705498	c	67
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786673	1472453705598	1472453705725	i	73
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786674	1472453705735	1472453705868	a	65
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786677	1472453705890	1472453705976	l	76
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786679	1472453706046	1472453706160	l	76
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786680	1472453706190	1472453706353	y	89
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786681	1472453706343	1472453706475	 	32
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786682	1472453706585	1472453706682	a	65
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786704	1472453706659	1472453706781	 	32
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786706	1472453706861	1472453707070	SHIFT	16
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786708	1472453706994	1472453707100	B	66
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786709	1472453707172	1472453707321	l	76
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786710	1472453707271	1472453707383	a	65
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786711	1472453707383	1472453707501	c	67
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786725	1472453707474	1472453707655	k	75
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786728	1472453707592	1472453707675	 	32
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786730	1472453707936	1472453708081	BKSP	8
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786731	1472453708025	1472453708147	b	66
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786732	1472453708101	1472453708225	e	69
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786733	1472453708275	1472453708384	r	82
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786734	1472453708436	1472453708555	r	82
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786741	1472453708535	1472453708723	y	89
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786742	1472453708668	1472453708789	 	32
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786743	1472453708971	1472453709098	a	65
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786744	1472453709145	1472453709238	d	68
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786745	1472453709308	1472453709424	d	68
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786751	1472453709395	1472453709561	i	73
+38284	415901	I am now officially a Blackberry addict.	I am now officially a Blackberry addict	19786752	1472453709526	1472453709622	c	67
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786829	1472453709722	1472453712324	t	84
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786830	1472453711906	1472453712334	SHIFT	16
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786831	1472453712394	1472453712528	h	72
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786832	1472453712495	1472453712632	e	69
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786833	1472453712598	1472453712734	 	32
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786834	1472453712692	1472453712844	c	67
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786835	1472453712944	1472453713068	h	72
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786863	1472453713154	1472453713256	i	73
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786865	1472453713357	1472453713512	l	76
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786868	1472453713475	1472453713612	d	68
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786871	1472453713723	1472453713895	r	82
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786897	1472453713797	1472453713985	e	69
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786898	1472453713937	1472453714102	n	78
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786900	1472453714066	1472453714154	 	32
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786902	1472453714458	1472453714588	w	87
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786904	1472453714542	1472453714648	i	73
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786907	1472453714729	1472453714808	l	76
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786925	1472453714859	1472453714972	l	76
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786929	1472453715002	1472453715108	 	32
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786933	1472453715171	1472453715293	e	69
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786935	1472453715272	1472453715416	n	78
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786937	1472453715416	1472453715588	t	84
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786943	1472453715549	1472453715709	e	69
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786944	1472453715715	1472453715846	r	82
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786945	1472453715976	1472453716137	t	84
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786946	1472453716095	1472453716230	a	65
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786948	1472453716526	1472453716642	i	73
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786950	1472453716722	1472453716897	n	78
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786972	1472453716844	1472453716950	 	32
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786974	1472453717030	1472453717182	y	89
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786976	1472453717122	1472453717232	o	79
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786978	1472453717322	1472453717482	u	85
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786981	1472453717399	1472453717524	 	32
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19786984	1472453717554	1472453717712	w	87
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787000	1472453717734	1472453717910	h	72
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787003	1472453718040	1472453718163	i	73
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787007	1472453718236	1472453718389	l	76
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787010	1472453718409	1472453718586	e	69
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787011	1472453718696	1472453718837	 	32
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787030	1472453719030	1472453719182	y	89
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787031	1472453719129	1472453719245	o	79
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787032	1472453719316	1472453719482	u	85
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787033	1472453719405	1472453719532	 	32
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787034	1472453719657	1472453719835	w	87
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787048	1472453719752	1472453719905	a	65
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787050	1472453719845	1472453719989	i	73
+38284	415909	The children will entertain you while you wait.	The children will entertain you while you wait.	19787054	1472453719945	1472453720079	t	84
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787338	1472453720119	1472453735329	.	190
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787147	1472453725226	1472453725462	SHIFT	16
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787148	1472453725336	1472453725489	I	73
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787149	1472453725440	1472453725529	 	32
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787150	1472453725600	1472453725742	t	84
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787151	1472453725669	1472453725832	h	72
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787169	1472453725752	1472453725948	i	73
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787171	1472453725896	1472453726046	n	78
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787173	1472453726018	1472453726159	g	71
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787175	1472453726266	1472453726378	 	32
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787177	1472453726518	1472453726630	BKSP	8
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787178	1472453726680	1472453726814	BKSP	8
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787179	1472453726844	1472453726989	k	75
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787204	1472453726949	1472453727061	 	32
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787206	1472453727507	1472453727666	t	84
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787207	1472453727592	1472453727706	o	79
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787208	1472453727786	1472453727939	u	85
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787209	1472453728151	1472453728239	BKSP	8
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787210	1472453728299	1472453728393	BKSP	8
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787211	1472453728463	1472453728656	BKSP	8
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787212	1472453728512	1472453728656	y	89
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787222	1472453728656	1472453728716	o	79
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787227	1472453728806	1472453728982	u	85
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787231	1472453728972	1472453729143	r	82
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787234	1472453729104	1472453729219	 	32
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787236	1472453729289	1472453729430	o	79
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787237	1472453729590	1472453729717	t	84
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787250	1472453729896	1472453730009	BKSP	8
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787251	1472453730049	1472453730177	u	85
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787252	1472453730146	1472453730289	t	84
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787253	1472453730500	1472453730602	l	76
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787254	1472453730672	1472453730773	i	73
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787255	1472453730836	1472453730963	n	78
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787256	1472453730879	1472453731015	e	69
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787257	1472453731035	1472453731171	d	68
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787259	1472453731138	1472453731249	 	32
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787261	1472453731299	1472453731423	m	77
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787263	1472453731376	1472453731589	e	69
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787287	1472453731526	1472453731729	a	65
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787289	1472453731700	1472453731849	s	83
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787292	1472453731880	1472453732062	u	85
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787294	1472453732316	1472453732539	r	82
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787295	1472453732433	1472453732590	e	69
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787297	1472453732660	1472453732815	s	83
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787310	1472453732867	1472453733023	 	32
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787311	1472453733146	1472453733219	f	70
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787312	1472453733390	1472453733538	BKSP	8
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787314	1472453733528	1472453733659	s	83
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787316	1472453733603	1472453733699	o	79
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787318	1472453733779	1472453733889	u	85
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787326	1472453734357	1472453734479	n	78
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787327	1472453734436	1472453734593	d	68
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787328	1472453734551	1472453734676	 	32
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787329	1472453734733	1472453734883	f	70
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787335	1472453734849	1472453734956	i	73
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787336	1472453735017	1472453735129	n	78
+38284	415912	I think your outlined measures sound fine.	I think your outlined measures sound fine.	19787337	1472453735083	1472453735222	e	69
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787358	1472453737830	1472453738040	SHIFT	16
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787359	1472453737942	1472453738070	D	68
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787360	1472453738060	1472453738217	i	73
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787361	1472453738197	1472453738330	d	68
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787362	1472453738286	1472453738435	 	32
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787363	1472453738485	1472453738583	t	84
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787389	1472453738533	1472453738635	o	79
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787391	1472453738735	1472453738927	u	85
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787394	1472453739087	1472453739181	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787398	1472453739243	1472453739350	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787401	1472453739410	1472453739465	y	89
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787403	1472453739485	1472453739635	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787405	1472453739755	1472453739906	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787407	1472453739863	1472453740013	y	89
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787409	1472453739986	1472453740083	o	79
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787410	1472453740168	1472453740340	u	85
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787411	1472453740265	1472453740398	 	32
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787412	1472453740350	1472453740510	t	84
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787413	1472453740438	1472453740571	e	69
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787414	1472453740536	1472453740631	l	76
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787415	1472453740691	1472453740840	l	76
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787442	1472453740780	1472453741021	 	32
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787444	1472453740894	1472453741031	s	83
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787445	1472453741031	1472453741173	t	84
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787447	1472453741106	1472453741253	e	69
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787448	1472453741306	1472453741473	v	86
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787481	1472453741416	1472453741595	e	69
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787485	1472453741786	1472453741880	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787489	1472453741956	1472453742042	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787491	1472453742112	1472453742206	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787492	1472453742276	1472453742366	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787493	1472453742426	1472453742530	BKSP	8
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787494	1472453742480	1472453742646	SHIFT	16
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787495	1472453742570	1472453742696	S	83
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787496	1472453742767	1472453742955	t	84
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787497	1472453742884	1472453743046	e	69
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787498	1472453743130	1472453743273	v	86
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787500	1472453743204	1472453743354	e	69
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787504	1472453743446	1472453743600	SHIFT	16
+38284	415917	Did you tell Steve?	Did you tell Steve?	19787508	1472453743526	1472453743660	?	191
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787549	1472453744990	1472453745233	SHIFT	16
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787551	1472453745178	1472453745331	T	84
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787553	1472453745303	1472453745447	a	65
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787555	1472453745518	1472453745650	x	88
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787557	1472453745700	1472453745827	 	32
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787559	1472453745958	1472453746127	g	71
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787564	1472453746057	1472453746210	a	65
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787566	1472453746270	1472453746430	v	86
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787567	1472453746340	1472453746521	e	69
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787568	1472453746500	1472453746596	 	32
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787569	1472453746666	1472453746843	u	85
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787603	1472453746777	1472453746906	s	83
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787604	1472453746896	1472453747040	 	32
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787605	1472453747017	1472453747153	s	83
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787606	1472453747113	1472453747239	o	79
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787607	1472453747310	1472453747527	m	77
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787608	1472453747798	1472453747887	BKSP	8
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787609	1472453747958	1472453748067	BKSP	8
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787610	1472453748151	1472453748257	BKSP	8
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787611	1472453748277	1472453748423	t	84
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787612	1472453748385	1472453748515	h	72
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787613	1472453748495	1472453748613	e	69
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787614	1472453748590	1472453748697	 	32
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787615	1472453748707	1472453748877	s	83
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787616	1472453748813	1472453748967	a	65
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787627	1472453748918	1472453749047	m	77
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787629	1472453749000	1472453749130	e	69
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787632	1472453749087	1472453749239	 	32
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787635	1472453749215	1472453749367	f	70
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787636	1472453749297	1472453749427	e	69
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787637	1472453749497	1472453749607	e	69
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787639	1472453749657	1472453749777	d	68
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787642	1472453749887	1472453750010	b	66
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787645	1472453749990	1472453750096	a	65
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787649	1472453750106	1472453750223	c	67
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787660	1472453750173	1472453750295	k	75
+38284	415921	Tax gave us the same feedback.	Tax gave us the same feedback.	19787662	1472453750406	1472453750520	.	190
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787715	1472453752492	1472453752961	SHIFT	16
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787716	1472453752836	1472453753001	T	84
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787717	1472453753021	1472453753226	h	72
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787718	1472453753110	1472453753333	i	73
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787719	1472453753216	1472453753353	s	83
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787720	1472453753363	1472453753525	 	32
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787732	1472453753597	1472453753765	h	72
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787735	1472453753671	1472453753835	a	65
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787739	1472453753845	1472453754041	v	86
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787743	1472453753948	1472453754142	e	69
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787758	1472453754071	1472453754175	 	32
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787759	1472453754266	1472453754435	n	78
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787760	1472453754358	1472453754508	o	79
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787761	1472453754455	1472453754625	t	84
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787762	1472453754575	1472453754765	h	72
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787783	1472453754675	1472453754887	i	73
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787785	1472453754887	1472453755090	n	78
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787787	1472453755037	1472453755185	g	71
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787788	1472453755165	1472453755347	 	32
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787789	1472453755637	1472453755795	d	68
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787813	1472453755735	1472453755937	o	79
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787814	1472453755847	1472453756048	 	32
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787815	1472453756304	1472453756385	BKSP	8
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787816	1472453756455	1472453756558	BKSP	8
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787817	1472453756618	1472453756743	BKSP	8
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787818	1472453756706	1472453756845	t	84
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787819	1472453756775	1472453756948	o	79
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787820	1472453756885	1472453757027	 	32
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787840	1472453756988	1472453757156	d	68
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787842	1472453757077	1472453757208	e	69
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787844	1472453757288	1472453757447	s	83
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787845	1472453757437	1472453757491	t	84
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787846	1472453757541	1472453757685	r	82
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787871	1472453757641	1472453757828	o	79
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787872	1472453757878	1472453757951	t	89
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787873	1472453758238	1472453758381	BKSP	8
+38284	415924	Thus have nothing to destroy.	This have nothing to destroy.	19787874	1472453758459	1472453758600	.	190
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787949	1472453759945	1472453760507	SHIFT	16
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787947	1472453760317	1472453760477	M	77
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787951	1472453760537	1472453760671	o	79
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787953	1472453760701	1472453760883	n	78
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787956	1472453760887	1472453761034	t	84
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787960	1472453761420	1472453761587	p	80
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787974	1472453761649	1472453761785	e	69
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787976	1472453761885	1472453761979	l	76
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787977	1472453762039	1472453762136	l	76
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19787979	1472453762201	1472453762408	i	73
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788002	1472453762306	1472453762525	e	69
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788004	1472453762468	1472453762645	r	82
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788006	1472453763047	1472453763252	 	32
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788008	1472453763357	1472453763549	SHIFT	16
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788010	1472453763487	1472453763579	W	87
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788011	1472453763856	1472453764014	BKSP	8
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788012	1472453764004	1472453764141	w	87
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788019	1472453764095	1472453764196	o	79
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788021	1472453764276	1472453764453	n	78
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788023	1472453764406	1472453764525	 	32
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788025	1472453764545	1472453764668	t	84
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788028	1472453764617	1472453764748	h	72
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788038	1472453764748	1472453764875	e	69
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788039	1472453764842	1472453764962	 	32
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788040	1472453764952	1472453765079	SHIFT	16
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788041	1472453765002	1472453765130	C	67
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788042	1472453765095	1472453765205	u	85
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788043	1472453765235	1472453765372	p	80
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788044	1472453765458	1472453765548	 	32
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788067	1472453765593	1472453765687	a	65
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788068	1472453765677	1472453765806	n	78
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788069	1472453766066	1472453766206	BKSP	8
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788070	1472453766206	1472453766335	t	84
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788072	1472453766308	1472453766417	 	32
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788074	1472453766608	1472453766724	t	84
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788080	1472453766677	1472453766858	h	72
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788081	1472453767140	1472453767256	e	69
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788082	1472453767276	1472453767431	i	73
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788084	1472453767401	1472453767536	r	82
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788086	1472453767526	1472453767644	 	32
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788088	1472453767774	1472453767899	f	70
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788096	1472453767884	1472453768057	u	85
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788097	1472453768151	1472453768316	r	82
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788098	1472453768316	1472453768507	s	83
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788099	1472453768441	1472453768592	t	84
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788100	1472453768567	1472453768684	 	32
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788101	1472453768744	1472453768840	a	65
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788106	1472453768892	1472453768986	t	84
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788108	1472453769086	1472453769194	t	84
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788109	1472453769134	1472453769284	e	69
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788110	1472453769284	1472453769518	m	77
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788125	1472453769461	1472453769649	p	80
+38284	415928	Montpellier won the Cup at their first attempt.	Montpellier won the Cup at their furst attempt.	19788126	1472453769780	1472453769830	t	84
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788387	1472453769931	1472453789429	.	190
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788205	1472453776006	1472453776309	SHIFT	16
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788203	1472453776158	1472453776298	H	72
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788206	1472453776369	1472453776548	i	73
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788208	1472453776505	1472453776703	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788209	1472453776669	1472453776871	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788212	1472453776845	1472453776964	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788213	1472453776954	1472453777090	t	84
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788214	1472453777060	1472453777218	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788216	1472453777159	1472453777307	t	84
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788217	1472453777248	1472453777425	u	85
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788231	1472453777366	1472453777512	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788234	1472453777487	1472453777641	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788236	1472453777595	1472453777692	f	70
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788237	1472453777736	1472453777858	o	79
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788238	1472453777765	1472453777898	r	82
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788239	1472453777928	1472453778035	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788248	1472453777964	1472453778197	SHIFT	16
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788249	1472453778077	1472453778227	T	84
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788250	1472453778227	1472453778339	h	72
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788251	1472453778410	1472453778598	u	85
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788252	1472453778515	1472453778725	r	82
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788273	1472453778678	1472453778877	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788274	1472453778897	1472453779123	t	84
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788275	1472453779595	1472453779758	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788276	1472453779809	1472453780078	d	68
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788277	1472453780078	1472453780253	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788278	1472453780598	1472453780731	y	89
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788279	1472453780811	1472453780988	'	222
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788280	1472453781039	1472453781168	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788281	1472453781196	1472453781308	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788282	1472453781318	1472453781548	SHIFT	16
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788283	1472453781780	1472453781895	g	71
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788284	1472453781835	1472453781959	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788296	1472453781926	1472453782067	m	77
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788297	1472453782032	1472453782164	e	69
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788298	1472453782164	1472453782306	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788299	1472453782316	1472453782505	i	73
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788300	1472453782726	1472453782868	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788301	1472453782812	1472453782938	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788302	1472453782969	1472453783088	g	71
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788310	1472453783088	1472453783220	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788311	1472453783230	1472453783406	n	78
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788312	1472453784156	1472453784270	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788313	1472453784310	1472453784468	i	73
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788314	1472453784532	1472453784708	n	78
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788321	1472453784655	1472453784842	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788323	1472453784770	1472453784914	t	84
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788325	1472453784994	1472453785145	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788327	1472453785192	1472453785328	SHIFT	16
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788329	1472453785252	1472453785378	D	68
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788330	1472453785409	1472453785515	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788341	1472453785478	1472453785575	l	76
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788342	1472453785645	1472453785756	l	76
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788343	1472453785816	1472453786050	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788344	1472453786128	1472453786255	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788345	1472453786265	1472453786405	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788346	1472453786405	1472453786576	SHIFT	16
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788347	1472453786796	1472453786949	i	73
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788352	1472453786902	1472453787001	s	83
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788353	1472453787041	1472453787131	 	32
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788354	1472453787103	1472453787295	SHIFT	16
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788355	1472453787201	1472453787315	U	85
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788356	1472453787425	1472453787601	n	78
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788357	1472453787675	1472453787785	c	67
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788358	1472453787856	1472453787972	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788359	1472453788043	1472453788157	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788360	1472453788206	1472453788359	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788361	1472453788369	1472453788494	u	85
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788368	1472453788576	1472453788695	n	78
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788369	1472453788685	1472453788826	c	67
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788370	1472453788816	1472453788972	l	76
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788371	1472453788895	1472453789052	e	69
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788386	1472453789042	1472453789233	r	82
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788385	1472453789077	1472453789170	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788388	1472453789660	1472453789749	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788389	1472453789809	1472453789909	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788390	1472453789960	1472453790105	BKSP	8
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788391	1472453790029	1472453790182	a	65
+38284	415934	His status for Thursday's game against Dallas is unclear.	His status for Thursday's game against Dallas is unclear.	19788392	1472453790149	1472453790274	r	82
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788587	1472453790278	1472453808284	.	190
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788440	1472453796151	1472453796401	SHIFT	16
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788441	1472453796256	1472453796443	P	80
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788442	1472453796401	1472453796571	l	76
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788443	1472453796539	1472453796718	e	69
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788444	1472453796986	1472453797175	a	65
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788456	1472453797165	1472453797370	s	83
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788457	1472453797631	1472453797783	e	69
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788458	1472453797863	1472453798057	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788459	1472453798097	1472453798252	s	83
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788460	1472453798198	1472453798352	t	84
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788462	1472453798312	1472453798446	a	65
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788463	1472453798496	1472453798632	y	89
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788464	1472453798706	1472453798749	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788465	1472453798779	1472453798892	o	79
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788466	1472453798972	1472453799148	n	78
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788473	1472453799077	1472453799171	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788474	1472453799161	1472453799283	t	84
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788475	1472453799263	1472453799420	h	72
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788476	1472453799396	1472453799492	t	84
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788477	1472453799432	1472453799614	e	69
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788478	1472453799644	1472453799833	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788512	1472453800184	1472453800272	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788513	1472453800322	1472453800426	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788514	1472453800487	1472453800626	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788515	1472453800586	1472453800726	e	69
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788516	1472453800706	1472453800796	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788517	1472453800837	1472453800959	t	84
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788518	1472453801029	1472453801203	o	79
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788519	1472453801403	1472453801499	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788520	1472453801560	1472453801696	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788521	1472453802339	1472453802403	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788522	1472453802483	1472453802586	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788523	1472453802666	1472453802739	BKSP	8
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788525	1472453803243	1472453803432	o	79
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788532	1472453803383	1472453803616	p	80
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788533	1472453803575	1472453803706	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788534	1472453803766	1472453803906	o	79
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788535	1472453804165	1472453804306	f	70
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788536	1472453804279	1472453804383	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788537	1472453804423	1472453804543	t	84
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788538	1472453804493	1472453804642	h	72
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788539	1472453804614	1472453804739	e	69
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788540	1472453804719	1472453804859	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788541	1472453804823	1472453804936	s	83
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788542	1472453805165	1472453805289	e	69
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788543	1472453805370	1472453805503	c	67
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788555	1472453805513	1472453805669	u	85
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788556	1472453805980	1472453806116	r	82
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788557	1472453806129	1472453806257	i	73
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788558	1472453806317	1472453806497	t	84
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788559	1472453806507	1472453806619	y	89
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788570	1472453806670	1472453806746	 	32
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788572	1472453806796	1472453806923	i	73
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788573	1472453806933	1472453807036	s	83
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788574	1472453807096	1472453807274	s	83
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788575	1472453807294	1472453807476	u	85
+38284	415937	Please stay on top of the security issue.	Please stay on top of the security issue.	19788585	1472453807568	1472453807723	e	69
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788601	1472453810766	1472453811045	SHIFT	16
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788602	1472453811017	1472453811116	W	87
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788603	1472453811160	1472453811355	a	65
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788604	1472453811316	1472453811488	s	83
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788605	1472453811456	1472453811645	h	72
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788614	1472453811560	1472453811751	i	73
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788615	1472453811720	1472453811913	n	78
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788616	1472453812238	1472453812376	g	71
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788617	1472453812956	1472453813103	t	84
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788618	1472453813045	1472453813155	o	79
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788619	1472453813245	1472453813419	n	78
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788620	1472453813409	1472453813525	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788621	1472453813625	1472453813786	w	87
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788622	1472453813736	1472453813886	a	65
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788623	1472453813916	1472453814079	s	83
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788624	1472453814092	1472453814184	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788625	1472453814324	1472453814669	m	77
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788626	1472453814836	1472453814923	BKSP	8
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788627	1472453815045	1472453815203	n	78
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788628	1472453815140	1472453815293	o	79
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788629	1472453815253	1472453815397	t	84
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788630	1472453815363	1472453815466	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788632	1472453815527	1472453815663	m	77
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788640	1472453815596	1472453815757	o	79
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788642	1472453815735	1472453815883	v	86
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788644	1472453815846	1472453815963	i	73
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788646	1472453816053	1472453816177	n	78
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788647	1472453816128	1472453816248	g	71
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788648	1472453816238	1472453816390	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788649	1472453816390	1472453816550	t	84
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788650	1472453816513	1472453816650	o	79
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788651	1472453816610	1472453816803	w	87
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788652	1472453816681	1472453816896	a	65
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788653	1472453816833	1472453816963	r	82
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788654	1472453817055	1472453817216	d	68
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788655	1472453817226	1472453817346	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788656	1472453817346	1472453817490	a	65
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788657	1472453817442	1472453817550	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788658	1472453817666	1472453817787	u	85
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788682	1472453817899	1472453818030	n	78
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788686	1472453818225	1472453818356	i	73
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788690	1472453818456	1472453818570	l	76
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788692	1472453818782	1472453818997	a	65
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788694	1472453820106	1472453820253	t	84
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788696	1472453820190	1472453820367	e	69
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788697	1472453820345	1472453820513	r	82
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788698	1472453820450	1472453820583	a	65
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788699	1472453820623	1472453820869	l	76
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788700	1472453820828	1472453821013	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788701	1472453821313	1472453821410	l	76
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788713	1472453821496	1472453821651	i	73
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788714	1472453821681	1472453821858	f	70
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788715	1472453821998	1472453822141	t	84
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788716	1472453822121	1472453822229	i	73
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788717	1472453822301	1472453822443	n	78
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788725	1472453822403	1472453822518	g	71
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788726	1472453822508	1472453822640	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788727	1472453822750	1472453822922	o	79
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788728	1472453823026	1472453823144	f	70
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788729	1472453823153	1472453823350	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788730	1472453823370	1472453823521	t	84
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788736	1472453823497	1472453823644	h	72
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788737	1472453823604	1472453823763	e	69
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788738	1472453823707	1472453823857	 	32
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788739	1472453823969	1472453824095	e	69
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788740	1472453824060	1472453824223	m	77
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788741	1472453824256	1472453824374	b	66
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788749	1472453824350	1472453824480	a	65
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788750	1472453824520	1472453824641	r	82
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788751	1472453824751	1472453824876	g	71
+38284	415940	Washington was not moving toward a unilateral lifting of the embargo.	Washington was not moving toward a unilateral lifting of the embargo.	19788752	1472453824826	1472453824975	o	79
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788773	1472453827566	1472453827931	SHIFT	16
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788772	1472453827646	1472453827695	C	67
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788774	1472453828062	1472453828176	o	79
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788775	1472453828249	1472453828365	u	85
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788776	1472453828470	1472453828614	l	76
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788788	1472453828578	1472453828714	d	68
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788789	1472453828704	1472453828832	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788790	1472453828892	1472453829028	y	89
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788791	1472453828981	1472453829081	o	79
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788792	1472453829187	1472453829331	u	85
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788793	1472453829321	1472453829478	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788794	1472453829559	1472453829772	p	80
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788796	1472453829835	1472453830008	l	76
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788798	1472453830008	1472453830203	e	69
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788800	1472453830181	1472453830358	a	65
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788802	1472453830378	1472453830588	s	83
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788810	1472453830530	1472453830686	e	69
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788811	1472453830650	1472453830815	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788812	1472453830752	1472453830932	l	76
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788813	1472453830865	1472453831092	e	69
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788814	1472453831002	1472453831158	t	84
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788823	1472453831112	1472453831210	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788825	1472453831250	1472453831382	m	77
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788828	1472453831321	1472453831472	e	69
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788831	1472453831462	1472453831574	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788834	1472453831667	1472453831765	k	75
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788837	1472453831857	1472453832052	n	78
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788846	1472453831954	1472453832150	o	79
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788847	1472453832062	1472453832218	w	87
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788848	1472453832186	1472453832295	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788849	1472453832477	1472453832688	a	65
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788850	1472453832607	1472453832758	s	83
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788851	1472453832768	1472453832886	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788863	1472453832906	1472453833076	s	83
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788865	1472453833076	1472453833172	o	79
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788867	1472453833242	1472453833374	o	79
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788870	1472453833466	1472453833677	n	78
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788871	1472453833787	1472453833925	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788877	1472453833935	1472453834098	a	65
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788879	1472453834028	1472453834192	s	83
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788881	1472453834164	1472453834278	 	32
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788883	1472453834368	1472453834538	p	80
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788895	1472453834472	1472453834624	o	79
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788896	1472453834599	1472453834725	s	83
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788897	1472453834756	1472453834917	s	83
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788898	1472453834895	1472453835137	i	73
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788899	1472453835467	1472453835656	b	66
+38284	415944	Could you please let me know as soon as possible.	Could you please let me know as soon as possible	19788900	1472453835572	1472453835703	l	76
+38284	415948	I will not be available.	I will not e available.	19788970	1472453835671	1472453839255	e	69
+38284	415948	I will not be available.	I will not e available.	19788929	1472453836988	1472453837362	SHIFT	16
+38284	415948	I will not be available.	I will not e available.	19788931	1472453837257	1472453837412	I	73
+38284	415948	I will not be available.	I will not e available.	19788933	1472453837452	1472453837585	 	32
+38284	415948	I will not be available.	I will not e available.	19788936	1472453837556	1472453837712	w	87
+38284	415948	I will not be available.	I will not e available.	19788940	1472453837652	1472453837772	i	73
+38284	415948	I will not be available.	I will not e available.	19788942	1472453837907	1472453838012	l	76
+38284	415948	I will not be available.	I will not e available.	19788960	1472453838074	1472453838212	l	76
+38284	415948	I will not be available.	I will not e available.	19788962	1472453838169	1472453838264	 	32
+38284	415948	I will not be available.	I will not e available.	19788964	1472453838315	1472453838501	n	78
+38284	415948	I will not be available.	I will not e available.	19788966	1472453838394	1472453838595	o	79
+38284	415948	I will not be available.	I will not e available.	19788967	1472453838685	1472453838849	t	84
+38284	415948	I will not be available.	I will not e available.	19788968	1472453838819	1472453838957	 	32
+38284	415948	I will not be available.	I will not e available.	19788969	1472453838977	1472453839119	b	66
+38284	415948	I will not be available.	I will not e available.	19788971	1472453839192	1472453839350	 	32
+38284	415948	I will not be available.	I will not e available.	19788973	1472453839356	1472453839472	a	65
+38284	415948	I will not be available.	I will not e available.	19788975	1472453839542	1472453839689	v	86
+38284	415948	I will not be available.	I will not e available.	19789005	1472453839635	1472453839791	a	65
+38284	415948	I will not be available.	I will not e available.	19789006	1472453839911	1472453839952	l	76
+38284	415948	I will not be available.	I will not e available.	19789007	1472453840024	1472453840184	i	73
+38284	415948	I will not be available.	I will not e available.	19789008	1472453840152	1472453840305	a	65
+38284	415948	I will not be available.	I will not e available.	19789009	1472453840505	1472453840605	BKSP	8
+38284	415948	I will not be available.	I will not e available.	19789010	1472453840675	1472453840775	BKSP	8
+38284	415948	I will not be available.	I will not e available.	19789011	1472453840837	1472453840983	BKSP	8
+38284	415948	I will not be available.	I will not e available.	19789012	1472453841003	1472453841140	i	73
+38284	415948	I will not be available.	I will not e available.	19789013	1472453841216	1472453841360	l	76
+38284	415948	I will not be available.	I will not e available.	19789037	1472453841390	1472453841530	a	65
+38284	415948	I will not be available.	I will not e available.	19789039	1472453841580	1472453841740	b	66
+38284	415948	I will not be available.	I will not e available.	19789041	1472453841781	1472453841937	l	76
+38284	415948	I will not be available.	I will not e available.	19789043	1472453841910	1472453842043	e	69
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789068	1472453844324	1472453844820	SHIFT	16
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789067	1472453844733	1472453844800	I	73
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789069	1472453845131	1472453845261	'	222
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789070	1472453845487	1472453845580	l	76
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789071	1472453845641	1472453845803	l	76
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789080	1472453845751	1472453845875	 	32
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789081	1472453845948	1472453846083	c	67
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789082	1472453846017	1472453846169	a	65
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789083	1472453846103	1472453846199	l	76
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789084	1472453846390	1472453846537	l	76
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789085	1472453846537	1472453846685	 	32
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789086	1472453846717	1472453846871	y	89
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789087	1472453846823	1472453846931	o	79
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789088	1472453847032	1472453847182	u	85
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789089	1472453847153	1472453847233	 	32
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789090	1472453847263	1472453847395	i	73
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789099	1472453847477	1472453847662	n	78
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789100	1472453847617	1472453847712	 	32
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789101	1472453847732	1472453847867	t	84
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789103	1472453847790	1472453847927	h	72
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789110	1472453847917	1472453848058	e	69
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789111	1472453847990	1472453848118	 	32
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789112	1472453848098	1472453848273	m	77
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789113	1472453848223	1472453848337	o	79
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789114	1472453848283	1472453848428	r	82
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789115	1472453848438	1472453848563	n	78
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789127	1472453848500	1472453848683	i	73
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789129	1472453848625	1472453848780	n	78
+38284	415949	I'll call you in the morning.	I'll call you in the morning.	19789133	1472453848737	1472453848870	g	71

@@ -1,0 +1,776 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+242465	2592747	What do you think?	what do you think?	123112866	1475283310635	1475283312118	W	20
+242465	2592747	What do you think?	what do you think?	123112860	1475283310803	1475283310875	H	72
+242465	2592747	What do you think?	what do you think?	123112861	1475283310900	1475283311091	A	65
+242465	2592747	What do you think?	what do you think?	123112862	1475283311052	1475283311203	T	84
+242465	2592747	What do you think?	what do you think?	123112863	1475283311571	1475283311643	BKSP	8
+242465	2592747	What do you think?	what do you think?	123112864	1475283311732	1475283311795	BKSP	8
+242465	2592747	What do you think?	what do you think?	123112865	1475283311884	1475283311948	BKSP	8
+242465	2592747	What do you think?	what do you think?	123112868	1475283312028	1475283312139	BKSP	8
+242465	2592747	What do you think?	what do you think?	123112871	1475283312653	1475283312770	w	87
+242465	2592747	What do you think?	what do you think?	123112870	1475283312756	1475283312836	h	72
+242465	2592747	What do you think?	what do you think?	123112873	1475283312787	1475283312948	a	65
+242465	2592747	What do you think?	what do you think?	123112875	1475283312884	1475283313006	t	84
+242465	2592747	What do you think?	what do you think?	123112876	1475283312973	1475283313084	 	32
+242465	2592747	What do you think?	what do you think?	123112877	1475283313116	1475283313251	d	68
+242465	2592747	What do you think?	what do you think?	123112887	1475283313196	1475283313332	o	79
+242465	2592747	What do you think?	what do you think?	123112889	1475283313285	1475283313380	 	32
+242465	2592747	What do you think?	what do you think?	123112893	1475283313428	1475283313518	y	89
+242465	2592747	What do you think?	what do you think?	123112899	1475283313516	1475283313580	o	79
+242465	2592747	What do you think?	what do you think?	123112901	1475283313604	1475283313684	u	85
+242465	2592747	What do you think?	what do you think?	123112904	1475283313691	1475283313819	 	32
+242465	2592747	What do you think?	what do you think?	123112906	1475283313859	1475283313922	t	84
+242465	2592747	What do you think?	what do you think?	123112907	1475283313899	1475283314020	h	72
+242465	2592747	What do you think?	what do you think?	123112908	1475283313987	1475283314098	i	73
+242465	2592747	What do you think?	what do you think?	123112909	1475283314084	1475283314202	n	78
+242465	2592747	What do you think?	what do you think?	123112934	1475283314180	1475283314324	k	75
+242465	2592747	What do you think?	what do you think?	123112937	1475283314506	1475283314723	SHIFT	16
+242465	2592747	What do you think?	what do you think?	123112941	1475283314595	1475283314739	?	191
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113232	1475283319724	1475283320028	SHIFT	16
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113230	1475283319893	1475283320020	A	65
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113235	1475283320157	1475283320276	m	77
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113236	1475283320501	1475283320558	u	89
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113239	1475283320901	1475283321004	BKSP	8
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113243	1475283321213	1475283321308	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113157	1475283321405	1475283321499	w	87
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113160	1475283321461	1475283321540	i	73
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113161	1475283321613	1475283321684	l	76
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113162	1475283321765	1475283321868	l	76
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113174	1475283321804	1475283321900	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113175	1475283321925	1475283322020	n	78
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113177	1475283322053	1475283322156	o	79
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113179	1475283322084	1475283322204	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113181	1475283322268	1475283322341	l	76
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113184	1475283322412	1475283322531	o	79
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113197	1475283322485	1475283322579	n	78
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113198	1475283322587	1475283322692	g	71
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113202	1475283322733	1475283322860	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113205	1475283322805	1475283322931	r	82
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113209	1475283322909	1475283323004	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113212	1475283323093	1475283323180	b	66
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113215	1475283323237	1475283323331	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113217	1475283323317	1475283323428	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113219	1475283323501	1475283323595	h	72
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113221	1475283323581	1475283323676	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113234	1475283323653	1475283323795	r	82
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113238	1475283323757	1475283323867	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113241	1475283323853	1475283323964	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113244	1475283324037	1475283324180	s	83
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113245	1475283324124	1475283324267	o	79
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113310	1475283324213	1475283324332	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113317	1475283324372	1475283324604	SHIFT	16
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113314	1475283324493	1475283324588	I	73
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113319	1475283324621	1475283324731	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113323	1475283324845	1475283324956	w	87
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113325	1475283324933	1475283325004	i	73
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113327	1475283325093	1475283325324	l	76
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113398	1475283325269	1475283325355	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113401	1475283325453	1475283325532	b	66
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113403	1475283325605	1475283325724	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113406	1475283325733	1475283325804	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113408	1475283325893	1475283325972	BKSP	8
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113410	1475283326045	1475283326116	BKSP	8
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113412	1475283326197	1475283326268	BKSP	8
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113414	1475283326349	1475283326405	BKSP	8
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113415	1475283326485	1475283326532	BKSP	8
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113417	1475283326685	1475283326748	l	76
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113419	1475283327061	1475283327148	l	76
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113382	1475283327277	1475283327364	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113383	1475283327509	1475283327596	b	66
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113384	1475283327645	1475283327731	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113385	1475283327717	1475283327804	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113402	1475283327845	1475283327966	t	84
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113386	1475283327876	1475283327964	h	72
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113405	1475283327989	1475283328099	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113407	1475283328036	1475283328132	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113409	1475283328093	1475283328236	o	79
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113411	1475283328181	1475283328300	n	78
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113413	1475283328341	1475283328452	l	76
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113442	1475283328893	1475283328988	y	89
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113445	1475283329100	1475283329204	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113449	1475283329277	1475283329411	o	79
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113452	1475283329357	1475283329451	n	78
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113464	1475283329445	1475283329556	e	69
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113467	1475283329541	1475283329654	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113470	1475283329734	1475283329836	w	87
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113473	1475283329957	1475283330084	o	79
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113476	1475283330117	1475283330231	r	82
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113484	1475283330229	1475283330316	k	75
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113486	1475283330406	1475283330516	i	73
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113490	1475283330477	1475283330556	n	78
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113493	1475283330573	1475283330675	g	71
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113495	1475283330645	1475283330724	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113504	1475283330685	1475283330861	o	79
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113508	1475283330788	1475283330883	n	78
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113512	1475283330862	1475283330964	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113515	1475283330973	1475283331083	t	84
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113518	1475283331037	1475283331148	h	72
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113544	1475283331117	1475283331196	i	73
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113545	1475283331205	1475283331315	s	83
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113546	1475283331301	1475283331411	 	32
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113547	1475283331717	1475283331828	BKSP	8
+242465	2592759	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	123113548	1475283331917	1475283332020	.	190
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113607	1475283334261	1475283334604	SHIFT	16
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113609	1475283334548	1475283334676	T	84
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113611	1475283334645	1475283334772	h	72
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113612	1475283334749	1475283334821	i	73
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113613	1475283335077	1475283335188	BKSP	8
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113614	1475283335221	1475283335309	e	69
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113615	1475283335501	1475283335605	 	32
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113628	1475283336061	1475283336171	c	67
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113629	1475283336158	1475283336308	o	79
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113630	1475283336245	1475283336365	n	78
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113631	1475283336413	1475283336524	d	68
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113644	1475283336501	1475283336581	i	73
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113645	1475283336669	1475283336765	t	84
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113646	1475283336742	1475283336805	i	73
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113648	1475283336885	1475283337004	o	79
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113650	1475283336966	1475283337068	n	78
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113652	1475283337093	1475283337180	s	83
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113666	1475283337269	1475283337356	 	32
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113667	1475283337829	1475283337957	w	87
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113668	1475283337901	1475283338005	e	69
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113669	1475283338061	1475283338141	r	82
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113671	1475283338245	1475283338365	e	69
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113683	1475283338367	1475283338477	 	32
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113685	1475283338485	1475283338605	p	80
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113687	1475283338574	1475283338692	r	82
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113689	1475283338645	1475283338804	e	69
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113699	1475283338775	1475283338853	t	84
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113702	1475283338941	1475283338996	t	84
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113706	1475283339101	1475283339189	y	89
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113710	1475283339237	1475283339373	 	32
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113712	1475283339509	1475283339637	t	84
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113751	1475283339613	1475283339702	o	79
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113752	1475283339774	1475283339869	u	85
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113753	1475283340085	1475283340189	h	72
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113754	1475283340349	1475283340445	BKSP	8
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113755	1475283340453	1475283340572	g	71
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113756	1475283340534	1475283340637	h	72
+242465	2592771	The conditions were pretty tough.	The conditions were pretty tough.	123113757	1475283340997	1475283341052	SHIFT	16
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113810	1475283344310	1475283344395	i	73
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113813	1475283344407	1475283344540	s	83
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113816	1475283344518	1475283344613	 	32
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113819	1475283344646	1475283344767	t	84
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113866	1475283344670	1475283344804	h	72
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113868	1475283344766	1475283344861	i	73
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113870	1475283345229	1475283345293	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113871	1475283345382	1475283345469	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113872	1475283345542	1475283345645	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113873	1475283345677	1475283345781	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113875	1475283345862	1475283345933	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113877	1475283346014	1475283346061	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113879	1475283346150	1475283346228	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113883	1475283346221	1475283346484	SHIFT	16
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113881	1475283346365	1475283346477	I	73
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113885	1475283346982	1475283347133	s	83
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113886	1475283347134	1475283347245	 	32
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113887	1475283347342	1475283347469	t	84
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113888	1475283347494	1475283347621	h	72
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113916	1475283347566	1475283347669	i	73
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113921	1475283347670	1475283347797	s	83
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113925	1475283347814	1475283347941	 	32
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113927	1475283348830	1475283348973	c	67
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113929	1475283349054	1475283349285	a	65
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113968	1475283349190	1475283349437	s	83
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113970	1475283349710	1475283349821	t	84
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113972	1475283349990	1475283350085	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113974	1475283350150	1475283350285	h	72
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113976	1475283350262	1475283350406	 	32
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113977	1475283350446	1475283350597	c	67
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113993	1475283350518	1475283350669	o	79
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113994	1475283351086	1475283351221	m	77
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113995	1475283351294	1475283351428	i	73
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113996	1475283351366	1475283351462	n	78
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123113997	1475283351479	1475283351597	g	71
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114010	1475283351582	1475283351693	 	32
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114011	1475283352302	1475283352445	i	73
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114012	1475283352382	1475283352525	n	78
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114013	1475283352566	1475283352700	t	84
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114014	1475283352686	1475283352789	o	79
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114015	1475283352944	1475283353053	 	32
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114093	1475283353141	1475283354461	SHIFT	16
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114081	1475283353246	1475283353389	W	87
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114084	1475283353558	1475283353684	BKSP	8
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114088	1475283353638	1475283353741	T	84
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114091	1475283354181	1475283354317	W	87
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114097	1475283354925	1475283355366	SHIFT	16
+242465	2592776	Is this cash coming into TW?	Is this cash coming into TW?	123114095	1475283355206	1475283355293	?	191
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114287	1475283365768	1475283365994	SHIFT	16
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114288	1475283365914	1475283365994	I	73
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114289	1475283366114	1475283366169	l	76
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114290	1475283366458	1475283366538	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114291	1475283366602	1475283366698	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114310	1475283367050	1475283368754	SHIFT	16
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114292	1475283367234	1475283367297	U	85
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114293	1475283367769	1475283367874	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114294	1475283367986	1475283368050	I	73
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114295	1475283368475	1475283368538	L	76
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114308	1475283368610	1475283368690	L	76
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114312	1475283368955	1475283369082	 	32
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114314	1475283369298	1475283369386	k	75
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114316	1475283369425	1475283369498	e	69
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114317	1475283369586	1475283369681	e	69
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114329	1475283369634	1475283369785	p	80
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114330	1475283369753	1475283369858	 	32
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114331	1475283369890	1475283370073	i	73
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114332	1475283369995	1475283370129	n	78
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114333	1475283370059	1475283370178	 	32
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114334	1475283370212	1475283370378	i	73
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114383	1475283370307	1475283370434	n	78
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114384	1475283370393	1475283370538	 	32
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114385	1475283370594	1475283370674	h	72
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114386	1475283370994	1475283371090	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114387	1475283371682	1475283371770	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114388	1475283371842	1475283371914	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114389	1475283372002	1475283372074	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114390	1475283372154	1475283372210	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114391	1475283372282	1475283372424	BKSP	8
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114392	1475283372433	1475283372570	t	84
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114393	1475283372763	1475283372913	 	32
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114394	1475283372939	1475283373147	i	73
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114400	1475283373019	1475283373162	n	78
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114401	1475283373091	1475283373234	 	32
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114402	1475283373467	1475283373562	m	77
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114403	1475283373586	1475283373690	i	73
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114404	1475283373763	1475283373834	l	76
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114405	1475283373891	1475283374041	e	69
+242465	2592787	I'll keep it in miles.	ILL keep it in miles.	123114418	1475283374019	1475283374170	s	83
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114461	1475283377594	1475283377762	SHIFT	16
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114462	1475283377715	1475283377777	P	80
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114463	1475283377851	1475283378066	a	65
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114465	1475283378003	1475283378140	r	82
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114467	1475283378139	1475283378242	k	75
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114470	1475283378547	1475283378689	i	73
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114477	1475283378643	1475283378729	n	78
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114479	1475283378723	1475283378849	g	71
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114481	1475283378835	1475283378938	 	32
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114483	1475283378946	1475283379121	a	65
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114485	1475283379075	1475283379186	t	84
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114493	1475283379139	1475283379250	 	32
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114494	1475283379258	1475283379377	t	84
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114495	1475283379331	1475283379433	h	72
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114496	1475283379426	1475283379530	e	69
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114497	1475283379531	1475283379634	 	32
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114498	1475283379667	1475283379778	w	87
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114499	1475283379786	1475283379946	a	65
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114500	1475283379883	1475283379962	l	76
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114501	1475283380035	1475283380170	k	75
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114503	1475283380131	1475283380242	 	32
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114505	1475283380267	1475283380417	s	83
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114516	1475283380379	1475283380458	i	73
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114517	1475283380507	1475283380625	t	84
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114518	1475283380603	1475283380714	e	69
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114519	1475283380763	1475283380873	 	32
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114520	1475283380867	1475283380969	w	87
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114524	1475283380947	1475283381018	i	73
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114526	1475283381107	1475283381178	l	76
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114528	1475283381235	1475283381345	l	76
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114530	1475283381307	1475283381377	 	32
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114531	1475283381434	1475283381506	b	66
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114532	1475283381563	1475283381625	e	69
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114548	1475283381602	1475283381706	 	32
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114549	1475283381907	1475283382027	f	70
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114550	1475283382139	1475283382273	r	82
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114551	1475283382235	1475283382322	e	69
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114552	1475283382418	1475283382530	e	69
+242465	2592792	Parking at the walk site will be free.	Parking at the walk site will be free,	123114553	1475283382595	1475283382642	,	188
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114598	1475283386499	1475283386794	SHIFT	16
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114599	1475283386715	1475283386801	H	72
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114600	1475283387195	1475283387339	e	69
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114601	1475283387340	1475283387433	 	32
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114602	1475283387667	1475283387779	d	68
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114603	1475283387780	1475283387851	i	73
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114604	1475283387859	1475283387977	d	68
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114605	1475283387939	1475283388034	 	32
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114606	1475283388027	1475283388115	n	78
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114607	1475283388155	1475283388273	o	79
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114623	1475283388243	1475283388387	 	32
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114625	1475283388467	1475283388562	s	83
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114626	1475283388587	1475283388770	a	65
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114627	1475283388707	1475283388802	y	89
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114628	1475283388875	1475283388995	 	32
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114629	1475283389011	1475283389130	w	87
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114634	1475283389107	1475283389187	h	72
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114637	1475283389347	1475283389482	e	69
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114639	1475283389451	1475283389579	n	78
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114643	1475283389531	1475283389651	 	32
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114645	1475283389707	1475283389817	t	84
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114652	1475283389795	1475283389881	h	72
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114653	1475283389876	1475283390026	a	65
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114654	1475283389971	1475283390090	t	84
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114655	1475283390044	1475283390147	 	32
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114656	1475283390171	1475283390281	w	87
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114662	1475283390236	1475283390314	o	79
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114663	1475283390379	1475283390467	u	85
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114664	1475283390539	1475283390611	l	76
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114665	1475283390658	1475283390771	d	68
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114666	1475283390700	1475283390794	 	32
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114667	1475283390851	1475283390931	b	66
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114668	1475283390939	1475283391051	e	69
+242465	2592795	He did not say when that would be.	He did no say when that would be.	123114669	1475283391076	1475283391179	.	190
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114701	1475283393251	1475283393451	SHIFT	16
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114702	1475283393388	1475283393483	I	73
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114703	1475283393731	1475283393835	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114704	1475283394188	1475283394290	w	87
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114705	1475283394268	1475283394331	o	79
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114706	1475283394411	1475283394466	u	85
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114720	1475283394564	1475283394643	l	76
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114723	1475283394676	1475283394803	d	68
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114726	1475283394748	1475283394851	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114729	1475283395020	1475283395107	l	76
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114731	1475283395187	1475283395267	i	73
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114748	1475283395340	1475283395386	k	75
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114749	1475283395435	1475283395538	e	69
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114751	1475283395508	1475283395595	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114753	1475283395652	1475283395778	t	84
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114772	1475283395699	1475283395827	o	79
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114773	1475283395756	1475283395851	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114774	1475283395916	1475283395995	b	66
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114777	1475283396043	1475283396146	e	69
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114780	1475283396108	1475283396211	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114784	1475283396203	1475283396379	o	79
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114750	1475283396308	1475283396418	n	78
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114752	1475283396381	1475283396483	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114755	1475283396491	1475283396627	t	84
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114757	1475283396556	1475283396651	h	72
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114759	1475283396676	1475283396787	e	69
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114776	1475283396740	1475283396846	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114779	1475283396844	1475283396923	l	76
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114781	1475283397020	1475283397098	i	73
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114786	1475283397092	1475283397251	s	83
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114789	1475283397188	1475283397315	t	84
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114790	1475283397316	1475283397427	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114791	1475283397596	1475283397702	i	73
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114793	1475283397700	1475283397827	f	70
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114795	1475283397820	1475283397931	 	32
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114798	1475283397988	1475283398067	p	80
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114800	1475283398148	1475283398219	o	79
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114802	1475283398252	1475283398307	s	83
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114803	1475283398396	1475283398483	s	83
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114804	1475283398444	1475283398563	i	73
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114805	1475283398596	1475283398667	b	66
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114806	1475283398748	1475283398827	l	76
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114816	1475283398860	1475283398963	e	69
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114818	1475283399036	1475283399123	/	191
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114819	1475283399563	1475283399643	BKSP	8
+242465	2592797	I would like to be on the list if possible.	I would like to be on the list if possible.	123114820	1475283399724	1475283399819	.	190
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114860	1475283401827	1475283402764	SHIFT	16
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114859	1475283402236	1475283402267	J	74
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114861	1475283402900	1475283403003	o	79
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114862	1475283403132	1475283403211	h	72
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114863	1475283403324	1475283403426	n	78
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114865	1475283404052	1475283404195	,	188
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114876	1475283404556	1475283404675	 	32
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114878	1475283404908	1475283404978	p	80
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114880	1475283405068	1475283405147	l	76
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114882	1475283405155	1475283405298	e	69
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114897	1475283405268	1475283405443	a	65
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114900	1475283405372	1475283405635	s	83
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114903	1475283405524	1475283405675	r	82
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114905	1475283406108	1475283406195	BKSP	8
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114906	1475283406220	1475283406347	e	69
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114907	1475283406364	1475283406483	 	32
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114908	1475283406596	1475283406723	s	83
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114915	1475283406676	1475283406795	e	69
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114916	1475283406820	1475283406907	n	78
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114917	1475283407172	1475283407331	d	68
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114918	1475283407436	1475283407539	 	32
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114919	1475283407596	1475283407715	t	84
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114926	1475283407644	1475283407778	h	72
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114927	1475283407731	1475283407834	i	73
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114929	1475283407820	1475283407949	s	83
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114931	1475283407924	1475283408035	 	32
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114933	1475283408092	1475283408219	t	84
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114959	1475283408172	1475283408331	o	79
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114960	1475283408260	1475283408371	 	32
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114961	1475283408972	1475283409091	s	83
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114962	1475283408996	1475283409307	SHIFT	16
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114964	1475283409499	1475283410035	SHIFT	16
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114963	1475283409612	1475283409731	BKSP	8
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114965	1475283409884	1475283410042	S	83
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114966	1475283410236	1475283410326	h	72
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114994	1475283410325	1475283410419	e	69
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114995	1475283410420	1475283410492	l	76
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114996	1475283410572	1475283410652	l	76
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114997	1475283411092	1475283411178	u	85
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114998	1475283411164	1475283411268	.	190
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123114999	1475283411669	1475283411739	BKSP	8
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123115000	1475283411812	1475283411907	BKSP	8
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123115001	1475283412508	1475283412620	y	89
+242465	2592801	John, please send this to Shelly.	John, please send this to Shelly.	123115022	1475283412612	1475283412724	.	190
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115065	1475283416588	1475283416763	SHIFT	16
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115067	1475283416715	1475283416804	P	80
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115069	1475283416917	1475283417036	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115071	1475283417117	1475283417171	a	65
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115073	1475283417453	1475283417556	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115075	1475283417661	1475283417756	o	79
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115076	1475283417837	1475283417932	p	80
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115112	1475283418013	1475283418108	l	76
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115113	1475283418189	1475283418308	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115114	1475283418308	1475283418419	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115115	1475283418701	1475283418875	s	83
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115090	1475283418837	1475283418948	t	84
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115091	1475283418965	1475283419084	u	85
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115092	1475283419117	1475283419276	c	67
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115093	1475283419229	1475283419380	k	75
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115094	1475283419436	1475283419564	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115095	1475283419797	1475283419970	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115123	1475283419885	1475283419987	n	78
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115124	1475283419932	1475283420060	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115125	1475283420077	1475283420164	t	84
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115126	1475283420588	1475283420708	r	82
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115127	1475283420741	1475283420900	a	65
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115128	1475283420981	1475283421068	f	70
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115130	1475283421165	1475283421236	f	70
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115116	1475283421261	1475283421348	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115118	1475283421373	1475283421491	c	67
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115120	1475283421477	1475283421588	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115122	1475283421693	1475283421875	o	79
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115139	1475283421789	1475283421909	n	78
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115140	1475283421861	1475283421996	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115141	1475283422045	1475283422164	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115142	1475283422309	1475283422404	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115143	1475283422437	1475283422532	t	84
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115144	1475283422548	1475283422631	h	72
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115145	1475283422629	1475283422747	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115147	1475283422709	1475283422837	r	82
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115149	1475283422829	1475283422948	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115152	1475283422973	1475283423091	s	83
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115154	1475283423061	1475283423156	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115155	1475283423205	1475283423308	d	68
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115169	1475283423477	1475283423620	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115171	1475283423677	1475283423796	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115173	1475283423844	1475283423924	o	79
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115175	1475283423957	1475283424075	f	70
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115195	1475283424053	1475283424148	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115196	1475283424221	1475283424324	u	85
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115197	1475283424357	1475283424476	s	83
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115198	1475283424484	1475283424571	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115199	1475283424709	1475283424804	j	74
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115200	1475283424893	1475283424988	o	79
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115224	1475283425085	1475283425260	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115225	1475283425349	1475283425404	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115226	1475283425573	1475283425676	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115227	1475283427189	1475283427292	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115228	1475283427237	1475283427367	n	78
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115253	1475283427365	1475283427411	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115255	1475283427565	1475283427684	d	68
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115257	1475283427749	1475283427788	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115259	1475283427885	1475283427948	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115260	1475283428029	1475283428092	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115261	1475283428477	1475283428596	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115262	1475283428821	1475283428900	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115263	1475283428989	1475283429140	d	68
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115264	1475283429173	1475283429316	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115265	1475283429477	1475283429541	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115266	1475283429629	1475283429692	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115267	1475283429765	1475283429844	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115268	1475283430005	1475283430115	n	78
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115274	1475283430197	1475283430268	e	69
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115277	1475283430357	1475283430508	d	68
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115280	1475283430516	1475283430628	 	32
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115281	1475283431046	1475283431100	o	79
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115282	1475283431132	1475283431163	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115318	1475283431477	1475283431548	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115320	1475283431629	1475283431740	BKSP	8
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115322	1475283432156	1475283432300	i	73
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115324	1475283432237	1475283432365	n	78
+242465	2592805	People stuck in traffic on either side of us joined in.	People stuck in traffic on either side of us joined in.	123115326	1475283432453	1475283432565	.	190
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115389	1475283436173	1475283437037	SHIFT	16
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115391	1475283436902	1475283437037	M	77
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115393	1475283437222	1475283437365	a	65
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115395	1475283437558	1475283437677	n	78
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115398	1475283438310	1475283438485	s	83
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115402	1475283438565	1475283438668	e	69
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115408	1475283438661	1475283438725	l	76
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115410	1475283438806	1475283438901	l	76
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115412	1475283438998	1475283439124	 	32
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115415	1475283439238	1475283439397	w	87
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115419	1475283439334	1475283439468	e	69
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115428	1475283439454	1475283439542	n	78
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115429	1475283439581	1475283439684	t	84
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115430	1475283439670	1475283439780	 	32
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115431	1475283439765	1475283439925	o	79
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115432	1475283439846	1475283439957	n	78
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115433	1475283439909	1475283440028	 	32
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115434	1475283440013	1475283440156	t	84
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115435	1475283440150	1475283440348	o	79
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115436	1475283440269	1475283440389	 	32
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115437	1475283440494	1475283440620	f	70
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115459	1475283440606	1475283440685	i	73
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115460	1475283440726	1475283440853	r	82
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115461	1475283440798	1475283440965	e	69
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115462	1475283441126	1475283441221	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115463	1475283441285	1475283441396	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115464	1475283441366	1475283441493	v	86
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115465	1475283441862	1475283441957	e	69
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115466	1475283442102	1475283442221	 	32
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115485	1475283442349	1475283442525	SHIFT	16
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115486	1475283442502	1475283442621	I	73
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115487	1475283442718	1475283442829	n	78
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115489	1475283442927	1475283443078	d	68
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115491	1475283443198	1475283443293	y	89
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115493	1475283444318	1475283444405	=	187
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115519	1475283444806	1475283444901	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115521	1475283444918	1475283445061	-	189
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115523	1475283445846	1475283445981	c	67
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115525	1475283446030	1475283446229	a	65
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115527	1475283446158	1475283446293	r	82
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115529	1475283446878	1475283446981	 	32
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115565	1475283447182	1475283447285	t	84
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115566	1475283447374	1475283447420	i	73
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115567	1475283447478	1475283447614	i	73
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115568	1475283447829	1475283447893	u	85
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115570	1475283448270	1475283448365	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115572	1475283448614	1475283448740	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115574	1475283448926	1475283449045	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115576	1475283449053	1475283449168	r	82
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115601	1475283449166	1475283449261	i	73
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115602	1475283449710	1475283449853	m	77
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115603	1475283450237	1475283450349	p	80
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115604	1475283450429	1475283450509	h	72
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115605	1475283450910	1475283451037	s	83
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115606	1475283451318	1475283451469	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115607	1475283451558	1475283451685	s	83
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115673	1475283451886	1475283451997	.	190
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115675	1475283452919	1475283452997	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115677	1475283453094	1475283453237	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115679	1475283454150	1475283454253	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115681	1475283454390	1475283454525	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115683	1475283454822	1475283454925	BKSP	8
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115685	1475283455327	1475283455422	u	85
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115687	1475283455518	1475283455653	m	77
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115689	1475283455710	1475283455822	p	80
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115690	1475283456054	1475283456173	h	72
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115703	1475283456486	1475283456630	s	83
+242465	2592812	Mansell went on to five Indy-car triumphs.	Mansell went on to five Indy-car triumphs.	123115704	1475283456679	1475283456829	.	190
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115772	1475283459389	1475283459565	SHIFT	16
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115774	1475283459526	1475283459646	M	77
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115776	1475283459694	1475283459806	e	69
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115777	1475283459975	1475283460086	g	71
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115779	1475283460270	1475283460421	a	65
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115810	1475283460382	1475283460478	n	78
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115811	1475283460815	1475283460934	,	188
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115813	1475283461151	1475283461278	 	32
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115814	1475283461479	1475283461598	t	84
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115816	1475283461767	1475283461902	r	82
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115819	1475283461918	1475283461990	y	89
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115844	1475283462111	1475283462222	 	32
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115846	1475283462295	1475283462437	a	65
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115849	1475283462574	1475283462678	BKSP	8
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115853	1475283462719	1475283462838	t	84
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115855	1475283462775	1475283462918	h	72
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115860	1475283462863	1475283462966	i	73
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115862	1475283462974	1475283463062	s	83
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115864	1475283463063	1475283463166	 	32
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115866	1475283463222	1475283463326	f	70
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115868	1475283463319	1475283463390	o	79
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115869	1475283463429	1475283463558	r	82
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115878	1475283463534	1475283463638	 	32
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115880	1475283463622	1475283463806	SHIFT	16
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115883	1475283463726	1475283463830	P	80
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115887	1475283463934	1475283464022	h	72
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115889	1475283464095	1475283464182	i	73
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115891	1475283464287	1475283464333	l	76
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115892	1475283464407	1475283464494	l	76
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115899	1475283464567	1475283464646	i	73
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115901	1475283464735	1475283464822	p	80
+242465	2592820	Megan, try this for Phillips.	Megan, try this for Phillips	123115903	1475283464935	1475283465070	s	83
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115963	1475283467311	1475283467742	SHIFT	16
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115964	1475283467631	1475283467757	T	84
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115965	1475283467815	1475283467853	h	72
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115967	1475283468263	1475283468382	e	69
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115969	1475283468638	1475283468718	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115970	1475283468879	1475283468989	n	78
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115978	1475283468983	1475283469118	e	69
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115980	1475283469047	1475283469214	w	87
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115981	1475283469351	1475283469446	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115983	1475283469638	1475283469830	SHIFT	16
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115984	1475283469743	1475283469870	R	82
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115986	1475283469951	1475283470094	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123115987	1475283470119	1475283470310	f	70
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116006	1475283470831	1475283470926	BKSP	8
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116007	1475283471183	1475283471270	BKSP	8
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116008	1475283471351	1475283471462	BKSP	8
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116009	1475283472223	1475283472326	r	82
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116010	1475283472374	1475283472534	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116011	1475283472631	1475283472766	d	68
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116012	1475283472775	1475283472846	i	73
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116013	1475283472919	1475283473022	o	79
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116019	1475283473462	1475283473582	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116021	1475283473695	1475283473790	m	77
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116023	1475283473807	1475283473966	i	73
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116025	1475283473911	1475283474022	n	78
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116027	1475283474030	1475283474142	i	73
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116037	1475283474231	1475283474390	s	83
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116038	1475283474383	1475283474479	t	84
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116040	1475283474559	1475283474678	e	69
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116042	1475283474607	1475283474743	r	82
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116044	1475283474775	1475283474918	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116052	1475283474911	1475283475038	w	87
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116053	1475283475046	1475283475223	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116054	1475283475143	1475283475294	s	83
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116055	1475283475311	1475283475421	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116056	1475283475519	1475283475638	h	72
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116071	1475283475599	1475283475713	e	69
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116072	1475283475711	1475283475886	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116073	1475283475831	1475283475981	d	68
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116074	1475283475966	1475283476079	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116075	1475283476095	1475283476190	o	79
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116076	1475283476207	1475283476310	f	70
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116065	1475283476271	1475283476383	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116066	1475283476431	1475283476550	t	84
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116067	1475283476503	1475283476605	h	72
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116068	1475283476591	1475283476727	e	69
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116069	1475283476719	1475283476831	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116070	1475283476943	1475283477039	p	80
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116083	1475283477199	1475283477286	r	82
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116084	1475283477280	1475283477365	o	79
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116085	1475283477447	1475283477527	p	80
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116086	1475283477615	1475283477726	o	79
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116088	1475283478399	1475283478479	g	71
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116170	1475283478959	1475283479046	BKSP	8
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116171	1475283479455	1475283479526	BKSP	8
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116172	1475283479575	1475283479703	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116173	1475283479840	1475283479943	g	71
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116174	1475283480024	1475283480142	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116175	1475283480136	1475283480231	n	78
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116176	1475283480304	1475283480399	d	68
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116117	1475283480752	1475283480895	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116118	1475283480920	1475283481039	 	32
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116119	1475283481303	1475283481367	SHIFT	16
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116120	1475283481591	1475283481671	d	68
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116121	1475283481759	1475283481919	e	69
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116122	1475283482160	1475283482263	p	80
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116130	1475283482296	1475283482447	a	65
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116132	1475283482376	1475283482487	r	82
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116136	1475283482608	1475283482759	t	84
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116138	1475283482824	1475283482903	m	77
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116140	1475283482927	1475283483047	e	69
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116142	1475283482991	1475283483095	n	78
+242465	2592823	The new radio minister was head of the propaganda department.	The new radio minister was head of the propaganda department	123116143	1475283483111	1475283483263	t	84
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116165	1475283486191	1475283486358	SHIFT	16
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116166	1475283486328	1475283486407	L	76
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116167	1475283486520	1475283486639	i	73
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116168	1475283486864	1475283486983	v	86
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116169	1475283487048	1475283487215	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116177	1475283487136	1475283487303	r	82
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116178	1475283488088	1475283488207	p	80
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116179	1475283488336	1475283488383	o	79
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116180	1475283488472	1475283488567	o	79
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116182	1475283488648	1475283488711	l	76
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116184	1475283488976	1475283489095	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116194	1475283489320	1475283489463	f	70
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116195	1475283489488	1475283489655	a	65
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116196	1475283489584	1475283489711	i	73
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116198	1475283489719	1475283489826	l	76
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116202	1475283489824	1475283489911	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116203	1475283489992	1475283490134	d	68
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116204	1475283490104	1475283490207	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116205	1475283490215	1475283490383	a	65
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116206	1475283490455	1475283490527	g	71
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116207	1475283490648	1475283490783	a	65
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116208	1475283490736	1475283490895	i	73
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116209	1475283490832	1475283490943	n	78
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116211	1475283490903	1475283491023	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116212	1475283491031	1475283491223	i	73
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116220	1475283491136	1475283491263	n	78
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116222	1475283491184	1475283491319	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116225	1475283491336	1475283491447	t	84
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116227	1475283491408	1475283491511	h	72
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116229	1475283491872	1475283491959	BKSP	8
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116231	1475283492048	1475283492119	BKSP	8
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116233	1475283492376	1475283492486	w	87
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116235	1475283492472	1475283492567	h	72
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116239	1475283492600	1475283492711	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116236	1475283492672	1475283492799	n	78
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116238	1475283492736	1475283492871	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116240	1475283492904	1475283493015	t	84
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116241	1475283493000	1475283493087	h	72
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116242	1475283493128	1475283493254	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116245	1475283493240	1475283493351	y	89
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116247	1475283493431	1475283493559	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116249	1475283493576	1475283493743	w	87
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116251	1475283493704	1475283493807	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116252	1475283493912	1475283493967	r	82
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116253	1475283494304	1475283494446	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116254	1475283494640	1475283494759	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116255	1475283494880	1475283494983	b	66
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116256	1475283494976	1475283495090	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116257	1475283495088	1475283495255	a	65
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116258	1475283495280	1475283495391	t	84
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116259	1475283495600	1475283495735	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116260	1475283495760	1475283495910	n	78
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116261	1475283495847	1475283495974	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116262	1475283496071	1475283496263	a	65
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116273	1475283496208	1475283496360	t	84
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116274	1475283496375	1475283496496	 	32
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116275	1475283496599	1475283496823	SHIFT	16
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116276	1475283496712	1475283496855	W	87
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116277	1475283497560	1475283497719	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116278	1475283497712	1475283497775	n	78
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116279	1475283498336	1475283498448	BKSP	8
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116280	1475283498520	1475283498648	b	66
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116289	1475283498784	1475283498839	l	76
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116290	1475283499352	1475283499471	e	69
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116291	1475283499465	1475283499568	y	89
+242465	2592827	Liverpool failed again in when they were beaten at Wembley.	Liverpool failed again in when they were beaten at Webley.	123116292	1475283499889	1475283500000	.	190
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116312	1475283503040	1475283503422	SHIFT	16
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116313	1475283503265	1475283503423	A	65
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116314	1475283503497	1475283503600	n	78
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116315	1475283503641	1475283503784	d	68
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116316	1475283503776	1475283503880	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116317	1475283503976	1475283504112	i	73
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116323	1475283504081	1475283504200	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116324	1475283504431	1475283504496	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116325	1475283504593	1475283504664	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116327	1475283504720	1475283504976	SHIFT	16
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116326	1475283504849	1475283504936	I	73
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116328	1475283505113	1475283505264	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116329	1475283505449	1475283505571	c	67
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116330	1475283505569	1475283505736	a	65
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116342	1475283505697	1475283505808	n	78
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116343	1475283506489	1475283506600	'	222
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116344	1475283506905	1475283507040	t	84
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116345	1475283507529	1475283507632	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116347	1475283507688	1475283507975	SHIFT	16
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116346	1475283507833	1475283507968	T	84
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116349	1475283508449	1475283508552	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116351	1475283508689	1475283508832	t	84
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116360	1475283508840	1475283508928	u	85
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116361	1475283509401	1475283509519	r	82
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116362	1475283509513	1475283509647	n	78
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116363	1475283509617	1475283509743	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116365	1475283509721	1475283509928	o	79
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116367	1475283509825	1475283509960	n	78
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116369	1475283509881	1475283510032	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116371	1475283510096	1475283510208	m	77
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116373	1475283510209	1475283510320	y	89
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116384	1475283510313	1475283510440	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116385	1475283510929	1475283511000	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116386	1475283511089	1475283511168	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116387	1475283511249	1475283511328	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116388	1475283511393	1475283511472	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116389	1475283511545	1475283511608	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116390	1475283511673	1475283511792	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116391	1475283511849	1475283511951	m	77
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116392	1475283511945	1475283512048	y	89
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116393	1475283512241	1475283512384	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116394	1475283512529	1475283512648	p	80
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116395	1475283512713	1475283512792	h	72
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116401	1475283512857	1475283512984	o	79
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116402	1475283512929	1475283513040	n	78
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116403	1475283513185	1475283513288	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116404	1475283513571	1475283513632	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116405	1475283513713	1475283513792	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116406	1475283513800	1475283513920	e	69
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116411	1475283513913	1475283514024	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116412	1475283514289	1475283514352	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116413	1475283514432	1475283514512	BKSP	8
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116414	1475283514617	1475283514712	n	78
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116415	1475283514729	1475283514840	e	69
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116416	1475283514817	1475283514944	 	32
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116417	1475283514961	1475283515112	o	79
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116408	1475283515025	1475283515184	n	78
+242465	2592833	And I can't turn my phone on.	And I can't turn my phone on.	123116410	1475283515289	1475283515416	.	190

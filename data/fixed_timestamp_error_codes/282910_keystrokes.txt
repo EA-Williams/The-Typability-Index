@@ -1,0 +1,790 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215622	1475842850280	1475842850470	SHIFT	16
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215627	1475842850373	1475842850640	NA	73
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215624	1475842850424	1475842850489	NA	75
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215630	1475842850575	1475842850778	NA	32
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215632	1475842850818	1475842851026	NA	83
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215634	1475842851280	1475842851391		8
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215667	1475842851468	1475842851576		8
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215669	1475842851645	1475842851770		8
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215671	1475842852196	1475842852388	NA	32
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215673	1475842852443	1475842852563	NA	76
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215723	1475842852515	1475842852732	NA	83
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215724	1475842853060	1475842853174		8
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215725	1475842853232	1475842853388		8
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215726	1475842853393	1475842853581	NA	83
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215727	1475842853837	1475842853972	NA	80
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215728	1475842854095	1475842854204	NA	79
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215763	1475842854474	1475842854611	NA	75
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215765	1475842854668	1475842854845	NA	69
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215766	1475842854849	1475842855028	NA	32
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215768	1475842855301	1475842855478	NA	87
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215770	1475842855529	1475842855689	NA	73
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215801	1475842855859	1475842855996	NA	84
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215802	1475842856159	1475842856181	NA	72
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215803	1475842856623	1475842856701		8
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215805	1475842856769	1475842856876		8
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215878	1475842857212	1475842857346	NA	72
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215879	1475842857423	1475842857638	NA	32
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215880	1475842857781	1475842857977	SHIFT	16
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215881	1475842857917	1475842858091	NA	71
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215883	1475842858212	1475842858366	NA	82
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215885	1475842858669	1475842858811	NA	69
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215908	1475842858971	1475842859091	NA	71
+282910	3036197	I spoke with Greg.	I spoke with Greg.	144215910	1475842859289	1475842859421	NA	190
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216045	1475842862327	1475842862629	SHIFT	16
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216051	1475842862536	1475842862668	NA	79
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216058	1475842862905	1475842863104	NA	75
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216063	1475842863532	1475842863677		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216065	1475842863792	1475842864027	SHIFT	16
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216068	1475842863976	1475842864184	NA	75
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216071	1475842864376	1475842864597	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216148	1475842864755	1475842864849	NA	73
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216151	1475842865570	1475842865701		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216153	1475842865866	1475842866084	SHIFT	16
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216158	1475842866033	1475842866238	NA	73
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216161	1475842866450	1475842866555	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216166	1475842866742	1475842866913	NA	84
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216198	1475842866931	1475842867054	NA	72
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216200	1475842867186	1475842867326	NA	79
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216202	1475842867504	1475842867625	NA	85
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216205	1475842867765	1475842867927	NA	71
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216209	1475842867978	1475842868116	NA	72
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216259	1475842868316	1475842868487	NA	84
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216262	1475842868746	1475842868958	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216266	1475842869043	1475842869188	NA	73
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216264	1475842869093	1475842869141	NA	75
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216268	1475842869273	1475842869440	NA	84
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216286	1475842869395	1475842869505	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216288	1475842869841	1475842869925		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216290	1475842870004	1475842870110		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216294	1475842870187	1475842870273		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216338	1475842870596	1475842870749	NA	84
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216340	1475842871207	1475842871333		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216343	1475842871473	1475842871666	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216348	1475842871740	1475842871878	NA	87
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216352	1475842871974	1475842872117	NA	65
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216356	1475842872177	1475842872360	NA	83
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216378	1475842872370	1475842872540	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216381	1475842872601	1475842872670	NA	79
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216384	1475842872879	1475842873002	NA	73
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216387	1475842873350	1475842873442		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216390	1475842873513	1475842873627		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216439	1475842873784	1475842873924	NA	73
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216441	1475842873964	1475842874129	NA	78
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216445	1475842874181	1475842874388	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216447	1475842874663	1475842874842	SHIFT	16
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216448	1475842874817	1475842875022	NA	87
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216451	1475842875121	1475842875323	NA	65
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216482	1475842875593	1475842875793	NA	83
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216483	1475842875850	1475842875975	NA	72
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216484	1475842876074	1475842876217	NA	73
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216485	1475842876266	1475842876397	NA	78
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216486	1475842876540	1475842876729	NA	71
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216564	1475842876828	1475842876957	NA	89
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216566	1475842877625	1475842877773		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216567	1475842877850	1475842877998	NA	89
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216568	1475842878649	1475842878809		8
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216569	1475842878896	1475842879072	NA	84
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216605	1475842879063	1475842879186	NA	79
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216609	1475842879246	1475842879397	NA	78
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216612	1475842879559	1475842879778	NA	32
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216616	1475842879810	1475842880071	NA	83
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216617	1475842880482	1475842880600	NA	84
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216618	1475842880638	1475842880848	NA	65
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216638	1475842880939	1475842881019	NA	84
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216639	1475842881143	1475842881313	NA	69
+282910	3036205	OK I thought it was in Washington state.	OK I thought it was in Washington state.	144216640	1475842881578	1475842881715	NA	190
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216729	1475842884726	1475842884920	SHIFT	16
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216730	1475842884818	1475842884959	NA	77
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216732	1475842885074	1475842885282	NA	65
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216734	1475842885445	1475842885551	NA	82
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216738	1475842886205	1475842886367		8
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216769	1475842886731	1475842887010	NA	75
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216771	1475842887031	1475842887173	NA	188
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216773	1475842887250	1475842887437	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216775	1475842887763	1475842887956	SHIFT	16
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216781	1475842887893	1475842888119	NA	83
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216785	1475842888411	1475842888512	NA	85
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216821	1475842888732	1475842889068	NA	83
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216822	1475842888976	1475842889231	NA	65
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216823	1475842889137	1475842889279	NA	78
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216824	1475842889375	1475842889562	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216825	1475842889860	1475842890179	NA	83
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216846	1475842890076	1475842890271	NA	65
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216850	1475842890262	1475842890419	NA	73
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216853	1475842890481	1475842890742	NA	68
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216855	1475842890663	1475842890873	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216856	1475842890895	1475842891055	NA	84
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216885	1475842891042	1475842891179	NA	79
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216886	1475842891214	1475842891432	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216887	1475842891550	1475842891673	NA	71
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216888	1475842891785	1475842891911	NA	79
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216889	1475842892292	1475842892487	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216935	1475842892470	1475842892687	NA	65
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216937	1475842893120	1475842893237	NA	72
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216939	1475842893336	1475842893530	NA	65
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216941	1475842893595	1475842893763	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216942	1475842894088	1475842894197		8
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216943	1475842894227	1475842894414		8
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216971	1475842894447	1475842894586	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216973	1475842894649	1475842894815	NA	65
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216974	1475842894855	1475842895042	NA	68
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216975	1475842895102	1475842895281	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144216976	1475842895341	1475842895555	NA	65
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217026	1475842895493	1475842895613	NA	78
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217030	1475842895729	1475842895946	NA	68
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217035	1475842895927	1475842896136	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217038	1475842896445	1475842896572	NA	87
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217041	1475842896770	1475842896919	NA	88
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217044	1475842897305	1475842897394		8
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217091	1475842897463	1475842897628		8
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217092	1475842897710	1475842897863	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217093	1475842898183	1475842898335	NA	88
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217094	1475842898486	1475842898609	NA	80
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217095	1475842898713	1475842898920	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217132	1475842898894	1475842899026	NA	78
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217137	1475842899208	1475842899356	NA	83
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217142	1475842899491	1475842899617	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217145	1475842899701	1475842899875	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217148	1475842899918	1475842900083	NA	84
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217195	1475842900021	1475842900108	NA	72
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217199	1475842900304	1475842900516	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217202	1475842900584	1475842900788	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217207	1475842900915	1475842901082	NA	67
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217212	1475842901189	1475842901340	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217218	1475842901688	1475842901780	NA	76
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217239	1475842901845	1475842901971	NA	76
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217244	1475842901990	1475842902185	NA	32
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217248	1475842902231	1475842902366	NA	80
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217254	1475842902492	1475842902564	NA	72
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217258	1475842902948	1475842903082	NA	79
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217309	1475842903103	1475842903226	NA	78
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217311	1475842903574	1475842903632	NA	69
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217313	1475842903966	1475842904137	NA	88
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217314	1475842904557	1475842904710		8
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217351	1475842904701	1475842904887	NA	83
+282910	3036217	Mark, Susan said to go ahead and expense the cell phones.	Mark, Susan said to go ahead and expense the cell phones./	144217354	1475842906001	1475842906098	NA	190
+282910	3036230	I am freaking out!	I am freaking out!	144217453	1475842909308	1475842909521	SHIFT	16
+282910	3036230	I am freaking out!	I am freaking out!	144217455	1475842909428	1475842909641	NA	73
+282910	3036230	I am freaking out!	I am freaking out!	144217456	1475842909610	1475842909829	NA	32
+282910	3036230	I am freaking out!	I am freaking out!	144217457	1475842909800	1475842910028	NA	65
+282910	3036230	I am freaking out!	I am freaking out!	144217458	1475842909957	1475842910086	NA	77
+282910	3036230	I am freaking out!	I am freaking out!	144217459	1475842910166	1475842910387	NA	32
+282910	3036230	I am freaking out!	I am freaking out!	144217494	1475842910427	1475842910634	NA	70
+282910	3036230	I am freaking out!	I am freaking out!	144217495	1475842910736	1475842910881	NA	82
+282910	3036230	I am freaking out!	I am freaking out!	144217496	1475842910905	1475842911047	NA	69
+282910	3036230	I am freaking out!	I am freaking out!	144217499	1475842911116	1475842911318	NA	83
+282910	3036230	I am freaking out!	I am freaking out!	144217502	1475842911389	1475842911534	NA	75
+282910	3036230	I am freaking out!	I am freaking out!	144217552	1475842911904	1475842911996		8
+282910	3036230	I am freaking out!	I am freaking out!	144217557	1475842912059	1475842912229		8
+282910	3036230	I am freaking out!	I am freaking out!	144217562	1475842912411	1475842912649	NA	65
+282910	3036230	I am freaking out!	I am freaking out!	144217569	1475842912632	1475842912820	NA	75
+282910	3036230	I am freaking out!	I am freaking out!	144217573	1475842912929	1475842913061	NA	73
+282910	3036230	I am freaking out!	I am freaking out!	144217590	1475842913104	1475842913219	NA	78
+282910	3036230	I am freaking out!	I am freaking out!	144217591	1475842913364	1475842913523	NA	71
+282910	3036230	I am freaking out!	I am freaking out!	144217592	1475842913553	1475842913754	NA	32
+282910	3036230	I am freaking out!	I am freaking out!	144217593	1475842913795	1475842913921	NA	79
+282910	3036230	I am freaking out!	I am freaking out!	144217594	1475842914094	1475842914206	NA	85
+282910	3036230	I am freaking out!	I am freaking out!	144217686	1475842914354	1475842914536	NA	84
+282910	3036230	I am freaking out!	I am freaking out!	144217687	1475842916189	1475842916400	NA	49
+282910	3036230	I am freaking out!	I am freaking out!	144217689	1475842917043	1475842917202		8
+282910	3036230	I am freaking out!	I am freaking out!	144217692	1475842917932	1475842918168	SHIFT	16
+282910	3036230	I am freaking out!	I am freaking out!	144217695	1475842918079	1475842918269	NA	49
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217812	1475842924870	1475842925108	SHIFT	16
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217814	1475842925029	1475842925209	NA	76
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217815	1475842925302	1475842925486	NA	69
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217816	1475842925662	1475842925830	NA	84
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217817	1475842925851	1475842926027	NA	32
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217818	1475842926143	1475842926263	NA	77
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217836	1475842926290	1475842926471	NA	69
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217837	1475842926454	1475842926632	NA	32
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217838	1475842926624	1475842926802	NA	75
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217839	1475842926832	1475842926969	NA	78
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217840	1475842927106	1475842927313	NA	79
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217849	1475842927285	1475842927482	NA	87
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217852	1475842927467	1475842927710	NA	32
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217856	1475842927720	1475842927897	NA	87
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217860	1475842927888	1475842928150	NA	72
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217920	1475842928150	1475842928255	NA	69
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217922	1475842928824	1475842928966	NA	82
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217923	1475842928979	1475842929189	NA	32
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217925	1475842929343	1475842929469	NA	89
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217926	1475842929827	1475842929905		8
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217928	1475842929979	1475842930069		8
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217965	1475842930145	1475842930254		8
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217966	1475842930560	1475842930706	NA	69
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217967	1475842930710	1475842930897	NA	32
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217968	1475842930949	1475842931080	NA	89
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217969	1475842931193	1475842931341	NA	79
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217991	1475842931442	1475842931551	NA	85
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217992	1475842931644	1475842931781	NA	32
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217993	1475842931836	1475842931936	NA	77
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217994	1475842932029	1475842932172	NA	73
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144217995	1475842932359	1475842932532	NA	71
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218015	1475842932664	1475842932779	NA	72
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218016	1475842933143	1475842933291	NA	84
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218017	1475842933296	1475842933488	NA	32
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218046	1475842933629	1475842933754	NA	66
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218048	1475842933914	1475842934020	NA	69
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218050	1475842934338	1475842934424		8
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218052	1475842934487	1475842934641		8
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218054	1475842935010	1475842935217		8
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218090	1475842935194	1475842935357	NA	69
+282910	3036238	Let me know where you might be.	Let me know where you might be.	144218095	1475842936158	1475842936267	NA	190
+282910	3036246	Can you help with this one?	Can you help with this one?	144218302	1475842941263	1475842941498	SHIFT	16
+282910	3036246	Can you help with this one?	Can you help with this one?	144218303	1475842941453	1475842941635	NA	67
+282910	3036246	Can you help with this one?	Can you help with this one?	144218304	1475842941720	1475842941939	NA	65
+282910	3036246	Can you help with this one?	Can you help with this one?	144218305	1475842941891	1475842942051	NA	78
+282910	3036246	Can you help with this one?	Can you help with this one?	144218306	1475842942155	1475842942353	NA	32
+282910	3036246	Can you help with this one?	Can you help with this one?	144218352	1475842942430	1475842942553	NA	89
+282910	3036246	Can you help with this one?	Can you help with this one?	144218307	1475842942457	1475842942522	NA	73
+282910	3036246	Can you help with this one?	Can you help with this one?	144218353	1475842942707	1475842942843	NA	79
+282910	3036246	Can you help with this one?	Can you help with this one?	144218354	1475842943285	1475842943386		8
+282910	3036246	Can you help with this one?	Can you help with this one?	144218356	1475842943462	1475842943588		8
+282910	3036246	Can you help with this one?	Can you help with this one?	144218359	1475842943792	1475842943934	NA	79
+282910	3036246	Can you help with this one?	Can you help with this one?	144218362	1475842944066	1475842944192	NA	85
+282910	3036246	Can you help with this one?	Can you help with this one?	144218396	1475842944260	1475842944419	NA	32
+282910	3036246	Can you help with this one?	Can you help with this one?	144218397	1475842944629	1475842944732	NA	72
+282910	3036246	Can you help with this one?	Can you help with this one?	144218399	1475842945403	1475842945557	NA	69
+282910	3036246	Can you help with this one?	Can you help with this one?	144218401	1475842945583	1475842945709	NA	76
+282910	3036246	Can you help with this one?	Can you help with this one?	144218402	1475842945927	1475842946069	NA	80
+282910	3036246	Can you help with this one?	Can you help with this one?	144218417	1475842946099	1475842946362	NA	32
+282910	3036246	Can you help with this one?	Can you help with this one?	144218419	1475842946538	1475842946715	NA	87
+282910	3036246	Can you help with this one?	Can you help with this one?	144218420	1475842946783	1475842946923	NA	73
+282910	3036246	Can you help with this one?	Can you help with this one?	144218443	1475842947108	1475842947235	NA	84
+282910	3036246	Can you help with this one?	Can you help with this one?	144218444	1475842947216	1475842947336	NA	72
+282910	3036246	Can you help with this one?	Can you help with this one?	144218445	1475842947416	1475842947594	NA	32
+282910	3036246	Can you help with this one?	Can you help with this one?	144218446	1475842947823	1475842947904		8
+282910	3036246	Can you help with this one?	Can you help with this one?	144218447	1475842947978	1475842948072		8
+282910	3036246	Can you help with this one?	Can you help with this one?	144218448	1475842948135	1475842948275		8
+282910	3036246	Can you help with this one?	Can you help with this one?	144218464	1475842948808	1475842948917	NA	72
+282910	3036246	Can you help with this one?	Can you help with this one?	144218465	1475842948991	1475842949158	NA	32
+282910	3036246	Can you help with this one?	Can you help with this one?	144218466	1475842949326	1475842949480	NA	84
+282910	3036246	Can you help with this one?	Can you help with this one?	144218467	1475842949485	1475842949599	NA	72
+282910	3036246	Can you help with this one?	Can you help with this one?	144218469	1475842949753	1475842949887	NA	73
+282910	3036246	Can you help with this one?	Can you help with this one?	144218481	1475842949917	1475842950102	NA	83
+282910	3036246	Can you help with this one?	Can you help with this one?	144218482	1475842950043	1475842950233	NA	32
+282910	3036246	Can you help with this one?	Can you help with this one?	144218483	1475842950263	1475842950422	NA	79
+282910	3036246	Can you help with this one?	Can you help with this one?	144218484	1475842950463	1475842950589	NA	78
+282910	3036246	Can you help with this one?	Can you help with this one?	144218485	1475842950726	1475842950894	NA	69
+282910	3036246	Can you help with this one?	Can you help with this one?	144218526	1475842951197	1475842951427	SHIFT	16
+282910	3036246	Can you help with this one?	Can you help with this one?	144218527	1475842951311	1475842951562	NA	191
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218673	1475842957220	1475842957422	SHIFT	16
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218675	1475842957319	1475842957547	NA	73
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218677	1475842957485	1475842957718	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218679	1475842957875	1475842958017	NA	67
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218681	1475842958075	1475842958260	NA	65
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218682	1475842958287	1475842958382	NA	78
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218699	1475842958442	1475842958542	NA	78
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218700	1475842958624	1475842958786	NA	79
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218702	1475842958829	1475842959021	NA	84
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218704	1475842959019	1475842959178	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218708	1475842959321	1475842959511	NA	70
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218746	1475842959488	1475842959631	NA	73
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218748	1475842959727	1475842959892	NA	71
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218750	1475842960145	1475842960291	NA	85
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218752	1475842960395	1475842960490	NA	82
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218755	1475842960599	1475842960756	NA	69
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218757	1475842960788	1475842960981	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218767	1475842961019	1475842961155	NA	79
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218769	1475842961301	1475842961413	NA	85
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218773	1475842961860	1475842961952		8
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218777	1475842962014	1475842962146		8
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218813	1475842962408	1475842962533	NA	85
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218814	1475842962621	1475842962772	NA	84
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218815	1475842962763	1475842962989	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218816	1475842963118	1475842963290	NA	87
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218818	1475842963314	1475842963414	NA	72
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218845	1475842963538	1475842963683	NA	69
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218846	1475842963845	1475842963937	NA	82
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218847	1475842964006	1475842964190	NA	69
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218848	1475842964197	1475842964399	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218850	1475842964456	1475842964606	NA	84
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218891	1475842964581	1475842964699	NA	72
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218894	1475842964731	1475842964893	NA	69
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218897	1475842964961	1475842965116	NA	83
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218902	1475842965250	1475842965454	NA	69
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218908	1475842965442	1475842965634	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218911	1475842965740	1475842965857	NA	80
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218938	1475842965953	1475842966104	NA	82
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218940	1475842966119	1475842966309	NA	73
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218942	1475842966441	1475842966592	NA	67
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218944	1475842966691	1475842966811	NA	69
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218950	1475842966918	1475842967106	NA	83
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218984	1475842967047	1475842967243	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218985	1475842967259	1475842967484	NA	65
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218986	1475842967596	1475842967733	NA	82
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218987	1475842967793	1475842967969	NA	69
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218988	1475842968029	1475842968250	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144218989	1475842968255	1475842968428	NA	67
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219042	1475842968472	1475842968642	NA	79
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219046	1475842968813	1475842968939	NA	77
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219048	1475842969048	1475842969296	NA	73
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219051	1475842969296	1475842969359	NA	78
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219053	1475842969474	1475842969636	NA	71
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219091	1475842969619	1475842969837	NA	32
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219093	1475842969903	1475842970048	NA	70
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219097	1475842970130	1475842970264	NA	82
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219099	1475842970310	1475842970444	NA	79
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219102	1475842970518	1475842970649	NA	77
+282910	3036254	I cannot figure out where these prices are coming from.	I cannot figure out where these prices are coming from.	144219105	1475842970823	1475842970940	NA	190
+282910	3036265	Is she done yet?	Is she done yet?	144219206	1475842974706	1475842974931	SHIFT	16
+282910	3036265	Is she done yet?	Is she done yet?	144219207	1475842974817	1475842975051	NA	73
+282910	3036265	Is she done yet?	Is she done yet?	144219208	1475842975078	1475842975292	NA	83
+282910	3036265	Is she done yet?	Is she done yet?	144219209	1475842975226	1475842975448	NA	32
+282910	3036265	Is she done yet?	Is she done yet?	144219210	1475842975721	1475842975937	NA	83
+282910	3036265	Is she done yet?	Is she done yet?	144219211	1475842976075	1475842976203	NA	72
+282910	3036265	Is she done yet?	Is she done yet?	144219242	1475842976266	1475842976428	NA	69
+282910	3036265	Is she done yet?	Is she done yet?	144219244	1475842976452	1475842976656	NA	32
+282910	3036265	Is she done yet?	Is she done yet?	144219247	1475842976616	1475842976793	NA	68
+282910	3036265	Is she done yet?	Is she done yet?	144219250	1475842976806	1475842976934	NA	79
+282910	3036265	Is she done yet?	Is she done yet?	144219252	1475842976961	1475842977103	NA	78
+282910	3036265	Is she done yet?	Is she done yet?	144219281	1475842977199	1475842977381	NA	69
+282910	3036265	Is she done yet?	Is she done yet?	144219282	1475842977402	1475842977598	NA	32
+282910	3036265	Is she done yet?	Is she done yet?	144219284	1475842977780	1475842977951	SHIFT	16
+282910	3036265	Is she done yet?	Is she done yet?	144219283	1475842977826	1475842977940	NA	89
+282910	3036265	Is she done yet?	Is she done yet?	144219285	1475842978661	1475842978792		8
+282910	3036265	Is she done yet?	Is she done yet?	144219286	1475842979134	1475842979246	NA	89
+282910	3036265	Is she done yet?	Is she done yet?	144219301	1475842979286	1475842979575	NA	69
+282910	3036265	Is she done yet?	Is she done yet?	144219303	1475842979624	1475842979778	NA	84
+282910	3036265	Is she done yet?	Is she done yet?	144219307	1475842980181	1475842980433	SHIFT	16
+282910	3036265	Is she done yet?	Is she done yet?	144219309	1475842980362	1475842980536	NA	191
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219413	1475842985705	1475842985963	SHIFT	16
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219414	1475842985875	1475842986050	NA	80
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219416	1475842986115	1475842986329	NA	65
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219418	1475842986414	1475842986556	NA	82
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219420	1475842986663	1475842986821	NA	84
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219422	1475842986943	1475842987133	NA	83
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219431	1475842987125	1475842987281	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219433	1475842987305	1475842987462	NA	79
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219435	1475842987580	1475842987789	NA	70
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219437	1475842987748	1475842987952	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219438	1475842987959	1475842988138	NA	84
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219458	1475842988101	1475842988263	NA	72
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219459	1475842988238	1475842988433	NA	69
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219460	1475842988411	1475842988642	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219461	1475842988631	1475842988790	NA	67
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219462	1475842988831	1475842988979	NA	73
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219464	1475842989072	1475842989242	NA	84
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219477	1475842989319	1475842989458	NA	89
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219478	1475842989538	1475842989858	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219480	1475842989859	1475842990015	NA	87
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219483	1475842990064	1475842990175	NA	73
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219486	1475842990244	1475842990330	NA	76
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219521	1475842990390	1475842990507	NA	76
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219523	1475842990614	1475842990863	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219525	1475842990945	1475842991079	NA	66
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219527	1475842991164	1475842991329	NA	69
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219529	1475842991334	1475842991555	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219551	1475842991581	1475842991716	NA	67
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219556	1475842992249	1475842992405	NA	76
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219560	1475842992553	1475842992687	NA	79
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219564	1475842992880	1475842993074	NA	83
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219568	1475842993167	1475842993310	NA	69
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219588	1475842993419	1475842993599	NA	68
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219593	1475842993600	1475842993818	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219597	1475842993837	1475842993992	NA	84
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219599	1475842993984	1475842994129	NA	79
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219602	1475842994177	1475842994344	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219620	1475842994420	1475842994548	NA	80
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219621	1475842994683	1475842994851	NA	82
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219622	1475842994911	1475842995075	NA	73
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219623	1475842995182	1475842995328	NA	86
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219624	1475842995482	1475842995743	NA	65
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219655	1475842995784	1475842995918	NA	84
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219657	1475842995989	1475842996168	NA	69
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219660	1475842996217	1475842996437	NA	32
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219663	1475842996470	1475842996626	NA	67
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219666	1475842996648	1475842996926	NA	65
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219713	1475842997000	1475842997117	NA	82
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219714	1475842997288	1475842997459	NA	83
+282910	3036268	Parts of the city will be closed to private cars.	Parts of the city will be closed to private cars.	144219715	1475842997588	1475842997711	NA	190
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219856	1475843004426	1475843004622	SHIFT	16
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219860	1475843004520	1475843004672	NA	79
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219863	1475843004928	1475843005048	NA	85
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219867	1475843005144	1475843005306	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219869	1475843005273	1475843005493	NA	32
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219871	1475843005614	1475843005771	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219885	1475843006127	1475843006288	NA	69
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219886	1475843006429	1475843006608	NA	70
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219887	1475843006596	1475843006735	NA	79
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219888	1475843006781	1475843006941	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219890	1475843007059	1475843007186	NA	77
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219935	1475843007275	1475843007519	NA	65
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219937	1475843007508	1475843007684	NA	78
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219939	1475843008098	1475843008139	NA	61
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219941	1475843008241	1475843008333		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219943	1475843008592	1475843008740		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219965	1475843008850	1475843009113		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219967	1475843009327	1475843009521	NA	32
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219969	1475843009531	1475843009765	NA	65
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219971	1475843009665	1475843009806	NA	78
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219974	1475843009894	1475843010110	NA	68
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219995	1475843010030	1475843010205	NA	32
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219996	1475843010544	1475843010664	NA	79
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219997	1475843010862	1475843011002	NA	80
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219998	1475843011070	1475843011266	NA	69
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144219999	1475843011204	1475843011344	NA	78
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220051	1475843011434	1475843011582	NA	73
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220000	1475843011478	1475843011546	NA	75
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220056	1475843011617	1475843011737	NA	78
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220061	1475843011944	1475843012112	NA	71
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220066	1475843012708	1475843012831		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220070	1475843012902	1475843013030		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220074	1475843013148	1475843013316		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220095	1475843013938	1475843014080	NA	78
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220097	1475843014134	1475843014310	NA	71
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220102	1475843014299	1475843014503	NA	32
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220105	1475843014626	1475843014763	NA	80
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220106	1475843014901	1475843015068	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220123	1475843015159	1475843015295	NA	79
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220125	1475843015469	1475843015597	NA	71
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220127	1475843015746	1475843015877	NA	71
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220129	1475843016150	1475843016250	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220131	1475843016616	1475843016726		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220186	1475843016794	1475843016906		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220189	1475843016974	1475843017039		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220193	1475843017217	1475843017365	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220196	1475843017843	1475843017974		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220200	1475843018493	1475843018641	NA	71
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220247	1475843018735	1475843018883	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220249	1475843018929	1475843019144	NA	65
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220251	1475843019136	1475843019248	NA	77
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220253	1475843019310	1475843019416	NA	77
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220255	1475843019521	1475843019686	NA	69
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220304	1475843019707	1475843019897	NA	32
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220308	1475843020073	1475843020207	NA	71
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220311	1475843020262	1475843020402	NA	65
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220314	1475843020882	1475843021008		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220316	1475843021057	1475843021188		8
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220355	1475843021334	1475843021468	NA	72
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220357	1475843021885	1475843022050	NA	65
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220358	1475843022080	1475843022315	NA	83
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220360	1475843022301	1475843022520	NA	32
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220361	1475843022837	1475843023019	NA	70
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220390	1475843023026	1475843023149	NA	79
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220391	1475843023200	1475843023377	NA	82
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220393	1475843023528	1475843023673	NA	71
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220396	1475843023755	1475843023942	NA	69
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220399	1475843024110	1475843024250	NA	84
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220430	1475843024292	1475843024464	NA	32
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220433	1475843024493	1475843024713	NA	65
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220436	1475843025088	1475843025219	NA	72
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220439	1475843025329	1475843025485	NA	69
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220442	1475843025551	1475843025705	NA	65
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220460	1475843025771	1475843025916	NA	68
+282910	3036276	Our reform and opening programme has forged ahead.	Our reform and opening programme has forget ahead.	144220463	1475843026449	1475843026583	NA	190
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220563	1475843029721	1475843029900	SHIFT	16
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220564	1475843029863	1475843030020	NA	74
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220566	1475843030058	1475843030206	NA	73
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220568	1475843030257	1475843030386	NA	77
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220572	1475843030479	1475843030703	NA	32
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220574	1475843030807	1475843030995	NA	80
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220609	1475843030998	1475843031169	NA	76
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220611	1475843031320	1475843031471	NA	69
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220613	1475843031534	1475843031697	NA	65
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220617	1475843031718	1475843031912	NA	83
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220620	1475843032063	1475843032278	NA	69
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220641	1475843032404	1475843032600	NA	32
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220642	1475843032638	1475843032808	NA	67
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220643	1475843032796	1475843032942	NA	79
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220644	1475843032947	1475843033092	NA	78
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220645	1475843033329	1475843033538	NA	70
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220681	1475843033670	1475843033804	NA	73
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220684	1475843033892	1475843034037	NA	82
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220686	1475843034363	1475843034485	NA	77
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220690	1475843034554	1475843034741	NA	32
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220695	1475843034762	1475843034944	NA	84
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220740	1475843035164	1475843035287	NA	79
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220741	1475843035344	1475843035540	NA	32
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220742	1475843035772	1475843035974	SHIFT	16
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220744	1475843035897	1475843036068	NA	66
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220746	1475843036222	1475843036367	NA	73
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220748	1475843036729	1475843036829		8
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220817	1475843036900	1475843037040		8
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220818	1475843037592	1475843037970	SHIFT	16
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220819	1475843037950	1475843038126	NA	86
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220820	1475843038288	1475843038414	NA	73
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220821	1475843038499	1475843038605	NA	66
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220822	1475843038847	1475843038973	NA	67
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220876	1475843039386	1475843039493		8
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220878	1475843039564	1475843039690		8
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220880	1475843040533	1475843040647	NA	78
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220884	1475843040870	1475843040993	NA	67
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220885	1475843041086	1475843041279	NA	69
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220931	1475843041278	1475843041398	NA	32
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220934	1475843041475	1475843041576	NA	89
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220936	1475843041707	1475843041828	NA	79
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220938	1475843041984	1475843042093	NA	85
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220940	1475843042206	1475843042390	NA	32
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220980	1475843042373	1475843042636	NA	65
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220981	1475843042611	1475843042740	NA	82
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220983	1475843042891	1475843043042	NA	69
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220985	1475843043088	1475843043292	NA	32
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220987	1475843043479	1475843043594	NA	72
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144220988	1475843043698	1475843043903	NA	65
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144221012	1475843044004	1475843044086	NA	80
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144221013	1475843044137	1475843044246	NA	80
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144221014	1475843044358	1475843044487	NA	73
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144221015	1475843045061	1475843045167		8
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144221016	1475843045371	1475843045452	NA	89
+282910	3036293	Jim please confirm to Vince you are happy.	Jim please confirm to Vince you are happy.	144221037	1475843045968	1475843046049	NA	190
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221247	1475843051569	1475843051681	SHIFT	16
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221249	1475843051650	1475843051834	NA	84
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221255	1475843051820	1475843051969	NA	72
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221258	1475843051990	1475843052171	NA	69
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221262	1475843052162	1475843052341	NA	32
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221265	1475843052548	1475843052784	NA	65
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221270	1475843052791	1475843052858	NA	80
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221271	1475843052929	1475843053052	NA	80
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221272	1475843053209	1475843053343	NA	79
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221273	1475843053480	1475843053598	NA	73
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221274	1475843053627	1475843053758	NA	78
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221294	1475843053923	1475843054072	NA	84
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221295	1475843054239	1475843054348	NA	77
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221296	1475843054466	1475843054628	NA	69
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221297	1475843054663	1475843054789	NA	78
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221338	1475843054949	1475843055066	NA	82
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221340	1475843055206	1475843055349	NA	83
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221342	1475843055656	1475843055742		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221344	1475843055802	1475843055917		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221345	1475843055979	1475843056128		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221346	1475843056483	1475843056612	NA	84
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221372	1475843056710	1475843056921	NA	83
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221374	1475843056934	1475843057121	NA	32
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221376	1475843057510	1475843057622	NA	69
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221378	1475843058221	1475843058378		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221380	1475843058408	1475843058556	NA	87
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221405	1475843058750	1475843058891	NA	69
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221407	1475843059319	1475843059431	NA	82
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221409	1475843059527	1475843059683	NA	69
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221411	1475843059704	1475843059940	NA	32
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221413	1475843059944	1475843060111	NA	67
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221440	1475843060089	1475843060223	NA	79
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221442	1475843060228	1475843060387	NA	78
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221445	1475843060536	1475843060720	NA	70
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221448	1475843060979	1475843061124	NA	73
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221451	1475843061195	1475843061363	NA	82
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221453	1475843061406	1475843061532	NA	77
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221492	1475843061570	1475843061848	NA	69
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221493	1475843061914	1475843062087	NA	68
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221495	1475843062183	1475843062359	NA	32
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221497	1475843062734	1475843062866	NA	66
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221499	1475843063017	1475843063131	NA	89
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221539	1475843063249	1475843063431	NA	32
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221540	1475843064265	1475843064503	SHIFT	16
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221541	1475843064450	1475843064610	NA	67
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221542	1475843064759	1475843064823	NA	72
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221543	1475843065217	1475843065312		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221554	1475843065383	1475843065495		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221555	1475843065663	1475843065780	NA	72
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221556	1475843065986	1475843066092	NA	73
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221557	1475843066136	1475843066273	NA	78
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221558	1475843066551	1475843066799	NA	65
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221593	1475843067403	1475843067585	NA	222
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221596	1475843067545	1475843067778	NA	83
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221599	1475843067756	1475843067988	NA	32
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221601	1475843068433	1475843068569	NA	219
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221603	1475843068594	1475843068830	NA	65
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221641	1475843068856	1475843069004	NA	82
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221642	1475843069274	1475843069367		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221644	1475843069449	1475843069552		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221646	1475843069620	1475843069746		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221648	1475843070931	1475843071139	NA	74
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221673	1475843071143	1475843071291	NA	80
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221674	1475843071672	1475843071719		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221675	1475843071846	1475843071924		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221678	1475843072443	1475843072585	NA	80
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221681	1475843072631	1475843072819	NA	82
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221715	1475843073263	1475843073411		8
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221716	1475843073427	1475843073705	NA	65
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221718	1475843073663	1475843073820	NA	82
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221719	1475843073868	1475843074011	NA	76
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221720	1475843074159	1475843074302	NA	73
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221763	1475843074724	1475843074932	NA	65
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221764	1475843074945	1475843075023	NA	77
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221766	1475843075166	1475843075384	NA	69
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221768	1475843075308	1475843075412	NA	78
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221770	1475843075555	1475843075723	NA	84
+282910	3036305	The appointments were confirmed by China's parliament.	The appointments were confirmed by China's parliament.	144221800	1475843076764	1475843076854	NA	190
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144221987	1475843082408	1475843082503	SHIFT	16
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144221989	1475843082452	1475843082634	NA	68
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144221991	1475843082807	1475843082947	NA	79
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144221992	1475843083126	1475843083252	NA	69
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144221993	1475843083342	1475843083533	NA	83
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144221994	1475843083541	1475843083714	NA	32
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222032	1475843083992	1475843084165	SHIFT	16
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222033	1475843084126	1475843084344	NA	70
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222034	1475843084490	1475843084663	NA	82
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222037	1475843084779	1475843084924	NA	73
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222035	1475843084832	1475843084890	NA	75
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222039	1475843085058	1475843085220	NA	68
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222068	1475843085543	1475843085638		8
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222069	1475843085714	1475843085871		8
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222070	1475843086111	1475843086298	NA	68
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222071	1475843086283	1475843086513	NA	65
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222134	1475843086474	1475843086603	NA	89
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222137	1475843086701	1475843086947	NA	32
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222139	1475843086938	1475843087125	NA	65
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222142	1475843087195	1475843087363	NA	84
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222145	1475843087395	1475843087585	NA	32
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222147	1475843088555	1475843088664	NA	97
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222182	1475843088718	1475843088807	NA	96
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222184	1475843089960	1475843090172	NA	32
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222187	1475843090207	1475843090373	NA	87
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222189	1475843090392	1475843090513	NA	79
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222191	1475843090682	1475843090822	NA	82
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222210	1475843090948	1475843091127	NA	75
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222211	1475843091146	1475843091344	NA	32
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222212	1475843091543	1475843091744	NA	70
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222213	1475843091693	1475843091833	NA	79
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222214	1475843091884	1475843092066	NA	82
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222295	1475843091993	1475843092195	NA	32
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222296	1475843092313	1475843092430	NA	89
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222299	1475843092686	1475843092692	NA	79
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222301	1475843093085	1475843093205	NA	85
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222303	1475843093744	1475843093951	SHIFT	16
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222304	1475843093855	1475843094027	NA	191
+282910	3036321	Does Friday at 10 work for you?	Does Friday at 10 work for you?	144222305	1475843094701	1475843094793	SHIFT	16
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222598	1475843097962	1475843098079	MENU	93
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222675	1475843098027	1475843104937	NA	66
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222601	1475843104006	1475843104151	NA	85
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222605	1475843104225	1475843104403	NA	84
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222673	1475843104386	1475843104613	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222677	1475843104967	1475843105095	NA	79
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222679	1475843105606	1475843105737		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222683	1475843105811	1475843105942		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222686	1475843106116	1475843106339	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222689	1475843106397	1475843106539	NA	72
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222755	1475843106629	1475843106755	NA	79
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222756	1475843107166	1475843107289		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222758	1475843107360	1475843107511		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222761	1475843107958	1475843108128	NA	66
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222809	1475843108100	1475843108251	NA	79
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222812	1475843108353	1475843108479	NA	84
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222816	1475843108542	1475843108670	NA	72
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222820	1475843109054	1475843109163		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222827	1475843109231	1475843109380		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222899	1475843109258	1475843109592	NA	75
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222901	1475843109993	1475843110163		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222903	1475843110491	1475843110611	NA	72
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222905	1475843110852	1475843111086	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222908	1475843111467	1475843111609	NA	82
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222910	1475843111719	1475843111898	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222936	1475843112013	1475843112133	NA	80
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222938	1475843112248	1475843112399	NA	79
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222941	1475843112515	1475843112671	NA	82
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222943	1475843112919	1475843113050	NA	84
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222945	1475843113266	1475843113346	NA	83
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222998	1475843113467	1475843113739	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144222999	1475843113656	1475843113837	NA	87
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223000	1475843113977	1475843114145	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223001	1475843114589	1475843114753	NA	82
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223029	1475843114728	1475843114949	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223030	1475843114929	1475843115147	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223031	1475843115119	1475843115303	NA	68
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223032	1475843115516	1475843115747	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223033	1475843115685	1475843115814	NA	78
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223034	1475843115910	1475843116070	NA	73
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223077	1475843116152	1475843116303	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223079	1475843116429	1475843116599	NA	68
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223081	1475843116618	1475843116825	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223084	1475843116865	1475843117002	NA	66
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223086	1475843117109	1475843117212	NA	89
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223101	1475843117314	1475843117546	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223102	1475843117517	1475843117672	NA	84
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223104	1475843117676	1475843117830	NA	72
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223106	1475843117835	1475843118058	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223144	1475843118013	1475843118271	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223147	1475843118375	1475843118583	NA	83
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223149	1475843118759	1475843118882	NA	79
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223150	1475843119058	1475843119189	NA	85
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223151	1475843119252	1475843119414	NA	84
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223152	1475843119441	1475843119566	NA	72
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223176	1475843119665	1475843119838	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223177	1475843119978	1475843120124	NA	82
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223178	1475843120209	1475843120321	NA	78
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223180	1475843120424	1475843120592	NA	32
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223182	1475843120638	1475843120775	NA	76
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223209	1475843120968	1475843121108	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223212	1475843121204	1475843121380	NA	65
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223215	1475843121687	1475843121863	NA	68
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223218	1475843122194	1475843122319	NA	69
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223220	1475843122412	1475843122587	NA	83
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223291	1475843123216	1475843123370		8
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223296	1475843123391	1475843123553	NA	82
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223301	1475843124252	1475843124471	NA	83
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223304	1475843124517	1475843124629	NA	72
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223307	1475843124778	1475843124898	NA	73
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223328	1475843125124	1475843125235	NA	80
+282910	3036332	But both reports were denied by the southern leadership.	But both reports were denied by the southern leadership.	144223330	1475843125552	1475843125684	NA	190
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223530	1475843131389	1475843131615	NA	73
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223526	1475843131476	1475843131501	NA	75
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223534	1475843131587	1475843131817	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223538	1475843132236	1475843132336		8
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223540	1475843132421	1475843132572		8
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223574	1475843132795	1475843133013	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223577	1475843133062	1475843133234	NA	87
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223580	1475843133343	1475843133534	NA	65
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223583	1475843133475	1475843133599	NA	78
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223586	1475843133935	1475843134086	NA	84
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223618	1475843134165	1475843134325	NA	69
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223620	1475843134454	1475843134633	NA	68
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223622	1475843134668	1475843134864	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223624	1475843134874	1475843135039	NA	84
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223627	1475843135046	1475843135191	NA	79
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223656	1475843135235	1475843135416	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223657	1475843135656	1475843135812	NA	71
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223658	1475843135864	1475843136009	NA	69
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223659	1475843136172	1475843136325	NA	84
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223661	1475843136358	1475843136542	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223683	1475843136563	1475843136788	NA	65
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223684	1475843136754	1475843136846	NA	76
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223685	1475843136915	1475843136993	NA	76
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223687	1475843137141	1475843137314	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223690	1475843137361	1475843137489	NA	79
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223711	1475843137604	1475843137795	NA	70
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223713	1475843137713	1475843137963	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223714	1475843137967	1475843138130	NA	84
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223715	1475843138067	1475843138194	NA	72
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223716	1475843138326	1475843138437	NA	73
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223757	1475843138536	1475843138729	NA	83
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223759	1475843138721	1475843138958	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223761	1475843139162	1475843139285	NA	79
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223763	1475843139489	1475843139598	NA	85
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223765	1475843139774	1475843139925	NA	84
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223792	1475843139935	1475843140133	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223794	1475843140168	1475843140316	NA	79
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223796	1475843140470	1475843140649	NA	70
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223798	1475843140612	1475843140803	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223800	1475843140841	1475843141016	NA	84
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223817	1475843140996	1475843141119	NA	72
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223819	1475843141179	1475843141358	NA	69
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223820	1475843141368	1475843141612	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223823	1475843141672	1475843141840	NA	87
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223824	1475843141936	1475843142099	NA	65
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223827	1475843142173	1475843142271	NA	89
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223840	1475843142414	1475843142829	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223843	1475843142718	1475843142851	NA	66
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223845	1475843142960	1475843143128	NA	69
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223846	1475843143385	1475843143455	NA	70
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223886	1475843144108	1475843144193		8
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223887	1475843144244	1475843144412		8
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223888	1475843144577	1475843144759	NA	70
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223889	1475843144802	1475843144945	NA	79
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223890	1475843145010	1475843145158	NA	82
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223931	1475843145204	1475843145386	NA	69
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223933	1475843145391	1475843145581	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223934	1475843145660	1475843145766	NA	77
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223935	1475843145918	1475843146007	NA	89
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223936	1475843146136	1475843146298	NA	32
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223983	1475843146339	1475843146453	NA	77
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223986	1475843146552	1475843146686	NA	79
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223992	1475843146953	1475843147056	NA	86
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223996	1475843147150	1475843147306	NA	69
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144223999	1475843147839	1475843147987	NA	191
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144224054	1475843148606	1475843148748		8
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144224055	1475843149751	1475843149869	NA	191
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144224056	1475843150645	1475843150788		8
+282910	3036356	I wanted to get all of this out of the way before my move.	I wanted to get all of this out of the way before my move.	144224057	1475843151162	1475843151243	NA	190

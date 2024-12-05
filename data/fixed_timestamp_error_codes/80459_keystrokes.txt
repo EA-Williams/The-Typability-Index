@@ -1,0 +1,560 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+80459	878908	I'll probably page you.	I'll probably page you.	41797162	1473001448582	1473001448822	SHIFT	16
+80459	878908	I'll probably page you.	I'll probably page you.	41797163	1473001448679	1473001448829	I	73
+80459	878908	I'll probably page you.	I'll probably page you.	41797164	1473001450034	1473001450135	'	222
+80459	878908	I'll probably page you.	I'll probably page you.	41797165	1473001450337	1473001450407	l	76
+80459	878908	I'll probably page you.	I'll probably page you.	41797166	1473001450464	1473001450514	l	76
+80459	878908	I'll probably page you.	I'll probably page you.	41797167	1473001450594	1473001450674	 	32
+80459	878908	I'll probably page you.	I'll probably page you.	41797173	1473001450746	1473001450836	[	219
+80459	878908	I'll probably page you.	I'll probably page you.	41797174	1473001450825	1473001450960	r	82
+80459	878908	I'll probably page you.	I'll probably page you.	41797175	1473001450948	1473001451074	p	80
+80459	878908	I'll probably page you.	I'll probably page you.	41797176	1473001451471	1473001451559	BKSP	8
+80459	878908	I'll probably page you.	I'll probably page you.	41797177	1473001451624	1473001451682	BKSP	8
+80459	878908	I'll probably page you.	I'll probably page you.	41797178	1473001451754	1473001451812	BKSP	8
+80459	878908	I'll probably page you.	I'll probably page you.	41797179	1473001452220	1473001452326	p	80
+80459	878908	I'll probably page you.	I'll probably page you.	41797180	1473001452354	1473001452459	r	82
+80459	878908	I'll probably page you.	I'll probably page you.	41797186	1473001452603	1473001452708	o	79
+80459	878908	I'll probably page you.	I'll probably page you.	41797187	1473001452790	1473001452876	b	66
+80459	878908	I'll probably page you.	I'll probably page you.	41797188	1473001452897	1473001453042	a	65
+80459	878908	I'll probably page you.	I'll probably page you.	41797189	1473001452975	1473001453053	b	66
+80459	878908	I'll probably page you.	I'll probably page you.	41797190	1473001453126	1473001453214	l	76
+80459	878908	I'll probably page you.	I'll probably page you.	41797206	1473001453226	1473001453336	y	89
+80459	878908	I'll probably page you.	I'll probably page you.	41797207	1473001453326	1473001453402	 	32
+80459	878908	I'll probably page you.	I'll probably page you.	41797208	1473001453624	1473001453740	p	80
+80459	878908	I'll probably page you.	I'll probably page you.	41797209	1473001453721	1473001453786	a	65
+80459	878908	I'll probably page you.	I'll probably page you.	41797210	1473001453877	1473001453946	g	71
+80459	878908	I'll probably page you.	I'll probably page you.	41797216	1473001454015	1473001454136	e	69
+80459	878908	I'll probably page you.	I'll probably page you.	41797217	1473001454080	1473001454147	 	32
+80459	878908	I'll probably page you.	I'll probably page you.	41797218	1473001454232	1473001454342	y	89
+80459	878908	I'll probably page you.	I'll probably page you.	41797219	1473001454669	1473001454770	o	79
+80459	878908	I'll probably page you.	I'll probably page you.	41797220	1473001454872	1473001454953	u	85
+80459	878908	I'll probably page you.	I'll probably page you.	41797231	1473001455132	1473001455240	.	190
+80459	878909	Joel will handle this.	Joel will handle this.	41797258	1473001457430	1473001457596	SHIFT	16
+80459	878909	Joel will handle this.	Joel will handle this.	41797260	1473001457542	1473001457681	J	74
+80459	878909	Joel will handle this.	Joel will handle this.	41797262	1473001457640	1473001457760	o	79
+80459	878909	Joel will handle this.	Joel will handle this.	41797264	1473001457767	1473001457865	e	69
+80459	878909	Joel will handle this.	Joel will handle this.	41797266	1473001457851	1473001457935	l	76
+80459	878909	Joel will handle this.	Joel will handle this.	41797267	1473001458237	1473001458308	 	32
+80459	878909	Joel will handle this.	Joel will handle this.	41797268	1473001458317	1473001458426	w	87
+80459	878909	Joel will handle this.	Joel will handle this.	41797269	1473001458396	1473001458495	i	73
+80459	878909	Joel will handle this.	Joel will handle this.	41797270	1473001458611	1473001458691	l	76
+80459	878909	Joel will handle this.	Joel will handle this.	41797271	1473001458745	1473001458814	l	76
+80459	878909	Joel will handle this.	Joel will handle this.	41797272	1473001458906	1473001458957	 	32
+80459	878909	Joel will handle this.	Joel will handle this.	41797273	1473001458981	1473001459064	h	72
+80459	878909	Joel will handle this.	Joel will handle this.	41797274	1473001459124	1473001459230	a	65
+80459	878909	Joel will handle this.	Joel will handle this.	41797275	1473001459216	1473001459333	n	78
+80459	878909	Joel will handle this.	Joel will handle this.	41797276	1473001459377	1473001459497	d	68
+80459	878909	Joel will handle this.	Joel will handle this.	41797277	1473001459471	1473001459571	l	76
+80459	878909	Joel will handle this.	Joel will handle this.	41797278	1473001459601	1473001459699	e	69
+80459	878909	Joel will handle this.	Joel will handle this.	41797279	1473001459986	1473001460089	 	32
+80459	878909	Joel will handle this.	Joel will handle this.	41797280	1473001460230	1473001460343	t	84
+80459	878909	Joel will handle this.	Joel will handle this.	41797281	1473001460307	1473001460413	h	72
+80459	878909	Joel will handle this.	Joel will handle this.	41797282	1473001460402	1473001460495	i	73
+80459	878909	Joel will handle this.	Joel will handle this.	41797283	1473001460506	1473001460625	s	83
+80459	878909	Joel will handle this.	Joel will handle this.	41797284	1473001460802	1473001460873	.	190
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797298	1473001462746	1473001463042	SHIFT	16
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797299	1473001463008	1473001463123	Y	89
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797300	1473001463132	1473001463205	o	79
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797301	1473001463309	1473001463380	u	85
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797302	1473001463356	1473001463501	r	82
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797308	1473001463480	1473001463536	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797309	1473001463612	1473001463706	b	66
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797310	1473001463653	1473001463743	e	69
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797311	1473001463802	1473001463891	s	83
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797312	1473001463986	1473001464079	t	84
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797313	1473001464046	1473001464108	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797314	1473001464193	1473001464287	b	66
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797315	1473001464277	1473001464367	e	69
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797316	1473001464434	1473001464534	t	84
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797317	1473001464511	1473001464569	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797318	1473001464596	1473001464693	i	73
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797319	1473001464701	1473001464807	s	83
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797320	1473001464780	1473001464851	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797321	1473001464918	1473001465013	t	84
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797322	1473001464953	1473001465023	o	79
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797323	1473001465084	1473001465152	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797329	1473001465275	1473001465375	d	68
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797330	1473001465434	1473001465528	r	82
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797331	1473001465552	1473001465662	o	79
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797332	1473001465602	1473001465709	p	80
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797333	1473001465812	1473001465886	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797339	1473001466113	1473001466225	h	72
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797340	1473001466212	1473001466367	i	73
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797342	1473001466328	1473001466417	m	77
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797344	1473001466491	1473001466565	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797348	1473001466534	1473001466646	a	65
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797349	1473001466666	1473001466755	n	78
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797350	1473001466744	1473001466864	d	68
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797351	1473001466852	1473001466920	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797352	1473001466945	1473001467058	g	71
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797353	1473001467010	1473001467076	o	79
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797354	1473001467131	1473001467230	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797355	1473001467231	1473001467300	a	65
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797356	1473001467392	1473001467510	f	70
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797357	1473001467590	1473001467670	t	84
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797358	1473001467738	1473001467821	e	69
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797359	1473001467857	1473001467954	r	82
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797360	1473001467938	1473001468008	 	32
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797361	1473001468052	1473001468136	a	65
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797362	1473001468107	1473001468213	n	78
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797368	1473001468194	1473001468291	o	79
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797369	1473001468307	1473001468397	t	84
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797370	1473001468404	1473001468516	h	72
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797371	1473001468491	1473001468575	e	69
+80459	878911	Your best bet is to drop him and go after another.	Your best bet is to drop him and go after another.	41797372	1473001468623	1473001468714	r	82
+80459	878912	We need this verified.	We need this verified.	41797406	1473001470815	1473001470991	SHIFT	16
+80459	878912	We need this verified.	We need this verified.	41797405	1473001470892	1473001470968	W	87
+80459	878912	We need this verified.	We need this verified.	41797407	1473001471017	1473001471130	e	69
+80459	878912	We need this verified.	We need this verified.	41797408	1473001471095	1473001471149	 	32
+80459	878912	We need this verified.	We need this verified.	41797409	1473001471222	1473001471306	n	78
+80459	878912	We need this verified.	We need this verified.	41797410	1473001471291	1473001471363	e	69
+80459	878912	We need this verified.	We need this verified.	41797411	1473001471420	1473001471493	e	69
+80459	878912	We need this verified.	We need this verified.	41797412	1473001471598	1473001471704	d	68
+80459	878912	We need this verified.	We need this verified.	41797413	1473001471714	1473001471783	 	32
+80459	878912	We need this verified.	We need this verified.	41797414	1473001471834	1473001471906	t	84
+80459	878912	We need this verified.	We need this verified.	41797417	1473001471893	1473001472030	h	72
+80459	878912	We need this verified.	We need this verified.	41797419	1473001471984	1473001472082	i	73
+80459	878912	We need this verified.	We need this verified.	41797421	1473001472070	1473001472149	s	83
+80459	878912	We need this verified.	We need this verified.	41797423	1473001472157	1473001472227	 	32
+80459	878912	We need this verified.	We need this verified.	41797425	1473001472242	1473001472330	v	86
+80459	878912	We need this verified.	We need this verified.	41797427	1473001472436	1473001472509	e	69
+80459	878912	We need this verified.	We need this verified.	41797428	1473001472567	1473001472654	r	82
+80459	878912	We need this verified.	We need this verified.	41797429	1473001472687	1473001472755	i	73
+80459	878912	We need this verified.	We need this verified.	41797430	1473001472779	1473001472912	f	70
+80459	878912	We need this verified.	We need this verified.	41797431	1473001472883	1473001472961	i	73
+80459	878912	We need this verified.	We need this verified.	41797432	1473001473247	1473001473333	e	69
+80459	878912	We need this verified.	We need this verified.	41797442	1473001473398	1473001473498	d	68
+80459	878912	We need this verified.	We need this verified.	41797443	1473001474013	1473001474060	BKSP	8
+80459	878912	We need this verified.	We need this verified.	41797444	1473001474119	1473001474183	BKSP	8
+80459	878912	We need this verified.	We need this verified.	41797445	1473001474486	1473001474582	e	69
+80459	878912	We need this verified.	We need this verified.	41797446	1473001474634	1473001474742	d	68
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797453	1473001476464	1473001476643	SHIFT	16
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797454	1473001476589	1473001476708	T	84
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797455	1473001476754	1473001476922	h	72
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797456	1473001476865	1473001477006	u	85
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797457	1473001476945	1473001477040	r	82
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797458	1473001477120	1473001477207	s	83
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797459	1473001477286	1473001477352	d	68
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797460	1473001477477	1473001477584	a	65
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797461	1473001477544	1473001477650	y	89
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797462	1473001477671	1473001477765	 	32
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797463	1473001477798	1473001477898	w	87
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797469	1473001477874	1473001477982	o	79
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797471	1473001478003	1473001478137	r	82
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797473	1473001478095	1473001478187	k	75
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797474	1473001478240	1473001478352	s	83
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797475	1473001478334	1473001478399	 	32
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797476	1473001478514	1473001478598	b	66
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797477	1473001478576	1473001478669	e	69
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797478	1473001478750	1473001478814	t	84
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797479	1473001478875	1473001478937	t	84
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797480	1473001479009	1473001479085	e	69
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797481	1473001479145	1473001479221	r	82
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797482	1473001479228	1473001479274	 	32
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797483	1473001479284	1473001479383	f	70
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797484	1473001479362	1473001479447	o	79
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797485	1473001479473	1473001479590	r	82
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797486	1473001479554	1473001479613	 	32
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797487	1473001479680	1473001479773	m	77
+80459	878914	Thursday works better for me.	Thursday works better for me,	41797488	1473001479758	1473001479850	e	69
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797520	1473001481765	1473001481922	SHIFT	16
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797521	1473001481859	1473001481964	T	84
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797522	1473001482007	1473001482104	h	72
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797523	1473001482060	1473001482174	e	69
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797524	1473001482189	1473001482248	 	32
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797525	1473001482309	1473001482411	m	77
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797531	1473001482399	1473001482503	e	69
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797532	1473001482636	1473001482747	t	84
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797533	1473001482962	1473001483055	e	69
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797534	1473001483179	1473001483268	o	79
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797535	1473001483312	1473001483426	r	82
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797536	1473001483436	1473001483502	 	32
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797542	1473001483569	1473001483688	s	83
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797544	1473001483635	1473001483712	h	72
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797546	1473001483745	1473001483866	o	79
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797548	1473001483837	1473001483916	w	87
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797550	1473001483975	1473001484080	e	69
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797559	1473001484151	1473001484243	r	82
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797561	1473001484250	1473001484324	 	32
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797563	1473001484512	1473001484586	w	87
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797565	1473001484680	1473001484762	a	65
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797567	1473001484814	1473001484911	s	83
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797572	1473001484877	1473001484939	 	32
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797574	1473001485014	1473001485127	i	73
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797576	1473001485231	1473001485313	n	78
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797578	1473001485388	1473001485454	c	67
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797580	1473001485556	1473001485626	r	82
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797582	1473001485680	1473001485766	e	69
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797583	1473001485806	1473001485937	d	68
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797584	1473001485880	1473001485961	i	73
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797585	1473001486039	1473001486114	b	66
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797586	1473001486201	1473001486285	l	76
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797587	1473001486292	1473001486395	e	69
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797593	1473001486370	1473001486438	 	32
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797594	1473001486519	1473001486622	l	76
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797595	1473001486541	1473001486678	a	65
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797596	1473001486779	1473001486898	s	83
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797597	1473001486995	1473001487093	t	84
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797604	1473001487061	1473001487139	 	32
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797605	1473001487367	1473001487404	t	84
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797606	1473001487518	1473001487562	n	78
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797607	1473001487684	1473001487766	=	187
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797608	1473001488000	1473001488033	BKSP	8
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797609	1473001488148	1473001488168	BKSP	8
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797610	1473001488183	1473001488244	BKSP	8
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797611	1473001488330	1473001488364	BKSP	8
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797612	1473001488704	1473001488775	 	32
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797613	1473001488851	1473001488957	n	78
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797621	1473001488917	1473001489018	i	73
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797622	1473001488969	1473001489073	g	71
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797623	1473001489080	1473001489171	h	72
+80459	878916	The meteor shower was incredible last night.	The meteor shower was incredible last night.	41797624	1473001489159	1473001489253	t	84
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797648	1473001491677	1473001491871	SHIFT	16
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797649	1473001491808	1473001491919	Y	89
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797650	1473001491904	1473001491998	o	79
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797651	1473001492105	1473001492199	u	85
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797652	1473001492205	1473001492317	r	82
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797664	1473001492299	1473001492364	 	32
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797665	1473001492444	1473001492570	v	86
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797666	1473001492586	1473001492653	o	79
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797667	1473001492736	1473001492814	i	73
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797668	1473001492821	1473001492908	c	67
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797669	1473001492989	1473001493084	e	69
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797681	1473001493048	1473001493132	 	32
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797682	1473001493521	1473001493615	c	67
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797683	1473001493587	1473001493683	h	72
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797684	1473001493730	1473001493807	e	69
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797686	1473001493877	1473001493944	e	69
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797688	1473001494033	1473001494123	r	82
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797693	1473001494191	1473001494283	e	69
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797694	1473001494340	1473001494471	d	68
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797695	1473001494420	1473001494480	 	32
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797696	1473001494554	1473001494636	m	77
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797704	1473001494625	1473001494723	e	69
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797706	1473001494712	1473001494781	 	32
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797708	1473001494848	1473001494955	u	85
+80459	878920	Your voice cheered me up.	Your voice cheered me up.	41797711	1473001495081	1473001495185	p	80
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797875	1473001495361	1473001507144	.	190
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797722	1473001497092	1473001497288	SHIFT	16
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797724	1473001497245	1473001497384	S	83
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797725	1473001497360	1473001497446	o	79
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797726	1473001497535	1473001497620	u	85
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797727	1473001497630	1473001497733	t	84
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797736	1473001497711	1473001497813	h	72
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797738	1473001497824	1473001497928	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797740	1473001497975	1473001498096	r	82
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797742	1473001498048	1473001498144	n	78
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797743	1473001498204	1473001498281	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797744	1473001498449	1473001498557	f	70
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797750	1473001498515	1473001498603	o	79
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797751	1473001498634	1473001498718	r	82
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797752	1473001498808	1473001498899	c	67
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797753	1473001498985	1473001499055	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797754	1473001499401	1473001499439	BKSP	8
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797755	1473001499823	1473001499905	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797756	1473001499961	1473001500083	s	83
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797761	1473001500071	1473001500146	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797764	1473001500274	1473001500368	s	83
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797767	1473001500433	1473001500524	a	65
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797768	1473001500509	1473001500593	i	73
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797769	1473001500603	1473001500713	d	68
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797770	1473001500701	1473001500770	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797771	1473001500815	1473001500887	t	84
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797772	1473001500861	1473001500936	h	72
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797773	1473001500967	1473001501069	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797774	1473001501028	1473001501090	y	89
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797775	1473001501157	1473001501266	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797784	1473001501233	1473001501330	h	72
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797786	1473001501289	1473001501379	a	65
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797788	1473001501458	1473001501608	d	68
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797790	1473001501589	1473001501684	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797792	1473001501911	1473001502033	s	83
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797800	1473001501989	1473001502067	h	72
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797801	1473001502075	1473001502188	o	79
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797802	1473001502177	1473001502293	t	84
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797803	1473001502282	1473001502340	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797804	1473001502408	1473001502507	d	68
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797812	1473001502490	1473001502571	o	79
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797814	1473001502603	1473001502714	w	87
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797816	1473001502661	1473001502735	n	78
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797818	1473001502801	1473001502869	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797819	1473001502876	1473001502969	t	84
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797820	1473001502976	1473001503052	h	72
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797821	1473001503245	1473001503335	r	82
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797822	1473001503400	1473001503479	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797823	1473001503540	1473001503651	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797824	1473001503658	1473001503726	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797825	1473001503815	1473001503941	n	78
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797835	1473001503921	1473001504071	o	79
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797836	1473001504051	1473001504138	r	82
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797838	1473001504257	1473001504393	t	84
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797840	1473001504469	1473001504536	h	72
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797842	1473001504654	1473001504747	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797844	1473001504796	1473001504877	r	82
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797851	1473001504936	1473001505016	n	78
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797852	1473001505075	1473001505169	 	32
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797853	1473001505248	1473001505339	w	87
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797854	1473001505406	1473001505489	a	65
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797855	1473001505584	1473001505684	r	82
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797869	1473001505659	1473001505728	p	80
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797870	1473001506041	1473001506149	l	76
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797871	1473001506127	1473001506216	a	65
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797872	1473001506668	1473001506747	n	78
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797873	1473001506718	1473001506801	e	69
+80459	878921	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	41797874	1473001506864	1473001506985	s	83
+80459	878925	Can you call me at home?	Can you call me at home?	41797911	1473001508801	1473001508988	SHIFT	16
+80459	878925	Can you call me at home?	Can you call me at home?	41797913	1473001508883	1473001508998	C	67
+80459	878925	Can you call me at home?	Can you call me at home?	41797915	1473001509088	1473001509196	a	65
+80459	878925	Can you call me at home?	Can you call me at home?	41797919	1473001509144	1473001509209	n	78
+80459	878925	Can you call me at home?	Can you call me at home?	41797923	1473001509285	1473001509351	 	32
+80459	878925	Can you call me at home?	Can you call me at home?	41797927	1473001509387	1473001509478	y	89
+80459	878925	Can you call me at home?	Can you call me at home?	41797933	1473001509427	1473001509493	o	79
+80459	878925	Can you call me at home?	Can you call me at home?	41797934	1473001509585	1473001509640	u	85
+80459	878925	Can you call me at home?	Can you call me at home?	41797935	1473001509702	1473001509776	 	32
+80459	878925	Can you call me at home?	Can you call me at home?	41797936	1473001509783	1473001509851	c	67
+80459	878925	Can you call me at home?	Can you call me at home?	41797950	1473001509967	1473001510094	a	65
+80459	878925	Can you call me at home?	Can you call me at home?	41797938	1473001510023	1473001510077	l	76
+80459	878925	Can you call me at home?	Can you call me at home?	41797952	1473001510139	1473001510199	l	76
+80459	878925	Can you call me at home?	Can you call me at home?	41797953	1473001510286	1473001510349	 	32
+80459	878925	Can you call me at home?	Can you call me at home?	41797954	1473001510424	1473001510493	m	77
+80459	878925	Can you call me at home?	Can you call me at home?	41797955	1473001510459	1473001510560	e	69
+80459	878925	Can you call me at home?	Can you call me at home?	41797956	1473001510647	1473001510742	a	65
+80459	878925	Can you call me at home?	Can you call me at home?	41797967	1473001510904	1473001511021	t	84
+80459	878925	Can you call me at home?	Can you call me at home?	41797968	1473001511029	1473001511107	 	32
+80459	878925	Can you call me at home?	Can you call me at home?	41797969	1473001511248	1473001511294	BKSP	8
+80459	878925	Can you call me at home?	Can you call me at home?	41797970	1473001511360	1473001511425	BKSP	8
+80459	878925	Can you call me at home?	Can you call me at home?	41797971	1473001511483	1473001511532	BKSP	8
+80459	878925	Can you call me at home?	Can you call me at home?	41797972	1473001511726	1473001511797	 	32
+80459	878925	Can you call me at home?	Can you call me at home?	41797973	1473001511785	1473001511866	a	65
+80459	878925	Can you call me at home?	Can you call me at home?	41797976	1473001511952	1473001512048	r	82
+80459	878925	Can you call me at home?	Can you call me at home?	41797988	1473001512017	1473001512084	 	32
+80459	878925	Can you call me at home?	Can you call me at home?	41797989	1473001512267	1473001512319	BKSP	8
+80459	878925	Can you call me at home?	Can you call me at home?	41797990	1473001512403	1473001512492	BKSP	8
+80459	878925	Can you call me at home?	Can you call me at home?	41797991	1473001512509	1473001512596	t	84
+80459	878925	Can you call me at home?	Can you call me at home?	41797992	1473001512611	1473001512678	 	32
+80459	878925	Can you call me at home?	Can you call me at home?	41797994	1473001512693	1473001512795	h	72
+80459	878925	Can you call me at home?	Can you call me at home?	41797996	1473001512770	1473001512910	o	79
+80459	878925	Can you call me at home?	Can you call me at home?	41798008	1473001512850	1473001512935	m	77
+80459	878925	Can you call me at home?	Can you call me at home?	41798010	1473001512945	1473001513042	e	69
+80459	878925	Can you call me at home?	Can you call me at home?	41798014	1473001513170	1473001513317	SHIFT	16
+80459	878925	Can you call me at home?	Can you call me at home?	41798019	1473001513232	1473001513373	?	191
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798069	1473001515225	1473001515466	SHIFT	16
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798067	1473001515359	1473001515445	I	73
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798072	1473001515572	1473001515645	 	32
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798074	1473001515629	1473001515774	w	87
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798076	1473001515704	1473001515798	o	79
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798078	1473001515877	1473001515951	u	85
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798080	1473001516051	1473001516134	l	76
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798081	1473001516122	1473001516253	d	68
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798082	1473001516219	1473001516272	 	32
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798083	1473001516333	1473001516415	l	76
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798084	1473001516482	1473001516557	i	73
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798092	1473001516621	1473001516725	k	75
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798094	1473001516705	1473001516817	e	69
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798096	1473001516807	1473001516873	 	32
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798099	1473001516900	1473001516995	t	84
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798116	1473001516955	1473001517012	o	79
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798118	1473001517059	1473001517135	 	32
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798121	1473001517150	1473001517237	a	65
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798124	1473001517406	1473001517421	t	84
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798128	1473001517517	1473001517610	t	84
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798130	1473001517897	1473001518007	e	69
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798139	1473001517988	1473001518079	n	78
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798140	1473001518109	1473001518232	d	68
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798141	1473001518194	1473001518267	 	32
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798142	1473001518384	1473001518483	i	73
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798143	1473001518490	1473001518603	f	70
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798149	1473001518565	1473001518630	 	32
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798150	1473001518729	1473001518837	s	83
+80459	878928	I would like to attend if so.	I would like to attend if so.	41798152	1473001518784	1473001518931	o	79
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798464	1473001519061	1473001530630	.	190
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798206	1473001520767	1473001520957	SHIFT	16
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798207	1473001520873	1473001520986	W	87
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798208	1473001521061	1473001521164	a	65
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798209	1473001521136	1473001521243	n	78
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798210	1473001521312	1473001521436	g	71
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798211	1473001521454	1473001521532	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798244	1473001521829	1473001521880	BKSP	8
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798248	1473001522210	1473001522283	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798250	1473001522337	1473001522415	w	87
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798253	1473001522499	1473001522570	a	65
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798256	1473001522626	1473001522725	s	83
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798258	1473001522738	1473001522815	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798259	1473001522838	1473001522945	t	84
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798260	1473001522891	1473001522962	o	79
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798262	1473001523011	1473001523064	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798265	1473001523137	1473001523224	m	77
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798273	1473001523207	1473001523280	e	69
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798274	1473001523344	1473001523430	e	69
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798275	1473001523507	1473001523601	t	84
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798276	1473001523579	1473001523653	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798277	1473001523709	1473001523802	w	87
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798280	1473001523772	1473001523851	i	73
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798282	1473001523901	1473001524017	t	84
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798281	1473001523940	1473001524007	h	72
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798283	1473001524082	1473001524135	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798284	1473001524213	1473001524377	SHIFT	16
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798286	1473001524306	1473001524396	C	67
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798288	1473001524406	1473001524521	l	76
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798295	1473001524635	1473001524773	i	73
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798297	1473001524736	1473001524836	n	78
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798298	1473001524843	1473001524942	t	84
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798299	1473001524931	1473001525061	o	79
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798313	1473001525015	1473001525106	n	78
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798317	1473001525329	1473001525446	'	222
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798320	1473001525454	1473001525581	s	83
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798321	1473001525570	1473001525634	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798322	1473001525761	1473001525857	n	78
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798340	1473001525814	1473001525915	a	65
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798341	1473001526013	1473001526136	t	84
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798342	1473001526034	1473001526162	i	73
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798343	1473001526125	1473001526233	o	79
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798344	1473001526261	1473001526345	n	78
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798346	1473001526556	1473001526675	a	65
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798364	1473001526620	1473001526710	l	76
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798365	1473001526797	1473001526876	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798366	1473001526978	1473001527083	s	83
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798368	1473001527145	1473001527220	e	69
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798370	1473001527303	1473001527409	c	67
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798372	1473001527426	1473001527515	u	85
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798386	1473001527546	1473001527672	r	82
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798387	1473001527878	1473001527997	i	73
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798389	1473001527978	1473001528070	t	84
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798391	1473001528159	1473001528301	y	89
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798393	1473001528324	1473001528400	 	32
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798432	1473001528720	1473001528819	a	65
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798434	1473001528894	1473001529029	d	68
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798437	1473001529036	1473001529126	m	77
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798440	1473001529606	1473001529692	BKSP	8
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798442	1473001529712	1473001529825	v	86
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798444	1473001529832	1473001529952	i	73
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798459	1473001529977	1473001530078	s	83
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798461	1473001530284	1473001530375	o	79
+80459	878931	Wang was to meet with Clinton's national security advisor.	Wang was to meet with Clinton's national security advisor.	41798462	1473001530363	1473001530485	r	82
+80459	878938	They are still burning.	They are still burning.	41798495	1473001532263	1473001532419	SHIFT	16
+80459	878938	They are still burning.	They are still burning.	41798496	1473001532358	1473001532476	T	84
+80459	878938	They are still burning.	They are still burning.	41798497	1473001532513	1473001532615	h	72
+80459	878938	They are still burning.	They are still burning.	41798498	1473001532605	1473001532719	e	69
+80459	878938	They are still burning.	They are still burning.	41798499	1473001532728	1473001532805	y	89
+80459	878938	They are still burning.	They are still burning.	41798500	1473001532876	1473001532951	 	32
+80459	878938	They are still burning.	They are still burning.	41798501	1473001532958	1473001533036	a	65
+80459	878938	They are still burning.	They are still burning.	41798502	1473001533116	1473001533191	r	82
+80459	878938	They are still burning.	They are still burning.	41798504	1473001533255	1473001533341	e	69
+80459	878938	They are still burning.	They are still burning.	41798507	1473001533328	1473001533394	 	32
+80459	878938	They are still burning.	They are still burning.	41798510	1473001533422	1473001533504	s	83
+80459	878938	They are still burning.	They are still burning.	41798523	1473001533599	1473001533692	t	84
+80459	878938	They are still burning.	They are still burning.	41798525	1473001533640	1473001533701	i	73
+80459	878938	They are still burning.	They are still burning.	41798527	1473001533781	1473001533840	l	76
+80459	878938	They are still burning.	They are still burning.	41798528	1473001533898	1473001533968	l	76
+80459	878938	They are still burning.	They are still burning.	41798529	1473001534066	1473001534115	 	32
+80459	878938	They are still burning.	They are still burning.	41798546	1473001534177	1473001534303	b	66
+80459	878938	They are still burning.	They are still burning.	41798547	1473001534275	1473001534367	u	85
+80459	878938	They are still burning.	They are still burning.	41798548	1473001534311	1473001534436	r	82
+80459	878938	They are still burning.	They are still burning.	41798549	1473001534711	1473001534824	n	78
+80459	878938	They are still burning.	They are still burning.	41798550	1473001534861	1473001535046	i	73
+80459	878938	They are still burning.	They are still burning.	41798558	1473001534981	1473001535094	n	78
+80459	878938	They are still burning.	They are still burning.	41798561	1473001535054	1473001535159	g	71
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798605	1473001536999	1473001537236	SHIFT	16
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798606	1473001537190	1473001537324	D	68
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798607	1473001537364	1473001537475	i	73
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798608	1473001537486	1473001537656	d	68
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798610	1473001537614	1473001537681	 	32
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798623	1473001537743	1473001537883	y	89
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798612	1473001537769	1473001537845	o	79
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798624	1473001537941	1473001538014	u	85
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798625	1473001538066	1473001538136	 	32
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798626	1473001538109	1473001538205	t	84
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798627	1473001538274	1473001538343	e	69
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798628	1473001538364	1473001538420	l	76
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798638	1473001538466	1473001538558	l	76
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798639	1473001538633	1473001538690	 	32
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798641	1473001538732	1473001538902	SHIFT	16
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798640	1473001538779	1473001538860	S	83
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798642	1473001538964	1473001539019	t	84
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798644	1473001539107	1473001539192	e	69
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798661	1473001539265	1473001539356	v	86
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798663	1473001539450	1473001539543	e	69
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798665	1473001539577	1473001539738	SHIFT	16
+80459	878941	Did you tell Steve?	Did you tell Steve?	41798667	1473001539668	1473001539812	?	191
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798711	1473001541594	1473001541888	SHIFT	16
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798713	1473001541771	1473001541897	I	73
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798716	1473001541995	1473001542077	 	32
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798718	1473001542093	1473001542215	h	72
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798719	1473001542178	1473001542265	a	65
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798720	1473001542357	1473001542426	v	86
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798736	1473001542538	1473001542652	e	69
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798738	1473001542596	1473001542674	n	78
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798740	1473001542806	1473001542962	'	222
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798742	1473001543039	1473001543143	t	84
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798744	1473001543161	1473001543231	 	32
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798760	1473001543262	1473001543349	s	83
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798762	1473001543425	1473001543488	e	69
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798763	1473001543541	1473001543645	e	69
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798764	1473001543592	1473001543665	n	78
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798765	1473001543738	1473001543835	 	32
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798775	1473001543801	1473001543912	i	73
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798777	1473001543883	1473001543992	t	84
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798778	1473001543973	1473001544041	 	32
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798779	1473001544103	1473001544207	y	89
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798780	1473001544195	1473001544286	e	69
+80459	878945	I haven't seen it yet.	I haven't seen it yet.	41798781	1473001544365	1473001544466	t	84
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798832	1473001546262	1473001546431	SHIFT	16
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798829	1473001546354	1473001546397	I	73
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798836	1473001546545	1473001546626	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798840	1473001546598	1473001546673	w	87
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798844	1473001546754	1473001546822	a	65
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798848	1473001546873	1473001546981	s	83
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798860	1473001546922	1473001546991	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798863	1473001547040	1473001547178	p	80
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798866	1473001547128	1473001547217	l	76
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798868	1473001547224	1473001547330	a	65
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798870	1473001547346	1473001547407	n	78
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798872	1473001547476	1473001547546	n	78
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798881	1473001547564	1473001547702	i	73
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798882	1473001547650	1473001547734	n	78
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798884	1473001547724	1473001547825	g	71
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798886	1473001547809	1473001547875	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798888	1473001547926	1473001548049	o	79
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798906	1473001547993	1473001548071	n	78
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798909	1473001548144	1473001548209	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798910	1473001548247	1473001548298	c	67
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798911	1473001548432	1473001548511	a	65
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798912	1473001548521	1473001548567	l	76
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798915	1473001548625	1473001548706	l	76
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798926	1473001548794	1473001548918	i	73
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798928	1473001548866	1473001548943	n	78
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798930	1473001548907	1473001549023	g	71
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798932	1473001549031	1473001549090	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798933	1473001549126	1473001549232	y	89
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798943	1473001549161	1473001549241	o	79
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798945	1473001549313	1473001549394	u	85
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798946	1473001549469	1473001549554	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798947	1473001549531	1473001549623	a	65
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798948	1473001549708	1473001549818	f	70
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798949	1473001549896	1473001549979	t	84
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798969	1473001550046	1473001550137	e	69
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798971	1473001550170	1473001550282	r	82
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798972	1473001550237	1473001550301	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798973	1473001550358	1473001550474	SHIFT	16
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798975	1473001550413	1473001550497	I	73
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798977	1473001550611	1473001550704	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798994	1473001550680	1473001550758	s	83
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798996	1473001550824	1473001550906	a	65
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41798998	1473001550978	1473001551088	w	87
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799000	1473001551111	1473001551177	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799003	1473001551225	1473001551311	y	89
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799055	1473001551291	1473001551359	o	79
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799057	1473001551471	1473001551538	u	85
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799059	1473001551858	1473001551977	r	82
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799061	1473001552003	1473001552062	 	32
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799062	1473001552789	1473001552829	e	69
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799063	1473001553171	1473001553260	BKSP	8
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799066	1473001553270	1473001553352	r	82
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799076	1473001553427	1473001553532	e	69
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799077	1473001553654	1473001553779	v	86
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799078	1473001553767	1473001553844	i	73
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799080	1473001553901	1473001554018	s	83
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799095	1473001553983	1473001554091	i	73
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799098	1473001554070	1473001554196	o	79
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799101	1473001554226	1473001554336	n	78
+80459	878948	I was planning on calling you after I saw your revisions.	I was planning on calling you after I saw your revisions.	41799105	1473001554462	1473001554591	s	83

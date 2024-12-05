@@ -1,0 +1,756 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160436	1473014565384	1473014565655	SHIFT	16
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160440	1473014565568	1473014565664	J	74
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160448	1473014565753	1473014565904	u	85
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160454	1473014565865	1473014566048	s	83
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160456	1473014565985	1473014566143	t	84
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160466	1473014566089	1473014566208	 	32
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160468	1473014566256	1473014566416	w	87
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160470	1473014566384	1473014566544	a	65
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160473	1473014566521	1473014566655	n	78
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160477	1473014566633	1473014566768	t	84
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160496	1473014566705	1473014566824	e	69
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160498	1473014566920	1473014567039	d	68
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160500	1473014567032	1473014567160	 	32
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160502	1473014567176	1473014567296	t	84
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160504	1473014567225	1473014567368	o	79
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160540	1473014567304	1473014567440	 	32
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160544	1473014567585	1473014567722	t	84
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160548	1473014567721	1473014567920	o	79
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160552	1473014567833	1473014567992	u	85
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160556	1473014568137	1473014568232	s	83
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160561	1473014568440	1473014568519	BKSP	8
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160565	1473014568529	1473014568639	c	67
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160592	1473014568736	1473014568816	 	32
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160594	1473014569088	1473014569168	BKSP	8
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160597	1473014569288	1473014569408	h	72
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160601	1473014569440	1473014569544	 	32
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160604	1473014569688	1473014569815	b	66
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160607	1473014569840	1473014569991	a	65
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160624	1473014569944	1473014570095	s	83
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160626	1473014570088	1473014570232	e	69
+81067	886432	Just wanted to touch base.	Just wanted to touch base.	42160631	1473014570240	1473014570359	.	190
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160700	1473014571935	1473014572191	SHIFT	16
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160701	1473014572120	1473014572239	W	87
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160702	1473014572272	1473014572416	e	69
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160703	1473014572463	1473014572576	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160704	1473014572560	1473014572704	a	65
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160745	1473014572664	1473014572816	r	82
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160750	1473014572752	1473014572879	e	69
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160754	1473014572856	1473014572984	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160758	1473014573096	1473014573192	d	68
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160764	1473014573288	1473014573456	e	69
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160767	1473014573457	1473014573607	l	76
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160789	1473014573736	1473014573839	a	65
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160792	1473014573848	1473014573959	y	89
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160794	1473014573975	1473014574128	e	69
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160797	1473014574208	1473014574328	d	68
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160800	1473014574464	1473014574600	,	188
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160852	1473014574672	1473014574768	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160858	1473014575024	1473014575167	g	71
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160863	1473014575088	1473014575224	o	79
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160868	1473014575241	1473014575376	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160873	1473014575624	1473014575719	BKSP	8
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160876	1473014575745	1473014575887	t	84
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160894	1473014575848	1473014575960	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160895	1473014576176	1473014576311	a	65
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160896	1473014576289	1473014576431	n	78
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160897	1473014576456	1473014576600	o	79
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160899	1473014576656	1473014576758	t	84
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160935	1473014576744	1473014576871	h	72
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160937	1473014576864	1473014577032	e	69
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160941	1473014576984	1473014577127	r	82
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160943	1473014577136	1473014577255	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160945	1473014577696	1473014577839	3	51
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160959	1473014577816	1473014577983	0	48
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160960	1473014577952	1473014578072	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160961	1473014578216	1473014578367	m	77
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160962	1473014578312	1473014578520	i	73
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160963	1473014578481	1473014578672	n	78
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160986	1473014578648	1473014578815	u	85
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160987	1473014578839	1473014578991	t	84
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160989	1473014578968	1473014579119	e	69
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160991	1473014579200	1473014579343	s	83
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160993	1473014579384	1473014579487	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42160996	1473014579672	1473014579791	o	79
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161004	1473014579920	1473014580127	n	78
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161005	1473014580072	1473014580191	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161006	1473014580216	1473014580384	t	84
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161007	1473014580288	1473014580455	h	72
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161022	1473014580432	1473014580583	e	69
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161025	1473014580520	1473014580655	 	32
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161028	1473014580808	1473014580934	r	82
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161033	1473014580855	1473014581022	u	85
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161106	1473014580976	1473014581047	b	66
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161108	1473014581008	1473014581199	n	78
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161111	1473014581432	1473014581535	=	187
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161115	1473014581592	1473014581679	=	187
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161117	1473014581832	1473014581927	BKSP	8
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161120	1473014582008	1473014582071	BKSP	8
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161124	1473014582160	1473014582223	BKSP	8
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161127	1473014582296	1473014582384	BKSP	8
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161130	1473014582744	1473014582839	n	78
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161131	1473014583184	1473014583351	w	87
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161132	1473014583304	1473014583447	a	65
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161134	1473014583400	1473014583471	y	89
+81067	886435	We are delayed, got another 30 minutes on the runway.	We are delayed, got another 30 minutes on the runway.	42161137	1473014583624	1473014583735	.	190
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161219	1473014585575	1473014585791	SHIFT	16
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161222	1473014585752	1473014585895	C	67
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161227	1473014585936	1473014586023	a	78
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161228	1473014586304	1473014586391	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161232	1473014586447	1473014586527	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161235	1473014586560	1473014586688	a	65
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161253	1473014586664	1473014586831	n	78
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161256	1473014586784	1473014586911	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161259	1473014587080	1473014587207	y	89
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161264	1473014587167	1473014587351	o	79
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161267	1473014587240	1473014587439	u	85
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161295	1473014587384	1473014587527	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161299	1473014587624	1473014587735	g	71
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161301	1473014587711	1473014587887	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161303	1473014587816	1473014587975	t	84
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161307	1473014587911	1473014588039	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161310	1473014588088	1473014588239	m	77
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161319	1473014588176	1473014588303	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161323	1473014588264	1473014588383	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161325	1473014588416	1473014588559	t	84
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161328	1473014588488	1473014588590	h	72
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161332	1473014588576	1473014588727	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161374	1473014588696	1473014588807	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161375	1473014588951	1473014589367	SHIFT	16
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161377	1473014589296	1473014589447	C	67
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161379	1473014589512	1473014589631	a	65
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161381	1473014589608	1473014589727	l	76
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161385	1473014589736	1473014589839	g	71
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161388	1473014589928	1473014590071	a	65
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161483	1473014590040	1473014590183	r	82
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161486	1473014590208	1473014590319	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161487	1473014590424	1473014590567	l	76
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161488	1473014590527	1473014590647	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161489	1473014591456	1473014591551	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161490	1473014591624	1473014591679	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161491	1473014591768	1473014591831	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161493	1473014591927	1473014591991	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161495	1473014592279	1473014592367	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161496	1473014592400	1473014592567	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161525	1473014592488	1473014592639	r	82
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161528	1473014592591	1473014592719	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161532	1473014592832	1473014592943	l	76
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161540	1473014593032	1473014593190	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161545	1473014593184	1473014593295	t	84
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161552	1473014593368	1473014593471	t	84
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161565	1473014593448	1473014593678	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161568	1473014593568	1473014593711	r	82
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161571	1473014593679	1473014593807	 	32
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161574	1473014593855	1473014593983	d	68
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161577	1473014593904	1473014594055	o	79
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161631	1473014594008	1473014594127	n	78
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161633	1473014594088	1473014594255	e	69
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161634	1473014594344	1473014594455	/	191
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161638	1473014594792	1473014594887	BKSP	8
+81067	886446	Can you get me the Calger letter done?	Can you get me the Calger letter done?	42161641	1473014595384	1473014595471	?	191
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163694	1473014645215	1473014645366	SHIFT	16
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163697	1473014645302	1473014645454	I	73
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163700	1473014645462	1473014645598	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163703	1473014645623	1473014645773	w	87
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163723	1473014645662	1473014645805	o	79
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163727	1473014645734	1473014645854	u	85
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163729	1473014645911	1473014646069	l	76
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163736	1473014646039	1473014646173	d	68
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163740	1473014646134	1473014646254	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163743	1473014646294	1473014646502	l	76
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163758	1473014646407	1473014646558	i	73
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163760	1473014646599	1473014646774	k	75
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163764	1473014646710	1473014646837	e	69
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163767	1473014646775	1473014646910	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163841	1473014646943	1473014647126	t	79
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163845	1473014647070	1473014647190	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163848	1473014647198	1473014647365	s	83
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163853	1473014647518	1473014647589	BKSP	8
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163857	1473014647686	1473014647734	BKSP	8
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163860	1473014647823	1473014647885	BKSP	8
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163863	1473014647926	1473014647998	BKSP	8
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163866	1473014648263	1473014648382	t	84
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163868	1473014648343	1473014648494	o	79
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163871	1473014648447	1473014648566	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163874	1473014648590	1473014648742	s	83
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163891	1473014648695	1473014648814	e	69
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163893	1473014648862	1473014649005	e	69
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163897	1473014648999	1473014649102	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163901	1473014649343	1473014649454	s	83
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163904	1473014649431	1473014649606	o	79
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163919	1473014649519	1473014649678	m	77
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163924	1473014649631	1473014649757	e	69
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163929	1473014649727	1473014649869	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163931	1473014649831	1473014650013	o	79
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163964	1473014649903	1473014650038	f	70
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163967	1473014650007	1473014650110	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163971	1473014650151	1473014650301	t	84
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163974	1473014650246	1473014650358	h	72
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163976	1473014650366	1473014650501	e	69
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163978	1473014650479	1473014650574	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42163982	1473014650815	1473014650933	d	68
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164002	1473014650999	1473014651117	r	82
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164006	1473014651110	1473014651230	i	73
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164012	1473014651310	1473014651437	v	86
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164018	1473014651415	1473014651597	e	69
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164033	1473014651559	1473014651718	r	82
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164035	1473014651686	1473014651830	s	83
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164036	1473014651839	1473014651925	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164037	1473014652038	1473014652197	a	65
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164038	1473014652151	1473014652301	t	84
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164052	1473014652271	1473014652406	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164056	1473014652486	1473014652678	o	79
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164059	1473014652590	1473014652756	u	85
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164062	1473014652749	1473014652878	r	82
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164066	1473014652822	1473014652933	 	32
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164070	1473014653119	1473014653270	g	71
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164106	1473014653223	1473014653358	a	65
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164108	1473014653326	1473014653430	m	77
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164109	1473014653423	1473014653534	e	69
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164112	1473014653582	1473014653702	/	191
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164116	1473014654022	1473014654101	BKSP	8
+81067	886497	I would like to see some of the drivers at our game.	I would like to see some of the drivers at our game.	42164120	1473014654334	1473014654438	.	190
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164223	1473014656358	1473014656541	SHIFT	16
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164228	1473014656478	1473014656606	D	68
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164232	1473014656630	1473014656782	o	79
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164240	1473014656718	1473014656862	e	69
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164246	1473014656814	1473014656933	s	83
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164252	1473014656934	1473014657038	 	32
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164297	1473014657350	1473014657989	SHIFT	16
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164293	1473014657526	1473014657645	F	70
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164295	1473014657806	1473014657917	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164298	1473014657934	1473014658045	D	68
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164299	1473014658118	1473014658229	a	65
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164300	1473014658222	1473014658366	n	78
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164321	1473014658326	1473014658453	 	32
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164324	1473014658590	1473014658789	k	75
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164328	1473014658719	1473014658861	n	78
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164332	1473014658782	1473014658941	o	79
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164335	1473014658893	1473014658997	w	87
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164338	1473014659005	1473014659118	 	32
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164360	1473014659614	1473014659734	a	65
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164365	1473014659711	1473014659879	b	66
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164369	1473014659806	1473014659997	o	79
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164408	1473014659862	1473014660037	u	85
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164409	1473014659990	1473014660110	t	84
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164412	1473014660078	1473014660205	 	32
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164415	1473014660597	1473014660773	SHIFT	16
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164417	1473014660726	1473014660821	J	74
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164418	1473014660910	1473014661053	u	85
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164421	1473014661030	1473014661221	l	76
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164452	1473014661207	1473014661333	i	73
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164454	1473014661414	1473014661541	a	65
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164455	1473014661574	1473014661685	 	32
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164457	1473014661830	1473014661966	c	67
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164459	1473014661926	1473014662053	h	72
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164490	1473014662030	1473014662141	a	65
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164492	1473014662150	1473014662357	n	78
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164496	1473014662318	1473014662469	i	73
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164501	1473014662446	1473014662621	n	78
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164503	1473014662566	1473014662677	g	71
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164505	1473014662830	1473014662917	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164508	1473014662990	1473014663077	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164512	1473014663118	1473014663221	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164515	1473014663446	1473014663550	g	71
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164524	1473014663574	1473014663702	n	78
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164527	1473014663646	1473014663797	i	73
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164530	1473014663766	1473014663877	n	78
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164532	1473014663830	1473014663933	g	71
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164535	1473014664054	1473014664157	 	32
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164610	1473014664510	1473014664597	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164613	1473014664686	1473014664741	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164617	1473014664838	1473014664893	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164618	1473014664982	1473014665062	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164620	1473014665382	1473014665477	BKSP	8
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164622	1473014665702	1473014665837	i	73
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164625	1473014665766	1473014665917	n	78
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164627	1473014665926	1473014666029	g	71
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164629	1473014665998	1473014666142	 	32
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164632	1473014666614	1473014666757	g	71
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164660	1473014666710	1473014666844	r	82
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164665	1473014666822	1473014666901	u	79
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164669	1473014667102	1473014667221	p	80
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164676	1473014667238	1473014667365	s	83
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164678	1473014667677	1473014667989	SHIFT	16
+81067	886504	Does Dan know about Julia changing groups?	Does Dan know about Julia changing groups?	42164680	1473014667902	1473014667973	?	191
+81067	886513	I would like to discuss.	I would like to discuss.	42164738	1473014669669	1473014669845	SHIFT	16
+81067	886513	I would like to discuss.	I would like to discuss.	42164739	1473014669781	1473014669917	I	73
+81067	886513	I would like to discuss.	I would like to discuss.	42164741	1473014669918	1473014670045	 	32
+81067	886513	I would like to discuss.	I would like to discuss.	42164743	1473014670070	1473014670198	w	87
+81067	886513	I would like to discuss.	I would like to discuss.	42164763	1473014670126	1473014670245	o	79
+81067	886513	I would like to discuss.	I would like to discuss.	42164766	1473014670166	1473014670301	u	85
+81067	886513	I would like to discuss.	I would like to discuss.	42164768	1473014670349	1473014670509	l	76
+81067	886513	I would like to discuss.	I would like to discuss.	42164772	1473014670454	1473014670573	d	68
+81067	886513	I would like to discuss.	I would like to discuss.	42164775	1473014670534	1473014670664	 	32
+81067	886513	I would like to discuss.	I would like to discuss.	42164779	1473014670662	1473014670877	l	76
+81067	886513	I would like to discuss.	I would like to discuss.	42164798	1473014670798	1473014670925	i	73
+81067	886513	I would like to discuss.	I would like to discuss.	42164800	1473014670990	1473014671149	k	75
+81067	886513	I would like to discuss.	I would like to discuss.	42164802	1473014671102	1473014671221	e	69
+81067	886513	I would like to discuss.	I would like to discuss.	42164803	1473014671158	1473014671277	 	32
+81067	886513	I would like to discuss.	I would like to discuss.	42164856	1473014671294	1473014671453	o	79
+81067	886513	I would like to discuss.	I would like to discuss.	42164804	1473014671334	1473014671437	t	84
+81067	886513	I would like to discuss.	I would like to discuss.	42164858	1473014671462	1473014671549	 	32
+81067	886513	I would like to discuss.	I would like to discuss.	42164859	1473014671622	1473014671757	d	68
+81067	886513	I would like to discuss.	I would like to discuss.	42164860	1473014671790	1473014671837	i	73
+81067	886513	I would like to discuss.	I would like to discuss.	42164863	1473014672166	1473014672229	BKSP	8
+81067	886513	I would like to discuss.	I would like to discuss.	42164866	1473014672326	1473014672365	BKSP	8
+81067	886513	I would like to discuss.	I would like to discuss.	42164870	1473014672462	1473014672501	BKSP	8
+81067	886513	I would like to discuss.	I would like to discuss.	42164873	1473014672590	1473014672646	BKSP	8
+81067	886513	I would like to discuss.	I would like to discuss.	42164877	1473014672718	1473014672797	BKSP	8
+81067	886513	I would like to discuss.	I would like to discuss.	42164880	1473014672966	1473014673084	t	84
+81067	886513	I would like to discuss.	I would like to discuss.	42164901	1473014673078	1473014673221	o	79
+81067	886513	I would like to discuss.	I would like to discuss.	42164902	1473014673198	1473014673318	 	32
+81067	886513	I would like to discuss.	I would like to discuss.	42164903	1473014673430	1473014673549	d	68
+81067	886513	I would like to discuss.	I would like to discuss.	42164904	1473014673526	1473014673637	i	73
+81067	886513	I would like to discuss.	I would like to discuss.	42164905	1473014673710	1473014673813	s	83
+81067	886513	I would like to discuss.	I would like to discuss.	42164908	1473014673998	1473014674101	BKSP	8
+81067	886513	I would like to discuss.	I would like to discuss.	42164909	1473014674142	1473014674237	c	67
+81067	886513	I would like to discuss.	I would like to discuss.	42164948	1473014674630	1473014674717	BKSP	8
+81067	886513	I would like to discuss.	I would like to discuss.	42164951	1473014674758	1473014674909	s	83
+81067	886513	I would like to discuss.	I would like to discuss.	42164953	1473014675022	1473014675149	c	67
+81067	886513	I would like to discuss.	I would like to discuss.	42164956	1473014675150	1473014675237	u	85
+81067	886513	I would like to discuss.	I would like to discuss.	42164959	1473014675286	1473014675405	s	83
+81067	886513	I would like to discuss.	I would like to discuss.	42164962	1473014675462	1473014675565	s	83
+81067	886513	I would like to discuss.	I would like to discuss.	42164966	1473014675622	1473014675733	.	190
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165034	1473014677406	1473014677565	SHIFT	16
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165035	1473014677502	1473014677640	L	76
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165037	1473014677638	1473014677797	e	69
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165039	1473014677814	1473014677956	t	84
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165043	1473014677942	1473014678037	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165046	1473014678094	1473014678237	m	77
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165056	1473014678166	1473014678301	e	69
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165057	1473014678317	1473014678421	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165059	1473014678526	1473014678733	k	75
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165061	1473014678661	1473014678805	n	78
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165063	1473014678734	1473014678901	o	79
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165111	1473014678814	1473014678940	w	87
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165112	1473014678934	1473014679068	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165113	1473014679062	1473014679221	i	73
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165114	1473014679509	1473014679605	BKSP	8
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165117	1473014680078	1473014680239	i	73
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165120	1473014680214	1473014680325	f	70
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165161	1473014680278	1473014680397	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165164	1473014680470	1473014680637	i	73
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165165	1473014680533	1473014680693	SHIFT	16
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165168	1473014680789	1473014681213	SHIFT	16
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165166	1473014680894	1473014680958	BKSP	8
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165171	1473014681158	1473014681245	I	73
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165174	1473014681342	1473014681429	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165176	1473014681510	1473014681637	c	67
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165179	1473014681574	1473014681717	a	65
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165182	1473014681662	1473014681813	n	78
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165187	1473014681758	1473014681861	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165191	1473014682070	1473014682180	b	66
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165193	1473014682142	1473014682276	e	69
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165214	1473014682253	1473014682380	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165218	1473014682414	1473014682565	o	79
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165221	1473014682517	1473014682653	f	70
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165223	1473014682590	1473014682717	 	32
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165227	1473014682822	1473014682973	h	72
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165273	1473014682958	1473014683085	e	69
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165274	1473014683046	1473014683133	l	76
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165276	1473014683262	1473014683365	p	80
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165279	1473014683510	1473014683613	/	191
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165282	1473014683877	1473014683974	BKSP	8
+81067	886519	Let me know if I can be of help.	Let me know if I can be of help.	42165285	1473014683998	1473014684117	.	190
+81067	886526	Task has to be completed.	Task has to be completed.	42165378	1473014686173	1473014686397	SHIFT	16
+81067	886526	Task has to be completed.	Task has to be completed.	42165384	1473014686358	1473014686532	T	84
+81067	886526	Task has to be completed.	Task has to be completed.	42165388	1473014686526	1473014686645	a	65
+81067	886526	Task has to be completed.	Task has to be completed.	42165394	1473014686678	1473014686773	l	76
+81067	886526	Task has to be completed.	Task has to be completed.	42165398	1473014686997	1473014687085	BKSP	8
+81067	886526	Task has to be completed.	Task has to be completed.	42165402	1473014687118	1473014687229	s	83
+81067	886526	Task has to be completed.	Task has to be completed.	42165408	1473014687238	1473014687396	k	75
+81067	886526	Task has to be completed.	Task has to be completed.	42165423	1473014687366	1473014687493	 	32
+81067	886526	Task has to be completed.	Task has to be completed.	42165425	1473014687573	1473014687692	h	72
+81067	886526	Task has to be completed.	Task has to be completed.	42165427	1473014687662	1473014687829	a	65
+81067	886526	Task has to be completed.	Task has to be completed.	42165428	1473014687782	1473014687925	s	83
+81067	886526	Task has to be completed.	Task has to be completed.	42165429	1473014687878	1473014687981	 	32
+81067	886526	Task has to be completed.	Task has to be completed.	42165430	1473014688118	1473014688181	s	83
+81067	886526	Task has to be completed.	Task has to be completed.	42165453	1473014688501	1473014688589	BKSP	8
+81067	886526	Task has to be completed.	Task has to be completed.	42165456	1473014688622	1473014688756	t	84
+81067	886526	Task has to be completed.	Task has to be completed.	42165459	1473014688750	1473014688902	o	79
+81067	886526	Task has to be completed.	Task has to be completed.	42165460	1473014688853	1473014688965	 	32
+81067	886526	Task has to be completed.	Task has to be completed.	42165462	1473014689005	1473014689133	b	66
+81067	886526	Task has to be completed.	Task has to be completed.	42165482	1473014689094	1473014689221	e	69
+81067	886526	Task has to be completed.	Task has to be completed.	42165483	1473014689206	1473014689325	 	32
+81067	886526	Task has to be completed.	Task has to be completed.	42165486	1473014689438	1473014689597	c	67
+81067	886526	Task has to be completed.	Task has to be completed.	42165488	1473014689517	1473014689644	o	79
+81067	886526	Task has to be completed.	Task has to be completed.	42165490	1473014689622	1473014689837	m	77
+81067	886526	Task has to be completed.	Task has to be completed.	42165523	1473014689766	1473014689973	p	80
+81067	886526	Task has to be completed.	Task has to be completed.	42165525	1473014689902	1473014690029	e	69
+81067	886526	Task has to be completed.	Task has to be completed.	42165528	1473014690182	1473014690317	l	76
+81067	886526	Task has to be completed.	Task has to be completed.	42165531	1473014690469	1473014690541	BKSP	8
+81067	886526	Task has to be completed.	Task has to be completed.	42165533	1473014690621	1473014690677	BKSP	8
+81067	886526	Task has to be completed.	Task has to be completed.	42165537	1473014690830	1473014690981	l	76
+81067	886526	Task has to be completed.	Task has to be completed.	42165540	1473014690949	1473014691100	e	69
+81067	886526	Task has to be completed.	Task has to be completed.	42165566	1473014691094	1473014691229	t	84
+81067	886526	Task has to be completed.	Task has to be completed.	42165567	1473014691438	1473014691557	e	69
+81067	886526	Task has to be completed.	Task has to be completed.	42165569	1473014691654	1473014691788	d	68
+81067	886526	Task has to be completed.	Task has to be completed.	42165571	1473014691782	1473014691877	.	190
+81067	886532	How soon do you need it?	How soon do you need it?	42165633	1473014693533	1473014693756	SHIFT	16
+81067	886532	How soon do you need it?	How soon do you need it?	42165635	1473014693702	1473014693869	H	72
+81067	886532	How soon do you need it?	How soon do you need it?	42165637	1473014693806	1473014693949	o	79
+81067	886532	How soon do you need it?	How soon do you need it?	42165639	1473014693934	1473014694044	w	87
+81067	886532	How soon do you need it?	How soon do you need it?	42165641	1473014694013	1473014694149	 	32
+81067	886532	How soon do you need it?	How soon do you need it?	42165644	1473014694245	1473014694373	s	83
+81067	886532	How soon do you need it?	How soon do you need it?	42165667	1473014694398	1473014694485	e	69
+81067	886532	How soon do you need it?	How soon do you need it?	42165668	1473014694725	1473014694805	BKSP	8
+81067	886532	How soon do you need it?	How soon do you need it?	42165669	1473014694949	1473014695045	o	79
+81067	886532	How soon do you need it?	How soon do you need it?	42165670	1473014695134	1473014695284	o	79
+81067	886532	How soon do you need it?	How soon do you need it?	42165672	1473014695214	1473014695397	n	78
+81067	886532	How soon do you need it?	How soon do you need it?	42165692	1473014695333	1473014695477	 	32
+81067	886532	How soon do you need it?	How soon do you need it?	42165695	1473014695438	1473014695556	d	68
+81067	886532	How soon do you need it?	How soon do you need it?	42165699	1473014695493	1473014695645	o	79
+81067	886532	How soon do you need it?	How soon do you need it?	42165701	1473014695605	1473014695725	 	32
+81067	886532	How soon do you need it?	How soon do you need it?	42165702	1473014695877	1473014696029	y	89
+81067	886532	How soon do you need it?	How soon do you need it?	42165724	1473014695973	1473014696173	o	79
+81067	886532	How soon do you need it?	How soon do you need it?	42165726	1473014696077	1473014696253	u	85
+81067	886532	How soon do you need it?	How soon do you need it?	42165730	1473014696213	1473014696356	 	32
+81067	886532	How soon do you need it?	How soon do you need it?	42165734	1473014696581	1473014696748	n	78
+81067	886532	How soon do you need it?	How soon do you need it?	42165738	1473014696741	1473014696853	e	69
+81067	886532	How soon do you need it?	How soon do you need it?	42165742	1473014696909	1473014697045	e	69
+81067	886532	How soon do you need it?	How soon do you need it?	42165755	1473014697093	1473014697229	d	68
+81067	886532	How soon do you need it?	How soon do you need it?	42165758	1473014697181	1473014697309	 	32
+81067	886532	How soon do you need it?	How soon do you need it?	42165760	1473014697333	1473014697468	i	73
+81067	886532	How soon do you need it?	How soon do you need it?	42165763	1473014697501	1473014697645	t	84
+81067	886532	How soon do you need it?	How soon do you need it?	42165767	1473014697829	1473014697957	.	190
+81067	886532	How soon do you need it?	How soon do you need it?	42165790	1473014698261	1473014698357	BKSP	8
+81067	886532	How soon do you need it?	How soon do you need it?	42165791	1473014698469	1473014698580	?	191
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165901	1473014700541	1473014700644	W	87
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165902	1473014700685	1473014700796	h	72
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165903	1473014700821	1473014700932	e	69
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165904	1473014701157	1473014701276	t	84
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165905	1473014701285	1473014701420	e	69
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165961	1473014701829	1473014701932	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165962	1473014702221	1473014702332	h	72
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165964	1473014702269	1473014702452	e	69
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165966	1473014702381	1473014702517	r	82
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165968	1473014702477	1473014702612	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42165970	1473014703060	1473014703228	i	73
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166000	1473014703197	1473014703340	t	84
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166002	1473014703277	1473014703412	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166005	1473014703405	1473014703540	i	73
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166007	1473014703525	1473014703636	l	76
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166009	1473014703741	1473014703869	l	76
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166011	1473014704005	1473014704076	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166014	1473014704181	1473014704220	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166018	1473014704317	1473014704380	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166023	1473014704653	1473014704789	w	87
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166046	1473014704773	1473014704924	i	73
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166050	1473014704861	1473014704964	l	76
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166053	1473014705038	1473014705179	l	76
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166056	1473014705149	1473014705283	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166058	1473014705419	1473014705571	s	83
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166091	1473014705564	1473014705692	t	84
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166092	1473014705772	1473014705852	a	65
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166094	1473014705853	1473014705940	n	78
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166095	1473014706045	1473014706172	d	68
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166096	1473014706197	1473014706300	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166097	1473014706533	1473014706724	u	85
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166109	1473014706648	1473014706821	p	80
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166110	1473014706773	1473014706924	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166111	1473014706941	1473014707116	o	79
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166113	1473014707021	1473014707189	n	78
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166115	1473014707141	1473014707292	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166117	1473014707421	1473014707556	r	82
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166155	1473014707533	1473014707685	a	65
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166158	1473014707741	1473014707924	v	86
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166162	1473014707877	1473014707988	e	69
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166164	1473014707957	1473014708092	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166166	1473014708453	1473014708540	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166168	1473014708629	1473014708692	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166170	1473014708765	1473014708861	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166173	1473014709269	1473014709428	c	67
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166180	1473014709364	1473014709502	e	69
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166181	1473014709485	1473014709604	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166182	1473014709621	1473014709749	d	68
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166183	1473014709733	1473014709868	a	65
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166184	1473014709885	1473014709988	y	89
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166217	1473014709948	1473014710076	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166219	1473014710429	1473014710556	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166221	1473014710573	1473014710676	,	188
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166223	1473014710781	1473014710908	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166225	1473014711229	1473014711388	n	78
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166227	1473014711333	1473014711452	o	79
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166229	1473014711821	1473014711924	b	66
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166243	1473014712101	1473014712212	o	79
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166244	1473014712277	1473014712379	d	68
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166245	1473014712373	1473014712501	y	89
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166246	1473014712628	1473014712708	 	32
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166247	1473014712997	1473014713228	k	75
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166274	1473014713149	1473014713326	n	78
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166277	1473014713244	1473014713348	o	79
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166280	1473014713308	1473014713436	w	87
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166284	1473014713509	1473014713628	.	190
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166288	1473014713669	1473014713764	s	83
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166290	1473014714197	1473014714260	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166292	1473014714357	1473014714420	BKSP	8
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166294	1473014714484	1473014714588	s	83
+81067	886536	Whether it will stand up on race day, nobody knows.	Whether it will stand up on race day, nobody knows.	42166296	1473014714669	1473014714772	.	190
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166433	1473014718504	1473014718640	SHIFT	16
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166437	1473014718601	1473014718720	T	84
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166442	1473014718688	1473014718808	h	72
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166445	1473014718833	1473014718944	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166446	1473014718913	1473014719040	 	32
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166447	1473014719113	1473014719264	s	83
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166484	1473014719241	1473014719352	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166488	1473014719521	1473014719609	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166491	1473014719689	1473014719776	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166494	1473014719768	1473014719984	SHIFT	16
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166499	1473014719881	1473014720040	S	83
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166502	1473014720088	1473014720240	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166505	1473014720201	1473014720320	n	78
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166509	1473014720425	1473014720552	a	65
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166513	1473014720593	1473014720744	t	84
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166581	1473014720738	1473014720880	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166584	1473014720904	1473014721000	 	32
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166587	1473014721521	1473014721616	d	68
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166590	1473014721905	1473014722040	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166594	1473014722241	1473014722328	i	73
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166598	1473014722561	1473014722656	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166601	1473014722673	1473014722816	f	70
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166624	1473014722819	1473014722928	i	73
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166627	1473014722881	1473014723008	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166630	1473014723065	1473014723208	d	68
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166632	1473014723192	1473014723296	 	32
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166634	1473014723720	1473014723872	SHIFT	16
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166651	1473014723809	1473014723920	P	80
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166653	1473014723945	1473014724064	r	82
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166656	1473014724033	1473014724160	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166658	1473014724217	1473014724336	s	83
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166660	1473014724433	1473014724544	i	73
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166682	1473014724529	1473014724640	d	68
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166684	1473014724665	1473014724751	n	78
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166687	1473014724745	1473014724800	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166691	1473014725009	1473014725120	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166693	1473014725192	1473014725288	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166699	1473014725433	1473014725552	e	69
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166702	1473014725601	1473014725703	n	78
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166722	1473014725696	1473014725847	t	84
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166723	1473014725840	1473014725944	 	32
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166725	1473014726096	1473014726360	SHIFT	16
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166727	1473014726248	1473014726392	B	66
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166729	1473014726441	1473014726576	i	73
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166733	1473014726529	1473014726808	l	76
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166736	1473014727017	1473014727136	l	76
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166799	1473014727209	1473014727336	 	32
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166801	1473014727544	1473014727896	SHIFT	16
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166800	1473014727713	1473014727880	L	67
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166803	1473014727984	1473014728080	SHIFT	16
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166805	1473014728489	1473014728576	l	76
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166807	1473014728744	1473014728808	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166809	1473014728880	1473014728944	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166811	1473014729113	1473014729304	l	76
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166830	1473014729209	1473014729368	i	73
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166832	1473014729337	1473014729424	n	78
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166834	1473014729681	1473014729816	t	84
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166837	1473014729824	1473014730040	o	79
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166840	1473014730025	1473014730120	n	78
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166844	1473014730257	1473014730384	 	32
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166893	1473014730392	1473014730528	o	79
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166894	1473014730777	1473014730824	f	70
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166895	1473014730905	1473014731000	n	78
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166896	1473014731768	1473014731880	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166897	1473014732137	1473014732240	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166898	1473014732385	1473014732576	n	78
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166927	1473014732521	1473014732672	 	32
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166928	1473014732640	1473014732960	SHIFT	16
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166929	1473014732849	1473014732979	T	84
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166930	1473014732977	1473014733072	h	72
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166931	1473014733201	1473014733312	u	85
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166932	1473014733552	1473014733664	r	82
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166933	1473014733841	1473014733992	s	83
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166944	1473014734129	1473014734216	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166948	1473014734585	1473014734768	s	83
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166951	1473014734713	1473014734895	d	68
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166955	1473014734857	1473014735000	a	65
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42167001	1473014735008	1473014735096	u	85
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42166958	1473014735032	1473014735063	y	89
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42167002	1473014735442	1473014735520	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42167003	1473014735592	1473014735680	BKSP	8
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42167004	1473014736033	1473014736104	y	89
+81067	886546	The Senate defied President Bill Clinton on Thursday.	The Senate defied President Bill Clinton on Thursday.	42167005	1473014736328	1473014736456	.	190
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167040	1473014739608	1473014739848	SHIFT	16
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167041	1473014739745	1473014739856	W	87
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167042	1473014739864	1473014739968	i	73
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167043	1473014740001	1473014740139	s	83
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167044	1473014740136	1473014740263	h	72
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167062	1473014740224	1473014740375	 	32
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167064	1473014740465	1473014740631	m	77
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167066	1473014740568	1473014740688	e	69
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167068	1473014740696	1473014740807	 	32
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167070	1473014740784	1473014741016	l	76
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167100	1473014740929	1473014741071	u	85
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167102	1473014741080	1473014741240	c	67
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167104	1473014741337	1473014741464	k	75
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167106	1473014741472	1473014741600	 	32
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167134	1473014741824	1473014741960	w	87
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167108	1473014741864	1473014741936	i	73
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167136	1473014742392	1473014742503	t	84
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167139	1473014742496	1473014742655	h	72
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167142	1473014742640	1473014742775	 	32
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167145	1473014742784	1473014742999	SHIFT	16
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167191	1473014742888	1473014743072	L	76
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167192	1473014742992	1473014743143	I	73
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167193	1473014743089	1473014743215	n	78
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167194	1473014743504	1473014743624	d	68
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167195	1473014743608	1473014743720	a	65
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167196	1473014743864	1473014743944	BKSP	8
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167197	1473014744040	1473014744071	BKSP	8
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167198	1473014744176	1473014744215	BKSP	8
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167200	1473014744304	1473014744375	BKSP	8
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167202	1473014744640	1473014744800	i	73
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167225	1473014744720	1473014744848	n	78
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167226	1473014744817	1473014744935	d	68
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167227	1473014744912	1473014745056	a	65
+81067	886561	Wish me luck with Linda.	Wish me luck with Linda.	42167228	1473014745064	1473014745160	.	190
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167342	1473014749167	1473014749359	SHIFT	16
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167344	1473014749288	1473014749376	M	77
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167345	1473014749480	1473014749615	y	89
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167346	1473014749576	1473014749719	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167349	1473014749792	1473014749879	h	72
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167361	1473014749840	1473014749967	u	85
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167362	1473014750008	1473014750135	s	83
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167363	1473014750280	1473014750375	b	66
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167365	1473014750352	1473014750463	a	65
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167367	1473014750504	1473014750607	n	78
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167391	1473014750584	1473014750703	d	68
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167393	1473014750696	1473014750815	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167395	1473014750967	1473014751327	SHIFT	16
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167396	1473014751248	1473014751352	A	65
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167397	1473014751552	1473014751671	BKSP	8
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167399	1473014751712	1473014751847	a	65
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167401	1473014751808	1473014751927	n	78
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167450	1473014751856	1473014752000	d	68
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167452	1473014752048	1473014752176	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167456	1473014752247	1473014752455	SHIFT	16
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167454	1473014752336	1473014752431	I	73
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167459	1473014752488	1473014752607	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167461	1473014752712	1473014752871	a	65
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167463	1473014752936	1473014753095	r	82
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167466	1473014753032	1473014753177	e	69
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167469	1473014753160	1473014753303	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167472	1473014753288	1473014753455	o	79
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167475	1473014753352	1473014753511	n	78
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167478	1473014753464	1473014753583	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167505	1473014753552	1473014753703	a	65
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167506	1473014753672	1473014753799	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167508	1473014754016	1473014754135	w	87
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167510	1473014754144	1473014754351	a	65
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167512	1473014754600	1473014754736	t	84
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167514	1473014754832	1473014754879	i	73
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167542	1473014755064	1473014755143	BKSP	8
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167543	1473014755216	1473014755295	BKSP	8
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167544	1473014755343	1473014755431	t	84
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167545	1473014755696	1473014755791	BKSP	8
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167547	1473014755992	1473014756111	i	73
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167549	1473014756096	1473014756223	t	84
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167552	1473014756232	1473014756375	i	73
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167567	1473014756296	1473014756479	n	78
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167569	1473014756424	1473014756551	g	71
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167571	1473014756504	1473014756639	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167573	1473014756936	1473014757167	l	76
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167578	1473014757071	1473014757215	i	73
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167580	1473014757160	1473014757335	s	83
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167582	1473014757288	1473014757439	t	84
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167584	1473014757408	1473014757551	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167587	1473014757608	1473014757751	t	84
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167589	1473014757672	1473014757823	o	79
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167619	1473014757752	1473014757919	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167622	1473014758456	1473014758559	g	71
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167625	1473014758545	1473014758671	i	73
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167630	1473014758680	1473014758847	v	86
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167633	1473014758792	1473014758911	e	69
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167669	1473014758864	1473014758968	 	32
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167672	1473014759032	1473014759215	b	66
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167675	1473014759136	1473014759247	o	79
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167679	1473014759576	1473014759687	BKSP	8
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167683	1473014759792	1473014759887	l	76
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167685	1473014759992	1473014760079	o	79
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167688	1473014760144	1473014760239	o	79
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167720	1473014760296	1473014760399	d	68
+81067	886566	My husband and I are on a waiting list to give blood.	My husband and I are on a waiting list to give blood.	42167724	1473014760976	1473014761079	.	190
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167795	1473014762719	1473014762775	SHIFT	16
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167797	1473014763231	1473014763431	SHIFT	16
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167798	1473014763344	1473014763511	L	76
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167799	1473014763496	1473014763607	y	89
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167800	1473014763736	1473014763815	n	78
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167801	1473014763904	1473014763943	n	78
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167802	1473014764224	1473014764352	,	188
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167812	1473014764359	1473014764471	 	32
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167815	1473014764632	1473014764735	g	71
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167817	1473014764688	1473014764823	o	79
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167820	1473014764840	1473014764974	t	84
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167836	1473014764960	1473014765055	 	32
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167839	1473014765088	1473014765223	t	84
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167842	1473014765136	1473014765271	o	79
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167845	1473014765248	1473014765375	 	32
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167847	1473014765383	1473014765526	t	84
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167881	1473014765511	1473014765623	h	72
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167882	1473014765584	1473014765727	e	69
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167883	1473014765768	1473014765879	 	32
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167884	1473014766088	1473014766215	o	79
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167885	1473014766184	1473014766287	f	70
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167886	1473014766368	1473014766479	f	70
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167915	1473014766487	1473014766631	i	73
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167917	1473014766624	1473014766775	c	67
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167919	1473014766720	1473014766855	e	69
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167921	1473014766880	1473014766999	 	32
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167923	1473014767031	1473014767279	SHIFT	16
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167994	1473014767136	1473014767281	O	79
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167996	1473014767328	1473014767415	k	75
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167999	1473014767783	1473014768375	SHIFT	16
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167997	1473014767847	1473014767959	+	187
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42167998	1473014768128	1473014768215	K	75
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42168001	1473014768336	1473014768455	?	191
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42168004	1473014768808	1473014768871	BKSP	8
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42168011	1473014768968	1473014769015	BKSP	8
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42168016	1473014769104	1473014769183	BKSP	8
+81067	886576	Lynn, got to the office OK.	Lynn, got to the office Ok.	42168021	1473014769592	1473014769719	.	190
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168086	1473014771559	1473014772063	SHIFT	16
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168085	1473014771944	1473014772047	W	87
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168088	1473014772120	1473014772287	o	85
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168091	1473014772384	1473014772551	l	76
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168094	1473014772799	1473014772871	BKSP	8
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168097	1473014772959	1473014773023	BKSP	8
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168100	1473014773095	1473014773174	BKSP	8
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168102	1473014773392	1473014773487	o	79
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168114	1473014773423	1473014773567	u	85
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168115	1473014773671	1473014773807	l	76
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168116	1473014773864	1473014773991	d	68
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168117	1473014773960	1473014774079	 	32
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168118	1473014774527	1473014774710	y	89
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168131	1473014774639	1473014774863	o	79
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168133	1473014774752	1473014774895	u	85
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168135	1473014774832	1473014774975	 	32
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168136	1473014775023	1473014775142	h	72
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168137	1473014775136	1473014775286	a	65
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168156	1473014775272	1473014775392	v	86
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168158	1473014775368	1473014775510	e	69
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168161	1473014775456	1473014775599	 	32
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168163	1473014775735	1473014775903	SHIFT	16
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168164	1473014775856	1473014775983	J	74
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168165	1473014776144	1473014776295	o	79
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168166	1473014776311	1473014776455	h	72
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168185	1473014776592	1473014776799	n	78
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168186	1473014776735	1473014776847	 	32
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168187	1473014776920	1473014777058	s	83
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168188	1473014777056	1473014777198	e	69
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168202	1473014777184	1473014777318	n	78
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168203	1473014777312	1473014777439	d	68
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168204	1473014777400	1473014777511	 	32
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168206	1473014777608	1473014777754	m	77
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168207	1473014777752	1473014777871	e	69
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168209	1473014777879	1473014777983	 	32
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168224	1473014778032	1473014778151	a	65
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168225	1473014778128	1473014778239	 	32
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168226	1473014778432	1473014778591	m	77
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168227	1473014778528	1473014778695	e	69
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168228	1473014778744	1473014778863	s	83
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168242	1473014778968	1473014779087	s	83
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168243	1473014779168	1473014779311	a	65
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168244	1473014779552	1473014779751	g	71
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168245	1473014779727	1473014779863	e	69
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168247	1473014780127	1473014780607	SHIFT	16
+81067	886584	Would you have John send me a message?	Would you have John send me a message?	42168246	1473014780408	1473014780511	?	191

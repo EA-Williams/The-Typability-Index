@@ -1,0 +1,485 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175686	1474702590890	1474702591125	SHIFT	16
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175690	1474702591008	1474702591125	I	73
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175693	1474702591193	1474702591317	 	32
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175699	1474702591317	1474702591428	w	87
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175696	1474702591342	1474702591412	i	73
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175702	1474702591509	1474702591564	l	76
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175710	1474702591658	1474702591767	l	76
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175711	1474702591728	1474702591845	 	32
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175712	1474702591896	1474702592043	c	67
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175713	1474702591970	1474702592120	a	65
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175726	1474702592043	1474702592120	l	76
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175729	1474702592199	1474702592271	l	76
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175732	1474702592299	1474702592363	 	32
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175735	1474702592467	1474702592585	i	73
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175738	1474702592534	1474702592601	n	78
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175740	1474702592686	1474702592770	 	32
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175743	1474702592814	1474702592918	2	50
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175745	1474702592896	1474702592977	0	48
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175747	1474702593066	1474702593152	 	32
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175750	1474702593220	1474702593358	t	84
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175775	1474702593320	1474702593470	o	79
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175776	1474702593441	1474702593553	 	32
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175777	1474702593669	1474702593807	3	51
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175779	1474702593807	1474702593865	0	48
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175782	1474702593960	1474702594045	 	32
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175785	1474702594308	1474702594430	m	77
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175794	1474702594430	1474702594531	i	73
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175797	1474702594562	1474702594734	n	78
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175799	1474702594713	1474702594806	u	85
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175801	1474702594778	1474702594902	t	84
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175802	1474702594878	1474702594960	e	69
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175803	1474702595078	1474702595145	s	83
+211933	2298296	I will call in 20 to 30 minutes.	I will call in 20 to 30 minutes.	109175804	1474702595145	1474702595264	.	190
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175854	1474702596791	1474702596985	SHIFT	16
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175856	1474702596896	1474702597001	D	68
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175859	1474702597134	1474702597219	o	79
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175862	1474702597252	1474702597366	 	32
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175863	1474702597366	1474702597469	y	89
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175864	1474702597469	1474702597616	o	79
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175878	1474702597576	1474702597647	u	85
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175880	1474702597751	1474702597851	 	32
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175882	1474702597851	1474702597938	s	83
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175884	1474702598037	1474702598151	t	84
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175886	1474702598103	1474702598163	i	73
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175889	1474702598285	1474702598338	l	76
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175910	1474702598425	1474702598543	l	76
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175912	1474702598595	1474702598669	 	32
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175914	1474702598861	1474702598977	n	78
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175916	1474702598977	1474702599052	e	69
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175919	1474702599162	1474702599294	e	69
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175931	1474702599263	1474702599363	d	68
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175932	1474702599363	1474702599463	 	32
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175933	1474702599670	1474702599763	m	77
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175934	1474702599763	1474702599865	e	69
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175935	1474702599881	1474702599993	 	32
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175936	1474702599993	1474702600133	t	84
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175951	1474702600085	1474702600161	o	79
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175952	1474702600161	1474702600265	 	32
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175953	1474702600281	1474702600406	s	83
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175954	1474702600378	1474702600484	i	73
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175955	1474702600550	1474702600687	g	71
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175977	1474702600631	1474702600687	n	78
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175980	1474702600769	1474702600869	 	32
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175983	1474702600869	1474702600927	s	83
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175986	1474702600975	1474702601046	o	79
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175989	1474702601023	1474702601126	m	77
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175991	1474702601154	1474702601303	e	69
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175992	1474702601239	1474702601355	t	84
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175994	1474702601418	1474702601461	h	72
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175996	1474702601461	1474702601608	i	73
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175999	1474702601556	1474702601669	n	78
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109176001	1474702601641	1474702601747	g	71
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109176004	1474702601747	1474702601925	SHIFT	16
+211933	2298302	Do you still need me to sign something?	Do you still need me to sign something?	109175998	1474702601810	1474702601925	?	187
+211933	2298304	That is not true.	That is not true.	109176038	1474702603311	1474702603490	SHIFT	16
+211933	2298304	That is not true.	That is not true.	109176040	1474702603411	1474702603521	T	84
+211933	2298304	That is not true.	That is not true.	109176042	1474702603564	1474702603695	h	72
+211933	2298304	That is not true.	That is not true.	109176044	1474702603695	1474702603806	a	65
+211933	2298304	That is not true.	That is not true.	109176046	1474702603753	1474702603878	t	84
+211933	2298304	That is not true.	That is not true.	109176059	1474702603847	1474702603943	 	32
+211933	2298304	That is not true.	That is not true.	109176062	1474702603943	1474702604047	i	73
+211933	2298304	That is not true.	That is not true.	109176063	1474702604048	1474702604150	s	83
+211933	2298304	That is not true.	That is not true.	109176064	1474702604096	1474702604169	 	32
+211933	2298304	That is not true.	That is not true.	109176065	1474702604270	1474702604395	n	78
+211933	2298304	That is not true.	That is not true.	109176067	1474702604321	1474702604438	o	79
+211933	2298304	That is not true.	That is not true.	109176070	1474702604395	1474702604464	t	84
+211933	2298304	That is not true.	That is not true.	109176073	1474702604527	1474702604629	 	32
+211933	2298304	That is not true.	That is not true.	109176075	1474702604582	1474702604651	t	84
+211933	2298304	That is not true.	That is not true.	109176076	1474702604768	1474702604894	r	82
+211933	2298304	That is not true.	That is not true.	109176083	1474702604852	1474702604921	u	85
+211933	2298304	That is not true.	That is not true.	109176085	1474702604996	1474702605101	e	69
+211933	2298304	That is not true.	That is not true.	109176087	1474702605343	1474702605498	.	190
+211933	2298306	I am fine with this.	I am fine with this.	109176110	1474702606620	1474702606858	SHIFT	16
+211933	2298306	I am fine with this.	I am fine with this.	109176111	1474702606721	1474702606858	I	73
+211933	2298306	I am fine with this.	I am fine with this.	109176112	1474702606920	1474702606995	 	32
+211933	2298306	I am fine with this.	I am fine with this.	109176113	1474702607042	1474702607151	a	65
+211933	2298306	I am fine with this.	I am fine with this.	109176114	1474702607128	1474702607196	m	77
+211933	2298306	I am fine with this.	I am fine with this.	109176115	1474702607274	1474702607374	 	32
+211933	2298306	I am fine with this.	I am fine with this.	109176126	1474702607374	1474702607556	f	70
+211933	2298306	I am fine with this.	I am fine with this.	109176127	1474702607493	1474702607613	i	73
+211933	2298306	I am fine with this.	I am fine with this.	109176128	1474702607590	1474702607677	n	78
+211933	2298306	I am fine with this.	I am fine with this.	109176129	1474702607736	1474702607826	e	69
+211933	2298306	I am fine with this.	I am fine with this.	109176131	1474702607826	1474702607910	 	32
+211933	2298306	I am fine with this.	I am fine with this.	109176141	1474702607946	1474702608030	w	87
+211933	2298306	I am fine with this.	I am fine with this.	109176143	1474702608030	1474702608135	i	73
+211933	2298306	I am fine with this.	I am fine with this.	109176144	1474702608135	1474702608262	t	84
+211933	2298306	I am fine with this.	I am fine with this.	109176145	1474702608217	1474702608285	h	72
+211933	2298306	I am fine with this.	I am fine with this.	109176146	1474702608379	1474702608463	 	32
+211933	2298306	I am fine with this.	I am fine with this.	109176153	1474702608491	1474702608600	t	84
+211933	2298306	I am fine with this.	I am fine with this.	109176156	1474702608600	1474702608726	h	72
+211933	2298306	I am fine with this.	I am fine with this.	109176158	1474702608779	1474702608807	i	73
+211933	2298306	I am fine with this.	I am fine with this.	109176161	1474702609079	1474702609180	s	83
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176208	1474702610766	1474702611018	SHIFT	16
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176209	1474702610902	1474702611018	S	83
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176210	1474702611096	1474702611188	a	65
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176211	1474702611219	1474702611344	m	77
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176213	1474702611492	1474702611678	a	65
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176215	1474702611678	1474702611780	n	78
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176225	1474702611795	1474702611934	t	84
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176227	1474702611935	1474702612028	h	72
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176229	1474702612028	1474702612102	a	65
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176231	1474702612167	1474702612235	 	32
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176232	1474702612278	1474702612360	w	87
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176242	1474702612381	1474702612550	o	79
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176245	1474702612497	1474702612597	u	85
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176248	1474702612713	1474702612844	l	76
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176252	1474702612844	1474702612920	d	68
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176254	1474702612968	1474702613051	 	32
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176261	1474702613114	1474702613230	n	78
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176264	1474702613198	1474702613271	e	69
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176267	1474702613361	1474702613514	e	69
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176270	1474702613514	1474702613615	d	68
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176273	1474702613615	1474702613716	 	32
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176274	1474702613716	1474702613787	a	65
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176275	1474702613850	1474702613990	r	82
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176276	1474702613951	1474702614034	o	79
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176277	1474702614193	1474702614317	u	85
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176307	1474702614286	1474702614367	n	78
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176310	1474702614424	1474702614571	d	68
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176312	1474702614669	1474702614794	-	189
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176314	1474702615043	1474702615189	t	84
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176316	1474702615243	1474702615379	h	72
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176318	1474702615459	1474702615567	e	69
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176353	1474702616093	1474702616202	-	189
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176355	1474702616583	1474702616712	c	67
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176358	1474702616685	1474702616763	l	76
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176364	1474702616779	1474702616919	o	79
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176367	1474702617034	1474702617166	c	67
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176401	1474702617166	1474702617274	k	75
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176404	1474702617551	1474702617675	-	189
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176407	1474702617810	1474702617909	 	32
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176410	1474702618221	1474702618262	c	67
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176413	1474702618537	1474702618637	a	65
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176468	1474702619024	1474702619155	r	82
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176469	1474702619205	1474702619308	e	69
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176471	1474702619364	1474702619428	BKSP	8
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176473	1474702619525	1474702619573	BKSP	8
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176475	1474702619653	1474702619709	BKSP	8
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176478	1474702619774	1474702619837	BKSP	8
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176480	1474702619926	1474702620002	BKSP	8
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176482	1474702620058	1474702620111	BKSP	8
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176489	1474702620211	1474702620269	BKSP	8
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176493	1474702620909	1474702620979	k	75
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176496	1474702621076	1474702621199	 	32
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176499	1474702621199	1474702621293	c	67
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176484	1474702621252	1474702621360	a	65
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176488	1474702621491	1474702621613	r	82
+211933	2298311	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	109176492	1474702621548	1474702621676	e	69
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176541	1474702623582	1474702623900	SHIFT	16
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176543	1474702623820	1474702623935	I	73
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176546	1474702624117	1474702624235	t	84
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176550	1474702624598	1474702624736	'	191
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176553	1474702624768	1474702624926	s	83
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176556	1474702624926	1474702625052	 	32
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176573	1474702625269	1474702625322	t	84
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176575	1474702625572	1474702625691	h	72
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176579	1474702625628	1474702625766	i	73
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176581	1474702625760	1474702625826	s	83
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176583	1474702625842	1474702625928	 	32
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176610	1474702626107	1474702626264	i	73
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176611	1474702626264	1474702626333	s	83
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176612	1474702626434	1474702626589	s	83
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176613	1474702626550	1474702626634	u	85
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176614	1474702626851	1474702627013	e	69
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176662	1474702627384	1474702627506	'	191
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176663	1474702627506	1474702627639	s	83
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176665	1474702627701	1474702627837	 	32
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176666	1474702628262	1474702628341	f	70
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176667	1474702628460	1474702628610	e	69
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176683	1474702628545	1474702628676	a	65
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176684	1474702628708	1474702628861	t	84
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176685	1474702628892	1474702629008	u	85
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176686	1474702629045	1474702629160	r	82
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176688	1474702629103	1474702629207	e	69
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176690	1474702629308	1474702629407	d	68
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176711	1474702629417	1474702629541	 	32
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176713	1474702629762	1474702629878	e	69
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176715	1474702629945	1474702630085	SHIFT	16
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176718	1474702630023	1474702630134	B	66
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176722	1474702630224	1474702630285	o	79
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176726	1474702630426	1474702630574	o	79
+211933	2298320	It's this issue's featured eBook.	It's this issue's featured eBook.	109176741	1474702630546	1474702630646	k	75
+211933	2298326	I hope you feel better.	I hope you feel better.	109176806	1474702632422	1474702632617	SHIFT	16
+211933	2298326	I hope you feel better.	I hope you feel better.	109176808	1474702632560	1474702632653	I	73
+211933	2298326	I hope you feel better.	I hope you feel better.	109176810	1474702632708	1474702632802	 	32
+211933	2298326	I hope you feel better.	I hope you feel better.	109176814	1474702632802	1474702632957	h	72
+211933	2298326	I hope you feel better.	I hope you feel better.	109176819	1474702632915	1474702633015	o	79
+211933	2298326	I hope you feel better.	I hope you feel better.	109176821	1474702633140	1474702633226	p	80
+211933	2298326	I hope you feel better.	I hope you feel better.	109176829	1474702633236	1474702633332	e	69
+211933	2298326	I hope you feel better.	I hope you feel better.	109176832	1474702633332	1474702633417	 	32
+211933	2298326	I hope you feel better.	I hope you feel better.	109176835	1474702633461	1474702633581	y	89
+211933	2298326	I hope you feel better.	I hope you feel better.	109176838	1474702633543	1474702633681	o	79
+211933	2298326	I hope you feel better.	I hope you feel better.	109176841	1474702633972	1474702634027	 	32
+211933	2298326	I hope you feel better.	I hope you feel better.	109176859	1474702634177	1474702634340	BKSP	8
+211933	2298326	I hope you feel better.	I hope you feel better.	109176861	1474702634540	1474702634640	u	85
+211933	2298326	I hope you feel better.	I hope you feel better.	109176863	1474702634698	1474702634797	 	32
+211933	2298326	I hope you feel better.	I hope you feel better.	109176865	1474702634828	1474702634997	f	70
+211933	2298326	I hope you feel better.	I hope you feel better.	109176866	1474702634957	1474702635058	e	69
+211933	2298326	I hope you feel better.	I hope you feel better.	109176867	1474702635145	1474702635277	e	69
+211933	2298326	I hope you feel better.	I hope you feel better.	109176875	1474702635278	1474702635397	l	76
+211933	2298326	I hope you feel better.	I hope you feel better.	109176877	1474702635397	1474702635487	 	32
+211933	2298326	I hope you feel better.	I hope you feel better.	109176880	1474702635613	1474702635741	b	66
+211933	2298326	I hope you feel better.	I hope you feel better.	109176882	1474702635688	1474702635845	e	69
+211933	2298326	I hope you feel better.	I hope you feel better.	109176891	1474702635788	1474702635888	t	84
+211933	2298326	I hope you feel better.	I hope you feel better.	109176893	1474702635935	1474702636064	t	84
+211933	2298326	I hope you feel better.	I hope you feel better.	109176896	1474702636064	1474702636238	e	69
+211933	2298326	I hope you feel better.	I hope you feel better.	109176899	1474702636204	1474702636320	r	82
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176968	1474702638013	1474702638404	SHIFT	16
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176970	1474702638341	1474702638435	D	68
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176972	1474702638549	1474702638695	o	79
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176975	1474702638611	1474702638715	n	78
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176977	1474702638978	1474702639101	'	191
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176978	1474702639117	1474702639232	t	84
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176984	1474702639232	1474702639365	 	32
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176987	1474702639398	1474702639517	t	84
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176990	1474702639467	1474702639564	h	72
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109176993	1474702639564	1474702639694	e	69
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177010	1474702639670	1474702639766	y	89
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177011	1474702639817	1474702639933	 	32
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177013	1474702639894	1474702640053	h	72
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177015	1474702640032	1474702640152	a	65
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177017	1474702640119	1474702640219	v	86
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177019	1474702640250	1474702640348	e	69
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177024	1474702640426	1474702640519	 	32
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177026	1474702640519	1474702640635	s	83
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177030	1474702640669	1474702640781	o	79
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177035	1474702640742	1474702640856	m	77
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177048	1474702640819	1474702640919	e	69
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177052	1474702640951	1474702641041	 	32
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177057	1474702641074	1474702641197	c	67
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177060	1474702641197	1474702641326	o	79
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177063	1474702641293	1474702641403	n	78
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177066	1474702641585	1474702641743	f	70
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177097	1474702641743	1474702641853	l	76
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177099	1474702641938	1474702642057	i	73
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177101	1474702642110	1474702642210	c	67
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177103	1474702642391	1474702642445	t	84
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177105	1474702642526	1474702642642	s	83
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177114	1474702642642	1474702642773	 	32
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177116	1474702642742	1474702642901	h	72
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177118	1474702642843	1474702642943	e	69
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177120	1474702642975	1474702643125	r	82
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177145	1474702643065	1474702643205	e	69
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177151	1474702643274	1474702643617	SHIFT	16
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177149	1474702643412	1474702643591	=	48
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177155	1474702643864	1474702643982	BKSP	8
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177158	1474702643982	1474702644179	SHIFT	16
+211933	2298329	Don't they have some conflicts here?	Don't they have some conflicts here?	109177159	1474702644048	1474702644213	?	187
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177206	1474702646022	1474702646251	SHIFT	16
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177209	1474702646171	1474702646318	H	72
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177212	1474702646318	1474702646424	e	69
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177215	1474702646424	1474702646493	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177218	1474702646589	1474702646725	c	67
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177241	1474702646637	1474702646776	a	65
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177242	1474702646725	1474702646841	n	78
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177244	1474702646926	1474702647127	 	78
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177247	1474702647273	1474702647381	BKSP	8
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177251	1474702647526	1474702647642	BKSP	8
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177253	1474702647805	1474702647917	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177257	1474702647933	1474702648067	b	66
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177259	1474702648000	1474702648126	e	69
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177260	1474702648158	1474702648239	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177261	1474702648227	1474702648286	e	69
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177262	1474702648429	1474702648535	x	88
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177263	1474702648483	1474702648597	p	80
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177278	1474702648564	1474702648646	l	76
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177280	1474702648717	1474702648800	o	79
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177282	1474702648800	1474702648925	s	83
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177284	1474702648926	1474702649031	i	73
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177286	1474702649031	1474702649125	v	86
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177288	1474702649209	1474702649309	e	69
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177304	1474702649380	1474702649465	,	188
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177307	1474702649548	1474702649647	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177309	1474702649794	1474702649898	b	66
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177312	1474702649964	1474702650128	u	85
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177314	1474702650199	1474702650332	t	84
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177320	1474702650332	1474702650431	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177322	1474702650431	1474702650579	h	72
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177325	1474702650532	1474702650661	e	69
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177328	1474702650631	1474702650741	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177345	1474702650699	1474702650845	i	73
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177346	1474702650829	1474702650926	s	83
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177347	1474702650900	1474702650966	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177348	1474702650997	1474702651093	a	65
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177349	1474702651093	1474702651198	l	76
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177350	1474702651198	1474702651319	s	83
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177366	1474702651292	1474702651382	o	79
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177369	1474702651382	1474702651458	 	32
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177375	1474702651489	1474702651604	e	69
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177381	1474702651558	1474702651633	r	82
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177384	1474702651733	1474702651807	r	82
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177389	1474702651835	1474702651965	a	65
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177401	1474702652034	1474702652157	t	84
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177404	1474702652134	1474702652199	i	73
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177407	1474702652312	1474702652450	c	67
+211933	2298336	He can be explosive, but he is also erratic.	He can be explosive, but he is also erratic.	109177408	1474702652450	1474702652517	.	190
+211933	2298342	I left a message.	I left a message.	109177478	1474702654018	1474702654198	SHIFT	16
+211933	2298342	I left a message.	I left a message.	109177479	1474702654139	1474702654198	I	73
+211933	2298342	I left a message.	I left a message.	109177481	1474702654459	1474702654565	 	32
+211933	2298342	I left a message.	I left a message.	109177483	1474702654545	1474702654670	l	76
+211933	2298342	I left a message.	I left a message.	109177485	1474702654601	1474702654746	e	69
+211933	2298342	I left a message.	I left a message.	109177500	1474702654670	1474702654778	f	70
+211933	2298342	I left a message.	I left a message.	109177502	1474702654863	1474702654969	t	84
+211933	2298342	I left a message.	I left a message.	109177505	1474702654969	1474702655088	 	32
+211933	2298342	I left a message.	I left a message.	109177507	1474702655088	1474702655155	a	65
+211933	2298342	I left a message.	I left a message.	109177509	1474702655202	1474702655245	 	32
+211933	2298342	I left a message.	I left a message.	109177511	1474702655358	1474702655445	m	77
+211933	2298342	I left a message.	I left a message.	109177528	1474702655446	1474702655497	e	69
+211933	2298342	I left a message.	I left a message.	109177531	1474702655605	1474702655681	s	83
+211933	2298342	I left a message.	I left a message.	109177536	1474702655766	1474702655903	s	83
+211933	2298342	I left a message.	I left a message.	109177538	1474702655853	1474702655941	a	65
+211933	2298342	I left a message.	I left a message.	109177543	1474702655984	1474702656109	g	71
+211933	2298342	I left a message.	I left a message.	109177533	1474702656042	1474702656143	e	69
+211933	2298343	Mostly a social call.	Mostly a social call.	109177595	1474702657528	1474702657723	SHIFT	16
+211933	2298343	Mostly a social call.	Mostly a social call.	109177597	1474702657619	1474702657723	M	77
+211933	2298343	Mostly a social call.	Mostly a social call.	109177599	1474702657739	1474702657893	o	79
+211933	2298343	Mostly a social call.	Mostly a social call.	109177602	1474702657894	1474702657965	s	83
+211933	2298343	Mostly a social call.	Mostly a social call.	109177606	1474702658036	1474702658118	t	84
+211933	2298343	Mostly a social call.	Mostly a social call.	109177623	1474702658099	1474702658220	l	76
+211933	2298343	Mostly a social call.	Mostly a social call.	109177624	1474702658236	1474702658356	y	89
+211933	2298343	Mostly a social call.	Mostly a social call.	109177625	1474702658356	1474702658449	 	32
+211933	2298343	Mostly a social call.	Mostly a social call.	109177626	1474702658505	1474702658601	a	65
+211933	2298343	Mostly a social call.	Mostly a social call.	109177627	1474702658601	1474702658704	 	32
+211933	2298343	Mostly a social call.	Mostly a social call.	109177628	1474702658720	1474702658876	s	83
+211933	2298343	Mostly a social call.	Mostly a social call.	109177636	1474702659077	1474702659253	o	79
+211933	2298343	Mostly a social call.	Mostly a social call.	109177638	1474702659243	1474702659347	c	67
+211933	2298343	Mostly a social call.	Mostly a social call.	109177641	1474702659347	1474702659433	i	73
+211933	2298343	Mostly a social call.	Mostly a social call.	109177644	1474702659449	1474702659574	a	65
+211933	2298343	Mostly a social call.	Mostly a social call.	109177660	1474702659548	1474702659641	l	76
+211933	2298343	Mostly a social call.	Mostly a social call.	109177662	1474702659641	1474702659741	 	32
+211933	2298343	Mostly a social call.	Mostly a social call.	109177664	1474702659813	1474702659981	c	67
+211933	2298343	Mostly a social call.	Mostly a social call.	109177665	1474702659894	1474702660009	a	65
+211933	2298343	Mostly a social call.	Mostly a social call.	109177666	1474702659958	1474702660009	l	76
+211933	2298343	Mostly a social call.	Mostly a social call.	109177669	1474702660098	1474702660214	l	76
+211933	2298345	Let me know either way.	Let me know either way.	109177695	1474702661475	1474702661593	SHIFT	16
+211933	2298345	Let me know either way.	Let me know either way.	109177697	1474702661540	1474702661672	L	76
+211933	2298345	Let me know either way.	Let me know either way.	109177699	1474702661709	1474702661856	e	69
+211933	2298345	Let me know either way.	Let me know either way.	109177701	1474702661894	1474702661990	t	84
+211933	2298345	Let me know either way.	Let me know either way.	109177703	1474702661990	1474702662058	 	32
+211933	2298345	Let me know either way.	Let me know either way.	109177704	1474702662156	1474702662242	m	77
+211933	2298345	Let me know either way.	Let me know either way.	109177710	1474702662242	1474702662357	e	69
+211933	2298345	Let me know either way.	Let me know either way.	109177712	1474702662357	1474702662417	 	32
+211933	2298345	Let me know either way.	Let me know either way.	109177713	1474702662526	1474702662609	k	75
+211933	2298345	Let me know either way.	Let me know either way.	109177714	1474702662709	1474702662837	n	78
+211933	2298345	Let me know either way.	Let me know either way.	109177722	1474702662793	1474702662919	o	79
+211933	2298345	Let me know either way.	Let me know either way.	109177727	1474702662875	1474702662985	w	87
+211933	2298345	Let me know either way.	Let me know either way.	109177731	1474702663010	1474702663106	 	32
+211933	2298345	Let me know either way.	Let me know either way.	109177736	1474702663093	1474702663222	e	69
+211933	2298345	Let me know either way.	Let me know either way.	109177742	1474702663194	1474702663333	i	73
+211933	2298345	Let me know either way.	Let me know either way.	109177758	1474702663294	1474702663421	t	84
+211933	2298345	Let me know either way.	Let me know either way.	109177761	1474702663389	1474702663473	h	72
+211933	2298345	Let me know either way.	Let me know either way.	109177764	1474702663473	1474702663573	e	69
+211933	2298345	Let me know either way.	Let me know either way.	109177766	1474702663525	1474702663638	r	82
+211933	2298345	Let me know either way.	Let me know either way.	109177768	1474702663638	1474702663746	 	32
+211933	2298345	Let me know either way.	Let me know either way.	109177770	1474702663763	1474702663932	a	65
+211933	2298345	Let me know either way.	Let me know either way.	109177791	1474702663910	1474702664010	w	87
+211933	2298345	Let me know either way.	Let me know either way.	109177795	1474702664128	1474702664211	BKSP	8
+211933	2298345	Let me know either way.	Let me know either way.	109177798	1474702664293	1474702664390	BKSP	8
+211933	2298345	Let me know either way.	Let me know either way.	109177801	1474702664374	1474702664477	w	87
+211933	2298345	Let me know either way.	Let me know either way.	109177802	1474702664441	1474702664594	a	65
+211933	2298345	Let me know either way.	Let me know either way.	109177803	1474702664594	1474702664741	y	89
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177861	1474702666277	1474702666475	SHIFT	16
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177863	1474702666375	1474702666514	T	84
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177866	1474702666545	1474702666631	j	74
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177869	1474702666646	1474702666733	e	69
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177872	1474702666780	1474702666858	m	77
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177874	1474702667062	1474702667085	 	32
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177912	1474702667165	1474702667264	BKSP	8
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177915	1474702667330	1474702667398	BKSP	8
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177918	1474702667494	1474702667542	BKSP	8
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177920	1474702667600	1474702667683	BKSP	8
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177921	1474702667778	1474702667917	h	72
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177923	1474702667843	1474702667972	e	69
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177924	1474702668202	1474702668317	n	78
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177926	1474702668421	1474702668525	 	32
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177927	1474702668525	1474702668626	w	87
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177935	1474702668573	1474702668626	e	69
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177936	1474702668725	1474702668840	 	32
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177937	1474702668940	1474702669092	c	67
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177938	1474702669009	1474702669174	a	65
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177939	1474702669092	1474702669174	n	78
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177942	1474702669272	1474702669373	 	32
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177958	1474702669340	1474702669492	g	71
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177961	1474702669457	1474702669597	o	79
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177964	1474702669597	1474702669665	 	32
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177969	1474702669665	1474702669788	t	84
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177973	1474702669748	1474702669842	o	79
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177977	1474702669842	1474702669956	 	32
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177994	1474702669942	1474702670160	SHIFT	16
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177996	1474702670057	1474702670191	Z	90
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109177998	1474702670330	1474702670485	a	65
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178000	1474702670461	1474702670532	i	73
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178002	1474702670532	1474702670630	n	78
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178004	1474702670693	1474702670834	y	89
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178008	1474702670877	1474702670975	 	32
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178010	1474702670991	1474702671167	SHIFT	16
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178012	1474702671056	1474702671197	B	66
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178013	1474702671257	1474702671383	r	82
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178014	1474702671318	1474702671459	a	65
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178017	1474702671399	1474702671501	i	73
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178020	1474702671459	1474702671525	n	78
+211933	2298349	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	109178023	1474702671636	1474702671767	y	89
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178053	1474702673060	1474702673256	SHIFT	16
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178054	1474702673174	1474702673326	D	68
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178055	1474702673326	1474702673447	o	79
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178056	1474702673447	1474702673590	 	32
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178057	1474702673590	1474702673766	w	87
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178074	1474702673665	1474702673798	e	69
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178075	1474702673768	1474702673878	 	32
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178077	1474702673878	1474702674038	h	72
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178079	1474702674010	1474702674128	a	65
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178081	1474702674062	1474702674170	v	86
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178082	1474702674234	1474702674342	e	69
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178084	1474702674301	1474702674401	 	32
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178086	1474702674451	1474702674567	a	65
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178088	1474702674518	1474702674646	n	78
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178090	1474702674683	1474702674782	y	89
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178092	1474702674751	1474702674895	o	79
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178107	1474702674851	1474702674967	n	78
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178113	1474702674967	1474702675112	e	69
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178117	1474702675083	1474702675158	 	32
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178121	1474702675204	1474702675318	i	73
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178123	1474702675291	1474702675360	n	78
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178124	1474702675436	1474702675536	 	32
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178130	1474702675536	1474702675652	SHIFT	16
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178131	1474702675578	1474702675652	P	80
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178132	1474702675736	1474702675868	o	79
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178133	1474702675884	1474702675943	r	82
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178135	1474702676053	1474702676200	t	84
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178137	1474702676286	1474702676416	l	76
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178148	1474702676416	1474702676515	a	65
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178150	1474702676538	1474702676638	n	78
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178151	1474702676669	1474702676741	d	68
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178153	1474702676766	1474702677013	SHIFT	16
+211933	2298352	Do we have anyone in Portland?	Do we have anyone in Portland?	109178155	1474702676901	1474702677031	?	187
+211933	2298356	I have some more data coming.	I have some more data coming.	109178218	1474702678591	1474702678790	SHIFT	16
+211933	2298356	I have some more data coming.	I have some more data coming.	109178219	1474702678661	1474702678790	I	73
+211933	2298356	I have some more data coming.	I have some more data coming.	109178220	1474702678874	1474702678990	 	32
+211933	2298356	I have some more data coming.	I have some more data coming.	109178221	1474702679091	1474702679222	h	72
+211933	2298356	I have some more data coming.	I have some more data coming.	109178222	1474702679222	1474702679359	a	65
+211933	2298356	I have some more data coming.	I have some more data coming.	109178223	1474702679359	1474702679445	v	86
+211933	2298356	I have some more data coming.	I have some more data coming.	109178229	1474702679487	1474702679634	e	69
+211933	2298356	I have some more data coming.	I have some more data coming.	109178230	1474702679654	1474702679745	 	32
+211933	2298356	I have some more data coming.	I have some more data coming.	109178231	1474702679862	1474702680000	s	83
+211933	2298356	I have some more data coming.	I have some more data coming.	109178233	1474702680031	1474702680184	o	79
+211933	2298356	I have some more data coming.	I have some more data coming.	109178235	1474702680184	1474702680274	m	77
+211933	2298356	I have some more data coming.	I have some more data coming.	109178256	1474702680355	1474702680518	e	69
+211933	2298356	I have some more data coming.	I have some more data coming.	109178257	1474702680550	1474702680688	 	32
+211933	2298356	I have some more data coming.	I have some more data coming.	109178259	1474702681294	1474702681435	m	77
+211933	2298356	I have some more data coming.	I have some more data coming.	109178261	1474702681435	1474702681558	o	79
+211933	2298356	I have some more data coming.	I have some more data coming.	109178282	1474702681524	1474702681670	r	82
+211933	2298356	I have some more data coming.	I have some more data coming.	109178285	1474702681616	1474702681759	e	69
+211933	2298356	I have some more data coming.	I have some more data coming.	109178287	1474702681823	1474702681938	 	32
+211933	2298356	I have some more data coming.	I have some more data coming.	109178289	1474702681980	1474702682134	d	68
+211933	2298356	I have some more data coming.	I have some more data coming.	109178291	1474702682075	1474702682206	a	65
+211933	2298356	I have some more data coming.	I have some more data coming.	109178293	1474702682375	1474702682534	t	84
+211933	2298356	I have some more data coming.	I have some more data coming.	109178302	1474702682477	1474702682575	a	65
+211933	2298356	I have some more data coming.	I have some more data coming.	109178304	1474702682591	1474702682691	 	32
+211933	2298356	I have some more data coming.	I have some more data coming.	109178306	1474702682707	1474702682838	c	67
+211933	2298356	I have some more data coming.	I have some more data coming.	109178307	1474702682813	1474702682910	o	79
+211933	2298356	I have some more data coming.	I have some more data coming.	109178308	1474702682867	1474702682959	m	77
+211933	2298356	I have some more data coming.	I have some more data coming.	109178312	1474702683055	1474702683166	i	73
+211933	2298356	I have some more data coming.	I have some more data coming.	109178317	1474702683125	1474702683209	n	78
+211933	2298356	I have some more data coming.	I have some more data coming.	109178322	1474702683259	1474702683411	g	71

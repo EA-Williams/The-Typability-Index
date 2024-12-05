@@ -1,0 +1,635 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+387195	4178151	I will try and find out.	I will try and find out.	198485749	1477335810799	1477335811193	SHIFT	16
+387195	4178151	I will try and find out.	I will try and find out.	198485756	1477335811146	1477335811245	I	73
+387195	4178151	I will try and find out.	I will try and find out.	198485762	1477335811230	1477335811333	 	32
+387195	4178151	I will try and find out.	I will try and find out.	198485767	1477335811302	1477335811392	w	87
+387195	4178151	I will try and find out.	I will try and find out.	198485773	1477335811400	1477335811467	l	76
+387195	4178151	I will try and find out.	I will try and find out.	198485776	1477335811666	1477335811730	BKSP	8
+387195	4178151	I will try and find out.	I will try and find out.	198485778	1477335811814	1477335811901	i	73
+387195	4178151	I will try and find out.	I will try and find out.	198485788	1477335811987	1477335812052	l	76
+387195	4178151	I will try and find out.	I will try and find out.	198485790	1477335812114	1477335812210	l	76
+387195	4178151	I will try and find out.	I will try and find out.	198485792	1477335812145	1477335812260	 	32
+387195	4178151	I will try and find out.	I will try and find out.	198485794	1477335812296	1477335812431	t	84
+387195	4178151	I will try and find out.	I will try and find out.	198485814	1477335812374	1477335812573	r	82
+387195	4178151	I will try and find out.	I will try and find out.	198485817	1477335812503	1477335812643	y	89
+387195	4178151	I will try and find out.	I will try and find out.	198485820	1477335812579	1477335812688	 	32
+387195	4178151	I will try and find out.	I will try and find out.	198485823	1477335812749	1477335812853	a	65
+387195	4178151	I will try and find out.	I will try and find out.	198485827	1477335812822	1477335812932	n	78
+387195	4178151	I will try and find out.	I will try and find out.	198485837	1477335812873	1477335812986	d	68
+387195	4178151	I will try and find out.	I will try and find out.	198485840	1477335812962	1477335813067	 	32
+387195	4178151	I will try and find out.	I will try and find out.	198485844	1477335813092	1477335813178	f	70
+387195	4178151	I will try and find out.	I will try and find out.	198485848	1477335813155	1477335813283	i	73
+387195	4178151	I will try and find out.	I will try and find out.	198485853	1477335813236	1477335813353	n	78
+387195	4178151	I will try and find out.	I will try and find out.	198485873	1477335813293	1477335813428	d	68
+387195	4178151	I will try and find out.	I will try and find out.	198485877	1477335813374	1477335813480	 	32
+387195	4178151	I will try and find out.	I will try and find out.	198485884	1477335813506	1477335813608	o	79
+387195	4178151	I will try and find out.	I will try and find out.	198485890	1477335813572	1477335813648	u	85
+387195	4178151	I will try and find out.	I will try and find out.	198485896	1477335813606	1477335813699	t	84
+387195	4178151	I will try and find out.	I will try and find out.	198485902	1477335813736	1477335813867	.	190
+387195	4178153	Thank you for your call.	Thank you for your call.	198485972	1477335815303	1477335815515	SHIFT	16
+387195	4178153	Thank you for your call.	Thank you for your call.	198485974	1477335815425	1477335815519	T	84
+387195	4178153	Thank you for your call.	Thank you for your call.	198485975	1477335815520	1477335815614	h	72
+387195	4178153	Thank you for your call.	Thank you for your call.	198485976	1477335815623	1477335815705	a	65
+387195	4178153	Thank you for your call.	Thank you for your call.	198485977	1477335815692	1477335815824	n	78
+387195	4178153	Thank you for your call.	Thank you for your call.	198485984	1477335815752	1477335815868	k	75
+387195	4178153	Thank you for your call.	Thank you for your call.	198485986	1477335815866	1477335815939	 	32
+387195	4178153	Thank you for your call.	Thank you for your call.	198485988	1477335815990	1477335816104	y	89
+387195	4178153	Thank you for your call.	Thank you for your call.	198485990	1477335816065	1477335816161	o	79
+387195	4178153	Thank you for your call.	Thank you for your call.	198485993	1477335816142	1477335816244	u	85
+387195	4178153	Thank you for your call.	Thank you for your call.	198486019	1477335816194	1477335816285	 	32
+387195	4178153	Thank you for your call.	Thank you for your call.	198486022	1477335816384	1477335816469	f	70
+387195	4178153	Thank you for your call.	Thank you for your call.	198486025	1477335816491	1477335816608	o	79
+387195	4178153	Thank you for your call.	Thank you for your call.	198486027	1477335816555	1477335816647	r	82
+387195	4178153	Thank you for your call.	Thank you for your call.	198486029	1477335816637	1477335816701	 	32
+387195	4178153	Thank you for your call.	Thank you for your call.	198486031	1477335817180	1477335817265	y	89
+387195	4178153	Thank you for your call.	Thank you for your call.	198486043	1477335817291	1477335817432	o	79
+387195	4178153	Thank you for your call.	Thank you for your call.	198486045	1477335817376	1477335817478	u	85
+387195	4178153	Thank you for your call.	Thank you for your call.	198486048	1477335817409	1477335817562	r	82
+387195	4178153	Thank you for your call.	Thank you for your call.	198486050	1477335817518	1477335817607	 	32
+387195	4178153	Thank you for your call.	Thank you for your call.	198486051	1477335817649	1477335817756	c	67
+387195	4178153	Thank you for your call.	Thank you for your call.	198486074	1477335817749	1477335817843	a	65
+387195	4178153	Thank you for your call.	Thank you for your call.	198486077	1477335817791	1477335817850	l	76
+387195	4178153	Thank you for your call.	Thank you for your call.	198486082	1477335817921	1477335817984	l	76
+387195	4178153	Thank you for your call.	Thank you for your call.	198486084	1477335818058	1477335818154	.	190
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486181	1477335819516	1477335819797	SHIFT	16
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486184	1477335819710	1477335819822	I	73
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486186	1477335819839	1477335819938	 	32
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486189	1477335819926	1477335820066	j	74
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486192	1477335820022	1477335820165	u	85
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486206	1477335820066	1477335820216	s	83
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486210	1477335820135	1477335820278	t	84
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486214	1477335820225	1477335820321	 	32
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486218	1477335820298	1477335820442	h	72
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486221	1477335820426	1477335820585	a	65
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486224	1477335820546	1477335820690	d	68
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486230	1477335820602	1477335820714	 	32
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486232	1477335820767	1477335820879	m	77
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486237	1477335820838	1477335820966	y	89
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486241	1477335820927	1477335821034	 	32
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486243	1477335821051	1477335821173	h	72
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486258	1477335821125	1477335821218	e	69
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486261	1477335821191	1477335821334	a	65
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486266	1477335821303	1477335821443	d	68
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486271	1477335821378	1477335821475	 	32
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486275	1477335821462	1477335821572	i	73
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486307	1477335821509	1477335821623	n	78
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486310	1477335821567	1477335821691	 	32
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486316	1477335821691	1477335821811	t	84
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486323	1477335821749	1477335821891	h	72
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486327	1477335821898	1477335822042	e	69
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486335	1477335822004	1477335822121	 	32
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486342	1477335822379	1477335822480	c	67
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486356	1477335822463	1477335822557	o	79
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486358	1477335822511	1477335822673	u	85
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486360	1477335822629	1477335822781	l	76
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486362	1477335822736	1477335822876	d	68
+387195	4178159	I just had my head in the clouds.	I just had my head in the coulds.	198486365	1477335822823	1477335822953	s	83
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486477	1477335824733	1477335824936	SHIFT	16
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486480	1477335824829	1477335824958	W	87
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486482	1477335825045	1477335825156	e	69
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486485	1477335825128	1477335825221	 	32
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486488	1477335825178	1477335825332	h	72
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486499	1477335825306	1477335825390	a	65
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486500	1477335825441	1477335825556	v	86
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486501	1477335825509	1477335825622	e	69
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486505	1477335825570	1477335825674	 	32
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486503	1477335825595	1477335825669	l	76
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486509	1477335825759	1477335825857	o	79
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486534	1477335825783	1477335825949	t	84
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486539	1477335825845	1477335825977	s	83
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486543	1477335825906	1477335825993	 	32
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486546	1477335826016	1477335826134	o	79
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486550	1477335826067	1477335826183	f	70
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486552	1477335826138	1477335826238	 	32
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486553	1477335826274	1477335826361	p	80
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486567	1477335826351	1477335826428	a	65
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486568	1477335826449	1477335826573	p	80
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486569	1477335826568	1477335826718	e	69
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486571	1477335826628	1477335826780	r	82
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486573	1477335826733	1477335826834	 	32
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486575	1477335826928	1477335827009	s	83
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486592	1477335827046	1477335827133	t	84
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486594	1477335827146	1477335827251	u	85
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486597	1477335827245	1477335827309	f	70
+387195	4178165	We have lots of paper stuff.	We have lots of paper stuff.	198486599	1477335827374	1477335827438	f	70
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486673	1477335829069	1477335829340	SHIFT	16
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486675	1477335829279	1477335829370	H	72
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486678	1477335829439	1477335829546	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486682	1477335829498	1477335829616	s	83
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486686	1477335829579	1477335829680	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486690	1477335829706	1477335829810	a	65
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486708	1477335829894	1477335829999	b	66
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486712	1477335829990	1477335830143	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486713	1477335830097	1477335830248	l	76
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486715	1477335830204	1477335830365	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486753	1477335830300	1477335830406	t	84
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486754	1477335830585	1477335830644	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486755	1477335830957	1477335831086	e	69
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486757	1477335831024	1477335831153	s	83
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486759	1477335831075	1477335831201	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486761	1477335831339	1477335831436	w	87
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486778	1477335831411	1477335831496	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486781	1477335831576	1477335831630	l	76
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486785	1477335831721	1477335831792	l	76
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486788	1477335831814	1477335831887	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486792	1477335831888	1477335831991	b	66
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486814	1477335831981	1477335832087	e	69
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486819	1477335832026	1477335832132	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486826	1477335832149	1477335832238	l	76
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486831	1477335832329	1477335832415	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486833	1477335832401	1477335832530	m	77
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486847	1477335832506	1477335832653	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486850	1477335832625	1477335832709	t	84
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486852	1477335832712	1477335832897	e	69
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486856	1477335832839	1477335832975	d	68
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486859	1477335832910	1477335833003	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486862	1477335833031	1477335833147	i	73
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486872	1477335833110	1477335833230	f	70
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486875	1477335833198	1477335833294	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486876	1477335833292	1477335833430	h	72
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486877	1477335833389	1477335833502	e	69
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486878	1477335833456	1477335833562	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486879	1477335833589	1477335833670	d	68
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486888	1477335833675	1477335833769	o	79
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486890	1477335833771	1477335833918	e	69
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486892	1477335833833	1477335833990	s	83
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486894	1477335833906	1477335834013	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486899	1477335834195	1477335834312	p	80
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486941	1477335834276	1477335834380	l	76
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486946	1477335834350	1477335834451	a	65
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486952	1477335834508	1477335834588	y	89
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486960	1477335834573	1477335834671	 	32
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486964	1477335834869	1477335835055	SHIFT	16
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486968	1477335834971	1477335835070	S	83
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486970	1477335835124	1477335835255	u	85
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486989	1477335835199	1477335835342	n	78
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486993	1477335835334	1477335835462	d	68
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198486998	1477335835430	1477335835559	a	65
+387195	4178175	His abilities will be limited if he does play Sunday.	His abilities will be limited if he does play Sunday.	198487004	1477335835551	1477335835606	y	89
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487120	1477335837392	1477335837883	SHIFT	16
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487117	1477335837721	1477335837779	Y	89
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487122	1477335837900	1477335838008	o	79
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487125	1477335837966	1477335838082	u	85
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487129	1477335838068	1477335838159	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487135	1477335838203	1477335838296	c	67
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487185	1477335838271	1477335838385	a	65
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487187	1477335838328	1477335838424	n	78
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487192	1477335838623	1477335838705	'	186
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487197	1477335838990	1477335839111	BKSP	8
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487202	1477335839173	1477335839270	BKSP	8
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487208	1477335839309	1477335839471	'	222
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487233	1477335839424	1477335839532	t	84
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487238	1477335839694	1477335839799	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487241	1477335839922	1477335840109	d	68
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487244	1477335840025	1477335840189	e	69
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487248	1477335840128	1477335840252	s	83
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487265	1477335840242	1477335840417	t	84
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487267	1477335840329	1477335840448	r	82
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487272	1477335840435	1477335840573	o	79
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487279	1477335840571	1477335840735	y	89
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487284	1477335840653	1477335840778	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487289	1477335840931	1477335841039	u	85
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487304	1477335841069	1477335841164	s	83
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487309	1477335841250	1477335841366	,	188
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487314	1477335841404	1477335841491	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487316	1477335841619	1477335841734	a	65
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487337	1477335841732	1477335841829	n	78
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487342	1477335841794	1477335841904	d	68
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487346	1477335841865	1477335841953	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487352	1477335842027	1477335842142	y	89
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487376	1477335842056	1477335842176	o	79
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487378	1477335842113	1477335842228	u	85
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487381	1477335842190	1477335842279	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487384	1477335842316	1477335842417	c	67
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487386	1477335842394	1477335842503	a	65
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487390	1477335842426	1477335842525	n	78
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487393	1477335842690	1477335842840	'	222
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487423	1477335842790	1477335842905	t	84
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487426	1477335842858	1477335842973	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487430	1477335843261	1477335843324	s	83
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487433	1477335843358	1477335843459	t	84
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487437	1477335843458	1477335843612	o	79
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487444	1477335843519	1477335843652	p	80
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487446	1477335843653	1477335843724	 	32
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487447	1477335843771	1477335843866	u	85
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487449	1477335843837	1477335843944	s	83
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487452	1477335844035	1477335844129	,	188
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487479	1477335844060	1477335844131	.	190
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487482	1477335844554	1477335844609	BKSP	8
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487484	1477335844671	1477335844778	BKSP	8
+387195	4178183	You can't destroy us, and you can't stop us.	You can't destroy us, and you can't stop us.	198487486	1477335844766	1477335844894	.	190
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487573	1477335846411	1477335846654	SHIFT	16
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487578	1477335846584	1477335846681	L	76
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487583	1477335846742	1477335846824	a	65
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487587	1477335846868	1477335846980	t	84
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487590	1477335846956	1477335847120	e	69
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487603	1477335847060	1477335847197	r	82
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487604	1477335847123	1477335847230	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487605	1477335847356	1477335847454	w	87
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487606	1477335847452	1477335847541	o	79
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487607	1477335847557	1477335847663	r	82
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487608	1477335847686	1477335847836	k	75
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487668	1477335847776	1477335847908	s	83
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487672	1477335847858	1477335847951	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487675	1477335848141	1477335848244	d	68
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487678	1477335848297	1477335848420	e	69
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487681	1477335848524	1477335848622	a	65
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487684	1477335848680	1477335848807	l	76
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487706	1477335848859	1477335849008	t	84
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487710	1477335849073	1477335849148	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487713	1477335849196	1477335849302	w	87
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487716	1477335849293	1477335849388	i	73
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487726	1477335849380	1477335849507	t	84
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487730	1477335849421	1477335849557	h	72
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487738	1477335849546	1477335849641	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487746	1477335849762	1477335849831	e	69
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487753	1477335849949	1477335850052	t	84
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487776	1477335850029	1477335850164	h	72
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487778	1477335850100	1477335850228	i	73
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487781	1477335850195	1477335850331	c	67
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487784	1477335850304	1477335850420	a	65
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487788	1477335850410	1477335850540	l	76
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487826	1477335850518	1477335850610	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487832	1477335850919	1477335851004	c	67
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487837	1477335851000	1477335851118	o	79
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487845	1477335851075	1477335851185	n	78
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487851	1477335851157	1477335851259	c	67
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487855	1477335851297	1477335851458	e	69
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487874	1477335851398	1477335851510	r	82
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487875	1477335851553	1477335851670	n	78
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487876	1477335851660	1477335851807	s	83
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487877	1477335851758	1477335851874	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487878	1477335852022	1477335852150	i	73
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487888	1477335852088	1477335852205	n	78
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487891	1477335852160	1477335852302	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487904	1477335852268	1477335852455	t	84
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487897	1477335852323	1477335852451	h	72
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487928	1477335852384	1477335852524	e	69
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487931	1477335852453	1477335852572	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487935	1477335852579	1477335852693	m	77
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487937	1477335852632	1477335852778	o	79
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487939	1477335852683	1477335852820	d	68
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487941	1477335852786	1477335852956	e	69
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487962	1477335852897	1477335853022	r	82
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487964	1477335853020	1477335853162	n	78
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487966	1477335853202	1477335853288	 	32
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487970	1477335853363	1477335853456	w	87
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487973	1477335853497	1477335853588	o	79
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487982	1477335853579	1477335853681	r	82
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487985	1477335853694	1477335853798	l	76
+387195	4178193	Later works dealt with ethical concerns in the modern world.	Later works dealt with ethical concerns in the modern world.	198487989	1477335853784	1477335853876	d	68
+387195	4178203	That would be great.	That would be great.	198488095	1477335855358	1477335855658	SHIFT	16
+387195	4178203	That would be great.	That would be great.	198488101	1477335855558	1477335855681	T	84
+387195	4178203	That would be great.	That would be great.	198488106	1477335855671	1477335855791	h	72
+387195	4178203	That would be great.	That would be great.	198488112	1477335855788	1477335855903	a	65
+387195	4178203	That would be great.	That would be great.	198488115	1477335855879	1477335856019	t	84
+387195	4178203	That would be great.	That would be great.	198488132	1477335855959	1477335856054	 	32
+387195	4178203	That would be great.	That would be great.	198488136	1477335856101	1477335856199	w	87
+387195	4178203	That would be great.	That would be great.	198488141	1477335856215	1477335856300	o	79
+387195	4178203	That would be great.	That would be great.	198488147	1477335856274	1477335856410	u	85
+387195	4178203	That would be great.	That would be great.	198488152	1477335856397	1477335856516	l	76
+387195	4178203	That would be great.	That would be great.	198488173	1477335856441	1477335856547	d	68
+387195	4178203	That would be great.	That would be great.	198488178	1477335856497	1477335856582	 	32
+387195	4178203	That would be great.	That would be great.	198488187	1477335856596	1477335856714	b	66
+387195	4178203	That would be great.	That would be great.	198488184	1477335856640	1477335856711	e	69
+387195	4178203	That would be great.	That would be great.	198488190	1477335856710	1477335856812	 	32
+387195	4178203	That would be great.	That would be great.	198488193	1477335856834	1477335856949	g	71
+387195	4178203	That would be great.	That would be great.	198488201	1477335856909	1477335856991	r	82
+387195	4178203	That would be great.	That would be great.	198488203	1477335857117	1477335857220	e	69
+387195	4178203	That would be great.	That would be great.	198488207	1477335857173	1477335857297	a	65
+387195	4178203	That would be great.	That would be great.	198488210	1477335857309	1477335857387	t	84
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488338	1477335858917	1477335859273	SHIFT	16
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488340	1477335859217	1477335859331	M	77
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488343	1477335859381	1477335859463	a	65
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488346	1477335859462	1477335859586	n	78
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488348	1477335859571	1477335859682	y	89
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488424	1477335859655	1477335859754	 	32
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488426	1477335859832	1477335859960	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488428	1477335859912	1477335860037	a	65
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488430	1477335860164	1477335860371	l	76
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488432	1477335860304	1477335860486	i	73
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488436	1477335861105	1477335861261	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488486	1477335861177	1477335861368	r	82
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488489	1477335861316	1477335861486	 	32
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488493	1477335862265	1477335862327	c	67
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488498	1477335862469	1477335862602	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488502	1477335862555	1477335862760	a	65
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488550	1477335862658	1477335862822	s	83
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488552	1477335863060	1477335863177	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488554	1477335863356	1477335863463	f	70
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488555	1477335863484	1477335863611	u	85
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488556	1477335863729	1477335863894	r	82
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488591	1477335863793	1477335863939	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488594	1477335863871	1477335863984	 	32
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488598	1477335864058	1477335864150	a	65
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488603	1477335864224	1477335864287	c	67
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488607	1477335864376	1477335864478	c	67
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488610	1477335864522	1477335864639	o	79
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488656	1477335864599	1477335864731	r	82
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488660	1477335864813	1477335864973	d	68
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488667	1477335865017	1477335865059	 	32
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488671	1477335865358	1477335865443	BKSP	8
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488675	1477335865407	1477335865541	s	83
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488677	1477335865457	1477335865571	 	32
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488679	1477335865621	1477335865731	h	72
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488686	1477335865697	1477335865798	a	65
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488689	1477335865853	1477335865977	v	86
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488694	1477335865914	1477335866027	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488701	1477335865983	1477335866069	 	32
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488707	1477335866091	1477335866194	b	66
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488754	1477335866154	1477335866222	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488755	1477335866288	1477335866374	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488756	1477335866346	1477335866467	n	78
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488759	1477335866434	1477335866521	 	32
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488764	1477335866844	1477335866929	r	82
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488769	1477335867128	1477335867188	BKSP	8
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488809	1477335867167	1477335867257	b	66
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488812	1477335867311	1477335867420	r	82
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488814	1477335867441	1477335867584	o	79
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488815	1477335867531	1477335867644	k	75
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488816	1477335867644	1477335867737	e	69
+387195	4178209	Many earlier ceasefire accords have been broken.	Many ealier ceasefure accords have been broken.	198488817	1477335867745	1477335867823	n	78
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198488952	1477335869581	1477335869888	SHIFT	16
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198488954	1477335869787	1477335869897	I	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198488959	1477335869917	1477335870021	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198488965	1477335870021	1477335870128	b	66
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198488970	1477335870102	1477335870194	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198488979	1477335870212	1477335870363	l	76
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489005	1477335870293	1477335870420	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489007	1477335870321	1477335870460	v	86
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489009	1477335870407	1477335870543	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489012	1477335870479	1477335870610	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489015	1477335870689	1477335870794	s	83
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489017	1477335870783	1477335870918	h	72
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489063	1477335870868	1477335871027	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489070	1477335870944	1477335871072	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489076	1477335871642	1477335871734	g	71
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489081	1477335871794	1477335871873	a	65
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489087	1477335871904	1477335872032	v	86
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489102	1477335871984	1477335872084	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489106	1477335872070	1477335872162	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489108	1477335872165	1477335872257	a	65
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489113	1477335872236	1477335872301	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489117	1477335872313	1477335872465	t	84
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489182	1477335872420	1477335872520	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489186	1477335872578	1477335872675	l	76
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489190	1477335872624	1477335872722	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489193	1477335873174	1477335873265	v	86
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489198	1477335873373	1477335873472	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489218	1477335873435	1477335873546	s	83
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489220	1477335873560	1477335873747	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489226	1477335873607	1477335873754	o	79
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489234	1477335873643	1477335873805	n	78
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489235	1477335873740	1477335873854	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489242	1477335873921	1477335874066	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489249	1477335873985	1477335874100	n	78
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489250	1477335874126	1477335874218	t	84
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489251	1477335874216	1477335874361	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489253	1477335874298	1477335874397	r	82
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489256	1477335874525	1477335874607	v	86
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489259	1477335874647	1477335874776	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489267	1477335874750	1477335874901	e	69
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489272	1477335874830	1477335874954	w	87
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489276	1477335874898	1477335874996	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489280	1477335874972	1477335875109	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489298	1477335875045	1477335875159	n	78
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489302	1477335875091	1477335875187	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489305	1477335875174	1477335875371	SHIFT	16
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489310	1477335875290	1477335875393	B	66
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489315	1477335875417	1477335875524	r	82
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489322	1477335875501	1477335875643	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489326	1477335875624	1477335875736	t	84
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489329	1477335875817	1477335875922	a	65
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489365	1477335876096	1477335876218	i	73
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489370	1477335876161	1477335876273	n	78
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489376	1477335876254	1477335876334	 	32
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489381	1477335876586	1477335876651	BKSP	8
+387195	4178225	I believe she gave a television interview in Britain.	I belive she gave a television interview in Britain.	198489390	1477335876673	1477335876748	.	190
+387195	4178238	What is going on?	What is going on?	198489495	1477335878068	1477335878800	SHIFT	16
+387195	4178238	What is going on?	What is going on?	198489498	1477335878720	1477335878828	W	87
+387195	4178238	What is going on?	What is going on?	198489502	1477335878836	1477335878937	h	72
+387195	4178238	What is going on?	What is going on?	198489506	1477335878900	1477335878995	a	65
+387195	4178238	What is going on?	What is going on?	198489513	1477335878998	1477335879215	t	84
+387195	4178238	What is going on?	What is going on?	198489616	1477335879098	1477335879261	s	83
+387195	4178238	What is going on?	What is going on?	198489623	1477335879186	1477335879297	 	32
+387195	4178238	What is going on?	What is going on?	198489633	1477335879921	1477335879979	BKSP	8
+387195	4178238	What is going on?	What is going on?	198489642	1477335880039	1477335880142	BKSP	8
+387195	4178238	What is going on?	What is going on?	198489648	1477335880129	1477335880231	 	32
+387195	4178238	What is going on?	What is going on?	198489653	1477335880287	1477335880429	i	73
+387195	4178238	What is going on?	What is going on?	198489660	1477335880377	1477335880496	s	83
+387195	4178238	What is going on?	What is going on?	198489666	1477335880432	1477335880536	 	32
+387195	4178238	What is going on?	What is going on?	198489671	1477335880580	1477335880676	g	71
+387195	4178238	What is going on?	What is going on?	198489665	1477335880642	1477335880715	o	79
+387195	4178238	What is going on?	What is going on?	198489672	1477335880800	1477335880901	i	73
+387195	4178238	What is going on?	What is going on?	198489678	1477335880857	1477335880964	n	78
+387195	4178238	What is going on?	What is going on?	198489682	1477335880885	1477335881008	g	71
+387195	4178238	What is going on?	What is going on?	198489686	1477335880944	1477335881051	 	32
+387195	4178238	What is going on?	What is going on?	198489700	1477335881046	1477335881157	o	79
+387195	4178238	What is going on?	What is going on?	198489707	1477335881110	1477335881213	n	78
+387195	4178238	What is going on?	What is going on?	198489715	1477335881302	1477335881470	?	191
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489886	1477335883178	1477335883302	B	66
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489887	1477335883313	1477335883411	r	82
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489888	1477335883422	1477335883581	i	73
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489890	1477335883629	1477335883762	t	84
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489892	1477335883798	1477335883916	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489932	1477335883923	1477335884104	i	73
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489937	1477335884021	1477335884159	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489943	1477335884131	1477335884243	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198489950	1477335884394	1477335884540	e	69
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490002	1477335884483	1477335884673	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490009	1477335884878	1477335885007	r	82
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490017	1477335885188	1477335885313	l	76
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490019	1477335885269	1477335885382	i	73
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490025	1477335885386	1477335885569	e	69
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490081	1477335885550	1477335885709	r	82
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490086	1477335885617	1477335885731	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490092	1477335885963	1477335886071	o	79
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490099	1477335886051	1477335886133	r	82
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490107	1477335886236	1477335886313	g	71
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490115	1477335886363	1477335886468	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490138	1477335886453	1477335886579	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490141	1477335886595	1477335886763	i	73
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490146	1477335886790	1477335886957	s	83
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490151	1477335886939	1477335887062	e	69
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490159	1477335887140	1477335887292	d	68
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490200	1477335887224	1477335887336	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490203	1477335887440	1477335887545	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490205	1477335887527	1477335887650	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490208	1477335887618	1477335887713	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490211	1477335887756	1477335887850	e	69
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490216	1477335887888	1477335887970	v	86
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490293	1477335888054	1477335888168	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490297	1477335888183	1477335888291	c	67
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490303	1477335888514	1477335888610	u	85
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490307	1477335889141	1477335889242	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490309	1477335889298	1477335889384	t	84
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490333	1477335889439	1477335889627	i	73
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490335	1477335889468	1477335889646	o	79
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490336	1477335889539	1477335889687	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490337	1477335889666	1477335889772	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490338	1477335889833	1477335889984	o	79
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490410	1477335889906	1477335890043	f	70
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490412	1477335889992	1477335890098	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490415	1477335890609	1477335890734	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490419	1477335890714	1477335890871	o	79
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490422	1477335890811	1477335891006	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490425	1477335891405	1477335891568	-	189
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490442	1477335891693	1477335891912	SHIFT	16
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490446	1477335891826	1477335891956	B	66
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490452	1477335891975	1477335892096	r	82
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490455	1477335892097	1477335892218	i	73
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490460	1477335892290	1477335892372	t	84
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490462	1477335892389	1477335892538	o	79
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490504	1477335892489	1477335892643	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490509	1477335892668	1477335892819	s	83
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490511	1477335892770	1477335892879	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490514	1477335893106	1477335893186	f	70
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490515	1477335893267	1477335893374	r	82
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490517	1477335893377	1477335893500	o	79
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490559	1477335893431	1477335893555	m	77
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490563	1477335893508	1477335893607	 	32
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490566	1477335893642	1477335893877	SHIFT	16
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490572	1477335893762	1477335893893	S	83
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490576	1477335893939	1477335894066	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490582	1477335894098	1477335894201	n	78
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490587	1477335894369	1477335894434	a	65
+387195	4178243	Britain earlier organised an evacuation of non-Britons from Sanaa.	Britain earlier organised an evacuation of non-Britons from Sanaa.	198490589	1477335894519	1477335894614	a	65
+387195	4178264	I am almost speechless.	I am almost speechless.	198491002	1477335894628	1477335899304	.	190
+387195	4178264	I am almost speechless.	I am almost speechless.	198490767	1477335896113	1477335896305	SHIFT	16
+387195	4178264	I am almost speechless.	I am almost speechless.	198490770	1477335896219	1477335896323	I	73
+387195	4178264	I am almost speechless.	I am almost speechless.	198490775	1477335896394	1477335896480	 	32
+387195	4178264	I am almost speechless.	I am almost speechless.	198490780	1477335896527	1477335896616	a	65
+387195	4178264	I am almost speechless.	I am almost speechless.	198490787	1477335896579	1477335896703	m	77
+387195	4178264	I am almost speechless.	I am almost speechless.	198490812	1477335896677	1477335896737	 	32
+387195	4178264	I am almost speechless.	I am almost speechless.	198490818	1477335896869	1477335896948	a	65
+387195	4178264	I am almost speechless.	I am almost speechless.	198490824	1477335896973	1477335897053	l	76
+387195	4178264	I am almost speechless.	I am almost speechless.	198490830	1477335897104	1477335897235	m	77
+387195	4178264	I am almost speechless.	I am almost speechless.	198490839	1477335897193	1477335897321	o	79
+387195	4178264	I am almost speechless.	I am almost speechless.	198490878	1477335897260	1477335897418	s	83
+387195	4178264	I am almost speechless.	I am almost speechless.	198490881	1477335897347	1477335897485	t	84
+387195	4178264	I am almost speechless.	I am almost speechless.	198490885	1477335897421	1477335897516	 	32
+387195	4178264	I am almost speechless.	I am almost speechless.	198490890	1477335897631	1477335897721	s	83
+387195	4178264	I am almost speechless.	I am almost speechless.	198490892	1477335897722	1477335897853	p	80
+387195	4178264	I am almost speechless.	I am almost speechless.	198490928	1477335897807	1477335897896	e	69
+387195	4178264	I am almost speechless.	I am almost speechless.	198490933	1477335897941	1477335898046	e	69
+387195	4178264	I am almost speechless.	I am almost speechless.	198490942	1477335898135	1477335898230	c	67
+387195	4178264	I am almost speechless.	I am almost speechless.	198490948	1477335898225	1477335898356	h	72
+387195	4178264	I am almost speechless.	I am almost speechless.	198490951	1477335898501	1477335898630	l	76
+387195	4178264	I am almost speechless.	I am almost speechless.	198490977	1477335898610	1477335898741	e	69
+387195	4178264	I am almost speechless.	I am almost speechless.	198490982	1477335898696	1477335898791	s	83
+387195	4178264	I am almost speechless.	I am almost speechless.	198490993	1477335898856	1477335898965	s	83
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491177	1477335900491	1477335901162	SHIFT	16
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491178	1477335901080	1477335901171	T	84
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491182	1477335901182	1477335901286	h	72
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491186	1477335901292	1477335901446	i	73
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491187	1477335901432	1477335901576	s	83
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491227	1477335901533	1477335901633	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491232	1477335901740	1477335901841	n	78
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491237	1477335901784	1477335901861	e	69
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491242	1477335901930	1477335902018	e	69
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491246	1477335902067	1477335902192	d	68
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491260	1477335902142	1477335902232	s	83
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491265	1477335902186	1477335902275	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491270	1477335902286	1477335902392	t	84
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491274	1477335902334	1477335902409	o	79
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491277	1477335902386	1477335902486	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491280	1477335902494	1477335902581	g	71
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491316	1477335902574	1477335902701	o	79
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491323	1477335902644	1477335902744	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491329	1477335902743	1477335902849	t	84
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491336	1477335902821	1477335902971	o	79
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491344	1477335902857	1477335902975	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491352	1477335903177	1477335903316	i	73
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491403	1477335903264	1477335903370	m	77
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491412	1477335903589	1477335903635	b	66
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491419	1477335903735	1477335903835	a	65
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491425	1477335903788	1477335903902	l	76
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491432	1477335903930	1477335904062	c	67
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491491	1477335904024	1477335904131	e	69
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491496	1477335904104	1477335904212	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491504	1477335904368	1477335904489	b	66
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491515	1477335904462	1477335904598	e	69
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491520	1477335904634	1477335904740	t	84
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491526	1477335904798	1477335904923	w	87
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491559	1477335904920	1477335904990	e	69
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491564	1477335905063	1477335905181	e	69
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491570	1477335905169	1477335905279	n	78
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491575	1477335905239	1477335905322	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491580	1477335905451	1477335905677	SHIFT	16
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491584	1477335905587	1477335905677	Q	81
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491590	1477335905746	1477335905842	u	85
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491624	1477335905862	1477335905945	a	65
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491628	1477335905974	1477335906101	n	78
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491630	1477335906106	1477335906185	t	84
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491633	1477335906232	1477335906313	u	85
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491638	1477335906410	1477335906529	m	77
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491681	1477335906503	1477335906606	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491690	1477335906579	1477335906719	a	65
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491693	1477335906656	1477335906791	n	78
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491699	1477335906753	1477335906863	d	68
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491702	1477335906792	1477335906910	 	32
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491735	1477335906924	1477335907114	SHIFT	16
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491705	1477335906986	1477335907067	C	67
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491739	1477335907213	1477335907401	r	82
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491744	1477335907334	1477335907476	e	69
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491750	1477335907427	1477335907581	s	83
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491754	1477335907590	1477335907735	t	84
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491759	1477335907795	1477335907908	o	79
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491761	1477335907860	1477335908009	n	78
+387195	4178270	This needs to go to imbalance between Quantum and Crestone.	This needs to go to imbalce between Quantum and Crestone	198491764	1477335907954	1477335908068	e	69
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491965	1477335909473	1477335909765	SHIFT	16
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491959	1477335909686	1477335909743	I	85
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491970	1477335910065	1477335910143	BKSP	8
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491975	1477335910207	1477335910297	BKSP	8
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491980	1477335910237	1477335910452	SHIFT	16
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491984	1477335910352	1477335910456	I	73
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491989	1477335910495	1477335910579	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198491998	1477335910597	1477335910693	w	87
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492017	1477335910677	1477335910755	o	79
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492021	1477335910746	1477335910882	u	85
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492027	1477335910857	1477335911000	l	76
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492035	1477335910940	1477335911062	d	68
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492040	1477335911011	1477335911090	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492046	1477335911169	1477335911277	s	83
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492085	1477335911274	1477335911381	u	85
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492087	1477335911655	1477335911725	g	71
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492093	1477335911780	1477335911911	g	71
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492097	1477335911873	1477335912062	e	69
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492100	1477335911957	1477335912110	s	83
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492131	1477335912076	1477335912251	t	84
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492136	1477335912193	1477335912327	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492141	1477335912419	1477335912515	y	89
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492147	1477335912511	1477335912662	o	79
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492177	1477335912577	1477335912692	u	85
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492181	1477335912647	1477335912727	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492186	1477335912745	1477335912867	a	65
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492189	1477335912821	1477335912947	n	78
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492195	1477335912911	1477335913075	d	68
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492201	1477335913040	1477335913134	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492206	1477335913148	1477335913396	SHIFT	16
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492230	1477335913303	1477335913415	M	77
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492234	1477335913463	1477335913596	a	65
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492238	1477335913603	1477335913690	r	82
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492242	1477335913676	1477335913806	k	75
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492246	1477335913793	1477335913881	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492250	1477335913953	1477335914086	a	65
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492260	1477335914089	1477335914173	d	68
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492264	1477335914273	1477335914449	r	82
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492268	1477335914336	1477335914509	e	69
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492274	1477335914430	1477335914513	s	83
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492278	1477335914598	1477335914706	s	83
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492288	1477335914718	1477335914806	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492291	1477335914804	1477335914892	t	84
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492296	1477335914914	1477335915085	h	72
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492300	1477335914989	1477335915164	i	73
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492353	1477335915104	1477335915232	s	83
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492359	1477335915185	1477335915284	 	32
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492362	1477335915548	1477335915628	t	84
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492363	1477335915692	1477335915785	o	79
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492364	1477335915824	1477335915921	g	71
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492366	1477335916308	1477335916379	e	69
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492381	1477335916447	1477335916542	t	84
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492386	1477335916519	1477335916633	h	72
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492393	1477335916605	1477335916748	e	69
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492399	1477335916673	1477335916784	r	82
+387195	4178279	I would suggest you and Mark address this together.	I would suggest you and Mark address this together.	198492404	1477335916801	1477335916936	.	190

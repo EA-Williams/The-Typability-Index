@@ -1,0 +1,691 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+2022	20399	Milly is a seller.	Milly is a seller.	972858	1471960331142	1471960331468	SHIFT	16
+2022	20399	Milly is a seller.	Milly is a seller.	972852	1471960331260	1471960331393	M	77
+2022	20399	Milly is a seller.	Milly is a seller.	972865	1471960331434	1471960331537	I	73
+2022	20399	Milly is a seller.	Milly is a seller.	972871	1471960331622	1471960331718	l	76
+2022	20399	Milly is a seller.	Milly is a seller.	972877	1471960331783	1471960331887	l	76
+2022	20399	Milly is a seller.	Milly is a seller.	972883	1471960331967	1471960332105	y	89
+2022	20399	Milly is a seller.	Milly is a seller.	973011	1471960332559	1471960332628	BKSP	8
+2022	20399	Milly is a seller.	Milly is a seller.	973014	1471960332712	1471960332793	BKSP	8
+2022	20399	Milly is a seller.	Milly is a seller.	973019	1471960332853	1471960332932	BKSP	8
+2022	20399	Milly is a seller.	Milly is a seller.	973025	1471960332996	1471960333078	BKSP	8
+2022	20399	Milly is a seller.	Milly is a seller.	973031	1471960333850	1471960333967	i	73
+2022	20399	Milly is a seller.	Milly is a seller.	973036	1471960334052	1471960334118	l	76
+2022	20399	Milly is a seller.	Milly is a seller.	973041	1471960334186	1471960334293	l	76
+2022	20399	Milly is a seller.	Milly is a seller.	973046	1471960334355	1471960334484	y	89
+2022	20399	Milly is a seller.	Milly is a seller.	973049	1471960334525	1471960334659	 	32
+2022	20399	Milly is a seller.	Milly is a seller.	973065	1471960334683	1471960334845	i	73
+2022	20399	Milly is a seller.	Milly is a seller.	973068	1471960334815	1471960335015	s	83
+2022	20399	Milly is a seller.	Milly is a seller.	973070	1471960334970	1471960335109	 	32
+2022	20399	Milly is a seller.	Milly is a seller.	973072	1471960335249	1471960335464	a	65
+2022	20399	Milly is a seller.	Milly is a seller.	973147	1471960335434	1471960335605	 	32
+2022	20399	Milly is a seller.	Milly is a seller.	973152	1471960335719	1471960335904	s	83
+2022	20399	Milly is a seller.	Milly is a seller.	973156	1471960335935	1471960336088	e	69
+2022	20399	Milly is a seller.	Milly is a seller.	973158	1471960336104	1471960336196	l	76
+2022	20399	Milly is a seller.	Milly is a seller.	973160	1471960336279	1471960336402	l	76
+2022	20399	Milly is a seller.	Milly is a seller.	973163	1471960336410	1471960336602	e	69
+2022	20399	Milly is a seller.	Milly is a seller.	973179	1471960336553	1471960336723	r	82
+2022	20399	Milly is a seller.	Milly is a seller.	973183	1471960336739	1471960336854	.	190
+2022	20413	Is that enough for this week?	Is that enough for this week?	973538	1471960340690	1471960340911	SHIFT	16
+2022	20413	Is that enough for this week?	Is that enough for this week?	973542	1471960340806	1471960340959	I	73
+2022	20413	Is that enough for this week?	Is that enough for this week?	973548	1471960341373	1471960341582	s	83
+2022	20413	Is that enough for this week?	Is that enough for this week?	973552	1471960341485	1471960341634	 	32
+2022	20413	Is that enough for this week?	Is that enough for this week?	973555	1471960341681	1471960341852	t	84
+2022	20413	Is that enough for this week?	Is that enough for this week?	973612	1471960341797	1471960341943	h	72
+2022	20413	Is that enough for this week?	Is that enough for this week?	973616	1471960341971	1471960342158	a	65
+2022	20413	Is that enough for this week?	Is that enough for this week?	973625	1471960342096	1471960342298	t	84
+2022	20413	Is that enough for this week?	Is that enough for this week?	973633	1471960342310	1471960342453	 	32
+2022	20413	Is that enough for this week?	Is that enough for this week?	973639	1471960342689	1471960342878	e	69
+2022	20413	Is that enough for this week?	Is that enough for this week?	973677	1471960342867	1471960342969	n	78
+2022	20413	Is that enough for this week?	Is that enough for this week?	973679	1471960343024	1471960343150	o	79
+2022	20413	Is that enough for this week?	Is that enough for this week?	973683	1471960343134	1471960343265	u	85
+2022	20413	Is that enough for this week?	Is that enough for this week?	973686	1471960343326	1471960343495	g	71
+2022	20413	Is that enough for this week?	Is that enough for this week?	973691	1471960343467	1471960343595	h	72
+2022	20413	Is that enough for this week?	Is that enough for this week?	973695	1471960343708	1471960343880	 	32
+2022	20413	Is that enough for this week?	Is that enough for this week?	973744	1471960344104	1471960344252	f	70
+2022	20413	Is that enough for this week?	Is that enough for this week?	973748	1471960344210	1471960344374	o	79
+2022	20413	Is that enough for this week?	Is that enough for this week?	973752	1471960344363	1471960344536	r	82
+2022	20413	Is that enough for this week?	Is that enough for this week?	973756	1471960344504	1471960344653	 	32
+2022	20413	Is that enough for this week?	Is that enough for this week?	973759	1471960344671	1471960344831	t	84
+2022	20413	Is that enough for this week?	Is that enough for this week?	973784	1471960344781	1471960344898	h	72
+2022	20413	Is that enough for this week?	Is that enough for this week?	973785	1471960344928	1471960345076	i	73
+2022	20413	Is that enough for this week?	Is that enough for this week?	973788	1471960345041	1471960345220	s	83
+2022	20413	Is that enough for this week?	Is that enough for this week?	973793	1471960345181	1471960345317	 	32
+2022	20413	Is that enough for this week?	Is that enough for this week?	973803	1471960345415	1471960345591	w	87
+2022	20413	Is that enough for this week?	Is that enough for this week?	973809	1471960345626	1471960345706	e	69
+2022	20413	Is that enough for this week?	Is that enough for this week?	973905	1471960345788	1471960345910	e	69
+2022	20413	Is that enough for this week?	Is that enough for this week?	973910	1471960346064	1471960346177	k	75
+2022	20413	Is that enough for this week?	Is that enough for this week?	973919	1471960346538	1471960346906	SHIFT	16
+2022	20413	Is that enough for this week?	Is that enough for this week?	973914	1471960346830	1471960346877	?	191
+2022	20429	We all know that it does exist.	We all know that it does exist.	974194	1471960350511	1471960350747	SHIFT	16
+2022	20429	We all know that it does exist.	We all know that it does exist.	974195	1471960350687	1471960350873	W	87
+2022	20429	We all know that it does exist.	We all know that it does exist.	974196	1471960350957	1471960351142	e	69
+2022	20429	We all know that it does exist.	We all know that it does exist.	974197	1471960351174	1471960351361	 	32
+2022	20429	We all know that it does exist.	We all know that it does exist.	974198	1471960351368	1471960351566	a	65
+2022	20429	We all know that it does exist.	We all know that it does exist.	974269	1471960351531	1471960351616	l	76
+2022	20429	We all know that it does exist.	We all know that it does exist.	974274	1471960351673	1471960351812	l	76
+2022	20429	We all know that it does exist.	We all know that it does exist.	974281	1471960351789	1471960351936	 	32
+2022	20429	We all know that it does exist.	We all know that it does exist.	974286	1471960352279	1471960352393	k	75
+2022	20429	We all know that it does exist.	We all know that it does exist.	974295	1471960352464	1471960352588	n	78
+2022	20429	We all know that it does exist.	We all know that it does exist.	974303	1471960352655	1471960352797	o	79
+2022	20429	We all know that it does exist.	We all know that it does exist.	974344	1471960352820	1471960353015	w	87
+2022	20429	We all know that it does exist.	We all know that it does exist.	974348	1471960352984	1471960353142	 	32
+2022	20429	We all know that it does exist.	We all know that it does exist.	974353	1471960353257	1471960353379	t	84
+2022	20429	We all know that it does exist.	We all know that it does exist.	974357	1471960353326	1471960353461	h	72
+2022	20429	We all know that it does exist.	We all know that it does exist.	974362	1471960353486	1471960353689	a	65
+2022	20429	We all know that it does exist.	We all know that it does exist.	974448	1471960353628	1471960353810	t	84
+2022	20429	We all know that it does exist.	We all know that it does exist.	974452	1471960353788	1471960353919	 	32
+2022	20429	We all know that it does exist.	We all know that it does exist.	974459	1471960353953	1471960354103	i	73
+2022	20429	We all know that it does exist.	We all know that it does exist.	974469	1471960354186	1471960354355	t	84
+2022	20429	We all know that it does exist.	We all know that it does exist.	974479	1471960354457	1471960354605	 	32
+2022	20429	We all know that it does exist.	We all know that it does exist.	974485	1471960354843	1471960355034	d	68
+2022	20429	We all know that it does exist.	We all know that it does exist.	974579	1471960354993	1471960355154	o	79
+2022	20429	We all know that it does exist.	We all know that it does exist.	974580	1471960355175	1471960355389	e	69
+2022	20429	We all know that it does exist.	We all know that it does exist.	974581	1471960355350	1471960355555	s	83
+2022	20429	We all know that it does exist.	We all know that it does exist.	974583	1471960355520	1471960355655	 	32
+2022	20429	We all know that it does exist.	We all know that it does exist.	974590	1471960355930	1471960355972	e	69
+2022	20429	We all know that it does exist.	We all know that it does exist.	974595	1471960356319	1471960356455	i	73
+2022	20429	We all know that it does exist.	We all know that it does exist.	974710	1471960356513	1471960356653	x	88
+2022	20429	We all know that it does exist.	We all know that it does exist.	974714	1471960356833	1471960356893	BKSP	8
+2022	20429	We all know that it does exist.	We all know that it does exist.	974717	1471960356977	1471960357071	BKSP	8
+2022	20429	We all know that it does exist.	We all know that it does exist.	974720	1471960357146	1471960357354	x	88
+2022	20429	We all know that it does exist.	We all know that it does exist.	974723	1471960357327	1471960357475	i	73
+2022	20429	We all know that it does exist.	We all know that it does exist.	974726	1471960358292	1471960358507	s	83
+2022	20429	We all know that it does exist.	We all know that it does exist.	974779	1471960358496	1471960358676	t	84
+2022	20429	We all know that it does exist.	We all know that it does exist.	974784	1471960359208	1471960359289	.	190
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975068	1471960362584	1471960362957	SHIFT	16
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975067	1471960362720	1471960362839	Y	89
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975070	1471960362865	1471960363045	O	79
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975073	1471960363002	1471960363166	u	85
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975080	1471960363694	1471960363761	BKSP	8
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975085	1471960363843	1471960363944	BKSP	8
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975094	1471960364354	1471960364515	o	79
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975537	1471960364493	1471960364640	u	85
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975541	1471960364694	1471960364841	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975546	1471960365023	1471960365150	h	72
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975548	1471960365140	1471960365322	a	65
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975554	1471960371064	1471960371265	e	69
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975606	1471960371434	1471960371669	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975614	1471960371829	1471960372024	a	65
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975621	1471960372008	1471960372135	l	76
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975627	1471960372236	1471960372401	o	79
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975633	1471960372429	1471960372565	t	84
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975726	1471960372739	1471960372795	BKSP	8
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975730	1471960372877	1471960372926	BKSP	8
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975735	1471960373015	1471960373074	BKSP	8
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975738	1471960373162	1471960373247	BKSP	8
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975741	1471960373331	1471960373431	BKSP	8
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975742	1471960373737	1471960373884	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975745	1471960373953	1471960374122	a	65
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975746	1471960374237	1471960374418	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975749	1471960374400	1471960374505	l	76
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975750	1471960374609	1471960374772	o	79
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975770	1471960374779	1471960374932	t	84
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975772	1471960374917	1471960375067	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975775	1471960375190	1471960375343	o	79
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975779	1471960375291	1471960375458	f	70
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975856	1471960375418	1471960375534	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975858	1471960375599	1471960375734	h	72
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975861	1471960375747	1471960375921	o	79
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975867	1471960376383	1471960376550	l	76
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975874	1471960376525	1471960376719	e	69
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975934	1471960376700	1471960376902	s	83
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975936	1471960376862	1471960376992	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975939	1471960377044	1471960377162	i	73
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975941	1471960377642	1471960377761	n	78
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975943	1471960377820	1471960377976	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975945	1471960378063	1471960378156	y	89
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975994	1471960378224	1471960378385	o	79
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975997	1471960378356	1471960378503	u	85
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	975999	1471960378536	1471960378697	r	82
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	976001	1471960378686	1471960378822	 	32
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	976005	1471960379030	1471960379184	p	80
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	976052	1471960379272	1471960379415	l	76
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	976056	1471960379421	1471960379602	a	65
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	976058	1471960379545	1471960379633	n	78
+2022	20452	You have a lot of holes in your plan.	You have a lot of holes in your plan.	976062	1471960379764	1471960379875	.	190
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976277	1471960382846	1471960383091	SHIFT	16
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976279	1471960383042	1471960383203	T	84
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976280	1471960383133	1471960383281	h	72
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976282	1471960383294	1471960383497	e	69
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976284	1471960383466	1471960383697	s	83
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976288	1471960383705	1471960383898	e	69
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976319	1471960383905	1471960384048	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976321	1471960384110	1471960384330	a	65
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976323	1471960384295	1471960384511	r	82
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976327	1471960384480	1471960384655	e	69
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976391	1471960384644	1471960384812	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976395	1471960384824	1471960384979	b	66
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976398	1471960384959	1471960385095	i	73
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976401	1471960385142	1471960385305	g	71
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976406	1471960385578	1471960385741	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976410	1471960385803	1471960386019	s	83
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976485	1471960386041	1471960386200	t	84
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976489	1471960386229	1471960386410	o	79
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976492	1471960386541	1471960386684	r	82
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976495	1471960386728	1471960386891	m	77
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976500	1471960386930	1471960387152	s	83
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976573	1471960387175	1471960387346	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976577	1471960387430	1471960387523	o	79
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976581	1471960387873	1471960387982	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976586	1471960388109	1471960388300	a	65
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976591	1471960388230	1471960388380	n	78
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976594	1471960388386	1471960388534	d	68
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976643	1471960388512	1471960388665	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976648	1471960388783	1471960388910	t	84
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976652	1471960389017	1471960389170	r	82
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976655	1471960389200	1471960389413	a	65
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976661	1471960389473	1471960389611	f	70
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976665	1471960389678	1471960389809	f	70
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976720	1471960389858	1471960389975	i	73
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976721	1471960389966	1471960390132	c	67
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976723	1471960390414	1471960390597	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976725	1471960390604	1471960390779	a	65
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976728	1471960391033	1471960391156	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976731	1471960391467	1471960391595	i	73
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976879	1471960391608	1471960391800	s	83
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976883	1471960391757	1471960391910	n	78
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976892	1471960391971	1471960392126	t	84
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976899	1471960392464	1471960392598	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976906	1471960393556	1471960393622	;	186
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976911	1471960393673	1471960393842	t	84
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976989	1471960394091	1471960394231	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976990	1471960394714	1471960394867	m	77
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	976993	1471960394878	1471960395026	o	79
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977001	1471960395172	1471960395290	i	73
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977005	1471960395396	1471960395540	n	78
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977208	1471960395764	1471960395838	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977211	1471960395923	1471960396001	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977215	1471960396076	1471960396150	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977218	1471960396221	1471960396295	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977222	1471960396358	1471960396447	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977225	1471960396537	1471960396595	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977230	1471960396675	1471960396790	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977232	1471960397206	1471960397614	SHIFT	16
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977235	1471960397916	1471960398061	"	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977237	1471960398595	1471960398780	BKSP	8
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977240	1471960399633	1471960399803	t	84
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977242	1471960400101	1471960400276	 	32
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977244	1471960400407	1471960400551	m	77
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977257	1471960400585	1471960400733	o	79
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977262	1471960400691	1471960400878	v	86
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977267	1471960400854	1471960400981	i	73
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977274	1471960401081	1471960401209	n	78
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977278	1471960401228	1471960401373	g	71
+2022	20474	These are big storms and traffic isn't moving.	These are big storms and traffic isn't moving.	977290	1471960401427	1471960401508	.	190
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977528	1471960404827	1471960405167	SHIFT	16
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977525	1471960404980	1471960405115	M	77
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977532	1471960405176	1471960405284	i	73
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977537	1471960405362	1471960405421	l	76
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977542	1471960405493	1471960405568	l	76
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977546	1471960405625	1471960405685	l	76
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977676	1471960406040	1471960406117	BKSP	8
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977678	1471960406193	1471960406293	BKSP	8
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977680	1471960406541	1471960406603	e	69
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977682	1471960407633	1471960407694	BKSP	8
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977684	1471960407949	1471960408033	l	76
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977686	1471960408080	1471960408292	e	69
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977689	1471960408218	1471960408391	r	82
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977765	1471960408351	1471960408513	 	32
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977769	1471960408742	1471960408847	m	77
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977774	1471960408910	1471960409027	i	73
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977779	1471960409180	1471960409298	h	72
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977785	1471960409580	1471960409695	BKSP	8
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977791	1471960409751	1471960409885	g	71
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977798	1471960409901	1471960410013	h	72
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977839	1471960410038	1471960410210	t	84
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977844	1471960410237	1471960410381	 	32
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977852	1471960410518	1471960410630	h	72
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977856	1471960410645	1471960410813	a	65
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977861	1471960410845	1471960411002	v	86
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977870	1471960411081	1471960411236	e	69
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977871	1471960411245	1471960411373	 	32
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977874	1471960411415	1471960411554	t	84
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977877	1471960411519	1471960411663	o	79
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977915	1471960411652	1471960411827	 	32
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977917	1471960411917	1471960412133	w	87
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977919	1471960412116	1471960412445	a	65
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977923	1471960412569	1471960412712	i	73
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977925	1471960412712	1471960412885	t	84
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977928	1471960412885	1471960413001	 	32
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977951	1471960413270	1471960413367	u	85
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977953	1471960413474	1471960413559	n	78
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977957	1471960413663	1471960413810	t	84
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977958	1471960413799	1471960413894	i	73
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	977959	1471960413997	1471960414118	l	76
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978088	1471960414172	1471960414301	 	32
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978091	1471960414348	1471960414591	s	83
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978093	1471960414815	1471960414903	\	220
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978094	1471960415420	1471960415479	BKSP	8
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978096	1471960415569	1471960415656	BKSP	8
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978100	1471960415881	1471960416187	SHIFT	16
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978103	1471960416071	1471960416287	S	83
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978107	1471960416686	1471960416757	u	85
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978140	1471960416878	1471960416960	n	78
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978145	1471960416940	1471960417113	d	68
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978149	1471960417090	1471960417310	a	65
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978153	1471960417284	1471960417368	y	89
+2022	20501	Miller might have to wait until Sunday.	Miller might have to wait until Sunday.	978156	1471960417862	1471960417933	.	190
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978359	1471960420676	1471960420921	SHIFT	16
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978361	1471960420833	1471960421044	A	65
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978365	1471960421121	1471960421237	t	84
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978368	1471960421402	1471960421570	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978371	1471960421579	1471960421750	l	76
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978419	1471960421694	1471960421873	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978421	1471960421918	1471960422156	a	65
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978423	1471960422144	1471960422385	s	83
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978428	1471960422391	1471960422567	t	84
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978430	1471960422588	1471960422735	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978434	1471960422939	1471960423082	t	84
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978465	1471960423035	1471960423174	h	72
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978469	1471960423165	1471960423325	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978473	1471960423296	1471960423433	n	78
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978480	1471960423467	1471960423608	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978487	1471960423684	1471960423801	o	79
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978491	1471960423839	1471960423978	n	78
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978507	1471960424022	1471960424181	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978509	1471960424130	1471960424330	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978512	1471960424300	1471960424539	p	80
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978515	1471960424562	1471960424751	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978579	1471960424677	1471960424901	r	82
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978585	1471960424890	1471960425115	s	83
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978590	1471960425045	1471960425162	o	79
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978593	1471960425234	1471960425397	n	78
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978595	1471960425406	1471960425545	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978598	1471960425978	1471960426088	i	73
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978648	1471960426171	1471960426286	n	78
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978650	1471960426339	1471960426456	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978653	1471960426537	1471960427022	SHIFT	16
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978656	1471960426911	1471960427053	D	68
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978661	1471960427154	1471960427345	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978738	1471960427323	1471960427477	n	78
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978742	1471960427808	1471960427939	v	86
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978747	1471960428024	1471960428214	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978752	1471960428144	1471960428314	r	82
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978758	1471960428345	1471960428515	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978762	1471960428729	1471960428940	w	87
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978854	1471960428879	1471960429042	o	79
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978858	1471960429023	1471960429171	u	85
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978865	1471960429495	1471960429648	l	76
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978870	1471960429637	1471960429800	d	68
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978874	1471960429847	1471960430035	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978880	1471960430321	1471960430439	b	66
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978901	1471960430539	1471960430691	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978907	1471960430698	1471960430854	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978910	1471960430860	1471960431052	a	65
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978915	1471960431090	1471960431212	b	66
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978962	1471960431188	1471960431344	l	76
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978963	1471960431360	1471960431545	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978966	1471960431545	1471960431692	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978969	1471960431761	1471960431919	t	84
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978973	1471960431890	1471960431986	o	79
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	978975	1471960432013	1471960432178	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	979015	1471960432184	1471960432284	g	71
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	979021	1471960432363	1471960432556	e	69
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	979025	1471960432575	1471960432617	t	84
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	979028	1471960433127	1471960433263	 	32
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	979030	1471960433278	1471960433394	i	73
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	979043	1471960433460	1471960433588	n	78
+2022	20522	At least then one person in Denver would be able to get in.	At least then one person in Denver would be able to get in,	979046	1471960433739	1471960433790	,	188
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979225	1471960436993	1471960437268	SHIFT	16
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979222	1471960437130	1471960437268	I	73
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979230	1471960437283	1471960437435	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979233	1471960437468	1471960437599	h	72
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979237	1471960437638	1471960437975	o	79
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979266	1471960437950	1471960438163	p	80
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979269	1471960438228	1471960438398	e	69
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979273	1471960438347	1471960438494	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979276	1471960438547	1471960438699	t	84
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979278	1471960438647	1471960438776	h	72
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979280	1471960438830	1471960438970	s	73
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979303	1471960439064	1471960439214	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979305	1471960439269	1471960439435	i	73
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979307	1471960439374	1471960439598	s	83
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979309	1471960439536	1471960439671	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979312	1471960439722	1471960439849	t	84
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979324	1471960439796	1471960439944	h	72
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979326	1471960439922	1471960440064	e	69
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979328	1471960440045	1471960440184	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979330	1471960440215	1471960440346	l	76
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979335	1471960440352	1471960440533	a	65
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979384	1471960440502	1471960440753	s	83
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979389	1471960440820	1471960440972	t	84
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979393	1471960441050	1471960441227	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979396	1471960441485	1471960441636	r	82
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979398	1471960441616	1471960441763	e	69
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979400	1471960441848	1471960442017	v	86
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979421	1471960442022	1471960442156	i	73
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979424	1471960442198	1471960442434	s	83
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979428	1471960442347	1471960442536	i	73
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979432	1471960442509	1471960442640	o	79
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979437	1471960442662	1471960442826	n	78
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979513	1471960442847	1471960442997	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979516	1471960443045	1471960443144	o	79
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979521	1471960443477	1471960443588	BKSP	8
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979526	1471960443686	1471960443852	f	70
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979532	1471960443829	1471960443975	o	79
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979538	1471960443975	1471960444148	r	82
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979648	1471960444122	1471960444275	 	32
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979650	1471960444386	1471960444568	s	83
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979653	1471960444552	1471960444716	e	69
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979658	1471960444940	1471960445037	BKSP	8
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979665	1471960445120	1471960445192	BKSP	8
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979671	1471960445506	1471960446095	SHIFT	16
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979678	1471960445962	1471960446120	S	83
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979687	1471960446179	1471960446335	e	69
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979690	1471960446472	1471960446677	p	80
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979735	1471960446877	1471960447013	t	84
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979739	1471960447056	1471960447223	e	69
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979741	1471960447257	1471960447418	m	77
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979742	1471960447462	1471960447593	b	66
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979744	1471960447692	1471960447873	e	69
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979756	1471960447793	1471960447960	r	82
+2022	20538	I hope this is the last revision for September.	I hope this is the last revision for September.	979758	1471960448006	1471960448118	.	190
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	979942	1471960450803	1471960451135	SHIFT	16
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	979943	1471960451035	1471960451228	B	66
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	979946	1471960451214	1471960451387	u	85
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	979950	1471960451367	1471960451535	t	84
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	979956	1471960451535	1471960451682	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	979961	1471960452086	1471960452241	t	84
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980014	1471960452230	1471960452372	h	72
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980015	1471960452340	1471960452517	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980017	1471960452506	1471960452624	y	89
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980021	1471960452681	1471960452826	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980025	1471960453001	1471960453106	p	80
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980027	1471960453190	1471960453342	l	76
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980060	1471960453364	1471960453558	a	65
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980063	1471960453531	1471960453648	y	89
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980066	1471960453743	1471960453848	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980069	1471960453964	1471960454095	d	68
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980071	1471960454149	1471960454312	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980162	1471960454379	1471960454565	s	83
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980165	1471960454512	1471960454675	o	79
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980168	1471960455490	1471960455575	BKSP	8
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980171	1471960455653	1471960455746	BKSP	8
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980174	1471960455821	1471960456009	d	68
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980176	1471960456178	1471960456228	o	79
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980178	1471960456244	1471960456479	w	87
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980206	1471960456790	1471960456940	n	78
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980209	1471960457021	1471960457172	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980212	1471960457214	1471960457369	t	84
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980216	1471960457322	1471960457456	h	72
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980218	1471960457463	1471960457607	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980267	1471960457536	1471960457675	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980270	1471960457703	1471960457877	p	80
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980272	1471960457965	1471960458155	r	82
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980274	1471960458190	1471960458371	o	79
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980276	1471960458469	1471960458658	s	83
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980279	1471960458707	1471960458870	p	80
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980321	1471960458887	1471960459092	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980327	1471960459164	1471960459319	c	67
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980331	1471960459419	1471960459564	t	84
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980334	1471960459550	1471960459691	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980338	1471960459788	1471960459948	o	79
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980392	1471960459893	1471960460058	f	70
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980397	1471960460023	1471960460151	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980404	1471960460182	1471960460422	a	65
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980409	1471960460555	1471960460641	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980415	1471960460848	1471960461058	r	82
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980499	1471960461003	1471960461228	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980501	1471960461259	1471960461409	a	65
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980502	1471960461899	1471960462033	BKSP	8
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980503	1471960462223	1471960462392	p	80
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980504	1471960462455	1471960462650	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980505	1471960462622	1471960462864	a	65
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980583	1471960462829	1471960463002	t	84
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980585	1471960463009	1471960463169	 	32
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980587	1471960463361	1471960463465	r	82
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980589	1471960463795	1471960463909	BKSP	8
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980591	1471960464100	1471960464309	p	80
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980593	1471960464331	1471960464508	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980649	1471960464415	1471960464582	r	82
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980651	1471960464719	1471960464887	f	70
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980655	1471960464944	1471960465137	o	79
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980657	1471960465190	1471960465395	r	82
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980659	1471960465407	1471960465520	m	77
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980661	1471960465560	1471960465780	a	65
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980672	1471960465736	1471960465861	n	78
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980674	1471960465869	1471960466018	c	67
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980676	1471960466070	1471960466220	e	69
+2022	20548	But they played down the prospect of a repeat performance.	But they played down the prospect of a repeat performance.	980678	1471960466180	1471960466280	.	190
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980908	1471960468992	1471960469605	SHIFT	16
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980905	1471960469299	1471960469348	O	79
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980913	1471960469881	1471960470002	BKSP	8
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980921	1471960470153	1471960470546	SHIFT	16
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980917	1471960470295	1471960470430	Y	89
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980923	1471960470477	1471960470670	O	79
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980927	1471960470629	1471960470781	u	85
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	980931	1471960470803	1471960471003	r	82
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981045	1471960471009	1471960471150	 	32
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981047	1471960471466	1471960471519	BKSP	8
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981049	1471960471603	1471960471661	BKSP	8
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981051	1471960471750	1471960471810	BKSP	8
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981053	1471960471904	1471960471962	BKSP	8
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981055	1471960472552	1471960472700	o	79
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981057	1471960472741	1471960472888	u	85
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981058	1471960472989	1471960473195	r	82
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981060	1471960473232	1471960473411	 	32
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981115	1471960473655	1471960473857	f	70
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981118	1471960473836	1471960474004	a	65
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981121	1471960474041	1471960474188	c	67
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981125	1471960474499	1471960474602	BKSP	8
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981128	1471960474649	1471960474842	x	88
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981130	1471960474875	1471960475035	 	32
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981173	1471960475281	1471960475397	w	87
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981175	1471960475481	1471960475666	a	65
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981177	1471960475645	1471960475858	s	83
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981181	1471960475830	1471960475980	 	32
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981185	1471960475980	1471960476163	b	66
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981251	1471960476149	1471960476284	u	85
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981253	1471960476343	1471960476623	s	83
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981254	1471960476577	1471960476686	y	89
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981256	1471960476816	1471960477071	 	32
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981258	1471960477221	1471960477382	f	70
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981303	1471960477328	1471960477497	o	79
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981305	1471960477486	1471960477643	r	82
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981307	1471960477618	1471960477771	 	32
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981310	1471960477786	1471960477983	a	65
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981312	1471960477915	1471960478058	 	32
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981317	1471960478196	1471960478417	w	87
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981342	1471960478356	1471960478469	h	72
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981344	1471960478548	1471960478636	i	73
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981347	1471960478720	1471960478819	l	76
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981350	1471960478855	1471960478987	e	69
+2022	20568	Your fax was busy for a while.	Your fax was busy for a while.	981354	1471960478987	1471960479068	.	190
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981670	1471960482199	1471960482503	SHIFT	16
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981664	1471960482350	1471960482478	I	73
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981678	1471960483064	1471960483108	/	191
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981685	1471960483976	1471960484097	BKSP	8
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981690	1471960484818	1471960484887	SHIFT	16
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981696	1471960485987	1471960486061	'	222
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981699	1471960486289	1471960486347	l	76
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981741	1471960486442	1471960486533	l	76
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981742	1471960486643	1471960486807	 	32
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981743	1471960487300	1471960487469	c	67
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981744	1471960487469	1471960487682	a	65
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981795	1471960487653	1471960487753	t	84
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981797	1471960487884	1471960488032	c	67
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981801	1471960488067	1471960488193	h	72
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981807	1471960488241	1471960488382	 	32
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981811	1471960488502	1471960488584	u	85
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981812	1471960488662	1471960488800	p	80
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981859	1471960489172	1471960489294	 	32
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981866	1471960489357	1471960489557	w	87
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981871	1471960489437	1471960489579	i	73
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981875	1471960489643	1471960489762	t	84
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981926	1471960489695	1471960489813	h	72
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981930	1471960490243	1471960490395	 	32
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981935	1471960490468	1471960490581	y	89
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981940	1471960490666	1471960490825	o	79
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981944	1471960490806	1471960490947	u	85
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981949	1471960491019	1471960491160	 	32
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981988	1471960491227	1471960491380	t	84
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981990	1471960491360	1471960491468	o	79
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981994	1471960491553	1471960491664	m	77
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	981998	1471960492254	1471960492338	o	79
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	982002	1471960492458	1471960492553	r	82
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	982034	1471960492629	1471960492774	r	82
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	982037	1471960492781	1471960492884	o	79
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	982040	1471960492907	1471960493094	w	87
+2022	20587	I'll catch up with you tomorrow.	I''ll catch up with you tomorrow.	982043	1471960493083	1471960493164	.	190
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982253	1471960496058	1471960497634	SHIFT	16
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982247	1471960496571	1471960496755	F	70
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982249	1471960497031	1471960497164	Y	89
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982251	1471960497382	1471960497535	I	73
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982257	1471960497901	1471960498053	 	32
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982260	1471960498356	1471960498458	BKSP	8
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982263	1471960498799	1471960498885	,	188
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982308	1471960498972	1471960499114	 	32
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982311	1471960499265	1471960499470	w	87
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982314	1471960499399	1471960499561	o	79
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982316	1471960499526	1471960499672	u	85
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982319	1471960499834	1471960500003	l	76
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982355	1471960499991	1471960500152	d	68
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982360	1471960500129	1471960500293	 	32
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982364	1471960500537	1471960500752	s	83
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982368	1471960500697	1471960500822	h	72
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982371	1471960500869	1471960500998	e	69
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982374	1471960501014	1471960501170	 	32
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982396	1471960501291	1471960501401	m	77
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982400	1471960501467	1471960501576	e	69
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982403	1471960501663	1471960501798	e	69
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982405	1471960501798	1471960501945	t	84
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982442	1471960501929	1471960502059	 	32
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982444	1471960502114	1471960502214	m	77
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982446	1471960502337	1471960502418	y	89
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982450	1471960502485	1471960502632	 	32
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982452	1471960502669	1471960502874	r	82
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982482	1471960502810	1471960503067	e	69
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982484	1471960503028	1471960503215	q	81
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982489	1471960503191	1471960503524	u	85
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982492	1471960503839	1471960503979	i	73
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982496	1471960504019	1471960504195	r	82
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982500	1471960504245	1471960504399	e	69
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982574	1471960504606	1471960504743	m	77
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982575	1471960504831	1471960505050	e	69
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982577	1471960505181	1471960505319	m	77
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982581	1471960505582	1471960505639	BKSP	8
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982586	1471960505839	1471960505939	n	78
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982594	1471960505955	1471960506119	t	84
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982634	1471960506174	1471960506400	s	83
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982641	1471960506605	1471960507154	SHIFT	16
+2022	20602	FYI, would she meet my requirements?	FYI, would she meet my requirements?	982638	1471960507052	1471960507123	?	191
+2022	20616	Can you help with this one?	Can you help with this one?	982890	1471960510003	1471960510203	c	67
+2022	20616	Can you help with this one?	Can you help with this one?	982895	1471960510382	1471960510503	BKSP	8
+2022	20616	Can you help with this one?	Can you help with this one?	982900	1471960510961	1471960511299	SHIFT	16
+2022	20616	Can you help with this one?	Can you help with this one?	982905	1471960511165	1471960511351	C	67
+2022	20616	Can you help with this one?	Can you help with this one?	982908	1471960511331	1471960511551	a	65
+2022	20616	Can you help with this one?	Can you help with this one?	982913	1471960511624	1471960511697	n	78
+2022	20616	Can you help with this one?	Can you help with this one?	982915	1471960512009	1471960512154	 	32
+2022	20616	Can you help with this one?	Can you help with this one?	982968	1471960512569	1471960512681	y	89
+2022	20616	Can you help with this one?	Can you help with this one?	982969	1471960512741	1471960512903	o	79
+2022	20616	Can you help with this one?	Can you help with this one?	982970	1471960512892	1471960513041	u	85
+2022	20616	Can you help with this one?	Can you help with this one?	982972	1471960513184	1471960513349	 	32
+2022	20616	Can you help with this one?	Can you help with this one?	982974	1471960513443	1471960513560	h	72
+2022	20616	Can you help with this one?	Can you help with this one?	983055	1471960513681	1471960513838	e	69
+2022	20616	Can you help with this one?	Can you help with this one?	983059	1471960513775	1471960513911	l	76
+2022	20616	Can you help with this one?	Can you help with this one?	983064	1471960514045	1471960514127	o	79
+2022	20616	Can you help with this one?	Can you help with this one?	983069	1471960514503	1471960514600	BKSP	8
+2022	20616	Can you help with this one?	Can you help with this one?	983075	1471960514866	1471960515003	p	80
+2022	20616	Can you help with this one?	Can you help with this one?	983078	1471960515134	1471960515319	 	32
+2022	20616	Can you help with this one?	Can you help with this one?	983122	1471960515636	1471960515854	w	87
+2022	20616	Can you help with this one?	Can you help with this one?	983123	1471960515777	1471960515935	i	73
+2022	20616	Can you help with this one?	Can you help with this one?	983125	1471960515938	1471960516077	t	84
+2022	20616	Can you help with this one?	Can you help with this one?	983128	1471960516038	1471960516155	h	72
+2022	20616	Can you help with this one?	Can you help with this one?	983132	1471960516217	1471960516401	 	32
+2022	20616	Can you help with this one?	Can you help with this one?	983161	1471960516619	1471960516744	t	84
+2022	20616	Can you help with this one?	Can you help with this one?	983163	1471960516722	1471960516871	h	72
+2022	20616	Can you help with this one?	Can you help with this one?	983165	1471960516922	1471960517069	i	73
+2022	20616	Can you help with this one?	Can you help with this one?	983167	1471960517034	1471960517245	s	83
+2022	20616	Can you help with this one?	Can you help with this one?	983235	1471960517183	1471960517325	 	32
+2022	20616	Can you help with this one?	Can you help with this one?	983237	1471960517373	1471960517508	o	79
+2022	20616	Can you help with this one?	Can you help with this one?	983240	1471960517539	1471960517658	n	78
+2022	20616	Can you help with this one?	Can you help with this one?	983245	1471960517981	1471960518140	e	69
+2022	20616	Can you help with this one?	Can you help with this one?	983252	1471960518332	1471960518702	SHIFT	16
+2022	20616	Can you help with this one?	Can you help with this one?	983248	1471960518534	1471960518618	?	191
+2022	20627	Please let me know.	Please let me know.	983460	1471960521911	1471960522225	SHIFT	16
+2022	20627	Please let me know.	Please let me know.	983454	1471960522074	1471960522214	P	80
+2022	20627	Please let me know.	Please let me know.	983471	1471960522342	1471960522492	l	76
+2022	20627	Please let me know.	Please let me know.	983481	1471960522682	1471960522867	e	69
+2022	20627	Please let me know.	Please let me know.	983490	1471960523128	1471960523322	a	65
+2022	20627	Please let me know.	Please let me know.	983531	1471960523305	1471960523507	s	83
+2022	20627	Please let me know.	Please let me know.	983535	1471960523517	1471960523532	e	69
+2022	20627	Please let me know.	Please let me know.	983541	1471960523547	1471960523727	e	69
+2022	20627	Please let me know.	Please let me know.	983547	1471960523750	1471960523900	 	32
+2022	20627	Please let me know.	Please let me know.	983554	1471960524019	1471960524182	l	76
+2022	20627	Please let me know.	Please let me know.	983560	1471960524206	1471960524351	e	69
+2022	20627	Please let me know.	Please let me know.	983677	1471960524392	1471960524563	t	84
+2022	20627	Please let me know.	Please let me know.	983680	1471960524789	1471960524840	BKSP	8
+2022	20627	Please let me know.	Please let me know.	983682	1471960524943	1471960524990	BKSP	8
+2022	20627	Please let me know.	Please let me know.	983684	1471960525076	1471960525145	BKSP	8
+2022	20627	Please let me know.	Please let me know.	983686	1471960525237	1471960525290	BKSP	8
+2022	20627	Please let me know.	Please let me know.	983688	1471960525391	1471960525513	BKSP	8
+2022	20627	Please let me know.	Please let me know.	983689	1471960525868	1471960526025	 	32
+2022	20627	Please let me know.	Please let me know.	983690	1471960526118	1471960526330	l	76
+2022	20627	Please let me know.	Please let me know.	983691	1471960526354	1471960526519	e	69
+2022	20627	Please let me know.	Please let me know.	983723	1471960526485	1471960526628	t	84
+2022	20627	Please let me know.	Please let me know.	983728	1471960526643	1471960526800	 	32
+2022	20627	Please let me know.	Please let me know.	983737	1471960526902	1471960527049	m	77
+2022	20627	Please let me know.	Please let me know.	983742	1471960527021	1471960527181	e	69
+2022	20627	Please let me know.	Please let me know.	983748	1471960527161	1471960527270	 	32
+2022	20627	Please let me know.	Please let me know.	983756	1471960527324	1471960527416	k	75
+2022	20627	Please let me know.	Please let me know.	983784	1471960527574	1471960527652	n	78
+2022	20627	Please let me know.	Please let me know.	983789	1471960527728	1471960527853	o	79
+2022	20627	Please let me know.	Please let me know.	983793	1471960527886	1471960528072	w	87
+2022	20627	Please let me know.	Please let me know.	983799	1471960528058	1471960528140	.	190
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984076	1471960531638	1471960532231	SHIFT	16
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984082	1471960532087	1471960532313	S	83
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984085	1471960532476	1471960532645	h	72
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984089	1471960532663	1471960532833	e	69
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984090	1471960532809	1471960532952	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984091	1471960533176	1471960533355	c	67
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984138	1471960533344	1471960533461	h	72
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984141	1471960533553	1471960533679	i	73
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984143	1471960533767	1471960533841	p	80
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984147	1471960533921	1471960534023	p	80
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984150	1471960534123	1471960534223	e	69
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984156	1471960534344	1471960534475	d	68
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984180	1471960534446	1471960534548	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984182	1471960534579	1471960534695	i	73
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984184	1471960534759	1471960534888	n	78
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984187	1471960535033	1471960535179	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984191	1471960535194	1471960535345	f	70
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984194	1471960535444	1471960535590	r	82
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984282	1471960535552	1471960535717	o	79
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984286	1471960535781	1471960535939	m	77
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984288	1471960535971	1471960536068	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984291	1471960536767	1471960536855	6	54
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984296	1471960537203	1471960537286	9	57
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984298	1471960537375	1471960537500	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984340	1471960537545	1471960537661	f	70
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984342	1471960537762	1471960537822	f	70
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984344	1471960538197	1471960538271	BKSP	8
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984348	1471960538538	1471960538611	e	69
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984354	1471960538717	1471960538842	e	69
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984357	1471960538942	1471960539045	t	84
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984384	1471960539109	1471960539230	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984387	1471960539258	1471960539393	f	70
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984391	1471960539379	1471960539534	o	79
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984394	1471960539523	1471960539674	r	82
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984395	1471960539700	1471960539854	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984458	1471960539892	1471960540078	a	65
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984459	1471960540039	1471960540165	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984461	1471960540275	1471960540436	b	66
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984464	1471960540570	1471960540694	r	82
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984468	1471960541033	1471960541129	BKSP	8
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984473	1471960541390	1471960541512	i	73
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984549	1471960541703	1471960541845	r	82
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984552	1471960541993	1471960542121	d	68
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984557	1471960542270	1471960542402	i	73
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984564	1471960542591	1471960542668	w	87
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984569	1471960543269	1471960543365	BKSP	8
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984573	1471960543490	1471960543660	w	87
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984639	1471960544083	1471960544190	BKSP	8
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984641	1471960544369	1471960544491	e	69
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984642	1471960544591	1471960544787	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984644	1471960544776	1471960544981	a	65
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984646	1471960544940	1471960545097	t	84
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984648	1471960545125	1471960545253	 	32
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984754	1471960545775	1471960545973	1	49
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984758	1471960546105	1471960546157	7	55
+2022	20640	She chipped in from 69 feet for a birdie at 17.	She chipped in from 69 feet for a birdie at 17.	984761	1471960546542	1471960546598	.	190

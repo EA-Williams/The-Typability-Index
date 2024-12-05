@@ -1,0 +1,704 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+301241	3240301	This is good I think.	This is good I think.	153969866	1476146738526	1476146740001	SHIFT	16
+301241	3240301	This is good I think.	This is good I think.	153969863	1476146739883	1476146739980	T	84
+301241	3240301	This is good I think.	This is good I think.	153969870	1476146740161	1476146740251	h	72
+301241	3240301	This is good I think.	This is good I think.	153969876	1476146740636	1476146740737	i	73
+301241	3240301	This is good I think.	This is good I think.	153969883	1476146740923	1476146741020	s	83
+301241	3240301	This is good I think.	This is good I think.	153969888	1476146741091	1476146741179	 	32
+301241	3240301	This is good I think.	This is good I think.	153970001	1476146742208	1476146742290	i	73
+301241	3240301	This is good I think.	This is good I think.	153970002	1476146742537	1476146742630	s	83
+301241	3240301	This is good I think.	This is good I think.	153970005	1476146742718	1476146742803	 	32
+301241	3240301	This is good I think.	This is good I think.	153970008	1476146743839	1476146743976	g	71
+301241	3240301	This is good I think.	This is good I think.	153970013	1476146744086	1476146744173	o	79
+301241	3240301	This is good I think.	This is good I think.	153970116	1476146744296	1476146744383	o	79
+301241	3240301	This is good I think.	This is good I think.	153970120	1476146744581	1476146744687	d	68
+301241	3240301	This is good I think.	This is good I think.	153970123	1476146744830	1476146744923	 	32
+301241	3240301	This is good I think.	This is good I think.	153970130	1476146745555	1476146745956	SHIFT	16
+301241	3240301	This is good I think.	This is good I think.	153970126	1476146745735	1476146745852	I	73
+301241	3240301	This is good I think.	This is good I think.	153970132	1476146746063	1476146746161	 	32
+301241	3240301	This is good I think.	This is good I think.	153970214	1476146746936	1476146747052	t	84
+301241	3240301	This is good I think.	This is good I think.	153970219	1476146747160	1476146747244	h	72
+301241	3240301	This is good I think.	This is good I think.	153970222	1476146747308	1476146747410	i	73
+301241	3240301	This is good I think.	This is good I think.	153970229	1476146747583	1476146747670	n	78
+301241	3240301	This is good I think.	This is good I think.	153970236	1476146747807	1476146747892	k	75
+301241	3240301	This is good I think.	This is good I think.	153970343	1476146748765	1476146748873	.	190
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970491	1476146750007	1476146752322	SHIFT	16
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970486	1476146752185	1476146752286	N	78
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970495	1476146752537	1476146752631	o	79
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970498	1476146752883	1476146752999	t	84
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970501	1476146753017	1476146753111	 	32
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970503	1476146753312	1476146753418	l	76
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970614	1476146753576	1476146753664	i	73
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970619	1476146753809	1476146753911	k	75
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970624	1476146754894	1476146754955	e	69
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970628	1476146755023	1476146755128	 	32
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970631	1476146755953	1476146756112	y	89
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970772	1476146756233	1476146756373	o	79
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970778	1476146756599	1476146756689	u	85
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970782	1476146757709	1476146757840	'	222
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970787	1476146758111	1476146758201	l	76
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970791	1476146758287	1476146758389	l	76
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970868	1476146758746	1476146758842	 	32
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970872	1476146759634	1476146759740	g	71
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970878	1476146759785	1476146759911	e	69
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970883	1476146759971	1476146760073	t	84
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970888	1476146760177	1476146760286	 	32
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970957	1476146761070	1476146761182	p	80
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970959	1476146761418	1476146761559	a	65
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970962	1476146761721	1476146761826	i	73
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970965	1476146762079	1476146762177	d	68
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153970967	1476146762240	1476146762331	 	32
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153971065	1476146763066	1476146763172	f	70
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153971069	1476146763397	1476146763522	o	79
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153971074	1476146763588	1476146763715	r	82
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153971077	1476146763706	1476146763802	 	32
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153971081	1476146764017	1476146764121	i	73
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153971139	1476146764340	1476146764417	t	84
+301241	3240324	Not like you'll get paid for it.	Not like you'll get paid for it.	153971144	1476146765104	1476146765214	.	190
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971316	1476146765218	1476146767772	SHIFT	16
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971313	1476146767551	1476146767658	W	87
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971319	1476146767847	1476146767943	e	69
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971324	1476146768126	1476146768238	 	32
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971327	1476146768975	1476146769065	h	72
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971332	1476146769397	1476146769525	a	65
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971383	1476146769607	1476146769725	v	86
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971388	1476146769782	1476146769890	e	69
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971397	1476146769928	1476146770030	 	32
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971403	1476146770559	1476146770649	l	76
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971409	1476146770753	1476146770849	o	79
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971508	1476146771537	1476146771653	s	83
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971511	1476146771713	1476146771830	t	84
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971515	1476146771884	1476146772029	 	32
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971520	1476146772691	1476146772792	n	78
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971526	1476146772852	1476146772963	o	79
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971665	1476146773217	1476146773336	t	84
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971668	1476146773375	1476146773480	 	32
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971671	1476146775550	1476146775690	j	74
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971675	1476146775759	1476146775855	u	85
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971679	1476146776098	1476146776214	s	83
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971761	1476146776334	1476146776450	t	84
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971764	1476146776536	1476146776653	 	32
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971767	1476146777186	1476146777317	a	65
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971769	1476146777353	1476146777452	 	32
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971773	1476146777954	1476146778054	g	71
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971817	1476146778229	1476146778342	r	82
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971820	1476146778421	1476146778548	e	69
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971822	1476146778761	1476146778870	a	65
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971825	1476146778980	1476146779088	t	84
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971829	1476146779287	1476146779384	 	32
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971882	1476146780211	1476146780318	f	70
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971887	1476146780300	1476146780456	r	82
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971889	1476146780712	1476146780819	e	69
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971892	1476146780849	1476146780948	i	73
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971895	1476146781209	1476146781317	n	78
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971960	1476146781959	1476146782060	d	68
+301241	3240342	We have lost not just a great friend.	We have lost not just a great freind.	153971962	1476146782763	1476146782869	.	190
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972091	1476146783696	1476146785475	SHIFT	16
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972088	1476146785166	1476146785256	M	77
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972096	1476146785658	1476146785739	o	79
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972099	1476146785903	1476146786014	r	82
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972102	1476146787785	1476146787881	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972105	1476146787943	1476146788010	o	79
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972198	1476146788443	1476146788528	v	86
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972202	1476146788726	1476146788936	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972205	1476146788849	1476146789003	r	82
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972208	1476146789296	1476146789401	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972212	1476146789922	1476146790333	w	87
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972271	1476146790438	1476146790540	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972273	1476146790759	1476146790843	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972275	1476146791480	1476146791573	h	72
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972279	1476146792161	1476146792305	a	65
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972283	1476146792305	1476146792405	v	86
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972348	1476146792462	1476146792571	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972352	1476146792637	1476146792707	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972356	1476146793329	1476146793438	t	84
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972358	1476146793606	1476146793703	h	72
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972412	1476146793679	1476146793812	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972414	1476146793871	1476146793960	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972416	1476146794572	1476146794687	f	70
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972419	1476146794836	1476146794942	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972421	1476146795025	1476146795136	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972423	1476146795221	1476146795326	l	76
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972481	1476146795467	1476146795580	i	73
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972484	1476146795661	1476146795746	n	78
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972489	1476146796153	1476146796265	g	71
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972493	1476146796319	1476146796416	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972499	1476146797341	1476146797425	t	84
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972548	1476146797495	1476146797618	h	72
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972550	1476146797713	1476146797833	a	65
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972553	1476146797892	1476146798010	t	84
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972558	1476146798096	1476146798205	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972561	1476146799003	1476146799222	w	87
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972624	1476146799191	1476146799323	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972626	1476146799416	1476146799521	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972627	1476146800313	1476146800441	a	65
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972628	1476146800701	1476146800806	r	82
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972629	1476146800928	1476146801010	e	69
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972631	1476146801336	1476146801430	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972723	1476146802278	1476146802388	f	70
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972725	1476146802501	1476146802608	i	73
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972728	1476146803160	1476146803241	n	78
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972733	1476146803696	1476146803839	a	65
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972737	1476146803935	1476146804017	l	76
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972828	1476146804107	1476146804177	l	76
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972830	1476146804859	1476146804984	y	89
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972832	1476146805074	1476146805169	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972834	1476146805905	1476146806021	i	73
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972838	1476146806320	1476146806402	n	78
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972880	1476146806543	1476146806623	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972884	1476146806870	1476146806946	o	79
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972887	1476146807481	1476146807563	u	85
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972890	1476146807758	1476146807890	r	82
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153972893	1476146808089	1476146808194	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973011	1476146809100	1476146809205	o	79
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973014	1476146810126	1476146810258	w	87
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973017	1476146810331	1476146810426	n	78
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973024	1476146810520	1476146810609	 	32
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973029	1476146811490	1476146811651	c	67
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973077	1476146811872	1476146811967	o	79
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973079	1476146812205	1476146812271	u	85
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973080	1476146812436	1476146812508	n	78
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973081	1476146812787	1476146812871	t	84
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973082	1476146813123	1476146813214	r	82
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973198	1476146813301	1476146813392	y	89
+301241	3240359	Moreover we have the feeling that we are finally in our own country.	Moreover we have the feeling that we are finally in our own country.	153973204	1476146814134	1476146814233	.	190
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973324	1476146814581	1476146817503	SHIFT	16
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973320	1476146817398	1476146817498	T	84
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973327	1476146817712	1476146817812	h	72
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973329	1476146817917	1476146818005	e	69
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973330	1476146818193	1476146818286	n	78
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973332	1476146818385	1476146818460	 	32
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973392	1476146819347	1476146819547	w	87
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973395	1476146819484	1476146819632	e	69
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973398	1476146819660	1476146819777	 	32
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973399	1476146820152	1476146820331	c	67
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973480	1476146820277	1476146820501	a	65
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973482	1476146820502	1476146820603	n	78
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973484	1476146820717	1476146820848	 	32
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973487	1476146821752	1476146821876	g	71
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973489	1476146821940	1476146822022	o	79
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973491	1476146822182	1476146822282	 	32
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973619	1476146822910	1476146823032	t	84
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973620	1476146823074	1476146823201	o	79
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973621	1476146823325	1476146823441	 	32
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973627	1476146823996	1476146826081	SHIFT	16
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973624	1476146825750	1476146825888	Z	90
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973629	1476146826386	1476146826514	a	65
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973696	1476146826720	1476146826823	i	73
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973699	1476146826992	1476146827077	n	78
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973702	1476146827375	1476146827503	y	89
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973704	1476146827809	1476146827938	 	32
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973871	1476146828225	1476146829961	SHIFT	16
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973706	1476146828721	1476146828813	B	66
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973873	1476146831231	1476146831307	r	82
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973875	1476146831525	1476146831634	a	65
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973877	1476146831835	1476146831909	i	73
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973879	1476146832060	1476146832139	n	78
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973881	1476146832646	1476146832731	y	89
+301241	3240382	Then we can go to Zainy Brainy.	Then we can go to Zainy Brainy.	153973905	1476146833688	1476146833782	.	190
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974070	1476146834939	1476146836077	SHIFT	16
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974067	1476146835970	1476146836065	I	73
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974073	1476146836446	1476146836570	t	84
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974076	1476146836615	1476146836726	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974079	1476146837534	1476146837585	w	87
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974137	1476146837573	1476146837796	a	65
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974140	1476146837748	1476146837878	s	83
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974144	1476146838062	1476146838170	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974150	1476146838874	1476146838982	p	80
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974156	1476146839086	1476146839173	o	79
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974161	1476146839634	1476146839738	s	83
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974213	1476146839825	1476146839942	s	83
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974217	1476146840065	1476146840153	i	73
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974223	1476146840298	1476146840398	l	76
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974229	1476146841582	1476146841663	b	66
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974235	1476146841860	1476146841949	l	76
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974440	1476146842067	1476146842157	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974442	1476146843984	1476146844071	\	220
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974444	1476146844156	1476146844239	\	220
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974445	1476146844340	1476146844400	\	220
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974446	1476146845086	1476146845180	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974447	1476146845260	1476146845336	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974448	1476146845417	1476146845502	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974449	1476146845572	1476146845683	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974450	1476146845747	1476146845858	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974452	1476146845921	1476146846032	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974454	1476146846145	1476146846266	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974457	1476146846405	1476146846569	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974460	1476146846707	1476146846931	BKSP	8
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974463	1476146848756	1476146848912	s	83
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974537	1476146848891	1476146849016	i	73
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974538	1476146851390	1476146851536	b	66
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974539	1476146851560	1476146851701	l	76
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974540	1476146851740	1476146851870	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974542	1476146851999	1476146852122	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974546	1476146853286	1476146853402	t	84
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974612	1476146853416	1476146853555	o	79
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974616	1476146853650	1476146853786	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974619	1476146853920	1476146854057	a	65
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974622	1476146854039	1476146854142	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974624	1476146855734	1476146855871	l	76
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974672	1476146856003	1476146856116	a	65
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974674	1476146856325	1476146856406	r	82
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974676	1476146856775	1476146856860	g	71
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974678	1476146856993	1476146857100	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974679	1476146857278	1476146857371	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974753	1476146858421	1476146858530	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974755	1476146859100	1476146859218	x	88
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974757	1476146859367	1476146859464	t	84
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974759	1476146859663	1476146859788	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974761	1476146859852	1476146859943	n	78
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974808	1476146860117	1476146860231	t	84
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974810	1476146860302	1476146860411	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974813	1476146861021	1476146861146	t	84
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974815	1476146861241	1476146861344	o	79
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974817	1476146861507	1476146861611	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974840	1476146862345	1476146862448	a	65
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974841	1476146862571	1476146862683	g	71
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974842	1476146862870	1476146862997	r	82
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974843	1476146863078	1476146863208	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974844	1476146863317	1476146863446	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974920	1476146863604	1476146863704	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974924	1476146864163	1476146864280	o	79
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974929	1476146864395	1476146864480	n	78
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974936	1476146864623	1476146864711	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974941	1476146865776	1476146865919	s	83
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974986	1476146866032	1476146866139	o	79
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974989	1476146866223	1476146866339	m	77
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974993	1476146866469	1476146866585	e	69
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153974999	1476146866645	1476146866744	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975003	1476146867961	1476146868066	k	75
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975060	1476146868220	1476146868307	i	73
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975061	1476146868476	1476146868539	n	78
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975062	1476146868895	1476146869011	d	68
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975063	1476146869304	1476146869394	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975064	1476146870324	1476146870403	o	79
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975107	1476146870782	1476146870890	f	70
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975108	1476146870922	1476146871008	 	32
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975110	1476146871174	1476146871305	a	65
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975112	1476146871556	1476146871667	p	80
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975114	1476146872059	1476146872175	p	80
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975196	1476146873219	1476146873338	r	82
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975198	1476146873454	1476146873542	o	79
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975199	1476146873834	1476146873953	a	65
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975200	1476146874268	1476146874362	c	67
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975201	1476146874865	1476146874953	h	72
+301241	3240394	It was possible to a large extent to agree on some kind of approach.	It was possible to a large extent to agree on some kind of approach.	153975236	1476146875707	1476146875835	.	190
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975366	1476146876898	1476146878219	SHIFT	16
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975368	1476146878161	1476146878265	H	72
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975370	1476146878734	1476146878847	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975372	1476146879305	1476146879408	BKSP	8
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975373	1476146879714	1476146879848	e	69
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975374	1476146879995	1476146880093	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975375	1476146880808	1476146880892	i	73
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975438	1476146880928	1476146881034	s	83
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975440	1476146881121	1476146881226	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975441	1476146882201	1476146882372	r	82
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975442	1476146882333	1476146882498	e	69
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975443	1476146883183	1476146883302	c	67
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975507	1476146883357	1476146883455	o	79
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975509	1476146884302	1476146884382	v	86
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975512	1476146884484	1476146884688	e	69
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975515	1476146884616	1476146884771	r	82
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975516	1476146885783	1476146885992	i	73
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975561	1476146885959	1476146886097	n	78
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975562	1476146886477	1476146886582	g	71
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975563	1476146886631	1476146886751	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975564	1476146887765	1476146887893	f	70
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975565	1476146887914	1476146888077	r	82
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975567	1476146888143	1476146888327	o	79
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975639	1476146888360	1476146888480	m	77
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975644	1476146888593	1476146888700	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975649	1476146889239	1476146889407	a	65
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975651	1476146889427	1476146889507	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975653	1476146890289	1476146890429	b	66
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975685	1476146890516	1476146890634	r	82
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975686	1476146890815	1476146890897	u	85
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975687	1476146891085	1476146891189	i	73
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975689	1476146891952	1476146892110	s	83
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975693	1476146892226	1476146892341	e	69
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975869	1476146892456	1476146892572	d	68
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975872	1476146892696	1476146892802	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975874	1476146893642	1476146893821	l	76
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975876	1476146896278	1476146896439	e	69
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975878	1476146897068	1476146897248	f	70
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975952	1476146897281	1476146897404	t	84
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975954	1476146897615	1476146897693	 	32
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975955	1476146899078	1476146899196	s	83
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975956	1476146899332	1476146899472	h	72
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153975957	1476146899521	1476146899696	o	79
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153976006	1476146899825	1476146899923	u	85
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153976008	1476146900147	1476146900256	l	76
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153976011	1476146900461	1476146900622	d	68
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153976014	1476146900602	1476146900888	e	69
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153976053	1476146900855	1476146900987	r	82
+301241	3240421	He is recovering from a bruised left shoulder.	He is recovering from a bruised left shoulder.	153976055	1476146901561	1476146901698	.	190
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976175	1476146902650	1476146904238	SHIFT	16
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976178	1476146904171	1476146904284	H	72
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976181	1476146904480	1476146904602	e	69
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976184	1476146904620	1476146904711	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976190	1476146904921	1476146905120	s	83
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976264	1476146905112	1476146905289	a	65
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976266	1476146906025	1476146906147	i	73
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976270	1476146906183	1476146906294	d	68
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976272	1476146906321	1476146906438	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976275	1476146907561	1476146907686	h	72
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976277	1476146907704	1476146907811	e	69
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976346	1476146907860	1476146907951	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976353	1476146908066	1476146908179	s	83
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976359	1476146908365	1476146908476	a	65
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976365	1476146908589	1476146908661	e	69
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976368	1476146909733	1476146909843	BKSP	8
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976372	1476146910033	1476146910183	w	87
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976437	1476146910234	1476146910342	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976439	1476146911142	1476146911261	n	78
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976441	1476146911318	1476146911442	o	79
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976442	1476146911579	1476146911701	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976443	1476146912446	1476146912631	d	68
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976510	1476146912581	1476146912817	a	65
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976512	1476146912861	1476146912931	m	77
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976516	1476146913949	1476146914129	a	65
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976520	1476146914256	1476146914353	g	71
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976526	1476146914407	1476146914528	e	69
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976529	1476146914775	1476146914862	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976592	1476146915384	1476146915513	t	84
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976593	1476146915692	1476146915779	o	79
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976594	1476146916037	1476146916094	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976595	1476146916513	1476146916595	t	84
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976597	1476146916767	1476146916846	h	72
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976697	1476146916987	1476146917074	e	69
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976699	1476146917193	1476146917293	 	32
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976701	1476146918747	1476146918923	a	65
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976703	1476146919070	1476146919173	i	73
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976705	1476146919352	1476146919459	r	82
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976770	1476146919724	1476146919815	p	80
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976774	1476146919965	1476146920053	o	79
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976777	1476146920552	1476146920733	r	82
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976779	1476146920756	1476146920864	t	84
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976781	1476146921342	1476146921409	.	186
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976941	1476146922568	1476146922646	BKSP	8
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976943	1476146922713	1476146922798	BKSP	8
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976945	1476146923315	1476146923375	,	188
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976946	1476146924405	1476146924537	BKSP	8
+301241	3240435	He said he saw no damage to the airport.	He said he saw no damage to the airport.	153976947	1476146924791	1476146924875	.	190
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977091	1476146925172	1476146928108	SHIFT	16
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977090	1476146927763	1476146927922	A	65
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977092	1476146928288	1476146928437	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977093	1476146928653	1476146928756	b	66
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977094	1476146929176	1476146929476	a	65
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977095	1476146929527	1476146929641	d	68
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977218	1476146929947	1476146930052	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977222	1476146930398	1476146930514	t	84
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977225	1476146931534	1476146931756	h	72
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977228	1476146931706	1476146931854	i	73
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977229	1476146932655	1476146932848	n	78
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977289	1476146932896	1476146933018	g	71
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977291	1476146933058	1476146933215	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977294	1476146934052	1476146934231	h	72
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977297	1476146934205	1476146934451	a	65
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977333	1476146934376	1476146934558	s	83
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977334	1476146934474	1476146934595	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977336	1476146934908	1476146935009	b	66
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977338	1476146935154	1476146935261	e	69
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977341	1476146935465	1476146935540	e	69
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977347	1476146935822	1476146935906	n	78
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977420	1476146936155	1476146936264	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977422	1476146937145	1476146937273	t	84
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977425	1476146937563	1476146937668	u	85
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977428	1476146937832	1476146937985	r	82
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977431	1476146938833	1476146938955	n	78
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977478	1476146938988	1476146939167	e	69
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977482	1476146939046	1476146939267	d	68
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977484	1476146939257	1476146939374	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977486	1476146940272	1476146940485	i	73
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977552	1476146940416	1476146940558	n	78
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977553	1476146940991	1476146941122	t	84
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977554	1476146941137	1476146941272	o	79
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977555	1476146941429	1476146941576	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977556	1476146942296	1476146942471	a	65
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977557	1476146942476	1476146942597	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977619	1476146942989	1476146943062	g	71
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977622	1476146943425	1476146943509	o	79
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977625	1476146943603	1476146943707	o	79
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977627	1476146943831	1476146943924	d	68
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977628	1476146943998	1476146944080	 	32
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977678	1476146944674	1476146944777	t	84
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977679	1476146944840	1476146944931	h	72
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977680	1476146945011	1476146945110	i	73
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977681	1476146945261	1476146945343	n	78
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977682	1476146945663	1476146945753	g	71
+301241	3240454	A bad thing has been turned into a good thing.	A bad thing has been turned into a good thing.	153977713	1476146946243	1476146946328	.	190
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977835	1476146947305	1476146948636	SHIFT	16
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977831	1476146948387	1476146948485	T	84
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977839	1476146948911	1476146949005	h	72
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977842	1476146949110	1476146949229	e	69
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977845	1476146949280	1476146949370	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977848	1476146950054	1476146950355	SHIFT	16
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977871	1476146950301	1476146950386	H	72
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977874	1476146950965	1476146951102	a	65
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977878	1476146951219	1476146951326	w	87
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977884	1476146952149	1476146952307	k	75
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977888	1476146952297	1476146952390	s	83
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977891	1476146952528	1476146952641	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977973	1476146953509	1476146953634	l	76
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977974	1476146953784	1476146954061	e	69
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977975	1476146954012	1476146954192	d	68
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977976	1476146954157	1476146954294	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153977977	1476146955721	1476146955897	f	70
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978029	1476146955828	1476146955998	r	82
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978030	1476146955946	1476146956131	o	79
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978031	1476146956182	1476146956311	m	77
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978032	1476146956497	1476146956605	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978033	1476146957382	1476146957514	l	76
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978034	1476146957764	1476146957931	a	65
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978080	1476146957952	1476146958100	t	84
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978082	1476146958120	1476146958255	e	69
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978085	1476146958316	1476146958457	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978088	1476146959306	1476146959546	i	73
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978122	1476146959522	1476146959616	n	78
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978125	1476146959833	1476146959957	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978128	1476146960352	1476146960454	t	84
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978130	1476146960604	1476146960711	h	72
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978133	1476146960728	1476146960879	e	69
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978134	1476146960903	1476146961005	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978177	1476146961738	1476146961896	f	70
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978179	1476146962097	1476146962204	i	73
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978181	1476146962328	1476146962403	r	82
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978183	1476146962774	1476146962885	s	83
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978185	1476146962956	1476146963073	t	84
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978253	1476146963177	1476146963315	 	32
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978255	1476146964550	1476146964696	q	81
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978257	1476146964753	1476146964865	u	85
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978260	1476146965290	1476146965421	a	65
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978263	1476146965445	1476146965544	r	82
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978323	1476146965674	1476146965770	t	84
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978326	1476146965894	1476146966027	e	69
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978329	1476146966142	1476146966248	r	82
+301241	3240470	The Hawks led from late in the first quarter.	The Hawks led from late in the first quarter.	153978331	1476146966962	1476146967054	.	190
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978489	1476146968037	1476146969774	SHIFT	16
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978486	1476146969427	1476146969617	A	65
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978492	1476146969972	1476146970110	m	77
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978495	1476146970334	1476146970459	y	89
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978498	1476146970562	1476146970678	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978501	1476146971642	1476146971780	w	87
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978530	1476146971807	1476146971896	i	73
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978533	1476146972047	1476146972125	l	76
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978536	1476146972211	1476146972301	l	76
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978538	1476146972509	1476146972606	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978540	1476146972950	1476146973060	m	77
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978582	1476146973487	1476146973578	BKSP	8
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978584	1476146973913	1476146974001	n	78
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978587	1476146974100	1476146974193	o	79
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978593	1476146974335	1476146974430	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978597	1476146974588	1476146974685	l	76
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978601	1476146974807	1476146974895	o	79
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978651	1476146975045	1476146975114	n	78
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978654	1476146975801	1476146975904	g	71
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978656	1476146975995	1476146976136	e	69
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978658	1476146976259	1476146976368	r	82
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978660	1476146976465	1476146976585	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978719	1476146977468	1476146977580	b	66
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978722	1476146977719	1476146977825	e	69
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978726	1476146977905	1476146977981	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978728	1476146978304	1476146978391	h	72
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978730	1476146978518	1476146978661	e	69
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978807	1476146978838	1476146978929	r	82
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978809	1476146979056	1476146979155	e	69
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978811	1476146979315	1476146979402	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978813	1476146980356	1476146980469	s	83
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978817	1476146980530	1476146980656	i	73
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978908	1476146981060	1476146981167	BKSP	8
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978910	1476146981416	1476146981526	o	79
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978913	1476146981714	1476146981798	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978919	1476146982401	1476146982807	SHIFT	16
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978916	1476146982676	1476146982758	I	73
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978921	1476146982982	1476146983070	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978923	1476146983367	1476146983499	w	87
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978972	1476146983608	1476146983695	i	73
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978973	1476146983799	1476146983896	l	76
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978974	1476146983979	1476146984064	l	76
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978975	1476146984280	1476146984367	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153978977	1476146985138	1476146985226	b	66
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979042	1476146985342	1476146985452	e	69
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979044	1476146985494	1476146985564	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979047	1476146987768	1476146987874	t	84
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979050	1476146987969	1476146988080	h	72
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979053	1476146988159	1476146988276	e	69
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979100	1476146988360	1476146988449	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979102	1476146988632	1476146988744	o	79
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979106	1476146988876	1476146988951	n	78
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979107	1476146989158	1476146989237	l	76
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979109	1476146989524	1476146989653	y	89
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979170	1476146989731	1476146989817	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979172	1476146990492	1476146990618	o	79
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979173	1476146990719	1476146990806	n	78
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979175	1476146991017	1476146991104	e	69
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979177	1476146991223	1476146991310	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979241	1476146992458	1476146992595	w	87
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979244	1476146992754	1476146992873	o	79
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979246	1476146993013	1476146993141	r	82
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979248	1476146993549	1476146993637	k	75
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979250	1476146993793	1476146993898	i	73
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979315	1476146994018	1476146994102	n	78
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979316	1476146994334	1476146994435	g	71
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979317	1476146994501	1476146994593	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979318	1476146995321	1476146995437	o	79
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979319	1476146995554	1476146995642	n	78
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979351	1476146995784	1476146995881	 	32
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979352	1476146996040	1476146996146	t	84
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979353	1476146996228	1476146996321	h	72
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979354	1476146996440	1476146996515	i	73
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979355	1476146996693	1476146996816	s	83
+301241	3240487	Amy will no longer be here so I will be the only one working on this.	Amy will no longer be here so I will be the only one working on this.	153979373	1476146997531	1476146997615	.	190
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979542	1476146998474	1476147001100	SHIFT	16
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979539	1476147000870	1476147000952	D	68
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979545	1476147001555	1476147001631	o	79
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979547	1476147001795	1476147001895	e	69
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979549	1476147002103	1476147002194	s	83
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979551	1476147002435	1476147002537	 	32
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979617	1476147003063	1476147003455	SHIFT	16
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979615	1476147003354	1476147003431	F	70
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979619	1476147003696	1476147003771	r	82
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979621	1476147004197	1476147004310	i	73
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979623	1476147004766	1476147004912	d	68
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979685	1476147004904	1476147005077	a	65
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979686	1476147005165	1476147005250	y	89
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979687	1476147005427	1476147005523	 	32
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979688	1476147006313	1476147006456	a	65
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979690	1476147006477	1476147006596	t	84
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979693	1476147007138	1476147007241	 	32
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979761	1476147007613	1476147007692	1	49
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979763	1476147008364	1476147008448	0	48
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979764	1476147008749	1476147008855	 	32
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979765	1476147009415	1476147009528	w	87
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979766	1476147009633	1476147009723	o	79
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979823	1476147010242	1476147010348	r	82
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979825	1476147010644	1476147010742	k	75
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979826	1476147010916	1476147011023	 	32
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979828	1476147011620	1476147011733	f	70
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979829	1476147011797	1476147011925	o	79
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979842	1476147011977	1476147012072	r	82
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979843	1476147012111	1476147012224	 	32
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979844	1476147012552	1476147012655	y	89
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979846	1476147012713	1476147012796	o	79
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153979848	1476147012863	1476147012951	u	85
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153980011	1476147014111	1476147014187	 	32
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153980015	1476147014625	1476147014712	\	220
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153980017	1476147015489	1476147015590	BKSP	8
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153980021	1476147015834	1476147015944	BKSP	8
+301241	3240505	Does Friday at 10 work for you?	Does Friday at 10 work for you?	153980023	1476147016687	1476147016772	?	191
+301241	3240517	On my way back.	On my way back.	153980167	1476147019264	1476147019387	O	79
+301241	3240517	On my way back.	On my way back.	153980171	1476147019544	1476147019645	n	78
+301241	3240517	On my way back.	On my way back.	153980173	1476147019768	1476147019856	 	32
+301241	3240517	On my way back.	On my way back.	153980175	1476147020071	1476147020144	m	77
+301241	3240517	On my way back.	On my way back.	153980177	1476147020667	1476147020765	y	89
+301241	3240517	On my way back.	On my way back.	153980214	1476147020936	1476147021033	 	32
+301241	3240517	On my way back.	On my way back.	153980216	1476147021729	1476147021864	w	87
+301241	3240517	On my way back.	On my way back.	153980218	1476147021934	1476147022075	a	65
+301241	3240517	On my way back.	On my way back.	153980220	1476147022105	1476147022190	y	89
+301241	3240517	On my way back.	On my way back.	153980222	1476147022377	1476147022416	 	32
+301241	3240517	On my way back.	On my way back.	153980292	1476147023310	1476147023401	b	66
+301241	3240517	On my way back.	On my way back.	153980293	1476147023468	1476147023588	a	65
+301241	3240517	On my way back.	On my way back.	153980294	1476147024020	1476147024129	c	67
+301241	3240517	On my way back.	On my way back.	153980295	1476147024286	1476147024361	k	75
+301241	3240517	On my way back.	On my way back.	153980296	1476147024885	1476147025004	.	190
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980491	1476147025710	1476147027904	SHIFT	16
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980489	1476147027562	1476147027663	T	84
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980496	1476147028513	1476147028629	w	87
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980502	1476147028726	1476147028836	o	79
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980505	1476147029030	1476147029134	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980663	1476147029681	1476147034315	SHIFT	16
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980508	1476147030868	1476147030985	R	82
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980652	1476147031211	1476147031323	A	65
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980655	1476147033448	1476147033535	F	70
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980660	1476147034072	1476147034174	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980668	1476147034443	1476147035727	SHIFT	16
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980665	1476147034898	1476147035017	H	72
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980670	1476147036171	1476147036247	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980770	1476147036401	1476147036441	r	82
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980771	1476147037810	1476147038000	c	67
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980774	1476147038177	1476147038277	u	85
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980777	1476147038506	1476147038609	l	76
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980780	1476147039721	1476147039909	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980829	1476147039882	1476147040046	s	83
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980831	1476147040337	1476147040453	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980833	1476147041025	1476147041193	t	84
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980836	1476147041159	1476147041297	r	82
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980839	1476147041545	1476147041664	a	65
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980841	1476147041737	1476147041825	n	78
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980902	1476147042480	1476147042607	s	83
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980904	1476147042741	1476147042840	p	80
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980906	1476147042988	1476147043078	o	79
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980909	1476147043610	1476147043708	r	82
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980911	1476147043803	1476147043916	t	84
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980951	1476147044011	1476147044159	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980957	1476147044814	1476147045018	p	80
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980961	1476147044971	1476147045104	l	76
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980967	1476147045199	1476147045355	a	65
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153980970	1476147045446	1476147045557	n	78
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981033	1476147045752	1476147045843	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981034	1476147046142	1476147046254	s	83
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981035	1476147046344	1476147046455	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981036	1476147047332	1476147047503	a	65
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981038	1476147047521	1476147047629	i	73
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981132	1476147047794	1476147047907	r	82
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981134	1476147047970	1476147048062	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981136	1476147048529	1476147048645	BKSP	8
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981138	1476147049767	1476147049879	l	76
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981140	1476147050047	1476147050147	i	73
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981143	1476147050775	1476147050927	f	70
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981217	1476147050944	1476147051045	t	84
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981219	1476147051072	1476147051236	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981222	1476147051302	1476147051437	d	68
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981225	1476147052361	1476147052491	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981227	1476147053481	1476147053625	f	70
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981326	1476147053954	1476147054057	o	79
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981331	1476147055122	1476147055302	r	82
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981335	1476147056385	1476147056491	i	73
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981340	1476147057344	1476147057446	g	71
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981344	1476147057455	1476147057554	n	78
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981521	1476147058866	1476147058910	BKSP	8
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981522	1476147059003	1476147059101	BKSP	8
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981523	1476147060120	1476147060222	BKSP	8
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981524	1476147062695	1476147062841	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981525	1476147062805	1476147062939	i	73
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981526	1476147064205	1476147064357	g	71
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981527	1476147064281	1476147064400	n	78
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981528	1476147064571	1476147064696	 	32
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981587	1476147065645	1476147065746	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981590	1476147065813	1476147065902	v	86
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981592	1476147066170	1476147066273	a	65
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981595	1476147066669	1476147066769	c	67
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981598	1476147067323	1476147067401	u	85
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981694	1476147067497	1476147067607	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981699	1476147067778	1476147067889	s	83
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981703	1476147068994	1476147069110	BKSP	8
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981707	1476147069411	1476147069536	e	69
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981711	1476147069661	1476147069789	s	83
+301241	3240522	Two RAF Hercules transport planes airlifted foreign evacuees.	Two RAF Hercules transport planes airlifted foreign evacuees.	153981713	1476147070328	1476147070417	.	190
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981850	1476147070544	1476147072872	SHIFT	16
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981849	1476147072600	1476147072698	I	73
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981851	1476147073391	1476147073503	'	222
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981852	1476147074070	1476147074179	l	76
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981853	1476147074247	1476147074354	l	76
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981854	1476147074598	1476147074714	 	32
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981894	1476147075359	1476147075499	s	83
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981896	1476147075632	1476147075751	e	69
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981899	1476147075940	1476147076080	n	78
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981902	1476147076259	1476147076397	d	68
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981907	1476147076400	1476147076537	 	32
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981965	1476147077405	1476147077539	y	89
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981966	1476147077641	1476147077729	o	79
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981967	1476147077760	1476147077871	u	85
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981968	1476147077937	1476147078042	 	32
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981969	1476147078872	1476147079009	m	77
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981985	1476147079052	1476147079199	i	73
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981989	1476147079285	1476147079383	n	78
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981991	1476147080307	1476147080428	y	89
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981994	1476147080899	1476147080980	BKSP	8
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153981997	1476147081277	1476147081356	u	85
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153982004	1476147081498	1476147081571	o	79
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153982161	1476147081947	1476147082035	BKSP	8
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153982163	1476147083524	1476147083677	t	84
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153982165	1476147084111	1476147084241	e	69
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153982170	1476147084460	1476147084591	s	83
+301241	3240553	I'll send you minutes.	I'll send you minutes.	153982173	1476147085500	1476147085613	.	190

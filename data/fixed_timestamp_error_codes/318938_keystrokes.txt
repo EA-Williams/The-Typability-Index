@@ -1,0 +1,775 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121890	1476367140457	1476367140573	Y	89
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121897	1476367140498	1476367140633	CAPS_LOCK	20
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121902	1476367140643	1476367140817	e	69
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121908	1476367140724	1476367140847	s	83
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121910	1476367140771	1476367140887	 	32
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121919	1476367140927	1476367141054	CAPS_LOCK	20
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121960	1476367141007	1476367141136	I	73
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121966	1476367141106	1476367141277	CAPS_LOCK	20
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121971	1476367141246	1476367141392	 	32
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121977	1476367141344	1476367141462	l	76
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121983	1476367141512	1476367141611	i	73
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121990	1476367141671	1476367141760	k	75
+318938	3433169	Yes I like perfume.	Yes I like perfume	163121994	1476367141760	1476367141898	e	69
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122006	1476367141850	1476367141922	 	32
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122009	1476367142012	1476367142147	p	80
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122013	1476367142090	1476367142241	e	69
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122019	1476367142177	1476367142281	r	82
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122022	1476367142341	1476367142447	f	70
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122063	1476367142387	1476367142489	u	85
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122067	1476367142771	1476367142871	m	77
+318938	3433169	Yes I like perfume.	Yes I like perfume	163122071	1476367142952	1476367143094	e	69
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122256	1476367144682	1476367144797	I	73
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122263	1476367144787	1476367144929	CAPS_LOCK	20
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122271	1476367144919	1476367145011	'	192
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122286	1476367145111	1476367145204	m	77
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122295	1476367145214	1476367145341	 	32
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122356	1476367145300	1476367145395	o	79
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122360	1476367145475	1476367145570	n	78
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122364	1476367145680	1476367145787	 	32
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122370	1476367145797	1476367145964	a	65
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122374	1476367145901	1476367146004	 	32
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122384	1476367146014	1476367146135	c	67
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122418	1476367146101	1476367146224	o	79
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122421	1476367146304	1476367146424	n	78
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122424	1476367146454	1476367146582	f	70
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122429	1476367146544	1476367146647	e	69
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122436	1476367146637	1476367146763	r	82
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122459	1476367146720	1476367146840	e	69
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122468	1476367146775	1476367146877	n	78
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122477	1476367146884	1476367147008	c	67
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122488	1476367146937	1476367147068	e	69
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122499	1476367147022	1476367147135	 	32
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122508	1476367147135	1476367147283	c	67
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122518	1476367147201	1476367147350	a	65
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122523	1476367147288	1476367147360	l	76
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122528	1476367147410	1476367147485	l	76
+318938	3433176	I'm on a conference call.	I'm on a conference call.	163122535	1476367147555	1476367147634	.	190
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122698	1476367149024	1476367149127	M	77
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122707	1476367149097	1476367149237	CAPS_LOCK	20
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122718	1476367149227	1476367149346	o	79
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122725	1476367149300	1476367149470	s	83
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122734	1476367149424	1476367149550	t	84
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122756	1476367149510	1476367149610	 	32
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122757	1476367149650	1476367149780	c	67
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122758	1476367149724	1476367149820	o	79
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122759	1476367149880	1476367150004	n	78
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122760	1476367149961	1476367150087	t	84
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122784	1476367150034	1476367150179	e	69
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122789	1476367150199	1476367150304	n	78
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122793	1476367150254	1476367150370	d	68
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122798	1476367150314	1476367150450	e	69
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122802	1476367150420	1476367150570	r	82
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122860	1476367150522	1476367150672	s	83
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122864	1476367150672	1476367150770	 	32
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122869	1476367150912	1476367151053	h	72
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122875	1476367150992	1476367151164	a	65
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122880	1476367151294	1476367151407	BKSP	8
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122885	1476367151374	1476367151487	e	69
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122899	1476367151437	1476367151599	r	82
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122903	1476367151539	1476367151660	e	69
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122907	1476367151580	1476367151680	 	32
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122909	1476367151740	1476367151871	u	85
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122911	1476367151844	1476367151987	s	83
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122923	1476367151935	1476367152060	e	69
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122929	1476367152009	1476367152114	 	32
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122934	1476367152164	1476367152260	h	72
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122941	1476367152320	1476367152422	i	73
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122946	1476367152412	1476367152533	s	83
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122982	1476367152510	1476367152614	 	32
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122986	1476367152634	1476367152754	CAPS_LOCK	20
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122991	1476367152764	1476367152897	F	70
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123001	1476367152853	1476367153008	CAPS_LOCK	20
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163122995	1476367152889	1476367152988	o	79
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123009	1476367153338	1476367153427	r	82
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123015	1476367153497	1476367153667	d	68
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123114	1476367153634	1476367153797	-	189
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123118	1476367154029	1476367154120	c	67
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123121	1476367154170	1476367154346	CAPS_LOCK	20
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123124	1476367154456	1476367154572	BKSP	8
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123127	1476367154547	1476367154664	C	67
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123133	1476367154604	1476367154780	CAPS_LOCK	20
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123136	1476367154714	1476367154860	o	79
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123142	1476367154900	1476367155034	s	83
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123149	1476367155094	1476367155203	w	87
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123179	1476367155193	1476367155313	o	79
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123187	1476367155277	1476367155397	r	82
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123197	1476367155447	1476367155574	t	84
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123205	1476367155764	1476367155883	h	72
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123211	1476367155963	1476367156073	 	32
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123237	1476367156037	1476367156160	e	69
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123239	1476367156127	1476367156237	n	78
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123242	1476367156227	1476367156344	g	71
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123246	1476367156310	1476367156410	i	73
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123249	1476367156470	1476367156550	n	78
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123320	1476367156540	1476367156713	e	69
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123325	1476367156654	1476367156813	s	83
+318938	3433182	Most contenders here use his Ford-Cosworth engines.	Most contenders here use his Ford-Cosworth engines.	163123331	1476367157497	1476367157630	.	190
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123485	1476367158400	1476367158524	CAPS_LOCK	20
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123493	1476367159017	1476367159110	I	73
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123500	1476367159100	1476367159230	CAPS_LOCK	20
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123504	1476367159220	1476367159300	 	32
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123508	1476367159370	1476367159507	h	72
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123510	1476367159430	1476367159547	a	65
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123514	1476367159607	1476367159719	v	86
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123537	1476367159663	1476367159791	e	69
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123544	1476367159781	1476367159897	 	32
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123549	1476367159837	1476367159979	r	82
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123554	1476367159947	1476367160075	a	65
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123560	1476367160044	1476367160143	t	84
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123564	1476367160213	1476367160350	e	69
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123599	1476367160270	1476367160437	s	83
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123604	1476367160399	1476367160497	 	32
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123611	1476367160454	1476367160630	a	65
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123621	1476367160593	1476367160712	n	78
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123629	1476367160683	1476367160787	d	68
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123636	1476367160797	1476367160915	 	32
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123660	1476367160893	1476367160997	c	67
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123663	1476367160941	1476367161107	a	65
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123667	1476367161031	1476367161137	p	80
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123669	1476367161127	1476367161270	c	67
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123671	1476367161340	1476367161467	i	73
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123870	1476367161443	1476367161547	t	84
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123876	1476367161607	1476367161733	y	89
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123885	1476367161703	1476367161820	 	32
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123891	1476367161890	1476367161997	u	85
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123896	1476367162810	1476367162910	l	76
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123901	1476367164080	1476367164198	BKSP	8
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123954	1476367164167	1476367164294	t	84
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123959	1476367164250	1476367164353	i	73
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123965	1476367164423	1476367164510	l	76
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123969	1476367164560	1476367164680	i	73
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123975	1476367164670	1476367164790	z	90
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163123986	1476367164880	1476367165087	a	65
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124019	1476367165037	1476367165163	t	84
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124025	1476367165097	1476367165193	i	73
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124033	1476367165263	1476367165350	o	79
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124039	1476367165410	1476367165520	n	78
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124047	1476367165540	1476367165673	 	32
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124102	1476367165603	1476367165725	i	73
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124105	1476367165815	1476367165940	n	78
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124107	1476367165973	1476367166123	f	70
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124109	1476367166090	1476367166194	o	79
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124116	1476367166224	1476367166345	r	82
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124177	1476367166307	1476367166460	m	77
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124184	1476367166460	1476367166586	a	65
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124190	1476367166560	1476367166664	t	84
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124195	1476367166975	1476367167086	i	73
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124201	1476367167156	1476367167287	o	79
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124218	1476367167240	1476367167333	n	78
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124223	1476367167333	1476367167453	 	32
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124227	1476367167583	1476367167687	r	82
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124231	1476367167757	1476367167867	e	69
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124234	1476367167796	1476367167992	a	65
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124244	1476367167968	1476367168110	d	68
+318938	3433206	I have rates and capacity utilization information ready.	I have rates and capcity utilization information ready.	163124248	1476367168220	1476367168336	y	89
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124342	1476367169687	1476367169789	CAPS_LOCK	20
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124348	1476367169753	1476367169873	H	72
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124356	1476367169833	1476367169973	CAPS_LOCK	20
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124365	1476367169933	1476367170047	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124370	1476367170027	1476367170096	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124378	1476367170196	1476367170296	i	73
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124389	1476367170273	1476367170396	s	83
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124391	1476367170367	1476367170440	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124396	1476367170530	1476367170617	o	79
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124400	1476367170677	1476367170788	n	78
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124407	1476367170760	1476367170887	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124435	1476367170861	1476367170934	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124440	1476367171011	1476367171110	o	79
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124449	1476367171120	1476367171253	f	70
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124457	1476367171190	1476367171293	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124459	1476367171323	1476367171453	t	84
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124488	1476367171390	1476367171555	h	72
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124492	1476367171545	1476367171697	r	82
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124497	1476367171636	1476367171737	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124504	1476367171798	1476367171903	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124511	1476367172014	1476367172146	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124603	1476367172090	1476367172230	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124609	1476367172168	1476367172310	a	65
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124613	1476367172380	1476367172497	g	71
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124618	1476367172567	1476367172720	CAPS_LOCK	20
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124617	1476367172607	1476367172690	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124619	1476367172740	1476367172827	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124621	1476367172877	1476367172964	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124623	1476367172930	1476367173047	E	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124626	1476367172987	1476367173137	CAPS_LOCK	20
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124631	1476367173258	1476367173383	a	65
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124635	1476367173463	1476367173581	g	71
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124650	1476367173560	1476367173694	l	76
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124652	1476367173653	1476367173763	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124657	1476367173703	1476367173803	s	83
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124663	1476367173793	1476367173898	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124668	1476367173876	1476367173966	w	87
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124674	1476367174046	1476367174168	h	72
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124692	1476367174123	1476367174237	o	79
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124695	1476367174237	1476367174366	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124700	1476367174296	1476367174417	w	87
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124705	1476367174344	1476367174437	i	73
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124710	1476367174517	1476367174580	l	76
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124716	1476367174640	1476367174753	l	76
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124770	1476367174706	1476367174870	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124775	1476367174815	1476367174971	b	66
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124780	1476367174900	1476367174996	w	87
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124787	1476367174933	1476367175029	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124790	1476367174986	1476367175086	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124793	1476367175318	1476367175410	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124795	1476367175450	1476367175533	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124799	1476367175583	1476367175698	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124811	1476367175646	1476367175801	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124815	1476367175771	1476367175973	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124820	1476367175900	1476367176033	h	72
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124825	1476367176053	1476367176173	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124895	1476367176163	1476367176267	l	75
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124900	1476367176509	1476367176617	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124904	1476367176651	1476367176764	BKSP	8
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124910	1476367176774	1476367176904	l	76
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124916	1476367176847	1476367176987	d	68
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124926	1476367176934	1476367177091	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124935	1476367177017	1476367177131	o	79
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124944	1476367177201	1476367177297	u	85
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124945	1476367177297	1476367177417	t	84
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124953	1476367177394	1476367177477	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124960	1476367177547	1476367177663	o	79
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124966	1476367177634	1476367177760	f	70
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124994	1476367177737	1476367177817	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163124998	1476367177817	1476367177919	t	84
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163125001	1476367177881	1476367177989	h	72
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163125004	1476367177959	1476367178097	e	69
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163125007	1476367178051	1476367178130	 	32
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163125009	1476367178160	1476367178348	g	71
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163125014	1476367178281	1476367178434	a	65
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163125017	1476367178358	1476367178464	m	77
+318938	3433225	He is one of three Eagles who will be held out of the game.	He is one of three Eagles who will be held out of the game.	163125023	1476367178474	1476367178599	e	69
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125134	1476367179957	1476367180104	I	73
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125141	1476367180044	1476367180154	CAPS_LOCK	20
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125147	1476367180224	1476367180321	 	32
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125156	1476367180351	1476367180531	c	67
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125200	1476367180404	1476367180583	a	65
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125197	1476367180464	1476367180563	n	78
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125202	1476367180703	1476367180796	'	192
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125205	1476367180806	1476367180944	t	84
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125208	1476367180954	1476367181054	 	32
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125210	1476367181104	1476367181224	r	82
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125212	1476367181414	1476367181471	BKSP	8
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125216	1476367181481	1476367181591	t	84
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125237	1476367181524	1476367181654	e	69
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125230	1476367181591	1476367181635	l	76
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125244	1476367181734	1476367181846	l	76
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125253	1476367181807	1476367181934	 	32
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125260	1476367182045	1476367182190	y	89
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125276	1476367182170	1476367182286	o	79
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125280	1476367182241	1476367182364	u	85
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125283	1476367182384	1476367182487	 	32
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125292	1476367182477	1476367182611	w	87
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125296	1476367182581	1476367182705	h	72
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125302	1476367182657	1476367182794	e	69
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125306	1476367182771	1476367182887	n	78
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125312	1476367182841	1476367183031	 	32
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125322	1476367182977	1476367183098	h	72
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125328	1476367183128	1476367183261	e	69
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125380	1476367183212	1476367183304	'	192
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125384	1476367183424	1476367183511	l	76
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125389	1476367183591	1476367183697	l	76
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125395	1476367183687	1476367183854	 	32
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125396	1476367183800	1476367183934	b	66
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125401	1476367184075	1476367184201	e	69
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125436	1476367184221	1476367184320	 	32
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125438	1476367184490	1476367184609	b	66
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125441	1476367184574	1476367184731	a	65
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125445	1476367184721	1476367184864	c	67
+318938	3433237	I can't tell you when he'll be back.	I can't tell you when he'll be back.	163125454	1476367184800	1476367184884	k	75
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125719	1476367186257	1476367186374	E	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125724	1476367186334	1476367186474	CAPS_LOCK	20
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125730	1476367186494	1476367186594	x	88
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125735	1476367186664	1476367186823	c	67
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125738	1476367186853	1476367186984	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125740	1476367187084	1476367187180	BKSP	8
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125743	1476367189249	1476367189354	BKSP	8
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125747	1476367189384	1476367189541	p	80
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125802	1476367189460	1476367189646	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125806	1476367189593	1476367189724	c	67
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125810	1476367189824	1476367189920	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125812	1476367190320	1476367190430	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125814	1476367190560	1476367190721	h	72
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125876	1476367190615	1476367190731	i	73
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125882	1476367190902	1476367190984	BKSP	8
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125889	1476367191044	1476367191154	BKSP	8
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125893	1476367191284	1476367191407	h	72
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125903	1476367191340	1476367191437	i	73
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125908	1476367191517	1476367191601	m	77
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125913	1476367191691	1476367191775	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125925	1476367191737	1476367191868	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125926	1476367191868	1476367191961	o	79
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125928	1476367192041	1476367192174	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125931	1476367192144	1476367192280	b	66
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125933	1476367192214	1476367192344	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125977	1476367192308	1476367192408	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125980	1476367192398	1476367192537	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125984	1476367192484	1476367192612	h	72
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125987	1476367192577	1476367192690	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125991	1476367192724	1476367192790	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163125996	1476367192810	1476367192920	CAPS_LOCK	20
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126019	1476367192870	1476367193030	B	66
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126020	1476367192990	1476367193158	CAPS_LOCK	20
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126021	1476367193120	1476367193290	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126022	1476367193217	1476367193350	a	65
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126023	1476367193420	1476367193632	r	82
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126025	1476367193580	1476367193748	s	83
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126088	1476367193738	1476367193857	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126090	1476367194067	1476367194212	f	70
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126091	1476367194163	1476367194348	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126092	1476367194322	1476367194470	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126093	1476367194934	1476367195047	BKSP	8
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126096	1476367194997	1476367195147	a	65
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126152	1476367195094	1476367195230	u	85
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126156	1476367195320	1476367195420	BKSP	8
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126158	1476367195420	1476367195532	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126161	1476367195491	1476367195637	u	85
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126167	1476367195757	1476367195900	r	82
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126172	1476367195820	1476367195950	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126174	1476367196002	1476367196124	d	68
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126201	1476367196114	1476367196220	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126202	1476367196300	1476367196445	b	66
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126203	1476367196445	1476367196584	a	65
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126205	1476367196594	1476367196737	c	67
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126210	1476367196674	1476367196767	k	75
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126214	1476367196847	1476367196934	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126231	1476367196934	1476367197046	f	70
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126236	1476367197027	1476367197120	o	79
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126244	1476367197120	1476367197246	r	82
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126252	1476367197210	1476367197320	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126272	1476367197300	1476367197428	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126275	1476367197374	1476367197487	h	72
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126278	1476367197487	1476367197624	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126281	1476367197561	1476367197687	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126284	1476367197664	1476367197770	r	82
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126287	1476367197840	1476367197957	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126297	1476367197883	1476367197999	s	83
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126300	1476367198009	1476367198137	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126305	1476367198090	1476367198157	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126308	1476367198237	1476367198351	o	79
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126312	1476367198328	1476367198443	f	70
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126344	1476367198431	1476367198528	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126348	1476367198508	1476367198655	t	84
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126351	1476367198591	1476367198685	h	72
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126353	1476367198675	1476367198807	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126354	1476367198768	1476367198841	 	32
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126355	1476367198933	1476367199055	y	89
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126361	1476367199028	1476367199155	e	69
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126365	1476367199098	1476367199264	a	65
+318938	3433251	Expect him to be the Bears featured back for the rest of the year.	Expect him to be the Bears featured back for the rest of the year.	163126369	1476367199195	1476367199344	r	82
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126482	1476367200725	1476367200872	W	87
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126486	1476367200812	1476367200948	CAPS_LOCK	20
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126491	1476367200882	1476367200998	h	72
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126498	1476367200998	1476367201125	a	65
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126505	1476367201175	1476367201311	t	84
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126524	1476367201271	1476367201345	 	32
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126529	1476367201445	1476367201565	i	73
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126537	1476367201528	1476367201685	s	83
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126543	1476367201631	1476367201734	 	32
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126549	1476367201718	1476367201838	t	84
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126605	1476367201791	1476367201890	h	72
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126610	1476367201880	1476367202015	e	69
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126617	1476367201958	1476367202035	 	32
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126623	1476367202136	1476367202238	t	84
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126632	1476367202420	1476367202554	BKSP	8
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126638	1476367202534	1476367202638	p	80
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126645	1476367202748	1476367202875	u	85
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126677	1476367203179	1476367203281	r	82
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126681	1476367203521	1476367203641	p	80
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126745	1476367203701	1476367203813	i	79
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126746	1476367203771	1476367203898	s	83
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126747	1476367203841	1476367203958	e	69
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126750	1476367204048	1476367204135	BKSP	8
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126753	1476367204185	1476367204269	BKSP	8
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126756	1476367204309	1476367204419	BKSP	8
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126760	1476367204391	1476367204534	s	83
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126764	1476367204448	1476367204588	e	69
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126769	1476367204534	1476367204728	 	32
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126773	1476367204728	1476367204850	o	79
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126787	1476367204818	1476367204931	f	70
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126790	1476367204921	1476367205035	 	32
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126793	1476367205001	1476367205095	t	84
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126796	1476367205155	1476367205278	h	72
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126797	1476367205186	1476367205288	i	73
+318938	3433267	What is the purpose of this?	What is the purpose of this?	163126798	1476367205358	1476367205514	s	83
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163126945	1476367206831	1476367206988	T	84
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163126954	1476367206998	1476367207105	H	72
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163126960	1476367207335	1476367207485	CAPS_LOCK	20
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163126970	1476367207445	1476367207564	BKSP	8
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163126977	1476367207594	1476367207729	h	72
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163126984	1476367207684	1476367207798	i	73
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163126991	1476367207818	1476367207944	s	83
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127007	1476367207901	1476367207987	 	32
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127010	1476367208057	1476367208169	i	73
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127014	1476367208121	1476367208251	s	83
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127022	1476367208251	1476367208344	 	32
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127028	1476367208334	1476367208484	a	65
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127060	1476367208438	1476367208529	 	32
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127065	1476367208589	1476367208668	m	77
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127068	1476367208739	1476367208861	o	79
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127071	1476367208818	1476367208967	s	83
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127130	1476367208902	1476367209024	t	84
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127132	1476367208952	1476367209044	 	32
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127134	1476367209104	1476367209195	u	85
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127136	1476367209275	1476367209398	n	78
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127138	1476367209398	1476367209534	f	70
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127141	1476367209704	1476367209845	o	79
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127147	1476367210056	1476367210184	r	82
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127167	1476367210276	1476367210412	t	84
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127168	1476367210378	1476367210478	u	85
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127171	1476367210538	1476367210654	n	78
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127178	1476367210598	1476367210738	a	65
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127197	1476367210684	1476367210841	t	84
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127199	1476367210760	1476367210887	e	69
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127206	1476367210841	1476367210934	 	32
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127212	1476367210984	1476367211112	n	78
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127216	1476367211038	1476367211181	e	69
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127255	1476367211120	1476367211203	w	87
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127258	1476367211283	1476367211416	s	83
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127261	1476367211378	1476367211498	 	32
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127265	1476367211508	1476367211675	r	82
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127267	1476367211591	1476367211725	e	69
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127270	1476367211725	1476367211875	l	76
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127278	1476367211828	1476367211964	e	69
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127280	1476367211908	1476367212024	a	65
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127282	1476367212098	1476367212248	s	83
+318938	3433277	This is a most unfortunate news release.	This is a most unfortunate news release.	163127286	1476367212184	1476367212308	e	69
+318938	3433288	The troops just walked in.	The troops just walked in.	163127392	1476367213644	1476367213758	T	84
+318938	3433288	The troops just walked in.	The troops just walked in.	163127396	1476367213728	1476367213874	CAPS_LOCK	20
+318938	3433288	The troops just walked in.	The troops just walked in.	163127401	1476367213798	1476367213919	h	72
+318938	3433288	The troops just walked in.	The troops just walked in.	163127404	1476367213884	1476367213991	e	69
+318938	3433288	The troops just walked in.	The troops just walked in.	163127408	1476367214011	1476367214111	 	32
+318938	3433288	The troops just walked in.	The troops just walked in.	163127434	1476367214101	1476367214234	t	84
+318938	3433288	The troops just walked in.	The troops just walked in.	163127436	1476367214154	1476367214274	r	82
+318938	3433288	The troops just walked in.	The troops just walked in.	163127439	1476367214414	1476367214521	o	79
+318938	3433288	The troops just walked in.	The troops just walked in.	163127441	1476367214581	1476367214680	o	79
+318938	3433288	The troops just walked in.	The troops just walked in.	163127443	1476367214750	1476367214854	p	80
+318938	3433288	The troops just walked in.	The troops just walked in.	163127470	1476367214844	1476367214987	s	83
+318938	3433288	The troops just walked in.	The troops just walked in.	163127471	1476367214946	1476367215044	 	32
+318938	3433288	The troops just walked in.	The troops just walked in.	163127474	1476367215104	1476367215224	j	74
+318938	3433288	The troops just walked in.	The troops just walked in.	163127479	1476367215274	1476367215388	u	85
+318938	3433288	The troops just walked in.	The troops just walked in.	163127485	1476367215341	1476367215484	s	83
+318938	3433288	The troops just walked in.	The troops just walked in.	163127493	1476367215408	1476367215531	t	84
+318938	3433288	The troops just walked in.	The troops just walked in.	163127495	1476367215506	1476367215594	 	32
+318938	3433288	The troops just walked in.	The troops just walked in.	163127497	1476367215634	1476367215760	w	87
+318938	3433288	The troops just walked in.	The troops just walked in.	163127563	1476367215664	1476367215823	e	65
+318938	3433288	The troops just walked in.	The troops just walked in.	163127567	1476367215721	1476367215833	l	76
+318938	3433288	The troops just walked in.	The troops just walked in.	163127573	1476367215929	1476367216041	k	75
+318938	3433288	The troops just walked in.	The troops just walked in.	163127577	1476367216117	1476367216221	BKSP	8
+318938	3433288	The troops just walked in.	The troops just walked in.	163127581	1476367216251	1476367216357	BKSP	8
+318938	3433288	The troops just walked in.	The troops just walked in.	163127586	1476367216397	1476367216484	BKSP	8
+318938	3433288	The troops just walked in.	The troops just walked in.	163127590	1476367216544	1476367216631	BKSP	8
+318938	3433288	The troops just walked in.	The troops just walked in.	163127594	1476367216567	1476367216691	a	65
+318938	3433288	The troops just walked in.	The troops just walked in.	163127599	1476367216691	1476367216784	l	76
+318938	3433288	The troops just walked in.	The troops just walked in.	163127606	1476367216854	1476367216966	k	75
+318938	3433288	The troops just walked in.	The troops just walked in.	163127644	1476367216914	1476367216999	e	69
+318938	3433288	The troops just walked in.	The troops just walked in.	163127652	1476367217069	1476367217188	d	68
+318938	3433288	The troops just walked in.	The troops just walked in.	163127659	1476367217141	1476367217238	 	32
+318938	3433288	The troops just walked in.	The troops just walked in.	163127666	1476367217320	1476367217433	i	73
+318938	3433288	The troops just walked in.	The troops just walked in.	163127672	1476367217401	1476367217528	n	78
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127785	1476367219314	1476367219441	P	80
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127789	1476367219421	1476367219565	CAPS_LOCK	20
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127793	1476367219513	1476367219672	l	76
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127798	1476367219594	1476367219743	e	69
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127802	1476367219676	1476367219808	a	65
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127804	1476367219878	1476367220035	s	83
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127832	1476367219978	1476367220088	e	69
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127837	1476367220078	1476367220198	 	32
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127845	1476367220188	1476367220327	c	67
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127848	1476367220237	1476367220381	a	65
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127856	1476367220317	1476367220391	l	76
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127860	1476367220453	1476367220547	l	76
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127865	1476367220547	1476367220707	 	32
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127869	1476367220634	1476367220737	m	77
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127875	1476367220727	1476367220862	e	69
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127880	1476367220817	1476367220901	 	32
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127886	1476367220961	1476367221061	i	73
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127904	1476367221061	1476367221203	f	70
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127907	1476367221141	1476367221254	 	32
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127913	1476367221284	1476367221404	y	89
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127917	1476367221357	1476367221464	o	79
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127952	1476367221464	1476367221581	u	85
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127956	1476367221571	1476367221732	 	32
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127961	1476367221691	1476367221848	s	83
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127963	1476367221787	1476367221878	e	69
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127967	1476367221938	1476367222057	e	69
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127991	1476367222057	1476367222150	 	32
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127992	1476367222124	1476367222269	a	65
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127993	1476367222221	1476367222320	n	78
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127995	1476367222340	1476367222479	y	89
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163127997	1476367222454	1476367222524	 	32
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128000	1476367222624	1476367222741	p	80
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128026	1476367222718	1476367222841	r	82
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128030	1476367222801	1476367222914	o	79
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128036	1476367222924	1476367223037	b	66
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128041	1476367222997	1476367223123	l	76
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128047	1476367223097	1476367223204	e	69
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128059	1476367223194	1476367223284	m	77
+318938	3433293	Please call me if you see any problems.	Please call me if you see any problems.	163128063	1476367223294	1476367223431	s	83
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128250	1476367225021	1476367225111	T	84
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128255	1476367225262	1476367225371	BKSP	8
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128259	1476367225411	1476367225501	I	73
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128262	1476367225491	1476367225621	CAPS_LOCK	20
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128264	1476367225611	1476367225721	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128267	1476367225666	1476367225801	a	65
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128270	1476367225902	1476367226004	g	71
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128314	1476367226217	1476367226371	r	82
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128317	1476367226321	1476367226431	e	69
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128319	1476367226481	1476367226617	e	69
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128327	1476367226637	1476367226757	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128331	1476367226827	1476367227021	s	83
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128349	1476367226917	1476367227031	i	73
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128352	1476367227113	1476367227211	n	78
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128355	1476367227201	1476367227367	c	67
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128358	1476367227284	1476367227407	e	69
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128363	1476367227337	1476367227447	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128368	1476367227487	1476367227597	CAPS_LOCK	20
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128390	1476367227537	1476367227649	I	73
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128393	1476367227649	1476367227787	CAPS_LOCK	20
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128398	1476367227739	1476367227847	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128404	1476367227857	1476367228007	a	65
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128410	1476367227924	1476367228037	m	77
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128417	1476367228117	1476367228220	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128424	1476367228240	1476367228414	a	65
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128437	1476367228354	1476367228530	t	84
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128440	1476367228497	1476367228604	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128446	1476367228624	1476367228737	t	84
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128451	1476367228691	1476367228817	h	72
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128455	1476367228807	1476367228934	e	69
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128505	1476367228924	1476367229049	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128507	1476367229011	1476367229138	b	66
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128511	1476367229091	1476367229241	a	65
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128515	1476367229170	1476367229271	n	78
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128519	1476367229854	1476367229944	k	75
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128524	1476367230034	1476367230157	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128537	1476367230209	1476367230336	r	82
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128540	1476367230304	1476367230414	i	73
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128545	1476367230424	1476367230501	g	71
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128550	1476367230571	1476367230664	h	72
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128573	1476367230614	1476367230721	t	84
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128577	1476367230674	1476367230767	 	32
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128580	1476367230747	1476367230868	n	78
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128586	1476367230854	1476367230955	o	79
+318938	3433303	I agree since I am at the bank right now.	I agree since I am at the bank right now.	163128591	1476367230945	1476367231071	w	87
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128708	1476367232473	1476367232577	T	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128715	1476367232587	1476367232730	CAPS_LOCK	20
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128721	1476367232637	1476367232771	h	72
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128727	1476367232720	1476367232870	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128731	1476367232811	1476367232981	s	83
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128763	1476367232920	1476367233025	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128768	1476367233045	1476367233168	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128771	1476367233134	1476367233254	f	70
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128774	1476367233210	1476367233388	a	65
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128777	1476367233364	1476367233481	c	67
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128780	1476367233553	1476367233664	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128805	1476367233624	1476367233771	o	79
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128806	1476367233741	1476367233881	r	82
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128809	1476367233817	1476367233941	s	83
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128813	1476367233921	1476367234037	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128816	1476367234047	1476367234133	w	87
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128819	1476367234253	1476367234354	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128852	1476367234344	1476367234452	d	68
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128855	1476367234427	1476367234559	i	73
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128860	1476367234530	1476367234627	c	67
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128862	1476367234717	1476367234840	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128867	1476367234800	1476367234962	a	65
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128908	1476367234914	1476367235067	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128910	1476367234996	1476367235127	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128912	1476367235157	1476367235264	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128919	1476367235394	1476367235524	c	67
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128925	1476367235534	1476367235637	l	76
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128929	1476367235647	1476367235757	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128969	1476367235693	1476367235872	a	65
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128974	1476367235849	1476367235964	r	82
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128977	1476367236014	1476367236104	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128983	1476367236209	1476367236324	l	76
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128988	1476367236374	1476367236470	i	73
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163128993	1476367236540	1476367236634	m	77
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129013	1476367236696	1476367236814	i	73
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129016	1476367236754	1476367236906	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129018	1476367236854	1476367236978	s	83
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129022	1476367236968	1476367237071	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129025	1476367237141	1476367237264	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129047	1476367237204	1476367237336	o	79
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129049	1476367237426	1476367237531	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129051	1476367237510	1476367237631	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129053	1476367237594	1476367237695	h	72
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129055	1476367237667	1476367237780	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129105	1476367237770	1476367237860	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129108	1476367237870	1476367238014	c	67
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129112	1476367237950	1476367238044	o	79
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129117	1476367238105	1476367238204	n	78
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129123	1476367238645	1476367238769	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129223	1476367238724	1476367238811	p	80
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129226	1476367238841	1476367238957	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129230	1476367239127	1476367239225	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129234	1476367239332	1476367239450	o	79
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129238	1476367239440	1476367239507	f	70
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129242	1476367239667	1476367239780	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129244	1476367239840	1476367239944	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129249	1476367239984	1476367240087	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129254	1476367240127	1476367240229	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129260	1476367240269	1476367240380	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129267	1476367240420	1476367240530	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129272	1476367240560	1476367240705	c	67
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129273	1476367240620	1476367240780	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129277	1476367240670	1476367240820	p	80
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129280	1476367240830	1476367240962	t	84
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129285	1476367240937	1476367241037	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129289	1476367241117	1476367241232	o	79
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129294	1476367241210	1476367241320	f	70
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129313	1476367241310	1476367241430	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129318	1476367241600	1476367241724	s	83
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129322	1476367241654	1476367241754	a	65
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129324	1476367241824	1476367241947	f	70
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129329	1476367241880	1476367242001	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129447	1476367241947	1476367242086	 	32
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129449	1476367242146	1476367242344	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129451	1476367242306	1476367242449	a	65
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129453	1476367242549	1476367242634	r	82
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129455	1476367242804	1476367242904	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129460	1476367242964	1476367243060	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129466	1476367243090	1476367243194	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129474	1476367243234	1476367243327	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129484	1476367243367	1476367243467	BKSP	8
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129514	1476367243392	1476367243571	a	65
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129521	1476367243529	1476367243652	r	82
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129528	1476367243732	1476367243874	e	69
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129531	1476367243797	1476367244004	a	65
+318938	3433316	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	163129536	1476367243956	1476367244087	s	83
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129670	1476367245771	1476367245881	T	84
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129675	1476367245861	1476367246014	CAPS_LOCK	20
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129680	1476367245981	1476367246110	h	72
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129684	1476367246088	1476367246208	a	65
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129691	1476367246268	1476367246372	t	84
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129766	1476367246341	1476367246408	 	32
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129768	1476367246768	1476367246894	w	87
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129770	1476367246904	1476367246985	o	79
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129772	1476367247055	1476367247145	u	85
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129775	1476367247225	1476367247347	l	76
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129802	1476367247318	1476367247467	d	68
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129810	1476367247420	1476367247554	 	32
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129806	1476367247459	1476367247544	l	76
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129816	1476367247594	1476367247695	i	73
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129820	1476367247755	1476367247872	k	75
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129892	1476367247824	1476367247968	e	69
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129898	1476367247948	1476367248072	l	76
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129902	1476367248035	1476367248150	y	89
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129906	1476367248170	1476367248293	 	32
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129915	1476367248423	1476367248571	e	69
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163129924	1476367248631	1476367248762	 	32
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130007	1476367248739	1476367248885	a	65
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130011	1476367248835	1476367248937	n	78
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130018	1476367249237	1476367249318	BKSP	8
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130026	1476367249368	1476367249469	BKSP	8
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130031	1476367249519	1476367249601	BKSP	8
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130037	1476367249641	1476367249758	BKSP	8
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130041	1476367249758	1476367249878	b	66
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130046	1476367249793	1476367249969	e	69
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130048	1476367249949	1476367250055	 	32
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130050	1476367250075	1476367250224	a	65
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130067	1476367250151	1476367250276	n	78
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130071	1476367250338	1476367250452	 	32
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130078	1476367250428	1476367250528	e	69
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130082	1476367250629	1476367250774	x	88
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130089	1476367250708	1476367250854	p	80
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130093	1476367250894	1476367251006	e	69
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130110	1476367250978	1476367251098	n	78
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130113	1476367251108	1476367251231	s	83
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130115	1476367251171	1476367251320	i	73
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130119	1476367251300	1476367251431	v	86
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130124	1476367251364	1476367251484	e	69
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130148	1476367251431	1476367251507	 	32
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130150	1476367251598	1476367251694	o	79
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130152	1476367251754	1476367251883	p	80
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130154	1476367251863	1476367251971	t	84
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130156	1476367251961	1476367252051	i	73
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130159	1476367252141	1476367252228	o	79
+318938	3433334	That would likely be an expensive option.	That would likely be an expensive option.	163130161	1476367252238	1476367252347	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130236	1476367253618	1476367253741	W	87
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130239	1476367253670	1476367253821	CAPS_LOCK	20
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130244	1476367253771	1476367253923	h	72
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130250	1476367253881	1476367253965	e	87
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130256	1476367254005	1476367254104	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130402	1476367254536	1476367254654	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130405	1476367254824	1476367254911	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130410	1476367254971	1476367255031	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130416	1476367255101	1476367255204	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130420	1476367255224	1476367255348	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130425	1476367255368	1476367255471	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130431	1476367255661	1476367255751	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130435	1476367255801	1476367255884	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130438	1476367255926	1476367256028	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130442	1476367255988	1476367256118	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130455	1476367256108	1476367256211	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130460	1476367256291	1476367256378	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130465	1476367256378	1476367256502	t	84
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130468	1476367256468	1476367256541	h	72
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130472	1476367256561	1476367256698	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130525	1476367256624	1476367256718	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130532	1476367256789	1476367256894	o	73
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130539	1476367257195	1476367257315	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130545	1476367257405	1476367257564	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130550	1476367257511	1476367257651	s	83
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130555	1476367257661	1476367257771	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130596	1476367258093	1476367258239	p	80
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130600	1476367258197	1476367258295	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130603	1476367258406	1476367258505	c	67
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130606	1476367258585	1476367258709	t	84
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130692	1476367258635	1476367258741	i	73
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130697	1476367259011	1476367259137	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130702	1476367259347	1476367259448	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130706	1476367259458	1476367259589	o	79
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130709	1476367259542	1476367259655	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130713	1476367259629	1476367259765	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130732	1476367259726	1476367259846	i	73
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130734	1476367259818	1476367259961	s	83
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130737	1476367259922	1476367260029	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130741	1476367260039	1476367260166	f	70
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130746	1476367260099	1476367260196	i	73
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130751	1476367260256	1476367260355	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130779	1476367260429	1476367260560	i	73
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130783	1476367260518	1476367260672	s	83
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130787	1476367260612	1476367260755	h	72
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130793	1476367260712	1476367260805	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130797	1476367260875	1476367261009	d	68
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130820	1476367260959	1476367261070	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130824	1476367261080	1476367261259	w	87
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130830	1476367261189	1476367261320	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130834	1476367261320	1476367261453	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130836	1476367261419	1476367261571	w	87
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130866	1476367261542	1476367261648	i	73
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130869	1476367261718	1476367261792	l	76
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130876	1476367261842	1476367261956	l	76
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130882	1476367261925	1476367262093	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130924	1476367262009	1476367262182	c	67
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130921	1476367262072	1476367262172	o	79
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130927	1476367262252	1476367262335	m	77
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130931	1476367262397	1476367262495	m	77
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130942	1476367262575	1476367262665	u	85
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130937	1476367262596	1476367262640	y	89
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163130945	1476367262765	1476367262892	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131009	1476367263073	1476367263160	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131013	1476367263210	1476367263317	BKSP	8
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131018	1476367263397	1476367263485	n	78
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131020	1476367263565	1476367263731	i	73
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131024	1476367263632	1476367263772	c	67
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131029	1476367263709	1476367263899	a	65
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131041	1476367263872	1476367264002	t	84
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131043	1476367263915	1476367264064	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131046	1476367264022	1476367264148	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131048	1476367264098	1476367264218	t	84
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131051	1476367264288	1476367264401	h	72
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131097	1476367264368	1476367264523	o	79
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131099	1476367264482	1476367264619	s	83
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131100	1476367264538	1476367264649	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131101	1476367264659	1476367264787	 	32
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131107	1476367264722	1476367264828	r	82
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131117	1476367264888	1476367265033	e	69
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131145	1476367264942	1476367265075	s	83
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131150	1476367264998	1476367265095	u	85
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131155	1476367265205	1476367265305	l	76
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131158	1476367265264	1476367265408	t	84
+318938	3433346	When the inspection is finished we will communicate those results.	When the insepection is finished we will communicate those results.	163131162	1476367265335	1476367265469	s	83

@@ -1,0 +1,654 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256546	1472731110358	1472731110358	ARW_LEFT	37
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256549	1472731110358	1472731110358	ARW_LEFT	37
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256551	1472731110358	1472731110358	ARW_LEFT	37
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256554	1472731114905	1472731115045	CAPS_LOCK	20
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256556	1472731115123	1472731115204	E	69
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256557	1472731115235	1472731115360	CAPS_LOCK	20
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256558	1472731115485	1472731115579	d	68
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256559	1472731115647	1472731115743	 	32
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256560	1472731115768	1472731115877	CAPS_LOCK	20
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256561	1472731115971	1472731116022	T	84
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256562	1472731116115	1472731116256	CAPS_LOCK	20
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256563	1472731116664	1472731116767	e	69
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256570	1472731116819	1472731116903	r	82
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256572	1472731117028	1472731117089	r	82
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256574	1472731117183	1472731117251	y	89
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256576	1472731117345	1472731117453	 	32
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256578	1472731117500	1472731117584	i	73
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256594	1472731117735	1472731117799	s	83
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256597	1472731117848	1472731117902	 	32
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256599	1472731117966	1472731118082	i	73
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256601	1472731118082	1472731118164	n	78
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256602	1472731118232	1472731118336	 	32
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256607	1472731118318	1472731118373	t	84
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256609	1472731118435	1472731118489	h	72
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256611	1472731118504	1472731118602	e	69
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256613	1472731118665	1472731118717	r	82
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256616	1472731118758	1472731118866	e	69
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256619	1472731118928	1472731119002	 	32
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256637	1472731119054	1472731119121	t	84
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256639	1472731119433	1472731119505	w	87
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256643	1472731119552	1472731119621	i	73
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256647	1472731119761	1472731119838	c	67
+61851	678244	Ed Terry is in there twice.	Ed Terry is in there twice.	32256651	1472731119978	1472731120054	e	69
+61851	678250	Take what you can get.	Take what you can get.	32256836	1472731120928	1472731126870	.	190
+61851	678250	Take what you can get.	Take what you can get.	32256748	1472731123575	1472731123668	CAPS_LOCK	20
+61851	678250	Take what you can get.	Take what you can get.	32256750	1472731123704	1472731123768	T	84
+61851	678250	Take what you can get.	Take what you can get.	32256752	1472731123803	1472731123912	CAPS_LOCK	20
+61851	678250	Take what you can get.	Take what you can get.	32256754	1472731124052	1472731124136	a	65
+61851	678250	Take what you can get.	Take what you can get.	32256757	1472731124152	1472731124221	k	75
+61851	678250	Take what you can get.	Take what you can get.	32256760	1472731124283	1472731124354	e	69
+61851	678250	Take what you can get.	Take what you can get.	32256764	1472731124401	1472731124468	 	32
+61851	678250	Take what you can get.	Take what you can get.	32256774	1472731124504	1472731124555	w	87
+61851	678250	Take what you can get.	Take what you can get.	32256775	1472731124586	1472731124655	h	72
+61851	678250	Take what you can get.	Take what you can get.	32256776	1472731124722	1472731124787	a	65
+61851	678250	Take what you can get.	Take what you can get.	32256777	1472731124803	1472731124864	t	84
+61851	678250	Take what you can get.	Take what you can get.	32256778	1472731124950	1472731125035	 	32
+61851	678250	Take what you can get.	Take what you can get.	32256796	1472731125103	1472731125171	y	89
+61851	678250	Take what you can get.	Take what you can get.	32256798	1472731125171	1472731125253	o	79
+61851	678250	Take what you can get.	Take what you can get.	32256800	1472731125362	1472731125421	u	85
+61851	678250	Take what you can get.	Take what you can get.	32256801	1472731125562	1472731125623	 	32
+61851	678250	Take what you can get.	Take what you can get.	32256803	1472731125685	1472731125754	c	67
+61851	678250	Take what you can get.	Take what you can get.	32256812	1472731125837	1472731125919	a	65
+61851	678250	Take what you can get.	Take what you can get.	32256814	1472731125951	1472731126019	n	78
+61851	678250	Take what you can get.	Take what you can get.	32256817	1472731126069	1472731126166	 	32
+61851	678250	Take what you can get.	Take what you can get.	32256823	1472731126197	1472731126269	g	71
+61851	678250	Take what you can get.	Take what you can get.	32256828	1472731126315	1472731126479	e	69
+61851	678250	Take what you can get.	Take what you can get.	32256835	1472731126479	1472731126554	t	84
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256922	1472731129927	1472731130005	CAPS_LOCK	20
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256924	1472731130101	1472731130168	S	83
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256927	1472731130232	1472731130342	CAPS_LOCK	20
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256930	1472731130420	1472731130503	h	72
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256932	1472731130550	1472731130620	p	80
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256933	1472731131325	1472731131403	BKSP	8
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256934	1472731131761	1472731131808	o	79
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256935	1472731132007	1472731132069	u	85
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256947	1472731132279	1472731132354	l	76
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256949	1472731132400	1472731132472	d	68
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256951	1472731132519	1472731132582	n	78
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256953	1472731132993	1472731133056	'	222
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256956	1472731133086	1472731133154	t	84
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256978	1472731133221	1472731133305	 	32
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256980	1472731133507	1472731133585	b	66
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256983	1472731133616	1472731133686	e	69
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256985	1472731133701	1472731133786	 	32
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256986	1472731133818	1472731133897	t	84
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256987	1472731133940	1472731133989	o	79
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256990	1472731134064	1472731134120	o	79
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256993	1472731134198	1472731134316	 	32
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256996	1472731134347	1472731134418	h	72
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32256999	1472731134449	1472731134567	a	65
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257015	1472731134671	1472731134748	r	82
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257017	1472731134872	1472731134952	d	68
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257020	1472731135030	1472731135115	 	32
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257022	1472731135318	1472731135387	t	84
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257024	1472731135402	1472731135468	h	72
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257049	1472731135614	1472731135685	o	79
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257051	1472731135794	1472731135869	u	85
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257054	1472731135869	1472731135937	g	71
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257056	1472731135969	1472731136038	h	72
+61851	678255	Shouldn't be too hard though.	Shouldn't be too hard though.	32257059	1472731136464	1472731136566	.	190
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257252	1472731143571	1472731143684	CAPS_LOCK	20
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257256	1472731143981	1472731144062	G	71
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257260	1472731144178	1472731144303	CAPS_LOCK	20
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257264	1472731144318	1472731144387	o	79
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257266	1472731144465	1472731144552	l	76
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257268	1472731144568	1472731144652	d	68
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257269	1472731144715	1472731144799	 	32
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257270	1472731144846	1472731144948	f	70
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257271	1472731144980	1472731145066	e	69
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257272	1472731145129	1472731145198	l	76
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257273	1472731145265	1472731145322	l	76
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257274	1472731145400	1472731145470	 	32
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257333	1472731145725	1472731145815	1	49
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257334	1472731146111	1472731146185	.	190
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257335	1472731146529	1472731146587	9	57
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257337	1472731146697	1472731146765	0	48
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257339	1472731147615	1472731147671	 	32
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257349	1472731147801	1472731147872	d	68
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257351	1472731147919	1472731147990	o	79
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257353	1472731148070	1472731148121	l	76
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257355	1472731148183	1472731148236	l	76
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257357	1472731148407	1472731148471	a	65
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257373	1472731148507	1472731148587	r	82
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257375	1472731148618	1472731148686	s	83
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257377	1472731149314	1472731149403	 	32
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257379	1472731149434	1472731149535	f	70
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257382	1472731149550	1472731149666	r	82
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257414	1472731149681	1472731149770	o	79
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257416	1472731149801	1472731149871	m	77
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257418	1472731149980	1472731150059	 	32
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257420	1472731150118	1472731150216	CAPS_LOCK	20
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257421	1472731150455	1472731150517	W	87
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257422	1472731150595	1472731150704	CAPS_LOCK	20
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257423	1472731150844	1472731150903	e	69
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257434	1472731151043	1472731151104	d	68
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257436	1472731151261	1472731151335	n	78
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257438	1472731151382	1472731151455	e	69
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257440	1472731151595	1472731151671	s	83
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257442	1472731151796	1472731151867	d	68
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257445	1472731151997	1472731152081	a	65
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257446	1472731152161	1472731152236	y	89
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257447	1472731152892	1472731152968	'	222
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257448	1472731153031	1472731153115	s	83
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257449	1472731153552	1472731153618	 	32
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257455	1472731153685	1472731153786	c	67
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257456	1472731153817	1472731153870	l	76
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257457	1472731153963	1472731154040	o	79
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257458	1472731154066	1472731154135	s	83
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257459	1472731154182	1472731154266	i	73
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257465	1472731154268	1472731154368	n	78
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257466	1472731154415	1472731154502	g	71
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257467	1472731154487	1472731154553	 	32
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257468	1472731154662	1472731154733	p	80
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257469	1472731154847	1472731154926	r	82
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257489	1472731155001	1472731155070	i	73
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257490	1472731155179	1472731155266	c	67
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257491	1472731155391	1472731155465	e	69
+61851	678262	Gold fell 1.90 dollars from Wednesday's closing price.	Gold fell 1.90 dollars from Wednesday's closing price.	32257492	1472731155590	1472731155670	.	190
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257538	1472731159037	1472731159131	CAPS_LOCK	20
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257541	1472731159256	1472731159312	K	75
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257544	1472731159335	1472731159444	CAPS_LOCK	20
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257547	1472731159554	1472731159620	e	69
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257550	1472731159667	1472731159726	l	76
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257553	1472731159798	1472731159850	l	76
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257554	1472731159919	1472731159985	y	89
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257557	1472731160177	1472731160251	,	188
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257559	1472731160283	1472731160353	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257561	1472731160462	1472731160571	CAPS_LOCK	20
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257563	1472731160634	1472731160719	I	73
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257565	1472731160781	1472731160890	CAPS_LOCK	20
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257567	1472731161205	1472731161267	'	222
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257569	1472731161392	1472731161469	m	77
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257577	1472731161568	1472731161637	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257578	1472731161845	1472731161920	g	71
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257579	1472731161935	1472731162004	o	79
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257580	1472731162113	1472731162187	i	73
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257581	1472731162218	1472731162287	n	78
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257587	1472731162338	1472731162417	g	71
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257588	1472731162422	1472731162483	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257589	1472731162499	1472731162570	t	84
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257590	1472731162633	1472731162686	o	79
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257591	1472731162764	1472731162852	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257660	1472731162935	1472731163020	b	66
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257661	1472731163583	1472731163652	e	69
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257662	1472731163730	1472731163817	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257663	1472731165070	1472731165142	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257664	1472731165230	1472731165283	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257665	1472731165379	1472731165450	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257666	1472731165497	1472731165662	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257667	1472731165724	1472731165817	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257668	1472731165911	1472731165987	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257669	1472731166082	1472731166129	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257670	1472731166212	1472731166275	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257671	1472731166369	1472731166425	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257673	1472731166516	1472731166562	BKSP	8
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257675	1472731167184	1472731167217	n	78
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257677	1472731167296	1472731167370	n	78
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257679	1472731167406	1472731167486	a	65
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257681	1472731167502	1472731167563	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257683	1472731167630	1472731167702	b	66
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257685	1472731167709	1472731167779	e	69
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257687	1472731167815	1472731167887	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257698	1472731167954	1472731168018	e	69
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257699	1472731168143	1472731168220	a	65
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257700	1472731168423	1472731168485	r	82
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257701	1472731168547	1472731168619	l	76
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257702	1472731168681	1472731168735	y	89
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257703	1472731168770	1472731168835	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257705	1472731168866	1472731168932	t	84
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257707	1472731168981	1472731169053	h	72
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257710	1472731169084	1472731169200	i	73
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257713	1472731169263	1472731169334	s	83
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257733	1472731169448	1472731169520	 	32
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257734	1472731170180	1472731170251	w	87
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257735	1472731170360	1472731170424	e	69
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257736	1472731170515	1472731170561	e	69
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257737	1472731170617	1472731170686	k	75
+61851	678268	Kelly,I'm gonna be early this week.	Kelly, I'm gonna be early this week.	32257748	1472731171065	1472731171119	.	190
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257801	1472731175181	1472731175290	CAPS_LOCK	20
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257802	1472731175417	1472731175486	W	87
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257803	1472731175548	1472731175704	CAPS_LOCK	20
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257804	1472731175751	1472731175820	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257806	1472731175914	1472731176032	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257808	1472731176411	1472731176480	h	72
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257811	1472731176498	1472731176583	a	65
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257818	1472731176614	1472731176670	v	86
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257819	1472731176701	1472731176767	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257821	1472731176801	1472731176870	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257823	1472731176932	1472731177019	b	66
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257825	1472731177066	1472731177137	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257840	1472731177231	1472731177299	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257841	1472731177346	1472731177433	n	78
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257842	1472731177526	1472731177616	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257843	1472731178074	1472731178149	c	67
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257844	1472731178274	1472731178318	o	79
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257867	1472731179319	1472731179401	n	78
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257868	1472731179450	1472731179535	s	83
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257869	1472731179550	1472731179619	i	73
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257870	1472731179666	1472731179751	s	83
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257872	1472731179860	1472731179934	t	84
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257909	1472731180002	1472731180081	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257910	1472731180148	1472731180217	n	78
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257911	1472731180248	1472731180335	t	84
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257912	1472731180384	1472731180448	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257913	1472731181157	1472731181234	a	65
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257921	1472731181250	1472731181319	n	78
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257923	1472731181366	1472731181425	d	68
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257925	1472731181448	1472731181520	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257927	1472731181567	1472731181636	w	87
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257929	1472731181729	1472731181814	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257936	1472731181868	1472731181935	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257937	1472731182013	1472731182074	h	72
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257938	1472731182047	1472731182117	a	65
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257939	1472731182180	1472731182251	v	86
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257940	1472731182283	1472731182369	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257950	1472731182385	1472731182452	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257952	1472731182530	1472731182604	a	65
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257953	1472731182635	1472731182733	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257954	1472731183159	1472731183236	g	71
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257955	1472731183283	1472731183335	o	79
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257990	1472731183480	1472731183535	o	79
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257991	1472731183674	1472731183767	d	68
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257993	1472731184626	1472731184693	 	32
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257995	1472731184841	1472731184934	b	66
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32257997	1472731184981	1472731185068	a	65
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32258031	1472731185151	1472731185218	l	76
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32258034	1472731185296	1472731185367	a	65
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32258036	1472731185966	1472731186022	n	78
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32258039	1472731186063	1472731186183	c	67
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32258041	1472731186199	1472731186283	e	69
+61851	678274	We have been consistent and we have a good balance.	We have been consistent and we have a good balance.	32258049	1472731186502	1472731186571	.	190
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258168	1472731191276	1472731191354	CAPS_LOCK	20
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258169	1472731191574	1472731191640	W	87
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258170	1472731191715	1472731191824	CAPS_LOCK	20
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258172	1472731191887	1472731191967	h	72
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258174	1472731191998	1472731192067	s	65
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258178	1472731192101	1472731192165	t	84
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258242	1472731193001	1472731193052	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258244	1472731193117	1472731193186	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258245	1472731193467	1472731193530	t	84
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258247	1472731193644	1472731193731	 	32
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258248	1472731194184	1472731194253	p	80
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258250	1472731194284	1472731194398	e	69
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258295	1472731194398	1472731194498	r	82
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258297	1472731194529	1472731194594	i	73
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258299	1472731194647	1472731194716	o	79
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258301	1472731195532	1472731195601	d	68
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258303	1472731195648	1472731195719	 	32
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258305	1472731196314	1472731196386	d	68
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258315	1472731196437	1472731196517	o	79
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258317	1472731196548	1472731196615	e	69
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258320	1472731196713	1472731196801	s	83
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258322	1472731196847	1472731196934	 	32
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258324	1472731196965	1472731197035	t	84
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258346	1472731197071	1472731197151	h	72
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258348	1472731197182	1472731197251	e	69
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258350	1472731197282	1472731197351	 	32
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258351	1472731197730	1472731197792	m	77
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258352	1472731197864	1472731197951	a	65
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258384	1472731198452	1472731198518	z	90
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258386	1472731198940	1472731199019	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258388	1472731199175	1472731199249	x	88
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258390	1472731199312	1472731199380	 	32
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258392	1472731199583	1472731199652	r	82
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258394	1472731199684	1472731199768	a	65
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258406	1472731199768	1472731199835	t	84
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258408	1472731199928	1472731199990	e	69
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258410	1472731200000	1472731200068	 	32
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258412	1472731200193	1472731200267	c	67
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258416	1472731200314	1472731200400	o	79
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258425	1472731200468	1472731200550	n	78
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258426	1472731200581	1472731200667	s	83
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258427	1472731200730	1472731200799	u	85
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258428	1472731200892	1472731200982	m	77
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258430	1472731201065	1472731201165	p	80
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258499	1472731201388	1472731201453	t	84
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258504	1472731201640	1472731201701	i	73
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258508	1472731201763	1472731201851	o	79
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258511	1472731201898	1472731201967	n	78
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258513	1472731202751	1472731202818	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258515	1472731202912	1472731203030	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258517	1472731203108	1472731203183	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258518	1472731203276	1472731203925	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258520	1472731204399	1472731204438	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258522	1472731204499	1472731204569	BKSP	8
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258524	1472731205070	1472731205135	a	65
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258533	1472731205265	1472731205330	s	83
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258535	1472731205414	1472731205513	s	83
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258537	1472731205513	1472731205587	u	85
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258538	1472731205683	1472731205798	m	77
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258539	1472731205861	1472731205932	p	80
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258550	1472731206030	1472731206084	t	84
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258552	1472731206209	1472731206299	i	73
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258554	1472731206361	1472731206448	o	79
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258556	1472731206495	1472731206556	n	78
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258560	1472731206657	1472731206734	 	32
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258565	1472731206796	1472731206865	c	67
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258566	1472731206853	1472731206933	o	79
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258567	1472731207058	1472731207132	v	86
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258568	1472731207179	1472731207297	e	69
+61851	678282	What period does the max rate assumption cover?	What period does the max rate assumption cover?	32258594	1472731207266	1472731207335	r	82
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258693	1472731211603	1472731211698	CAPS_LOCK	20
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258695	1472731211885	1472731211962	E	69
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258697	1472731212026	1472731212136	CAPS_LOCK	20
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258698	1472731212245	1472731212311	r	82
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258700	1472731212392	1472731212481	n	78
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258703	1472731212497	1472731212599	i	73
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258724	1472731212584	1472731212666	e	69
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258726	1472731212728	1472731212797	 	32
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258728	1472731212844	1472731212984	CAPS_LOCK	20
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258732	1472731213046	1472731213123	E	69
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258735	1472731213193	1472731213318	CAPS_LOCK	20
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258737	1472731213364	1472731213434	l	76
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258740	1472731213543	1472731213630	s	83
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258743	1472731213692	1472731213765	 	32
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258748	1472731214394	1472731214455	w	87
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258750	1472731214543	1472731214612	a	65
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258752	1472731214692	1472731214751	s	83
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258754	1472731214798	1472731214867	 	32
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258756	1472731214976	1472731215048	b	66
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258766	1472731215050	1472731215181	a	65
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258767	1472731215244	1472731215362	c	67
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258768	1472731215377	1472731215446	k	75
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258769	1472731215495	1472731215599	 	32
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258770	1472731215630	1472731215686	t	84
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258784	1472731215722	1472731215783	o	79
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258786	1472731215877	1472731215963	 	32
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258787	1472731216531	1472731216613	h	72
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258788	1472731216644	1472731216731	i	73
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258789	1472731216809	1472731216883	s	83
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258802	1472731216930	1472731216984	 	32
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258805	1472731217265	1472731217326	b	66
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258809	1472731217362	1472731217446	e	69
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258813	1472731217670	1472731217734	s	83
+61851	678290	Ernie Els was back to his best.	Ernie Els was back to his best.	32258817	1472731217968	1472731218034	t	84
+61851	678297	Need anything from Target?	Need anything from Target?	32259033	1472731207884	1472731227363	?	191
+61851	678297	Need anything from Target?	Need anything from Target?	32258912	1472731221890	1472731221968	CAPS_LOCK	20
+61851	678297	Need anything from Target?	Need anything from Target?	32258913	1472731222046	1472731222110	N	78
+61851	678297	Need anything from Target?	Need anything from Target?	32258914	1472731222133	1472731222195	CAPS_LOCK	20
+61851	678297	Need anything from Target?	Need anything from Target?	32258915	1472731222445	1472731222517	e	69
+61851	678297	Need anything from Target?	Need anything from Target?	32258917	1472731222612	1472731222673	e	69
+61851	678297	Need anything from Target?	Need anything from Target?	32258919	1472731222712	1472731222784	d	68
+61851	678297	Need anything from Target?	Need anything from Target?	32258921	1472731222909	1472731222988	 	32
+61851	678297	Need anything from Target?	Need anything from Target?	32258945	1472731223099	1472731223165	a	65
+61851	678297	Need anything from Target?	Need anything from Target?	32258947	1472731223212	1472731223284	n	78
+61851	678297	Need anything from Target?	Need anything from Target?	32258949	1472731223377	1472731223464	y	89
+61851	678297	Need anything from Target?	Need anything from Target?	32258951	1472731223527	1472731223598	t	84
+61851	678297	Need anything from Target?	Need anything from Target?	32258953	1472731223632	1472731223701	h	72
+61851	678297	Need anything from Target?	Need anything from Target?	32258959	1472731223748	1472731223879	i	73
+61851	678297	Need anything from Target?	Need anything from Target?	32258961	1472731223864	1472731223951	n	78
+61851	678297	Need anything from Target?	Need anything from Target?	32258963	1472731223935	1472731224015	g	71
+61851	678297	Need anything from Target?	Need anything from Target?	32258965	1472731224062	1472731224149	 	32
+61851	678297	Need anything from Target?	Need anything from Target?	32258967	1472731224320	1472731224381	f	70
+61851	678297	Need anything from Target?	Need anything from Target?	32258981	1472731224495	1472731224552	r	82
+61851	678297	Need anything from Target?	Need anything from Target?	32258983	1472731224583	1472731224665	o	79
+61851	678297	Need anything from Target?	Need anything from Target?	32258985	1472731224697	1472731224768	m	77
+61851	678297	Need anything from Target?	Need anything from Target?	32258986	1472731224862	1472731224934	 	32
+61851	678297	Need anything from Target?	Need anything from Target?	32258987	1472731225277	1472731225339	CAPS_LOCK	20
+61851	678297	Need anything from Target?	Need anything from Target?	32258988	1472731225355	1472731225432	T	84
+61851	678297	Need anything from Target?	Need anything from Target?	32259006	1472731225464	1472731225526	CAPS_LOCK	20
+61851	678297	Need anything from Target?	Need anything from Target?	32259008	1472731225967	1472731226034	a	65
+61851	678297	Need anything from Target?	Need anything from Target?	32259010	1472731226081	1472731226150	r	82
+61851	678297	Need anything from Target?	Need anything from Target?	32259011	1472731226228	1472731226312	g	71
+61851	678297	Need anything from Target?	Need anything from Target?	32259012	1472731226359	1472731226449	e	69
+61851	678297	Need anything from Target?	Need anything from Target?	32259013	1472731226558	1472731226609	t	84
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259113	1472731231018	1472731231082	CAPS_LOCK	20
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259114	1472731231160	1472731231256	P	80
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259115	1472731231282	1472731231376	CAPS_LOCK	20
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259116	1472731231391	1472731231475	l	76
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259117	1472731231563	1472731231627	e	69
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259118	1472731231744	1472731231814	a	65
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259119	1472731231923	1472731231979	s	83
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259141	1472731232082	1472731232156	e	69
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259144	1472731232226	1472731232315	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259146	1472731232366	1472731232433	s	83
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259149	1472731232543	1472731232614	e	69
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259152	1472731232692	1472731232764	n	78
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259159	1472731232811	1472731232892	d	68
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259160	1472731232913	1472731232985	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259161	1472731233063	1472731233140	m	77
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259162	1472731233162	1472731233232	e	69
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259164	1472731233302	1472731233382	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259204	1472731233668	1472731233733	a	65
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259208	1472731233764	1472731233834	n	78
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259211	1472731233896	1472731233968	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259213	1472731234139	1472731234216	e	69
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259216	1472731234278	1472731234366	m	77
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259225	1472731234495	1472731234583	a	65
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259226	1472731234629	1472731234700	i	73
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259227	1472731234778	1472731234850	l	76
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259228	1472731234975	1472731235062	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259229	1472731235124	1472731235199	t	84
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259244	1472731235232	1472731235285	o	79
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259246	1472731235379	1472731235466	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259248	1472731235549	1472731235632	l	76
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259250	1472731235679	1472731235750	e	69
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259253	1472731235891	1472731235949	t	84
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259274	1472731236001	1472731236083	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259279	1472731236135	1472731236199	m	77
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259283	1472731236215	1472731236293	e	69
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259288	1472731236343	1472731236429	 	32
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259293	1472731236507	1472731236669	k	75
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259322	1472731236615	1472731236728	n	78
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259324	1472731236712	1472731236835	o	79
+61851	678302	Please send me an email to let me know.	Please send me an email to let me know.	32259325	1472731236784	1472731236894	w	87
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259429	1472731242233	1472731242295	CAPS_LOCK	20
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259430	1472731242326	1472731242395	H	72
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259431	1472731242433	1472731242511	CAPS_LOCK	20
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259432	1472731242652	1472731242705	e	69
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259433	1472731242733	1472731242812	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259434	1472731242846	1472731242933	w	87
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259435	1472731242979	1472731243026	i	73
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259454	1472731243246	1472731243333	l	76
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259456	1472731243411	1472731243483	l	76
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259458	1472731244065	1472731244133	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259460	1472731244211	1472731244268	b	66
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259462	1472731244314	1472731244384	e	69
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259516	1472731244420	1472731244482	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259518	1472731244669	1472731244749	e	69
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259521	1472731244827	1472731244880	v	86
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259523	1472731245020	1472731245079	e	69
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259525	1472731246258	1472731246360	BKSP	8
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259527	1472731247146	1472731247233	a	65
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259543	1472731247347	1472731247429	l	76
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259545	1472731247714	1472731247797	u	85
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259548	1472731247890	1472731247965	a	65
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259551	1472731248027	1472731248099	t	84
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259555	1472731248177	1472731248311	e	69
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259571	1472731248311	1472731248395	d	68
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259573	1472731248863	1472731248931	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259574	1472731249058	1472731249145	o	79
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259577	1472731249192	1472731249261	n	78
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259578	1472731249341	1472731249415	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259606	1472731249452	1472731249533	a	65
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259608	1472731249580	1472731249657	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259610	1472731250355	1472731250432	d	68
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259612	1472731250479	1472731250579	a	65
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259613	1472731250642	1472731250701	y	89
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259628	1472731250796	1472731250930	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259630	1472731250915	1472731250984	t	84
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259634	1472731251031	1472731251113	o	79
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259637	1472731251191	1472731251281	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259638	1472731251364	1472731251465	d	68
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259680	1472731251501	1472731251624	a	65
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259682	1472731251671	1472731251730	y	89
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259686	1472731252816	1472731252900	 	32
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259689	1472731253009	1472731253080	b	66
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259692	1472731253174	1472731253280	a	65
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259714	1472731253331	1472731253432	s	83
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259716	1472731253510	1472731253581	i	73
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259718	1472731253643	1472731253715	s	83
+61851	678305	He will be evaluated on a day to day basis.	He will be evaluated on a day to day basis.	32259720	1472731254141	1472731254250	.	190
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259936	1472731262930	1472731263008	CAPS_LOCK	20
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259938	1472731263055	1472731263134	J	74
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259940	1472731263149	1472731263227	CAPS_LOCK	20
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259943	1472731263461	1472731263548	a	65
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259945	1472731263611	1472731263679	s	83
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259948	1472731263757	1472731263847	o	79
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259952	1472731263941	1472731264009	n	78
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259988	1472731264111	1472731264199	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259991	1472731264246	1472731264340	CAPS_LOCK	20
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32259995	1472731264371	1472731264448	B	66
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260000	1472731264479	1472731264589	CAPS_LOCK	20
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260005	1472731264807	1472731264884	r	82
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260010	1472731264962	1472731265031	o	79
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260014	1472731265124	1472731265211	o	79
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260044	1472731265305	1472731265398	k	75
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260048	1472731265834	1472731265914	i	73
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260051	1472731265992	1472731266082	n	78
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260054	1472731266160	1472731266246	s	83
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260057	1472731266278	1472731266364	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260064	1472731266402	1472731266466	w	87
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260067	1472731266529	1472731266597	i	73
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260070	1472731266758	1472731266821	l	76
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260074	1472731266891	1472731266955	l	76
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260078	1472731267040	1472731267130	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260098	1472731267162	1472731267233	s	83
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260100	1472731267265	1472731267364	t	84
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260103	1472731267640	1472731267698	a	65
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260108	1472731267745	1472731267832	r	82
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260112	1472731267848	1472731267945	t	84
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260137	1472731268823	1472731268882	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260141	1472731268928	1472731269013	a	65
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260146	1472731269091	1472731269160	t	84
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260151	1472731269256	1472731269349	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260154	1472731269427	1472731269495	r	82
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260174	1472731269594	1472731269665	u	85
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260177	1472731269743	1472731269807	n	78
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260186	1472731269892	1472731269955	n	78
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260190	1472731270131	1472731270260	i	73
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260193	1472731270307	1472731270381	n	78
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260212	1472731270417	1472731270497	g	71
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260214	1472731270668	1472731270748	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260216	1472731271018	1472731271083	b	66
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260218	1472731271145	1472731271250	a	65
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260219	1472731271375	1472731271446	c	67
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260236	1472731271482	1472731271548	k	75
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260237	1472731271631	1472731271703	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260238	1472731271793	1472731271859	i	73
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260239	1472731272025	1472731272114	f	70
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260240	1472731272179	1472731272248	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260288	1472731272393	1472731272487	CAPS_LOCK	20
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260291	1472731272782	1472731272864	A	65
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260294	1472731272942	1472731273020	CAPS_LOCK	20
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260295	1472731273144	1472731273203	l	76
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260297	1472731273278	1472731273365	l	76
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260299	1472731273537	1472731273630	e	69
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260301	1472731273677	1472731273755	n	78
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260329	1472731273864	1472731273963	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260331	1472731274197	1472731274266	i	73
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260334	1472731274344	1472731274415	s	83
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260336	1472731274447	1472731274518	 	32
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260338	1472731274595	1472731274682	i	73
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260369	1472731274718	1472731274797	n	78
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260372	1472731274860	1472731274946	a	65
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260374	1472731275040	1472731275114	c	67
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260377	1472731275291	1472731275349	t	84
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260382	1472731275380	1472731275449	i	73
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260409	1472731275610	1472731275666	v	86
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260411	1472731275744	1472731275816	e	69
+61851	678315	Jason Brookins will start at running back if Allen is inactive.	Jason Brookins will start at running back if Allen is inactive.	32260414	1472731276242	1472731276305	.	190
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260652	1472731283159	1472731283346	CAPS_LOCK	20
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260654	1472731283564	1472731283648	F	70
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260655	1472731283679	1472731283820	CAPS_LOCK	20
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260656	1472731283835	1472731283899	u	85
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260657	1472731283977	1472731284054	e	69
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260658	1472731284137	1472731284196	l	76
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260659	1472731284292	1472731284360	 	32
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260673	1472731284407	1472731284478	i	73
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260674	1472731284494	1472731284565	s	83
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260675	1472731284581	1472731284679	 	32
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260677	1472731284835	1472731284912	r	82
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260679	1472731284975	1472731285077	e	69
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260766	1472731285274	1472731285290	r	82
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260770	1472731286602	1472731286679	BKSP	8
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260776	1472731286944	1472731287026	t	84
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260781	1472731287112	1472731287230	a	65
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260786	1472731287308	1472731287472	i	73
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260823	1472731287441	1472731287544	n	78
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260824	1472731287590	1472731287724	e	69
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260825	1472731287708	1472731287826	d	68
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260827	1472731287873	1472731287928	 	32
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260832	1472731287979	1472731288081	i	73
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260836	1472731288112	1472731288179	n	78
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260879	1472731288262	1472731288331	 	32
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260881	1472731288409	1472731288478	k	75
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260888	1472731288572	1472731288649	i	73
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260891	1472731288680	1472731288778	n	78
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260894	1472731288825	1472731288911	d	68
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260936	1472731288948	1472731289014	 	32
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260938	1472731289720	1472731289828	f	70
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260939	1472731289874	1472731289961	r	82
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260940	1472731289977	1472731290080	o	79
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260941	1472731290111	1472731290195	m	77
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260950	1472731290278	1472731290365	 	32
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260952	1472731290365	1472731290462	t	84
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260954	1472731290493	1472731290581	h	72
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260956	1472731290643	1472731290727	e	69
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260974	1472731290712	1472731290781	 	32
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260975	1472731290875	1472731290961	s	83
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260977	1472731290993	1472731291079	h	72
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260979	1472731291126	1472731291212	i	73
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260981	1472731291384	1472731291443	p	80
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260983	1472731291508	1472731291582	p	80
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260996	1472731291631	1472731291807	e	69
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32260998	1472731291775	1472731291864	r	82
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32261001	1472731292036	1472731292128	s	83
+61851	678328	Fuel is retained in kind from the shippers.	Fuel is retained in kind from the shippers.	32261004	1472731292159	1472731292259	.	190
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261179	1472731294970	1472731295032	CAPS_LOCK	20
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261183	1472731295130	1472731295181	I	73
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261188	1472731295307	1472731295385	CAPS_LOCK	20
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261191	1472731296135	1472731296229	'	222
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261192	1472731296400	1472731296457	l	76
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261194	1472731296527	1472731296593	l	76
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261196	1472731296692	1472731296763	 	32
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261222	1472731297111	1472731297196	t	84
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261229	1472731297289	1472731297364	a	65
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261235	1472731297410	1472731297482	k	75
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261240	1472731297518	1472731297577	e	69
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261244	1472731297593	1472731297665	 	32
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261250	1472731297732	1472731297819	o	79
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261252	1472731297834	1472731297914	n	78
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261254	1472731297945	1472731298050	e	69
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261256	1472731298050	1472731298145	 	32
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261258	1472731298192	1472731298313	a	65
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261283	1472731298321	1472731298358	t	84
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261286	1472731298428	1472731298514	 	32
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261290	1472731298624	1472731298742	a	65
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261295	1472731298788	1472731298875	 	32
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261297	1472731298953	1472731299010	t	84
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261317	1472731299043	1472731299132	i	73
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261321	1472731299164	1472731299245	m	77
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261324	1472731299292	1472731299376	e	69
+61851	678339	I'll take them one at a time.	I'll take one at a time.	32261327	1472731299606	1472731299680	.	190
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261483	1472731302546	1472731302626	CAPS_LOCK	20
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261485	1472731302688	1472731302764	I	73
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261487	1472731302858	1472731302951	CAPS_LOCK	20
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261489	1472731303515	1472731303597	'	222
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261490	1472731303909	1472731303992	m	77
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261491	1472731304091	1472731304177	 	32
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261492	1472731304398	1472731304476	g	71
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261530	1472731304580	1472731304647	l	76
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261533	1472731304818	1472731304984	a	65
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261535	1472731305015	1472731305079	d	68
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261537	1472731305175	1472731305260	 	32
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261539	1472731305574	1472731305640	y	89
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261573	1472731305677	1472731305778	o	79
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261577	1472731305825	1472731305881	u	85
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261579	1472731305991	1472731306082	 	32
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261583	1472731306129	1472731306213	a	65
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261585	1472731306244	1472731306328	r	82
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261625	1472731306396	1472731306464	e	69
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261627	1472731306480	1472731306547	 	32
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261630	1472731306734	1472731306795	i	73
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261633	1472731306845	1472731306945	n	78
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261635	1472731307195	1472731307254	v	86
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261659	1472731307342	1472731307414	o	79
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261661	1472731307523	1472731307629	l	76
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261663	1472731307844	1472731307929	v	86
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261664	1472731307976	1472731308122	e	69
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261707	1472731308107	1472731308178	d	68
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261711	1472731308609	1472731308954	SHIFT	16
+61851	678345	I'm glad you are involved!	I'm glad you are involved!	32261709	1472731308774	1472731308845	!	49

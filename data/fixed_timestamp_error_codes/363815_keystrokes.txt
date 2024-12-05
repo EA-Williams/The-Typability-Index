@@ -1,0 +1,637 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331006	1476975592667	1476975592758	CAPS_LOCK	20
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331009	1476975592759	1476975592838	I	73
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331012	1476975592870	1476975592950	CAPS_LOCK	20
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331018	1476975593270	1476975593350	'	222
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331025	1476975593750	1476975593878	m	77
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331031	1476975593910	1476975594038	 	32
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331070	1476975594022	1476975594166	i	73
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331073	1476975594102	1476975594230	n	78
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331076	1476975594166	1476975594294	 	32
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331079	1476975594262	1476975594358	CAPS_LOCK	20
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331086	1476975594358	1476975594470	S	83
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331098	1476975594438	1476975594534	CAPS_LOCK	20
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331106	1476975594646	1476975594774	t	84
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331143	1476975594742	1476975594838	a	65
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331146	1476975594822	1476975594902	n	78
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331150	1476975595078	1476975595158	'	222
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331158	1476975595270	1476975595350	s	83
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331168	1476975595398	1476975595510	 	32
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331184	1476975595558	1476975595590	f	70
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331231	1476975595878	1476975595942	BKSP	8
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331236	1476975596054	1476975596150	o	79
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331238	1476975596182	1476975596246	f	70
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331242	1476975596326	1476975596390	f	70
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331249	1476975596391	1476975596486	i	73
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331256	1476975596502	1476975596582	c	67
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331278	1476975596566	1476975596662	e	69
+363815	3922081	I'm in Stan's office.	I'm in Stan's office.	186331280	1476975596662	1476975596726	.	190
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331492	1476975599142	1476975599286	CAPS_LOCK	20
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331495	1476975599286	1476975599414	A	65
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331499	1476975599382	1476975599494	CAPS_LOCK	20
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331503	1476975599542	1476975599654	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331508	1476975599654	1476975599783	s	83
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331513	1476975599766	1476975599862	t	84
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331519	1476975599862	1476975600038	a	65
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331783	1476975599958	1476975600070	t	84
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331786	1476975600022	1476975600118	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331791	1476975600694	1476975600822	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331797	1476975601158	1476975601238	s	83
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331802	1476975601334	1476975601414	u	85
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331808	1476975602886	1476975602982	p	80
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331814	1476975603014	1476975603126	r	82
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331840	1476975603078	1476975603174	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331847	1476975603190	1476975603286	m	77
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331855	1476975603302	1476975603366	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331861	1476975603414	1476975603526	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331868	1476975603478	1476975603574	c	67
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331873	1476975603574	1476975603686	o	79
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331893	1476975603638	1476975603734	u	85
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331896	1476975603734	1476975603798	r	82
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331897	1476975603910	1476975603974	t	84
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331900	1476975603958	1476975604102	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331902	1476975604022	1476975604102	j	74
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331904	1476975604198	1476975604294	u	85
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331919	1476975604296	1476975604358	d	68
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331925	1476975604470	1476975604582	g	71
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331931	1476975604534	1476975604630	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331938	1476975604598	1476975604726	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331962	1476975604678	1476975604758	i	73
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331965	1476975604758	1476975604838	s	83
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331966	1476975604838	1476975604982	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331970	1476975604934	1476975605030	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331973	1476975605110	1476975605190	x	88
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186331977	1476975605206	1476975605302	p	80
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332009	1476975605304	1476975605462	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332012	1476975605398	1476975605478	c	67
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332015	1476975605606	1476975605734	t	84
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332019	1476975605686	1476975605750	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332022	1476975605846	1476975605910	d	68
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332032	1476975605912	1476975606008	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332037	1476975605990	1476975606070	t	84
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332041	1476975606054	1476975606166	o	79
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332071	1476975606102	1476975606278	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332046	1476975606166	1476975606262	r	82
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332078	1476975606264	1476975606326	u	85
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332081	1476975606422	1476975606502	l	76
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332086	1476975606534	1476975606598	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332091	1476975606566	1476975606662	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332093	1476975606662	1476975606758	o	79
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332099	1476975606710	1476975606822	n	78
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332103	1476975606774	1476975606886	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332109	1476975606838	1476975606934	t	84
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332116	1476975606934	1476975606998	h	72
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332121	1476975606982	1476975607062	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332146	1476975607046	1476975607142	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332151	1476975607094	1476975607206	i	73
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332158	1476975607206	1476975607238	s	83
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332166	1476975607318	1476975607398	s	83
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332177	1476975607398	1476975607462	u	85
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332184	1476975607510	1476975607606	e	69
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332208	1476975607638	1476975607750	 	32
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332212	1476975607766	1476975607878	s	83
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332222	1476975607878	1476975607974	h	72
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332227	1476975607926	1476975608038	o	79
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332294	1476975608006	1476975608070	r	82
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332303	1476975608182	1476975608246	t	84
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332310	1476975608582	1476975608662	l	76
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332315	1476975608678	1476975608742	y	89
+363815	3922094	A state supreme court judge is expected to rule on the issue shortly.	A state supreme court judge is expected to rule on the issue shortly.	186332320	1476975608806	1476975608902	.	190
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341897	1476975736820	1476975736900	CAPS_LOCK	20
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341900	1476975736932	1476975737044	I	73
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341902	1476975737012	1476975737076	CAPS_LOCK	20
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341904	1476975737124	1476975737268	 	32
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341907	1476975737268	1476975737364	h	72
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341912	1476975737380	1476975737492	o	79
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341922	1476975737444	1476975737540	p	80
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341924	1476975737556	1476975737652	e	69
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341927	1476975737652	1476975737796	 	32
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341931	1476975737732	1476975737828	y	89
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341937	1476975737908	1476975738052	o	79
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341962	1476975737988	1476975738100	u	85
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341966	1476975738020	1476975738164	 	32
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341970	1476975738132	1476975738308	a	65
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341974	1476975738196	1476975738324	r	82
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341979	1476975738260	1476975738356	e	69
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186341984	1476975738340	1476975738484	 	32
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342011	1476975738452	1476975738548	f	70
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342017	1476975738500	1476975738564	e	69
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342025	1476975738660	1476975738772	e	69
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342030	1476975738724	1476975738787	l	76
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342035	1476975738884	1476975739012	i	73
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342042	1476975738964	1476975739076	n	78
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342046	1476975739028	1476975739124	g	71
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342048	1476975739092	1476975739236	 	32
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342051	1476975739188	1476975739284	b	66
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342055	1476975739236	1476975739348	e	69
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342075	1476975739332	1476975739396	t	84
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342077	1476975739492	1476975739588	t	84
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342078	1476975739604	1476975739764	e	69
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342081	1476975739700	1476975739828	r	82
+363815	3922115	I hope you are feeling better.	I hope you are feeling better.	186342087	1476975739828	1476975739908	.	190
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342308	1476975741988	1476975742116	CAPS_LOCK	20
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342314	1476975742148	1476975742228	K	75
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342318	1476975742260	1476975742356	CAPS_LOCK	20
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342321	1476975742484	1476975742564	a	65
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342328	1476975742612	1476975742724	y	89
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342333	1476975742708	1476975742852	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342341	1476975742932	1476975743028	CAPS_LOCK	20
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342386	1476975742996	1476975743108	M	77
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342392	1476975743108	1476975743156	CAPS_LOCK	20
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342399	1476975743268	1476975743332	a	65
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342405	1476975743364	1476975743428	n	78
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342412	1476975743508	1476975743668	n	78
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342417	1476975743604	1476975743700	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342441	1476975743668	1476975743764	i	73
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342445	1476975743764	1476975743844	 	83
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342452	1476975743924	1476975744004	g	71
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342457	1476975743988	1476975744052	o	79
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342468	1476975744164	1476975744276	i	73
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342489	1476975744228	1476975744356	n	78
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342494	1476975744324	1476975744420	g	71
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342501	1476975744420	1476975744516	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342508	1476975744516	1476975744564	t	84
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342517	1476975744564	1476975744676	o	79
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342541	1476975744612	1476975744740	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342546	1476975744708	1476975744820	t	84
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342556	1476975744756	1476975744900	a	65
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342562	1476975744900	1476975744980	k	75
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342571	1476975745044	1476975745124	e	69
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342578	1476975745124	1476975745252	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342587	1476975745220	1476975745300	t	84
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342589	1476975745284	1476975745364	h	72
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342591	1476975745364	1476975745444	e	69
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342595	1476975745412	1476975745540	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342598	1476975745508	1476975745620	l	76
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342605	1476975745620	1476975745700	e	69
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342621	1476975745716	1476975745844	a	65
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342627	1476975745812	1476975745924	d	68
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342631	1476975745876	1476975745972	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342636	1476975745956	1476975746068	o	79
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342643	1476975746020	1476975746116	n	78
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342646	1476975746070	1476975746212	 	32
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342651	1476975746132	1476975746244	t	84
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342657	1476975746212	1476975746308	h	72
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342668	1476975746276	1476975746372	i	73
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342673	1476975746372	1476975746468	s	83
+363815	3922325	Kay Mann is going to take the lead on this.	Kay Mann is going to take the lead on this.	186342671	1476975746532	1476975746612	.	190
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342868	1476975748404	1476975748484	CAPS_LOCK	20
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342872	1476975748500	1476975748580	H	72
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342877	1476975748580	1476975748644	CAPS_LOCK	20
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342883	1476975748676	1476975748756	o	79
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342887	1476975748787	1476975748852	w	87
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342891	1476975748868	1476975749028	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342897	1476975748948	1476975749044	w	87
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342902	1476975749030	1476975749108	o	79
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342909	1476975749092	1476975749156	u	85
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342912	1476975749188	1476975749284	l	76
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342916	1476975749284	1476975749348	d	68
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342931	1476975749332	1476975749444	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342937	1476975749428	1476975749492	y	89
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342942	1476975749556	1476975749684	o	79
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342951	1476975749620	1476975749733	u	85
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342956	1476975749684	1476975749796	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186342998	1476975749734	1476975749798	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343003	1476975749892	1476975749972	x	88
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343011	1476975749988	1476975750148	p	80
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343019	1476975750084	1476975750196	l	76
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343025	1476975750228	1476975750324	a	65
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343029	1476975750324	1476975750452	i	73
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343055	1476975750404	1476975750516	n	78
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343057	1476975750676	1476975750804	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343060	1476975750804	1476975750884	t	84
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343063	1476975750900	1476975750980	h	72
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343066	1476975750980	1476975751060	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343070	1476975751060	1476975751172	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343091	1476975751174	1476975751252	d	68
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343093	1476975751267	1476975751348	i	73
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343097	1476975751396	1476975751460	f	70
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343101	1476975751540	1476975751620	f	70
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343110	1476975751940	1476975752036	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343129	1476975752038	1476975752163	r	82
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343133	1476975752132	1476975752228	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343138	1476975752260	1476975752356	n	78
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343142	1476975752356	1476975752452	c	67
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343167	1476975752420	1476975752516	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343169	1476975752516	1476975752627	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343172	1476975752596	1476975752691	b	66
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343176	1476975752644	1476975752772	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343182	1476975752740	1476975752836	t	84
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343187	1476975753348	1476975753460	w	87
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343203	1476975753428	1476975753492	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343207	1476975753588	1476975753668	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343212	1476975753668	1476975753764	n	78
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343218	1476975753748	1476975753860	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343224	1476975753828	1476975753892	t	84
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343229	1476975753892	1476975753972	h	72
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343235	1476975753974	1476975754052	e	69
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343239	1476975754052	1476975754180	 	32
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343243	1476975754148	1476975754260	t	84
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343246	1476975754211	1476975754308	w	87
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343256	1476975754275	1476975754340	o	79
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343267	1476975754419	1476975754660	SHIFT	16
+363815	3922333	How would you explain the difference between the two?	How would you explain the difference between the two?	186343260	1476975754515	1476975754595	?	191
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343425	1476975756516	1476975756579	CAPS_LOCK	20
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343427	1476975756595	1476975756676	I	73
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343430	1476975756676	1476975756739	CAPS_LOCK	20
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343435	1476975756740	1476975756867	 	32
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343441	1476975756836	1476975756915	w	87
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343449	1476975756947	1476975757059	a	65
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343485	1476975757012	1476975757124	s	83
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343491	1476975757124	1476975757268	 	32
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343488	1476975757204	1476975757251	t	84
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343496	1476975757347	1476975757428	r	82
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343501	1476975757396	1476975757508	y	89
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343504	1476975757508	1476975757684	i	73
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343514	1476975757620	1476975757731	n	78
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343519	1476975757715	1476975757779	g	71
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343523	1476975757795	1476975757923	 	32
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343528	1476975757907	1476975757987	t	84
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343533	1476975757955	1476975758083	o	79
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343567	1476975758020	1476975758131	 	32
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343571	1476975758404	1476975758532	r	82
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343574	1476975758484	1476975758579	e	69
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343578	1476975758643	1476975758723	m	77
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343583	1476975758724	1476975758787	e	69
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343588	1476975758803	1476975758867	m	77
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343612	1476975758980	1476975759075	b	66
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343613	1476975759044	1476975759171	e	69
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343615	1476975759123	1476975759235	r	82
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343616	1476975759283	1476975759395	 	32
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343618	1476975759427	1476975759529	w	87
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343645	1476975759556	1476975759619	h	72
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343647	1476975759635	1476975759731	a	65
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343650	1476975759700	1476975759763	t	84
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343653	1476975759732	1476975759859	 	32
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343655	1476975759875	1476975759955	CAPS_LOCK	20
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343692	1476975759924	1476975760003	B	66
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343693	1476975760099	1476975760211	CAPS_LOCK	20
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343695	1476975760212	1476975760275	o	79
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343696	1476975760435	1476975760499	b	66
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343697	1476975760579	1476975760659	b	66
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343698	1476975760691	1476975760787	y	89
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343699	1476975760803	1476975760915	 	32
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343700	1476975760918	1476975761027	s	83
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343701	1476975760995	1476975761091	a	65
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343705	1476975761028	1476975761092	i	73
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343709	1476975761171	1476975761267	d	68
+363815	3922345	I was trying to remember what Bobby said.	I was trying to remember what Bobby said.	186343713	1476975761268	1476975761379	.	190
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343826	1476975763012	1476975763107	CAPS_LOCK	20
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343832	1476975763107	1476975763187	Y	89
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343837	1476975763203	1476975763299	CAPS_LOCK	20
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343840	1476975763299	1476975763427	o	79
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343843	1476975763363	1476975763459	u	85
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343847	1476975763395	1476975763539	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343863	1476975763491	1476975763603	c	67
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343864	1476975763555	1476975763651	a	65
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343867	1476975763635	1476975763763	n	78
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343869	1476975763699	1476975763827	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343871	1476975763764	1476975763828	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343873	1476975763923	1476975764019	x	88
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343884	1476975764003	1476975764115	p	80
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343887	1476975764083	1476975764163	l	76
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343890	1476975764211	1476975764307	a	65
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343894	1476975764275	1476975764435	i	73
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343899	1476975764355	1476975764467	n	78
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343916	1476975764436	1476975764579	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343917	1476975764515	1476975764611	t	84
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343919	1476975764612	1476975764691	h	72
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343922	1476975764659	1476975764771	i	73
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343929	1476975764739	1476975764819	s	83
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343935	1476975764867	1476975764979	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343944	1476975764981	1476975765059	t	84
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343948	1476975765013	1476975765107	o	79
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343952	1476975765075	1476975765219	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343954	1476975765187	1476975765283	m	77
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343957	1476975765284	1476975765347	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343984	1476975765349	1476975765475	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344000	1476975765443	1476975765539	n	78
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186343991	1476975765476	1476975765523	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344006	1476975765635	1476975765715	x	88
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344012	1476975765827	1476975765907	t	84
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344025	1476975765909	1476975766051	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344027	1476975766003	1476975766099	w	87
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344031	1476975766083	1476975766147	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344032	1476975766211	1476975766307	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344083	1476975766275	1476975766387	k	75
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344085	1476975766339	1476975766467	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344088	1476975766435	1476975766531	o	79
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344091	1476975766899	1476975766963	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344097	1476975767187	1476975767267	BKSP	8
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344101	1476975767283	1476975767379	r	82
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344106	1476975767380	1476975767523	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344118	1476975767476	1476975767587	o	79
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344120	1476975767588	1476975767667	v	86
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344122	1476975767731	1476975767843	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344127	1476975767811	1476975767891	r	82
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344130	1476975767875	1476975768019	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344152	1476975767987	1476975768051	t	84
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344156	1476975768035	1476975768099	h	72
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344163	1476975768115	1476975768179	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344170	1476975768180	1476975768307	 	32
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344175	1476975768291	1476975768355	w	87
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344179	1476975768483	1476975768563	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344215	1476975768819	1476975768899	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344219	1476975768931	1476975769011	k	75
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344223	1476975769012	1476975769091	e	69
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344227	1476975769123	1476975769203	n	78
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344231	1476975769204	1476975769283	d	68
+363815	3922352	You can explain this to me next week or over the weekend.	You can explain this to me next week or over the weekend.	186344237	1476975769379	1476975769475	.	190
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344394	1476975771251	1476975771331	CAPS_LOCK	20
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344399	1476975771523	1476975771603	H	72
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344405	1476975771604	1476975771683	CAPS_LOCK	20
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344413	1476975771715	1476975771811	e	69
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344417	1476975771795	1476975771907	 	32
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344422	1476975771859	1476975771955	i	73
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344427	1476975771956	1476975772051	s	83
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344441	1476975772035	1476975772179	 	32
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344445	1476975772131	1476975772259	l	76
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344450	1476975772195	1476975772291	i	73
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344454	1476975772260	1476975772323	s	83
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344457	1476975772419	1476975772547	t	84
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344466	1476975772483	1476975772563	e	69
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344467	1476975772659	1476975772723	d	68
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344468	1476975772755	1476975772851	 	32
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344471	1476975772819	1476975772931	a	65
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344474	1476975772883	1476975772979	s	83
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344496	1476975772963	1476975773107	 	32
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344500	1476975773059	1476975773171	d	68
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344504	1476975773139	1476975773267	a	65
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344510	1476975773235	1476975773331	y	89
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344515	1476975773315	1476975773395	 	32
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344526	1476975773379	1476975773475	t	84
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344531	1476975773476	1476975773571	o	79
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344538	1476975773523	1476975773667	 	32
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344544	1476975773619	1476975773731	d	68
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344575	1476975773683	1476975773811	a	65
+363815	3922367	He is listed as day to day.	He is listed as day to day.	186344568	1476975773715	1476975773779	y	89
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344794	1476975775939	1476975776003	CAPS_LOCK	20
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344802	1476975776019	1476975776099	M	77
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344809	1476975776100	1476975776163	CAPS_LOCK	20
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344813	1476975776307	1476975776451	a	65
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344816	1476975776403	1476975776515	r	82
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344818	1476975776643	1476975776707	t	84
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344820	1476975776723	1476975776803	h	72
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344871	1476975777043	1476975777123	a	65
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344878	1476975777171	1476975777299	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344889	1476975777267	1476975777363	CAPS_LOCK	20
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344896	1476975777347	1476975777491	S	83
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344903	1476975777459	1476975777571	CAPS_LOCK	20
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344908	1476975777731	1476975777811	t	84
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344914	1476975778147	1476975778275	e	69
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344929	1476975778243	1476975778355	w	87
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344933	1476975778547	1476975778691	a	65
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344936	1476975778659	1476975778739	r	82
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344939	1476975778851	1476975778931	t	84
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344943	1476975778963	1476975779091	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186344998	1476975779027	1476975779123	w	87
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345001	1476975779124	1476975779219	i	73
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345006	1476975779171	1476975779251	l	76
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345010	1476975779331	1476975779427	l	76
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345013	1476975779428	1476975779571	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345015	1476975779779	1476975779907	n	78
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345034	1476975779859	1476975779955	o	79
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345039	1476975779956	1476975780051	t	84
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345045	1476975780019	1476975780163	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345055	1476975780147	1476975780259	b	66
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345062	1476975780260	1476975780323	e	69
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345069	1476975780324	1476975780451	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345120	1476975780531	1476975780611	d	68
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345128	1476975780691	1476975780771	i	73
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345133	1476975780963	1476975781059	n	78
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345138	1476975781203	1476975781331	i	73
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345163	1476975781283	1476975781395	n	78
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345164	1476975781396	1476975781475	g	71
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345171	1476975781507	1476975781603	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345179	1476975781571	1476975781651	w	87
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345188	1476975781651	1476975781747	i	73
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345194	1476975781748	1476975781859	t	84
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345214	1476975781811	1476975781891	h	72
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345217	1476975781861	1476975782003	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345220	1476975781971	1476975782067	u	85
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345225	1476975782067	1476975782147	s	83
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345229	1476975782148	1476975782275	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345233	1476975782276	1476975782339	t	84
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345273	1476975782323	1476975782403	h	72
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345276	1476975782371	1476975782467	i	73
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345281	1476975782483	1476975782547	s	83
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345289	1476975782579	1476975782707	 	32
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345292	1476975782643	1476975782739	CAPS_LOCK	20
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345301	1476975782819	1476975782883	T	84
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345306	1476975782947	1476975783059	CAPS_LOCK	20
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345316	1476975783363	1476975783443	h	72
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345334	1476975783507	1476975783587	a	65
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345339	1476975783619	1476975783747	n	78
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345343	1476975783699	1476975783795	k	75
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345349	1476975783891	1476975783955	s	83
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345354	1476975784067	1476975784147	g	71
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345384	1476975784179	1476975784243	i	73
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345387	1476975784259	1476975784323	v	86
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345392	1476975784323	1476975784419	i	73
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345397	1476975784387	1476975784467	n	78
+363815	3922371	Martha Stewart will not be dining with us this Thanksgiving.	Martha Stewart will not be dining with us this Thanksgiving.	186345401	1476975784467	1476975784563	g	71
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345633	1476975786883	1476975786963	CAPS_LOCK	20
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345637	1476975787603	1476975787699	U	85
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345641	1476975787699	1476975787779	S	83
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345645	1476975787843	1476975787971	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345649	1476975787972	1476975788051	CAPS_LOCK	20
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345653	1476975788163	1476975788291	v	86
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345657	1476975788339	1476975788419	e	69
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345688	1476975788547	1476975788595	s	83
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345692	1476975788691	1476975788835	s	83
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345696	1476975788819	1476975788915	e	69
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345699	1476975789203	1476975789299	l	76
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345702	1476975789300	1476975789347	s	83
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345717	1476975789395	1476975789523	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345720	1476975789491	1476975789571	w	87
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345722	1476975789571	1476975789651	i	73
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345725	1476975789635	1476975789683	l	76
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345728	1476975789779	1476975789891	l	76
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345783	1476975789859	1476975790019	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345780	1476975789939	1476975789987	f	70
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345790	1476975790019	1476975790083	o	79
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345794	1476975790211	1476975790339	m	77
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345802	1476975790275	1476975790339	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345809	1476975790579	1476975790627	BKSP	8
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345816	1476975790723	1476975790803	BKSP	8
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345822	1476975790835	1476975790915	r	82
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345872	1476975790931	1476975791091	m	77
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345877	1476975791027	1476975791187	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345883	1476975791139	1476975791251	t	84
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345889	1476975791619	1476975791683	w	87
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345897	1476975791683	1476975791827	o	79
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345993	1476975791763	1476975791907	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345995	1476975791971	1476975792099	s	83
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186345999	1476975792067	1476975792179	e	69
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346003	1476975792819	1476975792899	p	80
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346008	1476975792995	1476975793075	a	65
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346014	1476975793075	1476975793219	r	82
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346057	1476975793187	1476975793315	a	65
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346062	1476975793363	1476975793491	t	84
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346065	1476975793459	1476975793555	e	69
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346071	1476975793603	1476975793747	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346073	1476975793699	1476975793763	t	84
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346076	1476975793859	1476975793971	r	82
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346095	1476975793923	1476975794035	a	65
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346098	1476975794003	1476975794099	i	73
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346104	1476975794179	1476975794259	n	78
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346111	1476975794307	1476975794403	i	73
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346116	1476975794371	1476975794483	n	78
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346121	1476975794483	1476975794547	g	71
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346140	1476975794531	1476975794675	 	32
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346145	1476975794627	1476975794723	u	85
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346154	1476975794755	1476975794931	n	78
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346161	1476975794867	1476975794995	i	73
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346165	1476975794963	1476975795107	t	84
+363815	3922387	US vessels will form two separate training units.	US vessels will form two separate training units.	186346170	1476975795075	1476975795203	s	83
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346314	1476975797043	1476975797107	CAPS_LOCK	20
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346319	1476975797123	1476975797204	O	79
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346324	1476975797205	1476975797283	CAPS_LOCK	20
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346331	1476975797331	1476975797427	n	78
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346338	1476975797475	1476975797619	c	67
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346344	1476975797539	1476975797667	e	69
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346360	1476975797619	1476975797763	 	32
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346364	1476975797715	1476975797779	y	89
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346368	1476975797843	1476975797987	o	79
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346371	1476975797907	1476975798035	u	85
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346376	1476975798115	1476975798179	d	68
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346379	1476975798179	1476975798243	o	79
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346407	1476975798371	1476975798435	,	188
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346411	1476975798579	1476975798739	 	32
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346416	1476975798739	1476975798803	y	89
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346423	1476975798867	1476975798995	o	79
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346440	1476975798931	1476975799027	u	85
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346444	1476975798997	1476975799107	 	32
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346448	1476975799059	1476975799155	c	67
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346452	1476975799139	1476975799235	a	65
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346455	1476975799219	1476975799315	n	78
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346473	1476975799283	1476975799427	 	32
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346476	1476975799411	1476975799507	n	78
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346483	1476975799459	1476975799571	e	69
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346490	1476975799555	1476975799635	v	86
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346496	1476975799683	1476975799827	e	69
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346524	1476975799763	1476975799891	r	82
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346536	1476975799891	1476975800019	 	32
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346547	1476975799987	1476975800083	g	71
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346557	1476975800083	1476975800211	o	79
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346566	1476975800163	1476975800275	 	32
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346575	1476975800419	1476975800483	b	66
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346589	1476975800515	1476975800643	a	65
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346595	1476975800563	1476975800691	c	67
+363815	3922407	Once you do, you can never go back.	Once youdo, you can never go back.	186346602	1476975800643	1476975800723	k	75
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346805	1476975803379	1476975803475	CAPS_LOCK	20
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346809	1476975803491	1476975803571	I	73
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346817	1476975803571	1476975803635	CAPS_LOCK	20
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346822	1476975803667	1476975803747	'	222
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346826	1476975803843	1476975803891	l	76
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346829	1476975803987	1476975804067	l	76
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346831	1476975804067	1476975804227	 	32
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346862	1476975804195	1476975804307	k	75
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346865	1476975804499	1476975804547	e	69
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346872	1476975804627	1476975804739	e	69
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346878	1476975804675	1476975804771	p	80
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346886	1476975804739	1476975804883	 	32
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346899	1476975804851	1476975804947	i	73
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346904	1476975804947	1476975805027	t	84
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346911	1476975804995	1476975805107	 	32
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346920	1476975805107	1476975805235	i	73
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346925	1476975805139	1476975805299	n	78
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346949	1476975805267	1476975805411	 	32
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346953	1476975805379	1476975805507	m	77
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346958	1476975805475	1476975805555	i	73
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346963	1476975805683	1476975805763	l	76
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346969	1476975805747	1476975805891	e	69
+363815	3922415	I'll keep it in miles.	I'll keep it in miles.	186346968	1476975805859	1476975805971	s	83
+363815	3922427	They really must get the money together.	They really must get the money together.	186347255	1476975808243	1476975808355	CAPS_LOCK	20
+363815	3922427	They really must get the money together.	They really must get the money together.	186347258	1476975808451	1476975808531	T	84
+363815	3922427	They really must get the money together.	They really must get the money together.	186347262	1476975808595	1476975808691	CAPS_LOCK	20
+363815	3922427	They really must get the money together.	They really must get the money together.	186347267	1476975808691	1476975808771	h	72
+363815	3922427	They really must get the money together.	They really must get the money together.	186347269	1476975808899	1476975808979	y	89
+363815	3922427	They really must get the money together.	They really must get the money together.	186347274	1476975809203	1476975809267	BKSP	8
+363815	3922427	They really must get the money together.	They really must get the money together.	186347280	1476975809347	1476975809411	e	69
+363815	3922427	They really must get the money together.	They really must get the money together.	186347285	1476975809459	1476975809603	y	89
+363815	3922427	They really must get the money together.	They really must get the money together.	186347295	1476975809539	1476975809667	 	32
+363815	3922427	They really must get the money together.	They really must get the money together.	186347302	1476975809605	1476975809715	r	82
+363815	3922427	They really must get the money together.	They really must get the money together.	186347308	1476975809667	1476975809795	e	69
+363815	3922427	They really must get the money together.	They really must get the money together.	186347315	1476975809731	1476975809859	a	65
+363815	3922427	They really must get the money together.	They really must get the money together.	186347321	1476975809795	1476975809859	l	76
+363815	3922427	They really must get the money together.	They really must get the money together.	186347329	1476975809923	1476975810019	l	76
+363815	3922427	They really must get the money together.	They really must get the money together.	186347345	1476975810003	1476975810067	y	89
+363815	3922427	They really must get the money together.	They really must get the money together.	186347351	1476975810083	1476975810211	 	32
+363815	3922427	They really must get the money together.	They really must get the money together.	186347356	1476975810163	1476975810211	m	77
+363815	3922427	They really must get the money together.	They really must get the money together.	186347364	1476975810323	1476975810403	u	85
+363815	3922427	They really must get the money together.	They really must get the money together.	186347369	1476975810403	1476975810515	s	83
+363815	3922427	They really must get the money together.	They really must get the money together.	186347381	1476975810451	1476975810547	t	84
+363815	3922427	They really must get the money together.	They really must get the money together.	186347385	1476975810563	1476975810691	 	32
+363815	3922427	They really must get the money together.	They really must get the money together.	186347390	1476975810659	1476975810739	g	71
+363815	3922427	They really must get the money together.	They really must get the money together.	186347395	1476975810803	1476975810931	e	69
+363815	3922427	They really must get the money together.	They really must get the money together.	186347399	1476975810899	1476975810963	t	84
+363815	3922427	They really must get the money together.	They really must get the money together.	186347421	1476975810947	1476975811075	 	32
+363815	3922427	They really must get the money together.	They really must get the money together.	186347425	1476975811043	1476975811139	t	84
+363815	3922427	They really must get the money together.	They really must get the money together.	186347431	1476975811171	1476975811235	h	72
+363815	3922427	They really must get the money together.	They really must get the money together.	186347434	1476975811267	1476975811363	e	69
+363815	3922427	They really must get the money together.	They really must get the money together.	186347438	1476975811331	1476975811475	 	32
+363815	3922427	They really must get the money together.	They really must get the money together.	186347457	1476975811427	1476975811523	m	77
+363815	3922427	They really must get the money together.	They really must get the money together.	186347464	1476975811477	1476975811539	o	79
+363815	3922427	They really must get the money together.	They really must get the money together.	186347470	1476975811635	1476975811715	n	78
+363815	3922427	They really must get the money together.	They really must get the money together.	186347479	1476975811715	1476975811795	e	69
+363815	3922427	They really must get the money together.	They really must get the money together.	186347484	1476975811827	1476975811939	y	89
+363815	3922427	They really must get the money together.	They really must get the money together.	186347493	1476975811891	1476975812034	 	32
+363815	3922427	They really must get the money together.	They really must get the money together.	186347495	1476975812003	1476975812083	t	84
+363815	3922427	They really must get the money together.	They really must get the money together.	186347500	1476975812115	1476975812195	o	79
+363815	3922427	They really must get the money together.	They really must get the money together.	186347506	1476975812195	1476975812243	g	71
+363815	3922427	They really must get the money together.	They really must get the money together.	186347513	1476975812291	1476975812403	e	69
+363815	3922427	They really must get the money together.	They really must get the money together.	186347534	1476975812371	1476975812451	t	84
+363815	3922427	They really must get the money together.	They really must get the money together.	186347538	1476975812405	1476975812483	h	72
+363815	3922427	They really must get the money together.	They really must get the money together.	186347541	1476975812515	1476975812627	e	69
+363815	3922427	They really must get the money together.	They really must get the money together.	186347546	1476975812579	1476975812707	r	82
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347733	1476975814643	1476975814707	CAPS_LOCK	20
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347737	1476975814739	1476975814835	L	76
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347745	1476975814787	1476975814835	CAPS_LOCK	20
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347751	1476975814946	1476975815091	e	69
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347757	1476975815027	1476975815139	t	84
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347762	1476975815107	1476975815235	 	32
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347795	1476975815219	1476975815331	m	77
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347799	1476975815331	1476975815395	e	69
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347802	1476975815363	1476975815523	 	32
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347807	1476975815443	1476975815539	k	75
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347812	1476975815507	1476975815587	n	78
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347816	1476975815683	1476975815763	o	79
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347827	1476975815765	1476975815811	w	87
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347833	1476975815859	1476975815971	 	32
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347838	1476975815907	1476975815971	w	87
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347844	1476975816019	1476975816083	h	72
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347850	1476975816083	1476975816163	e	69
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347858	1476975816165	1476975816291	r	82
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347861	1476975816227	1476975816371	e	69
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347862	1476975816275	1476975816387	 	32
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347864	1476975816371	1476975816419	y	89
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347868	1476975816467	1476975816579	o	79
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347895	1476975816547	1476975816675	u	85
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347897	1476975816675	1476975816835	 	32
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347898	1476975816787	1476975816899	m	77
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347899	1476975816851	1476975816931	i	73
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347900	1476975816914	1476975816995	g	71
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347901	1476975817027	1476975817123	h	72
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347918	1476975817125	1476975817202	t	84
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347924	1476975817171	1476975817299	 	32
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347929	1476975817251	1476975817330	b	66
+363815	3922437	Let me know where you might be.	Let me know where you might be.	186347933	1476975817363	1476975817427	e	69
+363815	3922445	I hope you went.	I hope you went.	186348149	1476975820163	1476975820242	CAPS_LOCK	20
+363815	3922445	I hope you went.	I hope you went.	186348154	1476975820243	1476975820323	I	73
+363815	3922445	I hope you went.	I hope you went.	186348158	1476975820323	1476975820386	CAPS_LOCK	20
+363815	3922445	I hope you went.	I hope you went.	186348164	1476975820418	1476975820547	 	32
+363815	3922445	I hope you went.	I hope you went.	186348172	1476975820531	1476975820626	h	72
+363815	3922445	I hope you went.	I hope you went.	186348177	1476975820627	1476975820722	o	79
+363815	3922445	I hope you went.	I hope you went.	186348194	1476975820691	1476975820787	p	80
+363815	3922445	I hope you went.	I hope you went.	186348200	1476975820787	1476975820866	e	69
+363815	3922445	I hope you went.	I hope you went.	186348205	1476975820835	1476975820979	 	32
+363815	3922445	I hope you went.	I hope you went.	186348212	1476975820931	1476975821010	y	89
+363815	3922445	I hope you went.	I hope you went.	186348218	1476975821058	1476975821202	o	79
+363815	3922445	I hope you went.	I hope you went.	186348244	1476975821123	1476975821251	u	85
+363815	3922445	I hope you went.	I hope you went.	186348247	1476975821186	1476975821315	 	32
+363815	3922445	I hope you went.	I hope you went.	186348249	1476975821251	1476975821362	w	87
+363815	3922445	I hope you went.	I hope you went.	186348251	1476975821315	1476975821410	e	69
+363815	3922445	I hope you went.	I hope you went.	186348255	1476975821394	1476975821459	n	78
+363815	3922445	I hope you went.	I hope you went.	186348258	1476975821538	1476975821619	t	84
+363815	3922445	I hope you went.	I hope you went.	186348263	1476975821650	1476975821763	.	190

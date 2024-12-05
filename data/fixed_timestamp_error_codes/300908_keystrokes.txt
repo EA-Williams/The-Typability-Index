@@ -1,0 +1,839 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+300908	3236518	I have some more data coming.	I have some more data coming.	153786733	1476141537516	1476141537650	SHIFT	16
+300908	3236518	I have some more data coming.	I have some more data coming.	153786735	1476141537579	1476141537651	I	73
+300908	3236518	I have some more data coming.	I have some more data coming.	153786737	1476141537714	1476141537757	 	32
+300908	3236518	I have some more data coming.	I have some more data coming.	153786739	1476141538275	1476141538322	h	72
+300908	3236518	I have some more data coming.	I have some more data coming.	153786741	1476141538338	1476141538426	a	65
+300908	3236518	I have some more data coming.	I have some more data coming.	153786742	1476141538450	1476141538514	v	86
+300908	3236518	I have some more data coming.	I have some more data coming.	153786767	1476141538570	1476141538634	e	69
+300908	3236518	I have some more data coming.	I have some more data coming.	153786768	1476141538667	1476141538722	 	32
+300908	3236518	I have some more data coming.	I have some more data coming.	153786769	1476141539138	1476141539211	s	83
+300908	3236518	I have some more data coming.	I have some more data coming.	153786770	1476141539211	1476141539274	o	79
+300908	3236518	I have some more data coming.	I have some more data coming.	153786771	1476141539338	1476141539426	m	77
+300908	3236518	I have some more data coming.	I have some more data coming.	153786804	1476141539482	1476141539562	e	69
+300908	3236518	I have some more data coming.	I have some more data coming.	153786806	1476141539770	1476141539834	 	32
+300908	3236518	I have some more data coming.	I have some more data coming.	153786810	1476141540050	1476141540155	m	77
+300908	3236518	I have some more data coming.	I have some more data coming.	153786813	1476141540155	1476141540226	o	79
+300908	3236518	I have some more data coming.	I have some more data coming.	153786816	1476141540362	1476141540458	r	82
+300908	3236518	I have some more data coming.	I have some more data coming.	153786877	1476141540427	1476141540547	e	69
+300908	3236518	I have some more data coming.	I have some more data coming.	153786880	1476141540547	1476141540594	 	32
+300908	3236518	I have some more data coming.	I have some more data coming.	153786882	1476141541266	1476141541402	SHIFT	16
+300908	3236518	I have some more data coming.	I have some more data coming.	153786884	1476141541658	1476141541746	d	68
+300908	3236518	I have some more data coming.	I have some more data coming.	153786885	1476141541747	1476141541794	a	65
+300908	3236518	I have some more data coming.	I have some more data coming.	153786888	1476141541795	1476141541842	t	84
+300908	3236518	I have some more data coming.	I have some more data coming.	153786891	1476141541954	1476141542050	a	65
+300908	3236518	I have some more data coming.	I have some more data coming.	153786950	1476141542147	1476141542202	 	32
+300908	3236518	I have some more data coming.	I have some more data coming.	153786951	1476141542930	1476141543010	c	67
+300908	3236518	I have some more data coming.	I have some more data coming.	153786952	1476141543011	1476141543074	o	79
+300908	3236518	I have some more data coming.	I have some more data coming.	153786953	1476141543674	1476141543770	m	77
+300908	3236518	I have some more data coming.	I have some more data coming.	153786954	1476141543786	1476141543866	i	73
+300908	3236518	I have some more data coming.	I have some more data coming.	153787001	1476141543930	1476141544010	n	78
+300908	3236518	I have some more data coming.	I have some more data coming.	153787003	1476141544042	1476141544130	g	71
+300908	3236518	I have some more data coming.	I have some more data coming.	153787006	1476141545058	1476141545122	.	190
+300908	3236528	Have a great day!	Have a great day!	153787086	1476141547435	1476141547474	h	72
+300908	3236528	Have a great day!	Have a great day!	153787088	1476141547514	1476141547570	a	65
+300908	3236528	Have a great day!	Have a great day!	153787090	1476141547602	1476141547666	v	86
+300908	3236528	Have a great day!	Have a great day!	153787091	1476141547722	1476141547786	e	69
+300908	3236528	Have a great day!	Have a great day!	153787093	1476141547787	1476141547850	 	32
+300908	3236528	Have a great day!	Have a great day!	153787151	1476141548211	1476141548250	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787155	1476141548306	1476141548338	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787156	1476141548394	1476141548426	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787158	1476141548490	1476141548514	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787159	1476141548586	1476141548610	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787163	1476141548786	1476141549442	SHIFT	16
+300908	3236528	Have a great day!	Have a great day!	153787161	1476141549362	1476141549418	H	72
+300908	3236528	Have a great day!	Have a great day!	153787165	1476141549538	1476141549634	a	65
+300908	3236528	Have a great day!	Have a great day!	153787169	1476141549650	1476141549698	v	86
+300908	3236528	Have a great day!	Have a great day!	153787171	1476141549778	1476141549850	e	69
+300908	3236528	Have a great day!	Have a great day!	153787174	1476141549851	1476141549930	 	32
+300908	3236528	Have a great day!	Have a great day!	153787204	1476141550018	1476141550114	a	65
+300908	3236528	Have a great day!	Have a great day!	153787207	1476141550122	1476141550170	 	32
+300908	3236528	Have a great day!	Have a great day!	153787214	1476141550498	1476141550682	SHIFT	16
+300908	3236528	Have a great day!	Have a great day!	153787221	1476141550755	1476141550794	g	71
+300908	3236528	Have a great day!	Have a great day!	153787227	1476141551147	1476141551194	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787233	1476141551626	1476141551666	g	71
+300908	3236528	Have a great day!	Have a great day!	153787236	1476141551794	1476141551850	r	82
+300908	3236528	Have a great day!	Have a great day!	153787268	1476141551914	1476141552018	e	69
+300908	3236528	Have a great day!	Have a great day!	153787272	1476141551986	1476141552050	a	65
+300908	3236528	Have a great day!	Have a great day!	153787277	1476141552106	1476141552186	t	84
+300908	3236528	Have a great day!	Have a great day!	153787286	1476141552210	1476141552274	 	32
+300908	3236528	Have a great day!	Have a great day!	153787414	1476141552995	1476141553090	d	65
+300908	3236528	Have a great day!	Have a great day!	153787415	1476141553066	1476141553122	y	89
+300908	3236528	Have a great day!	Have a great day!	153787416	1476141553795	1476141553850	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787417	1476141553906	1476141553954	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787419	1476141554250	1476141554314	BKSP	8
+300908	3236528	Have a great day!	Have a great day!	153787423	1476141554770	1476141554899	d	68
+300908	3236528	Have a great day!	Have a great day!	153787426	1476141554842	1476141554901	a	65
+300908	3236528	Have a great day!	Have a great day!	153787429	1476141554899	1476141554930	y	89
+300908	3236528	Have a great day!	Have a great day!	153787432	1476141555282	1476141555490	SHIFT	16
+300908	3236528	Have a great day!	Have a great day!	153787420	1476141555794	1476141556042	SHIFT	16
+300908	3236528	Have a great day!	Have a great day!	153787434	1476141555898	1476141556002	!	49
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787543	1476141557819	1476141558162	SHIFT	16
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787545	1476141558122	1476141558209	Y	89
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787547	1476141558219	1476141558258	o	79
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787549	1476141558290	1476141558346	u	85
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787552	1476141558378	1476141558418	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787555	1476141558746	1476141558826	m	77
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787609	1476141558923	1476141558994	u	85
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787612	1476141559458	1476141559547	s	83
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787614	1476141559547	1476141559586	t	84
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787616	1476141559634	1476141559674	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787619	1476141560202	1476141560242	t	84
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787647	1476141560346	1476141560394	h	72
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787649	1476141560418	1476141560490	e	69
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787651	1476141560570	1476141560634	r	82
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787653	1476141560690	1476141560770	e	69
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787656	1476141560818	1476141560850	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787714	1476141561107	1476141561146	BKSP	8
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787716	1476141561434	1476141561490	g	71
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787720	1476141561770	1476141561818	BKSP	8
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787722	1476141562322	1476141562378	f	70
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787725	1476141562363	1476141562402	o	79
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787726	1476141562642	1476141562754	r	82
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787748	1476141562723	1476141562802	e	69
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787752	1476141562770	1476141562834	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787757	1476141563306	1476141563346	t	84
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787762	1476141563370	1476141563450	a	65
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787766	1476141563554	1476141563618	k	75
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787771	1476141563690	1476141563762	e	69
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787809	1476141564082	1476141564122	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787810	1476141564834	1476141564898	f	70
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787812	1476141565218	1476141565274	l	76
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787817	1476141565346	1476141565394	l	76
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787818	1476141565434	1476141565474	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787927	1476141566099	1476141566154	BKSP	8
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787928	1476141566218	1476141566250	BKSP	8
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787929	1476141566794	1476141566850	BKSP	8
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787930	1476141567282	1476141567338	u	85
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787931	1476141567498	1476141567594	l	76
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787932	1476141567634	1476141567738	l	76
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787933	1476141568138	1476141568227	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787936	1476141568339	1476141568490	r	82
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787995	1476141568443	1476141568538	e	69
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153787999	1476141569195	1476141569274	s	83
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788004	1476141569490	1476141569602	p	80
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788009	1476141569563	1476141569634	o	79
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788013	1476141569818	1476141569874	n	78
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788019	1476141570034	1476141570122	s	83
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788080	1476141570338	1476141570386	i	73
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788081	1476141570994	1476141571067	b	66
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788083	1476141571067	1476141571106	i	73
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788086	1476141571274	1476141571354	l	76
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788090	1476141571706	1476141571778	i	73
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788129	1476141572202	1476141572298	t	84
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788131	1476141572267	1476141572362	y	89
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788133	1476141572363	1476141572458	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788135	1476141573170	1476141573234	f	70
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788200	1476141573203	1476141573250	o	79
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788201	1476141573746	1476141573786	BKSP	8
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788202	1476141573818	1476141573874	r	82
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788203	1476141574234	1476141574282	BKSP	8
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788204	1476141574522	1476141574562	o	79
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788205	1476141574618	1476141574674	r	82
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788206	1476141574730	1476141574770	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788207	1476141575418	1476141575482	v	86
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788236	1476141575498	1476141575538	i	73
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788238	1476141576571	1476141576610	r	82
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788240	1476141576611	1476141576658	u	85
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788241	1476141576730	1476141576802	s	83
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788333	1476141576779	1476141576850	 	32
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788335	1476141577562	1476141577666	c	67
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788338	1476141577643	1476141577667	h	72
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788340	1476141578234	1476141578298	e	69
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788342	1476141579267	1476141579330	c	67
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788378	1476141579315	1476141579386	k	75
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788382	1476141579482	1476141579538	i	73
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788385	1476141579602	1476141579682	n	78
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788390	1476141579651	1476141579730	g	71
+300908	3236537	You must therefore take full responsibility for virus checking.	You must therefore take full responsibility for virus checking.	153788394	1476141580418	1476141580506	.	190
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788510	1476141582306	1476141582810	SHIFT	16
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788514	1476141582786	1476141582842	C	67
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788518	1476141582866	1476141582914	l	76
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788520	1476141583018	1476141583058	i	73
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788525	1476141583394	1476141583442	n	78
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788530	1476141583994	1476141584058	t	84
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788546	1476141584026	1476141584122	o	79
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788548	1476141584146	1476141584274	n	78
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788550	1476141584275	1476141584346	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788552	1476141584746	1476141584802	h	72
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788554	1476141584803	1476141584858	a	65
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788555	1476141584962	1476141585010	s	83
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788619	1476141584995	1476141585034	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788622	1476141586347	1476141586378	p	80
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788626	1476141586490	1476141586602	r	82
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788631	1476141586555	1476141586642	e	69
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788637	1476141586770	1476141586850	s	83
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788642	1476141586946	1476141587010	s	83
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788668	1476141587123	1476141587170	e	69
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788670	1476141587266	1476141587322	d	68
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788672	1476141587362	1476141587418	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788674	1476141588219	1476141588290	f	70
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788710	1476141588243	1476141588294	o	79
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788714	1476141588394	1476141588434	r	82
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788717	1476141588419	1476141588458	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788721	1476141588586	1476141588666	a	65
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788724	1476141588698	1476141588722	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788728	1476141589498	1476141589547	m	77
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788803	1476141589682	1476141589714	u	85
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788808	1476141589898	1476141589962	l	76
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788812	1476141590786	1476141590835	t	84
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788814	1476141590835	1476141590874	i	73
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788817	1476141591258	1476141591314	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788917	1476141591699	1476141591754	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788918	1476141592699	1476141592770	l	76
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788919	1476141592778	1476141592858	a	65
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788922	1476141593395	1476141593434	t	84
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788926	1476141593482	1476141593538	e	69
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153788931	1476141593962	1476141594018	r	82
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789089	1476141594850	1476141594938	a	65
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789091	1476141594915	1476141594994	k	75
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789094	1476141595042	1476141595122	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789096	1476141597603	1476141597642	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789098	1476141597722	1476141597778	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789100	1476141598106	1476141598162	l	76
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789102	1476141598642	1476141598698	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789230	1476141599386	1476141599426	l	76
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789232	1476141599522	1476141599562	i	73
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789236	1476141599994	1476141600042	f	70
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789239	1476141600834	1476141600874	t	84
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789242	1476141601394	1476141601450	i	73
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789295	1476141601522	1476141601618	n	78
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789298	1476141601762	1476141601810	g	71
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789302	1476141601811	1476141601858	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789305	1476141602890	1476141602930	o	79
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789308	1476141602994	1476141603050	t	84
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789331	1476141603227	1476141603266	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789332	1476141603474	1476141603538	f	70
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789333	1476141603539	1476141603586	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789334	1476141603874	1476141603962	t	84
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789335	1476141603939	1476141604002	h	72
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789429	1476141603978	1476141604066	e	69
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789432	1476141604050	1476141604130	 	32
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789435	1476141604530	1476141604586	e	69
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789439	1476141604571	1476141604618	n	78
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789441	1476141605090	1476141605178	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789445	1476141605322	1476141605402	m	77
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789450	1476141606010	1476141606050	b	66
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789510	1476141606052	1476141606098	a	65
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789516	1476141606298	1476141606371	r	82
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789521	1476141606395	1476141606466	o	79
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789529	1476141607522	1476141607579	g	71
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789533	1476141607579	1476141607642	o	79
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789665	1476141608411	1476141608466	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789668	1476141608642	1476141608706	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789670	1476141609651	1476141609690	BKSP	8
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789674	1476141610298	1476141610363	g	71
+300908	3236554	Clinton has pressed for a multilateral lifting of the embargo.	Clinton has pressed for a multilateral lifting of the embargo.	153789679	1476141610363	1476141610402	o	79
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791355	1476141611026	1476141642858	.	190
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789847	1476141612994	1476141613099	w	87
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789852	1476141613075	1476141613154	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789856	1476141613099	1476141613178	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789860	1476141613474	1476141613514	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789863	1476141613794	1476141613842	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789865	1476141614034	1476141614490	SHIFT	16
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789864	1476141614234	1476141614290	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789867	1476141614890	1476141615274	SHIFT	16
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789866	1476141615146	1476141615242	W	87
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789868	1476141615490	1476141615562	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789913	1476141615578	1476141615642	o	79
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789915	1476141615746	1476141615794	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789917	1476141616123	1476141616162	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789919	1476141616226	1476141616282	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789923	1476141616418	1476141616458	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789927	1476141617066	1476141617123	d	68
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153789933	1476141617123	1476141617178	o	79
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790011	1476141617226	1476141617322	n	78
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790013	1476141617386	1476141617466	t	84
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790016	1476141617506	1476141617554	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790018	1476141617786	1476141617834	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790020	1476141618202	1476141618266	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790024	1476141618490	1476141618554	'	222
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790027	1476141618914	1476141618971	t	84
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790063	1476141618973	1476141618986	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790065	1476141619794	1476141619898	r	82
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790073	1476141619858	1476141619962	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790082	1476141620146	1476141620218	c	67
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790189	1476141620203	1476141620274	o	79
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790192	1476141620698	1476141620746	m	77
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790198	1476141620802	1476141620866	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790202	1476141621114	1476141621154	m	77
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790207	1476141621306	1476141621354	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790211	1476141621435	1476141621458	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790217	1476141622075	1476141622138	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790222	1476141622458	1476141622514	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790226	1476141622690	1476141622754	m	77
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790269	1476141622802	1476141622882	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790273	1476141623394	1476141623426	n	78
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790276	1476141623450	1476141623490	f	70
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790278	1476141623538	1476141623594	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790280	1476141623891	1476141623938	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790281	1476141624002	1476141624042	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790282	1476141624090	1476141624155	d	68
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790360	1476141624158	1476141624210	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790364	1476141624642	1476141624722	t	84
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790368	1476141624699	1476141624770	o	79
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790371	1476141624810	1476141624882	y	89
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790377	1476141625074	1476141625122	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790379	1476141625194	1476141625218	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790382	1476141625274	1476141625306	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790385	1476141625850	1476141625930	y	89
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790451	1476141625915	1476141625978	o	79
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790453	1476141626018	1476141626099	u	85
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790457	1476141626083	1476141626138	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790459	1476141627026	1476141627058	u	85
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790464	1476141627338	1476141627394	s	83
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790468	1476141627498	1476141627554	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790516	1476141627531	1476141627586	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790522	1476141627882	1476141627994	h	72
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790527	1476141627963	1476141628066	i	73
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790535	1476141628162	1476141628250	n	78
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790542	1476141628594	1476141628650	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790551	1476141628754	1476141628850	m	77
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790557	1476141628946	1476141629018	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790624	1476141629554	1476141629602	i	73
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790627	1476141629786	1476141629834	n	78
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790631	1476141630194	1476141630266	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790634	1476141630578	1476141630682	a	65
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790840	1476141630635	1476141630685	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790842	1476141631250	1476141631514	SHIFT	16
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790843	1476141631515	1476141631554	d	68
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790844	1476141631850	1476141631898	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790847	1476141631930	1476141632146	SHIFT	16
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790845	1476141632050	1476141632138	F	70
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790851	1476141632242	1476141632338	a	65
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790855	1476141632378	1476141632450	n	78
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790860	1476141634403	1476141634530	r	82
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790948	1476141634483	1476141634594	a	65
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790952	1476141634858	1476141634898	s	83
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790960	1476141635050	1476141635098	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790967	1476141635154	1476141635202	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790974	1476141635379	1476141635410	t	82
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790982	1476141635714	1476141635778	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790988	1476141635842	1476141635898	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790991	1476141636082	1476141636154	BKSP	8
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153790994	1476141636274	1476141636362	t	84
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791102	1476141636331	1476141636434	a	65
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791105	1476141637490	1476141637546	s	83
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791108	1476141637547	1476141637602	y	89
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791111	1476141637682	1476141637746	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791117	1476141638234	1476141638298	l	76
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791123	1476141638330	1476141638434	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791167	1476141638403	1476141638490	a	65
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791169	1476141639170	1476141639235	g	71
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791171	1476141639235	1476141639282	u	85
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791173	1476141639386	1476141639474	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791175	1476141639427	1476141639475	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791179	1476141640034	1476141640090	t	84
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791221	1476141640092	1476141640194	h	72
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791223	1476141640195	1476141640258	i	73
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791227	1476141640235	1476141640338	s	83
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791229	1476141640339	1476141640426	 	32
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791234	1476141641114	1476141641170	w	87
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791342	1476141641458	1476141641522	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791345	1476141641602	1476141641666	e	69
+300908	3236583	We don't recommend you use him in a Fantasy league this week.	We don't recommend you use him in a Fantasy league this week.	153791351	1476141642587	1476141642626	k	75
+300908	3236618	Have a great trip.	Have a great trip.	153791524	1476141645042	1476141645178	SHIFT	16
+300908	3236618	Have a great trip.	Have a great trip.	153791526	1476141645138	1476141645194	H	72
+300908	3236618	Have a great trip.	Have a great trip.	153791528	1476141645258	1476141645330	a	65
+300908	3236618	Have a great trip.	Have a great trip.	153791532	1476141645331	1476141645386	b	66
+300908	3236618	Have a great trip.	Have a great trip.	153791535	1476141645810	1476141645867	BKSP	8
+300908	3236618	Have a great trip.	Have a great trip.	153791540	1476141646163	1476141646210	v	86
+300908	3236618	Have a great trip.	Have a great trip.	153791544	1476141646258	1476141646306	e	69
+300908	3236618	Have a great trip.	Have a great trip.	153791593	1476141646339	1476141646386	 	32
+300908	3236618	Have a great trip.	Have a great trip.	153791598	1476141646434	1476141646498	a	65
+300908	3236618	Have a great trip.	Have a great trip.	153791601	1476141646546	1476141646586	 	32
+300908	3236618	Have a great trip.	Have a great trip.	153791606	1476141646842	1476141647066	SHIFT	16
+300908	3236618	Have a great trip.	Have a great trip.	153791608	1476141647090	1476141647138	g	71
+300908	3236618	Have a great trip.	Have a great trip.	153791610	1476141647370	1476141647410	r	82
+300908	3236618	Have a great trip.	Have a great trip.	153791705	1476141647938	1476141647994	BKSP	8
+300908	3236618	Have a great trip.	Have a great trip.	153791709	1476141648146	1476141648202	BKSP	8
+300908	3236618	Have a great trip.	Have a great trip.	153791713	1476141648642	1476141648690	g	71
+300908	3236618	Have a great trip.	Have a great trip.	153791716	1476141648810	1476141648882	r	82
+300908	3236618	Have a great trip.	Have a great trip.	153791720	1476141648930	1476141649042	e	69
+300908	3236618	Have a great trip.	Have a great trip.	153791722	1476141649010	1476141649074	a	65
+300908	3236618	Have a great trip.	Have a great trip.	153791724	1476141650010	1476141650098	t	84
+300908	3236618	Have a great trip.	Have a great trip.	153791806	1476141650059	1476141650100	 	32
+300908	3236618	Have a great trip.	Have a great trip.	153791812	1476141650939	1476141651058	t	84
+300908	3236618	Have a great trip.	Have a great trip.	153791817	1476141650995	1476141651106	r	82
+300908	3236618	Have a great trip.	Have a great trip.	153791822	1476141651107	1476141651218	i	73
+300908	3236618	Have a great trip.	Have a great trip.	153791830	1476141651203	1476141651314	p	80
+300908	3236618	Have a great trip.	Have a great trip.	153791839	1476141651691	1476141651762	.	190
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792055	1476141654434	1476141654666	SHIFT	16
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792053	1476141654586	1476141654650	I	73
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792058	1476141655298	1476141655354	t	84
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792060	1476141655931	1476141655978	;	186
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792062	1476141656010	1476141656090	s	83
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792066	1476141656322	1476141656370	BKSP	8
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792071	1476141656458	1476141656482	BKSP	8
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792074	1476141656666	1476141656754	'	222
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792186	1476141657130	1476141657194	s	83
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792189	1476141657155	1476141657210	 	32
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792192	1476141658202	1476141658290	i	73
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792196	1476141658306	1476141658418	n	78
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792200	1476141659187	1476141659266	c	67
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792284	1476141659426	1476141659490	r	82
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792285	1476141659906	1476141660003	e	69
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792287	1476141660005	1476141660098	a	65
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792289	1476141660818	1476141660890	d	68
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792291	1476141661058	1476141661114	i	73
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792632	1476141661402	1476141661475	b	66
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792636	1476141661475	1476141661530	l	76
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792639	1476141662259	1476141662330	y	89
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792642	1476141662370	1476141662434	 	32
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792645	1476141668363	1476141668490	d	68
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792711	1476141668403	1476141668514	e	69
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792715	1476141668938	1476141669003	m	77
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792720	1476141669003	1476141669082	a	65
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792725	1476141669706	1476141669762	n	78
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792731	1476141670506	1476141670578	d	68
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792735	1476141670579	1476141670658	i	73
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792781	1476141670706	1476141670802	n	78
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792783	1476141670818	1476141670882	g	71
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792787	1476141670906	1476141670962	 	32
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792794	1476141671666	1476141671722	h	72
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792801	1476141671746	1476141671834	e	69
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792873	1476141671890	1476141671954	r	82
+300908	3236630	It's incredibly demanding here.	It's incredibly demanding here.	153792875	1476141671955	1476141672018	e	69
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793032	1476141674163	1476141674322	SHIFT	16
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793037	1476141674282	1476141674346	I	73
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793042	1476141674490	1476141674570	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793045	1476141674738	1476141674786	n	78
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793050	1476141674834	1476141674906	e	69
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793056	1476141675338	1476141675450	e	69
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793110	1476141675498	1476141675578	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793115	1476141675962	1476141676018	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793121	1476141676074	1476141676146	d	68
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793129	1476141676123	1476141676186	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793137	1476141676378	1476141676475	t	84
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793143	1476141676475	1476141676570	i	73
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793230	1476141676586	1476141676650	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793232	1476141677026	1476141677122	d	68
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793234	1476141677091	1476141677170	i	73
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793237	1476141677210	1476141677266	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793239	1476141677426	1476141677466	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793241	1476141677530	1476141677570	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793244	1476141677634	1476141677666	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793246	1476141677738	1476141677754	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793248	1476141678074	1476141678138	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793250	1476141678530	1476141678642	o	79
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793300	1476141678644	1476141678698	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793303	1476141679258	1476141679346	g	71
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793309	1476141679314	1476141679426	o	79
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793313	1476141679427	1476141679498	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793316	1476141680202	1476141680259	t	84
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793324	1476141680263	1476141680339	o	79
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793326	1476141680339	1476141680410	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793328	1476141680530	1476141680602	t	84
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793330	1476141680586	1476141680634	h	72
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793333	1476141680682	1476141680738	e	69
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793504	1476141680762	1476141680810	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793512	1476141681235	1476141681274	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793518	1476141681346	1476141681378	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793522	1476141681434	1476141681482	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793528	1476141681810	1476141681850	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793533	1476141682258	1476141682490	SHIFT	16
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793537	1476141682546	1476141682642	s	83
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793543	1476141682643	1476141682690	t	84
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793549	1476141682674	1476141682754	a	65
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793555	1476141683234	1476141683274	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793559	1476141683338	1476141683370	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793621	1476141683442	1476141684522	SHIFT	16
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793563	1476141683586	1476141683682	S	83
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793608	1476141683755	1476141683794	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793613	1476141684106	1476141684154	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793625	1476141684506	1476141684562	S	83
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793631	1476141684578	1476141684618	t	84
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793635	1476141684674	1476141684738	a	65
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793637	1476141684762	1476141684874	n	78
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793639	1476141684938	1476141684994	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793727	1476141685314	1476141685378	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793730	1476141686082	1476141686146	'	222
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793733	1476141686194	1476141686283	s	83
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793738	1476141686283	1476141686362	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793745	1476141686986	1476141687170	SHIFT	16
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793748	1476141687378	1476141687418	o	79
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793753	1476141687602	1476141687658	f	70
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793768	1476141687746	1476141687810	f	70
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793770	1476141687842	1476141687898	i	73
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793773	1476141688010	1476141688130	c	67
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793776	1476141688115	1476141688218	e	69
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793780	1476141688234	1476141688298	 	32
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793812	1476141688619	1476141688666	BKSP	8
+300908	3236648	I need to go to Stan's office.	I need to go to Stan's office.	153793814	1476141688621	1476141688667	INSERT	45
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793935	1476141691394	1476141691570	SHIFT	16
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793936	1476141691523	1476141691602	S	83
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793938	1476141691706	1476141691770	e	69
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793940	1476141691866	1476141691930	e	69
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793942	1476141691962	1476141692002	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793945	1476141692331	1476141692386	h	87
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793997	1476141692490	1476141692554	a	65
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153793999	1476141692586	1476141692634	t	84
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794002	1476141693074	1476141693114	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794006	1476141693426	1476141693514	c	67
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794012	1476141693546	1476141693594	o	79
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794151	1476141693858	1476141693922	n	78
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794154	1476141694266	1476141694379	c	67
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794158	1476141694379	1476141694506	e	69
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794160	1476141694890	1476141694962	r	82
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794162	1476141695810	1476141695866	t	84
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794238	1476141695882	1476141695955	s	83
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794241	1476141695956	1476141696010	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794246	1476141696915	1476141696978	w	87
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794249	1476141697330	1476141697394	e	69
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794252	1476141697426	1476141697490	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794291	1476141697706	1476141697730	h	72
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794293	1476141697778	1476141697842	a	65
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794295	1476141698210	1476141698258	v	86
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794299	1476141698354	1476141698435	e	69
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794300	1476141698435	1476141698490	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794340	1476141698634	1476141698738	a	65
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794343	1476141698739	1476141698794	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794346	1476141699138	1476141699210	f	70
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794348	1476141699226	1476141699282	i	73
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794350	1476141699354	1476141699418	r	82
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794443	1476141699450	1476141699506	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794446	1476141699674	1476141699706	=	187
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794450	1476141699882	1476141699914	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794452	1476141699978	1476141700010	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794454	1476141700066	1476141700106	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794455	1476141700170	1476141700210	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794456	1476141700498	1476141700570	o	79
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794457	1476141700626	1476141700698	r	82
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794459	1476141701042	1476141701090	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794495	1476141701531	1476141701578	t	84
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794498	1476141701594	1476141701642	o	79
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794502	1476141701690	1476141701762	y	89
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794506	1476141701938	1476141701978	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794509	1476141702042	1476141702082	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794512	1476141702218	1476141702290	y	89
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794514	1476141702322	1476141702402	o	79
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794562	1476141702555	1476141702610	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794565	1476141702682	1476141702722	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794569	1476141703011	1476141703050	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794573	1476141703194	1476141703258	y	89
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794576	1476141703299	1476141703378	p	79
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794580	1476141703786	1476141703826	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794583	1476141703922	1476141703994	u	85
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794585	1476141703995	1476141704034	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794631	1476141704378	1476141704458	i	73
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794634	1476141704498	1476141704618	n	78
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794639	1476141704619	1476141704714	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794645	1476141705331	1476141705418	y	89
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794741	1476141705395	1476141705466	o	79
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794747	1476141705538	1476141705618	u	85
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794751	1476141706370	1476141706482	r	82
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794755	1476141706835	1476141706890	 	32
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794757	1476141707186	1476141707291	v	86
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794761	1476141707291	1476141707346	i	73
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794878	1476141707731	1476141707778	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794883	1476141707850	1476141707882	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794890	1476141708002	1476141708058	v	86
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794897	1476141708394	1476141708442	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794904	1476141708482	1476141708554	b	66
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794910	1476141708962	1476141709026	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794914	1476141709146	1476141709250	c	67
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794916	1476141709874	1476141709946	i	73
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153794918	1476141710290	1476141710346	t	84
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153795027	1476141710370	1476141710418	u	85
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153795029	1476141710794	1476141710866	BKSP	8
+300908	3236666	See what concerts we have for you in your city.	See what concerts we have a for you in your city.	153795033	1476141710970	1476141711082	y	89
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795495	1476141719210	1476141719418	SHIFT	16
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795502	1476141719386	1476141719474	A	65
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795507	1476141719530	1476141719594	r	82
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795512	1476141720187	1476141720250	e	69
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795515	1476141720227	1476141720266	 	32
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795517	1476141720570	1476141720634	t	84
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795588	1476141720658	1476141720714	i	73
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795593	1476141720715	1476141720818	y	89
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795597	1476141720795	1476141720834	 	32
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795602	1476141721122	1476141721154	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795604	1476141721218	1476141721250	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795606	1476141721306	1476141721346	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795608	1476141721810	1476141721858	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795611	1476141722130	1476141722186	u	85
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795670	1476141722163	1476141722258	o	79
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795673	1476141722314	1476141722402	i	73
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795679	1476141722610	1476141722658	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795683	1476141722722	1476141722754	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795687	1476141722794	1476141722834	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795690	1476141723314	1476141723403	y	89
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795693	1476141723403	1476141723522	o	79
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795695	1476141723523	1476141723626	u	85
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795799	1476141723571	1476141723674	 	32
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795801	1476141724323	1476141724354	i	85
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795803	1476141724939	1476141725010	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795806	1476141725202	1476141725266	BKSP	8
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795811	1476141725506	1476141725650	i	73
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795814	1476141725611	1476141725763	n	78
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795819	1476141725764	1476141725826	 	32
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795896	1476141725898	1476141726002	a	65
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795899	1476141725979	1476141726050	 	32
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795901	1476141726482	1476141726554	g	71
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795905	1476141727155	1476141727202	o	79
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795909	1476141727274	1476141727322	o	79
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795947	1476141727346	1476141727434	d	68
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795948	1476141727435	1476141727458	 	32
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795951	1476141727898	1476141727994	m	77
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795952	1476141728106	1476141728146	o	79
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153795956	1476141728218	1476141728250	o	79
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153796047	1476141728530	1476141728634	d	68
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153796054	1476141729058	1476141729530	SHIFT	16
+300908	3236692	Are you in a good mood?	Are you in a good mood?	153796050	1476141729194	1476141729234	?	191
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796169	1476141731235	1476141731394	SHIFT	16
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796171	1476141731395	1476141731434	;	76
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796173	1476141731490	1476141731546	a	65
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796174	1476141731826	1476141731866	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796175	1476141731914	1476141731962	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796177	1476141732018	1476141732050	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796182	1476141732098	1476141732450	SHIFT	16
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796179	1476141732330	1476141732386	L	76
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796189	1476141732666	1476141732778	a	65
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796230	1476141732763	1476141732858	s	83
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796235	1476141733178	1476141733274	t	84
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796239	1476141733314	1476141733386	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796241	1476141733682	1476141733738	y	89
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796242	1476141733778	1476141733882	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796298	1476141733843	1476141733938	a	65
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796299	1476141733906	1476141733970	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796301	1476141734371	1476141734426	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796304	1476141734458	1476141734562	r	82
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796307	1476141734563	1476141734610	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796309	1476141735082	1476141735154	i	73
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796310	1476141735218	1476141735314	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796370	1476141735507	1476141735554	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796375	1476141735618	1476141735658	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796382	1476141735730	1476141736002	SHIFT	16
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796379	1476141735866	1476141735954	I	73
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796386	1476141736130	1476141736194	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796389	1476141736418	1476141736450	h	72
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796390	1476141736762	1476141736818	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796393	1476141736962	1476141737042	m	77
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796394	1476141737098	1476141737170	a	65
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796464	1476141737202	1476141737258	j	74
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796465	1476141737362	1476141737386	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796466	1476141737738	1476141737778	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796467	1476141737914	1476141738034	d	68
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796468	1476141737979	1476141738090	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796469	1476141738258	1476141738306	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796470	1476141738482	1476141738602	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796471	1476141738874	1476141738922	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796472	1476141739002	1476141739123	d	68
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796492	1476141739067	1476141739162	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796496	1476141739126	1476141739163	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796500	1476141739634	1476141739715	s	83
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796505	1476141739715	1476141739778	o	79
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796513	1476141739834	1476141739956	m	77
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796600	1476141739947	1476141740018	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796604	1476141740034	1476141740098	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796608	1476141740707	1476141740786	m	77
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796612	1476141740874	1476141740938	u	85
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796616	1476141740994	1476141741074	s	83
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796619	1476141741434	1476141741482	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796622	1476141741554	1476141741594	BKSP	8
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796625	1476141742050	1476141742106	i	73
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796649	1476141742138	1476141742194	s	83
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796652	1476141742402	1476141742450	t	84
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796654	1476141742522	1476141742602	a	65
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796656	1476141742706	1476141742770	k	75
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796659	1476141742826	1476141742882	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796763	1476141743018	1476141743106	s	83
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796765	1476141743691	1476141743762	 	32
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796769	1476141744299	1476141744338	h	72
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796773	1476141744370	1476141744442	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796779	1476141745475	1476141745578	r	82
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796777	1476141745515	1476141745627	e	69
+300908	3236712	Last year I made some mistakes here.	Last year I made some mistakes here.	153796782	1476141745627	1476141745682	.	190
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796886	1476141747451	1476141747850	SHIFT	16
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796888	1476141747810	1476141747874	W	87
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796889	1476141747898	1476141747954	h	72
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796890	1476141747994	1476141748083	a	65
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796893	1476141748083	1476141748170	t	84
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796895	1476141748194	1476141748266	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796931	1476141748570	1476141748666	d	68
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796934	1476141748618	1476141748690	o	79
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796935	1476141748738	1476141748802	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796936	1476141749258	1476141749322	t	84
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153796938	1476141749323	1476141749378	o	79
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797011	1476141749410	1476141749490	y	89
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797015	1476141749451	1476141749530	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797019	1476141749682	1476141749738	BKSP	8
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797024	1476141749786	1476141749834	BKSP	8
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797026	1476141749882	1476141749930	BKSP	8
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797029	1476141750290	1476141750338	BKSP	8
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797031	1476141750426	1476141750506	y	89
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797035	1476141750522	1476141750634	o	79
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797112	1476141750611	1476141750682	u	85
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797114	1476141750714	1476141750770	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797116	1476141751594	1476141751890	SHIFT	16
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797119	1476141752098	1476141752162	t	84
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797122	1476141752131	1476141752226	h	72
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797124	1476141752227	1476141752314	i	73
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797128	1476141752410	1476141752571	n	78
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797243	1476141752574	1476141752650	k	75
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797245	1476141752850	1476141752914	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797246	1476141753659	1476141753746	a	65
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797247	1476141753946	1476141754050	b	66
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797248	1476141754178	1476141754274	o	79
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797310	1476141754355	1476141754410	u	85
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797315	1476141754666	1476141754746	t	84
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797318	1476141754715	1476141754786	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797322	1476141755346	1476141755562	SHIFT	16
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797325	1476141755522	1476141755586	T	84
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797329	1476141755674	1476141755738	r	82
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797426	1476141755818	1476141755874	a	65
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797430	1476141756179	1476141756266	c	67
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797434	1476141756267	1476141756330	y	89
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797437	1476141756386	1476141756442	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797439	1476141757059	1476141757130	a	65
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797510	1476141757107	1476141757146	n	78
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797517	1476141757202	1476141757314	d	68
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797514	1476141757251	1476141757298	 	32
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797527	1476141757746	1476141758162	SHIFT	16
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797523	1476141758082	1476141758154	J	74
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797530	1476141758186	1476141758290	i	73
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797531	1476141758346	1476141758410	m	77
+300908	3236730	What do you think about Tracy and Jim?	What do you think about Tracy and Jim.	153797619	1476141760443	1476141760522	.	190
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798012	1476141764683	1476141764930	SHIFT	16
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798014	1476141764906	1476141764994	D	68
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798019	1476141764970	1476141765018	i	73
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798024	1476141765074	1476141765146	d	68
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798031	1476141765170	1476141765250	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798039	1476141766234	1476141766434	SHIFT	16
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798045	1476141766826	1476141766882	y	89
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798082	1476141766884	1476141766930	o	79
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798084	1476141766986	1476141767042	u	85
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798087	1476141767066	1476141767082	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798090	1476141767763	1476141767858	n	78
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798095	1476141767875	1476141767930	t	73
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798244	1476141768034	1476141768082	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798248	1476141768306	1476141768450	BKSP	8
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798252	1476141768842	1476141768914	BKSP	8
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798256	1476141768962	1476141769018	BKSP	8
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798259	1476141769058	1476141769106	BKSP	8
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798261	1476141769746	1476141769810	t	84
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798263	1476141770266	1476141770314	BKSP	8
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798265	1476141770506	1476141770586	o	79
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798268	1476141770626	1476141770683	t	84
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798271	1476141770683	1476141770730	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798325	1476141771419	1476141771522	r	82
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798326	1476141771467	1476141771578	e	69
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798327	1476141771650	1476141771778	a	65
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798329	1476141771874	1476141771938	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798332	1476141772138	1476141772186	BKSP	8
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798335	1476141772234	1476141772306	d	68
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798425	1476141772275	1476141772330	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798426	1476141773075	1476141773130	m	77
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798427	1476141773306	1476141773378	y	89
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798430	1476141773746	1476141773826	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798435	1476141774010	1476141774074	f	70
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798441	1476141774098	1476141774146	i	73
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798548	1476141774202	1476141774266	r	82
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798551	1476141774402	1476141774498	s	83
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798554	1476141774522	1476141774610	t	84
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798556	1476141775010	1476141775074	 	32
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798558	1476141775242	1476141775394	SHIFT	16
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798560	1476141775626	1476141775674	e	69
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798614	1476141775714	1476141775770	m	77
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798621	1476141775771	1476141775842	a	65
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798626	1476141775890	1476141775938	i	73
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798631	1476141776515	1476141776546	l	76
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798651	1476141776674	1476141776946	SHIFT	16
+300908	3236751	Did you not read my first email?	Did you not read my first email?	153798636	1476141776794	1476141776866	?	191
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798785	1476141779091	1476141779258	SHIFT	16
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798789	1476141779226	1476141779298	I	73
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798795	1476141779859	1476141779922	 	32
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798797	1476141780098	1476141780170	h	72
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798801	1476141780218	1476141780298	a	65
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798803	1476141780346	1476141780410	v	86
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798904	1476141780450	1476141780554	e	69
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798909	1476141780555	1476141780627	 	32
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798916	1476141781691	1476141781762	3	51
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798920	1476141781739	1476141781834	0	48
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153798929	1476141781858	1476141781922	 	32
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799033	1476141782330	1476141782418	m	77
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799037	1476141782474	1476141782546	i	73
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799039	1476141782858	1476141782922	n	78
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799045	1476141783138	1476141783226	u	85
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799053	1476141783946	1476141783986	t	84
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799115	1476141784026	1476141784090	e	69
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799119	1476141784195	1476141784266	 	83
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799124	1476141784738	1476141784818	t	84
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799127	1476141784914	1476141784978	h	72
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799220	1476141785147	1476141785218	e	69
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799224	1476141786282	1476141786322	n	78
+300908	3236769	I have 30 minutes then.	I have 30 minutes then.	153799230	1476141786690	1476141786746	.	190
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799415	1476141788946	1476141789194	SHIFT	16
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799419	1476141789138	1476141789195	S	83
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799422	1476141789514	1476141789586	t	84
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799424	1476141790114	1476141790170	i	73
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799427	1476141790290	1476141790346	l	76
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799429	1476141790418	1476141790466	l	76
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799515	1476141790498	1476141790586	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799518	1476141790930	1476141791074	SHIFT	16
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799523	1476141791570	1476141791674	h	72
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799527	1476141791659	1476141791738	i	73
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799532	1476141791722	1476141791778	s	83
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799536	1476141792226	1476141792274	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799541	1476141792330	1476141792378	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799547	1476141792594	1476141792650	u	85
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799606	1476141792698	1476141792762	s	83
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799610	1476141793963	1476141794034	t	84
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799611	1476141794011	1476141794050	i	73
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799613	1476141794298	1476141794402	l	76
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799616	1476141794530	1476141794594	i	73
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799901	1476141794730	1476141794810	n	78
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799903	1476141794874	1476141794939	g	71
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799907	1476141794939	1476141794994	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799912	1476141795555	1476141795602	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799915	1476141795666	1476141795706	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799920	1476141795762	1476141795802	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799925	1476141795962	1476141796010	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799931	1476141796026	1476141796090	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799938	1476141798787	1476141798842	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799946	1476141799194	1476141799242	l	76
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153799956	1476141799394	1476141799458	i	73
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800019	1476141799818	1476141799874	n	78
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800022	1476141799930	1476141800010	g	71
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800027	1476141799987	1476141800042	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800034	1476141800818	1476141800882	t	84
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800136	1476141800843	1476141800994	o	79
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800143	1476141801026	1476141801098	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800148	1476141801994	1476141802058	f	70
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800155	1476141802035	1476141802082	i	73
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800159	1476141802178	1476141802282	n	78
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800217	1476141802323	1476141802402	 	68
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800221	1476141803250	1476141803314	d	68
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800226	1476141803315	1476141803362	o	79
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800230	1476141803490	1476141803546	l	76
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800234	1476141803610	1476141803658	l	76
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800239	1476141803674	1476141803730	a	65
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800291	1476141803858	1476141803954	r	82
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800294	1476141804378	1476141804467	s	83
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800296	1476141804467	1476141804530	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800300	1476141804890	1476141804979	f	70
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800302	1476141804979	1476141805034	o	79
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800367	1476141805090	1476141805162	t	84
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800369	1476141805186	1476141805226	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800380	1476141805651	1476141805698	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800387	1476141805714	1476141805770	r	82
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800399	1476141805818	1476141805874	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800408	1476141806114	1476141806154	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800418	1476141806218	1476141806266	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800423	1476141806322	1476141806362	BKSP	8
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800430	1476141806426	1476141806482	r	82
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800442	1476141806498	1476141806562	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800445	1476141806986	1476141807050	t	84
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800450	1476141807051	1476141807106	h	72
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800455	1476141807138	1476141807218	e	69
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800462	1476141807219	1476141807290	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800605	1476141808211	1476141808275	q	81
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800609	1476141808275	1476141808322	u	85
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800614	1476141808546	1476141808650	a	65
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800619	1476141808986	1476141809082	r	82
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800623	1476141809530	1476141809578	t	84
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800678	1476141809628	1476141809706	e	69
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800679	1476141809786	1476141809866	r	82
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800681	1476141809930	1476141809970	 	32
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800683	1476141810547	1476141810586	e	69
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800685	1476141810618	1476141810666	n	78
+300908	3236782	Still hustling to find dollars for the quarter end.	Still hustling to find dollars for the quarter end.	153800739	1476141810698	1476141810778	d	68

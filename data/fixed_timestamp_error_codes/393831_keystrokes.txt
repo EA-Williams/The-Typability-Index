@@ -1,0 +1,760 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944046	1477417144389	1477417144581	SHIFT	16
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944052	1477417144517	1477417144644	I	73
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944057	1477417144677	1477417144828	 	32
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944065	1477417144853	1477417149364	s	83
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944070	1477417149364	1477417149365	p	80
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944081	1477417149365	1477417149366	o	79
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944047	1477417149368	1477417149368	k	75
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944055	1477417149368	1477417149369	e	69
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944062	1477417149369	1477417149370	 	32
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944071	1477417149370	1477417149370	w	87
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944080	1477417149371	1477417149372	t	73
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944048	1477417149375	1477417149376	SHIFT	16
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944299	1477417150396	1477417150460	BKSP	8
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944302	1477417150532	1477417150604	BKSP	8
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944305	1477417150676	1477417150756	BKSP	8
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944310	1477417150828	1477417150900	BKSP	8
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944318	1477417151060	1477417151524	SHIFT	16
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944314	1477417151340	1477417151468	G	71
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944320	1477417151820	1477417151916	r	82
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944327	1477417152004	1477417152108	e	69
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944331	1477417152412	1477417152517	g	71
+393831	4251056	I spoke with Greg.	I spoke with Greg.	201944369	1477417152932	1477417153092	.	190
+393831	4251077	Have a safe trip!	Have a safe trip!	201944685	1477417156125	1477417156325	SHIFT	16
+393831	4251077	Have a safe trip!	Have a safe trip!	201944693	1477417156269	1477417156389	H	72
+393831	4251077	Have a safe trip!	Have a safe trip!	201944701	1477417156533	1477417156629	a	65
+393831	4251077	Have a safe trip!	Have a safe trip!	201944712	1477417157005	1477417157181	c	67
+393831	4251077	Have a safe trip!	Have a safe trip!	201944720	1477417157197	1477417157325	e	69
+393831	4251077	Have a safe trip!	Have a safe trip!	201944727	1477417157605	1477417157677	BKSP	8
+393831	4251077	Have a safe trip!	Have a safe trip!	201944731	1477417157757	1477417157861	BKSP	8
+393831	4251077	Have a safe trip!	Have a safe trip!	201944737	1477417157965	1477417158085	v	86
+393831	4251077	Have a safe trip!	Have a safe trip!	201944777	1477417158285	1477417158389	e	69
+393831	4251077	Have a safe trip!	Have a safe trip!	201944779	1477417158461	1477417158581	 	32
+393831	4251077	Have a safe trip!	Have a safe trip!	201944780	1477417158701	1477417158805	a	65
+393831	4251077	Have a safe trip!	Have a safe trip!	201944781	1477417158797	1477417158917	 	32
+393831	4251077	Have a safe trip!	Have a safe trip!	201944782	1477417159005	1477417159117	s	83
+393831	4251077	Have a safe trip!	Have a safe trip!	201944907	1477417159477	1477417159597	a	65
+393831	4251077	Have a safe trip!	Have a safe trip!	201944908	1477417159877	1477417159989	d	68
+393831	4251077	Have a safe trip!	Have a safe trip!	201944910	1477417160133	1477417160189	e	69
+393831	4251077	Have a safe trip!	Have a safe trip!	201944913	1477417160597	1477417160661	BKSP	8
+393831	4251077	Have a safe trip!	Have a safe trip!	201944916	1477417160741	1477417160829	BKSP	8
+393831	4251077	Have a safe trip!	Have a safe trip!	201944920	1477417160853	1477417160933	f	70
+393831	4251077	Have a safe trip!	Have a safe trip!	201944924	1477417161013	1477417161101	e	69
+393831	4251077	Have a safe trip!	Have a safe trip!	201944992	1477417161173	1477417161300	 	32
+393831	4251077	Have a safe trip!	Have a safe trip!	201945001	1477417161844	1477417161948	r	82
+393831	4251077	Have a safe trip!	Have a safe trip!	201945006	1477417162085	1477417162228	i	73
+393831	4251077	Have a safe trip!	Have a safe trip!	201945012	1477417162324	1477417162468	p	80
+393831	4251077	Have a safe trip!	Have a safe trip!	201945147	1477417163508	1477417164756	SHIFT	16
+393831	4251077	Have a safe trip!	Have a safe trip!	201945144	1477417164660	1477417164724	!	49
+393831	4251095	Do we know what we need?	Do we know what we need?	201945352	1477417167116	1477417167596	SHIFT	16
+393831	4251095	Do we know what we need?	Do we know what we need?	201945353	1477417167468	1477417167612	D	68
+393831	4251095	Do we know what we need?	Do we know what we need?	201945355	1477417167700	1477417167860	o	79
+393831	4251095	Do we know what we need?	Do we know what we need?	201945356	1477417167884	1477417168036	 	32
+393831	4251095	Do we know what we need?	Do we know what we need?	201945357	1477417168244	1477417168332	w	87
+393831	4251095	Do we know what we need?	Do we know what we need?	201945358	1477417168404	1477417168500	e	69
+393831	4251095	Do we know what we need?	Do we know what we need?	201945398	1477417168556	1477417168676	 	32
+393831	4251095	Do we know what we need?	Do we know what we need?	201945402	1477417168924	1477417169036	k	75
+393831	4251095	Do we know what we need?	Do we know what we need?	201945406	1477417169108	1477417169236	n	78
+393831	4251095	Do we know what we need?	Do we know what we need?	201945409	1477417169244	1477417169388	o	79
+393831	4251095	Do we know what we need?	Do we know what we need?	201945535	1477417169364	1477417169452	w	87
+393831	4251095	Do we know what we need?	Do we know what we need?	201945540	1477417169508	1477417169604	 	32
+393831	4251095	Do we know what we need?	Do we know what we need?	201945545	1477417170732	1477417170829	w	87
+393831	4251095	Do we know what we need?	Do we know what we need?	201945551	1477417170837	1477417170949	h	72
+393831	4251095	Do we know what we need?	Do we know what we need?	201945553	1477417170965	1477417171069	a	65
+393831	4251095	Do we know what we need?	Do we know what we need?	201945632	1477417171237	1477417171365	 	32
+393831	4251095	Do we know what we need?	Do we know what we need?	201945637	1477417171685	1477417171789	w	87
+393831	4251095	Do we know what we need?	Do we know what we need?	201945642	1477417171853	1477417171917	e	69
+393831	4251095	Do we know what we need?	Do we know what we need?	201945647	1477417171989	1477417172109	 	32
+393831	4251095	Do we know what we need?	Do we know what we need?	201945650	1477417172509	1477417172645	n	78
+393831	4251095	Do we know what we need?	Do we know what we need?	201945831	1477417172669	1477417172749	e	69
+393831	4251095	Do we know what we need?	Do we know what we need?	201945836	1477417172829	1477417172893	e	69
+393831	4251095	Do we know what we need?	Do we know what we need?	201945840	1477417173029	1477417173101	d	68
+393831	4251095	Do we know what we need?	Do we know what we need?	201945850	1477417175237	1477417175485	SHIFT	16
+393831	4251095	Do we know what we need?	Do we know what we need?	201945843	1477417175397	1477417175477	?	191
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946045	1477417178613	1477417178917	SHIFT	16
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946375	1477417178853	1477417183660	T	84
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946051	1477417178965	1477417179068	h	72
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946055	1477417179108	1477417179205	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946059	1477417179317	1477417179429	r	82
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946065	1477417179461	1477417179548	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946117	1477417179621	1477417179764	 	32
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946119	1477417179788	1477417179908	w	87
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946122	1477417179972	1477417180132	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946125	1477417180628	1477417180756	r	82
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946130	1477417180780	1477417180884	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946209	1477417181068	1477417181204	 	32
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946215	1477417181396	1477417181484	f	70
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946218	1477417181612	1477417181692	r	82
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946226	1477417181804	1477417181884	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946231	1477417182396	1477417182500	q	81
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946348	1477417182605	1477417182716	u	85
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946356	1477417182884	1477417183012	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946363	1477417183124	1477417183260	n	78
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946496	1477417183580	1477417185340	t	84
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946391	1477417183756	1477417183892	 	32
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946477	1477417184180	1477417184276	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946482	1477417184348	1477417184460	l	76
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946488	1477417184517	1477417184644	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946494	1477417184916	1477417185012	c	67
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946614	1477417185236	1477417186684	t	84
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946592	1477417185564	1477417185636	r	82
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946600	1477417185708	1477417185860	i	73
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946605	1477417186092	1477417186188	c	67
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946610	1477417186412	1477417186540	i	73
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946825	1477417186588	1477417188717	t	84
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946682	1477417186812	1477417186908	y	89
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946691	1477417186996	1477417187132	 	32
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946700	1477417187316	1477417187452	a	65
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946713	1477417187508	1477417187637	n	78
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946810	1477417187628	1477417187732	d	68
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946814	1477417187756	1477417187876	 	32
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946817	1477417188172	1477417188333	w	87
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946821	1477417188373	1477417188533	a	65
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946949	1477417188557	1477417190381	t	84
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946829	1477417188781	1477417188917	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946879	1477417188941	1477417189029	r	82
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946882	1477417189125	1477417189269	 	32
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946886	1477417189325	1477417189413	s	83
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946892	1477417189477	1477417189597	h	72
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946896	1477417189805	1477417189917	o	79
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946944	1477417190013	1477417190109	r	82
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201946952	1477417190541	1477417190669	a	65
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201947070	1477417190781	1477417190869	h	71
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201947075	1477417191357	1477417191461	BKSP	8
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201947078	1477417191557	1477417191645	e	69
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201947085	1477417192005	1477417192117	s	83
+393831	4251111	There were frequent electricity and water shortages.	There were frequent electricity and water shortages.	201947088	1477417192365	1477417192453	.	190
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947362	1477417194573	1477417194773	SHIFT	16
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947364	1477417194693	1477417194829	H	72
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947366	1477417194901	1477417195045	o	79
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947368	1477417195213	1477417195325	q	81
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947370	1477417195757	1477417195853	BKSP	8
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947373	1477417195869	1477417195989	w	87
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947379	1477417196253	1477417196413	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947466	1477417196861	1477417196980	c	67
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947470	1477417197061	1477417197188	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947478	1477417197460	1477417197524	BKSP	8
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947484	1477417197612	1477417197700	BKSP	8
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947489	1477417197732	1477417197876	v	86
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947495	1477417198012	1477417198172	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947500	1477417198180	1477417198292	r	82
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947631	1477417198748	1477417198860	,	188
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947638	1477417198884	1477417199060	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947644	1477417199516	1477417199652	h	72
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947651	1477417199949	1477417200044	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947657	1477417200092	1477417200220	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947790	1477417200340	1477417200452	i	73
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947796	1477417200492	1477417200572	s	83
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947801	1477417200620	1477417200748	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947808	1477417201041	1477417201153	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947812	1477417201657	1477417201761	x	88
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947940	1477417202105	1477417202241	p	80
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947942	1477417202305	1477417202441	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947945	1477417203185	1477417203313	c	67
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948013	1477417203929	1477417205161	t	84
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201947950	1477417204161	1477417204265	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948009	1477417204569	1477417204657	d	68
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948011	1477417204753	1477417204905	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948224	1477417205049	1477417208082	t	84
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948016	1477417205153	1477417205289	o	79
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948019	1477417205329	1477417205473	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948082	1477417205923	1477417206018	p	80
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948086	1477417206154	1477417206290	l	76
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948089	1477417206338	1477417206466	a	65
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948095	1477417206538	1477417206650	y	89
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948101	1477417206730	1477417206850	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948204	1477417207226	1477417207354	i	73
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948212	1477417207418	1477417207538	n	78
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948219	1477417207554	1477417207698	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948229	1477417208098	1477417208202	h	72
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948337	1477417208298	1477417208434	i	73
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948342	1477417208458	1477417208594	s	83
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948346	1477417208650	1477417208722	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948352	1477417209074	1477417209178	w	87
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948358	1477417209666	1477417209722	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948495	1477417209826	1477417209882	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948500	1477417209986	1477417210138	k	75
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948504	1477417211426	1477417211482	'	222
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948511	1477417211658	1477417211770	s	83
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948518	1477417211826	1477417211938	 	32
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948618	1477417212466	1477417212562	g	71
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948622	1477417212634	1477417212762	a	65
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948626	1477417212794	1477417212938	m	77
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948630	1477417212906	1477417213034	e	69
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948636	1477417213138	1477417213202	s	83
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948730	1477417213682	1477417213746	BKSP	8
+393831	4251139	However, he is expected to play in this week's game.	However, he is expected to play in this week's game.	201948732	1477417214514	1477417214545	.	190
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201948926	1477417216793	1477417216969	SHIFT	16
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201948931	1477417216929	1477417217057	H	72
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201948937	1477417217097	1477417217249	e	69
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201948942	1477417217281	1477417217409	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201948948	1477417217481	1477417217617	i	73
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201948952	1477417217618	1477417217737	s	83
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949008	1477417217713	1477417217841	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949012	1477417217873	1477417218025	l	76
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949016	1477417218081	1477417218193	i	73
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949018	1477417218185	1477417218297	s	83
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949312	1477417218409	1477417221681	t	84
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949028	1477417218569	1477417218729	e	69
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949089	1477417218889	1477417219017	d	68
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949093	1477417219073	1477417219209	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949098	1477417219233	1477417219353	a	65
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949100	1477417219473	1477417219585	s	83
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949105	1477417219633	1477417219777	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949281	1477417220305	1477417220409	q	81
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949287	1477417220505	1477417220625	u	85
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949296	1477417220985	1477417221097	e	69
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949306	1477417221169	1477417221297	s	83
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949538	1477417221577	1477417224762	t	84
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949384	1477417221777	1477417221897	i	73
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949387	1477417221961	1477417222113	o	79
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949392	1477417222153	1477417222289	n	78
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949395	1477417222305	1477417222409	a	65
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949402	1477417222753	1477417222881	b	66
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949463	1477417222945	1477417223097	l	76
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949466	1477417223105	1477417223201	e	69
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949470	1477417223306	1477417223450	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949473	1477417223706	1477417223802	f	70
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949479	1477417223938	1477417224114	o	79
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949528	1477417224106	1477417224178	r	82
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949532	1477417224266	1477417224402	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949542	1477417224818	1477417224898	h	72
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949549	1477417224978	1477417225106	i	73
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949683	1477417225090	1477417225218	s	83
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949686	1477417225242	1477417225362	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949690	1477417225994	1477417226090	w	87
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949695	1477417226362	1477417226442	e	69
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949696	1477417226514	1477417226578	e	69
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949700	1477417226730	1477417226882	k	75
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949865	1477417227842	1477417227970	'	222
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949870	1477417228250	1477417228330	s	83
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949877	1477417228506	1477417228690	 	32
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949883	1477417229002	1477417229066	g	71
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949890	1477417229154	1477417229306	a	65
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949939	1477417229314	1477417229450	m	77
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949945	1477417229410	1477417229546	e	69
+393831	4251171	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	201949952	1477417229770	1477417229874	.	190
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950136	1477417231786	1477417231969	SHIFT	16
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950144	1477417231946	1477417232073	H	72
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950148	1477417232089	1477417232217	e	69
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950152	1477417232202	1477417232321	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950155	1477417232410	1477417232545	o	79
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950157	1477417232593	1477417232689	n	78
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950196	1477417232777	1477417232922	l	76
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950198	1477417233042	1477417233129	y	89
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950200	1477417233217	1477417233361	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950206	1477417233497	1477417233641	g	71
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950209	1477417233705	1477417233849	a	65
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950262	1477417233993	1477417234113	i	73
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950266	1477417234193	1477417234305	n	78
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950274	1477417234473	1477417234569	e	69
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950281	1477417234713	1477417234825	d	68
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950287	1477417234873	1477417234993	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950469	1477417235673	1477417235761	1	49
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950475	1477417236145	1477417236209	7	55
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950480	1477417236377	1477417236537	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950482	1477417237241	1477417237337	y	89
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950486	1477417237353	1477417237465	a	65
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950551	1477417237553	1477417237665	r	82
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950555	1477417237913	1477417238025	d	68
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950561	1477417238153	1477417238249	s	83
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950566	1477417238313	1477417238457	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950572	1477417238537	1477417238689	o	79
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950666	1477417238793	1477417238921	n	78
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950672	1477417238905	1477417239065	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950680	1477417239489	1477417239609	n	78
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950687	1477417239681	1477417239801	i	73
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950695	1477417239881	1477417239993	n	78
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950770	1477417240041	1477417240129	e	69
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950773	1477417240169	1477417240297	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950780	1477417240617	1477417240730	c	67
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950786	1477417240762	1477417240930	a	65
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950790	1477417240986	1477417241074	r	82
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950869	1477417241162	1477417241226	r	82
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950873	1477417241298	1477417241450	i	73
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950881	1477417241466	1477417241570	e	69
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950886	1477417241754	1477417241890	s	83
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950890	1477417242154	1477417242282	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950941	1477417242594	1477417242730	i	73
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950947	1477417242786	1477417242906	n	78
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950953	1477417242930	1477417243074	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201950962	1477417243226	1477417243330	h	72
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951086	1477417243322	1477417243410	e	69
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951094	1477417243426	1477417243562	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951102	1477417243874	1477417244026	SHIFT	16
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951110	1477417243930	1477417244074	J	74
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951118	1477417244338	1477417244450	a	65
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951125	1477417244698	1477417244802	g	71
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951131	1477417244906	1477417245026	u	85
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951290	1477417245210	1477417245322	a	65
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951297	1477417245450	1477417245578	r	82
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951304	1477417245967	1477417246042	s	83
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951312	1477417246154	1477417246314	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951318	1477417246850	1477417247018	 	32
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951465	1477417247218	1477417247346	p	80
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951468	1477417247538	1477417247666	r	82
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951471	1477417247842	1477417248002	e	69
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951475	1477417248698	1477417248882	v	86
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951480	1477417249002	1477417249106	i	73
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951560	1477417249330	1477417249465	o	79
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951565	1477417249538	1477417249658	u	85
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951571	1477417249674	1477417249770	s	83
+393831	4251202	He only gained 17 yards on nine carries in the Jaguars  previous.	He only gained 17 yards on nine carries in the Jaguars  previous.	201951578	1477417250017	1477417250129	.	190
+393831	4251242	It was very nice.	It was very nice.	201951877	1477417252410	1477417252569	SHIFT	16
+393831	4251242	It was very nice.	It was very nice.	201951882	1477417252505	1477417252633	I	73
+393831	4251242	It was very nice.	It was very nice.	201951888	1477417253569	1477417253737	 	32
+393831	4251242	It was very nice.	It was very nice.	201951894	1477417254033	1477417254169	w	87
+393831	4251242	It was very nice.	It was very nice.	201951898	1477417254290	1477417254417	a	65
+393831	4251242	It was very nice.	It was very nice.	201951992	1477417254481	1477417254601	s	83
+393831	4251242	It was very nice.	It was very nice.	201951997	1477417254649	1477417254769	 	32
+393831	4251242	It was very nice.	It was very nice.	201952006	1477417255097	1477417255241	v	86
+393831	4251242	It was very nice.	It was very nice.	201952014	1477417255313	1477417255417	e	69
+393831	4251242	It was very nice.	It was very nice.	201952019	1477417255809	1477417255881	r	82
+393831	4251242	It was very nice.	It was very nice.	201952178	1477417255937	1477417256057	y	89
+393831	4251242	It was very nice.	It was very nice.	201952187	1477417256529	1477417256673	 	32
+393831	4251242	It was very nice.	It was very nice.	201952195	1477417256865	1477417257009	n	78
+393831	4251242	It was very nice.	It was very nice.	201952204	1477417257049	1477417257161	i	73
+393831	4251242	It was very nice.	It was very nice.	201952213	1477417257505	1477417257617	c	67
+393831	4251242	It was very nice.	It was very nice.	201952287	1477417257713	1477417257825	e	69
+393831	4251242	It was very nice.	It was very nice.	201952290	1477417258298	1477417258442	.	190
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952510	1477417260146	1477417260306	SHIFT	16
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952517	1477417260282	1477417260410	H	72
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952524	1477417260474	1477417260650	o	79
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952531	1477417260914	1477417261054	w	87
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952536	1477417261262	1477417261414	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952544	1477417261590	1477417261694	w	87
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952614	1477417261686	1477417261846	o	79
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952617	1477417261878	1477417261966	u	85
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952621	1477417262054	1477417262214	l	76
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952625	1477417262190	1477417262318	d	68
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952628	1477417262350	1477417262486	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953083	1477417262686	1477417267774	t	84
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952768	1477417262806	1477417263006	o	79
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952771	1477417263016	1477417263134	u	85
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952773	1477417263502	1477417263542	BKSP	8
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952774	1477417263630	1477417263694	BKSP	8
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952777	1477417263782	1477417263862	BKSP	8
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952781	1477417263974	1477417264070	y	89
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952789	1477417264422	1477417264598	o	79
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952799	1477417264622	1477417264718	u	85
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952935	1477417264814	1477417264950	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952939	1477417264942	1477417265086	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952944	1477417265230	1477417265270	s	83
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952952	1477417265750	1477417265862	BKSP	8
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952957	1477417265926	1477417266086	x	88
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952961	1477417266518	1477417266638	p	80
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201952999	1477417266790	1477417266910	l	76
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953004	1477417266926	1477417267022	a	65
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953008	1477417267022	1477417267149	i	73
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953015	1477417267222	1477417267333	n	78
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953023	1477417267454	1477417267597	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953518	1477417267654	1477417272165	t	84
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953089	1477417267781	1477417267886	h	72
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953097	1477417267886	1477417267982	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953103	1477417267974	1477417268101	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953110	1477417268357	1477417268453	d	68
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953185	1477417268765	1477417268853	i	73
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953192	1477417268893	1477417268965	f	70
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953199	1477417269109	1477417269189	f	70
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953208	1477417269309	1477417269445	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953217	1477417269477	1477417269573	r	82
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953305	1477417269949	1477417270045	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953313	1477417270181	1477417270325	n	78
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953321	1477417270573	1477417270725	c	67
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953329	1477417270742	1477417270845	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953336	1477417270853	1477417270989	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953509	1477417271389	1477417271533	b	66
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953513	1477417271765	1477417271893	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953767	1477417272053	1477417275237	t	84
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953525	1477417272750	1477417272853	w	87
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953530	1477417272997	1477417273069	n	78
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953672	1477417273157	1477417273221	n	78
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953680	1477417273669	1477417273717	BKSP	8
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953686	1477417273805	1477417273901	BKSP	8
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953689	1477417273949	1477417274013	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953691	1477417274325	1477417274405	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953693	1477417274533	1477417274669	n	78
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953695	1477417274741	1477417274885	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953783	1477417275093	1477417276006	t	84
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953772	1477417275221	1477417275342	h	72
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953777	1477417275301	1477417275429	e	69
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953781	1477417275469	1477417275597	 	32
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953933	1477417276230	1477417276334	w	87
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953938	1477417276398	1477417276558	o	79
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953946	1477417277630	1477417277814	SHIFT	16
+393831	4251261	How would you explain the difference between the two?	How would you explain the difference between the two?	201953956	1477417277750	1477417277886	?	191
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954194	1477417280718	1477417280974	SHIFT	16
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954198	1477417280902	1477417281046	H	72
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954203	1477417281134	1477417281254	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954210	1477417281262	1477417281406	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954216	1477417281734	1477417281854	d	68
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954548	1477417281894	1477417282062	i	73
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954221	1477417281918	1477417281974	j	74
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954553	1477417282590	1477417282670	BKSP	8
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954562	1477417283822	1477417283974	s	83
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954570	1477417284814	1477417284941	p	80
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954578	1477417285078	1477417285213	u	85
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954817	1477417285254	1477417287861	t	84
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954592	1477417285670	1477417285781	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954693	1477417285918	1477417286013	d	68
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954700	1477417286133	1477417286261	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954706	1477417286525	1477417286661	r	82
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954710	1477417286709	1477417286813	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954713	1477417287037	1477417287173	p	80
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954810	1477417287261	1477417287421	o	79
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954814	1477417287509	1477417287581	r	82
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954885	1477417287797	1477417288709	t	84
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954821	1477417288061	1477417288197	s	83
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954824	1477417288301	1477417288437	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954894	1477417288597	1477417289093	t	84
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954887	1477417288710	1477417288829	h	72
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954890	1477417288845	1477417288965	a	65
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955134	1477417288989	1477417291829	t	84
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201954899	1477417289141	1477417289245	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955118	1477417290317	1477417290797	SHIFT	16
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955123	1477417290749	1477417290837	W	87
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955126	1477417291037	1477417291149	h	72
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955128	1477417291269	1477417291405	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955131	1477417291493	1477417291693	a	65
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955734	1477417291725	1477417298742	t	84
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955404	1477417292261	1477417292413	l	76
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955408	1477417292597	1477417292710	y	89
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955414	1477417292805	1477417292941	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955418	1477417294446	1477417294534	BKSP	8
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955423	1477417294614	1477417294710	BKSP	8
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955426	1477417295174	1477417295278	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955431	1477417295414	1477417295502	y	89
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955509	1477417295654	1477417295782	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955516	1477417295966	1477417296078	w	87
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955521	1477417296070	1477417296214	o	79
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955524	1477417296246	1477417296342	u	85
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955527	1477417296382	1477417296566	l	76
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955623	1477417296598	1477417296718	d	68
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955631	1477417297134	1477417297246	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955641	1477417297614	1477417297734	b	66
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955651	1477417297846	1477417297974	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955663	1477417298022	1477417298158	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955720	1477417298310	1477417298486	o	79
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955727	1477417298494	1477417298606	u	85
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955741	1477417298758	1477417298878	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955752	1477417299094	1477417299206	f	70
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955811	1477417299214	1477417299350	o	79
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955817	1477417299390	1477417299510	u	85
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955823	1477417299678	1477417299790	r	82
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955829	1477417299974	1477417300102	 	32
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955834	1477417300198	1477417300318	w	87
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955924	1477417300462	1477417300542	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955927	1477417300598	1477417300630	e	69
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955929	1477417300782	1477417300894	k	75
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955932	1477417300974	1477417301070	s	83
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201955936	1477417301494	1477417301622	.	190
+393831	4251305	He disputed reports that Wheatley would be out four weeks.	He disputed reports that Wheatley would be out four weeks. 	201956003	1477417301678	1477417301782	 	32
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956211	1477417304133	1477417304261	SHIFT	16
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956216	1477417304221	1477417304349	I	73
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956224	1477417304389	1477417304549	 	32
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956233	1477417304566	1477417304693	a	65
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956242	1477417304741	1477417304869	m	77
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956253	1477417304917	1477417305053	 	32
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956415	1477417305173	1477417305277	u	85
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956421	1477417305389	1477417305501	n	78
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956432	1477417305533	1477417305661	a	65
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956439	1477417306709	1477417306821	v	86
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956447	1477417307246	1477417307381	a	65
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956519	1477417307413	1477417307493	i	73
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956523	1477417307597	1477417307749	l	76
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956531	1477417307789	1477417307909	a	65
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956536	1477417308093	1477417308245	v	86
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956542	1477417308349	1477417308485	l	76
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956628	1477417308733	1477417308789	BKSP	8
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956630	1477417308885	1477417308957	BKSP	8
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956634	1477417309013	1477417309133	b	66
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956639	1477417309165	1477417309325	l	76
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956647	1477417309301	1477417309421	e	69
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956654	1477417309469	1477417309573	 	32
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956662	1477417309661	1477417309741	f	70
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956700	1477417309789	1477417309925	o	79
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956704	1477417309925	1477417310007	r	82
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956709	1477417310029	1477417310157	 	32
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957125	1477417310229	1477417314902	t	84
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956719	1477417310365	1477417310453	h	72
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956976	1477417310437	1477417310525	e	69
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956980	1477417310549	1477417310670	 	32
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956986	1477417311070	1477417311174	1	49
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957113	1477417311774	1477417313694	SHIFT	16
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956991	1477417311894	1477417312038	P	80
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201956996	1477417312678	1477417312814	<	188
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957002	1477417313230	1477417313310	BKSP	8
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957008	1477417313518	1477417313622	M	77
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957115	1477417313766	1477417313902	 	32
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957119	1477417314454	1477417314582	m	77
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957120	1477417314598	1477417314710	e	69
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957128	1477417314830	1477417315054	t	84
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957277	1477417315022	1477417316422	t	84
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957269	1477417315462	1477417315542	BKSP	8
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957273	1477417315854	1477417315974	BKSP	8
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957275	1477417316014	1477417316118	e	69
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957279	1477417316502	1477417316614	i	73
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957282	1477417316670	1477417316798	n	78
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957286	1477417316822	1477417316918	g	71
+393831	4251349	I am unavailable for the 1PM meeting.	I am unavailable for the 1PM meeting.	201957328	1477417317110	1477417317246	.	190
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957661	1477417319342	1477417319958	SHIFT	16
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957679	1477417319958	1477417321442	r	84
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957670	1477417320502	1477417320605	BKSP	8
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957681	1477417320613	1477417321850	SHIFT	16
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957674	1477417320902	1477417320989	BKSP	8
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958071	1477417321418	1477417326802	T	84
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957683	1477417322138	1477417322226	h	72
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957685	1477417322282	1477417322362	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957774	1477417322378	1477417322522	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957776	1477417322642	1477417322794	s	83
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957778	1477417322866	1477417322994	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957781	1477417323274	1477417323394	c	67
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957785	1477417323410	1477417323554	o	79
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957821	1477417323578	1477417323698	n	78
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957826	1477417323778	1477417323890	d	68
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957833	1477417323986	1477417324114	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957842	1477417324282	1477417324394	d	68
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957846	1477417324514	1477417324682	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957912	1477417324779	1477417324954	a	65
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957913	1477417325146	1477417325298	l	76
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957918	1477417325354	1477417325498	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957925	1477417325586	1477417325714	i	73
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201957935	1477417325746	1477417325802	s	83
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958053	1477417326138	1477417326210	BKSP	8
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958059	1477417326386	1477417326484	n	78
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958066	1477417326530	1477417326682	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958150	1477417326738	1477417328803	t	84
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958075	1477417327202	1477417327282	BKSP	8
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958077	1477417327706	1477417327818	q	81
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958081	1477417327906	1477417328026	u	85
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958139	1477417328315	1477417328459	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958144	1477417328539	1477417328667	s	83
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958454	1477417328691	1477417332827	t	84
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958157	1477417328891	1477417329019	i	73
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958164	1477417329075	1477417329219	o	79
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958255	1477417329779	1477417329883	n	78
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958262	1477417329923	1477417330083	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958269	1477417330243	1477417330371	w	87
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958276	1477417330363	1477417330443	h	72
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958284	1477417330531	1477417330691	i	73
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958352	1477417330851	1477417330979	c	67
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958355	1477417331011	1477417331131	h	72
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958360	1477417331171	1477417331307	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958365	1477417331435	1477417331563	n	78
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958370	1477417331627	1477417331699	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958435	1477417331827	1477417331875	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958438	1477417332043	1477417332115	d	68
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958444	1477417332275	1477417332379	s	83
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958449	1477417332491	1477417332619	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958494	1477417332851	1477417333003	o	79
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958496	1477417332995	1477417333139	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958500	1477417333347	1477417333451	b	66
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958503	1477417333603	1477417333707	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958509	1477417333763	1477417333899	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958586	1477417334043	1477417334179	r	82
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958588	1477417334227	1477417334339	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958593	1477417334595	1477417334691	s	83
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958597	1477417334699	1477417334819	o	79
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958601	1477417334939	1477417335099	l	76
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958699	1477417335404	1477417335508	v	86
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958701	1477417335611	1477417335731	e	69
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958704	1477417335987	1477417336059	d	68
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958708	1477417336155	1477417336291	 	32
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958712	1477417336500	1477417336603	a	65
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958815	1477417336731	1477417336859	s	83
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958821	1477417337043	1477417337091	a	65
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958829	1477417337235	1477417337323	p	80
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958832	1477417337779	1477417337891	.	190
+393831	4251371	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap. 	201958837	1477417337971	1477417338010	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959185	1477417340586	1477417341202	SHIFT	16
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959193	1477417341114	1477417341250	W	87
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959201	1477417341458	1477417341538	e	69
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959208	1477417341698	1477417341842	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959217	1477417341914	1477417342026	l	76
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959222	1477417342162	1477417342298	o	79
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959349	1477417342290	1477417342410	s	83
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959478	1477417342474	1477417345764	t	84
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959354	1477417342634	1477417342762	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959359	1477417343474	1477417343554	1	49
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959363	1477417343938	1477417344090	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959369	1477417344210	1477417344330	p	80
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959414	1477417344490	1477417344642	l	76
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959420	1477417344738	1477417344858	a	65
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959424	1477417344890	1477417345002	y	89
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959430	1477417345066	1477417345226	e	69
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959437	1477417345234	1477417345354	r	82
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959476	1477417345386	1477417345530	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960163	1477417345651	1477417354067	t	84
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959483	1477417345755	1477417345859	h	72
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959487	1477417345923	1477417346051	i	73
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959490	1477417346067	1477417346155	s	83
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959568	1477417346259	1477417346395	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959574	1477417346667	1477417346755	w	87
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959577	1477417346987	1477417347059	e	69
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959585	1477417347139	1477417347195	e	69
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959593	1477417347291	1477417347459	k	75
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959678	1477417347491	1477417347635	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959684	1477417347835	1477417347963	w	87
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959691	1477417347971	1477417348067	h	72
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959696	1477417348107	1477417348251	o	79
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959702	1477417348347	1477417348459	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959867	1477417349219	1477417349355	p	80
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959868	1477417349667	1477417349795	i	73
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959869	1477417349891	1477417350035	c	67
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959870	1477417350420	1477417350491	e	69
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201959872	1477417350803	1477417350931	d	68
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960043	1477417351243	1477417351315	BKSP	8
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960046	1477417351411	1477417351483	BKSP	8
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960052	1477417351715	1477417351827	k	75
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960057	1477417351883	1477417351971	e	69
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960065	1477417352091	1477417352195	d	68
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960070	1477417352259	1477417352387	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960077	1477417352931	1477417353339	SHIFT	16
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960150	1477417353171	1477417353387	B	66
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960153	1477417353595	1477417353723	a	65
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960159	1477417353747	1477417353883	l	76
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960169	1477417354171	1477417354283	i	73
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960175	1477417354571	1477417354739	m	77
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960270	1477417354803	1477417354955	o	79
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960271	1477417354963	1477417355083	r	82
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960272	1477417355115	1477417355251	e	69
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960275	1477417355611	1477417355731	,	188
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960279	1477417355763	1477417355914	 	32
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960375	1477417356163	1477417356290	s	83
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960382	1477417356314	1477417356442	o	79
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960390	1477417356499	1477417356578	r	82
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960402	1477417356650	1477417356722	r	82
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960407	1477417356874	1477417356986	y	89
+393831	4251401	We lost 1 player this week who picked Baltimore, sorry.	We lost 1 player this week who picked Baltimore, sorry.	201960444	1477417357298	1477417357426	.	190
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960752	1477417359162	1477417359354	SHIFT	16
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960758	1477417359266	1477417359402	M	77
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960769	1477417359770	1477417359858	a	65
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960776	1477417359994	1477417360058	n	78
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960783	1477417360250	1477417360346	y	89
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960787	1477417360418	1477417360570	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961396	1477417360690	1477417367467	t	84
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960963	1477417360826	1477417360930	o	79
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960972	1477417360938	1477417361066	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960981	1477417361178	1477417361306	n	78
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960988	1477417361634	1477417361682	BKSP	8
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201960995	1477417361770	1477417361826	BKSP	8
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961001	1477417361898	1477417361962	BKSP	8
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961009	1477417362706	1477417362826	o	79
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961072	1477417362858	1477417363002	w	87
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961077	1477417362978	1477417363107	n	78
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961084	1477417363283	1477417363443	s	83
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961090	1477417363867	1477417364011	p	80
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961100	1477417364067	1477417364179	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961159	1477417364212	1477417364331	o	79
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961163	1477417364411	1477417364531	p	80
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961165	1477417364675	1477417364811	l	76
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961166	1477417364843	1477417364939	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961167	1477417364963	1477417365091	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961194	1477417365299	1477417365387	w	87
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961198	1477417365379	1477417365475	h	72
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961203	1477417365555	1477417365691	o	79
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961209	1477417365715	1477417365875	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961215	1477417365979	1477417366083	h	72
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961307	1477417366123	1477417366259	a	65
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961311	1477417366371	1477417366483	d	68
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961316	1477417366515	1477417366643	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961321	1477417366987	1477417367099	g	71
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961325	1477417367163	1477417367315	a	65
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961663	1477417367339	1477417371323	t	84
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961400	1477417367475	1477417367579	h	72
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961404	1477417367587	1477417367747	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961409	1477417367779	1477417367875	r	82
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961414	1477417368419	1477417368515	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961506	1477417368643	1477417368739	d	68
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961510	1477417368835	1477417368963	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961515	1477417369235	1477417369363	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961520	1477417369435	1477417369587	a	65
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961525	1477417369611	1477417369731	r	82
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961598	1477417369795	1477417369915	l	76
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961603	1477417369995	1477417370115	i	73
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961604	1477417370131	1477417370291	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961607	1477417370291	1477417370395	r	82
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961610	1477417370491	1477417370627	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961653	1477417370731	1477417370859	o	79
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961656	1477417370923	1477417371051	n	78
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961660	1477417371099	1477417371235	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961666	1477417371411	1477417371491	h	72
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961726	1477417371499	1477417371571	e	69
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961733	1477417371619	1477417371739	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961739	1477417372043	1477417372187	m	77
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961743	1477417372179	1477417372299	a	65
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961750	1477417372315	1477417372419	i	73
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961832	1477417372507	1477417372603	n	78
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961837	1477417372891	1477417373027	 	32
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961840	1477417373115	1477417373211	r	82
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961845	1477417373323	1477417373466	o	79
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961848	1477417373603	1477417373722	a	65
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961919	1477417373883	1477417373970	d	68
+393831	4251439	Many townspeople who had gathered earlier on the main road.	Many townspeople who had gathered earlier on the main road.	201961921	1477417374227	1477417374322	.	190
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962318	1477417377051	1477417377554	SHIFT	16
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963160	1477417377490	1477417388375	T	84
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962322	1477417377627	1477417377738	h	72
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962324	1477417377739	1477417377826	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962328	1477417377827	1477417377970	 	32
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962330	1477417378466	1477417378842	SHIFT	16
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962553	1477417378770	1477417378882	A	65
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962561	1477417378906	1477417379034	l	76
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962566	1477417379138	1477417379194	l	76
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962571	1477417380739	1477417380803	-	189
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962575	1477417381535	1477417381927	SHIFT	16
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962577	1477417381823	1477417381959	E	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962579	1477417382023	1477417382119	m	77
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962867	1477417382215	1477417382319	m	77
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962872	1477417382775	1477417382839	BKSP	8
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962877	1477417384287	1477417384391	p	80
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962885	1477417384599	1477417384711	l	76
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962891	1477417385039	1477417385119	y	89
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962896	1477417385511	1477417385599	BKSP	8
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201962901	1477417385863	1477417385983	o	79
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963012	1477417386263	1477417386351	y	89
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963015	1477417386695	1477417386791	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963018	1477417386871	1477417386983	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963023	1477417387103	1477417387239	 	32
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963029	1477417387735	1477417387927	SHIFT	16
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963153	1477417387887	1477417388023	M	77
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963157	1477417388095	1477417388199	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963174	1477417388311	1477417389263	t	84
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963164	1477417388823	1477417388903	BKSP	8
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963168	1477417388951	1477417389039	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963675	1477417389207	1477417395206	t	84
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963179	1477417389551	1477417389663	i	73
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963267	1477417389727	1477417389839	n	78
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963271	1477417390407	1477417390447	g	71
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963273	1477417390623	1477417390751	 	32
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963276	1477417391183	1477417391262	w	87
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963282	1477417391279	1477417391375	i	73
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963405	1477417391495	1477417391574	l	76
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963410	1477417391663	1477417391775	l	76
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963416	1477417391839	1477417391982	 	32
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963419	1477417392886	1477417392982	b	66
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963425	1477417393166	1477417393254	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963485	1477417393366	1477417393502	 	32
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963488	1477417393662	1477417393758	h	72
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963492	1477417393806	1477417393910	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963499	1477417393958	1477417394094	l	76
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963509	1477417394278	1477417394398	d	68
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963672	1477417394470	1477417394606	 	32
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963692	1477417395134	1477417396278	t	84
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963682	1477417395766	1477417395854	BKSP	8
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963687	1477417395910	1477417396230	SHIFT	16
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963985	1477417396150	1477417400495	T	84
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963693	1477417396422	1477417396542	u	85
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963695	1477417396582	1477417396638	r	82
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963821	1477417397006	1477417397094	BKSP	8
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963825	1477417397119	1477417397222	e	69
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963832	1477417397590	1477417397718	s	83
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963840	1477417397990	1477417398128	d	68
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963847	1477417398143	1477417398295	a	65
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963853	1477417398359	1477417398471	y	89
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963960	1477417398919	1477417399039	,	188
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963965	1477417399071	1477417399223	 	32
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963972	1477417399375	1477417399559	SHIFT	16
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963976	1477417399431	1477417399575	O	79
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963981	1477417400143	1477417400231	c	67
+393831	4251469	The All-Employee Meeting will be held Tuesday, Oct.	The All-Employee Meeting will be held Tuesday, Oct.	201963998	1477417400631	1477417400767	.	190

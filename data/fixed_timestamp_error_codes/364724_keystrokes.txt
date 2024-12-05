@@ -1,0 +1,649 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799405	1476982561738	1476982561918	SHIFT	16
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799409	1476982561831	1476982561926	NA	73
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799413	1476982561999	1476982562111	NA	32
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799418	1476982562118	1476982562197	NA	72
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799420	1476982562183	1476982562262	NA	65
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799423	1476982562310	1476982562408	NA	86
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799466	1476982562383	1476982562477	NA	69
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799469	1476982562463	1476982562606	NA	32
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799474	1476982562766	1476982562885	NA	51
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799478	1476982562854	1476982562957	NA	48
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799481	1476982563406	1476982563525	NA	32
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799517	1476982563486	1476982563573	NA	77
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799523	1476982563661	1476982563741	NA	73
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799530	1476982563837	1476982563885	NA	78
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799534	1476982563973	1476982564093	NA	85
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799547	1476982564014	1476982564102	NA	84
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799549	1476982564069	1476982564141	NA	69
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799554	1476982564198	1476982564277	NA	83
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799559	1476982564230	1476982564373	NA	32
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799565	1476982564309	1476982564413	NA	84
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799570	1476982564397	1476982564488	NA	72
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799576	1476982564485	1476982564589	NA	69
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799578	1476982564565	1476982564621	NA	78
+364724	3931970	I have 30 minutes then.	I have 30 minutes then.	186799582	1476982564757	1476982564837	NA	190
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799732	1476982566007	1476982566263	SHIFT	16
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799735	1476982566176	1476982566278	NA	73
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799740	1476982566425	1476982566509	NA	222
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799746	1476982566623	1476982566695	NA	76
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799753	1476982566767	1476982566878	NA	76
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799760	1476982566886	1476982566957	NA	32
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799797	1476982566934	1476982567038	NA	83
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799800	1476982567087	1476982567165	NA	69
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799803	1476982567161	1476982567240	NA	78
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799807	1476982567245	1476982567350	NA	68
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799811	1476982567364	1476982567502	NA	32
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799848	1476982567469	1476982567541	NA	89
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799854	1476982567535	1476982567605	NA	79
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799861	1476982567682	1476982567750	NA	85
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799866	1476982567734	1476982567853	NA	32
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799873	1476982567861	1476982567925	NA	77
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799878	1476982568023	1476982568094	NA	73
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799897	1476982568166	1476982568230	NA	78
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799901	1476982568311	1476982568406	NA	85
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799906	1476982568353	1476982568438	NA	84
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799909	1476982568413	1476982568482	NA	69
+364724	3931982	I'll send you minutes.	I'll send you minutes.	186799912	1476982568526	1476982568622	NA	83
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800049	1476982569774	1476982569933	SHIFT	16
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800052	1476982569870	1476982569958	NA	73
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800057	1476982570007	1476982570106	NA	84
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800061	1476982570127	1476982570271	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800064	1476982570239	1476982570333	NA	87
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800087	1476982570327	1476982570463	NA	65
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800092	1476982570431	1476982570512	NA	83
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800096	1476982570477	1476982570582	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800099	1476982570639	1476982570710	NA	84
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800103	1476982570743	1476982570829	NA	72
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800144	1476982570790	1476982570870	NA	69
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800147	1476982570893	1476982570990	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800155	1476982571007	1476982571085	NA	66
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800162	1476982571103	1476982571183	NA	69
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800170	1476982571239	1476982571329	NA	83
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800210	1476982571326	1476982571390	NA	84
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800218	1476982571398	1476982571566	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800225	1476982571503	1476982571703	NA	68
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800232	1476982571615	1476982571711	NA	73
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800237	1476982571783	1476982571846	NA	78
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800242	1476982571925	1476982571989	NA	78
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800327	1476982571959	1476982572030	NA	69
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800331	1476982571997	1476982572070	NA	82
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800334	1476982572439	1476982572527	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800340	1476982572767	1476982572822	NA	84
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800347	1476982572895	1476982572958	NA	65
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800353	1476982573023	1476982573102	NA	66
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800371	1476982573143	1476982573222	NA	76
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800374	1476982573174	1476982573294	NA	69
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800377	1476982573303	1476982573440	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800378	1476982573407	1476982573533	NA	67
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800404	1476982573493	1476982573574	NA	79
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800414	1476982573663	1476982573763	NA	78
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800419	1476982573702	1476982573764	NA	86
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800424	1476982573759	1476982573873	NA	69
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800427	1476982573838	1476982573926	NA	82
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800429	1476982573959	1476982574037	NA	83
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800489	1476982574119	1476982574222	NA	65
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800493	1476982574382	1476982574469	NA	84
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800497	1476982574559	1476982574645	NA	73
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800502	1476982574719	1476982574772	NA	79
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800505	1476982574863	1476982574973	NA	78
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800523	1476982574927	1476982575085	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800528	1476982575014	1476982575094	NA	87
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800532	1476982575071	1476982575174	NA	69
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800536	1476982575262	1476982575374	NA	222
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800540	1476982575431	1476982575541	NA	86
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800571	1476982575517	1476982575630	NA	69
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800574	1476982575599	1476982575694	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800577	1476982575893	1476982575998	NA	72
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800579	1476982575990	1476982576070	NA	65
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800583	1476982576095	1476982576181	NA	68
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800614	1476982576174	1476982576293	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800618	1476982576278	1476982576366	NA	73
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800624	1476982576447	1476982576542	NA	78
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800633	1476982576493	1476982576598	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800638	1476982576615	1476982576718	NA	65
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800646	1476982576734	1476982576829	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800696	1476982576782	1476982576854	NA	76
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800698	1476982576926	1476982577006	NA	79
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800701	1476982577087	1476982577182	NA	78
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800705	1476982577173	1476982577262	NA	71
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800710	1476982577279	1476982577373	NA	32
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800715	1476982577645	1476982577759	NA	84
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800742	1476982577718	1476982577822	NA	73
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800746	1476982577893	1476982577970	NA	77
+364724	3931986	It was the best dinner table conversation we've had in a long time.	It was the best dinner table conversation we've had in a long time.	186800748	1476982577967	1476982578046	NA	69
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800826	1476982579477	1476982579605	SHIFT	16
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800832	1476982579549	1476982579628	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800837	1476982579694	1476982579781	NA	72
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800841	1476982579733	1476982579838	NA	69
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800843	1476982579854	1476982579934	NA	89
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800852	1476982579911	1476982580052	NA	32
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800855	1476982580029	1476982580102	NA	77
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800859	1476982580182	1476982580285	NA	85
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800865	1476982580222	1476982580300	NA	83
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800871	1476982580293	1476982580396	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800888	1476982580358	1476982580485	NA	32
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800893	1476982580422	1476982580502	NA	78
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800899	1476982580582	1476982580677	NA	79
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800904	1476982580647	1476982580725	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800911	1476982580710	1476982580846	NA	32
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800965	1476982580814	1476982580900	NA	66
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800975	1476982580894	1476982580982	NA	69
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800979	1476982580992	1476982581094	NA	32
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800986	1476982581238	1476982581358	NA	68
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800990	1476982581359	1476982581446	NA	73
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186800993	1476982581447	1476982581534	NA	83
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801044	1476982581541	1476982581638	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801052	1476982581896	1476982581982	NA	82
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801056	1476982582117	1476982582214	NA	73
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801063	1476982582270	1476982582374	NA	66
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801070	1476982582430	1476982582550	NA	85
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801109	1476982582527	1476982582637	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801114	1476982582614	1476982582701	NA	69
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801125	1476982582743	1476982582877	NA	68
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801134	1476982582845	1476982582989	NA	32
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801140	1476982582974	1476982583030	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801147	1476982583262	1476982583341		8
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801185	1476982583334	1476982583461	NA	87
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801189	1476982583430	1476982583534	NA	73
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801194	1476982583526	1476982583655	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801198	1476982583638	1476982583669	NA	72
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801203	1476982583782	1476982583885	NA	79
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801207	1476982583989	1476982584092	NA	85
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801217	1476982584086	1476982584205	NA	84
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801223	1476982584174	1476982584296	NA	32
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801227	1476982584301	1476982584406	NA	79
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801231	1476982584510	1476982584620	NA	85
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801236	1476982584629	1476982584741	NA	82
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801282	1476982584717	1476982584838	NA	32
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801286	1476982584918	1476982585038	NA	67
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801293	1476982584965	1476982585045	NA	79
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801297	1476982585134	1476982585254	NA	78
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801303	1476982585174	1476982585262	NA	83
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801309	1476982585318	1476982585430	NA	69
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801319	1476982585414	1476982585493	NA	78
+364724	3932002	They must not be distributed without our consent.	They must not be distributed without our consent.	186801323	1476982585510	1476982585590	NA	84
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801466	1476982586854	1476982587126	SHIFT	16
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801471	1476982587038	1476982587134	NA	76
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801476	1476982587165	1476982587254	NA	69
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801480	1476982587255	1476982587380	NA	84
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801484	1476982587358	1476982587517	NA	32
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801487	1476982587559	1476982587661	NA	77
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801512	1476982587694	1476982587805	NA	69
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801517	1476982587870	1476982588021	NA	32
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801524	1476982587990	1476982588085	NA	75
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801531	1476982588150	1476982588212	NA	78
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801534	1476982588310	1476982588413	NA	79
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801577	1476982588366	1476982588477	NA	87
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801583	1476982588470	1476982588613	NA	32
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801593	1476982588623	1476982588756	NA	87
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801602	1476982588750	1476982588869	NA	72
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801607	1476982588838	1476982588932	NA	65
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801614	1476982588974	1476982589061	NA	84
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801628	1476982589054	1476982589173	NA	32
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801632	1476982589181	1476982589257	NA	89
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801637	1476982589254	1476982589333	NA	79
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801642	1476982589415	1476982589516	NA	85
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801647	1476982589510	1476982589630	NA	32
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801653	1476982589638	1476982589757	NA	87
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801669	1476982589734	1476982589861	NA	65
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801676	1476982589846	1476982589957	NA	78
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801683	1476982589950	1476982590029	NA	84
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801692	1476982590038	1476982590173	NA	32
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801699	1476982590166	1476982590285	NA	84
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801790	1476982590254	1476982590349	NA	79
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801793	1476982590878	1476982591053	NA	32
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801797	1476982591294	1476982591397	NA	68
+364724	3932013	Let me know what you want to do.	Let me know what you want to do.	186801801	1476982591374	1476982591453	NA	79
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802547	1476982591550	1476982601965	NA	190
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801916	1476982592694	1476982593030	SHIFT	16
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801927	1476982593254	1476982593470	SHIFT	16
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801920	1476982593358	1476982593446	NA	87
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801932	1476982593518	1476982593636	NA	69
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801940	1476982593630	1476982593757	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801995	1476982593782	1476982593881	NA	72
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801946	1476982593816	1476982593877	NA	65
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186801997	1476982593942	1476982594052	NA	86
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802001	1476982594014	1476982594133	NA	69
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802003	1476982594414	1476982594477	NA	222
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802006	1476982594694	1476982594813		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802032	1476982594742	1476982594861	NA	66
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802035	1476982594877	1476982595061	NA	222
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802045	1476982595038	1476982595148	NA	84
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802053	1476982595158	1476982595293	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802061	1476982595414	1476982595476		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802068	1476982595558	1476982595636		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802126	1476982595702	1476982595773		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802131	1476982595838	1476982595959		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802137	1476982595926	1476982596004	NA	78
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802141	1476982596078	1476982596206	NA	222
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802143	1476982596461	1476982596581	NA	84
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802184	1476982596588	1476982596709	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802186	1476982596966	1476982597069	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802188	1476982597046	1476982597125	NA	79
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802219	1476982597198	1476982597348	NA	76
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802194	1476982597237	1476982597344	NA	68
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802225	1476982597326	1476982597445	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802228	1476982597422	1476982597500	NA	84
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802236	1476982597494	1476982597588	NA	72
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802242	1476982597582	1476982597669	NA	69
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802246	1476982597671	1476982597781	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802251	1476982597721	1476982597869	SHIFT	16
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802279	1476982597806	1476982597900	NA	85
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802283	1476982597894	1476982597998	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802288	1476982598126	1476982598221	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802293	1476982598286	1476982598380	NA	66
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802297	1476982598374	1476982598469	NA	85
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802302	1476982598518	1476982598629	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802348	1476982598606	1476982598709	NA	73
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802350	1476982598822	1476982598885		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802353	1476982598958	1476982599021		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802356	1476982599085	1476982599157		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802359	1476982599214	1476982599293		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802362	1476982599350	1476982599429		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802385	1476982599494	1476982599613		8
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802395	1476982599750	1476982600022	SHIFT	16
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802387	1476982599806	1476982599901	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802392	1476982599918	1476982600013	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802403	1476982600100	1476982600197	NA	66
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802440	1476982600182	1476982600269	NA	85
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802447	1476982600334	1476982600437	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802456	1476982600406	1476982600501	NA	73
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802464	1476982600574	1476982600669	NA	78
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802469	1476982600613	1476982600693	NA	69
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802475	1476982600757	1476982600837	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802481	1476982600902	1476982600981	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802483	1476982601014	1476982601110	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802487	1476982601077	1476982601197	NA	65
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802490	1476982601158	1476982601285	NA	83
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802537	1476982601262	1476982601357	NA	32
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802539	1476982601438	1476982601524	NA	89
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802543	1476982601589	1476982601724	NA	69
+364724	3932024	We haven't sold the US business as yet.	We haven't sold the US business as yet.	186802545	1476982601709	1476982601812	NA	84
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802642	1476982603133	1476982603381	SHIFT	16
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802645	1476982603302	1476982603389	NA	77
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802649	1476982603486	1476982603577	NA	85
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802653	1476982603574	1476982603729	NA	67
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802671	1476982603663	1476982603741	NA	72
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802677	1476982603709	1476982603797	NA	32
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802687	1476982603862	1476982603940	NA	66
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802696	1476982603934	1476982604021	NA	69
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802706	1476982604006	1476982604093	NA	84
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802712	1476982604166	1476982604301	NA	84
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802726	1476982604269	1476982604429	NA	69
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802731	1476982604365	1476982604492	NA	82
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802733	1476982604446	1476982604588	NA	32
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802737	1476982604582	1476982604696	NA	84
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802740	1476982604677	1476982604795	NA	72
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802760	1476982604790	1476982604877	NA	65
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802762	1476982604902	1476982605004	NA	78
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802765	1476982604998	1476982605125	NA	32
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802768	1476982605133	1476982605253	NA	67
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802770	1476982605326	1476982605421	NA	65
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802776	1476982605518	1476982605589	NA	82
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802814	1476982605743	1476982605861	NA	89
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802817	1476982606262	1476982606365		8
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802821	1476982606309	1476982606381	NA	82
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802828	1476982606478	1476982606597	NA	89
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802833	1476982606670	1476982606773	NA	73
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802881	1476982606862	1476982606989	NA	78
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802883	1476982606934	1476982607037	NA	71
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802890	1476982607021	1476982607116	NA	32
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802896	1476982607358	1476982607477	NA	65
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802902	1476982607510	1476982607613	NA	32
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802959	1476982608006	1476982608132	NA	76
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802963	1476982608126	1476982608277	NA	65
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802966	1476982608350	1476982608461	NA	80
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802969	1476982608565	1476982608645	NA	84
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186802977	1476982608677	1476982608764	NA	79
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186803014	1476982608862	1476982608957	NA	80
+364724	3932036	Much better than carrying a laptop.	Much better than carrying a laptop.	186803016	1476982609102	1476982609205	NA	190
+364724	3932050	We could do it at my house.	We could do it at my house.	186803161	1476982610710	1476982611005	SHIFT	16
+364724	3932050	We could do it at my house.	We could do it at my house.	186803157	1476982610917	1476982610989	NA	87
+364724	3932050	We could do it at my house.	We could do it at my house.	186803167	1476982611118	1476982611221	NA	69
+364724	3932050	We could do it at my house.	We could do it at my house.	186803173	1476982611254	1476982611333	NA	32
+364724	3932050	We could do it at my house.	We could do it at my house.	186803176	1476982611437	1476982611533	NA	67
+364724	3932050	We could do it at my house.	We could do it at my house.	186803220	1476982611509	1476982611581	NA	79
+364724	3932050	We could do it at my house.	We could do it at my house.	186803223	1476982611670	1476982611741	NA	85
+364724	3932050	We could do it at my house.	We could do it at my house.	186803226	1476982611846	1476982611981	NA	76
+364724	3932050	We could do it at my house.	We could do it at my house.	186803229	1476982611926	1476982612052	NA	68
+364724	3932050	We could do it at my house.	We could do it at my house.	186803233	1476982612029	1476982612133	NA	32
+364724	3932050	We could do it at my house.	We could do it at my house.	186803236	1476982612221	1476982612301	NA	68
+364724	3932050	We could do it at my house.	We could do it at my house.	186803256	1476982612269	1476982612365	NA	79
+364724	3932050	We could do it at my house.	We could do it at my house.	186803261	1476982612398	1476982612485	NA	32
+364724	3932050	We could do it at my house.	We could do it at my house.	186803269	1476982612542	1476982612637	NA	73
+364724	3932050	We could do it at my house.	We could do it at my house.	186803275	1476982612662	1476982612733	NA	84
+364724	3932050	We could do it at my house.	We could do it at my house.	186803283	1476982612750	1476982612853	NA	32
+364724	3932050	We could do it at my house.	We could do it at my house.	186803287	1476982612902	1476982613053	NA	65
+364724	3932050	We could do it at my house.	We could do it at my house.	186803320	1476982613334	1476982613404	NA	84
+364724	3932050	We could do it at my house.	We could do it at my house.	186803323	1476982613436	1476982613589	NA	32
+364724	3932050	We could do it at my house.	We could do it at my house.	186803329	1476982613614	1476982613724	NA	77
+364724	3932050	We could do it at my house.	We could do it at my house.	186803334	1476982613742	1476982613813	NA	89
+364724	3932050	We could do it at my house.	We could do it at my house.	186803339	1476982613918	1476982613997	NA	32
+364724	3932050	We could do it at my house.	We could do it at my house.	186803385	1476982614222	1476982614292	NA	72
+364724	3932050	We could do it at my house.	We could do it at my house.	186803387	1476982614310	1476982614373	NA	79
+364724	3932050	We could do it at my house.	We could do it at my house.	186803391	1476982614461	1476982614573	NA	85
+364724	3932050	We could do it at my house.	We could do it at my house.	186803393	1476982614534	1476982614613	NA	83
+364724	3932050	We could do it at my house.	We could do it at my house.	186803396	1476982614678	1476982614749	NA	69
+364724	3932050	We could do it at my house.	We could do it at my house.	186803410	1476982614774	1476982614877	NA	190
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803565	1476982616277	1476982616821	SHIFT	16
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803561	1476982616669	1476982616781	NA	68
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803568	1476982616974	1476982617069	NA	79
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803572	1476982617181	1476982617213	NA	32
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803577	1476982617365	1476982617453	NA	89
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803581	1476982617494	1476982617589	NA	79
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803599	1476982617669	1476982617789	NA	85
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803601	1476982617798	1476982617948	NA	32
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803608	1476982617942	1476982618061	NA	87
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803613	1476982618045	1476982618181	NA	65
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803661	1476982618156	1476982618237	NA	78
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803664	1476982618260	1476982618349	NA	84
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803668	1476982618357	1476982618468	NA	32
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803670	1476982618517	1476982618604	NA	84
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803671	1476982618596	1476982618684	NA	79
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803673	1476982618727	1476982618855	NA	32
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803708	1476982618852	1476982618973	NA	69
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803711	1476982619030	1476982619149	NA	65
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803714	1476982619220	1476982619301	NA	84
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803717	1476982619350	1476982619485	NA	32
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803722	1476982619517	1476982619605	NA	76
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803727	1476982619693	1476982619764	NA	85
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803757	1476982619854	1476982619947	NA	78
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803759	1476982619942	1476982620053	NA	67
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803763	1476982620029	1476982620125	NA	72
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803766	1476982620134	1476982620285	NA	32
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803772	1476982620470	1476982620604	NA	83
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803791	1476982620581	1476982620669	NA	79
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803793	1476982620750	1476982620885	NA	77
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803798	1476982620804	1476982620909	NA	69
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803803	1476982621005	1476982621149	NA	87
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803808	1476982621182	1476982621276	NA	72
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803838	1476982621245	1476982621340	NA	69
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803840	1476982621326	1476982621463	NA	82
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803841	1476982621430	1476982621572	NA	69
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803844	1476982621518	1476982621660	NA	32
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803847	1476982621775	1476982621869	NA	66
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803851	1476982621886	1476982622015	NA	69
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803867	1476982622045	1476982622181	NA	70
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803872	1476982622205	1476982622324	NA	79
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803877	1476982622269	1476982622372	NA	82
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803880	1476982622333	1476982622492	NA	69
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803919	1476982622438	1476982622549	NA	190
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803939	1476982622717	1476982623180	SHIFT	16
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803928	1476982622989	1476982623069		8
+364724	3932060	Do you want to eat lunch somewhere before?	Do you want to eat lunch somewhere before?	186803949	1476982623157	1476982623244	NA	191
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804099	1476982624605	1476982624734	SHIFT	16
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804102	1476982624661	1476982624797	NA	69
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804106	1476982624820	1476982624949	NA	76
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804110	1476982624973	1476982625117	NA	83
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804112	1476982625085	1476982625221	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804118	1476982625261	1476982625349	NA	82
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804143	1476982625356	1476982625469	NA	79
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804144	1476982625477	1476982625579	NA	67
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804149	1476982625574	1476982625684	NA	75
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804153	1476982625637	1476982625756	NA	69
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804159	1476982625965	1476982626061	NA	84
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804209	1476982626068	1476982626173	NA	69
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804215	1476982626221	1476982626356	NA	68
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804222	1476982626333	1476982626421	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804228	1476982626541	1476982626637	NA	84
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804234	1476982626653	1476982626765	NA	79
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804269	1476982626829	1476982626965	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804272	1476982627133	1476982627229	NA	72
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804276	1476982627373	1476982627492	NA	73
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804281	1476982627453	1476982627589	NA	83
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804315	1476982627581	1476982627692	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804316	1476982627670	1476982627775	NA	70
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804317	1476982627757	1476982627900	NA	73
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804319	1476982627837	1476982627940	NA	82
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804321	1476982627950	1476982628053	NA	83
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804323	1476982628077	1476982628159	NA	84
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804406	1476982628141	1476982628260	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804411	1476982628253	1476982628421	SHIFT	16
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804418	1476982628341	1476982628428	NA	69
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804423	1476982628516	1476982628612	NA	85
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804426	1476982628757	1476982628868	NA	79
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804431	1476982629037	1476982629132	NA	82
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804435	1476982629277	1476982629325		8
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804464	1476982629413	1476982629525		8
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804469	1476982629468	1476982629589	NA	82
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804476	1476982629557	1476982629636	NA	79
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804482	1476982629701	1476982629813	NA	80
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804487	1476982629925	1476982629996	NA	73
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804494	1476982630022	1476982630133	NA	69
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804496	1476982630253	1476982630309		8
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804499	1476982630405	1476982630516		8
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804502	1476982630493	1476982630596	NA	69
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804537	1476982630557	1476982630692	NA	65
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804541	1476982630645	1476982630740	NA	78
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804547	1476982630797	1476982630884	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804552	1476982630854	1476982631004	SHIFT	16
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804557	1476982630965	1476982631100	NA	84
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804561	1476982631053	1476982631132	NA	79
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804567	1476982631205	1476982631325	NA	85
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804615	1476982631260	1476982631364	NA	82
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804616	1476982631341	1476982631414	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804617	1476982631653	1476982631723	NA	86
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804619	1476982631726	1476982631812	NA	73
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804621	1476982632094	1476982632253	NA	67
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804623	1476982632469	1476982632549	NA	84
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804659	1476982632702	1476982632803	NA	79
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804663	1476982632798	1476982632876	NA	82
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804672	1476982632965	1476982633077	NA	89
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804677	1476982633093	1476982633188	NA	32
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804680	1476982633293	1476982633372	NA	66
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804711	1476982633461	1476982633588	NA	65
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804713	1476982633565	1476982633684	NA	67
+364724	3932072	Els rocketed to his first European Tour victory back.	Els rocketed to his first European Tour victory back.	186804715	1476982633637	1476982633715	NA	75
+364724	3932089	Nice weather for it.	Nice weather for it.	186804815	1476982634749	1476982635277	SHIFT	16
+364724	3932089	Nice weather for it.	Nice weather for it.	186804819	1476982635189	1476982635285	NA	78
+364724	3932089	Nice weather for it.	Nice weather for it.	186804823	1476982635381	1476982635468	NA	73
+364724	3932089	Nice weather for it.	Nice weather for it.	186804828	1476982635445	1476982635547	NA	67
+364724	3932089	Nice weather for it.	Nice weather for it.	186804833	1476982635502	1476982635572	NA	69
+364724	3932089	Nice weather for it.	Nice weather for it.	186804838	1476982635589	1476982635715	NA	32
+364724	3932089	Nice weather for it.	Nice weather for it.	186804945	1476982635709	1476982635812	NA	69
+364724	3932089	Nice weather for it.	Nice weather for it.	186804954	1476982636108	1476982636211		8
+364724	3932089	Nice weather for it.	Nice weather for it.	186804963	1476982636165	1476982636260	NA	87
+364724	3932089	Nice weather for it.	Nice weather for it.	186804972	1476982636340	1476982636524	NA	69
+364724	3932089	Nice weather for it.	Nice weather for it.	186804980	1476982636589	1476982636684	NA	65
+364724	3932089	Nice weather for it.	Nice weather for it.	186804987	1476982636981	1476982637092	NA	84
+364724	3932089	Nice weather for it.	Nice weather for it.	186805002	1476982637141	1476982637283	NA	72
+364724	3932089	Nice weather for it.	Nice weather for it.	186805007	1476982637213	1476982637308	NA	69
+364724	3932089	Nice weather for it.	Nice weather for it.	186805011	1476982637277	1476982637395	NA	82
+364724	3932089	Nice weather for it.	Nice weather for it.	186805018	1476982637357	1476982637492	NA	32
+364724	3932089	Nice weather for it.	Nice weather for it.	186805039	1476982637477	1476982637563	NA	70
+364724	3932089	Nice weather for it.	Nice weather for it.	186805045	1476982637557	1476982637645	NA	79
+364724	3932089	Nice weather for it.	Nice weather for it.	186805052	1476982637637	1476982637731	NA	82
+364724	3932089	Nice weather for it.	Nice weather for it.	186805061	1476982637724	1476982637819	NA	32
+364724	3932089	Nice weather for it.	Nice weather for it.	186805067	1476982637813	1476982637915	NA	73
+364724	3932089	Nice weather for it.	Nice weather for it.	186805072	1476982637901	1476982637996	NA	84
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805208	1476982639205	1476982639613	SHIFT	16
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805201	1476982639477	1476982639572	NA	89
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805213	1476982639661	1476982639748	NA	79
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805217	1476982639829	1476982639972	NA	85
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805224	1476982639909	1476982640015	NA	82
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805313	1476982639997	1476982640108	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805320	1476982640725	1476982640804	NA	70
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805325	1476982640853	1476982640957	NA	82
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805332	1476982640972	1476982641076	NA	73
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805337	1476982641061	1476982641172	NA	69
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805349	1476982641229	1476982641340	NA	78
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805425	1476982641293	1476982641388	NA	68
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805432	1476982641597	1476982641737	NA	222
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805439	1476982641733	1476982641828	NA	83
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805445	1476982641869	1476982642027	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805450	1476982642285	1476982642396	NA	68
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805458	1476982642413	1476982642508	NA	69
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805477	1476982642524	1476982642652	NA	70
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805480	1476982642621	1476982642732	NA	69
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805484	1476982642757	1476982642876	NA	78
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805489	1476982642853	1476982642940	NA	83
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805493	1476982642982	1476982643084	NA	69
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805562	1476982643117	1476982643228	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805566	1476982643661	1476982643748		8
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805571	1476982643829	1476982643924	NA	188
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805576	1476982643910	1476982644048	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805632	1476982644045	1476982644124	NA	78
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805636	1476982644461	1476982644548		8
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805642	1476982644541	1476982644628	NA	72
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805650	1476982644645	1476982644748	NA	79
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805658	1476982644781	1476982644892	NA	87
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805669	1476982644981	1476982645116	NA	69
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805792	1476982645221	1476982645332	NA	86
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805795	1476982645357	1476982645460	NA	69
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805801	1476982645437	1476982645556	NA	82
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805806	1476982645565	1476982645676	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805808	1476982646940	1476982647004		8
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805851	1476982647101	1476982647212	NA	188
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805853	1476982647181	1476982647300	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805857	1476982647317	1476982647404	NA	72
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805861	1476982647374	1476982647468	NA	65
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805873	1476982647420	1476982647572	NA	83
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805878	1476982647557	1476982647684	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805884	1476982647805	1476982647931	NA	79
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805889	1476982647925	1476982648020	NA	84
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805896	1476982648045	1476982648172	NA	72
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805918	1476982648116	1476982648212	NA	69
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805922	1476982648180	1476982648310	NA	82
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805925	1476982648277	1476982648387	NA	32
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805930	1476982648341	1476982648460	NA	80
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805933	1476982648533	1476982648628	NA	76
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805935	1476982648645	1476982648748	NA	65
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805979	1476982648725	1476982648812	NA	78
+364724	3932092	Your friend's defense, however, has other plans.	Your friend's defense, however, has other plans.	186805984	1476982648917	1476982648987	NA	83
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806104	1476982650508	1476982650796	SHIFT	16
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806108	1476982650876	1476982651132	SHIFT	16
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806111	1476982651061	1476982651164	NA	73
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806114	1476982651173	1476982651300	NA	32
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806116	1476982651325	1476982651436	NA	84
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806124	1476982651364	1476982651444	NA	72
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806132	1476982651517	1476982651604	NA	73
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806151	1476982651700	1476982651764	NA	78
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806154	1476982651853	1476982651956	NA	75
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806159	1476982651933	1476982652070	NA	32
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806163	1476982652109	1476982652196	NA	73
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806167	1476982652276	1476982652388	NA	78
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806195	1476982652357	1476982652508	NA	32
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806198	1476982652477	1476982652603	NA	84
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806202	1476982652565	1476982652644	NA	72
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806207	1476982652749	1476982652860	NA	73
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806214	1476982652844	1476982652956	NA	83
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806220	1476982652964	1476982653059	NA	32
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806244	1476982653037	1476982653140	NA	67
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806249	1476982653165	1476982653276	NA	65
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806255	1476982653228	1476982653324	NA	83
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806261	1476982653389	1476982653484	NA	69
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806267	1476982653493	1476982653572	NA	32
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806273	1476982653605	1476982653716	NA	83
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806310	1476982653861	1476982653948	NA	80
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806313	1476982653989	1476982654084	NA	69
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806318	1476982654173	1476982654299	NA	67
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806326	1476982654261	1476982654349	NA	73
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806333	1476982654446	1476982654547	NA	70
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806411	1476982654524	1476982654620	NA	73
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806415	1476982654677	1476982654756	NA	67
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806424	1476982654925	1476982655012	NA	32
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806431	1476982655341	1476982655508	NA	73
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806435	1476982655629	1476982655796	NA	83
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806438	1476982655805	1476982655908	NA	32
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806462	1476982656045	1476982656147	NA	66
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806464	1476982656124	1476982656212	NA	69
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806469	1476982656229	1476982656308	NA	84
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806472	1476982656364	1476982656475	NA	84
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806478	1476982656460	1476982656563	NA	69
+364724	3932116	I think in this case specific is better.	I think in this case specific is better.	186806482	1476982656540	1476982656651	NA	82
+364724	3932126	What is the cost issue?	What is the cost issue?	186806657	1476982657860	1476982658156	SHIFT	16
+364724	3932126	What is the cost issue?	What is the cost issue?	186806652	1476982658029	1476982658132	NA	87
+364724	3932126	What is the cost issue?	What is the cost issue?	186806666	1476982658301	1476982658396	NA	72
+364724	3932126	What is the cost issue?	What is the cost issue?	186806670	1476982658476	1476982658572	NA	65
+364724	3932126	What is the cost issue?	What is the cost issue?	186806674	1476982658637	1476982658732	NA	84
+364724	3932126	What is the cost issue?	What is the cost issue?	186806679	1476982658740	1476982658812	NA	32
+364724	3932126	What is the cost issue?	What is the cost issue?	186806694	1476982658819	1476982658947	NA	73
+364724	3932126	What is the cost issue?	What is the cost issue?	186806700	1476982658924	1476982659043	NA	83
+364724	3932126	What is the cost issue?	What is the cost issue?	186806708	1476982659020	1476982659156	NA	32
+364724	3932126	What is the cost issue?	What is the cost issue?	186806713	1476982659124	1476982659219	NA	84
+364724	3932126	What is the cost issue?	What is the cost issue?	186806740	1476982659213	1476982659339	NA	72
+364724	3932126	What is the cost issue?	What is the cost issue?	186806743	1476982659301	1476982659411	NA	69
+364724	3932126	What is the cost issue?	What is the cost issue?	186806745	1476982659405	1476982659532	NA	32
+364724	3932126	What is the cost issue?	What is the cost issue?	186806748	1476982659517	1476982659628	NA	67
+364724	3932126	What is the cost issue?	What is the cost issue?	186806752	1476982659573	1476982659684	NA	79
+364724	3932126	What is the cost issue?	What is the cost issue?	186806757	1476982659692	1476982659772	NA	83
+364724	3932126	What is the cost issue?	What is the cost issue?	186806784	1476982659788	1476982659892	NA	84
+364724	3932126	What is the cost issue?	What is the cost issue?	186806789	1476982659868	1476982660027	NA	32
+364724	3932126	What is the cost issue?	What is the cost issue?	186806794	1476982659981	1476982660075	NA	73
+364724	3932126	What is the cost issue?	What is the cost issue?	186806800	1476982660124	1476982660212	NA	83
+364724	3932126	What is the cost issue?	What is the cost issue?	186806805	1476982660285	1476982660387	NA	83
+364724	3932126	What is the cost issue?	What is the cost issue?	186806833	1476982660379	1476982660482	NA	85
+364724	3932126	What is the cost issue?	What is the cost issue?	186806838	1476982660477	1476982660588	NA	69
+364724	3932126	What is the cost issue?	What is the cost issue?	186806845	1476982660676	1476982660868	SHIFT	16
+364724	3932126	What is the cost issue?	What is the cost issue?	186806850	1476982660796	1476982660900	NA	191
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186806980	1476982661859	1476982662371	SHIFT	16
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186806976	1476982662324	1476982662366	NA	89
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186806984	1476982662452	1476982662550	NA	72
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186806988	1476982662507	1476982662611	NA	69
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186806991	1476982662812	1476982662875		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807033	1476982662964	1476982663027		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807036	1476982663102	1476982663163		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807040	1476982663236	1476982663333		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807045	1476982663404	1476982663524	SHIFT	16
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807049	1476982663468	1476982663556	NA	84
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807054	1476982663589	1476982663676	NA	72
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807101	1476982663644	1476982663732	NA	69
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807103	1476982663748	1476982663884	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807106	1476982663924	1476982664035	NA	85
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807111	1476982664052	1476982664131	NA	65
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807116	1476982664492	1476982664547		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807120	1476982664620	1476982664726		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807136	1476982664709	1476982664795	NA	81
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807140	1476982664788	1476982664876	NA	85
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807145	1476982664893	1476982665003	NA	65
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807150	1476982664973	1476982665068	NA	76
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807156	1476982665157	1476982665245	NA	73
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807200	1476982665228	1476982665316	NA	70
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807204	1476982665469	1476982665571	NA	89
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807207	1476982665716	1476982665836	NA	73
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807215	1476982665916	1476982666019	NA	78
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807220	1476982665996	1476982666076	NA	71
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807230	1476982666077	1476982666179	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807311	1476982666916	1476982667035	NA	67
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807314	1476982667004	1476982667108	NA	79
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807318	1476982667228	1476982667316	NA	84
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807321	1476982667348	1476982667443	NA	73
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807325	1476982667532	1476982667620	NA	78
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807357	1476982667732	1476982667795	NA	85
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807360	1476982667941	1476982667995		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807363	1476982668092	1476982668147		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807366	1476982668212	1476982668276		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807370	1476982668348	1476982668436		8
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807395	1476982668516	1476982668603	NA	78
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807399	1476982668628	1476982668731	NA	84
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807406	1476982668708	1476982668780	NA	73
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807413	1476982668844	1476982668924	NA	78
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807418	1476982669004	1476982669099	NA	85
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807434	1476982669076	1476982669156	NA	69
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807436	1476982669212	1476982669323	NA	83
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807439	1476982669284	1476982669388	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807442	1476982669331	1476982669395	NA	79
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807446	1476982669492	1476982669603	NA	78
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807469	1476982669547	1476982669675	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807476	1476982669629	1476982669714	NA	84
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807480	1476982669708	1476982669821	NA	72
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807483	1476982669780	1476982669866	NA	69
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807486	1476982669876	1476982670028	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807510	1476982669972	1476982670059	NA	87
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807517	1476982670020	1476982670156	NA	69
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807522	1476982670180	1476982670331	NA	83
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807529	1476982670300	1476982670395	NA	84
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807534	1476982670388	1476982670531	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807539	1476982670492	1476982670587	NA	83
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807569	1476982670556	1476982670716	NA	73
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807572	1476982670644	1476982670748	NA	68
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807575	1476982670756	1476982670883	NA	69
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807583	1476982670868	1476982670956	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807590	1476982670892	1476982671003	NA	79
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807597	1476982671452	1476982671596	NA	70
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807626	1476982671612	1476982671723	NA	32
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807628	1476982671692	1476982671819	NA	84
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807630	1476982672059	1476982672171	NA	79
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807632	1476982672156	1476982672298	NA	87
+364724	3932132	The qualifying continues on the west side of town.	The qualifying continues on the west side of town.	186807652	1476982672284	1476982672348	NA	78

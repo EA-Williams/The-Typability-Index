@@ -1,0 +1,655 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615919	1473101758983	1473101759350	SHIFT	16
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615915	1473101759155	1473101759257	M	77
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615922	1473101759491	1473101759647	a	65
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615927	1473101759679	1473101759825	r	82
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615932	1473101759825	1473101759934	i	73
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615936	1473101759969	1473101760132	s	83
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615954	1473101760199	1473101760352	a	65
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615957	1473101760368	1473101760482	 	32
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615959	1473101760576	1473101760703	s	83
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615962	1473101760749	1473101760867	e	69
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615965	1473101760867	1473101760920	n	78
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615979	1473101760951	1473101761049	t	84
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615981	1473101761033	1473101761134	 	32
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615985	1473101761150	1473101761245	t	84
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615989	1473101761244	1473101761303	h	72
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44615994	1473101761335	1473101761456	e	69
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616013	1473101761419	1473101761563	 	32
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616015	1473101761563	1473101761713	i	73
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616017	1473101761683	1473101761802	n	78
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616020	1473101761750	1473101761849	v	86
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616022	1473101761880	1473101762023	o	79
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616082	1473101761970	1473101762135	i	73
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616085	1473101762819	1473101762886	n	78
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616088	1473101762948	1473101763036	c	67
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616092	1473101763367	1473101763440	BKSP	8
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616096	1473101763503	1473101763599	BKSP	8
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616102	1473101763567	1473101763636	c	67
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616105	1473101763750	1473101763815	e	69
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616110	1473101763899	1473101764017	s	83
+85809	937793	Marisa sent the invoices.	Marisa sent the invoices.	44616222	1473101764017	1473101764120	.	190
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616316	1473101768574	1473101768708	SHIFT	16
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616317	1473101768636	1473101768766	I	73
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616318	1473101768708	1473101768821	 	32
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616319	1473101768821	1473101768967	a	65
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616320	1473101768919	1473101769018	m	77
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616331	1473101769002	1473101769085	 	32
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616333	1473101769116	1473101769215	s	83
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616336	1473101769215	1473101769287	o	79
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616340	1473101769333	1473101769401	r	82
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616345	1473101769494	1473101769631	r	82
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616348	1473101769631	1473101769711	y	89
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616357	1473101769713	1473101769864	 	32
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616360	1473101770020	1473101770106	y	89
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616363	1473101770153	1473101770303	o	79
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616365	1473101770252	1473101770375	u	85
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616394	1473101770335	1473101770453	 	32
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616397	1473101770578	1473101770684	h	72
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616401	1473101770668	1473101770781	a	65
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616404	1473101770818	1473101770948	d	68
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616406	1473101770948	1473101771066	 	32
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616407	1473101771066	1473101771182	t	84
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616412	1473101771135	1473101771263	o	79
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616415	1473101771212	1473101771317	 	32
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616419	1473101771333	1473101771448	c	67
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616421	1473101771403	1473101771526	o	79
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616425	1473101771485	1473101771600	m	77
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616489	1473101771600	1473101771705	e	69
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616491	1473101771669	1473101771808	 	32
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616494	1473101771775	1473101771888	i	73
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616498	1473101771857	1473101771982	n	78
+85809	937801	I am sorry you had to come in.	I am sorry you had to come in.	44616505	1473101772107	1473101772191	.	190
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616588	1473101775653	1473101775773	SHIFT	16
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616589	1473101775773	1473101775820	h	72
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616590	1473101775852	1473101775966	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616591	1473101775904	1473101776063	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616592	1473101776016	1473101776086	i	73
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616593	1473101776086	1473101776183	s	83
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616663	1473101776199	1473101776317	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616666	1473101776618	1473101776683	BKSP	8
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616670	1473101776818	1473101776854	BKSP	8
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616674	1473101776931	1473101777002	BKSP	8
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616679	1473101777080	1473101777154	BKSP	8
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616684	1473101777247	1473101777302	BKSP	8
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616688	1473101777381	1473101777487	BKSP	8
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616691	1473101777581	1473101777767	SHIFT	16
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616694	1473101777675	1473101777767	H	72
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616696	1473101777851	1473101777965	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616698	1473101777981	1473101778099	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616700	1473101778130	1473101778234	i	73
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616707	1473101778234	1473101778333	s	83
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616709	1473101778348	1473101778466	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616711	1473101778517	1473101778631	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616714	1473101778756	1473101778911	x	88
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616720	1473101778911	1473101778971	p	80
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616765	1473101779017	1473101779102	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616770	1473101779277	1473101779368	c	67
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616776	1473101779494	1473101779569	t	84
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616781	1473101779632	1473101779703	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616785	1473101779812	1473101779891	d	68
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616801	1473101779953	1473101780016	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616805	1473101780017	1473101780134	t	84
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616807	1473101780086	1473101780204	o	79
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616810	1473101780151	1473101780253	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616813	1473101780316	1473101780387	m	77
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616824	1473101780387	1473101780501	i	73
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616825	1473101780485	1473101780552	s	83
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616827	1473101780650	1473101780763	s	83
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616830	1473101780763	1473101780851	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616833	1473101780902	1473101781021	s	83
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616888	1473101780986	1473101781100	i	73
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616893	1473101781162	1473101781302	x	88
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616896	1473101781348	1473101781450	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616899	1473101781688	1473101781832	w	87
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616903	1473101781941	1473101782028	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616906	1473101782092	1473101782201	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616912	1473101782201	1473101782267	k	75
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616915	1473101782298	1473101782416	s	83
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616920	1473101782385	1473101782496	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616924	1473101782451	1473101782535	o	79
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616927	1473101782535	1473101782648	f	70
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616956	1473101782663	1473101782751	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616958	1473101782766	1473101782865	a	65
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616961	1473101783354	1473101783451	c	67
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44616964	1473101783560	1473101783719	t	84
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617001	1473101783653	1473101783829	i	73
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617004	1473101783719	1473101783863	o	79
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617009	1473101783863	1473101784030	n	78
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617013	1473101784030	1473101784153	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617018	1473101784515	1473101784632	d	68
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617022	1473101784632	1473101784719	u	85
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617040	1473101785284	1473101785413	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617044	1473101785445	1473101785551	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617049	1473101785597	1473101785700	t	84
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617053	1473101785685	1473101785799	o	79
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617083	1473101785737	1473101785840	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617085	1473101786152	1473101786267	t	84
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617088	1473101786252	1473101786304	h	72
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617093	1473101786351	1473101786467	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617096	1473101786415	1473101786529	 	32
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617099	1473101786562	1473101786716	p	80
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617127	1473101786700	1473101786814	r	82
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617132	1473101787175	1473101787256	o	79
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617137	1473101787303	1473101787400	c	67
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617142	1473101787776	1473101787852	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617146	1473101787981	1473101788067	d	68
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617150	1473101788067	1473101788135	u	85
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617198	1473101788214	1473101788359	r	82
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617202	1473101788322	1473101788434	e	69
+85809	937809	He is expected to miss six weeks of action due to the procedure.	He is expected to miss six weeks of action due to the procedure.	44617204	1473101788480	1473101788568	.	190
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617310	1473101791723	1473101791856	SHIFT	16
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617312	1473101791818	1473101791962	T	84
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617314	1473101792071	1473101792140	h	72
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617317	1473101792186	1473101792282	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617319	1473101792267	1473101792364	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617321	1473101792427	1473101792521	m	77
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617328	1473101792505	1473101792552	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617329	1473101792676	1473101792767	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617332	1473101792814	1473101792950	t	84
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617335	1473101792897	1473101793014	i	73
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617337	1473101793014	1473101793115	n	78
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617339	1473101793115	1473101793205	g	71
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617365	1473101793205	1473101793315	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617368	1473101793408	1473101793515	c	67
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617371	1473101793531	1473101793718	a	65
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617374	1473101793664	1473101793749	m	77
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617379	1473101793781	1473101793878	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617389	1473101793880	1473101793981	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617391	1473101794012	1473101794130	d	68
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617393	1473101794115	1473101794270	a	65
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617394	1473101794228	1473101794317	y	89
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617395	1473101794348	1473101794486	s	83
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617433	1473101794432	1473101794577	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617435	1473101794577	1473101794614	o	79
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617437	1473101794932	1473101795045	BKSP	8
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617438	1473101795045	1473101795172	a	65
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617439	1473101795203	1473101795283	f	70
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617440	1473101795396	1473101795483	t	84
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617441	1473101795561	1473101795701	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617447	1473101795640	1473101795736	r	82
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617448	1473101795701	1473101795798	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617449	1473101795845	1473101795930	t	84
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617450	1473101795946	1473101796017	h	72
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617451	1473101796032	1473101796150	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617492	1473101796134	1473101796217	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617494	1473101796346	1473101796464	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617495	1473101796464	1473101796565	n	78
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617496	1473101796550	1473101796633	t	84
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617497	1473101796732	1473101796877	r	82
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617524	1473101796861	1473101796966	y	89
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617529	1473101796919	1473101797031	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617534	1473101797113	1473101797217	i	73
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617536	1473101797201	1473101797318	n	78
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617539	1473101797334	1473101797462	t	84
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617601	1473101797421	1473101797550	o	79
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617605	1473101797474	1473101797612	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617609	1473101797942	1473101798282	SHIFT	16
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617612	1473101798168	1473101798329	C	67
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617614	1473101798376	1473101798456	h	72
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617615	1473101798487	1473101798664	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617678	1473101798583	1473101798748	r	82
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617680	1473101798867	1473101798990	n	78
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617682	1473101798950	1473101799079	o	79
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617684	1473101799308	1473101799368	m	77
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617686	1473101799528	1473101799616	y	89
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617688	1473101799854	1473101799980	d	68
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617726	1473101800345	1473101800433	i	73
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617727	1473101800526	1473101800618	n	78
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617729	1473101800792	1473101800933	'	222
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617731	1473101800980	1473101801128	s	83
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617733	1473101801128	1473101801222	 	32
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617803	1473101802173	1473101802251	t	84
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617806	1473101802317	1473101802467	e	69
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617809	1473101802384	1473101802590	a	65
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617812	1473101802545	1473101802652	m	77
+85809	937822	The meeting came days after the entry into Chernomyrdin's team.	The meeting came days after the entry into Chernomydin's team.	44617814	1473101802777	1473101802884	.	190
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618005	1473101807958	1473101808103	SHIFT	16
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618007	1473101808064	1473101808178	T	84
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618010	1473101808210	1473101808268	h	72
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618013	1473101808283	1473101808415	e	69
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618016	1473101808383	1473101808496	 	32
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618019	1473101808589	1473101808749	r	82
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618050	1473101808713	1473101808847	i	73
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618053	1473101808775	1473101808930	o	79
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618057	1473101809025	1473101809133	t	84
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618060	1473101809226	1473101809358	s	83
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618061	1473101809336	1473101809464	 	32
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618062	1473101809480	1473101809654	w	87
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618070	1473101809597	1473101809751	e	69
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618073	1473101809697	1473101809827	r	82
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618077	1473101809874	1473101810014	e	69
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618082	1473101810014	1473101810128	 	32
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618084	1473101810128	1473101810279	s	83
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618086	1473101810279	1473101810445	t	84
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618103	1473101810429	1473101810622	a	65
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618106	1473101810578	1473101810681	r	82
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618109	1473101810780	1473101810866	t	84
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618111	1473101810897	1473101810964	e	69
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618112	1473101811071	1473101811182	d	68
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618113	1473101811229	1473101811332	 	32
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618124	1473101811364	1473101811491	b	66
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618126	1473101811507	1473101811599	y	89
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618129	1473101811584	1473101811718	 	32
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618132	1473101811834	1473101811942	n	78
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618152	1473101811902	1473101812070	a	65
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618154	1473101812030	1473101812171	t	84
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618156	1473101812137	1473101812264	i	73
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618159	1473101812311	1473101812408	v	86
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618163	1473101812456	1473101812596	e	69
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618234	1473101812580	1473101812678	 	32
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618235	1473101812839	1473101812984	SHIFT	16
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618236	1473101812902	1473101812999	T	84
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618237	1473101813574	1473101813682	a	65
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618238	1473101814108	1473101814252	i	73
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618241	1473101814267	1473101814432	w	87
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618288	1473101814380	1473101814561	a	65
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618291	1473101814561	1473101814661	n	78
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618294	1473101814714	1473101814829	e	69
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618296	1473101814958	1473101815048	s	83
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618297	1473101815301	1473101815413	e	69
+85809	937835	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	44618299	1473101815522	1473101815621	.	190
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618450	1473101818621	1473101818766	SHIFT	16
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618454	1473101818699	1473101818844	W	87
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618458	1473101818844	1473101818994	e	69
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618461	1473101819245	1473101819425	'	222
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618464	1473101819554	1473101819685	r	82
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618478	1473101819617	1473101819782	e	69
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618480	1473101819748	1473101819878	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618483	1473101819878	1473101820030	n	78
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618485	1473101819997	1473101820084	o	79
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618487	1473101820031	1473101820159	t	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618489	1473101820179	1473101820297	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618508	1473101820359	1473101820464	a	65
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618511	1473101820545	1473101820678	d	68
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618513	1473101820803	1473101820925	v	86
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618516	1473101820973	1473101821149	e	69
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618538	1473101821065	1473101821182	r	82
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618540	1473101821299	1473101821428	s	83
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618543	1473101821428	1473101821598	a	65
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618546	1473101821598	1473101821742	r	82
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618548	1473101821742	1473101821848	i	73
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618550	1473101822020	1473101822145	a	65
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618555	1473101822145	1473101822326	l	76
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618557	1473101822287	1473101822398	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618561	1473101822507	1473101822666	i	73
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618564	1473101822606	1473101822765	n	78
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618579	1473101822713	1473101822838	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618580	1473101822798	1473101822910	t	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618582	1473101822946	1473101823065	h	72
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618584	1473101823013	1473101823164	i	73
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618586	1473101823130	1473101823286	s	83
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618588	1473101823336	1473101823462	,	188
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618610	1473101823416	1473101823546	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618612	1473101823687	1473101823782	b	66
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618615	1473101823782	1473101823854	u	85
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618618	1473101824099	1473101824115	 	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618621	1473101824154	1473101824317	w	87
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618640	1473101824250	1473101824402	e	69
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618642	1473101824386	1473101824528	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618648	1473101824670	1473101824822	w	87
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618645	1473101824703	1473101824767	s	83
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618651	1473101824767	1473101824965	a	65
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618718	1473101824928	1473101824999	n	78
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618719	1473101825049	1473101825194	t	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618721	1473101825194	1473101825266	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618723	1473101825297	1473101825436	t	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618724	1473101825624	1473101825717	BKSP	8
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618725	1473101825786	1473101825849	BKSP	8
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618726	1473101825943	1473101826016	BKSP	8
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618727	1473101826098	1473101826166	BKSP	8
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618729	1473101826251	1473101826310	BKSP	8
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618732	1473101826380	1473101826483	BKSP	8
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618738	1473101826448	1473101826577	a	65
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618745	1473101826577	1473101826633	n	78
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618735	1473101826649	1473101826780	t	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618740	1473101826764	1473101826862	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618747	1473101826893	1473101827030	t	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618752	1473101826981	1473101827094	o	79
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618776	1473101827034	1473101827155	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618780	1473101827233	1473101827315	k	75
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618782	1473101827380	1473101827431	n	78
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618784	1473101827447	1473101827545	o	79
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618785	1473101827545	1473101827728	w	87
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618787	1473101827729	1473101827836	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618808	1473101828047	1473101828050	w	87
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618810	1473101828050	1473101828108	h	72
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618812	1473101828109	1473101828232	a	65
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618814	1473101828190	1473101828344	t	84
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618816	1473101828376	1473101828478	'	222
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618853	1473101828586	1473101828751	s	83
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618854	1473101828740	1473101828832	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618856	1473101829196	1473101829349	g	71
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618859	1473101829267	1473101829415	o	79
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618876	1473101829349	1473101829446	i	73
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618878	1473101829539	1473101829629	n	78
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618880	1473101829675	1473101829780	g	71
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618881	1473101829812	1473101829983	 	32
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618883	1473101829950	1473101830102	o	79
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618934	1473101830049	1473101830162	n	78
+85809	937842	We're not adversarial in this, but we want to know what's going on.	We're not adversarial in this, but we want to know what's going on.	44618936	1473101830287	1473101830399	.	190
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619035	1473101833282	1473101833399	SHIFT	16
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619036	1473101833328	1473101833450	W	87
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619038	1473101833512	1473101833694	e	69
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619040	1473101833690	1473101833744	 	32
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619042	1473101833814	1473101833900	n	78
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619044	1473101833931	1473101833998	e	69
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619056	1473101834078	1473101834155	e	69
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619058	1473101834251	1473101834363	d	68
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619061	1473101834363	1473101834478	 	32
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619063	1473101834478	1473101834614	t	84
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619086	1473101834577	1473101834729	o	79
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619089	1473101834649	1473101834749	 	32
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619093	1473101834749	1473101834917	t	84
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619096	1473101834871	1473101835067	a	65
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619098	1473101835011	1473101835098	l	76
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619100	1473101835197	1473101835310	k	75
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619108	1473101835295	1473101835428	 	32
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619110	1473101835428	1473101835550	a	65
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619112	1473101835565	1473101835663	b	66
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619114	1473101835663	1473101835814	o	79
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619116	1473101835748	1473101835830	u	85
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619117	1473101835830	1473101835921	t	84
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619137	1473101835968	1473101836065	 	32
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619143	1473101836065	1473101836179	t	84
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619149	1473101836164	1473101836254	h	72
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619152	1473101836214	1473101836298	i	73
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619155	1473101836314	1473101836479	s	83
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619165	1473101836445	1473101836563	 	32
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619167	1473101836548	1473101836662	m	77
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619170	1473101836694	1473101836847	o	79
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619172	1473101836813	1473101836932	n	78
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619174	1473101836932	1473101837070	t	84
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619240	1473101837016	1473101837130	h	72
+85809	937857	We need to talk about this month.	We need to talk about this month.	44619245	1473101837239	1473101837363	.	190
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619358	1473101840812	1473101840910	SHIFT	16
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619360	1473101840874	1473101841042	D	68
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619362	1473101841042	1473101841150	o	79
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619363	1473101841100	1473101841228	n	78
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619364	1473101841275	1473101841426	'	222
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619365	1473101841426	1473101841536	t	84
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619392	1473101841521	1473101841662	 	32
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619395	1473101841677	1473101841780	f	70
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619399	1473101841796	1473101841880	o	79
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619403	1473101841880	1473101841963	r	82
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619405	1473101842088	1473101842181	g	71
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619407	1473101842247	1473101842392	e	69
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619423	1473101842392	1473101842496	t	84
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619427	1473101842512	1473101842630	 	32
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619430	1473101842630	1473101842712	t	84
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619433	1473101842712	1473101842784	h	72
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619434	1473101842799	1473101842918	e	69
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619455	1473101842879	1473101843000	 	32
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619458	1473101843015	1473101843159	w	87
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619461	1473101843159	1473101843223	o	79
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619463	1473101843318	1473101843414	o	79
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619466	1473101843445	1473101843546	d	68
+85809	937862	Don't forget the wood.	Don't forget the wood.	44619471	1473101843596	1473101843694	.	190
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619652	1473101846649	1473101846814	SHIFT	16
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619655	1473101846773	1473101846865	H	72
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619659	1473101847005	1473101847146	e	69
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619664	1473101847193	1473101847265	 	32
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619668	1473101847327	1473101847486	w	87
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619673	1473101847431	1473101847550	o	79
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619677	1473101847500	1473101847583	u	85
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619681	1473101847695	1473101847766	l	76
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619686	1473101847767	1473101847886	d	68
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619690	1473101847854	1473101847964	 	32
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619695	1473101847964	1473101848077	l	76
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619721	1473101848235	1473101848330	o	79
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619723	1473101848439	1473101848547	v	86
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619724	1473101848609	1473101848730	e	69
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619726	1473101848730	1473101848813	 	32
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619728	1473101848847	1473101848982	a	65
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619749	1473101848932	1473101848982	n	78
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619752	1473101849092	1473101849165	y	89
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619754	1473101849165	1473101849295	t	84
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619756	1473101849295	1473101849365	h	72
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619758	1473101849349	1473101849446	i	73
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619759	1473101849540	1473101849614	n	78
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619775	1473101849630	1473101849744	g	71
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619778	1473101849744	1473101849832	 	32
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619781	1473101849899	1473101850030	a	65
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619782	1473101850092	1473101850196	b	66
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619783	1473101850196	1473101850334	o	79
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619818	1473101850280	1473101850378	u	85
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619823	1473101850409	1473101850529	t	84
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619828	1473101850560	1473101850663	 	32
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619832	1473101850835	1473101850965	r	82
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619837	1473101850931	1473101851030	o	79
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619838	1473101851124	1473101851245	c	67
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619887	1473101851260	1473101851348	k	75
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619888	1473101851521	1473101851678	s	83
+85809	937866	He would love anything about rocks.	He would love anything about rocks.	44619889	1473101851678	1473101851777	.	190
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619958	1473101854845	1473101854957	SHIFT	16
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619959	1473101854923	1473101855030	T	84
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619960	1473101855030	1473101855118	h	72
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619961	1473101855119	1473101855246	e	69
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619963	1473101855195	1473101855309	r	82
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619965	1473101855387	1473101855514	e	69
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619982	1473101855738	1473101855866	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619986	1473101855866	1473101855948	i	73
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619990	1473101855964	1473101856108	s	83
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44619995	1473101856108	1473101856215	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620008	1473101856172	1473101856286	n	78
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620009	1473101856248	1473101856350	o	79
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620010	1473101856311	1473101856428	w	87
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620011	1473101856444	1473101856548	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620013	1473101856548	1473101856703	a	65
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620038	1473101856646	1473101856746	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620043	1473101856777	1473101856863	m	77
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620045	1473101856863	1473101856927	e	69
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620047	1473101857023	1473101857114	e	69
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620049	1473101857160	1473101857297	t	84
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620051	1473101857297	1473101857366	i	73
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620081	1473101857413	1473101857429	n	78
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620083	1473101857466	1473101857580	g	71
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620087	1473101857580	1473101857696	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620089	1473101857696	1473101857856	a	65
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620091	1473101857872	1473101858015	t	84
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620150	1473101857976	1473101858079	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620153	1473101858898	1473101858974	8	56
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620155	1473101859099	1473101859228	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620158	1473101859259	1473101859355	p	80
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620160	1473101859480	1473101859609	m	77
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620162	1473101859609	1473101859693	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620275	1473101859881	1473101859960	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620277	1473101860055	1473101860115	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620278	1473101860209	1473101860281	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620279	1473101860374	1473101860448	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620280	1473101860526	1473101860598	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620284	1473101860660	1473101860987	SHIFT	16
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620282	1473101860755	1473101860847	P	80
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620286	1473101861143	1473101861247	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620288	1473101862128	1473101862214	8	56
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620301	1473101862278	1473101863094	SHIFT	16
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620291	1473101862687	1473101862766	P	80
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620297	1473101862957	1473101863032	M	77
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620305	1473101863204	1473101863312	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620350	1473101864318	1473101864486	a	65
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620352	1473101864445	1473101864574	t	84
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620354	1473101864637	1473101864699	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620356	1473101864966	1473101865033	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620359	1473101865111	1473101865214	BKSP	8
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620362	1473101865214	1473101865353	s	83
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620364	1473101865353	1473101865464	 	32
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620375	1473101865464	1473101865622	w	87
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620377	1473101865561	1473101865748	e	69
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620379	1473101865702	1473101865748	l	76
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620380	1473101865826	1473101865898	l	76
+85809	937871	There is now a meeting at 8PM as well.	There is now a meeting at 8PM as well.	44620381	1473101865994	1473101866098	.	190
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620532	1473101868989	1473101869067	SHIFT	16
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620535	1473101869067	1473101869203	b	66
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620537	1473101869203	1473101869295	o	79
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620540	1473101869389	1473101869464	y	89
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620541	1473101869736	1473101869814	BKSP	8
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620542	1473101869880	1473101869962	BKSP	8
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620543	1473101870055	1473101870131	BKSP	8
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620544	1473101870307	1473101870446	SHIFT	16
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620546	1473101870369	1473101870495	B	66
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620549	1473101870593	1473101870711	o	79
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620572	1473101870775	1473101870880	y	89
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620573	1473101871055	1473101871179	,	188
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620577	1473101871147	1473101871270	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620582	1473101871270	1473101871478	SHIFT	16
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620629	1473101871352	1473101871502	I	73
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620630	1473101871462	1473101871627	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620632	1473101871627	1473101871745	c	67
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620635	1473101871760	1473101871877	o	79
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620638	1473101871816	1473101871929	u	85
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620640	1473101872324	1473101872397	l	76
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620642	1473101872413	1473101872545	d	68
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620672	1473101872495	1473101872581	n	78
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620674	1473101872672	1473101872795	'	222
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620676	1473101872826	1473101872960	t	84
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620679	1473101872960	1473101873127	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620683	1473101873094	1473101873146	h	72
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620687	1473101873368	1473101873494	BKSP	8
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620691	1473101873494	1473101873624	w	87
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620710	1473101873639	1473101873785	r	82
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620712	1473101873769	1473101873862	i	73
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620714	1473101873909	1473101874012	t	84
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620717	1473101874028	1473101874161	e	69
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620721	1473101874161	1473101874262	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620738	1473101874278	1473101874377	t	84
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620741	1473101874345	1473101874399	o	79
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620744	1473101874493	1473101874614	o	79
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620746	1473101874564	1473101874694	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620749	1473101874734	1473101874814	m	77
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620759	1473101874894	1473101874981	u	85
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620761	1473101874981	1473101875097	c	67
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620763	1473101875097	1473101875159	h	72
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620765	1473101875135	1473101875263	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620775	1473101875230	1473101875379	o	79
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620779	1473101875312	1473101875463	n	78
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620785	1473101875426	1473101875518	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620789	1473101875478	1473101875594	t	84
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620793	1473101875594	1473101875718	h	72
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620819	1473101875680	1473101875806	i	73
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620821	1473101875779	1473101875938	s	83
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620824	1473101875939	1473101876030	 	32
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620827	1473101876941	1473101877071	t	84
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620830	1473101877022	1473101877110	h	72
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620854	1473101877071	1473101877147	i	73
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620856	1473101877245	1473101877342	n	78
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620858	1473101877294	1473101877395	g	71
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620860	1473101877696	1473101877998	SHIFT	16
+85809	937883	Boy, I couldn't write too much on this thing!	Boy, I couldn't write too much on this thing!	44620862	1473101877907	1473101878046	!	49
+85809	937891	I've never worked with her.	I've never worked with her.	44620969	1473101880474	1473101880663	SHIFT	16
+85809	937891	I've never worked with her.	I've never worked with her.	44620967	1473101880566	1473101880647	I	73
+85809	937891	I've never worked with her.	I've never worked with her.	44620974	1473101880995	1473101881108	'	222
+85809	937891	I've never worked with her.	I've never worked with her.	44620980	1473101881108	1473101881227	v	86
+85809	937891	I've never worked with her.	I've never worked with her.	44620984	1473101881258	1473101881406	e	69
+85809	937891	I've never worked with her.	I've never worked with her.	44621009	1473101881346	1473101881466	 	32
+85809	937891	I've never worked with her.	I've never worked with her.	44621011	1473101881606	1473101881694	n	78
+85809	937891	I've never worked with her.	I've never worked with her.	44621013	1473101881662	1473101881755	e	69
+85809	937891	I've never worked with her.	I've never worked with her.	44621014	1473101881896	1473101881980	v	86
+85809	937891	I've never worked with her.	I've never worked with her.	44621015	1473101882042	1473101882259	e	69
+85809	937891	I've never worked with her.	I've never worked with her.	44621021	1473101882145	1473101882302	r	82
+85809	937891	I've never worked with her.	I've never worked with her.	44621022	1473101882259	1473101882362	 	32
+85809	937891	I've never worked with her.	I've never worked with her.	44621024	1473101882377	1473101882531	w	87
+85809	937891	I've never worked with her.	I've never worked with her.	44621026	1473101882486	1473101882578	o	79
+85809	937891	I've never worked with her.	I've never worked with her.	44621030	1473101882578	1473101882714	r	82
+85809	937891	I've never worked with her.	I've never worked with her.	44621077	1473101882699	1473101882798	k	75
+85809	937891	I've never worked with her.	I've never worked with her.	44621078	1473101882799	1473101882896	e	69
+85809	937891	I've never worked with her.	I've never worked with her.	44621080	1473101883005	1473101883111	d	68
+85809	937891	I've never worked with her.	I've never worked with her.	44621084	1473101883521	1473101883613	 	32
+85809	937891	I've never worked with her.	I've never worked with her.	44621087	1473101883644	1473101883760	w	87
+85809	937891	I've never worked with her.	I've never worked with her.	44621098	1473101883743	1473101883811	i	73
+85809	937891	I've never worked with her.	I've never worked with her.	44621100	1473101883845	1473101883980	t	84
+85809	937891	I've never worked with her.	I've never worked with her.	44621103	1473101883899	1473101884030	h	72
+85809	937891	I've never worked with her.	I've never worked with her.	44621107	1473101883980	1473101884095	 	32
+85809	937891	I've never worked with her.	I've never worked with her.	44621109	1473101884173	1473101884247	h	72
+85809	937891	I've never worked with her.	I've never worked with her.	44621127	1473101884231	1473101884374	e	69
+85809	937891	I've never worked with her.	I've never worked with her.	44621130	1473101884313	1473101884457	r	82
+85809	937891	I've never worked with her.	I've never worked with her.	44621133	1473101884457	1473101884571	.	190
+85809	937898	I am out of town on business.	I am out of town on business.	44621221	1473101886664	1473101886847	SHIFT	16
+85809	937898	I am out of town on business.	I am out of town on business.	44621224	1473101886773	1473101886894	I	73
+85809	937898	I am out of town on business.	I am out of town on business.	44621228	1473101886847	1473101886961	 	32
+85809	937898	I am out of town on business.	I am out of town on business.	44621232	1473101886977	1473101887147	a	65
+85809	937898	I am out of town on business.	I am out of town on business.	44621236	1473101887080	1473101887198	m	77
+85809	937898	I am out of town on business.	I am out of town on business.	44621247	1473101887162	1473101887276	 	32
+85809	937898	I am out of town on business.	I am out of town on business.	44621249	1473101887371	1473101887526	o	79
+85809	937898	I am out of town on business.	I am out of town on business.	44621254	1473101887478	1473101887576	u	85
+85809	937898	I am out of town on business.	I am out of town on business.	44621259	1473101887591	1473101887710	t	84
+85809	937898	I am out of town on business.	I am out of town on business.	44621264	1473101887664	1473101887806	 	32
+85809	937898	I am out of town on business.	I am out of town on business.	44621277	1473101887747	1473101887865	o	79
+85809	937898	I am out of town on business.	I am out of town on business.	44621280	1473101887865	1473101887961	f	70
+85809	937898	I am out of town on business.	I am out of town on business.	44621283	1473101887961	1473101888117	 	32
+85809	937898	I am out of town on business.	I am out of town on business.	44621287	1473101888117	1473101888197	t	84
+85809	937898	I am out of town on business.	I am out of town on business.	44621288	1473101888197	1473101888279	o	79
+85809	937898	I am out of town on business.	I am out of town on business.	44621290	1473101888295	1473101888462	w	87
+85809	937898	I am out of town on business.	I am out of town on business.	44621302	1473101888420	1473101888582	n	78
+85809	937898	I am out of town on business.	I am out of town on business.	44621305	1473101888529	1473101888710	 	32
+85809	937898	I am out of town on business.	I am out of town on business.	44621308	1473101888675	1473101888863	o	79
+85809	937898	I am out of town on business.	I am out of town on business.	44621311	1473101888771	1473101888918	n	78
+85809	937898	I am out of town on business.	I am out of town on business.	44621313	1473101888863	1473101888992	 	32
+85809	937898	I am out of town on business.	I am out of town on business.	44621315	1473101889168	1473101889247	b	66
+85809	937898	I am out of town on business.	I am out of town on business.	44621320	1473101889295	1473101889376	u	85
+85809	937898	I am out of town on business.	I am out of town on business.	44621322	1473101889423	1473101889577	s	83
+85809	937898	I am out of town on business.	I am out of town on business.	44621325	1473101889577	1473101889663	i	73
+85809	937898	I am out of town on business.	I am out of town on business.	44621327	1473101889813	1473101889880	n	78
+85809	937898	I am out of town on business.	I am out of town on business.	44621331	1473101889912	1473101889975	e	69
+85809	937898	I am out of town on business.	I am out of town on business.	44621371	1473101890065	1473101890127	e	69
+85809	937898	I am out of town on business.	I am out of town on business.	44621372	1473101890405	1473101890485	BKSP	8
+85809	937898	I am out of town on business.	I am out of town on business.	44621374	1473101890505	1473101890564	s	83
+85809	937898	I am out of town on business.	I am out of town on business.	44621375	1473101890659	1473101890777	s	83
+85809	937898	I am out of town on business.	I am out of town on business.	44621377	1473101890840	1473101890932	.	190
+85809	937902	I will try and find out.	I will try and find out.	44621456	1473101893028	1473101893197	SHIFT	16
+85809	937902	I will try and find out.	I will try and find out.	44621457	1473101893122	1473101893221	I	73
+85809	937902	I will try and find out.	I will try and find out.	44621458	1473101893181	1473101893298	 	32
+85809	937902	I will try and find out.	I will try and find out.	44621459	1473101893329	1473101893486	w	87
+85809	937902	I will try and find out.	I will try and find out.	44621460	1473101893442	1473101893487	i	73
+85809	937902	I will try and find out.	I will try and find out.	44621463	1473101893607	1473101893678	l	76
+85809	937902	I will try and find out.	I will try and find out.	44621468	1473101893730	1473101893862	l	76
+85809	937902	I will try and find out.	I will try and find out.	44621469	1473101893813	1473101893927	 	32
+85809	937902	I will try and find out.	I will try and find out.	44621471	1473101893943	1473101893990	g	84
+85809	937902	I will try and find out.	I will try and find out.	44621473	1473101894073	1473101894229	r	82
+85809	937902	I will try and find out.	I will try and find out.	44621513	1473101894163	1473101894270	y	89
+85809	937902	I will try and find out.	I will try and find out.	44621514	1473101894229	1473101894380	 	32
+85809	937902	I will try and find out.	I will try and find out.	44621517	1473101894696	1473101894748	BKSP	8
+85809	937902	I will try and find out.	I will try and find out.	44621519	1473101894857	1473101894910	BKSP	8
+85809	937902	I will try and find out.	I will try and find out.	44621521	1473101895009	1473101895063	BKSP	8
+85809	937902	I will try and find out.	I will try and find out.	44621522	1473101895158	1473101895246	BKSP	8
+85809	937902	I will try and find out.	I will try and find out.	44621524	1473101895246	1473101895360	r	82
+85809	937902	I will try and find out.	I will try and find out.	44621528	1473101895345	1473101895426	y	89
+85809	937902	I will try and find out.	I will try and find out.	44621532	1473101895411	1473101895524	 	32
+85809	937902	I will try and find out.	I will try and find out.	44621536	1473101895524	1473101895648	a	65
+85809	937902	I will try and find out.	I will try and find out.	44621544	1473101895613	1473101895670	n	78
+85809	937902	I will try and find out.	I will try and find out.	44621546	1473101895754	1473101895830	d	68
+85809	937902	I will try and find out.	I will try and find out.	44621548	1473101895814	1473101895896	 	32
+85809	937902	I will try and find out.	I will try and find out.	44621550	1473101895974	1473101896101	f	70
+85809	937902	I will try and find out.	I will try and find out.	44621552	1473101896078	1473101896145	i	73
+85809	937902	I will try and find out.	I will try and find out.	44621554	1473101896238	1473101896313	n	78
+85809	937902	I will try and find out.	I will try and find out.	44621557	1473101896329	1473101896447	d	68
+85809	937902	I will try and find out.	I will try and find out.	44621560	1473101896447	1473101896576	 	32
+85809	937902	I will try and find out.	I will try and find out.	44621564	1473101896560	1473101896694	o	79
+85809	937902	I will try and find out.	I will try and find out.	44621566	1473101896646	1473101896743	u	85
+85809	937902	I will try and find out.	I will try and find out.	44621628	1473101896712	1473101896825	t	84
+85809	937902	I will try and find out.	I will try and find out.	44621629	1473101896923	1473101896998	;	190
+85809	937902	I will try and find out.	I will try and find out.	44621630	1473101897424	1473101897521	BKSP	8
+85809	937902	I will try and find out.	I will try and find out.	44621632	1473101898379	1473101898476	BKSP	8
+85809	937908	Let me know either way.	Let me know either way.	44621694	1473101900725	1473101900852	SHIFT	16
+85809	937908	Let me know either way.	Let me know either way.	44621695	1473101900819	1473101900931	L	76
+85809	937908	Let me know either way.	Let me know either way.	44621696	1473101900896	1473101901021	e	69
+85809	937908	Let me know either way.	Let me know either way.	44621697	1473101901052	1473101901211	t	84
+85809	937908	Let me know either way.	Let me know either way.	44621698	1473101901196	1473101901340	 	32
+85809	937908	Let me know either way.	Let me know either way.	44621716	1473101901324	1473101901443	m	77
+85809	937908	Let me know either way.	Let me know either way.	44621721	1473101901427	1473101901561	e	69
+85809	937908	Let me know either way.	Let me know either way.	44621725	1473101901511	1473101901625	 	32
+85809	937908	Let me know either way.	Let me know either way.	44621728	1473101901625	1473101901705	k	75
+85809	937908	Let me know either way.	Let me know either way.	44621730	1473101901721	1473101901827	n	78
+85809	937908	Let me know either way.	Let me know either way.	44621732	1473101901827	1473101901925	o	79
+85809	937908	Let me know either way.	Let me know either way.	44621748	1473101901925	1473101902055	w	87
+85809	937908	Let me know either way.	Let me know either way.	44621749	1473101902011	1473101902124	 	32
+85809	937908	Let me know either way.	Let me know either way.	44621750	1473101902358	1473101902461	e	69
+85809	937908	Let me know either way.	Let me know either way.	44621752	1473101902461	1473101902543	i	73
+85809	937908	Let me know either way.	Let me know either way.	44621754	1473101902574	1473101902680	t	84
+85809	937908	Let me know either way.	Let me know either way.	44621763	1473101902646	1473101902739	h	72
+85809	937908	Let me know either way.	Let me know either way.	44621764	1473101902755	1473101902917	e	69
+85809	937908	Let me know either way.	Let me know either way.	44621765	1473101902845	1473101902948	r	82
+85809	937908	Let me know either way.	Let me know either way.	44621766	1473101902894	1473101902994	 	32
+85809	937908	Let me know either way.	Let me know either way.	44621767	1473101903072	1473101903312	w	87
+85809	937908	Let me know either way.	Let me know either way.	44621787	1473101903224	1473101903417	a	65
+85809	937908	Let me know either way.	Let me know either way.	44621783	1473101903312	1473101903402	y	89
+85809	937908	Let me know either way.	Let me know either way.	44621789	1473101903639	1473101903722	.	190

@@ -1,0 +1,681 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927156	1474465316533	1474465317249	SHIFT	16
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927149	1474465317071	1474465317171	M	77
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927161	1474465317416	1474465317535	i	73
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927166	1474465317821	1474465317926	c	67
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927170	1474465317971	1474465318056	h	72
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927174	1474465318087	1474465318191	a	65
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927205	1474465318344	1474465318455	e	69
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927208	1474465318455	1474465318557	l	76
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927210	1474465318715	1474465318811	 	32
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927212	1474465318998	1474465319091	w	87
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927214	1474465319187	1474465319282	a	65
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927270	1474465319393	1474465319496	s	32
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927275	1474465319822	1474465319897	BKSP	8
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927279	1474465319976	1474465320050	BKSP	8
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927284	1474465320050	1474465320141	s	83
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927288	1474465320224	1474465320304	 	32
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927291	1474465320304	1474465320393	g	71
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927341	1474465320671	1474465320733	r	82
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927343	1474465320827	1474465320917	e	69
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927348	1474465320963	1474465321051	t	84
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927350	1474465321098	1474465321184	a	65
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927354	1474465321319	1474465321354	BKSP	8
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927359	1474465321437	1474465321503	BKSP	8
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927364	1474465321503	1474465321586	a	65
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927398	1474465321713	1474465321771	t	84
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927405	1474465321787	1474465321886	 	32
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927409	1474465322145	1474465322221	t	84
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927414	1474465322237	1474465322306	h	72
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927420	1474465322409	1474465322489	i	73
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927496	1474465322523	1474465322605	s	83
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927498	1474465322652	1474465322739	 	32
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927501	1474465322739	1474465322974	SHIFT	16
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927515	1474465323744	1474465324301	SHIFT	16
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927505	1474465323916	1474465324010	A	65
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927510	1474465324057	1474465324159	M	77
+190163	2060817	Michael was great this AM.	Michael was great this AM.	97927520	1474465324527	1474465324596	.	190
+190163	2060827	What is the cost issue?	What is the cost issue>	97927660	1474465326836	1474465327158	SHIFT	16
+190163	2060827	What is the cost issue?	What is the cost issue>	97927658	1474465327055	1474465327122	W	87
+190163	2060827	What is the cost issue?	What is the cost issue>	97927662	1474465327158	1474465327208	h	72
+190163	2060827	What is the cost issue?	What is the cost issue>	97927664	1474465327271	1474465327355	a	65
+190163	2060827	What is the cost issue?	What is the cost issue>	97927666	1474465327355	1474465327439	t	84
+190163	2060827	What is the cost issue?	What is the cost issue>	97927667	1474465327552	1474465327640	 	32
+190163	2060827	What is the cost issue?	What is the cost issue>	97927674	1474465327729	1474465327827	i	73
+190163	2060827	What is the cost issue?	What is the cost issue>	97927676	1474465327858	1474465327942	s	83
+190163	2060827	What is the cost issue?	What is the cost issue>	97927678	1474465327973	1474465328042	 	32
+190163	2060827	What is the cost issue?	What is the cost issue>	97927681	1474465328122	1474465328177	t	84
+190163	2060827	What is the cost issue?	What is the cost issue>	97927687	1474465328224	1474465328277	g	71
+190163	2060827	What is the cost issue?	What is the cost issue>	97927762	1474465328627	1474465328710	BKSP	8
+190163	2060827	What is the cost issue?	What is the cost issue>	97927765	1474465328964	1474465329060	e	69
+190163	2060827	What is the cost issue?	What is the cost issue>	97927769	1474465329152	1474465329199	 	32
+190163	2060827	What is the cost issue?	What is the cost issue>	97927772	1474465329407	1474465329464	BKSP	8
+190163	2060827	What is the cost issue?	What is the cost issue>	97927774	1474465329558	1474465329615	BKSP	8
+190163	2060827	What is the cost issue?	What is the cost issue>	97927776	1474465329648	1474465329715	h	72
+190163	2060827	What is the cost issue?	What is the cost issue>	97927778	1474465329860	1474465329901	h	72
+190163	2060827	What is the cost issue?	What is the cost issue>	97927782	1474465330195	1474465330282	BKSP	8
+190163	2060827	What is the cost issue?	What is the cost issue>	97927786	1474465330282	1474465330384	e	69
+190163	2060827	What is the cost issue?	What is the cost issue>	97927775	1474465330434	1474465330518	 	32
+190163	2060827	What is the cost issue?	What is the cost issue>	97927777	1474465330565	1474465330652	c	67
+190163	2060827	What is the cost issue?	What is the cost issue>	97927779	1474465330699	1474465330800	o	79
+190163	2060827	What is the cost issue?	What is the cost issue>	97927783	1474465330800	1474465330885	s	83
+190163	2060827	What is the cost issue?	What is the cost issue>	97927788	1474465331010	1474465331071	t	84
+190163	2060827	What is the cost issue?	What is the cost issue>	97927814	1474465331099	1474465331154	 	32
+190163	2060827	What is the cost issue?	What is the cost issue>	97927818	1474465331236	1474465331351	i	73
+190163	2060827	What is the cost issue?	What is the cost issue>	97927821	1474465331351	1474465331421	s	83
+190163	2060827	What is the cost issue?	What is the cost issue>	97927826	1474465331483	1474465331571	s	83
+190163	2060827	What is the cost issue?	What is the cost issue>	97927830	1474465331571	1474465331640	u	85
+190163	2060827	What is the cost issue?	What is the cost issue>	97927852	1474465331698	1474465331773	e	69
+190163	2060827	What is the cost issue?	What is the cost issue>	97927861	1474465331912	1474465332156	SHIFT	16
+190163	2060827	What is the cost issue?	What is the cost issue>	97927858	1474465332015	1474465332105	>	190
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928016	1474465334982	1474465335298	SHIFT	16
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928022	1474465335185	1474465335298	T	84
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928026	1474465335345	1474465335449	h	72
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928032	1474465335449	1474465335534	e	69
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928034	1474465335616	1474465335685	r	82
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928037	1474465335716	1474465335818	e	69
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928061	1474465335962	1474465336036	s	83
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928066	1474465336099	1474465336178	a	65
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928070	1474465336288	1474465336370	 	32
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928075	1474465336485	1474465336588	-	189
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928080	1474465336731	1474465336838	 	32
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928109	1474465336838	1474465337103	SHIFT	16
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928103	1474465336978	1474465337040	P	80
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928112	1474465337119	1474465337193	l	76
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928117	1474465337224	1474465337313	e	69
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928120	1474465337422	1474465337520	a	65
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928149	1474465337491	1474465337622	s	83
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928152	1474465337685	1474465337792	e	69
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928156	1474465337823	1474465337909	 	32
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928161	1474465338000	1474465338044	r	82
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928164	1474465338107	1474465338195	e	69
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928165	1474465338352	1474465338442	s	83
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928183	1474465338521	1474465338611	e	69
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928184	1474465338674	1474465338777	n	78
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928185	1474465338777	1474465338849	d	68
+190163	2060836	Theresa - Please resend.	Theresa - Please resend.	97928186	1474465338979	1474465339079	.	190
+190163	2060845	Are you being a baby?	Are you being a baby>	97928328	1474465340536	1474465340984	SHIFT	16
+190163	2060845	Are you being a baby?	Are you being a baby>	97928324	1474465340856	1474465340953	A	65
+190163	2060845	Are you being a baby?	Are you being a baby>	97928331	1474465341126	1474465341173	r	82
+190163	2060845	Are you being a baby?	Are you being a baby>	97928336	1474465341204	1474465341319	e	69
+190163	2060845	Are you being a baby?	Are you being a baby>	97928340	1474465341351	1474465341424	 	32
+190163	2060845	Are you being a baby?	Are you being a baby>	97928343	1474465341721	1474465341792	y	89
+190163	2060845	Are you being a baby?	Are you being a baby>	97928383	1474465341943	1474465342040	o	79
+190163	2060845	Are you being a baby?	Are you being a baby>	97928385	1474465342118	1474465342192	u	85
+190163	2060845	Are you being a baby?	Are you being a baby>	97928387	1474465342271	1474465342358	 	32
+190163	2060845	Are you being a baby?	Are you being a baby>	97928391	1474465342445	1474465342510	h	72
+190163	2060845	Are you being a baby?	Are you being a baby>	97928395	1474465342714	1474465342796	BKSP	8
+190163	2060845	Are you being a baby?	Are you being a baby>	97928398	1474465342809	1474465342926	b	66
+190163	2060845	Are you being a baby?	Are you being a baby>	97928410	1474465342955	1474465343059	e	69
+190163	2060845	Are you being a baby?	Are you being a baby>	97928413	1474465343059	1474465343128	i	73
+190163	2060845	Are you being a baby?	Are you being a baby>	97928417	1474465343191	1474465343246	n	78
+190163	2060845	Are you being a baby?	Are you being a baby>	97928421	1474465343298	1474465343363	g	71
+190163	2060845	Are you being a baby?	Are you being a baby>	97928424	1474465343410	1474465343495	 	32
+190163	2060845	Are you being a baby?	Are you being a baby>	97928470	1474465343554	1474465343633	a	65
+190163	2060845	Are you being a baby?	Are you being a baby>	97928473	1474465343600	1474465343695	 	32
+190163	2060845	Are you being a baby?	Are you being a baby>	97928477	1474465343852	1474465343968	SHIFT	16
+190163	2060845	Are you being a baby?	Are you being a baby>	97928485	1474465344008	1474465344063	b	66
+190163	2060845	Are you being a baby?	Are you being a baby>	97928488	1474465344368	1474465344448	a	65
+190163	2060845	Are you being a baby?	Are you being a baby>	97928492	1474465344668	1474465344768	b	66
+190163	2060845	Are you being a baby?	Are you being a baby>	97928517	1474465344849	1474465344934	y	89
+190163	2060845	Are you being a baby?	Are you being a baby>	97928521	1474465345170	1474465345299	>	190
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928613	1474465347601	1474465347708	J	74
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928615	1474465347817	1474465347910	o	79
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928617	1474465348004	1474465348063	h	72
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928620	1474465348237	1474465348328	m	77
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928623	1474465348485	1474465348610	,	188
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928719	1474465348729	1474465348798	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928720	1474465348862	1474465348951	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928721	1474465349012	1474465349176	n	78
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928725	1474465349441	1474465349517	,	188
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928728	1474465349633	1474465349702	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928732	1474465349858	1474465349954	c	67
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928737	1474465350315	1474465350439	a	65
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928783	1474465350402	1474465350466	n	78
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928785	1474465350576	1474465350622	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928787	1474465350721	1474465350788	y	89
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928789	1474465350959	1474465351039	i	73
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928792	1474465351133	1474465351207	u	85
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928795	1474465351382	1474465351442	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928798	1474465351520	1474465351575	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928804	1474465351655	1474465351744	o	79
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928864	1474465351848	1474465351928	u	85
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928865	1474465352427	1474465352512	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928867	1474465353013	1474465353114	u	85
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928869	1474465353194	1474465353282	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928872	1474465353329	1474465353367	g	71
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928877	1474465353445	1474465353514	i	73
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928979	1474465353867	1474465353979	v	86
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928981	1474465354010	1474465354099	e	69
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928984	1474465354132	1474465354201	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928988	1474465354408	1474465354727	SHIFT	16
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928986	1474465354546	1474465354633	K	75
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97928991	1474465354982	1474465355068	o	79
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929017	1474465355161	1474465355222	n	78
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929021	1474465355316	1474465355372	n	78
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929024	1474465355437	1474465355490	i	73
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929028	1474465355615	1474465355738	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929032	1474465355879	1474465355987	a	65
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929096	1474465355987	1474465356058	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929099	1474465356169	1474465356257	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929103	1474465356494	1474465356576	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929107	1474465356701	1474465356743	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929112	1474465356806	1474465356876	c	67
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929118	1474465357151	1474465357246	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929125	1474465357383	1474465357446	 	32
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929132	1474465357446	1474465357528	c	67
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929178	1474465357578	1474465357661	a	65
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929180	1474465357861	1474465357915	;	186
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929182	1474465358122	1474465358214	BKSP	8
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929185	1474465358276	1474465358379	l	76
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929190	1474465358429	1474465358514	l	76
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929183	1474465358626	1474465358829	SHIFT	16
+190163	2060851	John, can you give Konni a call?	John, can you give Konni a call?	97929193	1474465358688	1474465358813	?	191
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929304	1474465360448	1474465360803	SHIFT	16
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929307	1474465360686	1474465360803	T	84
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929309	1474465360803	1474465360873	h	72
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929311	1474465360908	1474465361021	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929313	1474465361052	1474465361173	r	82
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929317	1474465361173	1474465361226	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929349	1474465361526	1474465361639	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929354	1474465361639	1474465361711	w	87
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929358	1474465361758	1474465361845	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929362	1474465361954	1474465362043	r	82
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929365	1474465362043	1474465362158	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929468	1474465362202	1474465362294	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929472	1474465362906	1474465362981	7	55
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929476	1474465363106	1474465363182	5	53
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929480	1474465363307	1474465363382	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929483	1474465364497	1474465364601	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929556	1474465365072	1474465365171	v	86
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929560	1474465365548	1474465365659	a	65
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929568	1474465365779	1474465365920	c	67
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929577	1474465365920	1474465365991	u	85
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929586	1474465366038	1474465366140	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929660	1474465366209	1474465366294	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929664	1474465366546	1474465366611	BKSP	8
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929668	1474465366877	1474465366962	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929673	1474465367071	1474465367129	s	83
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929679	1474465367211	1474465367295	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929683	1474465367420	1474465367513	o	79
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929734	1474465367624	1474465367656	n	78
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929738	1474465368200	1474465368251	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929740	1474465368329	1474465368418	o	79
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929744	1474465368496	1474465368552	n	78
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929747	1474465368723	1474465368816	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929793	1474465369416	1474465369487	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929797	1474465369581	1474465369670	p	80
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929801	1474465369757	1474465369838	l	76
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929808	1474465369838	1474465369906	a	65
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929816	1474465369969	1474465370023	n	78
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929870	1474465370058	1474465370155	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929871	1474465370202	1474465370289	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929873	1474465370854	1474465370959	a	65
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929876	1474465370959	1474465371011	n	78
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929880	1474465371073	1474465371143	d	68
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929942	1474465371170	1474465371260	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929944	1474465371720	1474465371764	7	55
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929950	1474465372007	1474465372032	3	51
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929952	1474465372271	1474465372345	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929955	1474465372567	1474465372615	o	79
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929987	1474465372775	1474465372864	n	78
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929988	1474465372974	1474465373052	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929994	1474465373155	1474465373217	t	84
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97929997	1474465373248	1474465373333	h	72
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930000	1474465373395	1474465373453	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930015	1474465373453	1474465373519	 	32
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930017	1474465373616	1474465373700	o	79
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930019	1474465373716	1474465373770	t	84
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930023	1474465373833	1474465373905	h	72
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930026	1474465373992	1474465374069	e	69
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930036	1474465374176	1474465374238	r	82
+190163	2060869	There were 75 evacuees on one plane and 73 on the other.	There were 75 evacuees on one plane and 73 on the other.	97930037	1474465374496	1474465374554	.	190
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930205	1474465376163	1474465376547	SHIFT	16
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930200	1474465376276	1474465376360	I	73
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930210	1474465377004	1474465377082	n	78
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930213	1474465377221	1474465377312	 	32
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930218	1474465377374	1474465377501	a	65
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930239	1474465377464	1474465377561	 	32
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930243	1474465377639	1474465377762	m	77
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930248	1474465377762	1474465377833	e	69
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930253	1474465377928	1474465378008	e	69
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930258	1474465378118	1474465378215	t	84
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930266	1474465378215	1474465378285	i	73
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930286	1474465378362	1474465378451	n	78
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930289	1474465378451	1474465378504	g	71
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930293	1474465378582	1474465378669	 	32
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930296	1474465378809	1474465378944	w	87
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930334	1474465378918	1474465379006	i	73
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930337	1474465379089	1474465379151	t	84
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930340	1474465379151	1474465379223	h	72
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930343	1474465379333	1474465379374	 	32
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930347	1474465379468	1474465379524	y	89
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930350	1474465379664	1474465379725	o	73
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930425	1474465379968	1474465380056	BKSP	8
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930427	1474465380134	1474465380193	BKSP	8
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930431	1474465380302	1474465380360	o	79
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930435	1474465380456	1474465380527	u	85
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930440	1474465380605	1474465380645	r	82
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930444	1474465380710	1474465380809	 	32
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930448	1474465381699	1474465381811	g	71
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930465	1474465381811	1474465381898	u	85
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930468	1474465381976	1474465382048	y	89
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930473	1474465382126	1474465382224	s	83
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930474	1474465382224	1474465382284	 	32
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930477	1474465382346	1474465382427	n	78
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930496	1474465382544	1474465382635	o	79
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930503	1474465382635	1474465382684	w	87
+190163	2060887	In a meeting with your guys now.	In a meeting with your guys now.	97930511	1474465382794	1474465382883	.	190
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930665	1474465384817	1474465385073	SHIFT	16
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930663	1474465384943	1474465385027	I	73
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930668	1474465385207	1474465385291	t	84
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930672	1474465385338	1474465385428	'	222
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930677	1474465385475	1474465385560	s	83
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930681	1474465385638	1474465385726	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930714	1474465385726	1474465385801	SHIFT	16
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930717	1474465386191	1474465386278	a	65
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930720	1474465386372	1474465386462	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930722	1474465386462	1474465386564	s	83
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930726	1474465386596	1474465386696	h	72
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930775	1474465386679	1474465386786	a	65
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930782	1474465386959	1474465387112	m	77
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930785	1474465387159	1474465387246	e	69
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930789	1474465387309	1474465387399	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930791	1474465387446	1474465387472	t	84
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930794	1474465387517	1474465387600	o	79
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930830	1474465387847	1474465387918	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930833	1474465387996	1474465388117	h	72
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930838	1474465388117	1474465388205	a	65
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930841	1474465388314	1474465388405	v	86
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930859	1474465388371	1474465388481	e	69
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930862	1474465388575	1474465388671	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930863	1474465388740	1474465388789	t	84
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930866	1474465388836	1474465388924	o	79
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930869	1474465389063	1474465389122	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930872	1474465389232	1474465389322	m	77
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930897	1474465389417	1474465389492	i	73
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930902	1474465389539	1474465389595	s	83
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930908	1474465389673	1474465389741	s	83
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930915	1474465389788	1474465389874	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930922	1474465389936	1474465390040	o	79
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930947	1474465390113	1474465390207	n	78
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930948	1474465390396	1474465390479	e	69
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930949	1474465390571	1474465390680	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930950	1474465390775	1474465390879	o	79
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930953	1474465390926	1474465391010	r	82
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930996	1474465391024	1474465391111	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97930999	1474465391222	1474465391296	o	79
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931002	1474465391468	1474465391531	BKSP	8
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931003	1474465391688	1474465391750	t	84
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931006	1474465391712	1474465391816	h	72
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931009	1474465391909	1474465392008	e	69
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931054	1474465391982	1474465392050	 	32
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931063	1474465392133	1474465392215	o	79
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931070	1474465392232	1474465392284	t	84
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931075	1474465392493	1474465392559	h	72
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931082	1474465392637	1474465392718	e	69
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931090	1474465392765	1474465392820	r	82
+190163	2060897	It's a shame to have to miss one or the other.	It's a shame to have to miss one or the other.	97931088	1474465392881	1474465392969	.	190
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931231	1474465394417	1474465395137	SHIFT	16
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931229	1474465394967	1474465395089	T	84
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931238	1474465395171	1474465395245	h	72
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931243	1474465395261	1474465395343	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931248	1474465395437	1474465395526	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931253	1474465395526	1474465395611	s	83
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931279	1474465395689	1474465395778	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931284	1474465395857	1474465395946	c	67
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931290	1474465395946	1474465396030	o	79
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931294	1474465396108	1474465396180	n	78
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931297	1474465396273	1474465396347	d	68
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931314	1474465396416	1474465396481	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931319	1474465396481	1474465396628	d	68
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931322	1474465396628	1474465396729	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931325	1474465396847	1474465396947	a	65
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931328	1474465396947	1474465397016	l	76
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931364	1474465397104	1474465397193	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931367	1474465397415	1474465397557	i	73
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931373	1474465397607	1474465397687	n	78
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931379	1474465397812	1474465397885	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931382	1474465397885	1474465398001	q	81
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931414	1474465398001	1474465398117	u	85
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931419	1474465398117	1474465398203	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931426	1474465398286	1474465398385	s	83
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931433	1474465398872	1474465398972	t	84
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931442	1474465399050	1474465399107	i	85
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931511	1474465399371	1474465399456	BKSP	8
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931516	1474465399492	1474465399590	BKSP	8
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931523	1474465399701	1474465399807	i	73
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931530	1474465399886	1474465399975	o	79
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931541	1474465400070	1474465400144	n	78
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931547	1474465400238	1474465400326	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931554	1474465400466	1474465400607	w	87
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931576	1474465400607	1474465400663	h	72
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931579	1474465400772	1474465400861	i	73
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931581	1474465400908	1474465401010	c	67
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931583	1474465401010	1474465401065	h	72
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931584	1474465401262	1474465401331	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931595	1474465401400	1474465401494	n	78
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931600	1474465401464	1474465401548	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931604	1474465401644	1474465401731	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931607	1474465401840	1474465401978	d	68
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931610	1474465401978	1474465402082	s	83
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931662	1474465402097	1474465402168	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931668	1474465402438	1474465402532	o	79
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931674	1474465402673	1474465402751	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931679	1474465402870	1474465403031	b	66
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931769	1474465403014	1474465403094	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931774	1474465403299	1474465403372	BKSP	8
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931776	1474465403456	1474465403522	BKSP	8
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931780	1474465403601	1474465403642	BKSP	8
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931784	1474465403738	1474465403806	BKSP	8
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931787	1474465403918	1474465403990	t	84
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931791	1474465403990	1474465404058	o	79
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931795	1474465404186	1474465404273	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931799	1474465404305	1474465404406	b	66
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931803	1474465404406	1474465404510	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931831	1474465404568	1474465404658	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931837	1474465404783	1474465404875	r	82
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931844	1474465404922	1474465405009	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931850	1474465405150	1474465405243	s	83
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931860	1474465405450	1474465405528	o	79
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931893	1474465405662	1474465405730	l	76
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931896	1474465405761	1474465405864	v	86
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931902	1474465405896	1474465405980	e	69
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931906	1474465406043	1474465406114	d	68
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931909	1474465406161	1474465406247	 	32
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931950	1474465406304	1474465406398	a	65
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931956	1474465406454	1474465406531	s	83
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931961	1474465406612	1474465406683	a	65
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931967	1474465406726	1474465406816	p	80
+190163	2060911	The second deal in question which needs to be resolved asap.	The second deal in question which needs to be resolved asap.	97931971	1474465406926	1474465407015	.	190
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932199	1474465408410	1474465409198	SHIFT	16
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932193	1474465409078	1474465409159	D	68
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932202	1474465409159	1474465409268	O	79
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932205	1474465409424	1474465409523	 	32
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932210	1474465409625	1474465409662	y	89
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932213	1474465409884	1474465409960	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932216	1474465410038	1474465410095	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932220	1474465410175	1474465410246	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932226	1474465410311	1474465410395	o	79
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932223	1474465410473	1474465410562	 	32
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932227	1474465410686	1474465410747	y	89
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932230	1474465410872	1474465410963	o	79
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932233	1474465411057	1474465411116	u	85
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932237	1474465411214	1474465411301	 	32
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932310	1474465411376	1474465411435	b	66
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932314	1474465411398	1474465411435	h	72
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932316	1474465411771	1474465411818	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932318	1474465411918	1474465411950	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932319	1474465412146	1474465412266	a	65
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932321	1474465412519	1474465412601	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932323	1474465412726	1474465412805	h	72
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932325	1474465412805	1474465412887	a	65
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932348	1474465412983	1474465413086	v	86
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932352	1474465413086	1474465413156	e	69
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932358	1474465413187	1474465413275	 	32
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932362	1474465413470	1474465413594	h	72
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932367	1474465413742	1474465413807	a	65
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932428	1474465413872	1474465413942	t	84
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932432	1474465414170	1474465414211	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932436	1474465414297	1474465414344	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932441	1474465414429	1474465414494	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932444	1474465414556	1474465414596	t	84
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932448	1474465414674	1474465414761	h	72
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932452	1474465414808	1474465414863	a	65
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932455	1474465415174	1474465415246	 	32
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932485	1474465415478	1474465415615	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932487	1474465415678	1474465415716	t	84
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932490	1474465415763	1474465415850	 	32
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932494	1474465415928	1474465416061	i	73
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932496	1474465416061	1474465416117	n	78
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932498	1474465416179	1474465416254	f	70
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932544	1474465416406	1474465416533	o	79
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932547	1474465416580	1474465416636	r	82
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932551	1474465416776	1474465416867	m	77
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932555	1474465417040	1474465417149	a	65
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932558	1474465417317	1474465417370	t	84
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932590	1474465417370	1474465417439	i	73
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932595	1474465417520	1474465417603	o	79
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932599	1474465417668	1474465417754	n	78
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932602	1474465417863	1474465417941	 	32
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932605	1474465418035	1474465418106	t	84
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932676	1474465418106	1474465418206	e	69
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932686	1474465418288	1474465418357	s	83
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932691	1474465418697	1474465418759	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932697	1474465418857	1474465418911	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932702	1474465418973	1474465419043	BKSP	8
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932705	1474465419152	1474465419227	y	89
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932710	1474465419289	1474465419392	e	69
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932717	1474465419439	1474465419495	t	84
+190163	2060928	Do you have that information yet?.	Do you have that information yet>	97932712	1474465419736	1474465419827	>	190
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932886	1474465421462	1474465421550	i	73
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932887	1474465421835	1474465421951	BKSP	8
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932890	1474465422094	1474465422154	I	73
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932899	1474465422388	1474465422485	'	222
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932903	1474465422611	1474465422671	l	76
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932908	1474465422707	1474465422773	l	76
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932976	1474465423306	1474465423386	 	32
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932980	1474465423417	1474465423508	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932983	1474465423539	1474465423609	r	82
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932986	1474465423640	1474465423742	y	89
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97932987	1474465423867	1474465423910	 	32
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933052	1474465424000	1474465424077	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933056	1474465424389	1474465424476	BKSP	8
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933062	1474465424510	1474465424596	a	65
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933067	1474465424643	1474465424744	n	78
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933070	1474465424775	1474465424847	d	68
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933075	1474465424878	1474465424963	 	32
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933138	1474465425112	1474465425196	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933144	1474465425321	1474465425417	BKSP	8
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933149	1474465425417	1474465425483	g	71
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933157	1474465425655	1474465425717	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933165	1474465425842	1474465425886	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933174	1474465426191	1474465426267	BKSP	8
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933183	1474465426337	1474465426402	BKSP	8
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933190	1474465426402	1474465426485	e	69
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933201	1474465426554	1474465426604	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933202	1474465426636	1474465426720	 	32
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933204	1474465426784	1474465426870	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933206	1474465426838	1474465426953	o	79
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933208	1474465427078	1474465427144	 	32
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933269	1474465427332	1474465427420	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933273	1474465427436	1474465427490	h	72
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933277	1474465427591	1474465427675	i	73
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933281	1474465427722	1474465427805	s	83
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933286	1474465427821	1474465427892	 	32
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933328	1474465427983	1474465428073	l	76
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933329	1474465428104	1474465428174	a	65
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933330	1474465428303	1474465428396	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933333	1474465428726	1474465428796	e	69
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933335	1474465428894	1474465428945	r	82
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933402	1474465429182	1474465429261	 	32
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933407	1474465429433	1474465429528	t	84
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933411	1474465429575	1474465429677	o	79
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933414	1474465429677	1474465429758	d	68
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933416	1474465429808	1474465429899	a	65
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933456	1474465429921	1474465429982	y	89
+190163	2060948	I'll try and get to this later today.	I'll try and get to this later today.	97933463	1474465430672	1474465430736	.	190
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933583	1474465432405	1474465432752	SHIFT	16
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933582	1474465432584	1474465432689	O	79
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933585	1474465432830	1474465432891	u	85
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933586	1474465432989	1474465433059	r	82
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933587	1474465433107	1474465433176	 	32
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933589	1474465433223	1474465433325	f	70
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933640	1474465433606	1474465433710	o	79
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933642	1474465433784	1474465433845	r	82
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933645	1474465433970	1474465434092	c	67
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933648	1474465434107	1474465434213	e	69
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933651	1474465434323	1474465434396	a	83
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933720	1474465434440	1474465434547	 	32
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933725	1474465434770	1474465434846	BKSP	8
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933730	1474465434921	1474465434997	BKSP	8
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933733	1474465435171	1474465435217	 	32
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933736	1474465435265	1474465435365	a	65
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933741	1474465435459	1474465435566	r	82
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933821	1474465435552	1474465435670	e	69
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933822	1474465435634	1474465435734	 	32
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933823	1474465435861	1474465435950	f	70
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933824	1474465436137	1474465436250	BKSP	8
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933825	1474465436250	1474465436336	r	82
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933827	1474465436614	1474465436671	e	69
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933829	1474465436812	1474465436904	a	65
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933854	1474465436968	1474465437054	d	68
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933862	1474465437054	1474465437108	y	89
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933872	1474465437233	1474465437322	 	32
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933880	1474465437416	1474465437460	t	84
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933887	1474465437522	1474465437622	o	79
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933903	1474465437727	1474465437823	 	32
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933908	1474465437936	1474465438024	c	67
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933910	1474465438024	1474465438109	o	79
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933914	1474465438173	1474465438259	m	77
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933920	1474465438274	1474465438345	e	69
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933952	1474465438384	1474465438478	 	32
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933955	1474465438556	1474465438659	i	73
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933960	1474465438738	1474465438811	m	77
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933967	1474465438897	1474465438963	m	77
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97933976	1474465439057	1474465439145	e	69
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934045	1474465439361	1474465439415	i	73
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934050	1474465439601	1474465439664	BKSP	8
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934056	1474465439727	1474465439814	d	68
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934062	1474465439861	1474465439933	i	73
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934067	1474465440201	1474465440314	a	65
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934070	1474465440534	1474465440617	t	84
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934113	1474465440664	1474465440767	e	69
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934117	1474465440861	1474465440954	l	76
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934124	1474465440969	1474465441052	y	89
+190163	2060961	Our forces are ready to come immediately.	Our forces are ready to come immediately.	97934131	1474465441423	1474465441566	.	190
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934263	1474465443442	1474465444027	SHIFT	16
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934260	1474465443898	1474465443996	T	84
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934266	1474465444043	1474465444114	g	71
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934272	1474465444161	1474465444231	e	69
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934276	1474465444293	1474465444380	 	32
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934367	1474465444670	1474465444735	BKSP	8
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934370	1474465444766	1474465444842	BKSP	8
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934373	1474465444921	1474465445015	BKSP	8
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934376	1474465445251	1474465445317	h	72
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934382	1474465445349	1474465445403	e	69
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934384	1474465445497	1474465445585	 	32
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934388	1474465445785	1474465445884	m	77
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934393	1474465445900	1474465446006	a	65
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934414	1474465446119	1474465446219	t	84
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934417	1474465446301	1474465446356	t	84
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934419	1474465446404	1474465446503	e	69
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934422	1474465446535	1474465446621	r	82
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934426	1474465446668	1474465446771	 	32
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934464	1474465446785	1474465446830	e	69
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934466	1474465447116	1474465447222	BKSP	8
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934468	1474465447256	1474465447341	w	87
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934470	1474465447436	1474465447556	a	65
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934472	1474465447556	1474465447642	s	83
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934476	1474465447673	1474465447786	 	32
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934507	1474465448422	1474465448520	s	83
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934510	1474465448701	1474465448762	t	84
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934513	1474465448762	1474465448799	i	73
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934516	1474465448926	1474465448982	l	76
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934520	1474465449062	1474465449132	l	76
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934543	1474465449254	1474465449346	 	32
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934545	1474465449377	1474465449454	b	66
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934547	1474465449485	1474465449569	e	69
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934549	1474465449534	1474465449633	i	73
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934551	1474465449679	1474465449782	n	78
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934572	1474465449813	1474465449845	g	71
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934575	1474465449900	1474465449983	 	32
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934578	1474465450186	1474465450283	i	73
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934580	1474465450330	1474465450418	n	78
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934583	1474465450465	1474465450552	v	86
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934606	1474465450623	1474465450719	e	69
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934611	1474465450836	1474465450920	s	83
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934616	1474465451079	1474465451155	t	84
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934623	1474465451187	1474465451240	i	73
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934626	1474465451383	1474465451440	g	71
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934649	1474465451480	1474465451572	a	65
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934654	1474465451701	1474465451772	t	84
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934661	1474465451804	1474465451890	e	69
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934668	1474465451953	1474465452041	d	68
+190163	2060978	The matter was still being investigated.	The matter was still being investigated.	97934674	1474465452072	1474465452173	.	190
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934787	1474465453501	1474465453828	SHIFT	16
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934783	1474465453678	1474465453781	I	73
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934791	1474465454048	1474465454146	 	32
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934794	1474465454258	1474465454364	n	78
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934797	1474465454364	1474465454434	e	69
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934800	1474465454528	1474465454618	e	69
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934849	1474465454712	1474465454816	d	68
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934853	1474465454816	1474465454884	 	32
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934856	1474465454978	1474465455036	y	89
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934860	1474465455193	1474465455263	i	73
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934865	1474465455484	1474465455569	BKSP	8
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934867	1474465455650	1474465455754	o	79
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934892	1474465455894	1474465455970	u	85
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934893	1474465456017	1474465456108	r	82
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934895	1474465456108	1474465456190	 	32
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934896	1474465456255	1474465456340	h	72
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934898	1474465456449	1474465456540	o	79
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934943	1474465456599	1474465456690	m	77
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934944	1474465456799	1474465456893	 	32
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934945	1474465456854	1474465456955	e	69
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934946	1474465457082	1474465457145	BKSP	8
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934947	1474465457225	1474465457310	BKSP	8
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934948	1474465457341	1474465457401	e	69
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934949	1474465457463	1474465457558	 	32
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934963	1474465457592	1474465457708	c	67
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934964	1474465457724	1474465457811	e	69
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934965	1474465457857	1474465457898	l	76
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934966	1474465457991	1474465458063	l	76
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934967	1474465458157	1474465458246	 	32
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934987	1474465458304	1474465458412	o	79
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934991	1474465458427	1474465458530	r	82
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97934995	1474465458545	1474465458633	 	32
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935001	1474465458728	1474465458814	w	87
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935003	1474465458830	1474465458915	h	72
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935035	1474465458944	1474465459032	a	65
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935037	1474465459063	1474465459117	t	84
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935040	1474465459227	1474465459316	e	69
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935045	1474465459433	1474465459518	v	86
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935050	1474465459738	1474465459817	e	69
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935079	1474465459887	1474465459954	r	82
+190163	2060989	I need your home cell or whatever.	I need your home cell or whatever.	97935084	1474465460036	1474465460134	.	190
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935237	1474465461766	1474465462226	SHIFT	16
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935242	1474465462126	1474465462226	W	87
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935247	1474465462353	1474465462447	e	69
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935252	1474465462540	1474465462643	 	32
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935257	1474465462643	1474465462728	a	65
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935262	1474465462807	1474465462895	r	82
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935300	1474465462895	1474465462979	e	69
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935304	1474465463058	1474465463145	 	32
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935308	1474465463192	1474465463343	s	83
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935312	1474465463429	1474465463497	o	79
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935315	1474465463560	1474465463684	m	77
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935356	1474465463720	1474465463767	e	69
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935359	1474465464007	1474465464098	w	87
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935363	1474465464145	1474465464217	h	72
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935368	1474465464264	1474465464303	e	69
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935371	1474465464665	1474465464750	BKSP	8
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935374	1474465464750	1474465464805	a	65
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935465	1474465464887	1474465464970	t	84
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935470	1474465465081	1474465465169	 	32
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935475	1474465465326	1474465465542	SHIFT	16
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935480	1474465465720	1474465465807	e	69
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935483	1474465465842	1474465465923	m	77
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935485	1474465466679	1474465466759	a	65
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935546	1474465467213	1474465467309	s	83
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935549	1474465467450	1474465467561	c	67
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935552	1474465467655	1474465467729	u	85
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935555	1474465467907	1474465468028	l	76
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935560	1474465468028	1474465468113	a	65
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935590	1474465468238	1474465468299	t	84
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935593	1474465468346	1474465468400	e	69
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935598	1474465468556	1474465468601	d	68
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935603	1474465468664	1474465468749	 	32
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935609	1474465469017	1474465469084	b	66
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935636	1474465469493	1474465469584	y	89
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935641	1474465469615	1474465469688	s	83
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935646	1474465469797	1474465469885	t	84
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935651	1474465469935	1474465470021	a	65
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935657	1474465470146	1474465470189	b	66
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935696	1474465470420	1474465470494	BKSP	8
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935697	1474465470604	1474465470688	n	78
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935699	1474465470688	1474465470757	d	68
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935702	1474465470820	1474465470893	e	69
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935705	1474465470924	1474465470991	r	82
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935709	1474465471163	1474465471256	s	83
+190163	2060997	We are somewhat emasculated bystanders.	We are somewhat emasculated bystanders.	97935715	1474465471350	1474465471457	.	190

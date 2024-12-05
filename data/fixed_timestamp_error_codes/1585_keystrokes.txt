@@ -1,0 +1,676 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+1585	16194	This is the limit.	this is the limit	774813	1471956079067	1471956079239	t	84
+1585	16194	This is the limit.	this is the limit	774815	1471956079324	1471956079453	h	72
+1585	16194	This is the limit.	this is the limit	774818	1471956079385	1471956079526	i	73
+1585	16194	This is the limit.	this is the limit	774821	1471956079505	1471956079605	s	83
+1585	16194	This is the limit.	this is the limit	774827	1471956079626	1471956079741	 	32
+1585	16194	This is the limit.	this is the limit	774874	1471956079914	1471956080045	i	73
+1585	16194	This is the limit.	this is the limit	774875	1471956080055	1471956080141	s	83
+1585	16194	This is the limit.	this is the limit	774876	1471956080130	1471956080220	 	32
+1585	16194	This is the limit.	this is the limit	774877	1471956080595	1471956080700	t	84
+1585	16194	This is the limit.	this is the limit	774878	1471956080742	1471956080847	h	72
+1585	16194	This is the limit.	this is the limit	774920	1471956080812	1471956080920	e	69
+1585	16194	This is the limit.	this is the limit	774923	1471956080948	1471956081052	 	32
+1585	16194	This is the limit.	this is the limit	774925	1471956081394	1471956081485	l	76
+1585	16194	This is the limit.	this is the limit	774927	1471956081575	1471956081651	i	73
+1585	16194	This is the limit.	this is the limit	774928	1471956081753	1471956081896	m	77
+1585	16194	This is the limit.	this is the limit	774929	1471956081847	1471956081975	i	73
+1585	16194	This is the limit.	this is the limit	774930	1471956081931	1471956082049	t	84
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775052	1471956085276	1471956085435	a	65
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775055	1471956085446	1471956085556	r	82
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775057	1471956085541	1471956085642	e	69
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775059	1471956085630	1471956085721	 	32
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775060	1471956086252	1471956086358	y	89
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775097	1471956086352	1471956086431	o	79
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775099	1471956086482	1471956086568	u	85
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775101	1471956086990	1471956087102	 	32
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775103	1471956087236	1471956087355	g	71
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775105	1471956087461	1471956087639	o	79
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775139	1471956087627	1471956087742	i	73
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775141	1471956087862	1471956087956	n	78
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775146	1471956087966	1471956088049	g	71
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775150	1471956088249	1471956088355	 	32
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775154	1471956088416	1471956088538	t	84
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775205	1471956088518	1471956088622	o	79
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775206	1471956088702	1471956088842	 	32
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775207	1471956088955	1471956089182	j	74
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775208	1471956089166	1471956089224	i	73
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775209	1471956089685	1471956089801	BKSP	8
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775210	1471956089967	1471956090068	o	79
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775211	1471956090129	1471956090204	i	73
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775243	1471956090328	1471956090423	n	78
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775244	1471956090635	1471956090749	 	32
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775246	1471956090851	1471956090930	s	83
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775248	1471956091235	1471956091347	BKSP	8
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775252	1471956091598	1471956091666	u	85
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775256	1471956091681	1471956091782	s	83
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775267	1471956091759	1471956091847	 	32
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775270	1471956091912	1471956092014	f	70
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775273	1471956092003	1471956092103	o	79
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775275	1471956092134	1471956092218	r	82
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775281	1471956092208	1471956092273	 	32
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775285	1471956092372	1471956092466	l	76
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775335	1471956092587	1471956092651	u	85
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775337	1471956092859	1471956092950	c	67
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775341	1471956092985	1471956093063	h	72
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775343	1471956093209	1471956093402	SHIFT	16
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775347	1471956093345	1471956093452	>	190
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775352	1471956093955	1471956094023	BKSP	8
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775356	1471956094099	1471956094161	BKSP	8
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775360	1471956094241	1471956094315	BKSP	8
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775363	1471956094857	1471956094928	n	78
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775369	1471956094949	1471956095023	c	67
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775371	1471956095012	1471956095061	h	72
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775377	1471956095269	1471956095567	SHIFT	16
+1585	16200	Are you going to join us for lunch?	are you going to join us for lunch?	775373	1471956095442	1471956095557	?	191
+1585	16206	We will keep you posted.	we will keep you posted	775486	1471956098827	1471956098983	w	87
+1585	16206	We will keep you posted.	we will keep you posted	775489	1471956098918	1471956099034	e	69
+1585	16206	We will keep you posted.	we will keep you posted	775492	1471956099046	1471956099151	 	32
+1585	16206	We will keep you posted.	we will keep you posted	775494	1471956099216	1471956099322	w	87
+1585	16206	We will keep you posted.	we will keep you posted	775514	1471956099310	1471956099405	i	73
+1585	16206	We will keep you posted.	we will keep you posted	775516	1471956099509	1471956099587	l	76
+1585	16206	We will keep you posted.	we will keep you posted	775518	1471956099648	1471956099700	l	76
+1585	16206	We will keep you posted.	we will keep you posted	775519	1471956099812	1471956099893	 	32
+1585	16206	We will keep you posted.	we will keep you posted	775520	1471956100077	1471956100200	k	75
+1585	16206	We will keep you posted.	we will keep you posted	775521	1471956100220	1471956100319	e	69
+1585	16206	We will keep you posted.	we will keep you posted	775540	1471956100360	1471956100417	p	80
+1585	16206	We will keep you posted.	we will keep you posted	775541	1471956100937	1471956101027	BKSP	8
+1585	16206	We will keep you posted.	we will keep you posted	775542	1471956101046	1471956101126	e	69
+1585	16206	We will keep you posted.	we will keep you posted	775543	1471956101142	1471956101308	p	80
+1585	16206	We will keep you posted.	we will keep you posted	775544	1471956101468	1471956101583	 	32
+1585	16206	We will keep you posted.	we will keep you posted	775545	1471956101919	1471956102025	y	89
+1585	16206	We will keep you posted.	we will keep you posted	775573	1471956102052	1471956102114	o	79
+1585	16206	We will keep you posted.	we will keep you posted	775575	1471956102936	1471956103015	u	85
+1585	16206	We will keep you posted.	we will keep you posted	775578	1471956103452	1471956103527	 	32
+1585	16206	We will keep you posted.	we will keep you posted	775581	1471956103886	1471956103983	p	80
+1585	16206	We will keep you posted.	we will keep you posted	775584	1471956104108	1471956104214	o	79
+1585	16206	We will keep you posted.	we will keep you posted	775592	1471956104299	1471956104403	s	83
+1585	16206	We will keep you posted.	we will keep you posted	775593	1471956104448	1471956104543	t	84
+1585	16206	We will keep you posted.	we will keep you posted	775595	1471956104638	1471956104796	e	69
+1585	16206	We will keep you posted.	we will keep you posted	775598	1471956104750	1471956104876	d	68
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775691	1471956108442	1471956108543	t	84
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775692	1471956108566	1471956108650	h	72
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775693	1471956108651	1471956108773	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775694	1471956108726	1471956108814	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775695	1471956108836	1471956108941	r	82
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775725	1471956108955	1471956109040	u	85
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775727	1471956109335	1471956109457	l	76
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775729	1471956109472	1471956109556	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775730	1471956109567	1471956109675	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775731	1471956109915	1471956110046	w	87
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775767	1471956109966	1471956110230	a	65
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775772	1471956110174	1471956110314	s	83
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775776	1471956110324	1471956110430	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775780	1471956111385	1471956111511	a	65
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775784	1471956111530	1471956111664	i	73
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775787	1471956111686	1471956111833	m	77
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775813	1471956111822	1471956111905	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775814	1471956112223	1471956112343	d	68
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775815	1471956112486	1471956112582	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775817	1471956112669	1471956112754	a	65
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775819	1471956112744	1471956112886	t	84
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775821	1471956113004	1471956113118	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775844	1471956113210	1471956113295	a	65
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775847	1471956113330	1471956113409	l	76
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775849	1471956113474	1471956113537	l	76
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775850	1471956113629	1471956113715	o	79
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775851	1471956113949	1471956114071	w	87
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775875	1471956114405	1471956114541	i	73
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775878	1471956114556	1471956114662	n	78
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775881	1471956114663	1471956114714	g	71
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775883	1471956114751	1471956114831	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775885	1471956114960	1471956115190	l	76
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775920	1471956115138	1471956115262	o	79
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775923	1471956115273	1471956115352	w	87
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775926	1471956115372	1471956115482	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775928	1471956115657	1471956115776	b	66
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775931	1471956116398	1471956116505	u	85
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	775934	1471956116545	1471956116646	d	68
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776026	1471956117036	1471956117139	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776028	1471956117206	1471956117270	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776032	1471956117341	1471956117399	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776035	1471956117465	1471956117557	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776037	1471956118359	1471956118452	-	189
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776039	1471956118689	1471956118771	b	66
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776040	1471956118903	1471956118998	u	85
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776041	1471956119478	1471956119589	d	68
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776042	1471956120716	1471956120825	g	71
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776070	1471956120925	1471956121042	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776071	1471956121056	1471956121153	t	84
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776073	1471956122001	1471956122090	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776075	1471956122156	1471956122268	t	84
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776097	1471956122225	1471956122389	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776099	1471956122335	1471956122478	a	65
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776100	1471956122432	1471956122552	m	77
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776101	1471956122594	1471956122727	s	83
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776102	1471956122742	1471956122884	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776103	1471956123090	1471956123186	t	84
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776110	1471956123243	1471956123331	o	79
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776112	1471956123428	1471956123506	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776114	1471956123617	1471956123670	v	86
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776116	1471956123715	1471956123811	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776201	1471956123801	1471956123837	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776204	1471956124252	1471956124315	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776205	1471956124389	1471956124458	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776207	1471956124530	1471956124597	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776208	1471956124774	1471956124877	v	86
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776210	1471956125388	1471956125494	BKSP	8
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776212	1471956125509	1471956125625	b	66
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776213	1471956125594	1471956125703	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776214	1471956125691	1471956125827	 	32
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776215	1471956126138	1471956126252	c	67
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776232	1471956126241	1471956126372	o	79
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776233	1471956126399	1471956126514	m	77
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776234	1471956126594	1471956126720	p	80
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776235	1471956126811	1471956126927	e	69
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776236	1471956127447	1471956127557	t	84
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776237	1471956127601	1471956127700	i	73
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776243	1471956127746	1471956127831	t	84
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776244	1471956127881	1471956127958	i	73
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776245	1471956128119	1471956128171	v	86
+1585	16213	The rule was aimed at allowing low-budget teams to be competitive.	the rule was aimed at allowing low-budget teams to be competitive	776247	1471956128195	1471956128270	e	69
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776404	1471956132266	1471956132377	t	84
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776406	1471956132404	1471956132498	h	72
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776408	1471956132487	1471956132586	a	65
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776410	1471956132575	1471956132660	t	84
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776412	1471956132842	1471956132964	 	32
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776453	1471956133324	1471956133442	r	82
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776455	1471956133404	1471956133524	a	65
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776457	1471956133840	1471956133979	n	78
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776460	1471956134194	1471956134308	k	75
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776464	1471956134330	1471956134415	s	83
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776506	1471956134395	1471956134505	 	32
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776508	1471956134977	1471956135093	f	70
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776510	1471956135250	1471956135307	i	73
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776512	1471956135617	1471956135705	f	70
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776515	1471956135816	1471956135912	t	84
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776518	1471956135918	1471956136027	h	72
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776557	1471956136433	1471956136593	 	32
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776559	1471956136949	1471956137043	f	70
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776561	1471956137053	1471956137146	o	79
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776563	1471956137168	1471956137246	r	82
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776592	1471956137236	1471956137306	 	32
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776593	1471956137420	1471956137512	t	84
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776594	1471956137583	1471956137692	h	72
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776597	1471956138253	1471956138333	e	69
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776600	1471956138353	1471956138458	 	32
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776602	1471956138533	1471956138674	w	87
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776611	1471956138708	1471956138815	e	69
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776613	1471956138870	1471956138925	e	75
+1585	16233	That ranks fifth for the week.	that ranks fifth for the wekek	776615	1471956138997	1471956139056	k	75
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776840	1471956143319	1471956143398	b	66
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776841	1471956143457	1471956143488	o	79
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776842	1471956143576	1471956143650	b	66
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776844	1471956143861	1471956143977	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776846	1471956144733	1471956144858	BKSP	8
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776848	1471956145509	1471956145597	,	188
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776998	1471956145648	1471956145721	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	776999	1471956145847	1471956145930	i	73
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777000	1471956146131	1471956146198	l	76
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777002	1471956146249	1471956146323	l	76
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777004	1471956146652	1471956146721	BKSP	8
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777006	1471956146782	1471956146861	BKSP	8
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777010	1471956149410	1471956149465	'	222
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777128	1471956150563	1471956150782	BKSP	8
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777134	1471956151600	1471956151652	l	76
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777141	1471956151710	1471956151773	l	76
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777147	1471956151884	1471956151968	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777149	1471956152540	1471956152620	p	80
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777153	1471956152703	1471956152798	i	73
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777162	1471956152829	1471956152924	c	67
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777164	1471956152897	1471956152976	k	75
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777167	1471956153073	1471956153147	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777171	1471956153167	1471956153358	s	83
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777227	1471956153300	1471956153427	a	65
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777229	1471956153431	1471956153538	n	78
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777230	1471956153647	1471956153750	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777233	1471956154593	1471956154719	d	68
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777236	1471956154964	1471956155078	i	73
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777240	1471956155349	1471956155474	e	69
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777264	1471956155670	1471956155759	g	71
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777265	1471956155792	1471956155877	o	79
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777267	1471956155973	1471956156088	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777269	1471956156142	1471956156317	a	65
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777323	1471956156223	1471956156359	s	83
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777325	1471956156348	1471956156416	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777328	1471956156513	1471956156624	m	77
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777330	1471956156711	1471956156792	t	84
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777333	1471956156771	1471956156813	y	89
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777336	1471956157244	1471956157270	BKSP	8
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777338	1471956157401	1471956157475	BKSP	8
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777342	1471956157637	1471956157723	y	89
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777375	1471956157876	1471956158000	 	32
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777379	1471956158325	1471956158473	w	87
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777382	1471956158442	1471956158540	i	73
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777384	1471956158631	1471956158691	n	78
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777386	1471956158765	1471956158824	n	78
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777391	1471956158826	1471956158926	e	69
+1585	16241	Bob, I'll pick San Diego as my winner.	bob, i'll pick san diego as my winner	777393	1471956158916	1471956158973	r	82
+1585	16260	Have a good weekend.	have a good weekend	777548	1471956163028	1471956163119	h	72
+1585	16260	Have a good weekend.	have a good weekend	777551	1471956163101	1471956163212	a	65
+1585	16260	Have a good weekend.	have a good weekend	777555	1471956163202	1471956163280	v	86
+1585	16260	Have a good weekend.	have a good weekend	777557	1471956163295	1471956163392	e	69
+1585	16260	Have a good weekend.	have a good weekend	777594	1471956163382	1471956163466	 	32
+1585	16260	Have a good weekend.	have a good weekend	777599	1471956163520	1471956163623	a	65
+1585	16260	Have a good weekend.	have a good weekend	777605	1471956163606	1471956163704	 	32
+1585	16260	Have a good weekend.	have a good weekend	777608	1471956164034	1471956164122	g	71
+1585	16260	Have a good weekend.	have a good weekend	777612	1471956164193	1471956164260	o	79
+1585	16260	Have a good weekend.	have a good weekend	777616	1471956164319	1471956164393	o	79
+1585	16260	Have a good weekend.	have a good weekend	777630	1471956164423	1471956164519	d	68
+1585	16260	Have a good weekend.	have a good weekend	777634	1471956164529	1471956164614	 	32
+1585	16260	Have a good weekend.	have a good weekend	777636	1471956164651	1471956164794	w	87
+1585	16260	Have a good weekend.	have a good weekend	777639	1471956164754	1471956164880	e	69
+1585	16260	Have a good weekend.	have a good weekend	777645	1471956165125	1471956165203	e	69
+1585	16260	Have a good weekend.	have a good weekend	777670	1471956165305	1471956165403	k	75
+1585	16260	Have a good weekend.	have a good weekend	777673	1471956165786	1471956165899	e	69
+1585	16260	Have a good weekend.	have a good weekend	777675	1471956165913	1471956166010	n	78
+1585	16260	Have a good weekend.	have a good weekend	777678	1471956165999	1471956166080	d	68
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777852	1471956169656	1471956169730	k	75
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777853	1471956169797	1471956169865	i	73
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777854	1471956169956	1471956170036	m	77
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777856	1471956170916	1471956171015	,	188
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777923	1471956171004	1471956171115	 	32
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777924	1471956171894	1471956171989	h	72
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777925	1471956171978	1471956172138	e	69
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777927	1471956172098	1471956172237	r	82
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777929	1471956172210	1471956172316	e	69
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	777932	1471956172422	1471956172561	;	186
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778034	1471956172592	1471956172697	s	83
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778039	1471956173022	1471956173053	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778044	1471956173128	1471956173219	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778049	1471956173554	1471956173680	s	83
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778054	1471956174131	1471956174270	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778057	1471956174933	1471956175089	'	222
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778059	1471956175405	1471956175563	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778061	1471956175680	1471956175810	s	83
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778085	1471956175966	1471956176129	 	32
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778087	1471956176515	1471956176609	t	84
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778089	1471956176629	1471956176719	h	72
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778095	1471956176720	1471956176814	e	69
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778160	1471956176797	1471956176895	 	32
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778162	1471956177479	1471956177601	p	80
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778163	1471956177590	1471956177726	s	83
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778164	1471956177929	1471956178042	c	67
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778165	1471956178029	1471956178110	o	79
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778166	1471956178257	1471956178400	 	32
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778257	1471956179036	1471956179185	w	87
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778259	1471956179127	1471956179243	e	69
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778266	1471956179341	1471956179445	d	68
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778269	1471956180096	1471956180242	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778273	1471956180547	1471956180669	b	66
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778278	1471956180770	1471956180876	s	83
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778335	1471956180996	1471956181081	i	73
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778336	1471956181136	1471956181188	r	82
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778338	1471956181176	1471956181298	e	69
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778340	1471956181317	1471956181405	 	32
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778343	1471956181867	1471956181936	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778347	1471956182002	1471956182060	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778351	1471956182255	1471956182372	BKSP	8
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778356	1471956182407	1471956182511	t	84
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778389	1471956182474	1471956182561	e	69
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778392	1471956182571	1471956182726	 	32
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778396	1471956182852	1471956182954	a	65
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778401	1471956183063	1471956183146	d	68
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778406	1471956183228	1471956183300	d	68
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778412	1471956183401	1471956183533	r	82
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778422	1471956183498	1471956183613	e	69
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778425	1471956183718	1471956183797	s	83
+1585	16266	Kim, here's the PSCO website address.	kim, here's the psco website address	778426	1471956183862	1471956183932	s	83
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778579	1471956187386	1471956187455	j	74
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778581	1471956187531	1471956187604	u	85
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778583	1471956187776	1471956187846	p	80
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778585	1471956187916	1471956187990	p	80
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778587	1471956188031	1471956188120	e	69
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778619	1471956188145	1471956188245	 	32
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778622	1471956188335	1471956188457	a	65
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778625	1471956188560	1471956188644	r	82
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778628	1471956188713	1471956188798	r	82
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778630	1471956188942	1471956188973	i	73
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778662	1471956189041	1471956189099	u	85
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778666	1471956189083	1471956189230	v	86
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778670	1471956189198	1471956189313	e	69
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778674	1471956189417	1471956189500	BKSP	8
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778678	1471956189563	1471956189627	BKSP	8
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778681	1471956189679	1471956189747	BKSP	8
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778685	1471956189861	1471956189974	i	73
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778743	1471956189958	1471956190063	v	86
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778744	1471956190016	1471956190126	e	69
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778745	1471956190615	1471956190700	BKSP	8
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778746	1471956190769	1471956190843	BKSP	8
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778747	1471956190904	1471956190982	BKSP	8
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778748	1471956191105	1471956191220	v	86
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778749	1471956191175	1471956191294	e	69
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778751	1471956191395	1471956191531	d	68
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778754	1471956191767	1471956191887	 	32
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778822	1471956192459	1471956192635	i	73
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778827	1471956193173	1471956193247	n	78
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778833	1471956193322	1471956193432	 	32
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778836	1471956193422	1471956193575	w	87
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778876	1471956193501	1471956193655	a	65
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778877	1471956193744	1471956193849	s	83
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778878	1471956193962	1471956194099	h	72
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778879	1471956194044	1471956194183	i	73
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778880	1471956194534	1471956194656	n	78
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778881	1471956194911	1471956195014	g	71
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778923	1471956195165	1471956195285	t	84
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778925	1471956195383	1471956195502	o	79
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778929	1471956195568	1471956195664	n	78
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778933	1471956195748	1471956195832	 	32
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778935	1471956196199	1471956196299	o	79
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778954	1471956196366	1471956196447	n	78
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778958	1471956196507	1471956196608	 	32
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778961	1471956196653	1471956196803	w	87
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778965	1471956196753	1471956196854	e	69
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	778966	1471956196956	1471956197086	d	68
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	779036	1471956197199	1471956197338	n	78
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	779042	1471956197394	1471956197544	e	69
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	779049	1471956197500	1471956197645	s	83
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	779056	1471956198210	1471956198394	d	68
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	779070	1471956198353	1471956198496	a	65
+1585	16284	Juppe arrived in Washington on Wednesday.	juppe arrived in washington on wednesday	779073	1471956198516	1471956198584	y	89
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779313	1471956202232	1471956202306	i	73
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779315	1471956202377	1471956202457	 	32
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779317	1471956202538	1471956202618	n	78
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779319	1471956202654	1471956202734	e	69
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779322	1471956202794	1471956202925	e	69
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779401	1471956202914	1471956203023	d	68
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779404	1471956203002	1471956203128	 	32
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779407	1471956203817	1471956203934	y	89
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779409	1471956203948	1471956204045	o	79
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779412	1471956204137	1471956204226	u	85
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779417	1471956204327	1471956204457	 	32
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779462	1471956205632	1471956205730	h	72
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779465	1471956205751	1471956205877	o	79
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779471	1471956205914	1471956206024	m	77
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779474	1471956206029	1471956206126	e	69
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779500	1471956206099	1471956206203	 	32
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779503	1471956206354	1471956206530	c	67
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779508	1471956206496	1471956206625	e	69
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779512	1471956206613	1471956206677	l	76
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779517	1471956206738	1471956206796	l	76
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779521	1471956206861	1471956206978	 	32
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779547	1471956207066	1471956207212	o	79
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779551	1471956207202	1471956207311	r	82
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779556	1471956207299	1471956207409	 	32
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779560	1471956207461	1471956207650	w	87
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779640	1471956207582	1471956207714	a	65
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779646	1471956208103	1471956208224	BKSP	8
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779652	1471956208396	1471956208490	h	72
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779657	1471956208507	1471956208575	a	65
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779663	1471956208554	1471956208638	t	84
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779671	1471956208756	1471956208886	e	69
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779675	1471956208925	1471956209009	v	86
+1585	16301	I need your home cell or whatever.	i need you home cell or whatever	779669	1471956209026	1471956209159	e	69
+1585	16313	Just wanted to touch base.	just wanted to touch base	779912	1471956212350	1471956212474	j	74
+1585	16313	Just wanted to touch base.	just wanted to touch base	779917	1471956212440	1471956212553	u	85
+1585	16313	Just wanted to touch base.	just wanted to touch base	779922	1471956212500	1471956212639	s	83
+1585	16313	Just wanted to touch base.	just wanted to touch base	779927	1471956212627	1471956212718	t	84
+1585	16313	Just wanted to touch base.	just wanted to touch base	779931	1471956212828	1471956212945	 	32
+1585	16313	Just wanted to touch base.	just wanted to touch base	779958	1471956212974	1471956213160	w	87
+1585	16313	Just wanted to touch base.	just wanted to touch base	779959	1471956213097	1471956213228	a	65
+1585	16313	Just wanted to touch base.	just wanted to touch base	779962	1471956213217	1471956213312	n	78
+1585	16313	Just wanted to touch base.	just wanted to touch base	779966	1471956213651	1471956213814	t	84
+1585	16313	Just wanted to touch base.	just wanted to touch base	779994	1471956213803	1471956214002	e	69
+1585	16313	Just wanted to touch base.	just wanted to touch base	779998	1471956213979	1471956214096	d	68
+1585	16313	Just wanted to touch base.	just wanted to touch base	780002	1471956214074	1471956214164	 	32
+1585	16313	Just wanted to touch base.	just wanted to touch base	780007	1471956214250	1471956214349	t	84
+1585	16313	Just wanted to touch base.	just wanted to touch base	780010	1471956214318	1471956214433	o	79
+1585	16313	Just wanted to touch base.	just wanted to touch base	780013	1471956214495	1471956214605	 	32
+1585	16313	Just wanted to touch base.	just wanted to touch base	780060	1471956214737	1471956214838	t	84
+1585	16313	Just wanted to touch base.	just wanted to touch base	780065	1471956214883	1471956215050	o	79
+1585	16313	Just wanted to touch base.	just wanted to touch base	780070	1471956215142	1471956215270	u	85
+1585	16313	Just wanted to touch base.	just wanted to touch base	780072	1471956215258	1471956215367	c	67
+1585	16313	Just wanted to touch base.	just wanted to touch base	780074	1471956215661	1471956215756	h	72
+1585	16313	Just wanted to touch base.	just wanted to touch base	780097	1471956215824	1471956215917	 	32
+1585	16313	Just wanted to touch base.	just wanted to touch base	780100	1471956215984	1471956216078	b	66
+1585	16313	Just wanted to touch base.	just wanted to touch base	780103	1471956216292	1471956216456	a	65
+1585	16313	Just wanted to touch base.	just wanted to touch base	780106	1471956216440	1471956216631	s	83
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780429	1471956216579	1471956220830	e	69
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780419	1471956220409	1471956220450	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780424	1471956220544	1471956220613	y	89
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780433	1471956221072	1471956221170	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780439	1471956221754	1471956221832	h	72
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780443	1471956221842	1471956221943	e	69
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780541	1471956221933	1471956222020	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780542	1471956222046	1471956222182	a	65
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780543	1471956222142	1471956222252	d	68
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780545	1471956222279	1471956222394	m	77
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780549	1471956223365	1471956223425	i	73
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780554	1471956223636	1471956223786	n	78
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780757	1471956223746	1471956223854	i	73
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780760	1471956223909	1471956224023	s	83
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780762	1471956224079	1471956224172	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780764	1471956224400	1471956224541	a	65
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780767	1471956224692	1471956224866	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780774	1471956225298	1471956225363	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780779	1471956225448	1471956225501	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780783	1471956225575	1471956225645	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780788	1471956227043	1471956227165	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780808	1471956227274	1471956227447	r	82
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780814	1471956227410	1471956227562	a	65
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780820	1471956227582	1471956227718	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780824	1471956227708	1471956227859	i	73
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780884	1471956227781	1471956227940	o	79
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780888	1471956228026	1471956228132	n	78
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780894	1471956228222	1471956228312	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780898	1471956228467	1471956228593	h	72
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	780900	1471956228587	1471956228720	a	65
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781029	1471956228688	1471956228829	d	68
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781031	1471956228787	1471956228876	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781036	1471956228998	1471956229162	n	78
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781041	1471956229176	1471956229202	o	79
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781043	1471956230453	1471956230592	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781046	1471956230822	1471956230921	i	73
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781094	1471956230998	1471956231081	m	77
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781098	1471956231159	1471956231249	m	77
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781105	1471956231635	1471956231707	e	69
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781108	1471956232092	1471956232252	d	68
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781206	1471956232218	1471956232353	a	65
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781209	1471956232430	1471956232585	i	73
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781213	1471956232605	1471956232735	r	82
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781217	1471956232891	1471956232980	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781223	1471956233061	1471956233114	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781228	1471956233174	1471956233253	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781230	1471956233399	1471956233527	i	73
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781233	1471956233681	1471956233801	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781360	1471956233764	1471956233885	a	65
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781363	1471956234536	1471956234582	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781366	1471956234674	1471956234738	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781369	1471956234893	1471956235025	a	65
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781372	1471956235190	1471956235286	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781374	1471956235238	1471956235397	e	69
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781378	1471956235457	1471956235634	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781381	1471956235842	1471956235978	c	67
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781401	1471956235995	1471956236119	o	79
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781406	1471956236202	1471956236281	m	77
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781415	1471956236360	1471956236429	m	77
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781418	1471956236498	1471956236610	e	69
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781496	1471956236552	1471956236658	n	78
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781501	1471956236729	1471956236831	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781503	1471956236810	1471956236923	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781505	1471956237155	1471956237240	BKSP	8
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781508	1471956237693	1471956237783	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781512	1471956237922	1471956238021	o	79
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781516	1471956238063	1471956238154	n	78
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781522	1471956238210	1471956238302	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781524	1471956238313	1471956238407	t	84
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781527	1471956238429	1471956238529	h	72
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781529	1471956238530	1471956238625	e	69
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781573	1471956238613	1471956238687	 	32
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781575	1471956238752	1471956238871	v	86
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781580	1471956238934	1471956238962	o	79
+1585	16324	The administration had no immediate comment on the vote.	the administration had no immediate comment on the vore	781587	1471956239415	1471956239527	r	82
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782106	1471956239489	1471956244523	e	69
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	781885	1471956243430	1471956243516	i	73
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	781889	1471956243631	1471956243746	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	781895	1471956243973	1471956244055	h	72
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	781899	1471956244059	1471956244154	a	65
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782096	1471956244143	1471956244210	v	86
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782100	1471956244301	1471956244408	n	78
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782112	1471956244826	1471956244905	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782115	1471956245519	1471956245614	e	69
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782120	1471956245975	1471956246024	n	78
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782124	1471956247378	1471956247589	'	222
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782249	1471956247886	1471956248033	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782253	1471956248094	1471956248192	t	84
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782260	1471956248333	1471956248565	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782266	1471956249254	1471956249411	h	72
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782271	1471956249491	1471956249651	a	65
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782316	1471956249619	1471956249725	d	68
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782320	1471956249699	1471956249829	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782325	1471956249885	1471956250001	a	65
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782328	1471956249985	1471956250111	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782332	1471956250417	1471956250547	c	67
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782338	1471956250622	1471956250681	o	79
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782389	1471956251102	1471956251205	n	78
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782390	1471956251393	1471956251465	v	86
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782391	1471956251487	1471956251638	e	69
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782392	1471956251603	1471956251680	r	82
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782393	1471956251777	1471956251907	s	83
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782458	1471956252049	1471956252207	a	65
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782462	1471956252318	1471956252422	t	84
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782465	1471956252448	1471956252585	i	73
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782468	1471956252530	1471956252665	o	79
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782472	1471956252722	1471956252829	n	78
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782495	1471956252893	1471956253003	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782497	1471956253134	1471956253260	o	79
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782501	1471956253331	1471956253404	n	78
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782505	1471956253485	1471956253594	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782509	1471956253624	1471956253779	t	84
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782555	1471956253816	1471956253973	h	72
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782559	1471956253945	1471956254090	i	73
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782562	1471956254101	1471956254206	s	83
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782567	1471956254174	1471956254308	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782572	1471956254594	1471956254733	s	83
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782639	1471956254710	1471956254827	i	73
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782640	1471956254837	1471956254974	c	67
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782641	1471956254931	1471956255073	e	69
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782642	1471956255769	1471956255859	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782643	1471956255931	1471956255981	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782644	1471956256147	1471956256249	n	78
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782645	1471956256271	1471956256372	c	67
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782693	1471956256323	1471956256431	e	69
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782698	1471956256419	1471956256517	 	32
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782705	1471956256647	1471956256787	1	49
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782707	1471956256826	1471956256903	0	48
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782709	1471956256975	1471956257050	0	48
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782714	1471956257117	1471956257178	0	48
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782915	1471956257403	1471956257491	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782918	1471956257558	1471956257638	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782923	1471956257657	1471956257759	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782926	1471956258370	1471956258447	0	48
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782929	1471956258529	1471956258597	0	48
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782933	1471956258799	1471956258905	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782938	1471956258962	1471956259051	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782941	1471956259259	1471956259315	i	73
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782945	1471956259621	1471956259730	9	57
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782952	1471956259976	1471956260075	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782959	1471956260170	1471956260263	BKSP	8
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782967	1471956260455	1471956260557	9	57
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782977	1471956260633	1471956260714	9	57
+1585	16355	I haven't had a conversation on this since 1999. 	i haven't had a conversation on this since 1999	782984	1471956260787	1471956260865	9	57
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783504	1471956268985	1471956269280	SHIFT	16
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783508	1471956269243	1471956269324	T	84
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783513	1471956269416	1471956269511	h	72
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783521	1471956269521	1471956269741	e	69
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783528	1471956269640	1471956269752	r	82
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783533	1471956270312	1471956270406	e	69
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783662	1471956270830	1471956270961	s	83
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783669	1471956270878	1471956271035	a	65
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783676	1471956272861	1471956272950	,	188
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783682	1471956272991	1471956273123	 	32
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783686	1471956273446	1471956273579	d	68
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783842	1471956273728	1471956273828	o	79
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783848	1471956273941	1471956274032	n	78
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783851	1471956274710	1471956274770	t	84
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783856	1471956275653	1471956275816	 	32
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783910	1471956276083	1471956276205	w	87
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783913	1471956276194	1471956276341	o	79
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783915	1471956276392	1471956276445	r	82
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783918	1471956276515	1471956276593	r	82
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	783923	1471956276603	1471956276693	y	89
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784026	1471956276787	1471956276920	 	32
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784028	1471956277382	1471956277490	a	65
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784032	1471956278085	1471956278154	b	66
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784037	1471956278684	1471956278828	o	79
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784042	1471956278849	1471956278949	u	85
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784072	1471956278965	1471956279059	t	84
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784074	1471956279072	1471956279181	 	32
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784076	1471956279348	1471956279586	i	73
+1585	16383	Theresa, don't worry about it.	Theresa, don't worry about it	784080	1471956279597	1471956279677	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784303	1471956283268	1471956283351	i	73
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784305	1471956283361	1471956283447	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784306	1471956283498	1471956283603	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784308	1471956283663	1471956283756	i	73
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784311	1471956283766	1471956283846	s	83
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784379	1471956283856	1471956283947	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784384	1471956284033	1471956284116	v	86
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784389	1471956284147	1471956284289	e	69
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784395	1471956284257	1471956284325	r	82
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784400	1471956284390	1471956284541	y	89
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784417	1471956284736	1471956284859	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784419	1471956285000	1471956285148	u	85
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784421	1471956285174	1471956285265	n	78
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784424	1471956285391	1471956285512	l	76
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784426	1471956285622	1471956285741	i	73
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784498	1471956285818	1471956285912	k	75
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784502	1471956285923	1471956286034	e	69
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784508	1471956286116	1471956286226	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784516	1471956286703	1471956286828	BKSP	8
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784522	1471956286954	1471956287096	l	76
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784529	1471956287324	1471956287346	y	89
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784568	1471956287485	1471956287621	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784569	1471956288493	1471956288577	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784570	1471956288656	1471956288745	h	72
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784571	1471956288739	1471956288834	a	65
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784604	1471956288807	1471956288875	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784608	1471956288969	1471956289099	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784611	1471956289422	1471956289543	p	80
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784619	1471956289555	1471956289688	a	65
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784626	1471956289757	1471956289884	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784658	1471956289847	1471956289960	r	82
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784665	1471956289943	1471956290042	o	79
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784671	1471956290137	1471956290217	n	78
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784677	1471956290231	1471956290335	s	83
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784683	1471956290345	1471956290429	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784690	1471956290796	1471956290916	o	79
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784726	1471956290926	1471956291021	f	70
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784729	1471956291010	1471956291098	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784732	1471956291144	1471956291295	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784735	1471956291283	1471956291419	o	79
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784739	1471956291529	1471956291695	u	85
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784918	1471956291919	1471956292025	r	82
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784920	1471956292014	1471956292166	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784921	1471956292566	1471956292677	a	65
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784923	1471956294076	1471956294221	p	80
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784925	1471956294480	1471956294561	BKSP	8
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784927	1471956294631	1471956294722	BKSP	8
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784930	1471956294859	1471956295000	o	79
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784993	1471956294957	1471956295106	p	80
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	784997	1471956295176	1471956295363	e	69
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785000	1471956295294	1471956295420	r	82
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785002	1471956296139	1471956296243	a	65
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785004	1471956296415	1471956296483	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785009	1471956296712	1471956296846	o	79
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785033	1471956296884	1471956296991	r	82
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785035	1471956297002	1471956297144	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785038	1471956297340	1471956297482	a	65
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785042	1471956297553	1471956297639	r	82
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785178	1471956297601	1471956297737	e	69
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785182	1471956297830	1471956297888	m	77
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785185	1471956297963	1471956298083	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785188	1471956298503	1471956298567	BKSP	8
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785191	1471956298636	1471956298696	BKSP	8
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785192	1471956298939	1471956299081	 	32
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785194	1471956299710	1471956299841	t	84
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785256	1471956299804	1471956299909	r	82
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785259	1471956299876	1471956299939	o	79
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785262	1471956300061	1471956300150	u	85
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785265	1471956300258	1471956300341	b	66
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785269	1471956300518	1471956300575	l	76
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785275	1471956300895	1471956301011	e	69
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785308	1471956301184	1471956301306	m	77
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785311	1471956301332	1471956301434	a	65
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785315	1471956301449	1471956301569	k	75
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785318	1471956301579	1471956301691	e	69
+1585	16408	It is very unlikely that patrons of tour operators are troublemakers.	it is very unlikely that patrons of tour operator are troublemakers	785321	1471956301701	1471956301744	r	82

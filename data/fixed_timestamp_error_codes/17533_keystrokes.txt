@@ -1,0 +1,666 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970303	1472135898785	1472135899051	SHIFT	16
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970301	1472135898871	1472135899035	O	79
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970308	1472135899155	1472135899283	k	75
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970310	1472135899723	1472135899803	BKSP	8
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970314	1472135899867	1472135899971	BKSP	8
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970325	1472135900051	1472135900426	SHIFT	16
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970319	1472135900259	1472135900402	P	80
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970330	1472135900522	1472135900666	l	76
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970348	1472135900642	1472135900819	e	69
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970350	1472135900763	1472135900979	a	65
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970352	1472135900875	1472135901171	s	83
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970353	1472135900963	1472135901195	e	69
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970354	1472135901099	1472135901275	 	32
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970355	1472135901315	1472135901427	c	67
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970372	1472135901443	1472135901587	a	65
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970375	1472135901563	1472135901603	l	76
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970377	1472135901667	1472135901795	l	76
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970381	1472135901787	1472135901963	 	32
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970445	1472135901891	1472135902043	t	84
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970451	1472135902003	1472135902131	i	73
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970457	1472135902091	1472135902291	m	77
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970463	1472135902235	1472135902395	o	79
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970469	1472135902715	1472135902779	BKSP	8
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970474	1472135902859	1472135902939	BKSP	8
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970482	1472135903019	1472135903099	BKSP	8
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970487	1472135903171	1472135903219	BKSP	8
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970492	1472135903739	1472135903875	t	84
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970495	1472135903811	1472135903963	o	79
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970496	1472135903899	1472135904093	m	77
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970497	1472135904059	1472135904179	o	79
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970498	1472135904219	1472135904291	r	82
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970499	1472135904347	1472135904475	r	82
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970527	1472135904427	1472135904587	o	79
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970533	1472135904531	1472135904755	w	87
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970541	1472135904707	1472135904875	 	32
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970545	1472135904891	1472135905043	i	73
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970548	1472135904995	1472135905187	f	70
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970584	1472135905115	1472135905259	 	32
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970585	1472135905315	1472135905459	p	80
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970586	1472135905395	1472135905547	o	79
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970587	1472135905499	1472135905579	s	83
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970588	1472135905595	1472135905715	s	83
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970589	1472135905971	1472135906099	i	73
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970620	1472135906083	1472135906195	b	66
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970627	1472135906179	1472135906315	l	76
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970633	1472135906323	1472135906443	e	69
+17533	188432	Please call tomorrow if possible.	Please call tomorrow if possible.	8970639	1472135906635	1472135906771	.	190
+17533	188443	What is your issue sir?	What is your issue sir?	8970753	1472135908763	1472135908891	SHIFT	16
+17533	188443	What is your issue sir?	What is your issue sir?	8970754	1472135909075	1472135909259	SHIFT	16
+17533	188443	What is your issue sir?	What is your issue sir?	8970755	1472135909155	1472135909275	W	87
+17533	188443	What is your issue sir?	What is your issue sir?	8970756	1472135909387	1472135909531	h	72
+17533	188443	What is your issue sir?	What is your issue sir?	8970757	1472135909459	1472135909667	a	65
+17533	188443	What is your issue sir?	What is your issue sir?	8970758	1472135909579	1472135909779	t	84
+17533	188443	What is your issue sir?	What is your issue sir?	8970769	1472135909699	1472135909851	 	32
+17533	188443	What is your issue sir?	What is your issue sir?	8970773	1472135909835	1472135909955	i	73
+17533	188443	What is your issue sir?	What is your issue sir?	8970776	1472135909931	1472135910091	s	83
+17533	188443	What is your issue sir?	What is your issue sir?	8970778	1472135910011	1472135910171	 	32
+17533	188443	What is your issue sir?	What is your issue sir?	8970780	1472135910227	1472135910347	y	89
+17533	188443	What is your issue sir?	What is your issue sir?	8970787	1472135910275	1472135910499	o	79
+17533	188443	What is your issue sir?	What is your issue sir?	8970788	1472135910379	1472135910547	u	85
+17533	188443	What is your issue sir?	What is your issue sir?	8970789	1472135910475	1472135910643	r	82
+17533	188443	What is your issue sir?	What is your issue sir?	8970790	1472135910587	1472135910739	 	32
+17533	188443	What is your issue sir?	What is your issue sir?	8970792	1472135910731	1472135910835	i	73
+17533	188443	What is your issue sir?	What is your issue sir?	8970829	1472135910795	1472135910867	s	83
+17533	188443	What is your issue sir?	What is your issue sir?	8970833	1472135910915	1472135911043	s	83
+17533	188443	What is your issue sir?	What is your issue sir?	8970836	1472135911019	1472135911156	u	85
+17533	188443	What is your issue sir?	What is your issue sir?	8970838	1472135911123	1472135911323	e	69
+17533	188443	What is your issue sir?	What is your issue sir?	8970841	1472135911259	1472135911443	 	32
+17533	188443	What is your issue sir?	What is your issue sir?	8970882	1472135911491	1472135911715	s	83
+17533	188443	What is your issue sir?	What is your issue sir?	8970846	1472135911571	1472135911699	i	73
+17533	188443	What is your issue sir?	What is your issue sir?	8970885	1472135911675	1472135911811	r	82
+17533	188443	What is your issue sir?	What is your issue sir?	8970895	1472135911931	1472135912099	SHIFT	16
+17533	188443	What is your issue sir?	What is your issue sir?	8970889	1472135911987	1472135912083	?	191
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971027	1472135915139	1472135915283	SHIFT	16
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971031	1472135915211	1472135915347	I	73
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971034	1472135915363	1472135915547	t	84
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971037	1472135915467	1472135915635	 	32
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971040	1472135915555	1472135915675	m	77
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971044	1472135915803	1472135915955	u	85
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971068	1472135915875	1472135916139	s	83
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971071	1472135916011	1472135916155	t	84
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971075	1472135916059	1472135916235	 	32
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971082	1472135916283	1472135916395	b	66
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971089	1472135916491	1472135916651	e	69
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971107	1472135916571	1472135916763	 	32
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971111	1472135916739	1472135916859	a	65
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971116	1472135916939	1472135917003	c	67
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971119	1472135917059	1472135917163	c	67
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971123	1472135917147	1472135917339	o	79
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971139	1472135917243	1472135917434	m	77
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971142	1472135917443	1472135917603	p	80
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971145	1472135917579	1472135917731	a	65
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971147	1472135917715	1472135917907	n	78
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971149	1472135917851	1472135917995	i	73
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971184	1472135917947	1472135918051	e	69
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971188	1472135918155	1472135918315	d	68
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971194	1472135918275	1472135918435	 	32
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971203	1472135918443	1472135918587	b	66
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971211	1472135918555	1472135918715	y	89
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971229	1472135918691	1472135918851	 	32
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971230	1472135918859	1472135919019	i	73
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971232	1472135918931	1472135919115	n	78
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971234	1472135919131	1472135919203	c	67
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971236	1472135919331	1472135919563	r	82
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971267	1472135919427	1472135919619	e	69
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971268	1472135919555	1472135919787	a	65
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971269	1472135919707	1472135919955	s	83
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971274	1472135919851	1472135920011	e	69
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971278	1472135920083	1472135920299	d	68
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971281	1472135920235	1472135920427	 	32
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971285	1472135920475	1472135920659	p	80
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971325	1472135920587	1472135920707	r	82
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971326	1472135920708	1472135920875	o	79
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971327	1472135920987	1472135921139	d	68
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971328	1472135921259	1472135921403	u	85
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971331	1472135921427	1472135921539	c	67
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971335	1472135921635	1472135921779	t	84
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971350	1472135921784	1472135921891	i	73
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971353	1472135921939	1472135922083	v	86
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971355	1472135922091	1472135922203	i	73
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971361	1472135922235	1472135922371	t	84
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971365	1472135922451	1472135922595	y	89
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971457	1472135923179	1472135923251	,	188
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971459	1472135923875	1472135923995	BKSP	8
+17533	188450	It must be accompanied by increased productivity.	It must be accompanied by increased productivity.	8971461	1472135924459	1472135924619	.	190
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971582	1472135926683	1472135926891	SHIFT	16
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971579	1472135926739	1472135926843	D	68
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971587	1472135926931	1472135927051	e	69
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971590	1472135927179	1472135927355	p	80
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971593	1472135927323	1472135927523	o	79
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971626	1472135927443	1472135927539	r	82
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971628	1472135927667	1472135927771	t	84
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971630	1472135927859	1472135928003	i	73
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971632	1472135927995	1472135928139	v	86
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971633	1472135928211	1472135928355	o	79
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971635	1472135928411	1472135928531	 	32
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971652	1472135928667	1472135928835	h	72
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971654	1472135928747	1472135928939	a	65
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971658	1472135928931	1472135929083	v	86
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971662	1472135929155	1472135929307	e	69
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971673	1472135929219	1472135929427	 	32
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971676	1472135929459	1472135929635	w	87
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971680	1472135929531	1472135929764	o	79
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971684	1472135929636	1472135929803	n	78
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971688	1472135929779	1472135929923	 	32
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971714	1472135929915	1472135930059	n	78
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971720	1472135930019	1472135930251	o	79
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971717	1472135930099	1472135930195	t	84
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971721	1472135930211	1472135930387	h	72
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971722	1472135930339	1472135930467	e	69
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971723	1472135930691	1472135930795	BKSP	8
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971724	1472135930907	1472135931115	i	73
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971726	1472135931011	1472135931179	n	78
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971728	1472135931091	1472135931235	g	71
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971730	1472135931171	1472135931307	 	32
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971732	1472135931299	1472135931451	i	73
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971735	1472135931371	1472135931459	n	78
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971738	1472135931427	1472135931563	 	32
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971752	1472135931483	1472135931603	t	84
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971755	1472135931571	1472135931739	h	72
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971758	1472135931699	1472135931971	e	69
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971761	1472135931779	1472135931979	i	73
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971764	1472135931859	1472135932091	r	82
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971767	1472135931995	1472135932131	 	32
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971769	1472135932163	1472135932379	h	72
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971771	1472135932275	1472135932451	i	73
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971773	1472135932339	1472135932547	s	83
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971776	1472135932459	1472135932595	t	84
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971795	1472135932683	1472135932819	r	82
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971796	1472135932771	1472135932915	y	89
+17533	188458	Deportivo have won nothing in their history.	Deportivo have won nothing in their history.	8971797	1472135933107	1472135933259	.	190
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971881	1472135935251	1472135935419	SHIFT	16
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971884	1472135935291	1472135935443	I	73
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971887	1472135935427	1472135935555	 	32
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971892	1472135935691	1472135935834	t	84
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971896	1472135935762	1472135935891	h	72
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971909	1472135935843	1472135935995	i	73
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971911	1472135936011	1472135936219	n	78
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971914	1472135936115	1472135936259	k	75
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971920	1472135936227	1472135936386	 	32
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971927	1472135936491	1472135936667	i	73
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971944	1472135936595	1472135936715	n	78
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971947	1472135936691	1472135936883	 	32
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971949	1472135936787	1472135936931	t	84
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971952	1472135936867	1472135937059	h	72
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971987	1472135936963	1472135937147	i	73
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971990	1472135937035	1472135937235	s	83
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971992	1472135937163	1472135937323	 	32
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971995	1472135937731	1472135937843	c	67
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8971998	1472135937939	1472135938091	a	65
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972001	1472135938011	1472135938299	s	83
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972023	1472135938155	1472135938323	e	69
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972025	1472135938235	1472135938427	 	32
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972027	1472135938459	1472135938595	s	83
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972028	1472135938563	1472135938739	p	80
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972029	1472135938675	1472135938763	e	69
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972030	1472135939003	1472135939179	c	67
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972031	1472135939203	1472135939331	i	73
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972042	1472135939336	1472135939483	f	70
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972043	1472135939443	1472135939595	i	73
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972044	1472135939787	1472135939995	c	67
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972045	1472135939947	1472135940099	 	32
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972046	1472135940139	1472135940291	i	73
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972058	1472135940219	1472135940419	s	83
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972059	1472135940355	1472135940491	 	32
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972060	1472135940531	1472135940627	b	66
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972061	1472135940747	1472135940883	e	69
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972062	1472135940899	1472135940987	t	84
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972063	1472135941027	1472135941147	t	84
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972069	1472135941219	1472135941371	e	69
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972070	1472135941315	1472135941435	r	82
+17533	188465	I think in this case specific is better.	I think in this case specific is better.	8972071	1472135941411	1472135941539	.	190
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972127	1472135943331	1472135943555	SHIFT	16
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972133	1472135943715	1472135943811	n	78
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972136	1472135943812	1472135943971	 	32
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972139	1472135943923	1472135944051	t	84
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972143	1472135943995	1472135944171	h	72
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972157	1472135944123	1472135944267	e	69
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972159	1472135944195	1472135944379	 	32
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972161	1472135944371	1472135944531	p	80
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972163	1472135944515	1472135944707	l	76
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972164	1472135944643	1472135944795	a	65
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972166	1472135944803	1472135944915	n	78
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972180	1472135945019	1472135945155	,	188
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972184	1472135945099	1472135945251	 	32
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972190	1472135945307	1472135945419	d	68
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972194	1472135945387	1472135945483	o	79
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972199	1472135945539	1472135945675	o	79
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972241	1472135945619	1472135945755	r	82
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972242	1472135945859	1472135946019	s	83
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972246	1472135946171	1472135946275	 	32
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972250	1472135946379	1472135946483	c	67
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972253	1472135946443	1472135946531	l	76
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972255	1472135946659	1472135946819	o	79
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972379	1472135948771	1472135948931	i	73
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972382	1472135948859	1472135949027	n	78
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972386	1472135948963	1472135949107	g	71
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972391	1472135949499	1472135949579	BKSP	8
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972396	1472135949667	1472135949731	BKSP	8
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972401	1472135949811	1472135949923	BKSP	8
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972405	1472135949924	1472135950059	s	83
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972410	1472135950123	1472135950291	i	73
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972544	1472135950211	1472135950371	n	78
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972545	1472135950323	1472135950451	g	71
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972546	1472135950459	1472135950563	.	190
+17533	188473	On the plane, doors closing.	On the plane, doors closing.	8972547	1472135952379	1472135952491	e	69
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972642	1472135955611	1472135955803	SHIFT	16
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972643	1472135955683	1472135955811	A	65
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972645	1472135955867	1472135955987	m	77
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972646	1472135956227	1472135956451	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972647	1472135956611	1472135956731	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972648	1472135956875	1472135957011	y	89
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972668	1472135956963	1472135957259	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972669	1472135957139	1472135957275	w	87
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972672	1472135957195	1472135957443	a	65
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972675	1472135957347	1472135957587	s	83
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972677	1472135957483	1472135957683	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972715	1472135957651	1472135957813	l	76
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972718	1472135957779	1472135957915	a	65
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972721	1472135957875	1472135957947	s	83
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972723	1472135958115	1472135958227	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972724	1472135958211	1472135958443	e	69
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972725	1472135958363	1472135958499	t	84
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972726	1472135958547	1472135958643	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972727	1472135958707	1472135958803	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972728	1472135958875	1472135959021	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972735	1472135958980	1472135959187	e	69
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972738	1472135959058	1472135959227	t	84
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972740	1472135959147	1472135959315	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972743	1472135959347	1472135959507	g	71
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972745	1472135959427	1472135959579	o	79
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972753	1472135959539	1472135959731	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972756	1472135959699	1472135959955	l	76
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972761	1472135959779	1472135960011	a	65
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972764	1472135959875	1472135960171	s	83
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972795	1472135960051	1472135960251	t	84
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972797	1472135960155	1472135960315	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972800	1472135960443	1472135960611	SHIFT	16
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972803	1472135960523	1472135960619	F	70
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972805	1472135960723	1472135960827	r	82
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972807	1472135960851	1472135960979	i	73
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972811	1472135960971	1472135961195	d	68
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972849	1472135961163	1472135961395	a	65
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972852	1472135961643	1472135961803	y	89
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972855	1472135961939	1472135962067	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972857	1472135962171	1472135962355	h	72
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972883	1472135962227	1472135962371	e	69
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972886	1472135962331	1472135962659	r	82
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972892	1472135962459	1472135962675	e	69
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972898	1472135962579	1472135962795	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972904	1472135962763	1472135962891	a	65
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972910	1472135962843	1472135962955	l	76
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972914	1472135963011	1472135963235	o	79
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972922	1472135963131	1472135963315	n	78
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972925	1472135963240	1472135963411	g	71
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972928	1472135963331	1472135963523	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972931	1472135963491	1472135963731	w	87
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972961	1472135963579	1472135963813	i	73
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972967	1472135963691	1472135963947	t	84
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972963	1472135963779	1472135963923	h	72
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972969	1472135963891	1472135964131	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8972973	1472135964107	1472135964331	a	65
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973027	1472135964219	1472135964507	n	78
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973025	1472135964323	1472135964491	t	84
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973028	1472135964483	1472135964723	o	79
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973029	1472135964731	1472135964843	h	72
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973030	1472135964987	1472135965067	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973033	1472135965139	1472135965227	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973035	1472135965307	1472135965371	BKSP	8
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973037	1472135965483	1472135965691	o	79
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973057	1472135965587	1472135965699	t	84
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973059	1472135965675	1472135965867	h	72
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973062	1472135965811	1472135966011	e	69
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973065	1472135965868	1472135966115	r	82
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973068	1472135965995	1472135966187	 	32
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973072	1472135966395	1472135966523	g	71
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973090	1472135966515	1472135966627	u	85
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973091	1472135966707	1472135966803	y	89
+17533	188479	Amy was let go last Friday here along with another guy.	Amy was let go last Friday here along with another guy.	8973092	1472135966923	1472135967051	.	190
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973173	1472135968811	1472135968979	SHIFT	16
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973176	1472135968883	1472135969003	W	87
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973182	1472135969075	1472135969235	h	72
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973188	1472135969131	1472135969355	a	65
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973211	1472135969251	1472135969443	t	84
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973214	1472135969347	1472135969507	 	32
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973216	1472135969531	1472135969659	i	73
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973218	1472135969587	1472135969787	s	83
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973221	1472135969660	1472135969875	 	32
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973233	1472135969755	1472135969907	t	84
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973234	1472135969867	1472135970035	h	72
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973236	1472135969979	1472135970195	e	69
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973239	1472135970099	1472135970307	 	32
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973243	1472135970355	1472135970539	s	83
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973248	1472135970451	1472135970587	t	84
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973252	1472135970811	1472135970931	u	85
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973287	1472135971179	1472135971307	BKSP	8
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973289	1472135971267	1472135971451	a	65
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973291	1472135971355	1472135971515	t	84
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973293	1472135971563	1472135971707	u	85
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973294	1472135971763	1472135971955	s	83
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973324	1472135971947	1472135972099	 	32
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973326	1472135972219	1472135972379	o	79
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973327	1472135972331	1472135972507	f	70
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973329	1472135972443	1472135972643	 	32
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973334	1472135972571	1472135972731	t	84
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973363	1472135972667	1472135972811	h	72
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973365	1472135972787	1472135972939	e	69
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973367	1472135972835	1472135973019	 	32
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973369	1472135973339	1472135973515	SHIFT	16
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973371	1472135973387	1472135973547	P	80
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973372	1472135973611	1472135973731	e	69
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973374	1472135973795	1472135973955	m	77
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973410	1472135973907	1472135973995	e	69
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973412	1472135974275	1472135974515	x	88
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973414	1472135974819	1472135974963	 	32
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973415	1472135975051	1472135975147	d	68
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973418	1472135975163	1472135975283	i	73
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973452	1472135975267	1472135975363	s	83
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973453	1472135975459	1472135975555	c	67
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973455	1472135975531	1472135975683	u	85
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973459	1472135975684	1472135975723	s	83
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973463	1472135975779	1472135975883	s	83
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973467	1472135975884	1472135976099	i	73
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973506	1472135975979	1472135976171	o	79
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973510	1472135976075	1472135976227	n	78
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973516	1472135976228	1472135976339	s	83
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973522	1472135976523	1472135976731	SHIFT	16
+17533	188492	What is the status of the Pemex discussions?	What is the status of the Pemex discussions?	8973519	1472135976611	1472135976715	?	191
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976091	1472136032572	1472136032795	SHIFT	16
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976096	1472136032715	1472136032843	H	72
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976100	1472136032939	1472136033139	e	69
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976105	1472136033051	1472136033219	 	32
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976110	1472136033259	1472136033411	a	65
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976132	1472136033371	1472136033491	l	76
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976135	1472136033507	1472136033651	s	83
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976140	1472136033579	1472136033747	o	79
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976145	1472136033723	1472136033859	 	32
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976151	1472136033891	1472136034043	r	82
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976182	1472136033971	1472136034107	u	85
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976184	1472136034067	1472136034235	l	76
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976187	1472136034179	1472136034267	e	69
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976189	1472136034355	1472136034499	d	68
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976193	1472136034451	1472136034603	 	32
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976197	1472136034643	1472136034835	o	79
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976230	1472136034715	1472136034923	u	85
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976232	1472136034819	1472136035011	t	84
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976234	1472136034924	1472136035115	 	32
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976236	1472136035139	1472136035259	e	69
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976239	1472136035347	1472136035483	x	88
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976245	1472136035667	1472136035811	t	84
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976264	1472136035795	1472136035915	e	69
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976269	1472136035916	1472136036059	n	78
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976273	1472136036043	1472136036139	d	68
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976278	1472136036187	1472136036339	i	73
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976282	1472136036275	1472136036435	n	78
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976299	1472136036379	1472136036531	g	71
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976301	1472136036515	1472136036691	 	32
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976306	1472136036603	1472136036723	t	84
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976310	1472136036667	1472136036835	h	72
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976312	1472136036779	1472136036915	e	69
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976343	1472136036867	1472136037059	 	32
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976348	1472136037035	1472136037195	s	83
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976352	1472136037115	1472136037347	a	65
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976355	1472136037275	1472136037459	f	70
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976363	1472136037387	1472136037595	e	69
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976402	1472136037507	1472136037723	 	32
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976405	1472136037707	1472136037931	a	65
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976408	1472136037891	1472136038059	r	82
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976410	1472136037963	1472136038139	e	69
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976412	1472136038067	1472136038291	a	65
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976414	1472136038147	1472136038355	s	83
+17533	188503	He also ruled out extending the safe areas.	He also ruled out extending the safe areas.	8976416	1472136038315	1472136038443	.	190
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976627	1472136040403	1472136040595	SHIFT	16
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976633	1472136040491	1472136040643	H	72
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976641	1472136040683	1472136040835	o	79
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976650	1472136040827	1472136040955	w	87
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976658	1472136040859	1472136041043	e	69
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976663	1472136041579	1472136041747	v	86
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976684	1472136041835	1472136042027	e	69
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976687	1472136041915	1472136042091	r	82
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976690	1472136042067	1472136042195	,	188
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976693	1472136042163	1472136042323	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976696	1472136042379	1472136042523	h	72
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976729	1472136042459	1472136042627	e	69
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976734	1472136042555	1472136042771	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976738	1472136042763	1472136042923	w	87
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976741	1472136042811	1472136043042	a	65
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976744	1472136042947	1472136043058	r	82
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976751	1472136043123	1472136043259	r	82
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976785	1472136043219	1472136043395	a	65
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976789	1472136043363	1472136043555	n	78
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976793	1472136043483	1472136043651	t	84
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976797	1472136043587	1472136043787	s	83
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976801	1472136043691	1472136043867	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976805	1472136043923	1472136044099	n	78
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976811	1472136044019	1472136044179	o	79
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976814	1472136044107	1472136044299	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976818	1472136044258	1472136044467	r	82
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976822	1472136044355	1472136044571	e	69
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976878	1472136044443	1472136044667	a	65
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976881	1472136044563	1472136044715	l	76
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976885	1472136044691	1472136044811	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976888	1472136044939	1472136045091	SHIFT	16
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976892	1472136044987	1472136045139	F	70
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976896	1472136045155	1472136045308	a	65
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976900	1472136045283	1472136045435	n	78
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976903	1472136045539	1472136045683	t	84
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976926	1472136045659	1472136045851	a	65
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976928	1472136045819	1472136046019	s	83
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976930	1472136046091	1472136046243	y	89
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976931	1472136046195	1472136046323	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976933	1472136046411	1472136046523	c	67
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976996	1472136046483	1472136046659	o	79
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8976997	1472136046587	1472136046763	n	78
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977001	1472136046875	1472136047027	s	83
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977003	1472136047059	1472136047203	i	73
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977005	1472136047251	1472136047331	d	68
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977007	1472136047643	1472136047715	e	69
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977049	1472136047819	1472136047947	r	82
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977052	1472136048395	1472136048579	a	65
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977055	1472136048499	1472136048667	t	84
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977058	1472136048619	1472136048851	i	73
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977084	1472136048707	1472136048891	o	79
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977087	1472136048795	1472136048987	n	78
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977092	1472136048923	1472136049075	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977097	1472136049139	1472136049371	a	65
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977103	1472136049227	1472136049379	t	84
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977109	1472136049339	1472136049515	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977180	1472136049451	1472136049595	t	84
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977184	1472136049563	1472136049764	h	72
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977189	1472136049659	1472136049852	i	73
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977193	1472136049747	1472136049975	s	83
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977196	1472136050179	1472136050291	 	32
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977199	1472136050523	1472136050611	p	80
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977214	1472136050555	1472136050803	o	79
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977218	1472136050723	1472136050891	i	78
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977223	1472136050827	1472136050939	t	84
+17533	188566	However, he warrants no real Fantasy consideration at this point.	However, he warrants no real Fantasy consideration at this ponit.	8977226	1472136051067	1472136051155	.	190
+17533	188581	Did we plan that?	Did we plan that?	8977377	1472136053187	1472136053467	SHIFT	16
+17533	188581	Did we plan that?	Did we plan that?	8977380	1472136053355	1472136053475	D	68
+17533	188581	Did we plan that?	Did we plan that?	8977383	1472136053587	1472136053747	i	73
+17533	188581	Did we plan that?	Did we plan that?	8977387	1472136053667	1472136053843	d	68
+17533	188581	Did we plan that?	Did we plan that?	8977391	1472136053779	1472136054019	 	32
+17533	188581	Did we plan that?	Did we plan that?	8977413	1472136053971	1472136054219	w	87
+17533	188581	Did we plan that?	Did we plan that?	8977418	1472136054107	1472136054275	e	69
+17533	188581	Did we plan that?	Did we plan that?	8977422	1472136054195	1472136054347	 	32
+17533	188581	Did we plan that?	Did we plan that?	8977424	1472136054339	1472136054467	p	80
+17533	188581	Did we plan that?	Did we plan that?	8977425	1472136054452	1472136054659	l	76
+17533	188581	Did we plan that?	Did we plan that?	8977448	1472136054563	1472136054715	a	65
+17533	188581	Did we plan that?	Did we plan that?	8977451	1472136054707	1472136054859	n	78
+17533	188581	Did we plan that?	Did we plan that?	8977455	1472136054803	1472136054930	 	32
+17533	188581	Did we plan that?	Did we plan that?	8977458	1472136054979	1472136055107	t	84
+17533	188581	Did we plan that?	Did we plan that?	8977461	1472136055067	1472136055219	h	72
+17533	188581	Did we plan that?	Did we plan that?	8977471	1472136055139	1472136055315	a	65
+17533	188581	Did we plan that?	Did we plan that?	8977473	1472136055227	1472136055379	t	84
+17533	188581	Did we plan that?	Did we plan that?	8977479	1472136055467	1472136055667	SHIFT	16
+17533	188581	Did we plan that?	Did we plan that?	8977476	1472136055547	1472136055627	?	191
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977626	1472136057515	1472136057715	SHIFT	16
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977630	1472136057579	1472136057716	I	73
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977634	1472136057731	1472136057891	 	32
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977640	1472136057835	1472136057979	t	84
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977642	1472136058059	1472136058243	r	82
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977647	1472136058403	1472136058547	i	73
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977659	1472136058475	1472136058571	e	69
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977662	1472136058667	1472136058795	d	68
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977665	1472136058763	1472136058955	 	32
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977669	1472136058867	1472136059011	t	84
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977673	1472136058971	1472136059131	h	72
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977687	1472136059043	1472136059259	a	65
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977692	1472136059139	1472136059314	t	84
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977695	1472136059243	1472136059443	 	32
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977699	1472136059395	1472136059595	t	84
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977738	1472136059475	1472136059619	o	79
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977741	1472136059563	1472136059691	 	32
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977745	1472136059683	1472136059899	n	78
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977749	1472136059795	1472136059947	o	79
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977753	1472136059883	1472136060067	 	32
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977757	1472136060035	1472136060179	a	65
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977759	1472136060235	1472136060411	v	86
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977770	1472136060371	1472136060555	a	65
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977773	1472136060475	1472136060643	i	73
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977778	1472136060556	1472136060691	l	76
+17533	188589	I tried that to no avail.	I tried that to no avail.	8977780	1472136060739	1472136060859	.	190
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977923	1472136062659	1472136062803	SHIFT	16
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977927	1472136062738	1472136062851	C	67
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977930	1472136062923	1472136063083	o	79
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977938	1472136063011	1472136063163	u	85
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977945	1472136063164	1472136063331	l	76
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977956	1472136063259	1472136063418	d	68
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977958	1472136063347	1472136063499	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977961	1472136063547	1472136063675	y	89
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977966	1472136063619	1472136063827	o	79
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8977970	1472136063723	1472136063891	u	85
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978002	1472136063835	1472136063995	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978007	1472136064059	1472136064211	p	80
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978011	1472136064195	1472136064411	l	76
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978017	1472136064315	1472136064483	e	69
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978022	1472136064419	1472136064653	a	65
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978048	1472136064507	1472136064795	s	83
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978051	1472136064627	1472136064803	e	69
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978054	1472136064683	1472136064883	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978057	1472136064907	1472136065075	l	76
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978061	1472136064987	1472136065171	e	69
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978065	1472136065091	1472136065291	t	84
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978080	1472136065179	1472136065330	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978086	1472136065371	1472136065523	m	77
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978093	1472136065467	1472136065659	e	69
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978100	1472136065651	1472136065811	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978109	1472136065931	1472136066171	k	75
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978141	1472136066043	1472136066243	n	78
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978143	1472136066107	1472136066308	o	79
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978148	1472136066211	1472136066395	w	87
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978155	1472136066338	1472136066546	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978159	1472136066531	1472136066739	a	65
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978165	1472136066627	1472136066819	s	83
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978190	1472136066771	1472136066939	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978194	1472136066899	1472136067051	s	83
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978197	1472136067027	1472136067163	o	79
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978199	1472136067219	1472136067379	o	79
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978203	1472136067307	1472136067491	n	78
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978235	1472136067435	1472136067611	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978237	1472136067547	1472136067755	a	65
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978239	1472136067651	1472136067859	s	83
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978242	1472136067787	1472136067939	 	32
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978247	1472136067963	1472136068107	p	80
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978306	1472136068051	1472136068219	o	79
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978309	1472136068171	1472136068235	s	83
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978313	1472136068283	1472136068386	s	83
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978317	1472136068419	1472136068555	i	73
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978321	1472136068515	1472136068643	b	66
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978325	1472136069131	1472136069259	l	76
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978354	1472136069203	1472136069307	e	69
+17533	188596	Could you please let me know as soon as possible.	Could you please let me know as soon as possible.	8978357	1472136069491	1472136069555	.	190
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978476	1472136071483	1472136071627	SHIFT	16
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978478	1472136071522	1472136071659	S	83
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978481	1472136071771	1472136071979	o	79
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978487	1472136071899	1472136072067	n	78
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978554	1472136071971	1472136072130	g	71
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978561	1472136072035	1472136072226	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978565	1472136072291	1472136072507	a	65
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978569	1472136072435	1472136072603	s	83
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978575	1472136072539	1472136072698	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978582	1472136073090	1472136073171	v	86
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978641	1472136073387	1472136073491	i	73
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978644	1472136073467	1472136073555	c	67
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978649	1472136073667	1472136073851	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978653	1472136073803	1472136073938	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978658	1472136074059	1472136074162	m	77
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978706	1472136074155	1472136074298	i	73
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978711	1472136074283	1472136074483	n	78
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978721	1472136074403	1472136074546	i	73
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978725	1472136074515	1472136074674	s	83
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978728	1472136074627	1472136074755	t	84
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978731	1472136074843	1472136075027	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978740	1472136074907	1472136075115	r	82
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978745	1472136075043	1472136075179	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978750	1472136075187	1472136075347	o	79
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978758	1472136075275	1472136075379	f	70
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978763	1472136075348	1472136075531	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978820	1472136075467	1472136075610	t	84
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978823	1472136075579	1472136075715	h	72
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978827	1472136075675	1472136075835	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978832	1472136075771	1472136075939	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978834	1472136076139	1472136076219	g	71
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978836	1472136076299	1472136076410	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978891	1472136076387	1472136076531	o	79
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978892	1472136076787	1472136076931	l	76
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978894	1472136077011	1472136077139	o	79
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978902	1472136077171	1472136077275	g	71
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978910	1472136077323	1472136077474	y	89
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978918	1472136077587	1472136077715	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978947	1472136077835	1472136078027	a	65
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978950	1472136077931	1472136078130	n	78
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978954	1472136078050	1472136078282	d	68
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978959	1472136078194	1472136078363	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8978963	1472136078364	1472136078475	m	77
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979009	1472136078555	1472136078731	i	73
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979013	1472136078683	1472136078875	n	78
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979018	1472136078811	1472136078907	t	84
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979020	1472136079131	1472136079259	BKSP	8
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979024	1472136079187	1472136079426	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979070	1472136079291	1472136079475	r	82
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979074	1472136079411	1472136079635	a	65
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979080	1472136079507	1472136079691	l	76
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979084	1472136079643	1472136079794	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979088	1472136079891	1472136080059	r	82
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979092	1472136079971	1472136080090	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979096	1472136080203	1472136080387	s	83
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979126	1472136080323	1472136080554	o	79
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979129	1472136080426	1472136080643	u	85
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979135	1472136080587	1472136080722	r	82
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979137	1472136080891	1472136080987	c	67
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979140	1472136081131	1472136081378	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979175	1472136081235	1472136081418	s	83
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979179	1472136081307	1472136081474	 	32
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979186	1472136081531	1472136081626	m	77
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979192	1472136081619	1472136081755	i	73
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979196	1472136081723	1472136081915	n	78
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979201	1472136081835	1472136081978	i	73
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979208	1472136082059	1472136082243	s	83
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979222	1472136082195	1472136082298	t	84
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979225	1472136082363	1472136082522	e	69
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979227	1472136082427	1472136082571	r	82
+17533	188607	Song was vice minister of the geology and mineral resources minister.	Song was vice minister of the geology and mineral resources minister.	8979231	1472136082539	1472136082659	.	190
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979376	1472136084483	1472136084739	SHIFT	16
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979378	1472136084650	1472136084802	Y	89
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979381	1472136084899	1472136085123	e	69
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979383	1472136085011	1472136085218	s	83
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979386	1472136085251	1472136085411	 	32
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979440	1472136085514	1472136085714	SHIFT	16
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979388	1472136085594	1472136085706	I	73
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979444	1472136085675	1472136085834	 	32
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979450	1472136085843	1472136086011	l	76
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979456	1472136085923	1472136086034	i	73
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979461	1472136086155	1472136086275	k	75
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979464	1472136086203	1472136086371	e	69
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979478	1472136086323	1472136086475	 	32
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979479	1472136086476	1472136086635	p	80
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979480	1472136086547	1472136086715	e	69
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979484	1472136086643	1472136086770	r	82
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979489	1472136086875	1472136087011	f	70
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979514	1472136087003	1472136087138	u	85
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979518	1472136087258	1472136087371	m	77
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979522	1472136087372	1472136087482	e	69
+17533	188625	Yes I like perfume.	Yes I like perfume.	8979526	1472136087419	1472136087578	.	190

@@ -1,0 +1,717 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+301439	3242751	I'm going to class.	I'm going to class	154088858	1476149557782	1476149557957	SHIFT	16
+301439	3242751	I'm going to class.	I'm going to class	154088856	1476149557893	1476149557957	I	73
+301439	3242751	I'm going to class.	I'm going to class	154088860	1476149558165	1476149558196	'	222
+301439	3242751	I'm going to class.	I'm going to class	154088861	1476149559333	1476149559478	m	77
+301439	3242751	I'm going to class.	I'm going to class	154088863	1476149559429	1476149559573	 	32
+301439	3242751	I'm going to class.	I'm going to class	154088865	1476149559589	1476149559685	g	71
+301439	3242751	I'm going to class.	I'm going to class	154088871	1476149559653	1476149559829	o	79
+301439	3242751	I'm going to class.	I'm going to class	154088872	1476149559781	1476149559925	i	78
+301439	3242751	I'm going to class.	I'm going to class	154088873	1476149559925	1476149560005	g	71
+301439	3242751	I'm going to class.	I'm going to class	154088874	1476149560005	1476149560101	 	32
+301439	3242751	I'm going to class.	I'm going to class	154088875	1476149560165	1476149560261	t	84
+301439	3242751	I'm going to class.	I'm going to class	154088888	1476149560245	1476149560341	o	79
+301439	3242751	I'm going to class.	I'm going to class	154088890	1476149560292	1476149560404	 	32
+301439	3242751	I'm going to class.	I'm going to class	154088892	1476149560612	1476149560693	c	67
+301439	3242751	I'm going to class.	I'm going to class	154088895	1476149560757	1476149560821	l	76
+301439	3242751	I'm going to class.	I'm going to class	154088898	1476149561061	1476149561173	a	65
+301439	3242751	I'm going to class.	I'm going to class	154089042	1476149561142	1476149561237	s	83
+301439	3242751	I'm going to class.	I'm going to class	154089045	1476149561333	1476149561412	s	83
+301439	3242751	I'm going to class.	I'm going to class	154089046	1476149564117	1476149564245	BKSP	8
+301439	3242751	I'm going to class.	I'm going to class	154089049	1476149564868	1476149564901	ARW_RIGHT	39
+301439	3242751	I'm going to class.	I'm going to class	154089050	1476149565141	1476149565238	n	78
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089145	1476149569525	1476149569749	SHIFT	16
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089147	1476149569669	1476149569796	W	87
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089149	1476149570165	1476149570260	e	69
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089151	1476149570325	1476149570453	i	73
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089153	1476149570404	1476149570516	n	78
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089158	1476149570645	1476149570724	k	75
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089209	1476149570837	1476149570917	e	69
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089210	1476149570980	1476149571093	 	32
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089212	1476149571333	1476149571412	v	67
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089215	1476149572036	1476149572116	BKSP	8
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089219	1476149572981	1476149573060	o	79
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089232	1476149573141	1476149573204	u	85
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089233	1476149573316	1476149573397	l	76
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089234	1476149573477	1476149573540	d	68
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089235	1476149573508	1476149573604	 	32
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089236	1476149573668	1476149573732	h	72
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089237	1476149573812	1476149573924	a	65
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089238	1476149573876	1476149573972	v	86
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089239	1476149574149	1476149574181	 	69
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089241	1476149574372	1476149574470	a	65
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089265	1476149574436	1476149574548	 	32
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089266	1476149575140	1476149575204	b	66
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089267	1476149575285	1476149575364	i	73
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089268	1476149575429	1476149575524	g	71
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089269	1476149575492	1476149575588	 	32
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089270	1476149575652	1476149575717	g	71
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089276	1476149575829	1476149575941	a	65
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089277	1476149575941	1476149576004	m	77
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089278	1476149576149	1476149576229	e	69
+301439	3242756	Weinke could have a big game.	Weinke could have a big game.	154089279	1476149576836	1476149576916	.	190
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089349	1476149579428	1476149579781	SHIFT	16
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089347	1476149579668	1476149579780	I	73
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089350	1476149579765	1476149579860	 	32
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089351	1476149580020	1476149580117	t	84
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089352	1476149580117	1476149580212	h	72
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089363	1476149580196	1476149580277	i	73
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089365	1476149580340	1476149580437	n	78
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089367	1476149580500	1476149580612	k	75
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089368	1476149580612	1476149580708	 	32
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089369	1476149580724	1476149580868	w	87
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089378	1476149580808	1476149580932	e	69
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089379	1476149580933	1476149581012	 	32
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089380	1476149581076	1476149581157	s	83
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089381	1476149581157	1476149581252	h	72
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089382	1476149581348	1476149581460	o	79
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089389	1476149581428	1476149581524	u	85
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089392	1476149581636	1476149581716	l	76
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089394	1476149581732	1476149581828	d	68
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089396	1476149581862	1476149581956	 	32
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089398	1476149582196	1476149582276	c	67
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089399	1476149582308	1476149582436	o	79
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089409	1476149582405	1476149582532	n	78
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089411	1476149582567	1476149582676	s	83
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089413	1476149582676	1476149582740	i	73
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089414	1476149582788	1476149582916	d	68
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089415	1476149582932	1476149583157	e	69
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089416	1476149583044	1476149583188	r	82
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089418	1476149583158	1476149583236	 	32
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089420	1476149583300	1476149583380	h	84
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089422	1476149583396	1476149583508	i	73
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089424	1476149583524	1476149583636	s	83
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089427	1476149583604	1476149583700	 	32
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089428	1476149583908	1476149584036	r	82
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089429	1476149583988	1476149584100	e	69
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089430	1476149584196	1476149584292	q	81
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089431	1476149584340	1476149584404	u	85
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089432	1476149584484	1476149584612	e	69
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089437	1476149584581	1476149584724	s	83
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089439	1476149584677	1476149584788	t	84
+301439	3242762	I think we should consider this request.	I think we should consider this request.	154089441	1476149584965	1476149585044	.	190
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089470	1476149587732	1476149587893	SHIFT	16
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089471	1476149587844	1476149587957	W	87
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089472	1476149588036	1476149588132	e	69
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089473	1476149588148	1476149588229	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089474	1476149588292	1476149588388	w	87
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089475	1476149588436	1476149588500	i	73
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089491	1476149588628	1476149588676	l	76
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089493	1476149588772	1476149588852	l	76
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089496	1476149588852	1476149588932	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089498	1476149589012	1476149589076	b	66
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089500	1476149589124	1476149589220	e	69
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089507	1476149589236	1476149589284	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089508	1476149589380	1476149589476	b	66
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089509	1476149589508	1476149589620	r	82
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089510	1476149589636	1476149589748	i	73
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089511	1476149589684	1476149589844	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089512	1476149589845	1476149589924	g	71
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089513	1476149590132	1476149590228	i	73
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089514	1476149590180	1476149590308	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089515	1476149590372	1476149590468	g	71
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089516	1476149590804	1476149590900	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089529	1476149590996	1476149591076	i	73
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089530	1476149591076	1476149591237	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089531	1476149591237	1476149591332	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089532	1476149591395	1476149591460	l	76
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089533	1476149591572	1476149591668	u	85
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089536	1476149591796	1476149591860	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089539	1476149591924	1476149592020	c	67
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089542	1476149592020	1476149592164	h	72
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089545	1476149592132	1476149592228	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089548	1476149592229	1476149592324	a	65
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089555	1476149592356	1476149592436	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089556	1476149592452	1476149592548	d	68
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089557	1476149592580	1476149592660	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089573	1476149592757	1476149592949	SHIFT	16
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089558	1476149592852	1476149592948	I	73
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089574	1476149592932	1476149593028	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089575	1476149593140	1476149593220	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089576	1476149593316	1476149593396	e	69
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089577	1476149593492	1476149593652	e	69
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089578	1476149593604	1476149593732	d	68
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089579	1476149593748	1476149593828	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089590	1476149593876	1476149593972	t	84
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089591	1476149593924	1476149594036	o	79
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089592	1476149594004	1476149594100	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089593	1476149594180	1476149594276	k	75
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089594	1476149594340	1476149594420	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089606	1476149594501	1476149594580	o	79
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089608	1476149594644	1476149594708	w	87
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089611	1476149594756	1476149594820	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089614	1476149594932	1476149595028	m	77
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089617	1476149595284	1476149595348	BKSP	8
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089619	1476149595524	1476149595605	h	72
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089622	1476149595700	1476149595764	o	79
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089623	1476149595844	1476149595924	w	87
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089624	1476149595924	1476149595988	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089625	1476149596084	1476149596148	m	77
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089626	1476149596228	1476149596308	a	65
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089646	1476149596292	1476149596388	n	78
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089648	1476149596484	1476149596596	y	89
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089651	1476149596580	1476149596692	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089654	1476149596692	1476149596788	t	84
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089657	1476149596820	1476149596916	o	79
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089679	1476149596900	1476149596980	 	32
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089681	1476149597348	1476149597428	o	79
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089683	1476149597524	1476149597604	r	82
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089687	1476149597764	1476149597860	d	68
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089691	1476149598004	1476149598164	e	69
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089696	1476149598116	1476149598228	r	82
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089697	1476149598180	1476149598372	SHIFT	16
+301439	3242766	We will be bringing in lunch and I need to know how many to order?	We will be bringing in lunch and I need to know how many to order?	154089698	1476149598292	1476149598404	?	191
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089748	1476149600772	1476149601060	SHIFT	16
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089749	1476149600980	1476149601124	S	83
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089750	1476149601412	1476149601492	e	69
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089751	1476149601652	1476149601732	i	73
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089752	1476149602276	1476149602388	f	70
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089753	1476149602468	1476149602660	e	69
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089766	1476149602548	1476149602692	r	82
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089768	1476149602804	1476149602900	t	84
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089770	1476149602916	1476149603012	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089772	1476149603044	1476149603172	s	83
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089774	1476149603284	1476149603380	a	65
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089775	1476149603428	1476149603524	i	73
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089776	1476149603572	1476149603684	d	68
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089777	1476149603749	1476149603844	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089778	1476149603972	1476149604052	h	72
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089779	1476149604132	1476149604212	e	69
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089780	1476149604308	1476149604404	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089789	1476149604900	1476149604980	d	68
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089791	1476149605012	1476149605095	i	73
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089794	1476149605076	1476149605172	d	68
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089797	1476149605236	1476149605316	n	78
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089800	1476149605364	1476149605460	t	84
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089903	1476149605908	1476149605972	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089904	1476149606132	1476149606212	'	222
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089905	1476149606724	1476149606788	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089907	1476149606852	1476149606932	t	84
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089909	1476149606948	1476149607028	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089911	1476149607412	1476149607476	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089913	1476149607572	1476149607652	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089915	1476149607812	1476149607876	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089918	1476149608756	1476149608804	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089921	1476149610516	1476149610612	d	68
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089924	1476149610676	1476149610724	n	78
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089943	1476149611044	1476149611124	'	222
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089945	1476149611204	1476149611300	t	84
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089948	1476149611364	1476149611444	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089951	1476149611796	1476149611892	k	75
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089954	1476149611940	1476149612036	n	78
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089960	1476149612100	1476149612166	o	79
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089962	1476149612212	1476149612308	w	87
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089964	1476149612323	1476149612404	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089966	1476149612420	1476149612532	i	73
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154089967	1476149612532	1476149612644	f	70
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090003	1476149612708	1476149612819	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090005	1476149612948	1476149613044	CAPS_LOCK	20
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090007	1476149612948	1476149613284	SHIFT	16
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090009	1476149613524	1476149613684	SHIFT	16
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090011	1476149613604	1476149613748	w	87
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090013	1476149613844	1476149613940	E	69
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090014	1476149614052	1476149614163	I	73
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090044	1476149614132	1476149614276	N	78
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090046	1476149614484	1476149614548	K	75
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090048	1476149614964	1476149615027	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090051	1476149615124	1476149615187	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090053	1476149615284	1476149615348	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090055	1476149615443	1476149615508	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090057	1476149615604	1476149615684	BKSP	8
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090060	1476149615876	1476149615988	CAPS_LOCK	20
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090062	1476149616180	1476149616388	SHIFT	16
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090065	1476149616324	1476149616452	W	87
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090070	1476149616548	1476149616628	e	69
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090073	1476149616692	1476149616804	i	73
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090081	1476149616724	1476149616868	n	78
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090082	1476149616948	1476149617044	k	75
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090083	1476149617076	1476149617172	e	69
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090084	1476149617220	1476149617316	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090085	1476149617396	1476149617524	w	87
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090086	1476149617572	1476149617732	o	79
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090096	1476149617716	1476149617812	u	85
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090097	1476149617940	1476149618004	l	76
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090098	1476149618036	1476149618116	d	68
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090099	1476149618148	1476149618244	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090100	1476149618420	1476149618500	p	80
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090101	1476149618611	1476149618692	r	82
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090147	1476149618868	1476149618996	a	65
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090149	1476149618996	1476149619124	c	67
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090152	1476149619364	1476149619460	t	84
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090155	1476149620548	1476149620611	i	73
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090159	1476149620740	1476149620884	c	67
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090180	1476149620836	1476149620947	e	69
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090184	1476149620932	1476149621028	 	32
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090188	1476149621028	1476149621204	SHIFT	16
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090194	1476149621156	1476149621300	T	84
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090198	1476149621300	1476149621444	h	72
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090201	1476149621396	1476149621508	u	85
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090204	1476149621892	1476149621988	r	82
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090220	1476149622036	1476149622228	s	83
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090222	1476149622180	1476149622324	d	68
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090223	1476149622372	1476149622484	a	65
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090224	1476149622516	1476149622596	y	89
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090227	1476149622836	1476149622852	,	190
+301439	3242769	Seifert said he didn't know if Weinke would practice Thursday.	Seifert said he didn't know if Weinke would practice Thursday.	154090254	1476149623588	1476149623651	BKSP	8
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090306	1476149626244	1476149626436	SHIFT	16
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090307	1476149626387	1476149626500	W	87
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090308	1476149626580	1476149626692	e	69
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090309	1476149626692	1476149626755	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090310	1476149626804	1476149626900	w	87
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090311	1476149626932	1476149626995	i	73
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090320	1476149627124	1476149627188	l	76
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090322	1476149627252	1476149627332	l	76
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090324	1476149627332	1476149627411	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090326	1476149627492	1476149627572	b	66
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090327	1476149627603	1476149627716	e	69
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090339	1476149627732	1476149627763	m	77
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090340	1476149627812	1476149627955	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090341	1476149628195	1476149628243	BKSP	8
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090342	1476149628340	1476149628419	BKSP	8
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090343	1476149628420	1476149628515	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090344	1476149628596	1476149628676	m	77
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090346	1476149628756	1476149628859	a	65
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090391	1476149628860	1476149628932	n	78
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090393	1476149628980	1476149629108	a	65
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090394	1476149629812	1476149629908	g	71
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090395	1476149629926	1476149630051	i	73
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090426	1476149629972	1476149630100	n	78
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090427	1476149630420	1476149630468	g	71
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090428	1476149630900	1476149630995	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090429	1476149631091	1476149631251	o	79
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090430	1476149631235	1476149631332	u	85
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090431	1476149631412	1476149631540	r	82
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090444	1476149631571	1476149631652	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090447	1476149631668	1476149631764	r	82
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090450	1476149631859	1476149631987	a	65
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090454	1476149632067	1476149632227	t	84
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090460	1476149632180	1476149632324	e	69
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090462	1476149632419	1476149632548	s	83
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090464	1476149632611	1476149632707	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090470	1476149632708	1476149632836	a	65
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090474	1476149632836	1476149632916	n	78
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090478	1476149632916	1476149633044	d	68
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090489	1476149633045	1476149633124	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090491	1476149633140	1476149633316	w	87
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090493	1476149633235	1476149633379	e	69
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090494	1476149633363	1476149633443	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090495	1476149633523	1476149633635	n	78
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090507	1476149633636	1476149633699	e	69
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090508	1476149633795	1476149633939	e	69
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090509	1476149633891	1476149634019	d	68
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090510	1476149634051	1476149634148	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090511	1476149634163	1476149634276	t	84
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090513	1476149634277	1476149634403	o	79
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090514	1476149634355	1476149634468	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090516	1476149634579	1476149634723	p	80
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090518	1476149634675	1476149634803	l	76
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090520	1476149634803	1476149634899	a	65
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090533	1476149635572	1476149635683	n	78
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090535	1476149635651	1476149635779	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090537	1476149635811	1476149635907	o	79
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090539	1476149635971	1476149636099	n	78
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090549	1476149636035	1476149636180	 	32
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090550	1476149636180	1476149636291	s	83
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090551	1476149636324	1476149636404	o	79
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090552	1476149636451	1476149636563	f	70
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090553	1476149636723	1476149636835	t	84
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090554	1476149636931	1476149637059	w	87
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090604	1476149637043	1476149637219	a	65
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090606	1476149637171	1476149637283	r	82
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090608	1476149637331	1476149637508	r	69
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090609	1476149637555	1476149637651	.	190
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090610	1476149638035	1476149638083	BKSP	8
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090612	1476149638196	1476149638259	BKSP	8
+301439	3242781	We will be managing our rates and we need to plan on software.	We will be managing our rates and we need to plan on software.	154090614	1476149638835	1476149638900	.	190
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090702	1476149641171	1476149641363	SHIFT	16
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090703	1476149641315	1476149641459	A	65
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090704	1476149641491	1476149641619	s	83
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090705	1476149641683	1476149641795	 	32
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090706	1476149641779	1476149641907	f	70
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090707	1476149641923	1476149642003	o	79
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090722	1476149642019	1476149642163	r	82
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090723	1476149642179	1476149642291	 	32
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090724	1476149642435	1476149642547	y	89
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090726	1476149642548	1476149642691	o	79
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090753	1476149642659	1476149642755	u	85
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090757	1476149642756	1476149642867	r	82
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090760	1476149642915	1476149642979	 	32
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090761	1476149643175	1476149643315	r	82
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090762	1476149643507	1476149643571	BKSP	8
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090763	1476149643571	1476149643747	s	83
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090797	1476149643667	1476149643779	e	69
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090800	1476149643907	1476149644003	c	67
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090804	1476149644051	1476149644195	o	79
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090806	1476149644147	1476149644259	n	78
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090808	1476149645171	1476149645267	d	68
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090809	1476149645299	1476149645395	 	32
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090810	1476149645443	1476149645539	q	81
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090811	1476149645603	1476149645715	u	85
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090812	1476149645795	1476149645843	e	69
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090814	1476149645843	1476149646035	s	83
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090851	1476149645971	1476149646131	t	84
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090852	1476149646131	1476149646275	i	73
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090853	1476149646195	1476149646307	o	79
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090855	1476149646297	1476149646387	n	78
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090857	1476149646611	1476149646755	,	188
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090859	1476149646755	1476149646867	 	32
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090885	1476149647155	1476149647251	b	66
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090886	1476149647299	1476149647395	e	69
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090887	1476149647475	1476149647571	n	78
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090888	1476149647651	1476149647731	c	67
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090889	1476149647795	1476149647907	h	72
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090899	1476149647875	1476149647987	 	32
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090905	1476149648163	1476149648388	SHIFT	16
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090902	1476149648291	1476149648387	M	77
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090910	1476149648483	1476149648563	i	73
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090916	1476149648659	1476149648723	k	75
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090920	1476149648755	1476149648851	e	69
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090923	1476149648883	1476149648979	 	32
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090933	1476149648995	1476149649156	SHIFT	16
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090935	1476149649091	1476149649203	A	65
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090939	1476149649219	1476149649299	n	78
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090944	1476149649331	1476149649443	d	68
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090947	1476149649571	1476149649747	e	69
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090975	1476149649684	1476149649763	r	82
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090976	1476149649748	1476149649860	s	83
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090977	1476149649827	1476149649939	o	79
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090978	1476149649875	1476149649987	n	78
+301439	3242788	As for your second question, bench Mike Anderson.	As for your second question, bench Mike Anderson.	154090980	1476149650163	1476149650243	.	190
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091020	1476149653107	1476149653380	SHIFT	16
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091018	1476149653283	1476149653380	H	72
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091022	1476149653491	1476149653603	e	69
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091023	1476149653603	1476149653715	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091025	1476149653731	1476149653891	s	83
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091060	1476149653811	1476149653955	a	65
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091061	1476149654003	1476149654083	i	73
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091062	1476149654531	1476149654627	d	68
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091063	1476149654675	1476149654788	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091065	1476149655475	1476149655571	h	72
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091067	1476149655603	1476149655699	e	69
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091091	1476149655747	1476149655796	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091093	1476149655939	1476149656051	s	83
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091095	1476149656035	1476149656275	a	65
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091096	1476149656195	1476149656339	w	87
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091097	1476149656419	1476149656515	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091139	1476149656628	1476149656691	n	78
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091141	1476149656819	1476149656915	o	79
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091143	1476149656931	1476149657059	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091145	1476149657683	1476149657747	d	68
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091146	1476149657907	1476149658035	a	65
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091167	1476149658067	1476149658179	m	77
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091169	1476149658243	1476149658340	a	65
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091170	1476149658595	1476149658755	g	71
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091172	1476149658722	1476149658850	e	69
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091173	1476149658883	1476149658995	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091181	1476149658996	1476149659107	t	84
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091183	1476149659107	1476149659219	o	79
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091184	1476149659171	1476149659299	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091185	1476149659299	1476149659395	t	84
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091186	1476149659427	1476149659523	h	72
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091205	1476149659524	1476149659619	e	69
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091207	1476149659651	1476149659763	 	32
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091209	1476149660019	1476149660115	a	65
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091211	1476149660227	1476149660307	i	73
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091213	1476149660419	1476149660515	r	82
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091216	1476149660563	1476149660692	p	80
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091219	1476149660627	1476149660723	o	79
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091222	1476149660755	1476149660883	r	82
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091224	1476149660787	1476149660931	t	84
+301439	3242794	He said he saw no damage to the airport.	He said he saw no damage to the airport.	154091226	1476149661029	1476149661075	ALT	18
+301439	3242803	John this message concerns me.	John this message concerns me.	154091321	1476149666339	1476149666580	SHIFT	16
+301439	3242803	John this message concerns me.	John this message concerns me.	154091319	1476149666467	1476149666563	J	74
+301439	3242803	John this message concerns me.	John this message concerns me.	154091324	1476149666627	1476149666691	o	79
+301439	3242803	John this message concerns me.	John this message concerns me.	154091327	1476149666787	1476149666851	h	72
+301439	3242803	John this message concerns me.	John this message concerns me.	154091338	1476149666963	1476149667059	 	78
+301439	3242803	John this message concerns me.	John this message concerns me.	154091341	1476149667059	1476149667171	 	32
+301439	3242803	John this message concerns me.	John this message concerns me.	154091343	1476149667171	1476149667283	t	84
+301439	3242803	John this message concerns me.	John this message concerns me.	154091346	1476149667299	1476149667395	h	72
+301439	3242803	John this message concerns me.	John this message concerns me.	154091350	1476149667363	1476149667443	i	73
+301439	3242803	John this message concerns me.	John this message concerns me.	154091351	1476149667475	1476149667571	s	83
+301439	3242803	John this message concerns me.	John this message concerns me.	154091413	1476149667603	1476149667699	 	32
+301439	3242803	John this message concerns me.	John this message concerns me.	154091414	1476149667971	1476149668019	BKSP	8
+301439	3242803	John this message concerns me.	John this message concerns me.	154091415	1476149668131	1476149668179	BKSP	8
+301439	3242803	John this message concerns me.	John this message concerns me.	154091416	1476149668275	1476149668339	BKSP	8
+301439	3242803	John this message concerns me.	John this message concerns me.	154091417	1476149668418	1476149668467	BKSP	8
+301439	3242803	John this message concerns me.	John this message concerns me.	154091418	1476149668563	1476149668627	BKSP	8
+301439	3242803	John this message concerns me.	John this message concerns me.	154091420	1476149668707	1476149668787	BKSP	8
+301439	3242803	John this message concerns me.	John this message concerns me.	154091422	1476149669299	1476149669427	t	84
+301439	3242803	John this message concerns me.	John this message concerns me.	154091424	1476149669411	1476149669539	h	72
+301439	3242803	John this message concerns me.	John this message concerns me.	154091426	1476149669475	1476149669571	i	73
+301439	3242803	John this message concerns me.	John this message concerns me.	154091428	1476149669587	1476149669699	s	83
+301439	3242803	John this message concerns me.	John this message concerns me.	154091455	1476149669701	1476149669779	 	32
+301439	3242803	John this message concerns me.	John this message concerns me.	154091459	1476149669891	1476149669971	m	77
+301439	3242803	John this message concerns me.	John this message concerns me.	154091464	1476149670195	1476149670355	e	69
+301439	3242803	John this message concerns me.	John this message concerns me.	154091468	1476149670355	1476149670467	s	83
+301439	3242803	John this message concerns me.	John this message concerns me.	154091470	1476149670547	1476149670659	s	83
+301439	3242803	John this message concerns me.	John this message concerns me.	154091498	1476149670771	1476149670851	a	65
+301439	3242803	John this message concerns me.	John this message concerns me.	154091501	1476149670995	1476149671107	g	71
+301439	3242803	John this message concerns me.	John this message concerns me.	154091502	1476149671171	1476149671267	e	69
+301439	3242803	John this message concerns me.	John this message concerns me.	154091503	1476149671267	1476149671347	 	32
+301439	3242803	John this message concerns me.	John this message concerns me.	154091504	1476149671459	1476149671539	c	67
+301439	3242803	John this message concerns me.	John this message concerns me.	154091536	1476149671523	1476149671651	o	79
+301439	3242803	John this message concerns me.	John this message concerns me.	154091538	1476149671651	1476149671779	n	78
+301439	3242803	John this message concerns me.	John this message concerns me.	154091540	1476149672051	1476149672163	c	67
+301439	3242803	John this message concerns me.	John this message concerns me.	154091542	1476149672275	1476149672451	e	69
+301439	3242803	John this message concerns me.	John this message concerns me.	154091544	1476149672371	1476149672547	r	82
+301439	3242803	John this message concerns me.	John this message concerns me.	154091548	1476149672771	1476149672835	n	78
+301439	3242803	John this message concerns me.	John this message concerns me.	154091576	1476149672947	1476149673043	s	83
+301439	3242803	John this message concerns me.	John this message concerns me.	154091579	1476149673139	1476149673219	 	32
+301439	3242803	John this message concerns me.	John this message concerns me.	154091582	1476149673299	1476149673379	m	77
+301439	3242803	John this message concerns me.	John this message concerns me.	154091585	1476149673411	1476149673491	e	69
+301439	3242803	John this message concerns me.	John this message concerns me.	154091589	1476149673603	1476149673651	,	188
+301439	3242803	John this message concerns me.	John this message concerns me.	154091597	1476149674179	1476149674195	BKSP	8
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091719	1476149677379	1476149677603	SHIFT	16
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091722	1476149677555	1476149677683	W	87
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091725	1476149677762	1476149677842	e	69
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091729	1476149677891	1476149677987	 	32
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091733	1476149678002	1476149678099	c	67
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091739	1476149678099	1476149678178	u	85
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091750	1476149678242	1476149678339	r	82
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091752	1476149678435	1476149678578	r	82
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091756	1476149678515	1476149678661	e	69
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091760	1476149678662	1476149678754	n	78
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091762	1476149678771	1476149678885	t	84
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091807	1476149678979	1476149679011	l	186
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091810	1476149679059	1476149679156	y	89
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091814	1476149679475	1476149679539	BKSP	8
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091816	1476149679651	1476149679699	BKSP	8
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091819	1476149679795	1476149679874	BKSP	8
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091823	1476149680643	1476149680739	l	76
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091826	1476149680755	1476149680851	y	89
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091840	1476149680915	1476149681027	 	32
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091843	1476149681187	1476149681283	h	72
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091847	1476149681379	1476149681474	a	65
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091851	1476149681474	1476149681538	v	86
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091854	1476149681619	1476149681699	e	69
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091879	1476149681732	1476149681811	 	32
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091880	1476149682339	1476149682435	6	102
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091881	1476149682563	1476149682659	 	32
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091882	1476149682787	1476149682899	e	69
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091883	1476149682979	1476149683042	m	77
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091895	1476149683187	1476149683315	p	80
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091896	1476149683251	1476149683379	l	76
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091897	1476149683443	1476149683523	o	79
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091898	1476149683603	1476149683747	y	89
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091925	1476149683731	1476149683859	e	69
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091933	1476149683971	1476149684051	e	69
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091939	1476149684195	1476149684323	s	83
+301439	3242810	We currently have 6 employees.	We currently have 6 employees.	154091945	1476149684387	1476149684450	.	190
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092071	1476149687188	1476149687331	CTRL	17
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092074	1476149687459	1476149687650	SHIFT	16
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092077	1476149687587	1476149687714	G	71
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092080	1476149687731	1476149687794	i	73
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092082	1476149687811	1476149687922	a	65
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092086	1476149687923	1476149688003	n	78
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092090	1476149688052	1476149688194	t	84
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092111	1476149688147	1476149688290	s	83
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092113	1476149688323	1476149688402	,	188
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092116	1476149688371	1476149688499	 	32
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092119	1476149688594	1476149688626	h	72
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092122	1476149688930	1476149688995	BKSP	8
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092125	1476149689219	1476149689347	b	66
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092129	1476149689299	1476149689412	u	85
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092130	1476149689442	1476149689539	t	84
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092132	1476149689539	1476149689619	 	32
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092134	1476149689682	1476149689762	h	72
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092137	1476149689795	1476149689890	e	69
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092140	1476149689922	1476149690002	 	32
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092152	1476149690258	1476149690354	d	68
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092155	1476149690355	1476149690434	i	73
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092158	1476149690483	1476149690594	d	68
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092161	1476149690595	1476149690659	n	78
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092165	1476149691010	1476149691074	t	84
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092232	1476149691170	1476149691250	'	222
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092235	1476149691427	1476149691490	BKSP	8
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092240	1476149691570	1476149691634	BKSP	8
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092245	1476149691762	1476149691810	'	186
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092251	1476149691891	1476149691986	t	84
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092255	1476149692226	1476149692290	BKSP	8
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092260	1476149692390	1476149692450	BKSP	8
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092262	1476149692546	1476149692610	BKSP	8
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092264	1476149692691	1476149692771	BKSP	8
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092265	1476149693554	1476149693618	n	78
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092296	1476149693890	1476149693954	'	222
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092301	1476149694050	1476149694115	t	84
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092303	1476149694178	1476149694258	 	32
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092306	1476149694898	1476149694979	f	70
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092311	1476149694979	1476149695106	i	73
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092328	1476149695042	1476149695170	n	78
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092330	1476149695186	1476149695298	i	73
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092333	1476149695347	1476149695426	s	83
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092335	1476149695442	1476149695555	h	72
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092338	1476149695570	1476149695651	 	32
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092341	1476149695794	1476149695826	i	73
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092415	1476149695890	1476149695970	t	84
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092416	1476149696083	1476149696148	ALT	18
+301439	3242819	Giants, but he didn't finish it.	Giants, but he didn't finish it.	154092417	1476149698418	1476149698482	.	190
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092522	1476149701058	1476149701250	SHIFT	16
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092524	1476149701235	1476149701362	V	86
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092530	1476149701363	1476149701554	e	69
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092533	1476149701490	1476149701650	r	82
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092535	1476149701570	1476149701666	y	89
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092575	1476149701650	1476149701762	 	32
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092576	1476149701763	1476149701954	t	84
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092577	1476149701890	1476149702035	r	82
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092578	1476149702562	1476149702610	u	85
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092581	1476149702818	1476149702882	l	76
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092584	1476149702978	1476149703058	y	89
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092637	1476149703250	1476149703346	 	32
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092639	1476149703442	1476149703554	y	89
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092642	1476149703618	1476149703762	o	79
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092645	1476149703714	1476149703810	u	85
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092648	1476149704290	1476149704418	r	82
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092709	1476149704370	1476149704514	s	83
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092712	1476149704578	1476149704690	,	188
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092715	1476149704658	1476149704786	 	32
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092716	1476149704739	1476149704962	SHIFT	16
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092717	1476149704930	1476149705042	A	65
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092718	1476149705634	1476149705746	c	67
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092719	1476149705778	1476149705874	m	77
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092743	1476149705922	1476149706002	e	69
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092745	1476149706034	1476149706130	 	32
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092747	1476149706211	1476149706370	SHIFT	16
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092750	1476149706338	1476149706450	C	67
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092752	1476149706930	1476149707042	o	79
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092754	1476149707138	1476149707282	s	83
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092774	1476149707234	1476149707346	t	84
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092777	1476149707442	1476149707506	u	85
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092780	1476149707634	1476149707714	m	77
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092782	1476149707762	1476149707842	e	69
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092783	1476149707938	1476149708034	 	32
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092785	1476149708066	1476149708210	SHIFT	16
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092802	1476149708114	1476149708290	C	67
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092803	1476149708322	1476149708402	o	79
+301439	3242829	Very truly yours, Acme Costume Co.	Very truly yours, Acme Costume Co.	154092804	1476149708866	1476149708914	.	190
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092894	1476149711314	1476149711618	SHIFT	16
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092892	1476149711490	1476149711618	I	73
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092896	1476149711586	1476149711682	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092900	1476149711906	1476149712001	d	68
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092902	1476149711987	1476149712084	o	79
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092971	1476149712051	1476149712147	n	78
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092972	1476149712434	1476149712498	'	222
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092973	1476149712642	1476149712706	t	84
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092974	1476149712946	1476149713042	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092975	1476149713154	1476149713234	h	72
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154092976	1476149713298	1476149713410	a	65
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093000	1476149713378	1476149713458	v	86
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093002	1476149713506	1476149713602	e	69
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093005	1476149713603	1476149713666	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093009	1476149713714	1476149713810	t	84
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093012	1476149713794	1476149713858	h	72
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093016	1476149713890	1476149713986	e	69
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093033	1476149713987	1476149714066	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093036	1476149714338	1476149714466	d	68
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093040	1476149714594	1476149714674	i	73
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093044	1476149714770	1476149714930	s	83
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093066	1476149714898	1476149715074	t	84
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093070	1476149715026	1476149715154	r	82
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093072	1476149715234	1476149715394	a	65
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093074	1476149715394	1476149715506	c	67
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093076	1476149715618	1476149715730	t	84
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093078	1476149715730	1476149715890	i	73
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093092	1476149715810	1476149715938	o	79
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093094	1476149715858	1476149716002	n	78
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093096	1476149715970	1476149716082	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093098	1476149716130	1476149716210	o	79
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093101	1476149716226	1476149716322	f	70
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093103	1476149716354	1476149716434	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093105	1476149716482	1476149716562	t	84
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093112	1476149716706	1476149716817	a	65
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093114	1476149716850	1476149716914	k	75
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093117	1476149717042	1476149717154	i	73
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093121	1476149717090	1476149717234	n	78
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093124	1476149717235	1476149717330	g	71
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093168	1476149717379	1476149717474	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093170	1476149717794	1476149717906	c	67
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093172	1476149717938	1476149718146	a	65
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093174	1476149718098	1476149718274	r	82
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093196	1476149718210	1476149718354	e	69
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093198	1476149718418	1476149718482	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093201	1476149718562	1476149718642	o	79
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093204	1476149718706	1476149718834	f	70
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093207	1476149718834	1476149718914	 	32
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093245	1476149718930	1476149719186	SHIFT	16
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093212	1476149719074	1476149719154	M	77
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093248	1476149719378	1476149719458	i	73
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093249	1476149719698	1476149719778	m	77
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093250	1476149719906	1476149719954	i	73
+301439	3242843	I don't have the distraction of taking care of Mimi.	I don't have the distraction of taking care of Mimi.	154093251	1476149720146	1476149720226	.	190
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093341	1476149722835	1476149723138	SHIFT	16
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093345	1476149723105	1476149723218	Y	89
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093348	1476149723218	1476149723346	o	79
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093352	1476149723330	1476149723411	u	85
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093356	1476149723828	1476149723922	'	222
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093359	1476149723954	1476149724066	r	82
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093424	1476149724034	1476149724130	e	69
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093425	1476149724194	1476149724274	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093426	1476149724562	1476149724690	d	68
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093427	1476149724770	1476149724820	o	79
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093428	1476149724882	1476149724962	w	87
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093429	1476149725906	1476149726002	n	78
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093460	1476149725970	1476149726066	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093462	1476149726162	1476149726306	b	66
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093464	1476149726306	1476149726386	y	89
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093467	1476149726450	1476149726546	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093471	1476149727410	1476149727522	5	53
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093474	1476149727522	1476149727618	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093501	1476149727682	1476149727794	a	65
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093503	1476149727826	1476149727922	n	78
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093505	1476149727937	1476149728034	d	68
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093506	1476149728049	1476149728130	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093507	1476149728290	1476149728386	n	78
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093522	1476149728418	1476149728498	e	69
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093526	1476149728594	1476149728722	e	69
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093530	1476149728642	1476149728834	d	68
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093534	1476149728897	1476149728994	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093537	1476149729026	1476149729122	t	84
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093567	1476149729137	1476149729250	o	79
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093570	1476149729218	1476149729330	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093572	1476149729618	1476149729746	s	83
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093574	1476149729842	1476149729938	c	67
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093576	1476149730002	1476149730082	o	79
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093617	1476149730130	1476149730274	r	82
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093623	1476149730244	1476149730354	e	69
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093631	1476149730402	1476149730466	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093635	1476149731426	1476149731538	u	85
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093670	1476149731474	1476149731634	n	78
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093671	1476149731922	1476149731970	BKSP	8
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093673	1476149732066	1476149732146	BKSP	8
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093675	1476149732818	1476149732946	i	73
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093679	1476149732882	1476149733042	n	78
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093683	1476149733042	1476149733170	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093687	1476149733218	1476149733314	4	52
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093692	1476149733362	1476149733442	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093737	1476149733682	1476149733794	p	80
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093739	1476149734146	1476149734242	l	76
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093741	1476149734418	1476149734562	a	65
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093744	1476149734786	1476149734898	y	89
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093748	1476149734946	1476149735042	s	83
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093770	1476149735043	1476149735106	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093774	1476149735202	1476149735298	o	79
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093779	1476149735346	1476149735441	r	82
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093784	1476149735441	1476149735554	 	32
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093788	1476149735762	1476149735842	l	76
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093820	1476149735970	1476149736162	e	69
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093823	1476149736114	1476149736209	s	83
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093825	1476149736306	1476149736402	s	83
+301439	3242851	You're down by 5 and need to score in 4 plays or less.	You're down by 5 and need to score in 4 plays or less.	154093827	1476149736882	1476149736962	.	190
+301439	3242863	What do you hear?	What do you hear?	154093978	1476149739874	1476149740082	SHIFT	16
+301439	3242863	What do you hear?	What do you hear?	154093980	1476149740033	1476149740146	W	87
+301439	3242863	What do you hear?	What do you hear?	154093982	1476149740209	1476149740289	h	72
+301439	3242863	What do you hear?	What do you hear?	154093986	1476149740322	1476149740417	a	65
+301439	3242863	What do you hear?	What do you hear?	154093990	1476149740449	1476149740530	t	84
+301439	3242863	What do you hear?	What do you hear?	154093994	1476149740530	1476149740626	 	32
+301439	3242863	What do you hear?	What do you hear?	154094025	1476149740865	1476149740977	d	68
+301439	3242863	What do you hear?	What do you hear?	154094029	1476149741010	1476149741089	o	79
+301439	3242863	What do you hear?	What do you hear?	154094033	1476149741073	1476149741186	 	32
+301439	3242863	What do you hear?	What do you hear?	154094036	1476149741218	1476149741297	y	89
+301439	3242863	What do you hear?	What do you hear?	154094040	1476149741298	1476149741426	o	79
+301439	3242863	What do you hear?	What do you hear?	154094064	1476149741378	1476149741490	u	85
+301439	3242863	What do you hear?	What do you hear?	154094068	1476149741490	1476149741553	 	32
+301439	3242863	What do you hear?	What do you hear?	154094073	1476149741650	1476149741713	h	72
+301439	3242863	What do you hear?	What do you hear?	154094077	1476149741794	1476149741874	e	69
+301439	3242863	What do you hear?	What do you hear?	154094082	1476149741970	1476149742130	a	65
+301439	3242863	What do you hear?	What do you hear?	154094107	1476149742082	1476149742194	r	82
+301439	3242863	What do you hear?	What do you hear?	154094110	1476149742497	1476149742674	SHIFT	16
+301439	3242863	What do you hear?	What do you hear?	154094112	1476149742642	1476149742689	?	191

@@ -1,0 +1,645 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423208	1476385951422	1476385951723	SHIFT	16
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423213	1476385951585	1476385951740	M	77
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423219	1476385951930	1476385952104	a	65
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423225	1476385952369	1476385952485	r	82
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423232	1476385952469	1476385952620	i	73
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423238	1476385952867	1476385952992	s	83
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423279	1476385952939	1476385953174	a	65
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423283	1476385953072	1476385953210	 	32
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423296	1476385953302	1476385953412	s	83
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423306	1476385953456	1476385953556	e	69
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423316	1476385953571	1476385953703	n	78
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423362	1476385953681	1476385953791	d	68
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423368	1476385953835	1476385953950	 	32
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423373	1476385953957	1476385954046	t	84
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423380	1476385954065	1476385954169	h	72
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423388	1476385954143	1476385954237	e	69
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423393	1476385954257	1476385954360	 	32
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423458	1476385954393	1476385954525	i	73
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423461	1476385954539	1476385954685	n	78
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423466	1476385954965	1476385955070	v	86
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423469	1476385955086	1476385955281	o	79
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423542	1476385955187	1476385955345	i	73
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423546	1476385955353	1476385955506	c	67
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423552	1476385955467	1476385955577	e	69
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423558	1476385955738	1476385955829	s	83
+321403	3460724	Marisa sent the invoices.	Marisa send the invoices.	164423565	1476385955888	1476385955968	.	190
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164423941	1476385959714	1476385959960	SHIFT	16
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164423944	1476385959891	1476385960020	S	83
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164423947	1476385960086	1476385960172	a	65
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164423950	1476385960218	1476385960319	m	77
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164423953	1476385960329	1476385960423	a	65
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164423955	1476385960499	1476385960621	n	78
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424033	1476385960713	1476385960792	t	84
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424038	1476385960842	1476385960944	h	72
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424042	1476385961118	1476385961264	a	65
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424050	1476385961272	1476385961386	 	32
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424055	1476385961529	1476385961646	w	87
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424098	1476385961592	1476385961718	o	79
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424104	1476385961693	1476385961778	u	85
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424112	1476385961859	1476385961956	l	76
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424119	1476385961926	1476385962029	d	68
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424125	1476385962015	1476385962093	 	32
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424127	1476385962252	1476385962321	e	69
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424177	1476385962584	1476385962688	BKSP	8
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424185	1476385962802	1476385962903	n	78
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424191	1476385962933	1476385962990	e	69
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424198	1476385963068	1476385963174	e	69
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424207	1476385963281	1476385963389	d	68
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424271	1476385963369	1476385963488	 	32
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424276	1476385963573	1476385963701	a	65
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424283	1476385963780	1476385963867	r	82
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424291	1476385963842	1476385964000	o	79
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424302	1476385963952	1476385964060	u	85
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424310	1476385964112	1476385964213	n	78
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424844	1476385969631	1476385969719	-	189
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424851	1476385969938	1476385970024	t	84
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424856	1476385970035	1476385970147	h	72
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164424860	1476385970153	1476385970248	e	69
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425007	1476385970280	1476385970434	 	32
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425010	1476385971049	1476385971185	BKSP	8
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425014	1476385971297	1476385971413	-	189
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425020	1476385971959	1476385972074	c	67
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425026	1476385972055	1476385972206	l	76
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425080	1476385972174	1476385972318	o	79
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425087	1476385972323	1476385972432	c	67
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425094	1476385972408	1476385972637	k	75
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425100	1476385972548	1476385972709	 	32
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425105	1476385972790	1476385972891	c	67
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425134	1476385972872	1476385972970	a	65
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425140	1476385973042	1476385973196	r	82
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425144	1476385973160	1476385973320	e	69
+321403	3460747	Samantha would need around-the-clock care.	Samantha would need around-the-clock care.	164425148	1476385973366	1476385973431	.	190
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425447	1476385976682	1476385976859	SHIFT	16
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425454	1476385976794	1476385976904	L	76
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425458	1476385977069	1476385977269	e	69
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425465	1476385977244	1476385977360	t	84
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425471	1476385977331	1476385977422	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425475	1476385977466	1476385977612	m	77
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425561	1476385977559	1476385977679	e	69
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425570	1476385977672	1476385977777	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425578	1476385978458	1476385978695	k	75
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425586	1476385978586	1476385978733	n	78
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425594	1476385978675	1476385978835	o	79
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425633	1476385978786	1476385978906	w	87
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425642	1476385978893	1476385979029	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425651	1476385979105	1476385979226	i	73
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425659	1476385979212	1476385979298	f	70
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425666	1476385979308	1476385979428	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425670	1476385979468	1476385979579	y	89
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425703	1476385979516	1476385979669	o	79
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425712	1476385979619	1476385979769	u	85
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425720	1476385979700	1476385979833	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425728	1476385979841	1476385979936	s	83
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425736	1476385980028	1476385980104	e	69
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425740	1476385980174	1476385980315	e	69
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425778	1476385980301	1476385980456	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425781	1476385980468	1476385980577	a	65
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425788	1476385980572	1476385980713	n	78
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425792	1476385980734	1476385980869	y	89
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425798	1476385980849	1476385980934	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425806	1476385981005	1476385981115	p	80
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425832	1476385981102	1476385981195	r	82
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425839	1476385981165	1476385981287	o	79
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425843	1476385981396	1476385981487	b	66
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425849	1476385981548	1476385981652	l	76
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425852	1476385981638	1476385981709	e	69
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425858	1476385981716	1476385981815	m	77
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425884	1476385981855	1476385981978	s	83
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425890	1476385981990	1476385982095	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425901	1476385982110	1476385982173	w	87
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425908	1476385982148	1476385982313	i	73
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425948	1476385982299	1476385982355	t	84
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425953	1476385982333	1476385982456	h	72
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425959	1476385982469	1476385982568	 	32
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425964	1476385982576	1476385982687	t	84
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164425967	1476385982678	1476385982807	h	72
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164426023	1476385982760	1476385982873	i	73
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164426030	1476385982860	1476385982967	s	83
+321403	3460780	Let me know if you see any problems with this.	Let me know if you see any problems with this.	164426034	1476385983461	1476385983543	.	190
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426313	1476385986247	1476385986652	SHIFT	16
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426312	1476385986543	1476385986642	I	73
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426315	1476385986726	1476385986859	s	83
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426318	1476385986840	1476385986975	 	32
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426322	1476385987103	1476385987189	t	84
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426326	1476385987197	1476385987277	h	72
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426369	1476385987286	1476385987405	a	65
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426372	1476385987406	1476385987505	t	84
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426375	1476385987512	1476385987655	 	32
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426377	1476385987730	1476385987822	e	69
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426381	1476385987841	1476385987983	n	78
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426420	1476385987957	1476385988125	o	79
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426424	1476385988067	1476385988205	u	85
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426431	1476385988189	1476385988299	g	71
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426438	1476385988254	1476385988394	h	72
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426445	1476385988367	1476385988494	 	32
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426452	1476385988574	1476385988677	f	70
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426470	1476385988660	1476385988764	o	79
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426476	1476385988771	1476385988866	r	82
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426482	1476385988854	1476385988970	 	32
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426487	1476385988990	1476385989063	t	84
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426492	1476385989017	1476385989192	h	72
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426551	1476385989133	1476385989264	i	73
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426555	1476385989239	1476385989361	s	83
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426561	1476385989346	1476385989502	 	32
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426567	1476385989558	1476385989665	w	87
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426574	1476385989772	1476385989843	e	69
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426581	1476385989928	1476385990047	e	69
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426622	1476385990057	1476385990156	k	75
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426626	1476385990407	1476385990558	SHIFT	16
+321403	3460797	Is that enough for this week?	Is that enough for this week?	164426635	1476385990498	1476385990589	?	191
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427106	1476385995024	1476385995417	SHIFT	16
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427112	1476385995330	1476385995501	I	73
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427116	1476385995449	1476385995599	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427124	1476385995805	1476385995917	i	73
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427130	1476385995929	1476385996023	d	68
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427137	1476385996121	1476385996232	n	78
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427230	1476385996644	1476385996748	t	84
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427232	1476385996764	1476385996890	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427238	1476385997024	1476385997152	m	77
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427245	1476385997136	1476385997281	e	69
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427251	1476385997389	1476385997493	a	65
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427399	1476385997518	1476385997698	n	78
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427400	1476385997642	1476385997778	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427406	1476385998996	1476385999100	t	84
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427409	1476385999073	1476385999240	o	79
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427446	1476385999209	1476385999329	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427453	1476385999374	1476385999472	g	71
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427458	1476385999421	1476385999584	e	69
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427464	1476385999556	1476385999703	t	84
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427472	1476385999685	1476385999775	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427480	1476385999822	1476385999949	y	89
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427523	1476385999868	1476386000044	o	79
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427528	1476386000003	1476386000204	u	85
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427530	1476386000120	1476386000248	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427533	1476386000381	1476386000509	s	83
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427537	1476386000480	1476386000656	o	79
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427567	1476386000587	1476386000713	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427569	1476386000858	1476386000935	b	66
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427572	1476386000944	1476386001019	e	69
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427575	1476386001079	1476386001205	n	78
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427580	1476386001179	1476386001271	t	84
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427585	1476386001291	1476386001365	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427626	1476386001393	1476386001573	o	79
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427630	1476386001518	1476386001669	u	85
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427635	1476386001693	1476386001818	t	84
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427639	1476386001800	1476386001906	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427644	1476386001938	1476386002113	o	79
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427692	1476386002070	1476386002172	f	70
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427699	1476386002163	1476386002271	 	32
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427705	1476386002418	1476386002504	s	83
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427711	1476386002487	1476386002593	h	72
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427717	1476386002601	1476386002710	a	65
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427724	1476386002720	1476386002841	p	80
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427735	1476386002847	1476386002927	e	69
+321403	3460812	I didn t mean to get you so bent out of shape.	Ididnt mean to get you so bent out of shape.	164427739	1476386003111	1476386003170	.	190
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164427975	1476386005689	1476386005932	SHIFT	16
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164427978	1476386005858	1476386005972	W	87
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164427986	1476386005982	1476386006060	h	72
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164427994	1476386006092	1476386006196	a	65
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428000	1476386006167	1476386006278	t	84
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428046	1476386006259	1476386006382	 	32
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428054	1476386006427	1476386006528	i	73
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428064	1476386006548	1476386006638	s	83
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428072	1476386006648	1476386006752	 	32
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428080	1476386006777	1476386006870	t	84
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428136	1476386006851	1476386006939	h	72
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428144	1476386006953	1476386007042	e	69
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428151	1476386007059	1476386007152	 	32
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428162	1476386007233	1476386007356	s	83
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428171	1476386007443	1476386007529	t	84
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428177	1476386007544	1476386007656	o	79
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428204	1476386007711	1476386007811	c	67
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428206	1476386007784	1476386007960	k	75
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428214	1476386007888	1476386008026	 	32
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428221	1476386008105	1476386008254	p	80
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428292	1476386008228	1476386008346	r	82
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428298	1476386008353	1476386008474	i	73
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428304	1476386008550	1476386008653	c	67
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428312	1476386008636	1476386008765	e	69
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428321	1476386008746	1476386008887	 	32
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428330	1476386008988	1476386009076	d	68
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428391	1476386009024	1476386009154	o	79
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428400	1476386009090	1476386009303	i	73
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428408	1476386009216	1476386009381	n	78
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428415	1476386009328	1476386009431	g	71
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428422	1476386009539	1476386009798	SHIFT	16
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428427	1476386009705	1476386009853	?	191
+321403	3460839	What is the stock price doing?	What is the stock price doing?	164428431	1476386009928	1476386010053	]	221
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428776	1476386013565	1476386014008	SHIFT	16
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428765	1476386013896	1476386013997	J	74
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428790	1476386014197	1476386014315	e	69
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428799	1476386014512	1476386014577	f	70
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428807	1476386014646	1476386014745	f	70
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428814	1476386014839	1476386014921	,	188
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428874	1476386015314	1476386015444	 	32
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428877	1476386015487	1476386015591	a	65
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428882	1476386015636	1476386015703	t	84
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428886	1476386015775	1476386015888	t	84
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428889	1476386015916	1476386016046	a	65
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428908	1476386016181	1476386016268	c	67
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428914	1476386016278	1476386016373	h	72
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428921	1476386016407	1476386016472	e	69
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428927	1476386016605	1476386016714	d	68
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428995	1476386016698	1476386016811	 	32
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164428998	1476386016876	1476386017005	i	73
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429003	1476386017010	1476386017136	s	83
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429006	1476386017117	1476386017232	 	32
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429011	1476386017350	1476386017460	m	77
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429016	1476386017579	1476386017706	y	89
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429050	1476386017679	1476386017825	 	32
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429053	1476386017882	1476386018037	r	82
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429056	1476386017975	1476386018106	e	69
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429059	1476386018226	1476386018336	s	83
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429061	1476386018349	1476386018418	u	85
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429065	1476386018503	1476386018585	m	77
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429073	1476386018616	1476386018728	e	69
+321403	3460851	Jeff, attached is my resume.	Jeff, attached is my resume.	164429077	1476386018802	1476386018878	.	190
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429519	1476386022611	1476386022924	SHIFT	16
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429515	1476386022861	1476386022907	M	77
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429522	1476386023156	1476386023257	r	82
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429525	1476386024365	1476386024518	.	190
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429529	1476386024489	1476386024616	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429633	1476386024790	1476386025183	SHIFT	16
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429534	1476386025024	1476386025142	R	82
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429634	1476386025502	1476386025610	a	65
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429635	1476386025671	1476386025871	o	79
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429636	1476386025810	1476386025955	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429643	1476386026795	1476386026936	,	188
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429645	1476386027033	1476386027111	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429683	1476386027291	1476386027447	g	71
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429688	1476386027362	1476386027557	o	79
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429691	1476386027467	1476386027624	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429695	1476386027778	1476386027941	t	84
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429791	1476386027885	1476386028080	o	79
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429794	1476386028007	1476386028149	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429798	1476386028306	1476386028476	w	87
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429802	1476386028485	1476386028527	a	65
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429806	1476386028751	1476386028821	BKSP	8
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429811	1476386028910	1476386029034	BKSP	8
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429818	1476386029042	1476386029333	SHIFT	16
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429824	1476386029247	1476386029378	W	87
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429828	1476386029530	1476386029733	a	65
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429845	1476386029691	1476386029801	s	83
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429849	1476386029846	1476386029953	h	72
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429853	1476386029918	1476386030064	i	73
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429857	1476386030121	1476386030248	n	78
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429861	1476386030232	1476386030320	g	71
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429868	1476386030449	1476386030528	t	84
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429899	1476386030491	1476386030722	o	79
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429902	1476386030594	1476386030831	n	78
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429911	1476386030739	1476386030892	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429919	1476386031100	1476386031265	b	66
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429925	1476386031249	1476386031374	u	85
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429929	1476386031381	1476386031476	t	84
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429949	1476386031463	1476386031567	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429953	1476386031846	1476386031966	w	87
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429957	1476386031950	1476386032054	i	73
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429961	1476386032068	1476386032146	t	84
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164429965	1476386032125	1476386032295	h	72
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430015	1476386032227	1476386032364	 	32
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430020	1476386032592	1476386032683	d	68
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430024	1476386032686	1476386032827	i	73
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430027	1476386033001	1476386033111	g	71
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430031	1476386033305	1476386033449	n	78
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430085	1476386033435	1476386033573	i	73
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430088	1476386033701	1476386033818	t	84
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430094	1476386033874	1476386033936	y	89
+321403	3460868	Mr. Rao, go to Washington but go with dignity.	Mr. Rao, go to Washington but with dignity.	164430098	1476386034311	1476386034374	.	190
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430345	1476386037830	1476386038092	SHIFT	16
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430350	1476386038010	1476386038129	A	65
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430355	1476386038173	1476386038285	n	78
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430359	1476386038297	1476386038467	o	79
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430364	1476386038415	1476386038503	t	84
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430377	1476386038479	1476386038640	h	72
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430382	1476386038625	1476386038777	e	69
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430387	1476386038716	1476386038850	r	82
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430393	1476386038798	1476386038952	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430398	1476386039001	1476386039131	g	71
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430461	1476386039090	1476386039232	r	82
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430464	1476386039169	1476386039341	o	79
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430470	1476386039302	1476386039412	u	85
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430473	1476386039501	1476386039680	p	80
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430477	1476386039623	1476386039757	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430479	1476386039883	1476386039997	o	79
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430563	1476386039982	1476386040095	f	70
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430566	1476386040081	1476386040207	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430569	1476386040469	1476386040639	p	80
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430572	1476386040602	1476386040708	o	79
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430575	1476386040855	1476386041051	l	76
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430577	1476386041351	1476386041479	i	73
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430626	1476386041592	1476386041742	c	67
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430631	1476386041683	1476386041818	e	69
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430635	1476386041898	1476386041998	m	77
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430640	1476386042007	1476386042115	e	69
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430644	1476386042126	1476386042251	n	78
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430676	1476386042262	1476386042366	t	84
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430680	1476386042378	1476386042540	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430687	1476386042583	1476386042773	w	87
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430695	1476386042755	1476386042971	a	65
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430852	1476386042934	1476386043089	s	83
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430855	1476386043261	1476386043327	BKSP	8
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430859	1476386043425	1476386043486	BKSP	8
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430861	1476386043594	1476386043638	BKSP	8
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430864	1476386043735	1476386043790	BKSP	8
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430869	1476386043884	1476386043951	BKSP	8
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430873	1476386044032	1476386044088	BKSP	8
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430876	1476386044786	1476386044952	n	78
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430880	1476386044907	1476386045035	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430886	1476386045051	1476386045194	w	87
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430893	1476386045164	1476386045360	a	65
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430938	1476386045328	1476386045441	s	83
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430941	1476386045451	1476386045571	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430945	1476386045716	1476386045781	f	70
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430948	1476386046068	1476386046169	BKSP	8
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430951	1476386046239	1476386046331	d	68
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430955	1476386046371	1476386046482	u	85
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430982	1476386046465	1476386046558	e	69
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430986	1476386046567	1476386046684	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430992	1476386046705	1476386046810	t	84
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164430996	1476386046754	1476386046922	o	79
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431001	1476386046853	1476386046972	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431004	1476386047057	1476386047152	b	66
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431082	1476386047134	1476386047259	e	69
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431086	1476386047239	1476386047353	 	32
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431092	1476386047584	1476386047758	d	68
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431102	1476386047716	1476386047890	e	69
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431109	1476386048331	1476386048475	p	80
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431118	1476386048585	1476386048673	l	76
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431244	1476386048769	1476386048901	o	79
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431248	1476386049066	1476386049164	y	89
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431255	1476386049284	1476386049383	e	69
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431258	1476386049515	1476386049607	d	68
+321403	3460889	Another group of policemen was due to be deployed.	Another group of policemen was due to be deployed.	164431263	1476386050619	1476386050700	.	190
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431567	1476386054288	1476386055169	SHIFT	16
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431565	1476386055072	1476386055146	I	73
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431569	1476386055286	1476386055395	s	83
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431572	1476386055434	1476386055540	 	32
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431575	1476386055595	1476386055684	r	82
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431668	1476386055667	1476386055823	h	72
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431671	1476386055765	1476386055909	i	73
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431674	1476386055868	1476386055997	s	83
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431681	1476386056024	1476386056180	 	32
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431687	1476386056362	1476386056441	BKSP	8
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431690	1476386056539	1476386056601	BKSP	8
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431697	1476386056703	1476386056740	BKSP	8
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431704	1476386056832	1476386056901	BKSP	8
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431709	1476386057166	1476386057289	BKSP	8
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431713	1476386057424	1476386057527	t	84
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431734	1476386057507	1476386057654	h	72
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431740	1476386057596	1476386057752	i	73
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431747	1476386057714	1476386057812	s	83
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431754	1476386057837	1476386057992	 	32
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431761	1476386058115	1476386058262	c	67
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431841	1476386058209	1476386058384	a	65
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431847	1476386058683	1476386058813	s	83
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431854	1476386058798	1476386058982	h	72
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431859	1476386058910	1476386059048	 	32
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431864	1476386059151	1476386059271	c	67
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431963	1476386059231	1476386059449	o	79
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431964	1476386059410	1476386059580	k	75
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431965	1476386059616	1476386059683	m	77
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431966	1476386059933	1476386059991	BKSP	8
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431967	1476386060065	1476386060136	BKSP	8
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431968	1476386060323	1476386060420	m	77
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164431969	1476386060475	1476386060620	i	73
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432022	1476386060603	1476386060748	n	78
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432026	1476386060711	1476386060823	g	71
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432029	1476386060805	1476386060896	 	32
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432031	1476386060941	1476386061142	i	73
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432033	1476386061053	1476386061215	n	78
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432036	1476386061319	1476386061485	t	84
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432106	1476386061496	1476386061710	o	79
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432111	1476386061620	1476386061769	 	32
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432130	1476386062003	1476386062505	SHIFT	16
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432117	1476386062200	1476386062278	T	84
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432126	1476386062351	1476386062454	W	87
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432134	1476386062667	1476386062823	SHIFT	16
+321403	3460911	Is this cash coming into TW?	Is this cash coming into TW?	164432121	1476386062752	1476386062866	?	191
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432371	1476386065890	1476386066155	SHIFT	16
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432369	1476386066059	1476386066139	T	84
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432372	1476386066320	1476386066427	h	72
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432375	1476386066461	1476386066607	e	69
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432380	1476386066573	1476386066676	 	32
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432384	1476386067102	1476386067215	r	82
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432405	1476386067225	1476386067391	i	73
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432409	1476386067325	1476386067507	o	79
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432416	1476386067492	1476386067565	t	84
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432423	1476386067647	1476386067764	s	83
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432426	1476386067787	1476386067921	 	32
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432496	1476386068096	1476386068301	w	87
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432501	1476386068283	1476386068432	e	69
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432506	1476386068519	1476386068694	r	82
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432511	1476386068648	1476386068802	e	69
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432577	1476386068783	1476386068913	 	32
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432583	1476386069034	1476386069166	s	83
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432587	1476386069236	1476386069342	t	84
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432592	1476386069350	1476386069459	a	65
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432597	1476386070139	1476386070221	r	84
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432734	1476386070759	1476386070841	BKSP	8
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432738	1476386070916	1476386070998	BKSP	8
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432743	1476386071150	1476386071257	r	82
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432748	1476386071398	1476386071473	t	84
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432754	1476386071585	1476386071682	e	69
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432761	1476386071813	1476386071935	d	68
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432820	1476386071918	1476386072042	 	32
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432821	1476386072204	1476386072400	b	66
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432824	1476386072371	1476386072519	y	89
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432827	1476386072482	1476386072586	 	32
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432832	1476386072842	1476386072985	n	78
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432837	1476386072995	1476386073098	a	65
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432936	1476386073396	1476386073463	i	73
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432940	1476386074017	1476386074112	BKSP	8
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432944	1476386074189	1476386074307	t	84
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432947	1476386074331	1476386074481	i	73
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164432951	1476386074555	1476386074708	v	86
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433071	1476386074662	1476386074820	e	69
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433072	1476386074800	1476386074935	 	32
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433074	1476386075328	1476386075811	SHIFT	16
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433073	1476386075650	1476386075763	T	84
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433075	1476386076248	1476386076413	a	65
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433076	1476386076395	1476386076538	i	73
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433077	1476386076668	1476386076854	w	87
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433144	1476386076814	1476386076988	a	65
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433146	1476386077057	1476386077189	n	78
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433148	1476386077347	1476386077467	e	69
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433153	1476386077598	1476386077766	s	83
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433158	1476386077736	1476386077864	e	69
+321403	3460930	The riots were started by native Taiwanese.	The riots were started by native Taiwanese.	164433163	1476386078168	1476386078249	.	190
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433343	1476386080125	1476386080424	SHIFT	16
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433346	1476386080327	1476386080499	I	73
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433351	1476386080442	1476386080569	 	32
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433355	1476386080686	1476386080744	h	72
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433358	1476386080765	1476386080853	a	65
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433363	1476386080902	1476386080987	v	86
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433402	1476386080996	1476386081077	e	69
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433405	1476386081102	1476386081230	 	32
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433410	1476386081318	1476386081426	2	50
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433415	1476386081443	1476386081556	 	32
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433416	1476386081739	1476386081856	d	68
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433448	1476386081886	1476386081985	i	73
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433450	1476386082016	1476386082085	f	70
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433453	1476386082169	1476386082276	f	70
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433456	1476386082376	1476386082495	e	69
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433498	1476386082468	1476386082639	r	82
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433500	1476386082621	1476386082711	e	69
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433502	1476386082750	1476386082881	n	78
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433504	1476386082864	1476386082945	t	84
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433506	1476386082967	1476386083041	 	32
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433508	1476386083071	1476386083269	o	79
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433525	1476386083178	1476386083297	n	78
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433529	1476386083305	1476386083437	e	69
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433533	1476386083396	1476386083545	s	83
+321403	3460954	I have 2 different ones.	I have 2 different ones.	164433540	1476386083631	1476386083700	.	190
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433799	1476386086185	1476386086675	SHIFT	16
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433804	1476386086690	1476386086857	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433811	1476386086865	1476386087009	w	87
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433815	1476386087018	1476386087168	a	65
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433819	1476386087291	1476386087407	s	83
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433821	1476386087411	1476386087547	n	78
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433940	1476386087974	1476386088114	'	192
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433945	1476386088171	1476386088252	t	84
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433952	1476386088333	1476386088482	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433959	1476386088889	1476386089027	s	83
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164433971	1476386089056	1476386089180	u	85
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434006	1476386089152	1476386089324	r	82
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434012	1476386089251	1476386089437	e	69
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434022	1476386089357	1476386089471	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434030	1476386089722	1476386089825	t	84
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434037	1476386089832	1476386089903	h	72
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434045	1476386089938	1476386090047	a	65
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434064	1476386090023	1476386090143	t	84
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434069	1476386090127	1476386090262	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434072	1476386090323	1476386090417	y	89
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434075	1476386090398	1476386090527	o	79
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434082	1476386090484	1476386090650	u	85
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434173	1476386090584	1476386090722	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434174	1476386090733	1476386090864	r	82
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434176	1476386090822	1476386090935	e	69
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434179	1476386091105	1476386091170	c	67
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434184	1476386091369	1476386091481	i	73
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434191	1476386091678	1476386091783	e	69
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434260	1476386092050	1476386092201	v	86
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434262	1476386092185	1476386092284	e	69
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434266	1476386092644	1476386092763	d	68
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434271	1476386092787	1476386092911	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434352	1476386092886	1476386092966	t	84
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434354	1476386092986	1476386093097	h	72
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434356	1476386093104	1476386093203	e	69
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434358	1476386093212	1476386093325	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434360	1476386094078	1476386094170	f	70
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434363	1476386094185	1476386094323	i	73
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434423	1476386094334	1476386094446	r	82
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434430	1476386094570	1476386094672	s	83
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434438	1476386094753	1476386094851	t	84
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434446	1476386094874	1476386094981	 	32
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434453	1476386095414	1476386095538	e	69
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434530	1476386096022	1476386096116	-	189
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434536	1476386096233	1476386096363	m	77
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434543	1476386096346	1476386096496	a	65
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434551	1476386096442	1476386096593	i	73
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434584	1476386096545	1476386096655	l	76
+321403	3460963	I wasn't sure that you received the first e-mail.	I wasn't sure that you recieved the first e-mail.	164434593	1476386096747	1476386096860	.	190
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434900	1476386098616	1476386099071	SHIFT	16
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434903	1476386098974	1476386099094	W	87
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434906	1476386099245	1476386099342	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434912	1476386099983	1476386100019	'	192
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434917	1476386100108	1476386100209	'	192
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434920	1476386101129	1476386101189	BKSP	8
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434927	1476386101410	1476386101476	l	76
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434968	1476386101554	1476386101707	l	76
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434973	1476386101695	1476386101843	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434980	1476386101889	1476386102042	l	76
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434989	1476386102050	1476386102178	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164434995	1476386102238	1476386102346	t	84
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435033	1476386102327	1476386102465	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435036	1476386102475	1476386102552	y	89
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435040	1476386102509	1476386102655	o	79
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435045	1476386102631	1476386102777	u	85
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435052	1476386102759	1476386102862	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435057	1476386102878	1476386103055	k	75
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435174	1476386103103	1476386103208	o	79
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435181	1476386103293	1476386103477	w	87
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435189	1476386103702	1476386103796	BKSP	8
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435193	1476386103922	1476386104015	BKSP	8
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435200	1476386104260	1476386104428	n	78
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435207	1476386104375	1476386104548	o	79
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435303	1476386104535	1476386104653	w	87
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435307	1476386104587	1476386104709	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435312	1476386104718	1476386104953	i	73
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435316	1476386104819	1476386105042	n	78
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435322	1476386105394	1476386105530	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435326	1476386105538	1476386105621	t	84
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435345	1476386105597	1476386105699	h	72
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435352	1476386105715	1476386105822	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435358	1476386105813	1476386105928	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435366	1476386105952	1476386106118	m	77
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435372	1476386106064	1476386106202	o	79
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435402	1476386106152	1476386106284	r	82
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435405	1476386106255	1476386106403	n	78
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435409	1476386106377	1476386106561	i	73
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435412	1476386106516	1476386106653	n	78
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435415	1476386106614	1476386106752	g	71
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435421	1476386106754	1476386106867	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435493	1476386107235	1476386107358	i	73
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435495	1476386107341	1476386107464	f	70
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435498	1476386107477	1476386107630	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435502	1476386107788	1476386107988	w	87
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435551	1476386107928	1476386108065	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435556	1476386108074	1476386108229	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435561	1476386108278	1476386108387	a	65
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435566	1476386108434	1476386108602	r	82
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435569	1476386108559	1476386108694	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435602	1476386108649	1476386108765	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435607	1476386108774	1476386108923	i	73
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435612	1476386108905	1476386109038	n	78
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435617	1476386109061	1476386109131	t	84
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435622	1476386109246	1476386109375	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435719	1476386109358	1476386109516	r	82
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435725	1476386109499	1476386109606	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435730	1476386109738	1476386109838	s	83
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435736	1476386109955	1476386110034	t	84
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435741	1476386110089	1476386110194	e	69
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435745	1476386110311	1476386110408	d	68
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435787	1476386110437	1476386110552	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435796	1476386110610	1476386110739	o	79
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435804	1476386110757	1476386110910	r	82
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435811	1476386110858	1476386110986	 	32
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435820	1476386111093	1476386111255	n	78
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435857	1476386111218	1476386111349	o	79
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435866	1476386111371	1476386111471	t	84
+321403	3460988	We'll let you know in the morning if we are interested or not.	We'll let you know in the morning if we are interested or not.	164435872	1476386111640	1476386111716	.	190
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436037	1476386114064	1476386114309	SHIFT	16
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436042	1476386114270	1476386114349	L	76
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436047	1476386114497	1476386114619	e	69
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436052	1476386114660	1476386114768	t	84
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436058	1476386114759	1476386114846	 	32
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436063	1476386114916	1476386115023	m	77
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436094	1476386115030	1476386115137	e	69
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436097	1476386115118	1476386115215	 	32
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436099	1476386115292	1476386115478	k	75
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436105	1476386115448	1476386115611	n	78
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436166	1476386115563	1476386115709	o	79
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436173	1476386115691	1476386115795	w	87
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436177	1476386115809	1476386115901	 	32
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436182	1476386115951	1476386116043	w	87
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436186	1476386116050	1476386116145	h	72
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436192	1476386116205	1476386116324	a	65
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436212	1476386116298	1476386116435	t	84
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436215	1476386116416	1476386116557	 	32
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436218	1476386116602	1476386116707	y	89
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436222	1476386116678	1476386116819	o	79
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436228	1476386116799	1476386117000	u	85
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436291	1476386116957	1476386117103	 	32
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436295	1476386117329	1476386117499	w	87
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436299	1476386117457	1476386117596	a	65
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436304	1476386117615	1476386117719	n	78
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436312	1476386117732	1476386117841	t	84
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436336	1476386117825	1476386117939	 	32
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436338	1476386117984	1476386118087	t	84
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436343	1476386118039	1476386118209	o	79
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436347	1476386118133	1476386118291	 	32
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436351	1476386118360	1476386118479	d	68
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436374	1476386118463	1476386118558	o	79
+321403	3461013	Let me know what you want to do.	Let me know what you want to do.	164436378	1476386118920	1476386118982	.	190

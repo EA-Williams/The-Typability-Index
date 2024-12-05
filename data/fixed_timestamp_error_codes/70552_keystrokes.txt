@@ -1,0 +1,654 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+70552	768529	his will be hard.	his will be hard.	36516739	1472827000573	1472827000724	h	72
+70552	768529	his will be hard.	his will be hard.	36516744	1472827000631	1472827000777	i	73
+70552	768529	his will be hard.	his will be hard.	36516747	1472827000778	1472827000848	s	83
+70552	768529	his will be hard.	his will be hard.	36516750	1472827000816	1472827000966	 	32
+70552	768529	his will be hard.	his will be hard.	36516764	1472827000936	1472827001056	w	87
+70552	768529	his will be hard.	his will be hard.	36516766	1472827000992	1472827001120	i	73
+70552	768529	his will be hard.	his will be hard.	36516767	1472827001080	1472827001160	l	76
+70552	768529	his will be hard.	his will be hard.	36516768	1472827001240	1472827001352	l	76
+70552	768529	his will be hard.	his will be hard.	36516769	1472827001304	1472827001424	 	32
+70552	768529	his will be hard.	his will be hard.	36516776	1472827001376	1472827001448	b	66
+70552	768529	his will be hard.	his will be hard.	36516778	1472827001489	1472827001624	e	69
+70552	768529	his will be hard.	his will be hard.	36516780	1472827001538	1472827001656	 	32
+70552	768529	his will be hard.	his will be hard.	36516783	1472827001680	1472827001784	h	72
+70552	768529	his will be hard.	his will be hard.	36516787	1472827001736	1472827001880	a	65
+70552	768529	his will be hard.	his will be hard.	36516920	1472827001800	1472827001896	r	82
+70552	768529	his will be hard.	his will be hard.	36516922	1472827001952	1472827002064	d	68
+70552	768529	his will be hard.	his will be hard.	36516925	1472827002080	1472827002144	.	190
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517097	1472827006896	1472827007072	SHIFT	16
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517098	1472827006984	1472827007121	A	65
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517099	1472827007144	1472827007320	t	84
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517100	1472827007296	1472827007392	 	32
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517101	1472827008304	1472827008369	1	97
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517103	1472827008456	1472827008536	7	103
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517164	1472827009408	1472827009512	,	188
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517166	1472827009464	1472827009584	 	32
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517168	1472827009608	1472827009688	h	72
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517171	1472827009664	1472827009800	e	69
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517192	1472827009728	1472827009840	 	32
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517193	1472827010000	1472827010168	e	69
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517195	1472827010152	1472827010248	n	78
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517197	1472827010312	1472827010456	l	76
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517199	1472827010376	1472827010528	i	73
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517216	1472827010504	1472827010632	s	83
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517218	1472827010592	1472827010736	t	84
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517222	1472827010720	1472827010800	e	69
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517224	1472827010866	1472827010992	d	68
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517228	1472827010952	1472827011064	 	32
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517236	1472827011032	1472827011193	i	73
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517239	1472827011112	1472827011232	n	78
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517245	1472827011168	1472827011296	 	32
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517254	1472827011248	1472827011339	t	84
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517259	1472827011312	1472827011392	h	72
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517307	1472827011360	1472827011464	e	69
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517309	1472827011424	1472827011528	 	32
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517310	1472827011505	1472827011664	SHIFT	16
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517311	1472827011592	1472827011680	U	85
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517314	1472827011752	1472827011872	s	83
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517317	1472827011959	1472827012120	 	32
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517403	1472827012264	1472827012568	SHIFT	16
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517320	1472827012352	1472827012448	N	78
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517407	1472827013432	1472827013608	a	65
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517410	1472827013504	1472827013664	v	86
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517415	1472827013736	1472827013864	e	69
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517422	1472827013888	1472827013952	y	89
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517431	1472827014063	1472827014152	.	190
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517505	1472827014408	1472827014472	BKSP	8
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517508	1472827014536	1472827014616	BKSP	8
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517513	1472827014680	1472827014776	BKSP	8
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517517	1472827014880	1472827014953	y	89
+70552	768540	At 17, he enlisted in the US Navy.	At 17, he enlisted in the Us Navy.	36517519	1472827015048	1472827015128	.	190
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518026	1472827023825	1472827023976	SHIFT	16
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518029	1472827023872	1472827024008	A	65
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518032	1472827024024	1472827024128	s	83
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518034	1472827024152	1472827024248	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518035	1472827024265	1472827024368	s	83
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518038	1472827024320	1472827024392	o	79
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518042	1472827024464	1472827024632	o	79
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518047	1472827024552	1472827024688	n	78
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518055	1472827024648	1472827024752	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518065	1472827024704	1472827024864	a	65
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518091	1472827024768	1472827024888	s	83
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518098	1472827024848	1472827024984	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518104	1472827024968	1472827025104	w	87
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518112	1472827025016	1472827025176	e	69
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518125	1472827025120	1472827025256	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518132	1472827025240	1472827025396	a	65
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518154	1472827025304	1472827025472	r	82
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518157	1472827025368	1472827025512	e	69
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518163	1472827025432	1472827025584	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518168	1472827025608	1472827025769	d	68
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518174	1472827025744	1472827025944	o	79
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518179	1472827025920	1472827026048	n	78
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518183	1472827026072	1472827026184	e	69
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518245	1472827026208	1472827026344	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518248	1472827026424	1472827026552	-	189
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518255	1472827026528	1472827026664	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518261	1472827027336	1472827027432	e	87
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518323	1472827027520	1472827027680	'	222
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518327	1472827027736	1472827027840	l	76
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518332	1472827027936	1472827028072	l	76
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518335	1472827028057	1472827028200	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518338	1472827028216	1472827028311	g	71
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518343	1472827028272	1472827028376	i	73
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518347	1472827028392	1472827028528	v	86
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518357	1472827028448	1472827028567	e	69
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518352	1472827028472	1472827028552	3	51
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518364	1472827028512	1472827028591	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518373	1472827028672	1472827028744	y	89
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518451	1472827028728	1472827028880	o	79
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518457	1472827028816	1472827028904	u	85
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518463	1472827028842	1472827028960	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518470	1472827029208	1472827029280	BKSP	8
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518476	1472827029336	1472827029424	BKSP	8
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518481	1472827029480	1472827029560	BKSP	8
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518487	1472827029608	1472827029696	BKSP	8
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518491	1472827029752	1472827029824	BKSP	8
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518494	1472827029897	1472827030032	BKSP	8
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518496	1472827029976	1472827030080	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518500	1472827030176	1472827030247	y	89
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518498	1472827030216	1472827030376	o	79
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518499	1472827030312	1472827030416	u	85
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518502	1472827030360	1472827030472	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518505	1472827030504	1472827030632	a	65
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518508	1472827030584	1472827030704	 	32
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518513	1472827030768	1472827030920	c	67
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518545	1472827030865	1472827031032	a	65
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518539	1472827030944	1472827031000	l	76
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518556	1472827031072	1472827031128	l	76
+70552	768552	As soon as we are done - we'll give you a call.	As soon as we are done - we'll give you a call.	36518562	1472827031224	1472827031328	.	190
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518744	1472827033672	1472827034040	SHIFT	16
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518739	1472827033888	1472827034008	I	73
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518750	1472827034072	1472827034200	 	32
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518757	1472827034176	1472827034328	h	72
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518760	1472827034256	1472827034408	o	79
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518790	1472827034352	1472827034464	p	80
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518795	1472827034384	1472827034488	e	69
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518799	1472827034544	1472827034664	 	32
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518807	1472827034736	1472827034833	h	72
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518811	1472827034808	1472827034921	e	69
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518817	1472827034890	1472827035007	 	32
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518830	1472827034983	1472827035112	i	73
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518832	1472827035056	1472827035192	s	83
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518834	1472827035168	1472827035280	 	32
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518836	1472827035328	1472827035424	h	72
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518838	1472827035384	1472827035545	a	65
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518856	1472827035448	1472827035584	v	86
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518858	1472827035562	1472827035696	i	73
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518862	1472827035608	1472827035736	n	78
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518866	1472827035672	1472827035792	g	71
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518873	1472827035776	1472827035880	 	32
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518880	1472827035896	1472827036000	a	65
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518915	1472827035984	1472827036104	 	32
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518920	1472827036272	1472827036392	f	70
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518930	1472827036344	1472827036466	a	65
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518935	1472827036424	1472827036520	n	78
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518940	1472827036568	1472827036712	t	84
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518987	1472827036688	1472827036816	a	65
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518991	1472827036936	1472827037056	s	83
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518994	1472827037032	1472827037160	t	84
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36518997	1472827037192	1472827037296	i	73
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36519000	1472827037320	1472827037440	c	67
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36519002	1472827037456	1472827037616	 	32
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36519021	1472827037592	1472827037688	t	84
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36519024	1472827037648	1472827037760	i	73
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36519031	1472827037712	1472827037800	m	77
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36519038	1472827037750	1472827037864	e	69
+70552	768574	I hope he is having a fantastic time.	I hope he is having a fantastic time.	36519043	1472827037888	1472827037984	.	190
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519237	1472827040248	1472827040472	SHIFT	16
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519241	1472827040384	1472827040496	T	84
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519249	1472827040600	1472827040704	h	72
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519256	1472827040928	1472827041072	e	69
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519262	1472827041008	1472827041192	r	82
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519314	1472827041136	1472827041312	e	69
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519318	1472827041288	1472827041495	s	83
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519322	1472827041464	1472827041640	a	65
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519330	1472827041624	1472827041760	,	188
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519333	1472827041696	1472827041840	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519338	1472827041912	1472827042065	SHIFT	16
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519360	1472827041952	1472827042088	I	73
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519365	1472827042048	1472827042144	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519368	1472827042288	1472827042399	c	67
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519372	1472827042360	1472827042448	h	72
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519376	1472827042424	1472827042576	a	65
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519400	1472827042512	1472827042599	n	78
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519408	1472827042544	1472827042664	g	71
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519415	1472827042640	1472827042728	e	69
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519420	1472827042800	1472827042880	d	68
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519428	1472827042836	1472827042952	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519433	1472827042936	1472827043008	t	84
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519474	1472827042976	1472827043064	h	72
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519480	1472827043048	1472827043136	e	69
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519483	1472827043104	1472827043168	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519513	1472827043224	1472827044000	SHIFT	16
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519485	1472827043400	1472827043536	C	67
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519488	1472827043440	1472827043560	I	73
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519490	1472827043656	1472827043824	G	71
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519521	1472827043928	1472827044040	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519526	1472827044112	1472827044250	f	70
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519531	1472827044216	1472827044304	u	85
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519534	1472827044320	1472827044424	e	69
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519537	1472827044520	1472827044632	l	76
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519556	1472827044696	1472827044824	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519564	1472827044880	1472827045024	r	82
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519569	1472827045000	1472827045168	a	65
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519582	1472827045096	1472827045240	t	84
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519638	1472827045201	1472827045336	e	69
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519641	1472827045312	1472827045409	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519644	1472827045384	1472827045536	t	84
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519645	1472827045488	1472827045600	o	79
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519647	1472827045736	1472827045856	.	190
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519649	1472827046048	1472827046104	 	32
+70552	768587	Theresa, I changed the CIG fuel rate to.	Theresa, I changed the CIG fuel rate to.	36519675	1472827046408	1472827046488	BKSP	8
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520046	1472827051864	1472827052032	SHIFT	16
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520048	1472827051919	1472827052056	T	84
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520051	1472827052016	1472827052128	H	72
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520053	1472827052080	1472827052168	i	73
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520055	1472827052152	1472827052257	s	83
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520125	1472827052232	1472827052384	 	32
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520127	1472827052320	1472827052456	i	73
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520129	1472827052361	1472827052496	s	83
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520132	1472827052728	1472827052792	BKSP	8
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520137	1472827052856	1472827052936	BKSP	8
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520143	1472827052992	1472827053072	BKSP	8
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520147	1472827053128	1472827053216	BKSP	8
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520152	1472827053272	1472827053352	BKSP	8
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520155	1472827053416	1472827053488	BKSP	8
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520160	1472827053609	1472827053736	h	72
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520170	1472827053680	1472827053784	i	73
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520175	1472827053808	1472827053920	s	83
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520150	1472827053905	1472827054008	 	32
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520154	1472827053992	1472827054112	i	73
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520157	1472827054072	1472827054208	s	83
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520165	1472827054184	1472827054304	 	32
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520172	1472827054280	1472827054416	n	78
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520254	1472827054376	1472827054536	o	79
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520259	1472827054512	1472827054632	r	82
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520267	1472827054592	1472827054696	m	77
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520273	1472827054712	1472827054840	a	65
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520278	1472827055208	1472827055304	l	76
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520281	1472827055408	1472827055544	,	188
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520295	1472827055497	1472827055624	 	32
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520298	1472827055728	1472827055840	t	84
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520302	1472827055784	1472827055864	h	72
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520306	1472827055880	1472827055992	e	69
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520311	1472827055944	1472827056065	y	89
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520330	1472827056032	1472827056121	 	32
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520337	1472827056095	1472827056248	a	65
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520347	1472827056183	1472827056304	l	76
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520352	1472827056344	1472827056455	w	87
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520358	1472827056408	1472827056559	a	65
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520394	1472827056520	1472827056607	y	89
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520402	1472827056632	1472827056752	s	83
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520406	1472827056729	1472827056832	 	32
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520413	1472827056896	1472827057008	d	68
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520418	1472827056960	1472827057072	o	79
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520432	1472827057057	1472827057168	 	32
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520435	1472827057192	1472827057279	t	84
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520438	1472827057218	1472827057320	h	72
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520441	1472827057256	1472827057368	i	73
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520447	1472827057344	1472827057464	s	83
+70552	768600	This is normal, they always do this.	This is normal, they always do this.	36520452	1472827057488	1472827057560	.	190
+70552	768617	Will follow up today.	Will follow up today.	36520673	1472827060336	1472827060504	SHIFT	16
+70552	768617	Will follow up today.	Will follow up today.	36520678	1472827060416	1472827060576	W	87
+70552	768617	Will follow up today.	Will follow up today.	36520685	1472827060560	1472827060688	i	73
+70552	768617	Will follow up today.	Will follow up today.	36520693	1472827060640	1472827060736	l	76
+70552	768617	Will follow up today.	Will follow up today.	36520700	1472827060816	1472827060952	l	76
+70552	768617	Will follow up today.	Will follow up today.	36520756	1472827060888	1472827061040	 	32
+70552	768617	Will follow up today.	Will follow up today.	36520759	1472827060984	1472827061136	f	70
+70552	768617	Will follow up today.	Will follow up today.	36520765	1472827061056	1472827061160	o	79
+70552	768617	Will follow up today.	Will follow up today.	36520768	1472827061232	1472827061320	l	76
+70552	768617	Will follow up today.	Will follow up today.	36520772	1472827061448	1472827061504	o	79
+70552	768617	Will follow up today.	Will follow up today.	36520776	1472827061824	1472827061904	BKSP	8
+70552	768617	Will follow up today.	Will follow up today.	36520781	1472827062016	1472827062088	l	76
+70552	768617	Will follow up today.	Will follow up today.	36520787	1472827062160	1472827062240	o	79
+70552	768617	Will follow up today.	Will follow up today.	36520792	1472827062224	1472827062368	w	87
+70552	768617	Will follow up today.	Will follow up today.	36520797	1472827062312	1472827062400	 	32
+70552	768617	Will follow up today.	Will follow up today.	36520803	1472827062432	1472827062552	u	85
+70552	768617	Will follow up today.	Will follow up today.	36520835	1472827062496	1472827062632	p	80
+70552	768617	Will follow up today.	Will follow up today.	36520838	1472827062592	1472827062712	 	32
+70552	768617	Will follow up today.	Will follow up today.	36520840	1472827062776	1472827062944	t	84
+70552	768617	Will follow up today.	Will follow up today.	36520841	1472827062864	1472827062959	o	79
+70552	768617	Will follow up today.	Will follow up today.	36520843	1472827063047	1472827063240	d	68
+70552	768617	Will follow up today.	Will follow up today.	36520853	1472827063144	1472827063281	a	65
+70552	768617	Will follow up today.	Will follow up today.	36520857	1472827063216	1472827063304	y	89
+70552	768617	Will follow up today.	Will follow up today.	36520860	1472827063392	1472827063472	.	190
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521074	1472827065856	1472827066032	SHIFT	16
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521077	1472827065976	1472827066080	H	72
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521079	1472827066106	1472827066192	e	69
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521082	1472827066168	1472827066288	 	32
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521086	1472827066312	1472827066440	c	67
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521101	1472827066368	1472827066504	a	65
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521108	1472827066456	1472827066520	n	78
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521113	1472827066576	1472827066696	n	78
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521120	1472827066640	1472827066766	o	79
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521129	1472827066736	1472827066848	t	84
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521152	1472827066824	1472827066944	 	32
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521156	1472827066992	1472827067048	b	66
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521158	1472827067112	1472827067256	e	69
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521161	1472827067192	1472827067288	 	32
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521166	1472827067320	1472827067466	i	73
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521224	1472827067384	1472827067504	n	78
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521228	1472827067440	1472827067552	 	32
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521234	1472827067584	1472827067704	t	84
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521237	1472827067800	1472827067944	w	87
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521240	1472827067912	1472827068032	o	79
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521243	1472827068232	1472827068384	 	32
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521246	1472827068464	1472827068640	p	80
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521260	1472827068576	1472827068688	l	76
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521262	1472827068624	1472827068752	a	65
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521263	1472827068792	1472827068888	c	67
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521264	1472827068952	1472827069096	e	69
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521265	1472827069016	1472827069135	s	83
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521267	1472827069193	1472827069324	 	32
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521328	1472827069288	1472827069472	a	65
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521333	1472827069368	1472827069512	t	84
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521338	1472827069496	1472827069624	 	32
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521345	1472827069608	1472827069648	t	84
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521348	1472827069664	1472827069784	o	79
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521351	1472827069960	1472827070024	BKSP	8
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521354	1472827070087	1472827070168	BKSP	8
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521356	1472827070264	1472827070384	o	79
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521374	1472827070320	1472827070416	n	78
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521378	1472827070480	1472827070560	c	67
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521384	1472827070632	1472827070752	e	69
+70552	768627	He cannot be in two places at once.	He cannot be in two places at once.	36521388	1472827070712	1472827070808	.	190
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522049	1472827081456	1472827081629	1	49
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522054	1472827081592	1472827081720	.	190
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522059	1472827081776	1472827081912	5	53
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522063	1472827082096	1472827082272	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522082	1472827082232	1472827082408	m	77
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522087	1472827082320	1472827082456	i	73
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522094	1472827082496	1472827082592	l	76
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522100	1472827082672	1472827082800	l	76
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522106	1472827082888	1472827083040	i	73
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522143	1472827082968	1472827083144	o	79
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522148	1472827083080	1472827083250	n	78
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522152	1472827083224	1472827083376	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522154	1472827083488	1472827083592	v	86
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522156	1472827083536	1472827083632	i	73
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522160	1472827083680	1472827083800	s	83
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522187	1472827083784	1472827083880	i	73
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522190	1472827083944	1472827084088	t	84
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522194	1472827084072	1472827084224	o	79
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522197	1472827084208	1472827084320	r	82
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522200	1472827084360	1472827084480	s	83
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522204	1472827084504	1472827084611	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522242	1472827084576	1472827084712	w	87
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522244	1472827084664	1472827084792	i	73
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522247	1472827084744	1472827084809	l	76
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522250	1472827084888	1472827084976	l	76
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522254	1472827085137	1472827085240	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522257	1472827085256	1472827085408	f	70
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522298	1472827085352	1472827085433	l	76
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522303	1472827085512	1472827085576	o	79
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522309	1472827085648	1472827085752	o	79
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522315	1472827085728	1472827085842	d	68
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522318	1472827085808	1472827085920	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522322	1472827086096	1472827086232	SHIFT	16
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522351	1472827086176	1472827086280	A	65
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522358	1472827086360	1472827086512	t	84
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522366	1472827086496	1472827086600	l	76
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522373	1472827086624	1472827086765	a	65
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522377	1472827086736	1472827086832	n	78
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522381	1472827086848	1472827087008	t	84
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522419	1472827087040	1472827087184	a	65
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522421	1472827087208	1472827087351	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522425	1472827087559	1472827087679	e	69
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522431	1472827087615	1472827087743	a	65
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522440	1472827087791	1472827087927	c	67
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522456	1472827087879	1472827087991	h	72
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522458	1472827087951	1472827088063	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522465	1472827088119	1472827088239	d	68
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522470	1472827088215	1472827088368	a	65
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522477	1472827088432	1472827088544	y	89
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522489	1472827088504	1472827088624	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522492	1472827088664	1472827088800	o	79
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522497	1472827088744	1472827088840	f	70
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522505	1472827088816	1472827088904	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522513	1472827088888	1472827088984	t	84
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522530	1472827088928	1472827089032	h	72
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522542	1472827089016	1472827089168	e	69
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522534	1472827089056	1472827089152	 	32
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522553	1472827089240	1472827089424	SHIFT	16
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522548	1472827089312	1472827089400	O	79
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522563	1472827089506	1472827089576	l	76
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522567	1472827089664	1472827089752	y	89
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522587	1472827089864	1472827090000	m	77
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522589	1472827089936	1472827090128	p	80
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522592	1472827090072	1472827090192	i	73
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522593	1472827090224	1472827090328	c	67
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522594	1472827090392	1472827090496	s	83
+70552	768638	1.5 million visitors will flood Atlanta each day of the Olympics.	1.5 million visitors will flood Atlanta each day of the Olympics.	36522597	1472827090512	1472827090584	.	190
+70552	768663	Did you get this?	Did you get this?	36522791	1472827092600	1472827092984	SHIFT	16
+70552	768663	Did you get this?	Did you get this?	36522787	1472827092792	1472827092928	D	68
+70552	768663	Did you get this?	Did you get this?	36522796	1472827093080	1472827093200	i	73
+70552	768663	Did you get this?	Did you get this?	36522798	1472827093256	1472827093368	d	68
+70552	768663	Did you get this?	Did you get this?	36522803	1472827093392	1472827093480	 	32
+70552	768663	Did you get this?	Did you get this?	36522807	1472827093545	1472827093600	y	89
+70552	768663	Did you get this?	Did you get this?	36522819	1472827093576	1472827093776	o	79
+70552	768663	Did you get this?	Did you get this?	36522817	1472827093672	1472827093760	u	85
+70552	768663	Did you get this?	Did you get this?	36522822	1472827093720	1472827093832	 	32
+70552	768663	Did you get this?	Did you get this?	36522825	1472827093800	1472827093856	g	71
+70552	768663	Did you get this?	Did you get this?	36522830	1472827093873	1472827093984	e	69
+70552	768663	Did you get this?	Did you get this?	36522838	1472827093936	1472827094040	t	84
+70552	768663	Did you get this?	Did you get this?	36522843	1472827094016	1472827094129	 	32
+70552	768663	Did you get this?	Did you get this?	36522848	1472827094104	1472827094216	t	84
+70552	768663	Did you get this?	Did you get this?	36522854	1472827094169	1472827094272	h	72
+70552	768663	Did you get this?	Did you get this?	36522868	1472827094232	1472827094296	i	73
+70552	768663	Did you get this?	Did you get this?	36522869	1472827094256	1472827094360	s	83
+70552	768663	Did you get this?	Did you get this?	36522871	1472827094416	1472827094592	SHIFT	16
+70552	768663	Did you get this?	Did you get this?	36522870	1472827094448	1472827094536	?	191
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523158	1472827099296	1472827099424	SHIFT	16
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523161	1472827099368	1472827099473	T	84
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523168	1472827099448	1472827099536	h	72
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523177	1472827099520	1472827099648	a	65
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523252	1472827099592	1472827099712	n	78
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523255	1472827099632	1472827099760	k	75
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523259	1472827099728	1472827099802	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523264	1472827099785	1472827099880	s	83
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523272	1472827100016	1472827100152	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523279	1472827100296	1472827100376	BKSP	8
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523286	1472827100448	1472827100512	BKSP	8
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523294	1472827100584	1472827100696	BKSP	8
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523301	1472827100680	1472827100760	s	83
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523308	1472827100728	1472827100848	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523310	1472827100832	1472827100920	f	70
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523313	1472827100880	1472827100976	o	79
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523320	1472827100992	1472827101104	r	82
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523326	1472827101024	1472827101128	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523332	1472827101272	1472827101368	k	75
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523345	1472827101392	1472827101432	e	69
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523346	1472827101504	1472827101648	e	69
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523348	1472827101544	1472827101664	p	80
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523350	1472827101688	1472827101832	i	73
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523365	1472827101776	1472827101920	n	78
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523370	1472827101856	1472827101959	g	71
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523373	1472827101904	1472827102040	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523375	1472827102056	1472827102120	o	89
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523388	1472827102184	1472827102288	u	85
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523390	1472827102272	1472827102384	r	82
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523393	1472827102336	1472827102456	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523398	1472827102504	1472827102616	e	69
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523404	1472827102656	1472827102744	y	89
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523429	1472827102728	1472827102894	e	69
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523432	1472827102800	1472827102960	s	83
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523435	1472827102936	1472827103056	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523437	1472827103080	1472827103216	o	79
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523458	1472827103152	1472827103328	u	85
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523452	1472827103191	1472827103304	t	84
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523464	1472827103288	1472827103376	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523469	1472827103392	1472827103464	t	84
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523476	1472827103426	1472827103520	h	72
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523478	1472827103496	1472827103576	e	69
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523485	1472827103536	1472827103688	r	82
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523488	1472827103624	1472827103776	e	69
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523491	1472827103736	1472827103879	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523495	1472827103848	1472827104040	o	79
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523537	1472827103952	1472827104088	n	78
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523540	1472827104016	1472827104169	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523544	1472827104192	1472827104320	o	79
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523548	1472827104232	1472827104344	u	85
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523554	1472827104368	1472827104481	r	82
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523564	1472827104424	1472827104544	 	32
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523573	1472827104600	1472827104712	s	83
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523611	1472827104656	1472827104793	t	84
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523613	1472827104808	1472827104896	u	85
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523616	1472827104880	1472827104951	f	70
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523621	1472827105007	1472827105096	f	70
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523625	1472827105137	1472827105248	.	190
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523629	1472827105496	1472827105568	BKSP	8
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523615	1472827105520	1472827105760	SHIFT	16
+70552	768669	Thanks for keeping your eyes out there on our stuff!	Thanks for keeping your eyes out there on our stuff!	36523633	1472827105624	1472827105744	!	49
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524207	1472827112849	1472827113504	SHIFT	16
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524213	1472827113904	1472827114169	SHIFT	16
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524217	1472827114080	1472827114200	T	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524220	1472827114224	1472827114304	h	72
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524225	1472827114280	1472827114384	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524228	1472827114408	1472827114552	s	83
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524252	1472827114480	1472827114640	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524255	1472827114616	1472827114744	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524260	1472827114728	1472827114888	f	70
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524264	1472827114800	1472827114920	a	65
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524270	1472827115000	1472827115096	c	67
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524276	1472827115224	1472827115272	r	82
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524330	1472827115251	1472827115344	o	79
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524334	1472827115768	1472827115840	BKSP	8
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524339	1472827115912	1472827116009	BKSP	8
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524346	1472827116025	1472827116096	t	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524353	1472827116136	1472827116232	o	79
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524362	1472827116256	1472827116360	r	82
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524368	1472827116408	1472827116512	s	83
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524371	1472827116552	1472827116688	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524379	1472827116824	1472827116935	d	68
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524385	1472827116951	1472827117047	i	73
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524392	1472827117071	1472827117151	c	67
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524401	1472827117224	1472827117372	t	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524458	1472827117344	1472827117512	a	65
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524461	1472827117440	1472827117600	t	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524467	1472827117544	1472827117688	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524471	1472827117720	1472827117864	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524475	1472827118000	1472827118080	c	67
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524480	1472827118104	1472827118200	l	76
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524545	1472827118176	1472827118336	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524549	1472827118232	1472827118424	a	65
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524553	1472827118280	1472827118440	r	82
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524557	1472827118400	1472827118544	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524559	1472827118488	1472827118624	i	73
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524562	1472827118824	1472827118896	BKSP	8
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524565	1472827118999	1472827119152	l	76
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524583	1472827119072	1472827119216	i	73
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524589	1472827119177	1472827119312	m	77
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524594	1472827119272	1472827119416	i	73
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524600	1472827119400	1472827119544	t	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524607	1472827119504	1472827119648	s	83
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524619	1472827119615	1472827119736	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524625	1472827119760	1472827119832	t	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524630	1472827119786	1472827119904	o	79
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524638	1472827119880	1472827119993	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524643	1472827119960	1472827120056	t	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524656	1472827120040	1472827120136	h	72
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524661	1472827120096	1472827120192	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524664	1472827120152	1472827120256	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524667	1472827120296	1472827120432	c	67
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524702	1472827120336	1472827120480	o	79
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524707	1472827120416	1472827120520	n	78
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524712	1472827120728	1472827120808	c	67
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524722	1472827120888	1472827120976	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524727	1472827120936	1472827121032	p	80
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524732	1472827121048	1472827121176	t	84
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524751	1472827121160	1472827121264	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524756	1472827121240	1472827121410	o	79
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524761	1472827121320	1472827121432	f	70
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524766	1472827121384	1472827121512	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524774	1472827121528	1472827121664	s	83
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524816	1472827121608	1472827121771	a	65
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524821	1472827121744	1472827121912	f	70
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524826	1472827121840	1472827121953	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524831	1472827121928	1472827122104	 	32
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524838	1472827122080	1472827122272	a	65
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524908	1472827122200	1472827122384	r	82
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524913	1472827122296	1472827122480	e	69
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524917	1472827122336	1472827122528	s	83
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524919	1472827122504	1472827122672	a	65
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524921	1472827122952	1472827123008	BKSP	8
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524925	1472827123080	1472827123169	BKSP	8
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524931	1472827123144	1472827123272	a	65
+70552	768687	These factors dictate clear limits to the concept of safe areas.	These factors dictate clear limits to the concept of safe areas.	36524923	1472827123192	1472827123336	s	83
+70552	768709	See you on the third.	See you on the third	36525235	1472827128376	1472827128576	SHIFT	16
+70552	768709	See you on the third.	See you on the third	36525237	1472827128472	1472827128608	S	83
+70552	768709	See you on the third.	See you on the third	36525239	1472827128552	1472827128648	E	69
+70552	768709	See you on the third.	See you on the third	36525242	1472827128728	1472827128808	e	69
+70552	768709	See you on the third.	See you on the third	36525246	1472827128832	1472827128960	 	32
+70552	768709	See you on the third.	See you on the third	36525251	1472827128976	1472827129080	y	89
+70552	768709	See you on the third.	See you on the third	36525316	1472827129312	1472827129400	BKSP	8
+70552	768709	See you on the third.	See you on the third	36525319	1472827129456	1472827129544	BKSP	8
+70552	768709	See you on the third.	See you on the third	36525321	1472827129592	1472827129656	BKSP	8
+70552	768709	See you on the third.	See you on the third	36525322	1472827129720	1472827129816	BKSP	8
+70552	768709	See you on the third.	See you on the third	36525324	1472827129912	1472827129968	e	69
+70552	768709	See you on the third.	See you on the third	36525325	1472827130049	1472827130161	e	69
+70552	768709	See you on the third.	See you on the third	36525326	1472827130136	1472827130313	 	32
+70552	768709	See you on the third.	See you on the third	36525330	1472827130280	1472827130361	y	89
+70552	768709	See you on the third.	See you on the third	36525364	1472827130336	1472827130488	o	79
+70552	768709	See you on the third.	See you on the third	36525369	1472827130512	1472827130600	u	85
+70552	768709	See you on the third.	See you on the third	36525372	1472827130960	1472827131152	 	32
+70552	768709	See you on the third.	See you on the third	36525379	1472827131080	1472827131240	o	79
+70552	768709	See you on the third.	See you on the third	36525413	1472827131168	1472827131280	n	78
+70552	768709	See you on the third.	See you on the third	36525416	1472827131216	1472827131336	 	32
+70552	768709	See you on the third.	See you on the third	36525419	1472827131313	1472827131412	t	84
+70552	768709	See you on the third.	See you on the third	36525424	1472827131376	1472827131440	h	72
+70552	768709	See you on the third.	See you on the third	36525431	1472827131456	1472827131560	e	69
+70552	768709	See you on the third.	See you on the third	36525438	1472827131504	1472827131600	 	32
+70552	768709	See you on the third.	See you on the third	36525441	1472827131656	1472827131720	g	71
+70552	768709	See you on the third.	See you on the third	36525480	1472827131992	1472827132104	BKSP	8
+70552	768709	See you on the third.	See you on the third	36525489	1472827132136	1472827132224	t	84
+70552	768709	See you on the third.	See you on the third	36525495	1472827132208	1472827132312	h	72
+70552	768709	See you on the third.	See you on the third	36525499	1472827132264	1472827132360	i	73
+70552	768709	See you on the third.	See you on the third	36525503	1472827132336	1472827132439	r	82
+70552	768709	See you on the third.	See you on the third	36525508	1472827132512	1472827132632	d	68
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526083	1472827134360	1472827134784	SHIFT	16
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526086	1472827141240	1472827141376	n	78
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526091	1472827141864	1472827141952	BKSP	8
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526095	1472827142024	1472827142072	BKSP	8
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526098	1472827142168	1472827142328	SHIFT	16
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526105	1472827142256	1472827142368	T	84
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526108	1472827142352	1472827142424	h	72
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526112	1472827142440	1472827142598	e	69
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526128	1472827142568	1472827142688	y	89
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526131	1472827142648	1472827142736	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526138	1472827142808	1472827142941	t	84
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526141	1472827142912	1472827143024	e	69
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526146	1472827143008	1472827143104	n	78
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526150	1472827143144	1472827143240	d	68
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526161	1472827143224	1472827143336	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526166	1472827143312	1472827143384	t	84
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526172	1472827143360	1472827143456	o	79
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526175	1472827143440	1472827143576	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526182	1472827143536	1472827143696	k	75
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526187	1472827143600	1472827143736	n	78
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526194	1472827143640	1472827143760	o	79
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526201	1472827143712	1472827143816	w	87
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526208	1472827143800	1472827143904	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526216	1472827143920	1472827144080	w	87
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526248	1472827143960	1472827144096	h	72
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526251	1472827144024	1472827144152	o	79
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526253	1472827144136	1472827144288	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526255	1472827144385	1472827144496	h	72
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526258	1472827144456	1472827144552	o	79
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526261	1472827144608	1472827144704	o	79
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526264	1472827144760	1472827144896	l	76
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526280	1472827144856	1472827145000	i	73
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526285	1472827145032	1472827145192	g	71
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526289	1472827145112	1472827145272	a	65
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526295	1472827145208	1472827145296	n	78
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526299	1472827145353	1472827145482	s	83
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526319	1472827145448	1472827145592	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526321	1472827145552	1472827145718	a	65
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526324	1472827145616	1472827145800	r	82
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526327	1472827145688	1472827145856	e	69
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526330	1472827145776	1472827145888	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526334	1472827145904	1472827146000	a	65
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526341	1472827145952	1472827146088	n	78
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526343	1472827146024	1472827146120	d	68
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526347	1472827146072	1472827146184	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526349	1472827146200	1472827146336	d	68
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526351	1472827146264	1472827146416	o	79
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526361	1472827146352	1472827146472	n	78
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526365	1472827146432	1472827146544	'	222
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526370	1472827146504	1472827146620	t	84
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526373	1472827146592	1472827146712	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526376	1472827146728	1472827146816	t	84
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526380	1472827146968	1472827147047	BKSP	8
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526389	1472827147015	1472827147128	s	83
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526391	1472827147071	1472827147176	e	69
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526394	1472827147200	1472827147255	l	76
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526397	1472827147336	1472827147440	l	76
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526399	1472827147408	1472827147504	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526410	1472827147472	1472827147584	t	84
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526413	1472827147680	1472827147792	o	79
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526415	1472827147833	1472827147920	 	32
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526420	1472827147904	1472827148000	t	84
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526425	1472827147984	1472827148048	h	72
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526430	1472827148024	1472827148181	e	69
+70552	768726	They tend to know who hooligans are and don't sell to them.	They tend to know who hooligans are and don't sell to them.	36526432	1472827148146	1472827148240	m	77
+70552	768748	I am freaking out!	I am freaking out!	36526576	1472827151232	1472827151415	SHIFT	16
+70552	768748	I am freaking out!	I am freaking out!	36526582	1472827151304	1472827151456	I	73
+70552	768748	I am freaking out!	I am freaking out!	36526587	1472827151400	1472827151560	 	32
+70552	768748	I am freaking out!	I am freaking out!	36526592	1472827151520	1472827151680	a	65
+70552	768748	I am freaking out!	I am freaking out!	36526603	1472827151544	1472827151704	m	77
+70552	768748	I am freaking out!	I am freaking out!	36526606	1472827151664	1472827151808	 	32
+70552	768748	I am freaking out!	I am freaking out!	36526608	1472827151752	1472827151832	f	70
+70552	768748	I am freaking out!	I am freaking out!	36526611	1472827151905	1472827152064	r	82
+70552	768748	I am freaking out!	I am freaking out!	36526615	1472827151968	1472827152152	e	69
+70552	768748	I am freaking out!	I am freaking out!	36526631	1472827152008	1472827152192	a	65
+70552	768748	I am freaking out!	I am freaking out!	36526635	1472827152104	1472827152208	k	75
+70552	768748	I am freaking out!	I am freaking out!	36526640	1472827152288	1472827152416	i	73
+70552	768748	I am freaking out!	I am freaking out!	36526644	1472827152360	1472827152529	n	78
+70552	768748	I am freaking out!	I am freaking out!	36526647	1472827152400	1472827152544	g	71
+70552	768748	I am freaking out!	I am freaking out!	36526651	1472827152504	1472827152628	 	32
+70552	768748	I am freaking out!	I am freaking out!	36526663	1472827152600	1472827152760	o	79
+70552	768748	I am freaking out!	I am freaking out!	36526665	1472827152688	1472827152792	u	85
+70552	768748	I am freaking out!	I am freaking out!	36526667	1472827152722	1472827152832	t	84
+70552	768748	I am freaking out!	I am freaking out!	36526674	1472827152848	1472827153144	SHIFT	16
+70552	768748	I am freaking out!	I am freaking out!	36526671	1472827153000	1472827153128	!	49

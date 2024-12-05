@@ -1,0 +1,575 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+271891	2913955	I left a message.	I left a message. 	138391897	1475705946172	1475705946395	SHIFT	16
+271891	2913955	I left a message.	I left a message. 	138391900	1475705946276	1475705946411	I	73
+271891	2913955	I left a message.	I left a message. 	138391903	1475705946443	1475705946555	 	32
+271891	2913955	I left a message.	I left a message. 	138391905	1475705946636	1475705946771	l	76
+271891	2913955	I left a message.	I left a message. 	138391907	1475705946731	1475705946851	e	69
+271891	2913955	I left a message.	I left a message. 	138391909	1475705946859	1475705946971	f	70
+271891	2913955	I left a message.	I left a message. 	138391928	1475705947059	1475705947187	t	84
+271891	2913955	I left a message.	I left a message. 	138391934	1475705947139	1475705947227	 	32
+271891	2913955	I left a message.	I left a message. 	138391940	1475705947220	1475705947331	a	65
+271891	2913955	I left a message.	I left a message. 	138391946	1475705947339	1475705947427	 	32
+271891	2913955	I left a message.	I left a message. 	138391949	1475705947508	1475705947651	m	77
+271891	2913955	I left a message.	I left a message. 	138392003	1475705947564	1475705947667	e	69
+271891	2913955	I left a message.	I left a message. 	138392006	1475705947732	1475705947811	a	65
+271891	2913955	I left a message.	I left a message. 	138392009	1475705948148	1475705948276	BKSP	8
+271891	2913955	I left a message.	I left a message. 	138392011	1475705948252	1475705948364	s	83
+271891	2913955	I left a message.	I left a message. 	138392015	1475705948516	1475705948700	s	83
+271891	2913955	I left a message.	I left a message. 	138392018	1475705948868	1475705948972	a	65
+271891	2913955	I left a message.	I left a message. 	138392022	1475705949108	1475705949228	g	71
+271891	2913955	I left a message.	I left a message. 	138392066	1475705949164	1475705949300	e	69
+271891	2913955	I left a message.	I left a message. 	138392069	1475705949564	1475705949660	.	190
+271891	2913955	I left a message.	I left a message. 	138392071	1475705949676	1475705949764	 	32
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392159	1475705952341	1475705952557	SHIFT	16
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392157	1475705952437	1475705952533	T	84
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392161	1475705952645	1475705952765	r	82
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392163	1475705952749	1475705952845	i	73
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392164	1475705952829	1475705952910	e	69
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392166	1475705953029	1475705953141	d	68
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392193	1475705953118	1475705953213	 	32
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392195	1475705953285	1475705953429	r	82
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392199	1475705953365	1475705953509	a	65
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392201	1475705953629	1475705953757	c	67
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392207	1475705953749	1475705953877	h	72
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392212	1475705953894	1475705954110	i	73
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392229	1475705954037	1475705954173	n	78
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392232	1475705954141	1475705954246	g	71
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392235	1475705954229	1475705954310	 	32
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392237	1475705954413	1475705954511	y	89
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392239	1475705954510	1475705954685	o	79
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392270	1475705954622	1475705954750	u	85
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392272	1475705954678	1475705954808	 	32
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392275	1475705954774	1475705954910	e	69
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392279	1475705954838	1475705955013	a	65
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392281	1475705955029	1475705955181	r	82
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392286	1475705955142	1475705955301	l	76
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392401	1475705955230	1475705955366	i	73
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392404	1475705955334	1475705955549	e	69
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392408	1475705955606	1475705955750	r	82
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392413	1475705956134	1475705956190	.	190
+271891	2913963	Tried reaching you earlier.	Tried reaching you earlier.	138392415	1475705958158	1475705958262	e	69
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392515	1475705961047	1475705961263	SHIFT	16
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392517	1475705961159	1475705961279	B	66
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392518	1475705961368	1475705961519	o	79
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392519	1475705961479	1475705961591	b	66
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392520	1475705961840	1475705961903	,	188
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392521	1475705962024	1475705962103	 	32
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392533	1475705962151	1475705962335	SHIFT	16
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392532	1475705962216	1475705962319	I	73
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392534	1475705962400	1475705962503	'	222
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392536	1475705962584	1475705962647	l	76
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392538	1475705962736	1475705962888	l	76
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392550	1475705962800	1475705962911	 	32
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392552	1475705962904	1475705963015	t	84
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392555	1475705962976	1475705963088	a	65
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392557	1475705963133	1475705963200	k	75
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392559	1475705963216	1475705963319	e	69
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392605	1475705963312	1475705963376	 	32
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392615	1475705963592	1475705963816	SHIFT	16
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392611	1475705963672	1475705963760	D	68
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392618	1475705963864	1475705963952	e	69
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392623	1475705963968	1475705964088	n	78
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392626	1475705964128	1475705964224	v	86
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392632	1475705964336	1475705964464	e	69
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392647	1475705964392	1475705964528	r	82
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392652	1475705964504	1475705964592	 	32
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392657	1475705964649	1475705964728	t	84
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392661	1475705964720	1475705964825	o	79
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392666	1475705964793	1475705964880	 	32
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392699	1475705964976	1475705965128	SHIFT	16
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392670	1475705965025	1475705965112	W	87
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392701	1475705965209	1475705965328	i	73
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392703	1475705965297	1475705965416	n	78
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392706	1475705965761	1475705965832	.	190
+271891	2913969	Bob,I'll take Denver to Win.	Bob, I'll take Denver to Win. 	138392709	1475705965945	1475705966000	 	32
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392809	1475705967889	1475705968114	SHIFT	16
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392811	1475705968026	1475705968177	H	72
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392812	1475705968241	1475705968329	o	79
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392813	1475705968433	1475705968561	p	80
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392815	1475705968521	1475705968658	e	69
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392841	1475705968585	1475705968689	 	32
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392843	1475705968761	1475705968859	y	89
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392846	1475705968858	1475705969033	o	79
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392849	1475705968978	1475705969113	u	85
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392850	1475705969250	1475705969369	r	82
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392884	1475705969346	1475705969441	 	32
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392885	1475705969506	1475705969618	t	84
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392886	1475705969786	1475705969914	r	82
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392887	1475705969962	1475705970058	i	73
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392888	1475705970170	1475705970338	p	80
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392889	1475705970345	1475705970475	 	32
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392905	1475705970474	1475705970602	t	84
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392906	1475705970562	1475705970666	o	79
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392907	1475705970642	1475705970730	 	32
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392909	1475705970810	1475705971138	SHIFT	16
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392908	1475705970898	1475705970978	F	70
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392910	1475705971050	1475705971154	L	76
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392912	1475705971274	1475705971371	o	79
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392943	1475705971594	1475705971666	BKSP	8
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392945	1475705971747	1475705971826	BKSP	8
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392947	1475705972002	1475705972082	l	76
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392950	1475705972179	1475705972298	o	79
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392951	1475705972291	1475705972378	r	82
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392954	1475705972402	1475705972546	i	73
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392967	1475705972531	1475705972636	d	68
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392968	1475705972610	1475705972731	a	65
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392969	1475705972747	1475705972858	 	32
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392970	1475705972866	1475705972971	w	87
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392972	1475705972939	1475705973098	a	65
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392988	1475705973067	1475705973210	s	83
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392991	1475705973179	1475705973266	 	32
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392993	1475705973299	1475705973402	g	71
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138392999	1475705973363	1475705973418	o	79
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138393003	1475705973491	1475705973570	o	79
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138393006	1475705973587	1475705973675	d	68
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138393021	1475705973795	1475705973883	.	190
+271891	2913976	Hope your trip to Florida was good.	Hope your trip to Florida was good. 	138393023	1475705974003	1475705974091	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393475	1475705986193	1475705986368	SHIFT	16
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393476	1475705986289	1475705986416	T	84
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393477	1475705986488	1475705986584	h	72
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393478	1475705986592	1475705986688	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393479	1475705986664	1475705986761	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393480	1475705986864	1475705987080	SHIFT	16
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393505	1475705986993	1475705987104	M	77
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393507	1475705987161	1475705987313	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393510	1475705987249	1475705987344	r	82
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393513	1475705987569	1475705987704	c	67
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393515	1475705987656	1475705987736	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393516	1475705987889	1475705987953	d	68
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393543	1475705988097	1475705988256	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393544	1475705988201	1475705988320	s	83
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393546	1475705988369	1475705988481	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393548	1475705988521	1475705988641	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393549	1475705988729	1475705988824	n	78
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393558	1475705988881	1475705988993	g	71
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393560	1475705989001	1475705989137	i	73
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393564	1475705989081	1475705989209	n	78
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393568	1475705989217	1475705989321	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393603	1475705989313	1475705989425	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393605	1475705989561	1475705989697	t	84
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393607	1475705989641	1475705989753	a	65
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393609	1475705989833	1475705989929	k	75
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393612	1475705989913	1475705990065	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393615	1475705990130	1475705990177	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393689	1475705990874	1475705990970	BKSP	8
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393690	1475705990978	1475705991113	s	83
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393691	1475705991074	1475705991186	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393692	1475705991234	1475705991345	a	65
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393694	1475705991442	1475705991530	d	68
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393696	1475705991962	1475705992074	v	86
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393720	1475705992026	1475705992186	a	65
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393721	1475705992178	1475705992306	n	78
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393724	1475705992354	1475705992426	t	84
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393729	1475705992386	1475705992554	a	65
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393733	1475705992594	1475705992754	g	71
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393747	1475705992691	1475705992818	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393748	1475705992787	1475705992866	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393749	1475705992930	1475705993058	o	79
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393750	1475705993018	1475705993114	f	70
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393751	1475705993131	1475705993250	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393774	1475705993242	1475705993346	e	69
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393778	1475705993530	1475705993634	x	88
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393782	1475705993826	1475705993899	t	84
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393786	1475705993995	1475705994138	r	82
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393790	1475705994058	1475705994170	a	65
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393797	1475705994195	1475705994282	 	32
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393832	1475705994371	1475705994506	b	66
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393834	1475705994483	1475705994578	o	79
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393836	1475705994651	1475705994794	o	79
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393839	1475705994787	1475705994867	s	83
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393842	1475705994939	1475705995074	t	84
+271891	2913992	The Mercedes engine takes advantage of extra boost.	The Mercedes engine takes advantage of extra boost.	138393850	1475705995204	1475705995274	.	190
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393965	1475705997019	1475705997227	SHIFT	16
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393967	1475705997116	1475705997228	M	77
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393968	1475705997347	1475705997435	i	73
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393969	1475705997484	1475705997547	c	67
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393971	1475705997540	1475705997635	h	72
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393972	1475705997667	1475705997803	a	65
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393973	1475705997796	1475705997932	e	69
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393974	1475705997940	1475705998123	l	76
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393977	1475705998044	1475705998139	 	32
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393980	1475705998156	1475705998275	w	87
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138393983	1475705998236	1475705998436	a	65
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394001	1475705998388	1475705998483	s	83
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394003	1475705998476	1475705998555	 	32
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394004	1475705998723	1475705998803	g	71
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394005	1475705998916	1475705999036	r	82
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394010	1475705998996	1475705999108	a	69
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394011	1475705999212	1475705999331	t	84
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394014	1475705999324	1475705999395	 	32
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394017	1475705999428	1475705999556	t	84
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394020	1475705999580	1475705999644	h	72
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394043	1475705999620	1475705999756	i	73
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394045	1475705999764	1475705999876	s	83
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394047	1475706000148	1475706000204	 	32
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394053	1475706000316	1475706000684	SHIFT	16
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394049	1475706000444	1475706000532	A	65
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394051	1475706000524	1475706000620	M	77
+271891	2913999	Michael was great this AM.	Michael was great this AM.	138394055	1475706000940	1475706001052	.	190
+271891	2914008	There is no average.	There is no average.	138394146	1475706002749	1475706002877	SHIFT	16
+271891	2914008	There is no average.	There is no average.	138394149	1475706002853	1475706002949	T	84
+271891	2914008	There is no average.	There is no average.	138394150	1475706003013	1475706003117	h	72
+271891	2914008	There is no average.	There is no average.	138394151	1475706003077	1475706003165	e	69
+271891	2914008	There is no average.	There is no average.	138394153	1475706003157	1475706003293	r	82
+271891	2914008	There is no average.	There is no average.	138394183	1475706003261	1475706003373	e	69
+271891	2914008	There is no average.	There is no average.	138394187	1475706003333	1475706003477	 	32
+271891	2914008	There is no average.	There is no average.	138394189	1475706003469	1475706003597	i	73
+271891	2914008	There is no average.	There is no average.	138394192	1475706003533	1475706003645	s	83
+271891	2914008	There is no average.	There is no average.	138394196	1475706003653	1475706003741	 	32
+271891	2914008	There is no average.	There is no average.	138394200	1475706003773	1475706003941	n	78
+271891	2914008	There is no average.	There is no average.	138394229	1475706003869	1475706004029	o	79
+271891	2914008	There is no average.	There is no average.	138394230	1475706003933	1475706004077	 	32
+271891	2914008	There is no average.	There is no average.	138394231	1475706004069	1475706004189	a	65
+271891	2914008	There is no average.	There is no average.	138394232	1475706004285	1475706004373	v	86
+271891	2914008	There is no average.	There is no average.	138394233	1475706004509	1475706004653	e	69
+271891	2914008	There is no average.	There is no average.	138394252	1475706004581	1475706004693	r	82
+271891	2914008	There is no average.	There is no average.	138394257	1475706004646	1475706004805	a	65
+271891	2914008	There is no average.	There is no average.	138394261	1475706004829	1475706004990	g	71
+271891	2914008	There is no average.	There is no average.	138394265	1475706004926	1475706005022	e	69
+271891	2914008	There is no average.	There is no average.	138394269	1475706005158	1475706005230	.	190
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394386	1475706007718	1475706007918	SHIFT	16
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394389	1475706007838	1475706007959	I	73
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394393	1475706008031	1475706008134	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394397	1475706008142	1475706008222	c	67
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394400	1475706008175	1475706008302	a	65
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394435	1475706008294	1475706008422	n	78
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394437	1475706008367	1475706008462	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394442	1475706008607	1475706008726	r	82
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394447	1475706008678	1475706008791	e	69
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394451	1475706008935	1475706009039	v	86
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394459	1475706009047	1475706009142	i	73
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394517	1475706009127	1475706009238	e	69
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394518	1475706009175	1475706009310	w	87
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394519	1475706009319	1475706009399	 	65
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394520	1475706009839	1475706009919	BKSP	8
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394522	1475706010007	1475706010079	BKSP	8
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394524	1475706010159	1475706010263	BKSP	8
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394526	1475706010231	1475706010343	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394528	1475706010839	1475706010919	BKSP	8
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394531	1475706011023	1475706011111	w	87
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394558	1475706011120	1475706011215	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394561	1475706011303	1475706011439	a	65
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394563	1475706011480	1475706011599	f	70
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394565	1475706011704	1475706011791	t	84
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394567	1475706011840	1475706011983	e	69
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394594	1475706011928	1475706012063	r	82
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394595	1475706012072	1475706012207	w	87
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394596	1475706012152	1475706012367	a	65
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394597	1475706012360	1475706012511	r	82
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394599	1475706012624	1475706012743	d	68
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394650	1475706012696	1475706012847	s	83
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394652	1475706012888	1475706012976	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394653	1475706013120	1475706013191	n	78
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394654	1475706013496	1475706013575	BKSP	8
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394655	1475706013640	1475706013727	a	65
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394656	1475706013736	1475706013824	n	78
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394657	1475706013832	1475706013944	d	68
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394689	1475706013936	1475706014048	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394694	1475706014120	1475706014232	g	71
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394699	1475706014240	1475706014376	e	69
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394703	1475706014344	1475706014488	t	84
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394706	1475706014448	1475706014536	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394707	1475706014608	1475706014720	b	66
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394721	1475706014673	1475706014752	a	65
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394723	1475706014832	1475706014976	c	67
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394728	1475706014921	1475706015057	k	75
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394733	1475706015009	1475706015096	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394736	1475706015161	1475706015296	t	84
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394751	1475706015249	1475706015376	o	79
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394755	1475706015305	1475706015400	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394758	1475706015553	1475706015658	y	89
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394763	1475706015657	1475706015840	o	79
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394790	1475706015761	1475706015896	u	85
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394795	1475706015824	1475706015968	 	32
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394799	1475706015977	1475706016112	t	84
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394801	1475706016065	1475706016177	o	79
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394805	1475706016257	1475706016376	n	78
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394811	1475706016289	1475706016433	i	73
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394817	1475706016441	1475706016544	g	71
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394836	1475706016497	1475706016617	h	72
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394840	1475706016641	1475706016760	t	84
+271891	2914013	I can review afterwards and get back to you tonight.	I can review afterwards and get back to you tonight.	138394843	1475706017001	1475706017065	.	190
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394947	1475706018865	1475706019009	SHIFT	16
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394949	1475706018954	1475706019058	A	65
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394951	1475706019146	1475706019226	l	76
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394953	1475706019290	1475706019417	s	83
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394955	1475706019442	1475706019529	o	79
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394957	1475706019698	1475706019785	,	188
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394961	1475706019898	1475706019970	 	32
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394963	1475706020058	1475706020129	p	80
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394972	1475706020266	1475706020434	l	76
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394965	1475706020314	1475706020402	e	69
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394978	1475706020386	1475706020577	a	65
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394983	1475706020474	1475706020618	s	83
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394987	1475706020570	1475706020713	e	69
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394994	1475706020674	1475706020778	 	32
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138394997	1475706020794	1475706020882	l	76
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395000	1475706020994	1475706021066	o	79
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395012	1475706021162	1475706021314	o	79
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395014	1475706021250	1475706021410	k	75
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395016	1475706021338	1475706021450	 	32
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395019	1475706021506	1475706021706	a	65
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395022	1475706021770	1475706021898	t	84
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395052	1475706021850	1475706021930	 	32
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395055	1475706022018	1475706022210	SHIFT	16
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395057	1475706022123	1475706022242	H	72
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395059	1475706022322	1475706022434	o	79
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395061	1475706022442	1475706022578	w	87
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395063	1475706022555	1475706022714	e	69
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395065	1475706022811	1475706022890	l	76
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395091	1475706022971	1475706023114	l	76
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395093	1475706023083	1475706023186	 	32
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395096	1475706023355	1475706023459	f	70
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395101	1475706023475	1475706023570	o	79
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395105	1475706023587	1475706023707	r	82
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395149	1475706023651	1475706023739	 	32
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395157	1475706023875	1475706024171	SHIFT	16
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395152	1475706024051	1475706024163	O	79
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395161	1475706024235	1475706024355	c	67
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395166	1475706024507	1475706024619	t	84
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395169	1475706024611	1475706024699	 	32
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395171	1475706025516	1475706025595	2	50
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395191	1475706025636	1475706025691	0	48
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395195	1475706025780	1475706025843	0	48
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395199	1475706025899	1475706025971	1	49
+271891	2914022	Also,  please look at Howell for Oct 2001.	Also, please look at Howell for Oct 2001.	138395203	1475706026148	1475706026212	.	190
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395318	1475706028228	1475706028468	SHIFT	16
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395324	1475706028404	1475706028524	H	72
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395328	1475706028612	1475706028780	o	79
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395330	1475706028724	1475706028820	u	85
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395332	1475706028812	1475706028916	s	83
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395334	1475706029020	1475706029116	t	84
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395356	1475706029173	1475706029332	o	79
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395359	1475706029277	1475706029420	n	78
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395361	1475706029388	1475706029516	 	32
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395363	1475706029668	1475706029756	t	84
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395391	1475706029741	1475706029860	i	73
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395393	1475706029812	1475706029932	m	77
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395397	1475706029885	1475706029997	e	69
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395400	1475706030277	1475706030381	 	32
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395402	1475706030389	1475706030541	a	65
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395406	1475706030589	1475706030686	t	84
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395432	1475706030661	1475706030732	 	32
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395436	1475706030757	1475706030884	t	84
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395443	1475706030845	1475706030941	h	72
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395446	1475706030917	1475706031029	e	69
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395449	1475706030989	1475706031093	 	32
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395451	1475706031237	1475706031429	SHIFT	16
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395479	1475706031357	1475706031461	H	72
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395481	1475706031565	1475706031661	y	89
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395483	1475706031653	1475706031829	a	65
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395485	1475706031821	1475706031917	t	84
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395486	1475706031989	1475706032093	t	84
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395488	1475706032093	1475706032173	 	32
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395535	1475706032277	1475706032493	SHIFT	16
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395533	1475706032365	1475706032469	R	82
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395538	1475706032733	1475706032813	e	69
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395540	1475706032981	1475706033109	g	71
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395542	1475706033094	1475706033221	e	69
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395544	1475706033270	1475706033398	n	78
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395570	1475706033406	1475706033494	c	67
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395572	1475706033630	1475706033702	y	89
+271891	2914035	Houston time at the Hyatt Regency.	Houston time at the Hyatt Regency.	138395574	1475706034078	1475706034126	.	190
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395661	1475706036030	1475706036166	SHIFT	16
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395664	1475706036119	1475706036198	C	67
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395667	1475706036302	1475706036454	o	79
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395670	1475706036422	1475706036558	n	78
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395675	1475706036599	1475706036662	s	83
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395679	1475706036750	1475706036830	t	84
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395727	1475706036910	1475706037022	r	82
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395729	1475706036991	1475706037063	a	65
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395731	1475706037335	1475706037555	BKSP	8
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395734	1475706037556	1475706037607	u	85
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395738	1475706037855	1475706037943	n	78
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395743	1475706038223	1475706038303	BKSP	8
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395761	1475706038295	1475706038383	c	67
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395763	1475706038551	1475706038671	t	84
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395766	1475706038615	1475706038855	i	73
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395770	1475706038735	1475706038879	o	79
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395773	1475706038775	1475706038967	n	78
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395791	1475706038935	1475706039066	 	32
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395796	1475706039064	1475706039215	o	79
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395800	1475706039144	1475706039271	n	78
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395804	1475706039223	1475706039320	 	32
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395808	1475706039319	1475706039447	t	84
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395817	1475706039407	1475706039495	h	72
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395821	1475706039471	1475706039583	e	69
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395826	1475706039551	1475706039679	 	32
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395830	1475706039719	1475706039839	c	67
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395836	1475706039775	1475706039863	o	79
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395888	1475706039856	1475706040039	m	77
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395889	1475706039976	1475706040071	p	80
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395890	1475706040344	1475706040455	l	76
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395891	1475706040480	1475706040519	e	69
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395893	1475706041328	1475706041432	x	88
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395896	1475706041448	1475706041535	 	32
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395917	1475706041792	1475706041903	w	87
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395918	1475706041872	1475706041936	i	73
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395919	1475706042032	1475706042088	l	76
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395920	1475706042160	1475706042264	l	76
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395929	1475706042208	1475706042304	 	32
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395931	1475706042368	1475706042488	b	66
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395935	1475706042416	1475706042504	e	69
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395941	1475706042584	1475706042720	g	71
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395945	1475706042712	1475706042848	i	73
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395953	1475706042800	1475706042928	n	78
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395955	1475706042864	1475706042984	 	32
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395957	1475706043025	1475706043128	t	84
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395958	1475706043080	1475706043184	h	72
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395959	1475706043161	1475706043288	i	73
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395960	1475706043288	1475706043368	s	83
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395975	1475706043360	1475706043440	 	32
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395979	1475706043569	1475706043632	e	89
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395984	1475706043656	1475706043816	a	65
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395990	1475706043825	1475706043968	r	82
+271891	2914043	Construction on the complex will begin this year.	Construction on the complex will begin this year.	138395998	1475706044201	1475706044264	.	190
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396100	1475706045961	1475706046097	SHIFT	16
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396105	1475706046025	1475706046153	T	84
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396109	1475706046186	1475706046297	h	72
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396111	1475706046273	1475706046409	o	79
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396113	1475706046482	1475706046601	m	77
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396133	1475706046593	1475706046777	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396134	1475706046713	1475706046849	s	83
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396136	1475706046865	1475706046945	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396138	1475706047177	1475706047265	h	72
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396141	1475706047258	1475706047418	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396170	1475706047321	1475706047473	s	83
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396173	1475706047505	1475706047593	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396176	1475706047682	1475706047833	n	78
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396178	1475706047770	1475706047946	o	79
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396180	1475706047865	1475706047985	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396183	1475706048026	1475706048177	r	82
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396202	1475706048122	1475706048266	e	69
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396204	1475706048194	1475706048361	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396206	1475706048410	1475706048561	l	76
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396208	1475706048506	1475706048625	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396211	1475706048722	1475706048833	v	86
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396221	1475706048786	1475706048890	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396226	1475706048922	1475706049058	l	76
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396227	1475706049082	1475706049186	u	85
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396233	1475706049194	1475706049314	e	69
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396234	1475706049306	1475706049394	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396240	1475706049474	1475706049626	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396279	1475706049778	1475706049858	s	83
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396281	1475706049946	1475706050034	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396282	1475706050050	1475706050170	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396284	1475706050154	1475706050234	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396286	1475706050354	1475706050530	SHIFT	16
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396314	1475706050426	1475706050531	F	70
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396318	1475706050538	1475706050674	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396322	1475706050706	1475706050834	n	78
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396326	1475706050922	1475706051010	t	84
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396331	1475706050979	1475706051122	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396335	1475706051194	1475706051298	s	83
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396354	1475706051395	1475706051490	y	89
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396357	1475706051467	1475706051571	 	32
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396360	1475706051659	1475706051738	p	80
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396362	1475706051867	1475706051981	l	76
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396420	1475706051955	1475706052075	a	65
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396425	1475706052099	1475706052211	y	89
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396431	1475706052219	1475706052363	e	69
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396435	1475706052291	1475706052427	r	82
+271891	2914055	Thomas has no real value as a Fantasy player.	Thomas has no real value as a Fantasy player.	138396438	1475706052667	1475706052747	.	190
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396577	1475706054875	1475706055027	SHIFT	16
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396580	1475706054964	1475706055059	S	83
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396585	1475706055140	1475706055211	u	85
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396588	1475706055356	1475706055468	n	78
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396621	1475706055404	1475706055491	d	68
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396625	1475706055452	1475706055580	a	65
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396628	1475706055628	1475706055732	y	89
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396631	1475706055716	1475706055827	 	32
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396634	1475706055868	1475706055998	t	84
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396636	1475706055964	1475706056052	i	73
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396638	1475706056164	1475706056284	c	67
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396666	1475706056244	1475706056348	k	75
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396669	1475706056396	1475706056532	e	69
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396671	1475706056500	1475706056644	t	84
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396674	1475706056684	1475706056796	s	83
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396677	1475706056813	1475706056916	 	32
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396680	1475706056932	1475706057036	h	72
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396682	1475706056981	1475706057068	a	65
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396684	1475706057116	1475706057244	v	86
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396685	1475706057196	1475706057316	e	69
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396687	1475706057293	1475706057348	 	32
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396692	1475706057453	1475706057548	b	66
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396713	1475706057540	1475706057612	e	69
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396716	1475706057708	1475706057796	e	69
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396721	1475706057756	1475706057884	n	78
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396724	1475706057829	1475706057956	 	32
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396728	1475706057981	1475706058132	o	79
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396747	1475706058077	1475706058204	n	78
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396751	1475706058141	1475706058261	 	32
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396755	1475706058269	1475706058404	s	83
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396759	1475706058364	1475706058492	a	65
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396764	1475706058484	1475706058572	l	76
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396768	1475706058597	1475706058692	e	69
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396776	1475706058717	1475706058788	 	32
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396779	1475706058853	1475706058933	f	70
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396782	1475706058941	1475706059037	o	79
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396788	1475706059054	1475706059140	r	82
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396812	1475706059109	1475706059196	 	32
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396813	1475706059237	1475706059388	w	87
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396814	1475706059349	1475706059461	e	69
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396815	1475706059549	1475706059653	e	69
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396816	1475706059637	1475706059717	k	75
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396817	1475706059805	1475706059893	s	83
+271891	2914065	Sunday tickets have been on sale for weeks.	Sunday tickets have been on sale for weeks.	138396827	1475706060101	1475706060166	.	190
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396933	1475706061837	1475706062029	SHIFT	16
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396935	1475706061910	1475706062045	S	83
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396937	1475706062094	1475706062149	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396940	1475706062478	1475706062559	BKSP	8
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396943	1475706062558	1475706062686	e	69
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396946	1475706062686	1475706062822	n	78
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396968	1475706062798	1475706062950	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396969	1475706062982	1475706063142	t	84
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396970	1475706063102	1475706063230	e	69
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396971	1475706063214	1475706063318	 	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138396972	1475706063398	1475706063526	r	82
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397016	1475706063478	1475706063670	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397017	1475706063686	1475706063805	t	84
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397018	1475706063822	1475706063910	i	73
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397019	1475706064086	1475706064166	f	70
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397021	1475706064174	1475706064270	i	73
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397024	1475706064342	1475706064438	c	67
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397052	1475706064423	1475706064550	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397058	1475706064638	1475706064766	t	84
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397065	1475706064687	1475706064910	i	73
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397093	1475706064791	1475706064942	o	79
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397097	1475706064887	1475706064974	 	78
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397099	1475706064983	1475706065086	w	87
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397104	1475706065151	1475706065287	o	79
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397108	1475706065238	1475706065342	u	85
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397111	1475706065415	1475706065502	l	76
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397116	1475706065510	1475706065606	d	68
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397127	1475706065599	1475706065662	 	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397128	1475706065782	1475706065863	b	66
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397130	1475706065839	1475706065942	e	69
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397133	1475706065927	1475706066023	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397138	1475706065983	1475706066055	 	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397144	1475706066167	1475706066231	a	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397249	1475706066631	1475706066712	BKSP	8
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397258	1475706066799	1475706066863	BKSP	8
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397264	1475706066967	1475706067024	BKSP	8
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397272	1475706067143	1475706067199	BKSP	8
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397277	1475706067303	1475706067391	 	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397281	1475706067463	1475706067535	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397284	1475706067575	1475706067639	 	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397286	1475706067879	1475706068023	m	77
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397294	1475706067935	1475706068087	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397295	1475706068152	1475706068231	t	84
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397297	1475706068303	1475706068407	t	84
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397298	1475706068447	1475706068567	e	69
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397299	1475706068527	1475706068647	r	82
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397340	1475706068592	1475706068695	 	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397343	1475706068711	1475706068831	o	79
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397346	1475706068823	1475706068943	f	70
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397351	1475706068871	1475706068967	 	32
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397356	1475706069064	1475706069176	h	72
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397362	1475706069280	1475706069343	u	85
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397383	1475706069504	1475706069585	m	77
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397384	1475706069584	1475706069672	a	65
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397385	1475706069680	1475706069800	n	78
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397386	1475706069760	1475706069895	i	73
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397387	1475706069904	1475706070032	t	84
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397420	1475706070016	1475706070056	y	89
+271891	2914073	Senate ratification would be a matter of humanity.	Senate ratification would be a matter of humanity.	138397423	1475706070408	1475706070480	.	190

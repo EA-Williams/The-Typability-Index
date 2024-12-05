@@ -1,0 +1,641 @@
+PARTICIPANT_ID	TEST_SECTION_ID	SENTENCE	USER_INPUT	KEYSTROKE_ID	PRESS_TIME	RELEASE_TIME	LETTER	KEYCODE
+51042	558548	I have a request.	I have a request.	26578131	1472600122171	1472600122359	SHIFT	16
+51042	558548	I have a request.	I have a request.	26578135	1472600122281	1472600122359	I	73
+51042	558548	I have a request.	I have a request.	26578140	1472600122360	1472600122455	 	32
+51042	558548	I have a request.	I have a request.	26578145	1472600122455	1472600122502	h	72
+51042	558548	I have a request.	I have a request.	26578148	1472600122519	1472600122615	a	65
+51042	558548	I have a request.	I have a request.	26578159	1472600122551	1472600122631	v	86
+51042	558548	I have a request.	I have a request.	26578161	1472600122583	1472600122679	e	69
+51042	558548	I have a request.	I have a request.	26578165	1472600122631	1472600122679	 	32
+51042	558548	I have a request.	I have a request.	26578169	1472600122742	1472600122838	a	65
+51042	558548	I have a request.	I have a request.	26578174	1472600122806	1472600122886	 	32
+51042	558548	I have a request.	I have a request.	26578179	1472600122967	1472600123078	r	82
+51042	558548	I have a request.	I have a request.	26578190	1472600123031	1472600123142	e	69
+51042	558548	I have a request.	I have a request.	26578193	1472600123111	1472600123206	q	81
+51042	558548	I have a request.	I have a request.	26578195	1472600123223	1472600123302	u	85
+51042	558548	I have a request.	I have a request.	26578200	1472600123303	1472600123446	e	69
+51042	558548	I have a request.	I have a request.	26578219	1472600123383	1472600123494	s	83
+51042	558548	I have a request.	I have a request.	26578222	1472600123430	1472600123510	t	84
+51042	558548	I have a request.	I have a request.	26578226	1472600123591	1472600123702	.	190
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578401	1472600125542	1472600125686	SHIFT	16
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578402	1472600125606	1472600125687	O	79
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578403	1472600125718	1472600125798	n	78
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578408	1472600125990	1472600126070	 	32
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578412	1472600126102	1472600126166	t	84
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578417	1472600126166	1472600126214	h	72
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578416	1472600126216	1472600126310	e	69
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578421	1472600126262	1472600126342	 	32
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578426	1472600126343	1472600126406	p	80
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578430	1472600126470	1472600126518	l	76
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578456	1472600126503	1472600126582	a	65
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578459	1472600126583	1472600126646	n	78
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578463	1472600126662	1472600126742	e	69
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578468	1472600126758	1472600126838	,	188
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578471	1472600126822	1472600126902	 	32
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578475	1472600126918	1472600126982	d	68
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578501	1472600126998	1472600127046	o	79
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578507	1472600127110	1472600127174	o	79
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578515	1472600127206	1472600127270	r	82
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578520	1472600127286	1472600127366	 	32
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578524	1472600127382	1472600127478	s	83
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578577	1472600127574	1472600127622	BKSP	8
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578579	1472600127670	1472600127718	BKSP	8
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578582	1472600127750	1472600127814	s	83
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578585	1472600127815	1472600127878	 	32
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578588	1472600127910	1472600127990	c	67
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578591	1472600128054	1472600128150	o	79
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578594	1472600128358	1472600128374	BKSP	8
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578597	1472600128518	1472600128598	l	76
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578601	1472600128774	1472600128838	o	79
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578603	1472600128886	1472600128982	s	83
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578605	1472600128966	1472600129078	i	73
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578607	1472600129030	1472600129126	n	78
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578622	1472600129110	1472600129158	g	71
+51042	558552	On the plane, doors closing.	On the plane, doors closing.	26578624	1472600129270	1472600129334	.	190
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578759	1472600131014	1472600131158	SHIFT	16
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578758	1472600131078	1472600131126	I	73
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578766	1472600131190	1472600131238	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578771	1472600131286	1472600131351	n	78
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578775	1472600131334	1472600131382	e	69
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578780	1472600131446	1472600131510	e	69
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578786	1472600131558	1472600131654	d	68
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578789	1472600131638	1472600131702	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578798	1472600131734	1472600131798	t	84
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578803	1472600131782	1472600131862	o	79
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578818	1472600131846	1472600131910	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578821	1472600131958	1472600132073	l	76
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578826	1472600132038	1472600132134	i	73
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578829	1472600132102	1472600132230	n	78
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578832	1472600132214	1472600132310	k	75
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578837	1472600132294	1472600132358	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578839	1472600132374	1472600132424	t	84
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578841	1472600132406	1472600132470	h	72
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578844	1472600132486	1472600132550	e	69
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578847	1472600132534	1472600132630	m	77
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578870	1472600132598	1472600132678	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578875	1472600132710	1472600132822	u	85
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578879	1472600132790	1472600132870	p	80
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578882	1472600132838	1472600132918	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578887	1472600132982	1472600133030	t	84
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578928	1472600133014	1472600133094	o	79
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578935	1472600133158	1472600133238	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578941	1472600133190	1472600133239	t	84
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578945	1472600133734	1472600133782	h	72
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578952	1472600133830	1472600133894	e	69
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578958	1472600133895	1472600133958	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578980	1472600133994	1472600134166	SHIFT	16
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578982	1472600134102	1472600134214	T	84
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578984	1472600134294	1472600134358	a	65
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578986	1472600134390	1472600134422	g	71
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578988	1472600134486	1472600134550	g	71
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26578990	1472600134566	1472600134630	 	32
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26579005	1472600134678	1472600134742	d	68
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26579007	1472600134806	1472600134902	e	69
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26579011	1472600134854	1472600134950	a	65
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26579018	1472600134918	1472600134998	l	76
+51042	558562	I need to link them up to the Tagg deal.	I need to link them up to the Tagg deal.	26579024	1472600135078	1472600135190	.	190
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579180	1472600136854	1472600137046	SHIFT	16
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579176	1472600136934	1472600136998	I	73
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579186	1472600137126	1472600137174	'	222
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579191	1472600137286	1472600137350	l	76
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579196	1472600137414	1472600137478	l	76
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579204	1472600137542	1472600137606	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579253	1472600137878	1472600137958	c	67
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579258	1472600137959	1472600138006	o	79
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579265	1472600138070	1472600138134	m	77
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579269	1472600138134	1472600138214	e	69
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579270	1472600138215	1472600138278	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579302	1472600138630	1472600138678	h	72
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579305	1472600138726	1472600138822	a	65
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579310	1472600138774	1472600138838	v	86
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579312	1472600138806	1472600138919	e	69
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579384	1472600138886	1472600138950	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579386	1472600139414	1472600139494	a	65
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579389	1472600139495	1472600139558	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579391	1472600139622	1472600139686	b	66
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579393	1472600139718	1472600139766	e	69
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579394	1472600139830	1472600139926	e	69
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579435	1472600139894	1472600139974	r	82
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579439	1472600139990	1472600140070	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579442	1472600140422	1472600140486	i	87
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579447	1472600140534	1472600140598	t	84
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579486	1472600140566	1472600140662	h	72
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579489	1472600140646	1472600140742	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579490	1472600140806	1472600140918	y	89
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579491	1472600140886	1472600141030	o	79
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579492	1472600140998	1472600141126	u	85
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579514	1472600141078	1472600141190	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579518	1472600141238	1472600141270	t	84
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579521	1472600141286	1472600141334	u	85
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579526	1472600141510	1472600141558	BKSP	8
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579529	1472600141606	1472600141654	BKSP	8
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579535	1472600141702	1472600141750	g	71
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579538	1472600141782	1472600141830	u	85
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579545	1472600141894	1472600141974	y	89
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579540	1472600141990	1472600142054	s	83
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579544	1472600142025	1472600142086	 	32
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579549	1472600142134	1472600142198	l	76
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579554	1472600142214	1472600142310	a	65
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579566	1472600142262	1472600142358	t	84
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579568	1472600142326	1472600142470	e	69
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579571	1472600142438	1472600142550	r	82
+51042	558572	I'll come have a beer with you guys later.	I'll come have a beer with you guys later.	26579574	1472600142551	1472600142646	.	190
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579692	1472600144454	1472600144614	SHIFT	16
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579697	1472600144518	1472600144614	I	73
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579705	1472600144615	1472600144678	 	32
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579713	1472600144710	1472600144790	w	87
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579721	1472600144774	1472600144902	u	85
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579788	1472600144870	1472600144997	l	76
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579793	1472600144965	1472600145061	d	68
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579798	1472600144998	1472600145062	 	32
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579804	1472600145125	1472600145173	b	66
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579809	1472600145318	1472600145366	BKSP	8
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579813	1472600145414	1472600145478	BKSP	8
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579816	1472600145542	1472600145590	BKSP	8
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579820	1472600145654	1472600145702	BKSP	8
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579824	1472600145766	1472600145846	BKSP	8
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579829	1472600145974	1472600146070	o	79
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579838	1472600146038	1472600146150	u	85
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579846	1472600146134	1472600146245	l	76
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579854	1472600146246	1472600146325	d	68
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579867	1472600146341	1472600146389	 	32
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579876	1472600146453	1472600146518	b	66
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579884	1472600146518	1472600146598	e	69
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579899	1472600146582	1472600146662	 	32
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579904	1472600146726	1472600146790	g	71
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579908	1472600146806	1472600146886	l	76
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579915	1472600146886	1472600146985	a	65
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579921	1472600146950	1472600147062	d	68
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579927	1472600147062	1472600147110	 	32
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579929	1472600147142	1472600147190	t	84
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579936	1472600147174	1472600147270	o	79
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579941	1472600147254	1472600147318	 	32
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579947	1472600147334	1472600147413	p	80
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579964	1472600147397	1472600147509	a	65
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579966	1472600147445	1472600147525	r	82
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579972	1472600147589	1472600147653	t	84
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579982	1472600147669	1472600147719	i	73
+51042	558585	I would be glad to participate.	I would be glad to participate.	26579993	1472600147753	1472600147862	c	67
+51042	558585	I would be glad to participate.	I would be glad to participate.	26580019	1472600147814	1472600147926	i	73
+51042	558585	I would be glad to participate.	I would be glad to participate.	26580023	1472600147894	1472600147974	p	80
+51042	558585	I would be glad to participate.	I would be glad to participate.	26580026	1472600147958	1472600148086	a	65
+51042	558585	I would be glad to participate.	I would be glad to participate.	26580029	1472600148054	1472600148166	t	84
+51042	558585	I would be glad to participate.	I would be glad to participate.	26580032	1472600148118	1472600148246	e	69
+51042	558585	I would be glad to participate.	I would be glad to participate.	26580037	1472600148247	1472600148326	.	190
+51042	558592	I'm going to class.	I'm going to class.	26580209	1472600150214	1472600150374	SHIFT	16
+51042	558592	I'm going to class.	I'm going to class.	26580204	1472600150294	1472600150342	I	73
+51042	558592	I'm going to class.	I'm going to class.	26580212	1472600150422	1472600150470	'	222
+51042	558592	I'm going to class.	I'm going to class.	26580218	1472600150550	1472600150646	m	77
+51042	558592	I'm going to class.	I'm going to class.	26580227	1472600150614	1472600150694	 	32
+51042	558592	I'm going to class.	I'm going to class.	26580233	1472600150710	1472600150789	g	71
+51042	558592	I'm going to class.	I'm going to class.	26580223	1472600150793	1472600150933	o	79
+51042	558592	I'm going to class.	I'm going to class.	26580230	1472600150853	1472600150981	i	73
+51042	558592	I'm going to class.	I'm going to class.	26580275	1472600150901	1472600151030	n	78
+51042	558592	I'm going to class.	I'm going to class.	26580238	1472600150949	1472600150997	g	71
+51042	558592	I'm going to class.	I'm going to class.	26580282	1472600150982	1472600151062	 	32
+51042	558592	I'm going to class.	I'm going to class.	26580292	1472600151078	1472600151142	t	84
+51042	558592	I'm going to class.	I'm going to class.	26580297	1472600151126	1472600151222	o	79
+51042	558592	I'm going to class.	I'm going to class.	26580302	1472600151206	1472600151270	 	32
+51042	558592	I'm going to class.	I'm going to class.	26580306	1472600151366	1472600151462	c	67
+51042	558592	I'm going to class.	I'm going to class.	26580307	1472600151462	1472600151526	l	76
+51042	558592	I'm going to class.	I'm going to class.	26580334	1472600151529	1472600151654	a	65
+51042	558592	I'm going to class.	I'm going to class.	26580337	1472600151622	1472600151814	s	83
+51042	558592	I'm going to class.	I'm going to class.	26580339	1472600152038	1472600152118	s	83
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580471	1472600153974	1472600154118	SHIFT	16
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580474	1472600154070	1472600154118	I	73
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580479	1472600154166	1472600154229	t	84
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580484	1472600154245	1472600154293	'	222
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580487	1472600154325	1472600154422	s	83
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580488	1472600154438	1472600154502	 	32
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580492	1472600154517	1472600154582	g	71
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580493	1472600154598	1472600154726	o	79
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580509	1472600154678	1472600154792	i	73
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580512	1472600154726	1472600154854	g	78
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580516	1472600154806	1472600154886	 	32
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580521	1472600154870	1472600154950	t	84
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580525	1472600154934	1472600154998	o	79
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580529	1472600154998	1472600155045	 	32
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580531	1472600155093	1472600155144	b	66
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580556	1472600155129	1472600155206	e	69
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580558	1472600155270	1472600155349	 	32
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580560	1472600155462	1472600155542	l	76
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580562	1472600155526	1472600155606	u	85
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580563	1472600155686	1472600155766	d	68
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580565	1472600155798	1472600155862	i	73
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580592	1472600155942	1472600156054	c	67
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580595	1472600156197	1472600156262	r	82
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580598	1472600156454	1472600156613	o	79
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580600	1472600156549	1472600156662	u	85
+51042	558597	It's going to be ludicrous.	It's going to be ludicrous	26580602	1472600156678	1472600156742	s	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580718	1472600158725	1472600159029	SHIFT	16
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580714	1472600158965	1472600158997	H	72
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580724	1472600159094	1472600159158	e	69
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580728	1472600159142	1472600159221	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580732	1472600159254	1472600159301	i	73
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580735	1472600159333	1472600159397	s	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580738	1472600159365	1472600159461	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580741	1472600159509	1472600159606	l	76
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580742	1472600159573	1472600159669	i	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580745	1472600159638	1472600159749	t	84
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580866	1472600159701	1472600159813	e	69
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580869	1472600159861	1472600159973	d	68
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580874	1472600159941	1472600160021	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580878	1472600160406	1472600160453	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580884	1472600160517	1472600160565	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580891	1472600160613	1472600160661	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580897	1472600160725	1472600160773	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580900	1472600160837	1472600160885	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580903	1472600160949	1472600161013	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580905	1472600161190	1472600161237	i	73
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580909	1472600161269	1472600161365	s	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580911	1472600161301	1472600161415	t	84
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580914	1472600161381	1472600161461	e	69
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580920	1472600161493	1472600161605	d	68
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580925	1472600161573	1472600161653	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580930	1472600161733	1472600161909	a	65
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580970	1472600161829	1472600161973	s	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580976	1472600161958	1472600162037	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580982	1472600162261	1472600162358	q	81
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580985	1472600162373	1472600162437	u	85
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26580988	1472600162421	1472600162565	e	69
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581001	1472600162501	1472600162613	s	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581006	1472600162549	1472600162661	t	84
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581014	1472600162614	1472600162773	i	73
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581022	1472600162677	1472600162838	o	79
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581019	1472600162725	1472600162837	n	78
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581030	1472600162821	1472600162933	a	65
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581036	1472600162949	1472600163061	b	66
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581060	1472600163045	1472600163157	l	76
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581064	1472600163141	1472600163222	e	69
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581068	1472600163205	1472600163317	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581071	1472600163429	1472600163509	f	70
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581076	1472600163510	1472600163589	o	79
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581080	1472600163590	1472600163669	r	82
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581107	1472600163621	1472600163701	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581108	1472600163702	1472600163765	r	82
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581110	1472600163749	1472600163829	h	72
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581114	1472600164005	1472600164053	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581120	1472600164133	1472600164181	BKSP	8
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581127	1472600164213	1472600164293	t	84
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581131	1472600164309	1472600164389	h	72
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581151	1472600164357	1472600164469	i	73
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581155	1472600164405	1472600164485	s	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581160	1472600164486	1472600164597	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581165	1472600164613	1472600164693	w	87
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581169	1472600164645	1472600164725	e	69
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581172	1472600164789	1472600164869	e	69
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581181	1472600164872	1472600164949	k	75
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581186	1472600164950	1472600165029	'	222
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581189	1472600164997	1472600165093	s	83
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581195	1472600165125	1472600165221	 	32
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581216	1472600165205	1472600165317	g	71
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581221	1472600165285	1472600165381	a	65
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581225	1472600165365	1472600165429	m	77
+51042	558606	He is listed as questionable for this week's game.	He is listed as questionable for this week's game.	26581230	1472600165461	1472600165509	e	69
+51042	558615	I left a message.	I left a message.	26581359	1472600167525	1472600167717	SHIFT	16
+51042	558615	I left a message.	I left a message.	26581363	1472600167621	1472600167733	I	73
+51042	558615	I left a message.	I left a message.	26581366	1472600167718	1472600167797	 	32
+51042	558615	I left a message.	I left a message.	26581369	1472600167893	1472600167989	l	76
+51042	558615	I left a message.	I left a message.	26581371	1472600167990	1472600168085	e	69
+51042	558615	I left a message.	I left a message.	26581388	1472600168021	1472600168101	f	70
+51042	558615	I left a message.	I left a message.	26581390	1472600168181	1472600168245	t	84
+51042	558615	I left a message.	I left a message.	26581394	1472600168246	1472600168309	 	32
+51042	558615	I left a message.	I left a message.	26581398	1472600168293	1472600168389	a	65
+51042	558615	I left a message.	I left a message.	26581402	1472600168405	1472600168437	 	32
+51042	558615	I left a message.	I left a message.	26581405	1472600168501	1472600168597	m	77
+51042	558615	I left a message.	I left a message.	26581417	1472600168581	1472600168709	e	69
+51042	558615	I left a message.	I left a message.	26581421	1472600168645	1472600168741	s	83
+51042	558615	I left a message.	I left a message.	26581424	1472600168837	1472600168934	s	83
+51042	558615	I left a message.	I left a message.	26581426	1472600168901	1472600169029	a	65
+51042	558615	I left a message.	I left a message.	26581430	1472600168949	1472600169045	g	71
+51042	558615	I left a message.	I left a message.	26581431	1472600169030	1472600169109	e	69
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581662	1472600169093	1472600173813	.	190
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581500	1472600170773	1472600170949	SHIFT	16
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581501	1472600170901	1472600171013	W	87
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581503	1472600170965	1472600171077	e	69
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581506	1472600171093	1472600171157	'	222
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581510	1472600171205	1472600171301	r	82
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581529	1472600171269	1472600171365	e	69
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581534	1472600171305	1472600171365	 	32
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581539	1472600171445	1472600171541	n	78
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581543	1472600171509	1472600171605	o	79
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581547	1472600171637	1472600171717	t	84
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581577	1472600171669	1472600171765	 	32
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581581	1472600172069	1472600172165	a	65
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581584	1472600172117	1472600172213	 	32
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581592	1472600172261	1472600172309	l	76
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581594	1472600172373	1472600172437	o	79
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581596	1472600172438	1472600172517	c	67
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581598	1472600172549	1472600172630	k	75
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581599	1472600172597	1472600172677	 	32
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581601	1472600172678	1472600172725	f	70
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581603	1472600172741	1472600172805	o	79
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581610	1472600172789	1472600172853	r	82
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581611	1472600172837	1472600172901	 	32
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581612	1472600172917	1472600173045	t	84
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581614	1472600172949	1472600173077	h	72
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581637	1472600173013	1472600173125	e	69
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581641	1472600173061	1472600173141	 	32
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581644	1472600173205	1472600173269	p	80
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581650	1472600173349	1472600173413	o	79
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581656	1472600173509	1472600173589	l	76
+51042	558620	We're not a lock for the pole.	We're not a lock for the pole.	26581659	1472600173637	1472600173717	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581768	1472600175765	1472600175957	SHIFT	16
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581774	1472600175909	1472600176005	T	84
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581781	1472600175973	1472600176037	h	72
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581784	1472600176053	1472600176117	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581787	1472600176101	1472600176181	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581791	1472600176229	1472600176309	c	67
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581867	1472600176501	1472600176549	BKSP	8
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581869	1472600176581	1472600176661	v	86
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581873	1472600176677	1472600176805	o	79
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581878	1472600176773	1472600176853	u	85
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581884	1472600177301	1472600177349	BKSP	8
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581890	1472600177477	1472600177573	l	76
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581919	1472600177541	1472600177605	u	85
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581922	1472600177685	1472600177765	m	77
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581927	1472600177797	1472600177941	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581932	1472600177877	1472600178005	s	83
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581936	1472600178069	1472600178133	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581942	1472600178165	1472600178245	t	84
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581975	1472600178247	1472600178293	i	73
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581982	1472600178373	1472600178437	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581984	1472600178469	1472600178597	,	188
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581989	1472600178565	1472600178661	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26581996	1472600178709	1472600178805	s	83
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582007	1472600178789	1472600178869	o	79
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582011	1472600178853	1472600178917	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582013	1472600178917	1472600178997	t	84
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582016	1472600178981	1472600179061	h	72
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582018	1472600179029	1472600179109	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582035	1472600179077	1472600179157	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582041	1472600179270	1472600179349	p	80
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582046	1472600179381	1472600179461	r	82
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582052	1472600179477	1472600179525	i	73
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582062	1472600179589	1472600179669	c	67
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582071	1472600179669	1472600179813	i	73
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582088	1472600179765	1472600179845	n	78
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582090	1472600179829	1472600179893	g	71
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582092	1472600179925	1472600179973	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582094	1472600180037	1472600180101	m	77
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582095	1472600180149	1472600180213	u	85
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582097	1472600180214	1472600180293	s	83
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582108	1472600180245	1472600180341	t	84
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582111	1472600180309	1472600180373	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582116	1472600180421	1472600180469	b	66
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582120	1472600180501	1472600180565	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582123	1472600180566	1472600180629	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582126	1472600180677	1472600180728	f	70
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582187	1472600180712	1472600180741	o	79
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582193	1472600180820	1472600180869	f	70
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582199	1472600181141	1472600181205	BKSP	8
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582202	1472600181269	1472600181317	BKSP	8
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582209	1472600181381	1472600181429	BKSP	8
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582215	1472600181541	1472600181589	o	79
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582222	1472600181605	1472600181653	f	70
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582226	1472600181701	1472600181781	f	70
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582231	1472600181781	1472600181861	 	32
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582238	1472600181925	1472600182038	s	83
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582241	1472600182005	1472600182069	o	79
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582244	1472600182117	1472600182213	m	77
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582250	1472600182197	1472600182245	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582257	1472600182325	1472600182437	w	87
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582291	1472600182421	1472600182469	e	72
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582296	1472600182533	1472600182677	r	82
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582301	1472600182645	1472600182725	e	69
+51042	558628	The volumes tie, so the pricing must be off somewhere.	The volumes tie, so the pricing must be off somewhere.	26582306	1472600182725	1472600182837	.	190
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582437	1472600184613	1472600184853	SHIFT	16
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582441	1472600184789	1472600184981	S	83
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582445	1472600184997	1472600185061	a	65
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582450	1472600185125	1472600185173	n	78
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582454	1472600185221	1472600185285	a	65
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582458	1472600185349	1472600185429	a	65
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582470	1472600185493	1472600185573	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582473	1472600185701	1472600185813	a	65
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582476	1472600185797	1472600185861	p	80
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582479	1472600185925	1472600186005	p	80
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582482	1472600186085	1472600186245	e	69
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582493	1472600186181	1472600186308	a	65
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582495	1472600186261	1472600186404	r	82
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582501	1472600186357	1472600186452	e	69
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582504	1472600186517	1472600186565	d	68
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582507	1472600186549	1472600186629	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582511	1472600186661	1472600186725	t	84
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582515	1472600186709	1472600186773	o	79
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582519	1472600186757	1472600186805	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582524	1472600186853	1472600186933	b	66
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582527	1472600186901	1472600186981	e	69
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582529	1472600186965	1472600187061	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582541	1472600187013	1472600187125	a	65
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582545	1472600187125	1472600187205	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582550	1472600187173	1472600187269	g	71
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582554	1472600187317	1472600187413	h	72
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582558	1472600187381	1472600187492	o	79
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582591	1472600187461	1472600187556	s	83
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582596	1472600187524	1472600187636	t	84
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582601	1472600187620	1472600187700	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582607	1472600187813	1472600187925	t	84
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582610	1472600187893	1472600187973	o	79
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582614	1472600187973	1472600188085	w	87
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582623	1472600188069	1472600188165	n	78
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582626	1472600188117	1472600188213	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582632	1472600188341	1472600188421	i	87
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582640	1472600188485	1472600188613	h	72
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582707	1472600188565	1472600188648	 	84
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582712	1472600189013	1472600189061	BKSP	8
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582717	1472600189125	1472600189173	BKSP	8
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582720	1472600189237	1472600189301	BKSP	8
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582723	1472600189349	1472600189448	t	84
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582728	1472600189413	1472600189509	h	72
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582733	1472600189477	1472600189557	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582740	1472600189605	1472600189685	m	77
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582746	1472600189669	1472600189764	a	65
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582751	1472600189748	1472600189796	n	78
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582755	1472600189860	1472600189973	y	89
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582757	1472600189941	1472600190021	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582760	1472600189973	1472600190068	s	83
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582770	1472600190053	1472600190164	h	72
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582775	1472600190101	1472600190213	o	79
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582778	1472600190149	1472600190261	p	80
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582782	1472600190229	1472600190309	s	83
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582787	1472600190325	1472600190405	 	32
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582792	1472600190549	1472600190661	c	67
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582802	1472600190613	1472600190664	l	76
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582806	1472600190725	1472600190788	o	79
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582810	1472600190805	1472600190916	s	83
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582813	1472600190868	1472600190964	e	69
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582818	1472600191012	1472600191124	d	68
+51042	558638	Sanaa appeared to be a ghost town with many shops closed.	Sanaa appeared to be a ghost town with many shops closed.	26582817	1472600191108	1472600191221	.	190
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582952	1472600192869	1472600193045	SHIFT	16
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582954	1472600192981	1472600193125	S	83
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582956	1472600193093	1472600193173	o	79
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582958	1472600193141	1472600193205	u	85
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582960	1472600193221	1472600193300	t	84
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582963	1472600193300	1472600193364	h	72
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582987	1472600193396	1472600193492	e	69
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582989	1472600193460	1472600193556	r	82
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582992	1472600193557	1472600193621	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582995	1472600193796	1472600193844	BKSP	8
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26582998	1472600193941	1472600194053	n	78
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583015	1472600194037	1472600194133	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583019	1472600194197	1472600194261	f	70
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583026	1472600194277	1472600194357	o	79
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583031	1472600194325	1472600194404	r	82
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583034	1472600194500	1472600194548	c	67
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583035	1472600194660	1472600194772	e	69
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583038	1472600194724	1472600194820	s	83
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583039	1472600194820	1472600194884	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583040	1472600194932	1472600195076	s	83
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583041	1472600195028	1472600195124	a	65
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583042	1472600195125	1472600195188	i	73
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583055	1472600195173	1472600195253	d	68
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583058	1472600195269	1472600195348	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583063	1472600195333	1472600195396	t	84
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583066	1472600195365	1472600195429	h	72
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583070	1472600195445	1472600195557	e	69
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583083	1472600195493	1472600195588	y	89
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583086	1472600195572	1472600195637	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583089	1472600195668	1472600195732	h	72
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583093	1472600195764	1472600195892	a	65
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583095	1472600195812	1472600195940	d	68
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583098	1472600195941	1472600196004	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583111	1472600196084	1472600196196	s	83
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583117	1472600196180	1472600196260	h	72
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583121	1472600196228	1472600196324	o	79
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583125	1472600196340	1472600196405	t	84
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583131	1472600196437	1472600196500	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583141	1472600196629	1472600196692	d	68
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583142	1472600196693	1472600196756	o	79
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583144	1472600196757	1472600196836	w	87
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583146	1472600196837	1472600196916	n	78
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583170	1472600196901	1472600196980	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583174	1472600196981	1472600197044	t	84
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583178	1472600197061	1472600197108	h	72
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583183	1472600197173	1472600197300	r	82
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583187	1472600197284	1472600197348	e	69
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583192	1472600197445	1472600197525	e	69
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583198	1472600197492	1472600197572	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583200	1472600197604	1472600197700	n	78
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583202	1472600197652	1472600197764	o	79
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583204	1472600197748	1472600197812	r	82
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583207	1472600197876	1472600197956	t	84
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583210	1472600197957	1472600198020	h	72
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583229	1472600198036	1472600198135	e	69
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583234	1472600198100	1472600198215	r	82
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583241	1472600198180	1472600198292	n	78
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583246	1472600198276	1472600198372	 	32
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583248	1472600198404	1472600198564	w	87
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583281	1472600198532	1472600198676	a	65
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583285	1472600198677	1472600198756	r	82
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583291	1472600198868	1472600198948	p	80
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583295	1472600198996	1472600199076	l	76
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583297	1472600199156	1472600199268	a	65
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583308	1472600199236	1472600199300	n	78
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583311	1472600199396	1472600199524	e	69
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583316	1472600199460	1472600199636	s	83
+51042	558651	Southern forces said they had shot down three northern warplanes.	Southern forces said they had shot down three northern warplanes.	26583320	1472600199556	1472600199748	.	190
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583437	1472600201476	1472600201652	SHIFT	16
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583439	1472600201604	1472600201653	M	77
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583441	1472600201732	1472600201860	a	65
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583443	1472600201780	1472600201893	n	78
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583445	1472600201860	1472600201956	 	32
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583447	1472600201972	1472600202100	SHIFT	16
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583451	1472600202036	1472600202116	I	73
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583457	1472600202103	1472600202180	 	32
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583466	1472600202181	1472600202276	d	68
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583475	1472600202228	1472600202340	o	79
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583484	1472600202292	1472600202420	n	78
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583503	1472600202341	1472600202452	'	222
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583506	1472600202404	1472600202468	t	84
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583511	1472600202453	1472600202548	 	32
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583517	1472600202564	1472600202692	w	87
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583528	1472600202644	1472600202741	a	65
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583521	1472600202677	1472600202740	n	78
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583533	1472600202788	1472600202836	t	84
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583540	1472600202839	1472600202916	 	32
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583544	1472600202917	1472600203012	t	84
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583546	1472600202980	1472600203092	o	79
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583548	1472600203044	1472600203124	 	32
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583553	1472600203172	1472600203252	g	71
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583568	1472600203284	1472600203380	e	69
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583570	1472600203348	1472600203444	t	84
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583573	1472600203396	1472600203492	 	32
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583576	1472600203508	1472600203620	s	83
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583582	1472600203604	1472600203652	i	73
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583584	1472600203684	1472600203780	c	67
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583587	1472600203748	1472600203845	k	75
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583593	1472600203812	1472600203893	 	32
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583596	1472600203860	1472600203972	a	65
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583608	1472600203956	1472600204084	g	71
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583614	1472600204036	1472600204148	a	65
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583621	1472600204084	1472600204180	i	73
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583627	1472600204148	1472600204228	n	78
+51042	558662	Man I don't want to get sick again.	Man I don't want to get sick again,.	26583631	1472600204308	1472600204388	.	188
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583735	1472600206004	1472600206164	SHIFT	16
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583737	1472600206100	1472600206196	A	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583739	1472600206276	1472600206388	s	83
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583741	1472600206404	1472600206484	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583746	1472600206516	1472600206580	t	84
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583752	1472600206596	1472600206644	h	72
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583761	1472600206660	1472600206740	e	69
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583764	1472600206724	1472600206820	y	89
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583766	1472600206772	1472600206884	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583770	1472600206900	1472600206964	u	85
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583773	1472600206996	1472600207108	s	83
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583779	1472600207044	1472600207111	e	69
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583780	1472600207188	1472600207268	d	68
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583781	1472600207236	1472600207316	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583782	1472600207348	1472600207428	t	84
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583783	1472600207412	1472600207492	o	79
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583792	1472600207460	1472600207540	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583794	1472600207572	1472600207700	s	83
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583798	1472600207652	1472600207748	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583803	1472600207716	1472600207828	y	89
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583807	1472600207796	1472600207892	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583811	1472600207924	1472600208004	o	79
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583834	1472600207988	1472600208068	f	70
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583835	1472600208069	1472600208148	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583836	1472600208133	1472600208292	SHIFT	16
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583837	1472600208212	1472600208340	G	71
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583838	1472600208436	1472600208548	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583840	1472600208836	1472600208900	n	78
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583842	1472600208948	1472600209012	d	68
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583895	1472600209076	1472600209124	h	72
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583897	1472600209332	1472600209412	i	73
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583900	1472600209556	1472600209652	,	188
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583904	1472600209620	1472600209700	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583913	1472600209716	1472600209796	SHIFT	16
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583919	1472600210068	1472600210116	BKSP	8
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583922	1472600210452	1472600210484	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583938	1472600210564	1472600210612	h	72
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583940	1472600210708	1472600210820	e	69
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583943	1472600210821	1472600210884	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583948	1472600211060	1472600211188	w	87
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583953	1472600211189	1472600211316	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583988	1472600211268	1472600211332	 	83
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583994	1472600211396	1472600211509	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583990	1472600211460	1472600211508	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26583999	1472600211572	1472600211668	m	77
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584004	1472600211812	1472600211940	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584011	1472600211972	1472600212020	h	72
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584095	1472600212132	1472600212212	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584101	1472600212404	1472600212452	BKSP	8
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584108	1472600212948	1472600213076	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584113	1472600213156	1472600213236	t	84
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584119	1472600213396	1472600213460	m	77
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584123	1472600213476	1472600213572	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584143	1472600213700	1472600213780	,	188
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584145	1472600213780	1472600213876	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584149	1472600214004	1472600214100	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584154	1472600214101	1472600214196	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584158	1472600214212	1472600214260	g	71
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584183	1472600214356	1472600214468	r	82
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584187	1472600214420	1472600214548	e	69
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584191	1472600214469	1472600214580	a	65
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584194	1472600214549	1472600214612	t	84
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584198	1472600214613	1472600214692	 	32
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584214	1472600214708	1472600214804	s	83
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584218	1472600214756	1472600214836	o	79
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584223	1472600214805	1472600214916	u	85
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584226	1472600214900	1472600215012	l	76
+51042	558667	As they used to say of Gandhi, he was a mahatma, a great soul.	As they used to say of Gandhi, he was a mahatma, a great soul,	26584231	1472600215127	1472600215204	,	188
