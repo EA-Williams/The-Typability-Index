@@ -4,6 +4,17 @@ author: "Emily Williams"
 output: html_document
 ---
 
+NOTE:
+
+For these scripts to work, you must follow the 3-step set-up instructions on the GitHub Repo's README: https://github.com/EA-Williams/The-Typability-Index/blob/main/README.md
+
+This includes downloading Dhakal et al.'s (2018) 136M Keystrokes Dataset from https://userinterfaces.aalto.fi/136Mkeystrokes/ into the required folder.
+
+These scripts are intended to be run chunk-by-chunk rather than knit.
+
+THIS PARTICULAR SCRIPT can be safely skipped, if the 3-step set-up instructions have been followed. It fixes issues with timestamp errors.
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE) 
 ```
@@ -17,8 +28,6 @@ library(here) # for tidy and stable file paths
 library(janitor) # for tidy variable names
 
 ```
-
-[[NOTE upon upload: For this to work, you must follow the setup instructions HERE, including downloading Dhakal et al.'s (2018) 136M Keystrokes Dataset from https://userinterfaces.aalto.fi/136Mkeystrokes/ into the required folder.]]
 
 I have defined timestamp errors as:
 
