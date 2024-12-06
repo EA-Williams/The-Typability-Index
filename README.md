@@ -1,7 +1,11 @@
 
 # The Typability Index
 
-This repo contains the R project for creating and testing The Typability Index, including scripts and generalisation data. **This project is not required to use [The Typability Index Web App](https://emily-a-williams.shinyapps.io/the-typability-index-web-app/)**. The accompanying paper is currently under review as of December 2024, and the pre-print can be viewed [here](https://osf.io/preprints/psyarxiv/qxuv5).
+Quick links: [Web App](https://emily-a-williams.shinyapps.io/the-typability-index-web-app/) | [Pre-print](https://osf.io/preprints/psyarxiv/qxuv5)
+
+---
+
+This repo contains the R project for creating and testing The Typability Index, including scripts and generalisation data. **This project is not required to use [Web App](https://emily-a-williams.shinyapps.io/the-typability-index-web-app/)**. The accompanying paper is currently under review as of December 2024 - view the [Pre-print](https://osf.io/preprints/psyarxiv/qxuv5).
 
 ### Datasets
 - **Training and Testing Dataset:** The 136M Keystrokes Dataset (Dhakal et al., 2018) must be ***downloaded manually*** (instructions below).
