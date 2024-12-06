@@ -7,6 +7,10 @@ This repo contains the R project for creating and testing The Typability Index, 
 - **Training and Testing Dataset:** The 136M Keystrokes Dataset (Dhakal et al., 2018) must be ***downloaded manually*** (instructions below).
 - **Generalisation Dataset:** Provided within this repository.
 
+### License
+
+This GitHub repository is licensed under CC BY-NC-SA 4.0 to comply with the stipulation of the 136M Keystrokes Dataset (Dhakal et al., 2018) of non-commercial research purposes only.
+
 ---
 
 ## Notes on the Scripts
