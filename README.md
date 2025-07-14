@@ -52,7 +52,7 @@ This repository includes only the amended files (67 manually fixed + 10,098 prog
 ### 2. Stitched Participant Speed File
 
 **Ignored File:**  
-`output/processed_data/ptps_sents_wpms/full_ptps_sents_wpms.txt`
+`output/processed_data/ptps_sents_inputs_wpms/full_ptps_sents_inputs_wpms.txt`
 
 This file contains every participant's speed for each of their 15 sentences, and is created by concatenating 34 other txt files (each containing 5000 participants, except the final file). 
 **Reason for Ignoring:** File size exceeds GitHub's 100MB limit.
