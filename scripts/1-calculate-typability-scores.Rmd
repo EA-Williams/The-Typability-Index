@@ -23,6 +23,7 @@ knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
 library(tidyverse) # for tidy data
 library(here) # for tidy and stable file paths
 library(janitor) # for tidy variable names
+library(stringdist) # for errors / accuracy
 
 ```
 
@@ -58,11 +59,12 @@ Load each participant's raw (keystroke-level) data, then capture for each typed 
 * participant id
 * what the sentence was
 * their words per minute (wpm) for the sentence
+* the sentece they typed (user_input)
 
 Do it in batches of 5000 participants, then stitch together later.
 
 
-```{r create participants_sentences_wpm}
+```{r create participants_sentences_input_wpm}
 
 # create a large dataframe that has a row for every sentence typed by every participant
 
@@ -115,24 +117,26 @@ for (batch in 1:n_batches) {
                   trans_dur_sec = (last(release_time) - first(press_time)) / 1000,
                   # convert to minutes
                   trans_dur_min = trans_dur_sec / 60,
+                  # keep the user_input
+                  user_input = first(user_input),
                   #remove the groups after
                   .groups = "drop") %>%
         # create columns for wpm for each sentence
         mutate(wpm_sent = words_transcribed / trans_dur_min) %>%
         # keep only these columns in this order
-        select(participant_id, sentence, wpm_sent)
+        select(participant_id, sentence, user_input, wpm_sent)
 
 
       # add the data to the running list
         if (ptp_n_in_batch == 1)
           {
           # if this is the first participant, the running list = their data
-            ptps_sents_wpms <- data_this_p
+            ptps_sents_inputs_wpms <- data_this_p
           }
           else
           {
             # otherwise add this Ps data to the running list
-            ptps_sents_wpms <- bind_rows(ptps_sents_wpms, data_this_p)
+            ptps_sents_inputs_wpms <- bind_rows(ptps_sents_inputs_wpms, data_this_p)
           }
       
       print(str_c(
@@ -157,13 +161,13 @@ for (batch in 1:n_batches) {
   } # for each ptp within a batch
 
   write.table(
-              ptps_sents_wpms,
+              ptps_sents_inputs_wpms,
               file = here(
                           "output",
                           "processed_data",
-                          "ptps_sents_wpms",
+                          "ptps_sents_inputs_wpms",
                           str_c(
-                                "ptps_sents_wpms__batch_",
+                                "ptps_sents_inputs_wpms__batch_",
                                 batch,
                                 "_of_",
                                 n_batches,
@@ -175,7 +179,7 @@ for (batch in 1:n_batches) {
 
 } # for each batch
 
-rm(data_this_p, ptps_sents_wpms)
+rm(data_this_p, ptps_sents_inputs_wpms)
 
 ```
 
@@ -192,9 +196,9 @@ for (batch in 1:n_batches)
   # read the data
   this_batch <- read_tsv(here("output",
                               "processed_data",
-                              "ptps_sents_wpms",
+                              "ptps_sents_inputs_wpms",
                               str_c(
-                                "ptps_sents_wpms__batch_",
+                                "ptps_sents_inputs_wpms__batch_",
                                 batch,
                                 "_of_34.txt")))
 
@@ -203,13 +207,13 @@ for (batch in 1:n_batches)
    if (batch == 1)
    {
    # if this is the first participant, the running list = their data
-     full_ptps_sents_wpms <- this_batch
+     full_ptps_sents_inputs_wpms <- this_batch
      
    }
    else
    {
      # otherwise add this Ps data to the running list
-     full_ptps_sents_wpms <- bind_rows(full_ptps_sents_wpms, this_batch)
+     full_ptps_sents_inputs_wpms <- bind_rows(full_ptps_sents_inputs_wpms, this_batch)
    }
 }
 
@@ -218,12 +222,12 @@ for (batch in 1:n_batches)
 rm(this_batch)
 
   write.table(
-              full_ptps_sents_wpms,
+              full_ptps_sents_inputs_wpms,
               file = here(
                           "output",
                           "processed_data",
-                          "ptps_sents_wpms",
-                          "full_ptps_sents_wpms.txt"),
+                          "ptps_sents_inputs_wpms",
+                          "full_ptps_sents_inputs_wpms.txt"),
               sep = '\t',
               quote = FALSE,
               row.names = FALSE
@@ -235,11 +239,11 @@ Alternatively, just load the sentences data.
 
 ```{r load_sentences_data}
 
-full_ptps_sents_wpms <- read_tsv(here(
+full_ptps_sents_inputs_wpms <- read_tsv(here(
                           "output",
                           "processed_data",
-                          "ptps_sents_wpms",
-                          "full_ptps_sents_wpms.txt"))
+                          "ptps_sents_inputs_wpms",
+                          "full_ptps_sents_inputs_wpms.txt"))
 
 ```
 
@@ -258,7 +262,7 @@ Then group by sentence and average the z-scores together, which is the "typabili
 # so it is on average, how many standard deviations this sentence's wpm is above or below a typist's mean
 
 
-sents_typabilities <- full_ptps_sents_wpms %>%
+sents_typabilities <- full_ptps_sents_inputs_wpms %>%
   group_by(participant_id) %>%
   mutate(
     mean_wpm_sent_ptp = mean(wpm_sent),
@@ -276,17 +280,17 @@ sents_typabilities <- full_ptps_sents_wpms %>%
   # keep only these columns in this order
   select(sent_id, sentence, typability_z, n_typists)
 
-rm(full_ptps_sents_wpms)
+rm(full_ptps_sents_inputs_wpms)
 
 # write typabilities to file
 
-  write.table(
+write.table(
               sents_typabilities,
               file = here(
                           "output",
                           "processed_data",
                           "dhakal_typabilities",
-                          "dhakal_typabilities.txt"),
+                          "all_dhakal_typabilities.txt"),
               sep = '\t',
               quote = FALSE,
               row.names = FALSE
@@ -302,7 +306,7 @@ just_sents <- sents_typabilities %>%
                           "output",
                           "processed_data",
                           "dhakal_sentences",
-                          "dhakal_sentences.txt"),
+                          "all_dhakal_sentences.txt"),
               sep = '\t',
               quote = FALSE,
               row.names = FALSE
@@ -310,3 +314,60 @@ just_sents <- sents_typabilities %>%
 
 
 ```
+
+Now calculate the mean error rate for each sentence and determine which sentences to exclude based on a high error rate (Reviewer suggestion).
+
+First remove the presented sentences that had typos in them [See Appendix 2]
+
+```{r mean_error_rate}
+
+full_ptps_sents_inputs_wpms <- read_tsv(here(
+                          "output",
+                          "processed_data",
+                          "ptps_sents_inputs_wpms",
+                          "full_ptps_sents_inputs_wpms.txt"))
+
+mean_error <- full_ptps_sents_inputs_wpms %>%
+    mutate(lev_dist = stringdist(sentence, user_input),
+           error_rate = lev_dist / nchar(sentence),
+           acc_rate = 1 - error_rate) %>%
+  group_by(sentence) %>%
+  summarise(mean_lev_dist = mean(lev_dist),
+            mean_acc_rate = mean(acc_rate),
+            sd_acc_rate = sd(acc_rate)
+            ) %>%
+  ungroup()
+
+
+# load the presented sentences that had errors (e.g. typos) [See Appendix 2]
+presentedSentsTypos <- read_csv(here("data", "error_presented_sentences",
+                             "presentedSentencesWithErrors.csv"))
+
+mean_error_minus_erroneous <- mean_error %>%
+filter(!(sentence %in% presentedSentsTypos$sentence))
+
+
+# get the 5% least accurately typed sentences based on Levenshtein edit distance
+
+most_errorful_mean_error_me <- mean_error_minus_erroneous %>%
+  mutate(p_rank = percent_rank(mean_acc_rate)) %>%
+  filter(p_rank < 0.05)
+
+# save file
+
+most_errorful_sentences <- most_errorful_mean_error_me %>%
+  select(sentence)
+
+
+write.table(most_errorful_sentences,
+              file = here(
+                          "data",
+                          "least_accurate_sentences",
+                          "top_5%_errorful_sentences.txt"),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
+
+```
+

@@ -377,7 +377,7 @@ data_6b_byWord <- select(data_5_withSylls, sentNum, sentence) %>%
   mutate(wordNum = 1:n()) %>%
   ungroup()
 
-data_6b_wordFreqs <- data_6b_byWord %>%
+data_6c_wordFreqs <- data_6b_byWord %>%
   mutate(word_trimmedPunct_lower_apostOff = case_when(
     # if the last two chars are in this list, remove them
     str_sub(word_trimmedPunct_lower, start = -2) %in% c("'s", "'m", "'d") ~ 
@@ -392,16 +392,75 @@ data_6b_wordFreqs <- data_6b_byWord %>%
     # how many chars for the words in the top 1000?
     freqWordChars = if_else(top1000lemm == 1, nchar(word_trimmedPunct_lower), NA_real_))
 
-data_6c_sentWordFreqs <- data_6b_wordFreqs %>%
+data_6d_sentWordFreqs <- data_6c_wordFreqs %>%
   group_by(sentNum, sentence) %>%
   summarise(highFreqWordProp = mean(top1000lemm),
             highFreqWordCharProp = sum(freqWordChars, na.rm = TRUE) / nchar(first(sentence))) %>%
   ungroup()
 
-data_6_withWordFreqs <- left_join(data_5_withSylls, data_6c_sentWordFreqs)
+data_6_withWordFreqs <- left_join(data_5_withSylls, data_6d_sentWordFreqs)
 
 print("---Done.")
 
+
+## new ##
+
+print("Calculating the mean word frequency for each sentence.")
+
+# read in the word freq info (from reviewer)
+subtlex <- read_tsv(here("data", "predictor_calculation_aids",
+                         "SUBTLEXus74286wordstextversion.txt"),
+                    show_col_types = FALSE) %>%
+  # convert to lowercase for case insensitivity (sentence words also converted to lower case)
+  mutate(Word = tolower(Word))
+
+# split the sentences into words
+data_6e_byWord <- select(data_5_withSylls, sentNum, sentence) %>%
+  # words are things between spaces
+  mutate(word = strsplit(sentence, " ")) %>%
+  unnest(word) %>%
+  # do it again but with commas as sometimes there isn't a space after a comma
+  mutate(word = strsplit(word, ",")) %>%
+  unnest(word) %>%
+  # clean the apostrophes
+  mutate(word = str_replace_all(word,
+    pattern = "[’‘`ʹʼ＇]",  replacement = "'")) %>%
+  # do it again but now split along the apostrophe, to match with the word freq database
+  mutate(word = strsplit(word, "'")) %>%
+  unnest(word) %>%
+  # if the "word" doesn't end in a letter or number, remove that character(s)
+  mutate(word_trimmedPunct = str_replace(word,
+                                        "[^A-Za-z0-9]+$",
+                                        ""),
+  # if the "word" doesn't start with a number of letter, remove that character(s)
+         word_trimmedPunct = str_replace(word_trimmedPunct,
+                                        "^[^A-Za-z0-9]+",
+                                        ""),
+    # lowercase word (will search for all cases - e.g. if the word is at the
+    # start of a sentence so has a capital, don't only want to get the word
+    # frequency of when the word has a capital- want general word frequency
+    word_trimmedPunct_lower = tolower(word_trimmedPunct)) %>%
+  # get rid of rows that are empty (e.g. was a double space or a comma in
+  # the wrong place
+  filter(word_trimmedPunct_lower != "") %>%
+  group_by(sentNum) %>%
+  mutate(wordNum = 1:n()) %>%
+  ungroup()
+
+# add on the word frequencies
+data_6f_wordFreqs <- data_6e_byWord %>%
+  left_join(select(subtlex, Word, FREQcount),
+            by = c("word_trimmedPunct_lower" = "Word")) %>%
+  mutate(FREQcount = if_else(is.na(FREQcount), 0, FREQcount))
+
+data_6g_sentWordFreqs <- data_6f_wordFreqs %>%
+  group_by(sentNum, sentence) %>%
+  summarise(meanWordFreq = mean(FREQcount)) %>%
+  ungroup()
+
+data_6_withWordFreqs <- left_join(data_6_withWordFreqs, data_6g_sentWordFreqs)
+
+print("---Done.")
 
 
 print("Calculating the proportion of words that are not recognised as real words.")
@@ -427,253 +486,9 @@ data_7_withNonDictWords <- left_join(data_6_withWordFreqs, data_7c_sentNonDictWo
 print("---Done.")
 
 
-
-print("Calculating the path distances for four typing strategies.")
-
-
-data_8b_sentChars <- sentencesDF %>%
-  mutate(character = str_split(sentence, "")) %>%
-  unnest(character) %>%
-  # give each char a number
-  group_by(sentNum) %>% 
-  mutate(charNum = row_number()) %>%
-  ungroup()
-
-data_8c_sentCharsNoSpaces <- data_8b_sentChars %>%
-  filter(character != " ")
-
-data_8d_numKeys <- nrow(keyboardInfo)
-
-# create two lists of every keyboard character
-data_8temp_character1 <- rep(keyboardInfo$character, each = data_8d_numKeys) %>% 
-  as.data.frame() %>% rename(character1 = 1)
-data_8temp_character2 <- rep(keyboardInfo$character, times = data_8d_numKeys) %>% 
-  as.data.frame() %>% rename(character2 = 1)
-
-# create the combos and add the key distances
-data_8e_keyDists <- data.frame(data_8temp_character1, data_8temp_character2) %>%
-  left_join(select(keyboardInfo, character, xKeyCentre, yKeyCentre),
-            join_by("character1" == "character")) %>%
-  rename(xKeyCentre1 = xKeyCentre,
-         yKeyCentre1 = yKeyCentre) %>%
-  left_join(select(keyboardInfo, character, xKeyCentre, yKeyCentre),
-            join_by("character2" == "character")) %>%
-  rename(xKeyCentre2 = xKeyCentre,
-         yKeyCentre2 = yKeyCentre) %>%
-  # calculate the distances between each key pair
-  mutate(bigram = paste(character1, character2, sep = ""),
-         keyDist = sqrt((xKeyCentre2 - xKeyCentre1)^2 + (yKeyCentre2 - yKeyCentre1)^2),
-         keyDistMM = keyDist * 19.05) %>%
-  select(-c(xKeyCentre1, xKeyCentre2, yKeyCentre1, yKeyCentre2))
-
-rm(data_8temp_character1, data_8temp_character2)
-
-
-
-
-
-# this is a dataframe that will at the end just be the shifts, and will be binded (bound?) together with the sent Chars
-data_8f_sentCharsShifts <- data_8c_sentCharsNoSpaces %>%
-  # add on standard hand and shift
-  left_join(select(keyboardInfo, character, standardHand, shiftNeeded),
-            by = join_by(character)) %>%
-  # filter to just shift needed
-  filter(shiftNeeded == TRUE) %>%
-  # assign a character number for the shift - to be before the key that needs to be shifted
-  mutate(charNum = charNum - 0.5,
-         # also set the character as the opposite shift
-         character = if_else(standardHand == "left", "ℛ", "ℒ")) %>%
-  select(-c(standardHand, shiftNeeded))
-
-# bind and order
-data_8g_sentCharsNoSpacesWithShifts <- rbind(data_8c_sentCharsNoSpaces, data_8f_sentCharsShifts) %>%
-  arrange(sentNum, charNum)
-
-
-
-
-# single path = add up all distances, assume other hand for shift 
-
-
-data_8h_onePath <- sentencesDF %>%
-  # remove the spaces (assume typed with thumb)
-  mutate(sentenceNoSpaces = str_replace_all(sentence, " ", "")) %>%
-  # separate out the  bigrams
-  mutate(bigram = lapply(sentenceNoSpaces, str_split_bigrams)) %>%
-  unnest(bigram) %>%
-  # give each bigram a bigram number
-  group_by(sentNum) %>% 
-  mutate(bigramNum = row_number()) %>%
-  ungroup() %>%
-  # add key distances
-  left_join(select(data_8e_keyDists, bigram, keyDist), by = join_by(bigram))
-
-data_8i_onePathSumm <- data_8h_onePath %>%
-  group_by(sentNum) %>%
-  summarise(sentence = first(sentence),
-            #pathText = first(pathText),
-            pathLength = sum(keyDist)) %>%
-  ungroup() %>%
-  group_by(sentNum) %>%
-  mutate(totalSinglePathLength = sum(pathLength, na.rm = TRUE)) %>%
-  ungroup()
-
-data_8j_onePathTotals <- select(data_8i_onePathSumm, -pathLength)
-
-
-
-
-
-
-# two paths =
-# group by standard hand
-# determine bigrams
-# add up distances
-
-data_8k_twoPaths <- data_8g_sentCharsNoSpacesWithShifts %>%
-  # add on other cols (standard hand)
-  left_join(select(keyboardInfo, character, standardHand),
-            by = join_by(character)) %>%
-  # determine the characters in each path (hand)
-  group_by(sentNum, standardHand) %>%
-  mutate(pathText = paste0(character, collapse = "")) %>%
-  # remove some columns and get to one row per path (hand)
-  ungroup() %>%
-  select(-c(character, charNum)) %>%
-  unique() %>%
-  # separate out the bigrams of each path
-  mutate(bigram = lapply(pathText, str_split_bigrams)) %>%
-  unnest(bigram) %>%
-  # group by standard hand
-  group_by(sentNum, standardHand) %>% 
-  mutate(bigramNum = row_number()) %>%
-  ungroup() %>%
-  # add distances
-  left_join(select(data_8e_keyDists, bigram, keyDist), by = join_by(bigram))
-
-data_8l_twoPathsSumm <- data_8k_twoPaths %>%
-  group_by(sentNum, standardHand) %>%
-  # for each standard hand, determine the path and sum the distances
-  summarise(sentence = first(sentence),
-            pathText = first(pathText),
-            pathLength = sum(keyDist)) %>%
-  ungroup() %>%
-  group_by(sentNum) %>%
-  mutate(totalDualPathLength = sum(pathLength, na.rm = TRUE)) %>%
-  ungroup()
-
-data_8m_twoPathsTotals <- data_8l_twoPathsSumm %>%
-  select(sentNum, sentence, totalDualPathLength) %>%
-  unique()
-
-
-
-# four paths =
-# group by standard finger
-# change fingers to supposed fingers
-# determine bigrams
-# add up distances
-
-data_8n_fourPaths <- data_8g_sentCharsNoSpacesWithShifts %>%
-  # add on other cols (standard finger)
-  left_join(select(keyboardInfo, character, standardFinger),
-            by = join_by(character)) %>%
-  # determine the supposed finger
-  mutate(supposedFinger = case_when(
-    standardFinger %in% c(0, 1) ~ 2,
-    standardFinger %in% c(2, 3) ~ 3,
-    standardFinger == 5 ~ 5,
-    standardFinger %in% c(6, 7) ~ 6,
-    standardFinger %in% c(8, 9) ~ 7)) %>%
-  select(-standardFinger) %>%
-  group_by(sentNum, supposedFinger) %>%
-  mutate(pathText = paste0(character, collapse = "")) %>%
-  ungroup() %>%
-  select(-c(character, charNum)) %>%
-  unique() %>%
-  # separate out the  bigrams
-  mutate(bigram = lapply(pathText, str_split_bigrams)) %>%
-  unnest(bigram) %>%
-  # group by standard finger
-  group_by(sentNum, supposedFinger) %>% 
-  mutate(bigramNum = row_number()) %>%
-  ungroup() %>%
-  # add distances
-  left_join(select(data_8e_keyDists, bigram, keyDist), by = join_by(bigram))
-  
-data_8o_fourPathsSumm <- data_8n_fourPaths %>%
-    group_by(sentNum, supposedFinger) %>%
-    # for each standard finger, determine the path and sum the distances
-    summarise(sentence = first(sentence),
-              pathText = first(pathText),
-              pathLength = sum(keyDist)) %>%
-    ungroup() %>%
-    group_by(sentNum) %>%
-    mutate(totalQuadPathLength = sum(pathLength, na.rm = TRUE)) %>%
-  ungroup()
-  
-data_8p_fourPathsTotals <- data_8o_fourPathsSumm %>%
-    select(sentNum, sentence, totalQuadPathLength) %>%
-    unique()
-  
-
-
-# touch typing = 
-# group by standard finger
-# then same as above
-
-data_8q_touchPaths <- data_8g_sentCharsNoSpacesWithShifts %>%
-  # add on other cols (standard finger)
-  left_join(select(keyboardInfo, character, standardFinger),
-            by = join_by(character)) %>%
-  # determine the characters in each path (finger)
-  group_by(sentNum, standardFinger) %>%
-  mutate(pathText = paste0(character, collapse = "")) %>%
-  # remove some columns and get to one row per path (hand)
-  ungroup() %>%
-  select(-c(character, charNum)) %>%
-  unique() %>%
-  # separate out the  bigrams for each path
-  mutate(bigram = lapply(pathText, str_split_bigrams)) %>%
-  unnest(bigram) %>%
-  # group by standard finger
-  group_by(sentNum, standardFinger) %>% 
-  mutate(bigramNum = row_number()) %>%
-  ungroup() %>%
-  # add distances
-  left_join(select(data_8e_keyDists, bigram, keyDist), by = join_by(bigram))
-
-data_8r_touchPathsSumm <- data_8q_touchPaths %>%
-  group_by(sentNum, standardFinger) %>%
-  # for each standard finger, determine the path and sum the distances
-  summarise(sentence = first(sentence),
-            pathText = first(pathText),
-            pathLength = sum(keyDist)) %>%
-  ungroup() %>%
-  group_by(sentNum) %>%
-  mutate(totalOctoPathLength = sum(pathLength, na.rm = TRUE)) %>%
-  ungroup()
-
-data_8s_touchPathsTotals <- data_8r_touchPathsSumm %>%
-  select(sentNum, sentence, totalOctoPathLength) %>%
-  unique()
-
-
-# combine totals
-data_8t_pathTotals <- left_join(data_8j_onePathTotals, data_8m_twoPathsTotals,
-                                by = join_by(sentNum, sentence)) %>%
-    left_join(data_8p_fourPathsTotals, by = join_by(sentNum, sentence)) %>%
-    left_join(data_8s_touchPathsTotals, by = join_by(sentNum, sentence))
-  
-# add to other predictors df
-
-data_8_withTotalPathLengths <- left_join(data_7_withNonDictWords, data_8t_pathTotals) 
-
-
-
 options(dplyr.summarise.inform = TRUE)
 
-data_9_predictorVariables <- select(data_8_withTotalPathLengths,
+data_8_predictorVariables <- select(data_7_withNonDictWords,
                                     sentNum,
                                     sentence,
                                     numChars,
@@ -684,6 +499,7 @@ data_9_predictorVariables <- select(data_8_withTotalPathLengths,
                                     meanWordLengthPropSent,
                                     highFreqWordProp,
                                     highFreqWordCharProp,
+                                    meanWordFreq,
                                     propWordsNonDictWords,
                                     propCharsNonDictWords,
                                     meanSyllsPerWord,
@@ -704,13 +520,9 @@ data_9_predictorVariables <- select(data_8_withTotalPathLengths,
                                     symbolsPropNonSpace,
                                     meanStrokesPerChar,
                                     propRightHand,
-                                    aveDistFromHomeRow,
-                                    totalSinglePathLength,
-                                    totalDualPathLength,
-                                    totalQuadPathLength,
-                                    totalOctoPathLength)
+                                    aveDistFromHomeRow)
 
-return(data_9_predictorVariables)
+return(data_8_predictorVariables)
 
 beep()
  
@@ -727,7 +539,7 @@ dataSentences <- read_tsv(here(
                           "output",
                           "processed_data",
                           "dhakal_sentences",
-                          "dhakal_sentences.txt"))
+                          "all_dhakal_sentences.txt"))
 
 # calculate the predictor variables based off the sentences
 dataPredictors <- calculatePredictorVariables(dataSentences$sentence)

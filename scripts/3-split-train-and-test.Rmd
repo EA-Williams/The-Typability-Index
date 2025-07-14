@@ -56,20 +56,38 @@ lowerFn <-  function(data, mapping, ...){
 presentedSentsTypos <- read_csv(here("data", "error_presented_sentences",
                              "presentedSentencesWithErrors.csv"))
 
+# load the top 5% most errorful sentences (reviewer suggestion)
+presentedSentsMostErrorful <- read_tsv(here("data", "least_accurate_sentences",
+                             "top_5%_errorful_sentences.txt"))
+
+
+
 # read the sentences with outcome variable (typability)
 dataOutcome <- read_tsv(here("output", "processed_data", 
-                             "dhakal_typabilities", "dhakal_typabilities.txt"))
+                             "dhakal_typabilities", "all_dhakal_typabilities.txt"))
 
 # load the predictor variables
 dataPredictors <- read_tsv(here("output", "processed_data", 
                              "all_dhakal_sentences_with_predictors.txt"))
 
-# join them and then filter out the erroneous sentences
+# join them and then filter out the erroneous sentences and most errorful
 dataOutPred <- left_join(dataOutcome, dataPredictors, by = c("sentence",
                                                              "sent_id" = "sentNum")) %>%
-  filter(!(sentence %in% presentedSentsTypos$sentence)) 
+  filter(!(sentence %in% presentedSentsTypos$sentence)) %>%
+  filter(!(sentence %in% presentedSentsMostErrorful$sentence)) 
 
+dhakal_typabilities_post_filter <- select(dataOutPred, sent_id, sentence, typability_z, n_typists)
 
+write.table(dhakal_typabilities_post_filter,
+              file = here(
+                          "output",
+                          "processed_data",
+                          "dhakal_typabilities",
+                          "dhakal_typabilities_post_both_filters.txt"),
+              sep = '\t',
+              quote = FALSE,
+              row.names = FALSE
+              )
 
 # split the dataset into training sentences (80%) and testing sentences (20%)
 
@@ -79,8 +97,7 @@ dataTraining <- sample_frac(dataOutPred, 0.8)
 dataTesting <- setdiff(dataOutPred, dataTraining)
 
 # remove other data
-rm(dataOutcome, dataPredictors, dataOutPred, presentedSentsTypos,
-   trainingSentences, testingSentences)
+rm(dataOutcome, dataPredictors, dataOutPred, presentedSentsTypos)
 
 ```
 
@@ -98,7 +115,7 @@ dataTrainingNums <- dataTraining %>%
 
 # dataTrainingPlotPredictors <- dataTrainingNums %>%
 # select(predictors, of, interest))
-
+ 
 # ggpairs(
 #   dataTrainingPlotPredictors, lower = list(continuous = wrap(lowerFn))
 # )
@@ -190,22 +207,21 @@ beep()
 
 # remove the less important versions
 dataTrainingAllSetMembers <- dataTrainingAllVersionsAndSetMembers %>%
-  select(-c(lowercaseProp,        # propNonSpace set is better
-            uppercaseProp,        # propNonSpace set is better
-            numbersProp,          # propNonSpace set is better
-            symbolsProp,          # propNonSpace set is better
-            spacesProp,           # propNonSpace set is better
-            highFreqWordCharProp, # highFreqWordProp better
-            propBiTop15,          # biFreqMean is better
-            totalSinglePathLength,# totalDualPathLength is better
-            totalQuadPathLength,  # totalDualPathLength is better
-            totalOctoPathLength,   # totalDualPathLength is better
-            meanStrokesPerChar,   # meanStrokesPerWord is better
-            meanWordLength,       # meanStrokesPerWord is better
-            meanWordLengthPropSent, # meanStrokesPerWord is better
-            propWordsNonDictWords,# propCharsNonDictWords is better
-            numChars              # minStrokes is better
-            ))
+  select(-c(
+    meanWordFreq,         # highFreqWordProp is better
+    highFreqWordCharProp, # highFreqWordProp better
+    lowercaseProp,        # propNonSpace set is better
+    uppercaseProp,        # propNonSpace set is better
+    numbersProp,          # propNonSpace set is better
+    symbolsProp,          # propNonSpace set is better
+    spacesProp,           # propNonSpace set is better
+    numChars,             # minStrokes is better
+    meanStrokesPerChar,   # meanStrokesPerWord is better
+    meanWordLength,       # meanStrokesPerWord is better
+    meanWordLengthPropSent,# meanStrokesPerWord is better
+    propBiTop15,          # biFreqMean is better
+    propWordsNonDictWords # propCharsNonDictWords is better
+    ))
 
 set.seed(42)
 
@@ -222,19 +238,18 @@ varImpPlot(forestAllSetMembers)
 
 beep()
 
-# use top 11 (an inflection point), based on MSE
+# use top 10 (an inflection point), based on MSE
 modelAllSetMembers <- lm(typability_z ~ 
-                           lowercasePropNonSpace +
-                           highFreqWordProp +
-                           totalDualPathLength +
-                           biFreqMean +
-                           symbolsPropNonSpace +
-                           meanStrokesPerWord +
-                           meanSyllsPerWord +
-                           uppercasePropNonSpace +
-                           minStrokes +
-                           propCharsNonDictWords +
-                           numActualWords,
+                         highFreqWordProp +
+                         lowercasePropNonSpace +
+                         symbolsPropNonSpace +
+                         minStrokes +
+                         meanStrokesPerWord +
+                         biFreqMean +
+                         uppercasePropNonSpace +
+                         meanSyllsPerWord +
+                         propCharsNonDictWords +
+                         numActualWords,
                            data = dataTrainingAllSetMembers)
 summary(modelAllSetMembers)
 check_model(modelAllSetMembers)
@@ -245,9 +260,7 @@ multicollinearity(modelAllSetMembers)
 # remove variables causing multicollinearity issues
 
 dataTrainingBestOfSetsAndVersions <- dataTrainingAllSetMembers %>%
-  select(-c(numActualWords, # removing this because lowest importance of the strokes set - multicollinearity fix
-            minStrokes #multicollinearity fix - clashing with the better predictor of dualpath
-    ))
+  select(-c(meanStrokesPerWord, numActualWords))
     
 set.seed(42)
 
@@ -263,21 +276,19 @@ varImpPlot(forestBestOfSetsAndVersions)
 
 beep()
 
-
-
-# use top 10 (an inflection point), based on MSE
+# use top 9 (an inflection point), based on MSE
+# 1 not signif so using 8
 modelBestOfSetsAndVersions <- lm(
   typability_z ~
-    lowercasePropNonSpace +
-    totalDualPathLength +
     highFreqWordProp +
-    biFreqMean +
+    minStrokes +
+    lowercasePropNonSpace +
     symbolsPropNonSpace +
-    meanStrokesPerWord +
     meanSyllsPerWord +
-    uppercasePropNonSpace + 
+    # uppercasePropNonSpace + # not sig
+    biFreqMean +
     propCharsNonDictWords +
-    propRightHand,
+    propRightHand, 
   data = dataTrainingBestOfSetsAndVersions
 )
 summary(lm.beta(modelBestOfSetsAndVersions)) # with standardised betas
@@ -302,10 +313,10 @@ ggplot(plotdata_m2, aes(x = actual, y = fitted)) +
   xlab("Actual Typability") +
   ylab("Fitted Typability")
 
-# check against other models
+# check against other models (post-review, the models aren't nested)
 
-anova(model0, model1, model2)
-anova(model1, model2)
+#anova(model0, model1, model2)
+#anova(model1, model2)
 AIC(model0, model1, model2)
 
 save(model2, file = here("output", "typability-index-model.RData"))
