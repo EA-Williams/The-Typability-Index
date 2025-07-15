@@ -44,12 +44,28 @@ add_cols <- function(df, cols) {
   return(df)
 }
 
+# function to standardise symbols
+standardiseSymbols <- function(sentencesDF) {
+  
+  sentencesDF <- sentencesDF %>%
+    mutate(across(1, ~ .x %>%
+      str_replace_all("\u00A0|\u202F", " ") %>%           # non-breaking & narrow no-break spaces -> space
+      str_replace_all("[\u2013\u2014\u2212]", "-") %>%    # en/em dash, minus sign -> hyphen
+      str_replace_all("[\u2018\u2019\u02BC]", "'") %>%    # curly apostrophes -> straight
+      str_replace_all("[\u201C\u201D\u00AB\u00BB]", "\"") %>% # curly and angled quotes -> straight
+      str_replace_all("\u2026", "...") %>%                # ellipsis -> ...
+      str_replace_all("\u00D7", "x")                      # multiplication sign -> 'x'
+    )) 
+}
+
 # function to calculate the predictor variables
 calculatePredictorVariables <- function(sentencesDF) {
   
   # wants only a 1d df with the first column as sentences
   
   options(dplyr.summarise.inform = FALSE)
+  
+  sentencesDF <- standardiseSymbols(as.data.frame(sentencesDF))
   
   sentencesDF <- as.data.frame(sentencesDF) %>%
     rename(sentence = 1) %>%
